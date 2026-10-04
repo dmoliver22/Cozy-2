@@ -1,10 +1,10 @@
 import { h } from 'preact';
-import { useState, useEffect } from 'preact/hooks';
+import { useState, useEffect, useRef } from 'preact/hooks';
 import { CRITERIA, DEFAULT_WEIGHTS, DEFAULT_PREFERENCES, AUDIENCE } from '../core/constants.js';
 import { normalizeWeights } from '../core/scoring.js';
 import { latestChanges, diffSnapshots } from '../core/changes.js';
 import { JOB_TYPES, jobHealth } from '../data/jobs.js';
-import { SCHEDULES, scheduleFromCron, cronFor } from '../data/worker.js';
+import { SCHEDULES, scheduleFromCron, cronFor, runStatus } from '../data/worker.js';
 import { ActionChip, ConfidenceMark, ScoreMeter, Icon, Empty, relTime, fmtDateTime } from './bits.jsx';
 import { ChangeLine } from './detail.jsx';
 
@@ -313,7 +313,7 @@ function WorkerStatusLine({ workerInfo }) {
     <div class="notice">
       <span>
         Research worker connected.{' '}
-        {trigger?.last_run ? `Last run ${relTime(trigger.last_run.fired_at)} (${String(trigger.last_run.status || '').toLowerCase()}).` : 'No runs recorded yet.'}
+        {trigger?.last_run ? `Last run ${relTime(trigger.last_run.fired_at)} (${runStatus(trigger.last_run.status)}).` : 'No runs recorded yet.'}
       </span>
     </div>
   );
@@ -325,7 +325,11 @@ export function SettingsView({ settings, onSave, canWrite, workerInfo, onLoadTri
   const [draft, setDraft] = useState(prefs);
   const [weights, setWeights] = useState({ ...DEFAULT_WEIGHTS, ...(settings?.weights || {}) });
   const [saved, setSaved] = useState('');
+  // Reload the form only when stored settings change after mount, so typing is never clobbered.
+  const seen = useRef(settings?.updatedAt);
   useEffect(() => {
+    if (seen.current === settings?.updatedAt) return;
+    seen.current = settings?.updatedAt;
     setDraft({ ...DEFAULT_PREFERENCES, ...(settings?.preferences || {}) });
     setWeights({ ...DEFAULT_WEIGHTS, ...(settings?.weights || {}) });
   }, [settings?.updatedAt]);
@@ -514,7 +518,7 @@ function WorkerSettings({ workerInfo, onLoad, onSaveSchedule, scheduleState, can
           {trigger ? (
             <>
               <dt>Last on-demand run</dt>
-              <dd>{trigger.last_run ? `${fmtDateTime(trigger.last_run.fired_at)} · ${String(trigger.last_run.status || '').toLowerCase()}` : 'None recorded'}</dd>
+              <dd>{trigger.last_run ? `${fmtDateTime(trigger.last_run.fired_at)} · ${runStatus(trigger.last_run.status)}` : 'None recorded'}</dd>
             </>
           ) : null}
           {scheduleTrigger ? (
@@ -525,7 +529,7 @@ function WorkerSettings({ workerInfo, onLoad, onSaveSchedule, scheduleState, can
                 {scheduleTrigger.enabled && scheduleTrigger.next_run_at ? ` · next run ${fmtDateTime(scheduleTrigger.next_run_at)}` : ''}
               </dd>
               <dt>Last scheduled run</dt>
-              <dd>{scheduleTrigger.last_run ? `${fmtDateTime(scheduleTrigger.last_run.fired_at)} · ${String(scheduleTrigger.last_run.status || '').toLowerCase()}` : 'None recorded'}</dd>
+              <dd>{scheduleTrigger.last_run ? `${fmtDateTime(scheduleTrigger.last_run.fired_at)} · ${runStatus(scheduleTrigger.last_run.status)}` : 'None recorded'}</dd>
             </>
           ) : null}
         </dl>

@@ -53,6 +53,11 @@ export function cronFor(scheduleId, tz) {
   return tz ? `CRON_TZ=${tz} ${s.cron}` : s.cron;
 }
 
+/** "ROUTINE_RUN_STATUS_SUCCEEDED" -> "succeeded". */
+export function runStatus(status) {
+  return String(status || 'unknown').replace(/^ROUTINE_RUN_STATUS_/, '').replace(/_/g, ' ').toLowerCase();
+}
+
 export function scheduleFromCron(cron) {
   if (!cron) return 'off';
   const bare = cron.replace(/^CRON_TZ=\S+\s+/, '');

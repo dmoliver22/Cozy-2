@@ -100,8 +100,8 @@ await mkdir(`${outDir}/docs`, { recursive: true });
 const writes = [];
 for (const d of docs) {
   const [collection, doc_id] = d.path.split('/');
-  const file = `${outDir}/docs/${collection}__${doc_id}.json`;
-  await writeFile(file, JSON.stringify(d.data, null, 2));
+  const file = `research/seed/docs/${collection}__${doc_id}.json`;
+  await writeFile(`${root}${file}`, JSON.stringify(d.data, null, 2));
   writes.push({ op: 'set', collection, doc_id, file_path: file });
 }
 const batches = [];
