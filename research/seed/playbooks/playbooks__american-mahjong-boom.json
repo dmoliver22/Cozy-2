@@ -1,0 +1,570 @@
+{
+  "id": "american-mahjong-boom",
+  "candidateId": "american-mahjong-boom",
+  "products": [
+    {
+      "index": 0,
+      "themeKey": "Beginner class kit: editable 3-session lesson handouts (tile",
+      "productName": "Beginner Mahjong Class Kit (for instructors)",
+      "superPrompt": "You are an experienced American-style mahjong instructor and a print designer. Write the complete content for a sellable, Canva-editable \"Beginner Mahjong Class Kit\" a new teacher can brand and use next week.\n\nBUYER AND JOB: New independent mahjong instructors and club hosts running paid beginner classes. Classes fill faster than they can prepare; this kit gives them a ready 3-session course, handouts, admin sheets and promo templates under their own brand.\n\nDELIVERABLE (US Letter 8.5x11 in portrait unless noted; I will also make an A4 copy, so keep 0.5 in margins and nothing essential in the outer 0.25 in):\n1. Cover: \"Beginner Mahjong Class Kit\" with an editable [YOUR CLASS NAME] line.\n2. Instructor guide (1 page): how to use the kit, materials for 4 tables of 4, a 90-minute session format.\n3. Session plans 1-3 (1 page each): goals, minute-by-minute agenda, demo script, 5 common mistakes, take-home practice.\n4. Student handouts:\n- Session 1 \"Meet the Tiles\": a 2-page tile ID chart for a 152-tile American set (Dots, Bams, Craks 1-9, Winds, Dragons, Flowers, Jokers) with counts and the exact characters for every tile that carries them; building the walls and the deal; a 20-term glossary.\n- Session 2 \"The Charleston\": a step-by-step walk-through with a described pass diagram, when blind passes are allowed, the optional courtesy pass, and \"jokers are never passed\".\n- Session 3 \"Jokers, Calling and Your First Game\": joker rules, joker exchange, calling a discard, dead hands, basic payment, and 4 original practice patterns.\n- Turn-order quick card (half page, 2 per sheet).\n5. Admin: class sign-in sheet (16 rows: name, email or phone, Session 1-3 checkboxes, paid); student progress checklist (12 skills x 16 students grid); \"First Game\" certificate (landscape; editable student, date, instructor).\n6. Marketing: class flyer (editable date, venue, price, booking link, QR placeholder); 3 Instagram posts at 1080x1350 px and 2 Stories at 1080x1920 px (announcement, what you'll learn, last spots), each with a caption.\n7. Heritage page \"Where Mahjong Comes From\": origins in 19th-century China, the 1920s spread to the US, an American league formed in 1937 that still issues a yearly card, and a table comparing Chinese/Hong Kong, Japanese Riichi and American play (tile count, jokers, Charleston, winning hand). Warm, factual, respectful.\n\nDESIGN: Fonts DM Serif Display (headings), Inter (body), Noto Serif SC (Chinese characters). Palette \"Jade Table\": Tile Ivory #F7F1E3 background, Jade #2F7D6D primary, Ink #1F2A36 text, Cinnabar #B8432F accents, Bamboo Gold #D9A441 highlights, Mist #DCE8E3 panels. Give layout notes for every page (blocks, columns, icon spots, font sizes).\n\nCONTENT RULES:\n- Original wording; plain English, about 8th-grade reading level; friendly instructor voice.\n- Accuracy: an American set has 152 tiles (108 suit tiles, 16 winds, 12 dragons, 8 flowers, 8 jokers); each wall is 19 stacks two high; East starts with 14 tiles, the others 13; the first Charleston passes right, across, left, the optional second passes left, across, right. Craks show 一 to 九 above 萬; winds 東 南 西 北; Red Dragon 中, Green Dragon 發, White Dragon a blank or framed tile. Chinese/Hong Kong (144 tiles) and Riichi (136 tiles) hands are built from four sets and a pair; American hands must match the current card. Re-check every count and character. Where rules vary, write \"house rules vary\" instead of guessing.\n- Practice patterns: invent simple teaching combinations, label each \"Practice pattern for learning only, not from any official card\", use no year numbers, and do not copy, mimic or name any official card's sections or hands.\n- Mention the card only as: \"Each student needs their own copy of the current official card (sold separately).\"\n\nDIFFERENTIATION: Existing printables are player cheat sheets. This kit serves the teacher: lesson flow, scripts, admin and promotion in one brand system, plus honest heritage framing.\n\nCONSTRAINTS: No league names or logos, no tile-brand or designer-set names or artwork, no celebrities, no song lyrics, no faux-\"Asian\" novelty fonts or stereotyped imagery, no claims about health, income or results.\n\nOUTPUT FORMAT: Page by page as \"PAGE n | Title | Size | Layout | Exact text\", tables written as tables, ready to paste into Canva. Finish with a 1-page free sample (the Charleston walk-through, footer \"Sample from [YOUR SHOP NAME]\"). If you run out of space, stop at the end of a page and wait for me to type \"continue\".\n\nSELF-CHECK before answering: (1) every page is present; (2) tile counts total 152 and every character is correct; (3) both Charleston orders are right; (4) no official card hands, names or logos; (5) the heritage page credits Chinese origins without stereotypes. Fix anything that fails, then answer.",
+      "imagePrompts": [
+        {
+          "tool": "Midjourney (or ChatGPT images)",
+          "purpose": "Etsy hero and mockup background scene for placing printed pages",
+          "prompt": "Overhead flat-lay photo of a light oak table set up for a beginner mahjong class: four neat rows of plain game tiles shown face-down only (smooth jade green backs, color #2F7D6D), a clipboard holding a blank white sheet, two blank folded table cards, a pencil, a small ceramic cup of tea, soft window daylight, warm tile ivory #F7F1E3 and jade palette, wide empty area in the center for placing printed pages. No visible characters, numbers or symbols on any tile, no text, no logos, no brand packaging, no people or hands, no watermarks. Photorealistic, aspect ratio 4:3. --ar 4:3 --style raw --no text, letters, logos, people, watermark"
+        },
+        {
+          "tool": "Ideogram (or ChatGPT images)",
+          "purpose": "Seamless header/footer pattern for handouts and social templates",
+          "prompt": "Seamless minimalist pattern of simple rounded-rectangle game tile outlines, small circles in groups of one to three, and short bamboo-stick strokes, flat vector style, thin jade #2F7D6D and bamboo gold #D9A441 lines on a solid tile ivory #F7F1E3 background, generous spacing, calm and modern. No characters, no letters, no text, no logos, no trademarked tile designs, no watermarks. Square 1:1, tileable edges."
+        },
+        {
+          "tool": "ChatGPT images (ask for a transparent PNG)",
+          "purpose": "Spot icons for session handouts (Charleston, rack, dice, tea)",
+          "prompt": "A set of 6 flat vector spot icons arranged in a 3x2 grid on a transparent background: a tile rack seen from the side holding blank tiles, three blank tiles passing along a curved arrow, a small stack of two blank tiles, a pair of dice, a tea cup, a pencil on a notepad. Consistent rounded 3 px line weight, colors jade #2F7D6D and ink #1F2A36 with cinnabar #B8432F accents. Tile faces left blank. No text, no characters, no logos, no watermarks. Aspect ratio 3:2, transparent background."
+        },
+        {
+          "tool": "Ideogram (or Midjourney)",
+          "purpose": "Border frame for the landscape 'First Game' certificate",
+          "prompt": "Elegant thin certificate border frame, double fine line with a small bamboo-leaf motif in each corner, flat vector, bamboo gold #D9A441 and jade #2F7D6D on solid tile ivory #F7F1E3, large empty center, landscape. No text, no seals, no logos, no watermarks. Aspect ratio 11:8.5 (about 4:3), solid background."
+        }
+      ],
+      "assembly": [
+        "Day 1 (about 3 h): paste the super prompt into Claude or ChatGPT, type 'continue' until all pages arrive, and copy everything into one Google Doc. Proofread the rules pages against the current official rulebook, or ask an experienced American-style player to read them; fix anything marked 'house rules vary'.",
+        "In Canva create a US Letter (8.5 x 11 in) design; save the six 'Jade Table' hex codes and the fonts DM Serif Display, Inter and Noto Serif SC (search Canva's font list; if a font is missing, use the closest serif or a Chinese-capable sans). Turn on rulers and add 0.5 in margin guides, then build three master layouts: handout, admin grid and marketing.",
+        "Build the tile ID chart from Canva shapes, not AI images: rounded rectangles about 0.9 x 1.2 in with Tile Ivory fill and a 2 pt Ink border; type the Arabic numerals and the Chinese characters from the AI output (一 to 九, 萬, 東 南 西 北, 中, 發) in the Chinese font; draw Dots as circles and Bams as rounded sticks; label every tile in English. Check each tile against your own set.",
+        "Paste the text page by page, add the pattern and icons, and make the sign-in sheet and progress checklist with Canva's Table element (10-11 pt body text). Put editable fields in [brackets] and keep the free-sample footer only on the sample page.",
+        "Make the A4 version: duplicate the design at custom size 210 x 297 mm (or use Resize with Canva Pro or its free trial) and fix any text that reflows. Create the social templates as separate designs at 1080 x 1350 px (3 posts) and 1080 x 1920 px (2 Stories).",
+        "Export Share > Download > PDF Print (Canva's 300 DPI print setting), no crop marks, for the Letter and A4 versions; export the 1-page Charleston sample as its own PDF.",
+        "For each editable design use Share > Template link, test every link in a private browser window, then make a 2-page US Letter 'Access your templates' PDF with the links as buttons and 5 numbered steps (open, Use template, edit, print, save).",
+        "Make 7 listing images at 2700 x 2025 px (4:3): hero mockup, what's-inside grid, tile chart close-up, Charleston page, admin pages, heritage page and social templates; record a 10-15 second flip-through video for Etsy (it plays without sound).",
+        "Publish on Etsy as a digital listing with three files (Letter PDF, A4 PDF, templates PDF; Etsy allows up to 5 files of 20 MB each). On Gumroad, upload the same files at the same price and the sample as a separate $0+ product so downloaders join your email list."
+      ],
+      "listingPrompt": "You are an Etsy SEO copywriter. Write the Etsy listing for my digital download \"Beginner Mahjong Class Kit\" for new mahjong instructors and club hosts who teach beginner classes.\nProduct facts: 3-session American-style beginner course; instructor guide and 3 session plans; student handouts (tile ID chart, Charleston walk-through, jokers and calling, turn-order card, glossary); class sign-in sheet; student progress checklist; \"First Game\" certificate; class flyer; 3 Instagram post and 2 Story templates; heritage page on mahjong's Chinese origins and its variants. Formats: US Letter and A4 PDFs plus editable template links that open in a free Canva account. Instant download. [ADD YOUR PAGE COUNT]\n\nProduce:\n1. TITLE under 140 characters that starts with the buyer's search phrase (choose from \"Mahjong Lesson Plan\", \"Mahjong Teacher Kit\", \"Mahjong Class Handouts\"), then the key contents (handouts, sign-in sheet, certificate, flyer, editable template). Sentence case, no ALL CAPS, at most 3 keyword phrases. Show the character count.\n2. 13 TAGS, each 20 characters or fewer (show the count after each), no tag repeated, drawn from phrases like: mahjong lesson plan, mahjong teacher kit, mahjong class kit, mahjong handout, learn mahjong, mahjong beginner, charleston guide, mahjong certificate, mahjong class flyer, mahjong sign in, teach mahjong, game night teacher, editable class kit.\n3. DESCRIPTION: a 2-line opening for teachers (no hype); \"What's included\" as a page-by-page bullet list; file formats and sizes; how delivery works (download from Etsy Purchases, open the \"Access your templates\" PDF, click each link, choose \"Use template\" to copy it into your own free account, edit, print or download); what is not included (tiles; the official card: \"students need their own current official card, sold separately; this shop is not affiliated with any league or tile brand\"); license (use for your own classes and students; do not resell or share the files or links); a line that illustrations were made with AI assistance and designed by me; and a 5-question FAQ (Can I add my logo? Is this American style? Can a copy shop print it? Do I need a paid design account? Can I teach other styles with it?).\nRULES: No trademarked or brand terms in the title or tags: no league names or abbreviations, no tile-brand or designer-set names, no software brand names. One plain compatibility note about the editing app may appear in the description only. No claims that the kit will fill classes, earn money or guarantee results. Do not describe mahjong as exotic or mysterious. Output in this order: Title, Tags, Description.",
+      "pricing": {
+        "recommended": 19,
+        "low": 14,
+        "high": 29,
+        "currency": "USD",
+        "rationale": "Above the $1-12 player cheat sheets because this is a teaching tool with editable admin and promo pages for paid classes; $19 matches the input's validation test. Drop to $14 or split the kit if favorites do not convert; move toward $29 only after reviews and a sessions 4-6 add-on.",
+        "basis": "estimate"
+      },
+      "costs": {
+        "provider": null,
+        "item": null,
+        "baseCost": null,
+        "shipping": null,
+        "pages": null,
+        "basis": "estimate: digital product, no unit cost. Per-sale fees to verify in each platform's current fee page: Etsy about $0.20 listing + 6.5% transaction + about 3% + $0.25 payment processing (US); Gumroad ab",
+        "testBudget": 28,
+        "testBudgetNote": "Etsy Ads at $1/day from Day 1, raised to $2/day if views stay under about 15/day at the Day 7 check, for 14 days (max $28). Canva's free plan is enough; Canva Pro (free trial) only saves time on Resize."
+      },
+      "platforms": [
+        {
+          "name": "Etsy",
+          "role": "primary",
+          "why": "Buyers already search Etsy for mahjong printables; a teacher-specific listing can rank on instructor phrases while player cheat sheets crowd the generic terms."
+        },
+        {
+          "name": "Gumroad",
+          "role": "secondary",
+          "why": "Direct checkout link for Instagram DMs and bios, plus a free sample product that collects instructor emails for the club kit and future add-ons (Payhip works the same way with lower fees)."
+        },
+        {
+          "name": "Instagram",
+          "role": "traffic",
+          "why": "Instructors and clubs promote their classes there, so they are easy to find and message one by one; Reels show the kit's pages."
+        },
+        {
+          "name": "Pinterest",
+          "role": "traffic",
+          "why": "Free, long-lived search traffic for printables when you have no audience; every page type can be its own pin."
+        }
+      ],
+      "marketing": {
+        "positioning": "The teacher's side of the mahjong boom: a done-for-you, editable beginner course (3 lessons, handouts, admin sheets, promo templates) that a new instructor brands as their own, with a heritage page that credits mahjong's Chinese origins. Not another player cheat sheet.",
+        "launchPlan": [
+          {
+            "day": "Day 0 (Tue Oct 13, 2026)",
+            "action": "Publish the $19 Etsy listing and the Gumroad product, plus the free Charleston sample on Gumroad. If you are also building the Analog Bag Refill Pack, build that first (its deadline is seasonal) and this kit on Oct 8-12."
+          },
+          {
+            "day": "Day 1 (Wed Oct 14)",
+            "action": "Start Etsy Ads at $1/day. Publish 5 Pinterest pins (tile chart, Charleston page, sign-in sheet, certificate, flyer) at 1000 x 1500 px linking to the Etsy listing. Put the Gumroad sample link in your Instagram bio."
+          },
+          {
+            "day": "Day 2-3 (Oct 15-16)",
+            "action": "Build a list of 30 Instagram accounts that teach mahjong or run clubs (search 'mahjong lessons', 'mahjong classes', 'mahjong club' plus city names). Send the first 6 personal DMs offering the free sample, with no hard sell."
+          },
+          {
+            "day": "Day 5 (Sun Oct 18)",
+            "action": "Post Reel 1: a 20-second flip-through of the kit. Pin 2 more designs."
+          },
+          {
+            "day": "Day 7 (Tue Oct 20)",
+            "action": "Check Etsy Stats (views, favorites, ad clicks, search terms). If views are under about 15/day, raise ads to $2/day. Continue DMs (3 per weekday)."
+          },
+          {
+            "day": "Day 10 (Fri Oct 23)",
+            "action": "Post Reel 2: 'the Charleston in 60 seconds' using the handout. Where self-promotion is allowed (check the community rules), post the free sample once in 1-2 Facebook groups for mahjong teachers or organizers. Add a 'pairs with' line linking the Club Organizer Kit if it is live."
+          },
+          {
+            "day": "Day 14 (Tue Oct 27)",
+            "action": "Ads end. Send the last DMs (30 total). Email the sample downloaders once with a 72-hour 15% code. Compare ad clicks to sales before deciding whether to keep ads on."
+          },
+          {
+            "day": "Day 17 (Fri Oct 30)",
+            "action": "Refresh the listing: make the best-saved pin design the first photo and swap 3 tags for search terms that actually appeared in Etsy Stats."
+          },
+          {
+            "day": "Day 21 (Tue Nov 3)",
+            "action": "Go/pivot/stop check. Continue if at least 3 sales, or at least 2% conversion on at least 300 listing views. Pivot if views and favorites come but no sales: split into a $7 Student Handout Pack and a $12 Admin & Promo Pack. Stop if under 100 views after 3 weeks with ads, or if you find instructor kits are abundant at lower prices."
+          }
+        ],
+        "channels": [
+          {
+            "channel": "Instagram DMs",
+            "tactic": "Personal note to instructors and club hosts naming something specific from their page, offering the free Charleston sample link. One message per account, no repeat chasing.",
+            "cadence": "3 per weekday from Day 2 until 30 are sent (about 10 minutes a day)"
+          },
+          {
+            "channel": "Instagram Reels / TikTok",
+            "tactic": "Flip-throughs and short 'how I'd teach this' demos using the handouts; caption ends with the sample link in bio.",
+            "cadence": "2 per week for 3 weeks"
+          },
+          {
+            "channel": "Pinterest",
+            "tactic": "One pin per page type (1000 x 1500 px) on boards such as 'Mahjong teaching' and 'Mahjong club ideas', linking to the Etsy listing.",
+            "cadence": "5 pins at launch, then 1 new pin per day for 14 days, then 3 per week"
+          },
+          {
+            "channel": "Etsy Ads + Etsy SEO",
+            "tactic": "$1-2/day ads; weekly tag review against Etsy Stats search terms. The keywords below are untested suggestions, not measured volumes.",
+            "cadence": "Daily ads for 14 days; tag review weekly"
+          },
+          {
+            "channel": "Facebook groups for mahjong teachers/organizers",
+            "tactic": "Helpful post that leads with the free sample; only where promotion is allowed (check the community rules).",
+            "cadence": "At most 1 post per group per week"
+          },
+          {
+            "channel": "Gumroad email list",
+            "tactic": "Welcome email with the sample, then one offer email; later the first announcement for the club and holiday kits.",
+            "cadence": "1 email at download, 1 at Day 14, then 2 per month"
+          }
+        ],
+        "keywords": [
+          "mahjong lesson plan",
+          "mahjong teacher kit",
+          "how to teach mahjong",
+          "mahjong class handout",
+          "mahjong instructor",
+          "american mahjong beginner",
+          "mahjong charleston guide",
+          "mahjong tile chart",
+          "mahjong class flyer",
+          "mahjong certificate",
+          "mahjong sign in sheet",
+          "learn mahjong printable"
+        ],
+        "hooks": [
+          "Teaching your first mahjong class? Here's a 3-session plan you can brand as yours.",
+          "Everything a new mahjong teacher prints, in one editable kit.",
+          "Your students' first Charleston, on one page.",
+          "Mahjong started in 19th-century China. Your class handouts can say so.",
+          "Sign-in sheet, progress checklist, certificate: the admin side of teaching mahjong, done."
+        ]
+      },
+      "extensions": [
+        "Split packs (also the pivot): $7 Student Handout Pack and $12 Admin & Promo Pack",
+        "Intermediate class kit (sessions 4-6: defense, reading discards, choosing a hand) sold separately or as an upgrade bundle",
+        "A 'new card night' lesson plan each spring that teaches how to read a new card without reproducing any of it",
+        "Chinese/Hong Kong-style and Riichi beginner class kits, ideally reviewed by players from those traditions",
+        "Bundle with the Club Organizer Kit (about $27) and add the Holiday Mahjong Night Kit as a seasonal bonus",
+        "Private-lesson tracker and a lesson gift-certificate template instructors can sell to their students",
+        "Use the Gumroad instructor email list as a small B2B audience for every future mahjong product"
+      ],
+      "asymmetry": {
+        "downside": "About 16 hours of build time, up to $28 in Etsy Ads and $0.20 in listing fees. No inventory and no deadline.",
+        "upside": "Zero marginal cost per sale; sells on Etsy, Gumroad and Payhip at once; evergreen while classes keep forming (instructor tools likely stay relevant through 2027); every buyer is a teacher who can buy the add-on, club and holiday kits, and an instructor email list compounds. The 21-day test gives a clear answer by Nov 3.",
+        "badBetIf": "Etsy already has many instructor kits at or under $10 (check page 1-2 for 'mahjong lesson plan' and 'mahjong teacher' before building), you cannot get the rules pages checked by an experienced player, or you are not willing to message instructors directly, because Etsy discovery alone may be too slow for a narrow B2B niche."
+      },
+      "risks": [
+        "IP: reproducing any official card hand, the league's name or logo, or a designer tile set's artwork could get the listing removed; keep practice patterns clearly invented and the card mentioned only as 'sold separately'.",
+        "Cultural framing: a non-Asian seller 'refreshing' mahjong has drawn backlash before; keep the heritage page, avoid novelty 'Asian' fonts and stereotyped imagery, and make sure the Chinese characters are correct.",
+        "Rules errors would cost credibility with teachers; get the rules pages proofread before launch.",
+        "AI image models garble Chinese characters, so tile faces must be typed in Canva, not generated.",
+        "Narrow niche: the input could not verify how many instructor kits already exist; Etsy views may stay low without the DM outreach.",
+        "Platform rules: disclose AI-assisted artwork as Etsy's creativity standards require, and share Canva designs only as template links per Canva's content license (check both policies)."
+      ],
+      "source": "written"
+    },
+    {
+      "index": 1,
+      "themeKey": "Club organizer kit: Google Sheets season standings and kitty",
+      "productName": "Mahjong Club Organizer Kit (Google Sheets)",
+      "superPrompt": "You are a Google Sheets and Apps Script expert who also runs a weekly mahjong club. Build a sellable \"Mahjong Club Organizer Kit\": one Google Sheets workbook plus printable copy that a host copies and uses tonight.\n\nBUYER AND JOB: People starting or running mahjong clubs, leagues and weekly open play, often with 30-55 players. Single-game score cards already exist; these hosts need multi-table logistics: who sits where each round, who is confirmed or waitlisted, season standings and club money.\n\nPART 1. Write one Google Apps Script function buildClubKit() (SpreadsheetApp only; no external calls, triggers or libraries) that I run once in a new blank spreadsheet (locale United States). It creates these tabs in order with headers, formulas, dropdowns, checkboxes, number formats, frozen header rows, column widths, colors and 12 rows of fictional sample data (invented first names only):\n1. Start Here: what each tab does, a 6-step quick start, the rotation facts below in plain words, and \"Use File > Make a copy to start\".\n2. Settings: B2 Club name; B3 Players tonight =COUNTIF(Tonight!B2:B33,\"?*\"); B4 Tables =MAX(1,ROUNDUP(B3/4,0)); B5 Rounds tonight (dropdown 1-8); B6 Season name; B7 Kitty opening balance; B8 =IF(B3>32,\"Max 32 players per rotation\",\"\").\n3. Roster: #, Name, Contact, Joined, Status (Active/Waitlist/Inactive), Dues paid (checkbox), Notes; 60 rows.\n4. Sign-Up: B1 Event date; B2 Seats available (default 32); from row 5 columns Name, Signed up at, Cancelled (checkbox), Status =IF(A5=\"\",\"\",IF(C5=TRUE,\"Cancelled\",LET(n,SUMPRODUCT((A$5:A5<>\"\")*(C$5:C5<>TRUE)),IF(n<=$B$2,\"Confirmed\",\"Waitlist #\"&(n-$B$2))))) for 80 rows, so a cancellation promotes the next person automatically.\n5. Tonight: A2:A33 numbers 1-32; B2 =IFERROR(ARRAY_CONSTRAIN(FILTER('Sign-Up'!A5:A84,'Sign-Up'!D5:D84=\"Confirmed\"),32,1),\"\"); a note that names can be typed instead.\n6. Rotation: row 3 headers Round, Table, Seat A, Seat B, Seat C, Seat D; A4 =INT((ROW()-4)/8)+1; B4 =MOD(ROW()-4,8)+1; C4 filled to F67: =IF(OR($A4>Settings!$B$5,$B4>Settings!$B$4),\"\",LET(s,COLUMN()-3,T,Settings!$B$4,p,s*T+MOD($B4-1-s*($A4-1),T)+1,IF(p>Settings!$B$3,\"Open seat\",INDEX(Tonight!$B$2:$B$33,p)))). Shade alternate rounds; grey out empty rows.\n7. Player Lookup: A2:A33 numbers, B name from Tonight, C1:J1 rounds 1-8, C2 =IF(OR($A2>Settings!$B$3,C$1>Settings!$B$5),\"\",LET(T,Settings!$B$4,s,INT(($A2-1)/T),\"Table \"&(MOD(MOD($A2-1,T)+s*(C$1-1),T)+1)&\" | Seat \"&CHAR(65+s))).\n8. Night Log: Date, Player (dropdown from Roster names), Games, Wins, Points, Notes.\n9. Standings: players from Roster; Nights, Games, Wins, Win %, Points, Avg per game, Rank by points (COUNTIF, SUMIF, RANK); a leaderboard with SORT(FILTER()); top 3 highlighted.\n10. Kitty Ledger: Date, Description, Category (Dues, Table fee, Snacks, Prize pool, Supplies, Venue, Other), Who, In, Out, running Balance = opening balance + in - out; category totals with SUMIF.\n11. House Rules: editable template covering start time, seating by rotation, phones, guests, cancellations, dues, disputes (\"follow the current official rulebook; the host decides\"), conduct, and one line honoring mahjong's Chinese origins.\n12. Printable Charts: static charts for 8, 12, 16, 20, 24, 28 and 32 players (numbers, not names), 6 rounds each, computed in the script with the same math (JavaScript mod: ((x%T)+T)%T), each block titled \"N players | T tables\".\nStyle: header fill Jade #2F7D6D with white bold text, bands Mist #DCE8E3, top 3 Bamboo Gold #D9A441, waitlist text Cinnabar #B8432F, background Tile Ivory #F7F1E3, text Ink #1F2A36, font Roboto.\n\nROTATION FACTS (verified; state them and do not change the math): player p sits in seat INT((p-1)/T) (A-D) and starts at table MOD(p-1,T)+1; each round seat A stays, B moves 1 table, C moves 2, D moves 3, wrapping around. Everyone plays every round and every table has 3 or 4 players. Tablemates are all new in rounds 1-2 at 13-16 and 21-24 players, rounds 1-4 at 29-32, rounds 1-5 at 17-20 and rounds 1-7 at 25-28; with 8-12 players some repeats come early and cannot be avoided with 2-3 tables. Seat letters only say where to sit; each table rolls for East as usual.\n\nPART 2. A tab-by-tab table (tab, cell or column, formula or validation) as a manual fallback and QA list.\nPART 3. Printable copy, page by page with layout notes: table-number tents 1-8 (US Letter landscape, folded in half), a 24-line sign-up sheet, and a House Rules poster (US Letter; I will also make A4).\n\nRULES: Original wording; no league names, logos or official card content; no real people; no claims about winning or money. Stop after each part and wait for me to type \"continue\".\n\nSELF-CHECK before each part: formulas use US commas and valid Sheets functions; simulate 30 players and 6 rounds and confirm each name appears once per round and no table has fewer than 3; cancelling a confirmed sign-up promotes Waitlist #1; ledger balance = opening + in - out; standings rank the highest points first. Fix anything that fails, then answer.",
+      "imagePrompts": [
+        {
+          "tool": "Midjourney (or ChatGPT images)",
+          "purpose": "Listing hero background: club night scene behind a laptop/phone mockup of the sheet",
+          "prompt": "Overhead photo of a bright community room set for a mahjong club night: four square card tables, each with plain game tiles shown face-down only in neat walls (jade green backs #2F7D6D), small blank tent cards with nothing printed, snack bowls and tea cups, warm evening light, ivory #F7F1E3 and jade palette, a clear empty band across the top third for a headline. No characters or symbols on any tile, no text, no numbers, no logos, no brand items, no people, no watermarks. Photorealistic, aspect ratio 4:3. --ar 4:3 --style raw --no text, letters, numbers, logos, people, watermark"
+        },
+        {
+          "tool": "ChatGPT images (ask for a transparent PNG)",
+          "purpose": "Corner motif for table-number tents, sign-up sheet and house rules poster",
+          "prompt": "Minimal flat vector corner motif: three overlapping rounded tile outlines, one with three small circles and one with two short bamboo sticks, plus a tiny pair of dice, thin consistent 3 px lines in jade #2F7D6D, bamboo gold #D9A441 and ink #1F2A36. No characters, no letters, no text, no logos, no watermarks. Aspect ratio 1:1, transparent background."
+        },
+        {
+          "tool": "Ideogram (or Midjourney)",
+          "purpose": "Pinterest pin background (headline and screenshot added in Canva)",
+          "prompt": "Vertical flat illustration of a club organizer's table: a clipboard with blank ruled paper, a pencil, a small chalkboard with blank lines, a short row of face-down blank tiles, a tea cup, solid tile ivory #F7F1E3 background with jade #2F7D6D and cinnabar #B8432F accents, the upper half left empty for a headline. No text, no characters, no numbers, no logos, no people, no watermarks. Aspect ratio 2:3."
+        }
+      ],
+      "assembly": [
+        "Create a new blank Google Sheet named 'Mahjong Club Organizer Kit' and set File > Settings > Locale to United States (formulas use commas).",
+        "Open Extensions > Apps Script, paste the AI's script, save, and run buildClubKit. Approve the authorization screen for your own account (Advanced > Go to project); it only edits this sheet. If it errors, paste the exact error message back to the AI and re-run.",
+        "Test before selling: on Tonight type 30 names, set Rounds to 6, and check that Rotation and Player Lookup show each name once per round with no table under 3 players; tick a Cancelled box on Sign-Up and confirm Waitlist #1 becomes Confirmed; add two ledger rows and check the balance.",
+        "Clean up: replace the script code with a blank file and save, so buyer copies contain only the spreadsheet; protect formula columns with Data > Protect sheets and ranges > 'Show a warning when editing'; leave the sample data in place with a note to delete it.",
+        "Download the Printable Charts tab as PDF (File > Download > PDF, Current sheet, Fit to width, US Letter; repeat with A4).",
+        "In Canva build the table-number tents 1-8 (US Letter landscape, folded in half), the 24-line sign-up sheet and the House Rules poster with the Jade Table palette, plus A4 copies at 210 x 297 mm; export PDF Print with no crop marks.",
+        "Share the Sheet: General access 'Anyone with the link', Viewer; copy the link and replace everything after the file ID ('/edit...') with '/copy'. Test it in a private window: it should open a 'Make a copy' screen.",
+        "Make a 1-page 'Your Club Kit' delivery PDF in Canva with the /copy link as a big button and a 6-step quick start. Record a 15-second screen video (type names, rotation fills) for the Etsy listing video and use screenshots in 2700 x 2025 px (4:3) listing images.",
+        "Publish on Etsy with the delivery PDF, the charts PDF and the printables PDF (max 5 files, 20 MB each), and on Gumroad at the same price; add a Gumroad bundle with the instructor kit."
+      ],
+      "listingPrompt": "You are an Etsy SEO copywriter. Write the Etsy listing for my digital download \"Mahjong Club Organizer Kit\", a spreadsheet template for people who run mahjong clubs, leagues and weekly open play.\nProduct facts: one spreadsheet you copy to your own free Google account (delivered as a PDF with a make-a-copy link); tabs: Start Here, Settings, Roster (60 players), Sign-Up with automatic waitlist (cancellations promote the next person), Tonight, automatic table rotation for 8-32 players and up to 8 rounds (everyone plays every round; tables of 3 or 4), Player Lookup (each player's table per round), Night Log, Season Standings with leaderboard, Kitty Ledger with running balance and category totals, House Rules template; plus printable PDFs: rotation charts for 8-32 players, table-number tents 1-8, sign-up sheet, house rules poster (US Letter and A4). Works on desktop; viewable on phones. [ADD ANY CHANGES]\n\nProduce:\n1. TITLE under 140 characters starting with the buyer's search phrase (choose from \"Mahjong Club Organizer\", \"Mahjong League Spreadsheet\", \"Mahjong Table Rotation\"), then the key features (seating rotation, standings, waitlist, dues ledger, printable table numbers). Sentence case, show the character count.\n2. 13 TAGS of 20 characters or fewer (show each count), no repeats, from phrases like: mahjong club, mahjong league, mahjong spreadsheet, mahjong organizer, table rotation, round robin chart, seating rotation, league standings, sign up sheet, waitlist tracker, club dues tracker, game night planner, open play tracker.\n3. DESCRIPTION: 2-line opening for club hosts; \"What's included\" tab by tab; how the rotation works in 3 plain sentences (type names, choose rounds, tables fill in); what you need (a free Google account; works best on a computer); how delivery works (download the PDF from Etsy Purchases, click the make-a-copy link, the copy is yours and private); a short demo description matching the listing video; license (use for your own club; do not resell or share the link); a 5-question FAQ (Can I change the number of tables? What if someone cancels? Can I use my own scoring? Does it work on a phone? Can I print the charts?).\nRULES: No trademarked or brand terms in the title or tags (no league names or abbreviations, no tile-brand names, no software brand names); one plain compatibility note about the spreadsheet app may appear in the description only. No claims about winning, earning or guaranteed results. Output in order: Title, Tags, Description.",
+      "pricing": {
+        "recommended": 12,
+        "low": 9,
+        "high": 19,
+        "currency": "USD",
+        "rationale": "$12 is the input's test price: above $1-12 single-game score cards because it runs a whole club night (rotation, waitlist, standings, ledger), and below the instructor kit so the two bundle well. Go to $9 or sell only the rotation piece if one tab drives the interest; $19 only with a league/tournament add-on.",
+        "basis": "estimate"
+      },
+      "costs": {
+        "provider": null,
+        "item": null,
+        "baseCost": null,
+        "shipping": null,
+        "pages": null,
+        "basis": "estimate: digital product, no unit cost. Per-sale fees to verify in each platform's current fee page: Etsy about $0.20 listing + 6.5% transaction + about 3% + $0.25 payment processing (US); Gumroad ab",
+        "testBudget": 0,
+        "testBudgetNote": "The input's test uses no ads. Optional: $1/day Etsy Ads for 14 days ($14) only if organic views are under about 10/day at the Day 7 check."
+      },
+      "platforms": [
+        {
+          "name": "Etsy",
+          "role": "primary",
+          "why": "Spreadsheet templates sell well as instant downloads on Etsy, and club or league organizer phrases are less crowded than player cheat sheets."
+        },
+        {
+          "name": "Gumroad",
+          "role": "secondary",
+          "why": "Direct link for club organizers you meet in groups or DMs, a bundle with the instructor kit, and an email list."
+        },
+        {
+          "name": "Pinterest",
+          "role": "traffic",
+          "why": "Organizers search for club and game-night logistics ideas; screenshot pins of the rotation and standings show the value instantly."
+        },
+        {
+          "name": "Instagram / TikTok",
+          "role": "traffic",
+          "why": "A 15-30 second screen recording of names filling 8 tables is the clearest demo of what the product does."
+        }
+      ],
+      "marketing": {
+        "positioning": "Multi-table logistics for mahjong clubs in one spreadsheet: type tonight's names and get seating for every round, a waitlist that updates itself, season standings and a club-money ledger. Score cards track one game; this runs the whole night.",
+        "launchPlan": [
+          {
+            "day": "Day 0 (Fri Oct 23, 2026)",
+            "action": "Publish at $12 on Etsy and Gumroad with the 15-second screen-recording listing video. Build it Oct 19-22 after the instructor kit is live, so the 21-day tests overlap."
+          },
+          {
+            "day": "Day 1 (Sat Oct 24)",
+            "action": "Publish 5 Pinterest pins: rotation chart, player lookup, standings, waitlist, kitty ledger (1000 x 1500 px, screenshot plus headline)."
+          },
+          {
+            "day": "Day 2 (Sun Oct 25)",
+            "action": "Cross-link: add 'pairs with' lines to the instructor kit listing and delivery PDF; create the Gumroad bundle (instructor + club kit, about $27)."
+          },
+          {
+            "day": "Day 3 (Mon Oct 26)",
+            "action": "Post a 30-second screen-recording Reel/TikTok: 'Type 30 names, get 8 tables for every round.'"
+          },
+          {
+            "day": "Day 7 (Fri Oct 30)",
+            "action": "Check Etsy views, favorites and search terms. If views are under about 10/day, start the optional $1/day ads. Email the instructor sample list once about the club kit."
+          },
+          {
+            "day": "Day 10 (Mon Nov 2)",
+            "action": "Where self-promotion is allowed (check the community rules), share the free 16-player rotation chart PDF in 1-2 mahjong club or organizer groups, with a link to the full kit."
+          },
+          {
+            "day": "Day 14 (Fri Nov 6)",
+            "action": "Post Reel 2 (waitlist auto-promotes when someone cancels). Note which tab buyers and messages mention most."
+          },
+          {
+            "day": "Day 21 (Fri Nov 13)",
+            "action": "Check: continue if at least 3 sales in 21 days or buyer messages asking for more formats. Pivot if interest centers on one piece (for example rotation charts): list that piece alone at $5-7."
+          },
+          {
+            "day": "Day 30 (Sun Nov 22)",
+            "action": "Stop check: if there are no sales after 30 days and under 150 views, stop promoting it and offer it as a bonus inside the instructor kit."
+          }
+        ],
+        "channels": [
+          {
+            "channel": "Pinterest",
+            "tactic": "Screenshot pins with a clear headline per feature, on a 'Mahjong club ideas' board.",
+            "cadence": "5 pins at launch, then 3 per week"
+          },
+          {
+            "channel": "Instagram Reels / TikTok",
+            "tactic": "Screen recordings of the rotation and waitlist working; no faces needed.",
+            "cadence": "2 per week for 3 weeks"
+          },
+          {
+            "channel": "Mahjong club Facebook groups and subreddits",
+            "tactic": "Give away the 16-player rotation chart as a helpful freebie that links to the kit; only where promotion is allowed (check the community rules).",
+            "cadence": "1 post per community every 2 weeks at most"
+          },
+          {
+            "channel": "Cross-sell",
+            "tactic": "Instructor kit delivery PDF, Etsy 'pairs with' lines and the Gumroad bundle.",
+            "cadence": "Set once on Day 2; update when new kits launch"
+          },
+          {
+            "channel": "Etsy SEO",
+            "tactic": "Weekly tag review against Etsy Stats search terms; the keywords below are untested suggestions, not measured volumes.",
+            "cadence": "Weekly"
+          }
+        ],
+        "keywords": [
+          "mahjong club",
+          "mahjong league",
+          "mahjong spreadsheet",
+          "mahjong table rotation",
+          "round robin chart",
+          "mahjong organizer",
+          "league standings template",
+          "club dues tracker",
+          "sign up sheet waitlist",
+          "game night planner",
+          "open play tracker"
+        ],
+        "hooks": [
+          "Type 30 names. Get 8 tables of seating for every round.",
+          "Running open play for 30-plus people? Retire the napkin seating chart.",
+          "A waitlist that promotes the next person when someone cancels.",
+          "Season standings and the club kitty, in one spreadsheet you copy.",
+          "The club host's spreadsheet: rotation, standings, dues."
+        ]
+      },
+      "extensions": [
+        "Rotation charts only as a $5-7 listing (also the pivot)",
+        "League season add-on: playoff bracket, attendance awards, season-end certificate",
+        "Tournament-day kit: check-in, table assignments, score entry, results sheet",
+        "Excel and Notion versions for organizers who do not use Google",
+        "Bundle with the instructor kit (about $27) and the holiday night kit as a seasonal bonus",
+        "Optional setup service ($25-40, estimate) where you brand and pre-fill the sheet for a club"
+      ],
+      "asymmetry": {
+        "downside": "About 12 hours and $0-14 in ads. The main risk is time spent debugging formulas, which the provided rotation math and test steps reduce.",
+        "upside": "Zero marginal cost; a working tool gets reused every week by an organizer who may also buy the instructor and holiday kits; sells on Etsy, Gumroad and Payhip; evergreen through 2027 as clubs re-form each January and around each new card.",
+        "badBetIf": "Organizers in your communities already share free rotation sheets, or Etsy shows several club or league spreadsheets under $10. It is also weak as a standalone test if the instructor kit gets no views, because both rely on the same small organizer audience."
+      },
+      "risks": [
+        "Formula breakage: a locale with semicolon separators or an edited formula column breaks the sheet; set the US locale and protect formula ranges with warnings.",
+        "Rotation honesty: with 8-12 players repeat tablemates cannot be avoided; state the verified fresh-round facts rather than promising all-new tables.",
+        "Buyers may expect a phone app; say clearly that it works best on a computer.",
+        "Support load: spreadsheet buyers send questions; a clear Start Here tab and a 2-minute walkthrough video reduce this.",
+        "Keep league names, card content and tile-brand marks out of titles, tags and the sheet itself."
+      ],
+      "source": "written"
+    },
+    {
+      "index": 2,
+      "themeKey": "Holiday mahjong night kit: invitations, place cards, first-t",
+      "productName": "Holiday Mahjong Night Kit (3 designs)",
+      "superPrompt": "You are a party-stationery designer and a patient mahjong host. Your goal: write and lay out a printable \"Holiday Mahjong Night Kit\" in three original designs that a host edits, prints at home and uses this December.\n\nBUYER AND JOB: Hosts of holiday mahjong nights (Hanukkah, Christmas, New Year's Eve) and people giving a mahjong set as a gift. Mahjong has become a girls'-night and holiday-hosting favorite; this kit turns a game night into an event and helps first-timers join in without slowing the table.\n\nTHREE DESIGNS (identical layouts, different palette and motifs):\nA \"Festival of Lights\" (Hanukkah): Night Blue #1D3557, Candle Gold #E9B949, Silver Mist #D9DEE5, Snow #FAFAF7; motifs: a nine-candle menorah (eight in a row plus one raised helper candle), a dreidel with no letters, small stars.\nB \"Evergreen\" (Christmas): Pine #24523F, Berry #B23A48, Gold #C9A227, Cream #F6F0E3; motifs: pine sprigs, ribbon, a gift box.\nC \"Midnight\" (New Year's Eve): Ink #141414, Champagne #E8D3A2, Silver #BFC5CC, Pearl #F7F5F0; motifs: confetti, streamers, a clock face with no numbers.\nFonts: Playfair Display (headings), Montserrat (body, 10 pt minimum), Great Vibes (names only). White or very light page backgrounds so pages print cheaply.\n\nPIECES (per design; give exact text and layout for each; US Letter landscape sheets, and I will make A4 landscape copies, so keep a 0.25 in safe margin and thin grey cut lines):\n1. Invitation, 5x7 in portrait, 2 per sheet: headline, [HOST NAME], [DATE], [TIME], [ADDRESS], [RSVP BY], and \"New to mahjong? We'll teach you.\"\n2. Place cards, flat 3.5x4 in folding to 3.5x2 in, 4 per sheet, editable [GUEST NAME].\n3. First-timer table tent: a sheet folded in half lengthwise (11x4.25 in faces, one face printed upside down so both sides read): \"How a Turn Works\" in 5 short steps for American-style play, and a second version for classic Chinese-style tables. Plain, accurate, encouraging.\n4. Score pad, half-letter 5.5x8.5 in (A5 for A4), 2 per sheet: table name, date, 4 player columns, 12 game rows, winner, hand value, running totals.\n5. Menu card, 5x7 in, 2 per sheet: a cocoa bar and a cocktail-and-mocktail version, each with 4 original drink names and ingredients (at least 2 alcohol-free) and one snack line.\n6. Gift sheet: a 3.5x5 in \"Lesson Voucher\" (\"Good for one mahjong lesson with [NAME]\") and 6 gift tags at 2x3.5 in, for anyone gifting a set.\n7. One instructions page: printing, cutting, folding, editing.\n\nACCURACY: American turn: draw from the wall (or call the latest discard only to complete an exposure or declare Mah Jongg), add it to your rack, discard one tile face up and name it, play passes to the right; jokers only in groups of three or more, never in a pair or single; match a hand on your current official card to declare Mah Jongg. Classic Chinese-style: most hands are four sets plus a pair. Where rules vary, write \"House rules vary.\" Re-check the menorah description (nine candles).\n\nCONTENT RULES: Original wording, warm and inclusive, about 7th-grade reading level. Mention the card only as \"your current official card\". Original tile drawings only, shown face-down or with simple dots and bamboo; no Chinese characters drawn by image AI.\n\nDIFFERENTIATION: Score pads alone are common. This kit styles the whole evening in three looks, helps first-timers with table tents, and gives gift-givers a lesson voucher.\n\nCONSTRAINTS: No official card hands, league names or logos, no tile-brand or designer-set names or artwork, no faux-\"Asian\" novelty fonts or stereotypes, no brand-name drinks or spirits, no song lyrics, no film or TV references, no real people, no health or outcome claims.\n\nOUTPUT FORMAT: Shared text once, then Design A, B and C sheet by sheet as \"SHEET n | piece | size and grid | layout | exact text\", listing only the lines that change per design (headlines, drink names, motifs). Then a list of illustration assets per design. If you run out of space, stop after a design and wait for me to type \"continue\".\n\nSELF-CHECK before answering: (1) 3 designs x 7 pieces present; (2) every piece fits its sheet on Letter and A4 landscape with a 0.25 in margin; (3) each menu has at least 2 alcohol-free drinks; (4) turn steps are accurate and say \"House rules vary\" where needed; (5) no card hands, brand names or stereotyped imagery; (6) all text is original. Fix anything that fails, then answer.",
+      "imagePrompts": [
+        {
+          "tool": "ChatGPT images (ask for a transparent PNG)",
+          "purpose": "Design A 'Festival of Lights' spot illustrations",
+          "prompt": "Set of 5 flat gouache-style holiday illustrations arranged in a row on a transparent background: a Hanukkah menorah with exactly nine candles (eight candles in a straight row plus one raised helper candle in the middle), all lit; a dreidel with plain blank sides; a mug of cocoa with marshmallows; a short stack of face-down game tiles with plain ivory backs; a few small scattered stars. Colors night blue #1D3557, candle gold #E9B949, silver mist #D9DEE5. No letters, no characters, no text, no logos, no watermarks. Aspect ratio 3:2, transparent background."
+        },
+        {
+          "tool": "ChatGPT images (ask for a transparent PNG)",
+          "purpose": "Design B 'Evergreen' spot illustrations",
+          "prompt": "Set of 5 flat gouache-style holiday illustrations in a row on a transparent background: a pine sprig with berries, a ribbon-tied gift box, a mug of cocoa, a lit taper candle, a short stack of face-down game tiles with plain ivory backs. Colors pine #24523F, berry #B23A48, gold #C9A227 on cream accents #F6F0E3. No letters, no characters, no text, no logos, no watermarks. Aspect ratio 3:2, transparent background."
+        },
+        {
+          "tool": "ChatGPT images (ask for a transparent PNG)",
+          "purpose": "Design C 'Midnight' spot illustrations",
+          "prompt": "Set of 5 flat art-deco-inspired illustrations in a row on a transparent background: falling confetti, curled streamers, a round clock face with hands at twelve and no numbers, two stemmed glasses (one with a citrus slice), a short stack of face-down game tiles with plain backs. Colors champagne #E8D3A2, silver #BFC5CC and ink #141414 outlines. No letters, no numbers, no text, no logos, no watermarks. Aspect ratio 3:2, transparent background."
+        },
+        {
+          "tool": "Midjourney (or ChatGPT images)",
+          "purpose": "Listing mockup background: styled holiday game table with blank cards",
+          "prompt": "Overhead photo of a cozy holiday game-night table: a cream linen tablecloth, a few face-down game tiles with plain backs, two blank white folded place cards, a blank white 5x7 card, a mug of cocoa, small evergreen sprigs and soft fairy-light bokeh, warm evening light, large empty areas for placing printed designs. No text, no characters on tiles, no logos, no brand items, no people, no watermarks. Photorealistic, aspect ratio 4:3. --ar 4:3 --style raw --no text, letters, logos, people, watermark"
+        }
+      ],
+      "assembly": [
+        "Paste the super prompt into Claude or ChatGPT, type 'continue' until all three designs arrive, and save the output in a Google Doc. Have an experienced player read the two 'How a Turn Works' tents.",
+        "In Canva create one US Letter landscape design (11 x 8.5 in) and build Design A sheet by sheet with guides: 2 x 5x7 invitations, 4 x place cards (3.5 x 4 in flat, dashed fold line), the folded table tent (top face rotated 180 degrees), 2 x score pads (5.5 x 8.5 in), 2 x menu cards, and the voucher-plus-tags sheet. Add thin grey (#BFC5CC, 0.5 pt) cut lines.",
+        "Generate the three illustration sets; if a tool will not give a transparent PNG, generate on solid white and remove the background (Canva Pro's remover or a free remover). Count the menorah candles (nine) before using it.",
+        "Duplicate Design A's pages twice and restyle as Design B and C: swap the palette hex codes, illustrations, headlines and drink names; keep layouts identical.",
+        "Make A4 versions: duplicate at 297 x 210 mm landscape, switch score pads to A5 (148 x 210 mm), and check that every piece still fits inside a 0.25 in margin.",
+        "Export Share > Download > PDF Print, no crop marks: one Letter PDF and one A4 PDF containing all three designs. Make a 1-page 'Edit your kit' PDF with Canva template links for the invitation, place card and menu pages, tested in a private window.",
+        "Create 6 listing images at 2700 x 2025 px (all three designs together, one per design, table-tent close-up, 'what's included' list) and a 10-15 second video of printing and folding a place card and tent.",
+        "Publish on Etsy with the three PDFs (Letter, A4, template links) and on Gumroad; schedule Pinterest pins at 1000 x 1500 px."
+      ],
+      "listingPrompt": "You are an Etsy SEO copywriter. Write the Etsy listing for my digital download \"Holiday Mahjong Night Kit\" for people hosting a mahjong night in December and for anyone gifting a mahjong set.\nProduct facts: three original designs in one download (Festival of Lights for Hanukkah, Evergreen for Christmas, Midnight for New Year's Eve); per design: 5x7 invitations (2 per sheet), fold-over place cards (4 per sheet), first-timer table tent 'How a Turn Works' (American-style and classic Chinese-style versions), score pads (2 per sheet), cocoa-bar and cocktail/mocktail menu cards, lesson voucher card and 6 gift tags, instructions page. Formats: US Letter and A4 PDFs plus editable template links for names, dates and menus (free Canva account). Instant download; print at home or at a copy shop. [ADD YOUR PAGE COUNT]\n\nProduce:\n1. TITLE under 140 characters that starts with the buyer's search phrase (choose from \"Mahjong Party Printable\", \"Mahjong Night Invitation\", \"Holiday Mahjong Party Kit\"), then key pieces and the three holidays. Show the character count.\n2. 13 TAGS of 20 characters or fewer (show each count), no repeats, from phrases like: mahjong party, mahjong invitation, mahjong night, mahjong score sheet, mahjong gift, hanukkah party, christmas game night, new years eve party, game night printable, mahjong place cards, holiday hosting, mahjong lover gift, girls night games.\n3. DESCRIPTION: a 2-line opening; \"What's included\" by piece and design; sizes and file formats; how delivery and editing work; printing tips (cardstock, fold lines); what is not included (tiles; the official card); a line that illustrations were made with AI assistance and designed by me; license (personal use, not for resale); a 5-question FAQ (Can I edit the text? Which holidays? Will it print on A4? Can beginners use the table tent? Can I use it for a birthday?). Add a note to download early for holiday timing.\nRULES: No trademarked or brand terms in the title or tags (no league names or abbreviations, no tile-brand or designer-set names, no drink or spirit brands, no software brands); one plain compatibility note about the editing app may appear in the description only. No claims about outcomes. Do not describe mahjong as exotic or mysterious. Output in order: Title, Tags, Description.",
+      "pricing": {
+        "recommended": 8,
+        "low": 6,
+        "high": 12,
+        "currency": "USD",
+        "rationale": "$8 is the input's test price: inside the $1-12 band of existing mahjong printables but with three full coordinated designs and first-timer tents, so it reads as good value against a single score pad. Use a 25% Etsy sale in December rather than a lower list price.",
+        "basis": "estimate"
+      },
+      "costs": {
+        "provider": null,
+        "item": null,
+        "baseCost": null,
+        "shipping": null,
+        "pages": null,
+        "basis": "estimate: digital product, no unit cost. Per-sale fees to verify in each platform's current fee page: Etsy about $0.20 listing + 6.5% transaction + about 3% + $0.25 payment processing (US); Gumroad ab",
+        "testBudget": 14,
+        "testBudgetNote": "Optional $1/day Etsy Ads for 14 days (Nov 5-18) once the listing has some favorites; the input's test relies on 10 Pinterest pins, so skip ads if pins are already sending views."
+      },
+      "platforms": [
+        {
+          "name": "Etsy",
+          "role": "primary",
+          "why": "Holiday party printables are a core Etsy search category, and buyers expect instant downloads for hosting."
+        },
+        {
+          "name": "Pinterest",
+          "role": "traffic",
+          "why": "Holiday hosting ideas are planned on Pinterest weeks ahead, so pins posted in late October can surface by early December."
+        },
+        {
+          "name": "Instagram",
+          "role": "traffic",
+          "why": "Styled table-setting Reels fit the girls'-night hosting audience."
+        },
+        {
+          "name": "Gumroad",
+          "role": "secondary",
+          "why": "Direct link for the email list built by the instructor and club kits, and an easy bonus file for kit bundles."
+        }
+      ],
+      "marketing": {
+        "positioning": "A coordinated holiday mahjong night in one download: invitations to score pads in three original looks, first-timer table tents so new players can join in, and a lesson voucher for anyone gifting a set.",
+        "launchPlan": [
+          {
+            "day": "Day 0 (Thu Oct 29, 2026)",
+            "action": "Publish the $8 listing (input deadline: by Nov 1). Post the first 4 of 10 Pinterest pins (one per design plus the table tent)."
+          },
+          {
+            "day": "Day 1 (Fri Oct 30)",
+            "action": "Add it to the Gumroad store and as a 'pairs with' line on the instructor and club kit listings; email the mahjong list once."
+          },
+          {
+            "day": "Day 3 (Sun Nov 1)",
+            "action": "Post a Reel/TikTok: 'Setting a holiday mahjong table in 30 seconds' with the printed kit. Pin 2 more designs."
+          },
+          {
+            "day": "Day 7 (Thu Nov 5)",
+            "action": "Finish the 10 pins. If the listing has favorites, start the optional $1/day Etsy Ads for 14 days."
+          },
+          {
+            "day": "Day 14 (Thu Nov 12)",
+            "action": "Post Reel 2: the lesson voucher as a gift idea for people buying a mahjong set. Check views and favorites."
+          },
+          {
+            "day": "Day 21 (Thu Nov 19)",
+            "action": "Interim check: if favorites are coming but sales are few, start offering the kit as a bonus inside the club kit now (the input's pivot) while keeping the listing live."
+          },
+          {
+            "day": "Day 27 (Wed Nov 25)",
+            "action": "Stop check: under 50 views by Nov 25 means stop promoting it and fold it into the club kit as a bonus."
+          },
+          {
+            "day": "Day 35 (Thu Dec 3)",
+            "action": "Last push: 'print it tonight' pins and a Story for early-December Hanukkah hosting (verify the 2026 dates) and Christmas parties; run a 25% sale through Dec 24."
+          },
+          {
+            "day": "Day 42 (Thu Dec 10)",
+            "action": "Continue check: at least 5 sales by Dec 10 means keep it, add a New Year's Eve push and plan a respectful Lunar New Year 2027 edition. Fewer sales: keep it only as a bundle bonus."
+          }
+        ],
+        "channels": [
+          {
+            "channel": "Pinterest",
+            "tactic": "Seasonal pins per design and per piece on a 'Holiday mahjong night' board, linking to Etsy.",
+            "cadence": "4 pins on Day 0, 10 by Day 7, then 1 per day through Dec 10"
+          },
+          {
+            "channel": "Instagram Reels / TikTok",
+            "tactic": "Table-setting and printing videos; the voucher as a gift-with-a-set idea.",
+            "cadence": "2 per week Nov 1-Dec 15"
+          },
+          {
+            "channel": "Etsy Ads",
+            "tactic": "$1/day once favorites appear.",
+            "cadence": "Daily for 14 days (Nov 5-18), optional"
+          },
+          {
+            "channel": "Email (Gumroad list from the mahjong kits)",
+            "tactic": "Holiday hosting email with the kit and a December sale code.",
+            "cadence": "1 email at launch, 1 in early December"
+          }
+        ],
+        "keywords": [
+          "mahjong party printable",
+          "mahjong night invitation",
+          "mahjong score sheet",
+          "holiday game night printable",
+          "hanukkah party printable",
+          "christmas game night",
+          "new years eve party printable",
+          "mahjong gift",
+          "mahjong place cards",
+          "girls night game ideas"
+        ],
+        "hooks": [
+          "Hosting mahjong night this December? Print the whole table in one go.",
+          "New player at the table? This tent card explains a turn in 5 steps.",
+          "Three looks: Festival of Lights, Evergreen, Midnight.",
+          "Gifting a mahjong set? Add a 'one lesson with me' voucher.",
+          "Invitations, place cards, score pads and a cocoa menu that match."
+        ]
+      },
+      "extensions": [
+        "Lunar New Year 2027 edition designed respectfully, ideally with an Asian-American collaborator or reviewer",
+        "Birthday, bachelorette and Galentine's mahjong night editions from the same templates",
+        "Spring 'new card night' party kit (no card content)",
+        "Bonus file inside the club and instructor kits (also the pivot)",
+        "Editable 'mahjong night' invitation-only listing at $3-4 as a low-price entry product"
+      ],
+      "asymmetry": {
+        "downside": "About 8 hours and $0-14 in ads. The risk is timing: if Etsy does not surface the listing before mid-December, the season ends before the test does.",
+        "upside": "Zero marginal cost; reusable every holiday season and adaptable to birthdays and Lunar New Year; strengthens the mahjong product line as a bundle bonus even if it sells little alone.",
+        "badBetIf": "You cannot list it by Nov 1, or Etsy page 1 for 'mahjong party printable' is already full of matching kits under $5. It is the least asymmetric of the three mahjong products: seasonal with a hard end date and in a crowded printable category."
+      },
+      "risks": [
+        "Hard seasonal deadline: sales stop after December; a late listing may not be indexed in time.",
+        "Image AI can draw a seven-branch menorah or garbled Hebrew letters on a dreidel; check every illustration before use.",
+        "Mixing holiday motifs with mahjong must stay respectful; avoid stereotyped 'Oriental' styling.",
+        "Score pads and invitations are crowded on Etsy; the table tents and voucher are what make it different, so feature them in photos.",
+        "Keep official card hands, league names and tile-brand artwork out of every piece."
+      ],
+      "source": "written"
+    }
+  ],
+  "writtenAt": "2026-10-04T23:13:22Z",
+  "source": "written"
+}

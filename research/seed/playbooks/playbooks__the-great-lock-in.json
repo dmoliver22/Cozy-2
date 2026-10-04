@@ -147,7 +147,7 @@
           "proof log",
           "accountability",
           "progress tracker",
-          "winter arc tracker (only if the USPTO search is clear)"
+          "winter arc tracker"
         ],
         "hooks": [
           "There are 12 weeks left in 2026. Here's my lock-in setup.",
@@ -170,7 +170,7 @@
       },
       "risks": [
         "The window is nearly closed: the 2026 lock-in started Sept 1 and a new Etsy listing takes weeks to surface.",
-        "Trademark filings for 'Great Lock-In', 'lock in' and 'winter arc' were not checked in the research.",
+        "Trademark filings for 'Great Lock-In', 'lock in' and 'winter arc' were not checked in the research; run the USPTO search before using any of them, including the 'winter arc tracker' keyword.",
         "Generic habit trackers are saturated on Etsy.",
         "Burnout or grind-culture backlash could cool interest; the rest day and minimum version are there to answer it.",
         "The research's Oct 6 start leaves a 6-day first week; the prompt uses Mon Oct 5 to Sun Dec 27, which is exactly 12 weeks."
@@ -365,6 +365,6 @@
       "source": "written"
     }
   ],
-  "writtenAt": "2026-10-04T23:12:10Z",
+  "writtenAt": "2026-10-04T23:13:02Z",
   "source": "written"
 }

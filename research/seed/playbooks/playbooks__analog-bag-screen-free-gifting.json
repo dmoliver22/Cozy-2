@@ -1,0 +1,591 @@
+{
+  "id": "analog-bag-screen-free-gifting",
+  "candidateId": "analog-bag-screen-free-gifting",
+  "products": [
+    {
+      "index": 0,
+      "themeKey": "'Analog Bag Refill Pack': about 40 printable half-letter/A5",
+      "productName": "Analog Bag Refill Pack (printable pocket booklets)",
+      "superPrompt": "You are a puzzle constructor and a stationery designer. Your goal: produce the complete content of a 40-page printable \"Analog Bag Refill Pack\": pocket booklets a buyer prints, folds and tucks into a tote or stocking as a screen-free gift.\n\nBUYER AND JOB: Gen Z and millennial women aged 18-34 who carry an \"analog bag\" (a tote of screen-free activities) so they reach for it instead of their phone, plus friends and parents buying them a last-minute, low-cost gift. Most screen-free printables are kids' coloring packs; this one is written for adults and teens, fully original, and gift-ready.\n\nUSE YOUR CODE TOOL (Python) to build and verify every puzzle. If you have no code tool, say so at the top and make only small puzzles you can check by listing each answer's grid coordinates.\n\nDELIVERABLE: pages are half-letter 5.5x8.5 in (I will also make A5 148x210 mm), 0.4 in margins, printed as fold-in-half booklets.\nBooklet 1 \"Pocket Puzzles\" (16 pages): cover; how to play; 4 criss-cross crosswords (12-14 words each; themes: cozy evenings, things in a tote, winter walks, paper and ink) with original clues; 4 word searches (13x13 grid, 14 words, uppercase; words run forward, down or diagonally down only; themes: library, crafts, tea time, winter); 3 logic-grid puzzles (3 categories x 4 items, 5-7 clues, a two-line story, exactly one solution); 3 pages of answer keys.\nBooklet 2 \"Sketch Something\" (8 pages): cover plus 30 sketch prompts, 4-5 per page, each with an empty frame.\nBooklet 3 \"52 Weeks of Pages\" (8 pages): cover, 52 journal prompts numbered by week, and a notes page.\nLoose pages: \"Offline Bingo\" (5x5 card: 24 phone-free activities and a free center square \"Phone in another room\"); a \"What's in my analog bag\" checklist; a one-sheet 8-panel mini-zine \"A Pocket Guide to Going Analog\" (US Letter landscape; say which panels print upside down and give fold-and-cut steps); a gift-tag page (4 tags at 2.5x4 in reading \"Your analog bag awaits\" with To and From lines); a printing-and-folding instructions page.\n\nDESIGN: Palette \"Oat & Ink\": Oat Paper #F4EDE1, Graphite #2E2E2E, Tomato #D9583B, Moss #6B7B4B, Denim #3E5C76, Butter #F2C94C. Fonts: Playfair Display (titles), Courier Prime (grid numbers, labels), Lato (body, 10 pt minimum), Caveat (handwritten accents). Keep it ink-light: white page backgrounds with small color accents. Give layout notes for every page: title area, grid size in inches, frame positions.\n\nPUZZLE ACCURACY (must pass):\n- Crosswords: show each grid as rows of characters with # for empty cells, the numbering, Across and Down clues and answers; confirm every crossing letter matches and every listed word appears exactly once.\n- Word searches: print 13 rows of 13 letters; give each word's start cell and direction; confirm with code that each word appears exactly once; fill the rest with random letters and regenerate if any rude or unintended word appears.\n- Logic grids: brute-force all combinations to confirm exactly one solution; give the solution table.\n- Write every clue, story and prompt from scratch; never copy published puzzles; no famous names, brands, films, songs or games in answers or clues.\n\nPROMPTS: Sketch and journal prompts are concrete, playful and doable in 5-15 minutes; mix observation (\"the view from your usual seat\"), memory and imagination; nothing that needs a phone; inclusive and non-religious; reading level grade 6-8; no therapy language and no promises about mood, focus, health or productivity.\n\nDIFFERENTIATION: Adult and teen voice, gift packaging (tag, booklet fold), all puzzles original and verified, and a coordinated look that matches a companion tote.\n\nCONSTRAINTS: Use \"analog\" as a plain word only. No brand names (no puzzle, newspaper, camera, phone, app or social-media brands), no daily five-letter guessing grids or other branded game formats, no real people or creators.\n\nOUTPUT FORMAT: Part 1: Booklet 1 page by page with complete puzzles and answer keys. Part 2: Booklets 2 and 3. Part 3: loose pages. Write each page as \"PAGE n | title | layout | exact text or grid\". If your tool can save files, also render each puzzle grid and answer key as a 300 DPI PNG on a transparent background. Stop after each part and wait for me to type \"continue\".\n\nSELF-CHECK before each part: page counts 16/8/8; 30 sketch prompts; 52 journal prompts; 24 bingo squares plus the free center; every puzzle verified as above and every answer key matching its puzzle; no brand names, claims or copied text. Fix anything that fails, then answer.",
+      "imagePrompts": [
+        {
+          "tool": "Midjourney (or Ideogram)",
+          "purpose": "Booklet cover and hero illustration",
+          "prompt": "Flat hand-drawn illustration in a risograph print style: an open natural canvas tote bag with its contents spilling out: a paperback with a blank cover, a pencil, a small folded booklet, a ball of yarn with a crochet hook, and a boxy generic film camera with no logo and no brand shape. Muted palette: oat paper #F4EDE1 background, tomato #D9583B, moss #6B7B4B, denim #3E5C76, butter #F2C94C accents, graphite #2E2E2E outlines, light grain texture, centered composition with space above for a title. No text, no letters, no logos, no instant cameras, no phones, no people, no watermarks. Aspect ratio 2:3, solid oat background. --ar 2:3 --no text, letters, logos, phone, people, watermark"
+        },
+        {
+          "tool": "ChatGPT images (ask for a transparent PNG)",
+          "purpose": "Spot icons for booklet covers, bingo squares and the checklist",
+          "prompt": "A set of 9 simple hand-drawn line icons in a 3x3 grid on a transparent background: a small crossword grid, a pencil, a sketchbook, a teacup, a ball of yarn with a hook, a paperback, an envelope, a leaf, a pair of scissors. Consistent 3 px graphite #2E2E2E lines with one flat accent color per icon from tomato #D9583B, moss #6B7B4B, denim #3E5C76, butter #F2C94C. No text, no letters, no logos, no watermarks. Aspect ratio 1:1, transparent background."
+        },
+        {
+          "tool": "Ideogram (or ChatGPT images)",
+          "purpose": "Gift tag and booklet back-cover pattern",
+          "prompt": "Seamless pattern of tiny pencils, stars, yarn balls and folded booklets scattered loosely, flat hand-drawn style, tomato #D9583B, moss #6B7B4B and denim #3E5C76 on solid oat paper #F4EDE1, lots of breathing room. No text, no letters, no logos, no watermarks. Aspect ratio 1:1, tileable edges."
+        },
+        {
+          "tool": "Midjourney (or ChatGPT images)",
+          "purpose": "Lifestyle mockup background for listing photos and pins",
+          "prompt": "Photo of three small paper booklets folded in half beside a natural canvas tote bag, a pencil, a ball of yarn and a mug on a wooden bench by a window, soft daylight, cozy autumn mood, the booklet covers plain cream with nothing printed so designs can be placed on them. No text, no logos, no phones, no screens, no people, no watermarks. Photorealistic, aspect ratio 4:3. --ar 4:3 --style raw --no text, logos, phone, people, watermark"
+        }
+      ],
+      "assembly": [
+        "Oct 5 (about 4 h): run the super prompt in ChatGPT with its Python tool on, or Claude with code execution on, in three parts. Save each part to a Google Doc and download any grid PNGs it renders. Hand-check 2 crosswords and 1 word search against their answer keys.",
+        "In Canva create a custom 5.5 x 8.5 in design (16 pages for Booklet 1, then two 8-page designs), add the 'Oat & Ink' hex codes and the fonts Playfair Display, Courier Prime, Lato and Caveat, and set 0.4 in margin guides.",
+        "Place the puzzles: use the rendered PNGs, or rebuild grids with Canva's Table element (crossword squares about 0.3 in with Graphite-filled empty cells and 6 pt Courier Prime numbers; word searches as 13 x 13 tables at 11 pt). Keep answer keys at the back of Booklet 1.",
+        "Lay out the prompts, bingo card (5 x 5 table), checklist and gift tags (2 x 2 on one half-letter page with dashed cut lines). Build the mini-zine as a separate US Letter landscape design with 8 panels and the top row rotated 180 degrees.",
+        "Make the A5 versions: duplicate each design at 148 x 210 mm and refit; duplicate the zine at A4 landscape.",
+        "Export Share > Download > PDF Print (300 DPI), no crop marks, pages in reading order. Test-print one booklet with Adobe Acrobat Reader (free): Print > Booklet > Both sides > Binding Left, flip on the short edge, or print 'Front side only' then 'Back side only' without a duplex printer. Write the steps that worked on your printer into the instructions page.",
+        "Make 7 listing images at 2700 x 2025 px (hero with tote and booklets, what's-inside grid, puzzle close-up, prompts close-up, gift tag, 'print, fold, gift' in 3 steps, sizes) and a 10-15 second flip-through video.",
+        "Publish on Etsy with three files (half-letter PDF, A5 PDF, zine PDF; up to 5 files of 20 MB each) and on Gumroad; add the Offline Bingo page alone as a $0+ Gumroad product to collect emails."
+      ],
+      "listingPrompt": "You are an Etsy SEO copywriter. Write the Etsy listing for my digital download \"Analog Bag Refill Pack\", a printable screen-free gift for adults and teens.\nProduct facts: about 40 half-letter pages (A5 version included) that fold into 3 pocket booklets: Pocket Puzzles (4 crosswords, 4 word searches, 3 logic puzzles, answer keys; all original), Sketch Something (30 sketch prompts with frames), 52 Weeks of Pages (52 journal prompts); plus Offline Bingo, a \"What's in my analog bag\" checklist, an 8-panel mini-zine, gift tags reading \"Your analog bag awaits\", and printing and folding instructions. Files: half-letter PDF, A5 PDF, mini-zine PDF (US Letter and A4). Instant download; print at home in black and white or color. [ADD YOUR FINAL PAGE COUNT]\n\nProduce:\n1. TITLE under 140 characters starting with the buyer's search phrase (choose from \"Analog Bag Printable\", \"Screen Free Gift for Adults\", \"Printable Puzzle Booklet\"), then contents and gift use (stocking stuffer, last-minute gift). Sentence case; show the character count.\n2. 13 TAGS of 20 characters or fewer (show each count), no repeats, from phrases like: analog bag, analog bag ideas, screen free gift, digital detox gift, printable puzzles, adult word search, crossword printable, journal prompts, sketch prompts, stocking stuffer, last minute gift, offline activities, pocket zine, teen gift printable, gift for her.\n3. DESCRIPTION: a 2-line opening for gift-givers and analog-bag fans; \"What's inside\" booklet by booklet; sizes and formats; how to print and fold (free PDF reader booklet setting, both sides, flip on the short edge; single-sided option); how delivery works (download from Etsy Purchases; no physical item ships); a gifting tip (print, fold, tie with string, add the tag); a line that illustrations were made with AI assistance and the puzzles and text were written and checked by me; license (personal use and gifting; no resale); a 5-question FAQ (Is it for kids? Do I need a color printer? Can I print it more than once for my own use? Are answers included? A4 or Letter?).\nRULES: No trademarked or brand terms anywhere (no camera, phone, puzzle, newspaper or app brands; no named clubs or creators; no branded game names). \"Analog\" only as a plain word. No claims about mental health, focus, sleep, productivity or \"detox\" benefits; describe what is inside, not what it will do for the buyer. Output in order: Title, Tags, Description.",
+      "pricing": {
+        "recommended": 7,
+        "low": 5,
+        "high": 12,
+        "currency": "USD",
+        "rationale": "Kids' screen-free packs sit at about $0.99-6.99 (input), so a 40-page, adult, gift-ready pack can sit at the top of that band; Gen Z gift spending is projected down 9% (input), so stay under about $10 and use holiday sales and an $11 bundle with the Phone-Free Table Kit instead of a higher list price.",
+        "basis": "estimate"
+      },
+      "costs": {
+        "provider": null,
+        "item": null,
+        "baseCost": null,
+        "shipping": null,
+        "pages": null,
+        "basis": "estimate: digital product, no unit cost. Per-sale fees to verify in each platform's current fee page: Etsy about $0.20 listing + 6.5% transaction + about 3% + $0.25 payment processing (US); Gumroad ab",
+        "testBudget": 28,
+        "testBudgetNote": "Etsy Ads $1/day from Day 1, raised to $2/day if views are under about 10/day at the Day 8 check, for 14 days (max $28). If the Day 15 check passes, keep ads at $1/day to the Day 22 check (about $7 more)."
+      },
+      "platforms": [
+        {
+          "name": "Etsy",
+          "role": "primary",
+          "why": "Gift buyers search Etsy for printables and stocking stuffers, and an 'analog bag' market page already exists with mostly kids' packs, leaving room for an adult pack."
+        },
+        {
+          "name": "Gumroad",
+          "role": "secondary",
+          "why": "Direct checkout for TikTok and Pinterest links, the free Offline Bingo lead magnet, and an email list for the January detox-season edition."
+        },
+        {
+          "name": "Pinterest",
+          "role": "traffic",
+          "why": "'Analog bag ideas' and screen-free gift ideas are visual, save-heavy topics; pins keep sending traffic through December and January."
+        },
+        {
+          "name": "TikTok",
+          "role": "traffic",
+          "why": "'Pack my analog bag' videos are the native format of the trend; a print-fold-pack video shows the product in use."
+        },
+        {
+          "name": "Instagram Reels",
+          "role": "traffic",
+          "why": "Cross-post the same videos to reach the same 18-34 audience at no extra cost."
+        }
+      ],
+      "marketing": {
+        "positioning": "A grown-up, gift-ready refill for the analog bag: 40 printable pages of original puzzles and prompts that fold into pocket booklets, with a gift tag. The instant, low-cost screen-free gift for the friend who keeps saying she wants to scroll less, where most existing packs are for kids.",
+        "launchPlan": [
+          {
+            "day": "Day 0 (Thu Oct 8, 2026)",
+            "action": "Publish on Etsy at $7 and on Gumroad (input deadline: by Oct 10). Build Oct 5-7. If you are doing both Test-now ideas, launch this one first because its window closes Dec 24."
+          },
+          {
+            "day": "Day 1 (Fri Oct 9)",
+            "action": "Start Etsy Ads at $1/day. Create the boards 'Analog bag ideas', 'Screen-free gift ideas' and 'Stocking stuffer printables', and post the first 5 pins (1000 x 1500 px)."
+          },
+          {
+            "day": "Day 2 (Sat Oct 10)",
+            "action": "Post video 1 on TikTok and Reels: 'Packing my analog bag': print, fold the booklet, pack the tote (hands only is fine)."
+          },
+          {
+            "day": "Day 4 (Mon Oct 12)",
+            "action": "Post 5 more pins (10 total) and video 2: a 40-page flip-through ('what's inside')."
+          },
+          {
+            "day": "Day 6 (Wed Oct 14)",
+            "action": "Post video 3: 'Last-minute gift: print, fold, tag.' Publish the free Offline Bingo card on Gumroad and put the link in your bios."
+          },
+          {
+            "day": "Day 8 (Fri Oct 16)",
+            "action": "Check Etsy Stats: views, favorites, ad clicks, search terms. If views are under about 10/day, raise ads to $2/day; replace the weakest listing photo."
+          },
+          {
+            "day": "Day 11 (Mon Oct 19)",
+            "action": "Launch the Phone-Free Table Kit, cross-link both listings and create the $11 bundle on Gumroad."
+          },
+          {
+            "day": "Day 15 (Fri Oct 23)",
+            "action": "14-day ad check (ads ran Oct 9-22): continue if at least 1 sale or a clearly rising favorites-to-views ratio, and pins are getting saves."
+          },
+          {
+            "day": "Day 22 (Fri Oct 30)",
+            "action": "21-day check: stop if fewer than about 100 listing views after 21 days of ads. Pivot if views and favorites come but no sales: reposition as a family/teen 'phone-free holiday' pack or bundle it with the table kit."
+          },
+          {
+            "day": "Day 43 (Fri Nov 20)",
+            "action": "Final check: no sales by Nov 20 means stop. Otherwise scale: gift-guide pins, a 25% sale from Black Friday to Dec 20, the tote gift set, and plan the January 'analog year' edition."
+          }
+        ],
+        "channels": [
+          {
+            "channel": "Pinterest",
+            "tactic": "Pins of the booklets in a tote, the puzzle pages, the gift tag and 'analog bag ideas' lists, linking to Etsy.",
+            "cadence": "10 pins in the first 5 days, then 1-2 new pins per day through Dec 20, then January detox pins"
+          },
+          {
+            "channel": "TikTok",
+            "tactic": "Pack-with-me, flip-through and print-fold-gift videos; hands and paper only; link in bio to Gumroad or Etsy.",
+            "cadence": "3 videos in week 1, then 3 per week through Dec 20"
+          },
+          {
+            "channel": "Instagram Reels",
+            "tactic": "Cross-post the TikTok videos with the same captions.",
+            "cadence": "Same days as TikTok"
+          },
+          {
+            "channel": "Etsy Ads + Etsy SEO",
+            "tactic": "$1-2/day for 14 days; weekly tag swaps from Etsy Stats search terms. The keywords below are untested suggestions, not measured volumes.",
+            "cadence": "Daily ads Days 1-14; tag review weekly"
+          },
+          {
+            "channel": "Gumroad email list",
+            "tactic": "Free Offline Bingo card as the lead magnet; gift reminders and the bundle.",
+            "cadence": "1 email per week in November and December"
+          },
+          {
+            "channel": "Communities (for example phone-use or analog-hobby subreddit",
+            "tactic": "Share the free bingo card only where self-promotion is allowed (check the community rules); many such communities ban promotion outright.",
+            "cadence": "At most once per community"
+          }
+        ],
+        "keywords": [
+          "analog bag",
+          "analog bag ideas",
+          "screen free gift",
+          "screen free activities for adults",
+          "digital detox gift",
+          "printable puzzle book",
+          "adult word search printable",
+          "crossword printable",
+          "journal prompts printable",
+          "stocking stuffer printable",
+          "last minute gift printable",
+          "offline activities"
+        ],
+        "hooks": [
+          "Packing my analog bag for the week, and everything in it prints at home.",
+          "Last-minute gift for the friend who wants to scroll less: print, fold, tag.",
+          "40 pages of puzzles and prompts that fit in a tote pocket.",
+          "POV: your stocking stuffer is a pocket puzzle book you printed tonight.",
+          "What's in my analog bag: a paperback, yarn, and three booklets I printed."
+        ]
+      },
+      "extensions": [
+        "January 'analog year' edition for New Year and detox season (12 monthly mini-booklets)",
+        "Refill Vol. 2 and Vol. 3 with new puzzles, sold separately or as a refill bundle",
+        "Teen/family 'phone-free holiday' edition (also the pivot)",
+        "Bundle with the Phone-Free Table Kit ($11) and a tote gift set",
+        "A 6 x 9 in KDP paperback puzzle and prompt book built from the same original content",
+        "Seasonal mini-zines (spring, summer travel) as $2-3 add-ons"
+      ],
+      "asymmetry": {
+        "downside": "About 12 hours plus up to $28-35 in Etsy Ads and $0.20 listing fees. The test answers fast: a 14-day signal by Oct 23 and a firm stop line by Nov 20.",
+        "upside": "Zero marginal cost per sale; sells on Etsy and Gumroad at once; volumes and editions extend it (January detox season, Vol. 2, a KDP paperback); the free bingo card builds an email list; it anchors the table kit and the tote as a small product family in a movement that has run since 2025.",
+        "badBetIf": "The input found no direct proof that people pay for printable analog-bag content rather than physical fillers, and free sites already give away coloring pages. If page 1 of Etsy for 'analog bag' already shows adult puzzle packs under $5, or the puzzles cannot be verified (broken crosswords lead to bad reviews), do not build it."
+      },
+      "risks": [
+        "Puzzle quality: AI-made crosswords and word searches are often broken; verify with code and hand-check before listing.",
+        "Demand uncertainty: purchase intent is proven for physical screen-free gifts, not for printables.",
+        "Free competition (analogbag.net and others) could fill the adult segment.",
+        "Timing: new Etsy listings need weeks to surface, so an October listing is essential for the Nov-Dec gift peak.",
+        "Claims: avoid any mental-health or 'detox' benefit language in copy and pins.",
+        "Rights: never imitate branded puzzle formats or name camera, phone or club brands; check 'analog bag' for trademark filings before using it heavily in titles (not checked in the input)."
+      ],
+      "source": "written"
+    },
+    {
+      "index": 1,
+      "themeKey": "'Phone-Free Table Kit': a phone-basket sign ('Phones rest he",
+      "productName": "Phone-Free Table Kit (Friendsgiving + Winter/NYE editions)",
+      "superPrompt": "You are a party-game designer and a relaxed, generous holiday host. Your goal: produce the complete content of a printable \"Phone-Free Table Kit\" in two editions, Friendsgiving and Christmas/New Year's Eve, that a host downloads, prints at home and uses the same night.\n\nBUYER AND JOB: Friendsgiving and holiday-dinner hosts aged 18-35. Their friends say time together matters more than presents, and phone-free events are growing; hosts want an easy, kind way to get phones off the table and keep conversation going, without lecturing anyone.\n\nDELIVERABLE (each edition; US Letter 8.5x11 in, and I will make A4 copies, so keep a 0.25 in safe margin; ink-light white backgrounds with color accents):\n1. Phone-basket sign, 5x7 in, 2 per landscape sheet: \"Phones rest here tonight\" plus an editable line such as \"Back after dessert\". Also a basket label, 4x2 in.\n2. 60 conversation cards, 2.5x3.5 in, 9 per sheet (3x3), 7 sheets (the last 3 slots are blank \"Write your own\" cards) plus one card-back sheet for double-sided printing. Three decks of 20: Warm-Up (easy and funny), Story Time (memories and favorites), What If (imagination). 45 cards are shared by both editions and 15 are seasonal (5 per deck).\n3. Four original pen-and-paper party games, each with a one-page rules card (half-letter 5.5x8.5 in) and a score or play sheet if needed: (a) a write-draw-write paper telephone game; (b) a timed letter-and-category listing game; (c) an anonymous \"guess who wrote it\" answers game; (d) a fold-over drawing game (head, body, legs). Give each an original name and complete rules: players, time, materials, setup, how to play, scoring, and variations for 4 players and for 12 or more.\n4. Place cards: tents 3.5x2 in folded (3.5x4 in flat), 4 per sheet, editable name on the front and a \"question for your neighbor\" on the back.\n5. Host note, 5x7 in: three short versions (playful, warm, a text message to send guests beforehand) that explain the phone basket in a friendly way.\n6. Instructions page: printing, cutting, and a 3-step evening flow (arrival: basket; dinner: cards; dessert: games).\n\nDESIGN: Friendsgiving \"Harvest Table\": Cream #FBF5EA, Pumpkin #D9772B, Cranberry #9E2B3A, Sage #8DA47E, Bark #4A3B2F. Winter/NYE \"Candlelight\": Snow #F8F8F5, Midnight #1E2A44, Gold #C9A44C, Evergreen #2F5D50, Berry #A23B4D. Fonts: DM Serif Display (headings), Nunito (body, 10 pt minimum), Caveat (accents). Give layout notes for each sheet: grid, card front and back layout, icon spots.\n\nCONTENT RULES: Original wording; warm, playful, never preachy or anti-technology; reading level grade 6-8; gender-neutral; works for mixed ages 13+ and for guests who do not celebrate the holiday. Cards avoid politics, religion, money, bodies, dating status, trauma and heavy confessions; each can be answered by anyone in under 2 minutes. No claims about health, wellbeing, \"detox\" or relationship outcomes.\n\nDIFFERENTIATION: Phone-free is the hook, which generic Friendsgiving trivia and invitations do not address; signage, cards, games and place cards form one coordinated system; place cards carry neighbor questions; two editions share one design system.\n\nCONSTRAINTS: Do not use or allude to trademarked game names (for example Pictionary, Scattergories, Telestrations, Taboo, Codenames, Mad Libs, Heads Up) or their exact formats or card layouts; no phone or app brands; no named clubs, events or creators; no song lyrics, film or TV references; no real people.\n\nOUTPUT FORMAT: Edition 1 (Friendsgiving), then Edition 2 (Winter/NYE), sheet by sheet as \"SHEET n | piece | size and grid | layout | exact text\". Write the 45 shared cards once, then each edition's 15 seasonal cards and seasonal sign and host-note lines. If you run out of space, stop after Edition 1 and wait for me to type \"continue\".\n\nSELF-CHECK before answering: 60 cards per edition (45 shared + 15 seasonal), 20 per deck, no duplicates or near-duplicates, no banned topics; 4 games with complete, playable rules and original names; 9 cards fit a Letter sheet (7.5x10.5 in) and an A4 sheet (190.5x266.7 mm); no brand or trademarked game names; no claims. Fix anything that fails, then answer.",
+      "imagePrompts": [
+        {
+          "tool": "ChatGPT images (ask for a transparent PNG)",
+          "purpose": "Friendsgiving 'Harvest Table' spot illustrations",
+          "prompt": "Set of 6 flat hand-drawn illustrations in a row on a transparent background: a woven basket holding three plain face-down phones (blank backs, no logos, no camera bumps or brand shapes), a pie with a lattice top, two autumn leaves, a lit taper candle, a pencil on folded paper, a small gravy boat. Colors pumpkin #D9772B, cranberry #9E2B3A, sage #8DA47E with bark #4A3B2F outlines. No text, no letters, no logos, no people, no watermarks. Aspect ratio 3:2, transparent background."
+        },
+        {
+          "tool": "ChatGPT images (ask for a transparent PNG)",
+          "purpose": "Winter/NYE 'Candlelight' spot illustrations",
+          "prompt": "Set of 6 flat hand-drawn illustrations in a row on a transparent background: a woven basket holding three plain face-down phones (blank backs, no logos or brand shapes), a strand of string lights, a lit candle, falling confetti, a round clock face with hands at twelve and no numbers, a pair of mittens. Colors midnight #1E2A44, gold #C9A44C, evergreen #2F5D50, berry #A23B4D. No text, no letters, no logos, no people, no watermarks. Aspect ratio 3:2, transparent background."
+        },
+        {
+          "tool": "Ideogram (or ChatGPT images)",
+          "purpose": "Conversation card back pattern (one per edition, recolor in Canva)",
+          "prompt": "Seamless pattern of small speech-bubble outlines, tiny stars and dots, flat line style, pumpkin #D9772B and sage #8DA47E lines on solid cream #FBF5EA, evenly spaced, calm. No text, no letters, no logos, no watermarks. Aspect ratio 5:7, tileable edges."
+        },
+        {
+          "tool": "Midjourney (or ChatGPT images)",
+          "purpose": "Listing and pin mockup background",
+          "prompt": "Overhead photo of a candlelit Friendsgiving table: plates of food, autumn leaves, mismatched glasses, a few blank cream cards scattered between the plates, an empty woven basket in the center, warm low light, cozy and unfussy. No phones visible, no text, no logos, no people, no watermarks. Photorealistic, aspect ratio 4:3. --ar 4:3 --style raw --no text, logos, phone, people, watermark"
+        }
+      ],
+      "assembly": [
+        "Paste the super prompt into Claude or ChatGPT, type 'continue' for Edition 2, and save the output in a Google Doc. Read every card aloud once and replace any that feel awkward or repetitive; play one game with 2-3 people to check the rules.",
+        "In Canva create a US Letter design for the card sheets with a 3 x 3 grid of 2.5 x 3.5 in frames (0.5 in side margins, 0.25 in top and bottom) and short grey corner cut marks; add a matching card-back sheet laid out as the mirror image for long-edge duplex printing.",
+        "Build the Friendsgiving edition sheet by sheet: sign (2 x 5x7 on Letter landscape), basket label, 7 card sheets, 4 game rules cards (5.5 x 8.5 in, 2 per Letter landscape sheet) with play sheets, place cards (4 per sheet with a dashed fold line), host note, instructions.",
+        "Duplicate the whole design and restyle it as Winter/NYE: swap the palette, illustrations, the 15 seasonal cards, sign line and host-note lines.",
+        "Make A4 versions at 210 x 297 mm: keep cards at 2.5 x 3.5 in (63.5 x 88.9 mm; a 3 x 3 grid is 190.5 x 266.7 mm and fits) and refit the other pieces.",
+        "Export Share > Download > PDF Print, no crop marks, one Letter and one A4 PDF per edition, and a 1-page template-links PDF for the editable pieces (place cards, sign line, host note), tested in a private window.",
+        "Make 6 listing images at 2700 x 2025 px and a 10-15 second video (print, cut, phones into the basket), then publish the Friendsgiving edition on Etsy (Letter PDF, A4 PDF, links PDF) and Gumroad; publish Winter/NYE as its own listing on Nov 25."
+      ],
+      "listingPrompt": "You are an Etsy SEO copywriter. Write the Etsy listing for my digital download \"Phone-Free Table Kit: Friendsgiving Edition\" for hosts who want a phones-down dinner.\nProduct facts: phone-basket sign (\"Phones rest here tonight\") and basket label; 60 conversation cards in 3 decks (Warm-Up, Story Time, What If) with card backs and 3 write-your-own cards; 4 original pen-and-paper party games with rules cards and play sheets; fold-over place cards with a question for your neighbor on the back; host note in 3 versions including a text to send guests; evening flow and printing instructions. Formats: US Letter and A4 PDFs plus template links to edit names and the sign line (free Canva account). Instant download. [A WINTER/NEW YEAR'S EVE EDITION IS A SEPARATE LISTING]\n\nProduce:\n1. TITLE under 140 characters starting with the buyer's search phrase (choose from \"Friendsgiving Games Printable\", \"Phone Free Party Kit\", \"Friendsgiving Conversation Cards\"), then key contents. Sentence case; show the character count.\n2. 13 TAGS of 20 characters or fewer (show each count), no repeats, from phrases like: friendsgiving games, friendsgiving decor, phone free party, phone basket sign, conversation cards, table talk cards, dinner party games, thanksgiving games, party game printable, place cards, hosting printable, game night printable, friendsgiving ideas.\n3. DESCRIPTION: a 2-line opening for hosts; \"What's included\" piece by piece; sizes and formats; how to print and cut (cardstock tip, double-sided card backs, flip on the long edge); how delivery works; how to run the evening in 3 steps; a line that illustrations were made with AI assistance and designed by me; license (personal use; no resale); a 5-question FAQ (Do guests need anything? How many players do the games need? Is it kid-friendly? Can I edit names? Is there a Christmas/New Year's version?).\nRULES: No trademarked or brand terms anywhere (no named board or party games, no phone or app brands, no named clubs or events); one plain compatibility note about the editing app may appear in the description only. No claims about health, wellbeing, \"detox\" or relationships; describe what is in the kit, not what it will do. Keep the tone friendly, never anti-technology. Output in order: Title, Tags, Description.",
+      "pricing": {
+        "recommended": 7,
+        "low": 5,
+        "high": 10,
+        "currency": "USD",
+        "rationale": "Priced like a mid-range party-game printable (an estimate; the input did not record competitor prices) but covering a whole evening; Gen Z budget pressure argues for under $10. Offer the $11 bundle with the Refill Pack and a $10 two-edition bundle in late November.",
+        "basis": "estimate"
+      },
+      "costs": {
+        "provider": null,
+        "item": null,
+        "baseCost": null,
+        "shipping": null,
+        "pages": null,
+        "basis": "estimate: digital product, no unit cost. Per-sale fees to verify in each platform's current fee page: Etsy about $0.20 listing + 6.5% transaction + about 3% + $0.25 payment processing (US); Gumroad ab",
+        "testBudget": 14,
+        "testBudgetNote": "Etsy Ads $1/day for 14 days from Day 4 (Oct 23-Nov 5); the input's stop rule assumes pins and ads both ran."
+      },
+      "platforms": [
+        {
+          "name": "Etsy",
+          "role": "primary",
+          "why": "Friendsgiving and holiday-party printables are an established instant-download category on Etsy, and 'phone-free' is a fresh angle within it."
+        },
+        {
+          "name": "Pinterest",
+          "role": "traffic",
+          "why": "Friendsgiving planning happens on Pinterest weeks ahead; 'Friendsgiving games' and 'phone-free party' pins can surface by mid-November."
+        },
+        {
+          "name": "Instagram",
+          "role": "traffic",
+          "why": "Table-setting Reels and Stories reach 18-35 hosts."
+        },
+        {
+          "name": "TikTok",
+          "role": "traffic",
+          "why": "A 'phones go in the basket' dinner video is a simple, shareable demo."
+        },
+        {
+          "name": "Gumroad",
+          "role": "secondary",
+          "why": "Direct links from videos and bundles with the Refill Pack; email list for the Winter/NYE edition."
+        }
+      ],
+      "marketing": {
+        "positioning": "The easy, friendly way to host a phones-down Friendsgiving: a basket sign, 60 conversation cards and 4 pen-and-paper games in one printable, with a Winter/New Year's Eve edition from the same design system.",
+        "launchPlan": [
+          {
+            "day": "Day 0 (Mon Oct 19, 2026)",
+            "action": "Publish the Friendsgiving edition at $7 on Etsy and Gumroad (input deadline: by Oct 20). Queue 10 pins targeting 'Friendsgiving games' and 'phone-free party'."
+          },
+          {
+            "day": "Day 1 (Tue Oct 20)",
+            "action": "Post 3 pins (sign, cards, games). Cross-link with the Refill Pack and create the $11 Gumroad bundle."
+          },
+          {
+            "day": "Day 2 (Wed Oct 21)",
+            "action": "Post video 1: 'Setting a phone-free Friendsgiving table': print, cut, basket."
+          },
+          {
+            "day": "Day 4 (Fri Oct 23)",
+            "action": "Start Etsy Ads at $1/day for 14 days. Pins drop from 3 per day (Days 1-3) to 1 per day."
+          },
+          {
+            "day": "Day 7 (Mon Oct 26)",
+            "action": "Weekly check: listing views, favorites and pin saves. Swap the first photo if click-through is weak."
+          },
+          {
+            "day": "Day 10 (Thu Oct 29)",
+            "action": "Post video 2: playing one of the games (hands and paper only). Email the Refill Pack list once."
+          },
+          {
+            "day": "Day 14 (Mon Nov 2)",
+            "action": "Weekly check. Start drafting the Winter/NYE seasonal cards so the second edition can ship fast."
+          },
+          {
+            "day": "Day 22 (Tue Nov 10)",
+            "action": "Stop check: under 50 views by Nov 10 despite pins and ads means stop the Friendsgiving push. If views come but no sales, drop Friendsgiving and put the effort into a New Year's Eve 'phone-free countdown' edition (the input's pivot)."
+          },
+          {
+            "day": "Day 27 (Sun Nov 15)",
+            "action": "Continue check: any sales or steady favorite growth means build the Winter/NYE edition now."
+          },
+          {
+            "day": "Day 37 (Wed Nov 25)",
+            "action": "Publish the Winter/NYE edition and the $10 two-edition bundle; switch pins to 'Christmas dinner games' and 'New Year's Eve party ideas'."
+          }
+        ],
+        "channels": [
+          {
+            "channel": "Pinterest",
+            "tactic": "Pins of the basket sign, card sheets and game rules on 'Friendsgiving ideas' and 'Phone-free party' boards.",
+            "cadence": "3 pins per day for the first 3 days, then 1 per day until Nov 26; Winter/NYE pins daily from Nov 25 to Dec 31"
+          },
+          {
+            "channel": "TikTok + Instagram Reels",
+            "tactic": "Table setup, basket moment, a game played on camera with hands only.",
+            "cadence": "2 videos per week Oct 21-Dec 31"
+          },
+          {
+            "channel": "Etsy Ads",
+            "tactic": "$1/day to test search demand.",
+            "cadence": "Daily for 14 days (Oct 23-Nov 5)"
+          },
+          {
+            "channel": "Instagram Stories",
+            "tactic": "Behind-the-scenes printing and cutting; poll 'phones on or off at dinner?'.",
+            "cadence": "2-3 per week"
+          },
+          {
+            "channel": "Email (Refill Pack list)",
+            "tactic": "Hosting reminder with the bundle.",
+            "cadence": "1 email per edition launch"
+          }
+        ],
+        "keywords": [
+          "friendsgiving games",
+          "friendsgiving printable",
+          "phone free party",
+          "phone basket sign",
+          "conversation cards printable",
+          "table talk cards",
+          "dinner party games",
+          "thanksgiving table games",
+          "christmas dinner games",
+          "new years eve party games"
+        ],
+        "hooks": [
+          "The Friendsgiving basket where the phones go.",
+          "60 conversation cards for a phones-down dinner.",
+          "4 pen-and-paper games for after dessert.",
+          "Hosting Friendsgiving? Here's the whole table, printable tonight.",
+          "New Year's Eve, phones down until midnight."
+        ]
+      },
+      "extensions": [
+        "New Year's Eve 'phone-free countdown' edition (also the pivot)",
+        "Birthday, bachelorette and book-club phone-free gathering editions",
+        "Valentine's/Galentine's dinner edition for February",
+        "Bundle with the Analog Bag Refill Pack ($11) and a two-edition bundle ($10)",
+        "Printed card deck version through a print-on-demand card printer later, if the digital kit sells"
+      ],
+      "asymmetry": {
+        "downside": "About 10 hours for the first edition (the second is mostly a restyle, about 3-4 hours) plus $14 in ads.",
+        "upside": "Zero marginal cost; one design system serves Friendsgiving, Christmas, New Year's Eve and later birthdays or Galentine's; bundles with the Refill Pack; the shared 45 cards are reusable in every future edition.",
+        "badBetIf": "It is published after Oct 20 (Friendsgiving discovery is short), or Etsy page 1 for 'Friendsgiving games' is full of strong sellers under $4. It is seasonal with a hard end date, so it is less asymmetric than the evergreen mahjong kits."
+      },
+      "risks": [
+        "Short window: Friendsgiving demand concentrates in the weeks before Nov 26; late indexing kills the test.",
+        "Tone risk: copy that sounds preachy or anti-phone can turn buyers off; keep it playful.",
+        "Game IP: original names and rules only; do not reference trademarked party games even as comparisons.",
+        "Claims: no wellbeing, 'detox' or relationship benefit language.",
+        "Crowded adjacent category (Friendsgiving trivia and invitations); the phone-free angle must lead every photo and title."
+      ],
+      "source": "written"
+    },
+    {
+      "index": 2,
+      "themeKey": "An illustrated 'contents map' tote: line drawings of a paper",
+      "productName": "Analog Bag 'Contents Map' Tote (POD)",
+      "superPrompt": "You are an illustrator and print-on-demand designer. Your goal: produce the complete design package for an illustrated \"contents map\" tote bag, a canvas tote whose artwork shows what goes inside an analog bag, sold on Etsy through Printify.\n\nBUYER AND JOB: Analog-curious Gen Z and millennials, and people buying a tote to build an analog bag as a gift. The bag is the object at the center of the trend, so this tote is both the gift and the container; it pairs with a printable \"Analog Bag Refill Pack\".\n\nDELIVERABLE:\n1. Phrase options: 12 original short phrases (2-4 words) for the top of the design in the spirit of \"Gone analog\", plain and warm, no puns on brands. Rank them and flag each \"needs a USPTO trademark search before use\"; never present any phrase as cleared.\n2. Composition spec for a single-color line drawing on a 14x14 in square master (4200x4200 px at 300 DPI, transparent background), centered: a dashed outline of an open tote containing 6 items drawn in a loose, overlapping arrangement: a paperback with a blank cover, a boxy generic film camera (rangefinder-like rectangle, no instant-camera shape, no logo, no lens text), a ball of yarn with a crochet hook, a small folded pocket puzzle booklet, a pencil, and a small notebook. Each item gets a small number in a circle; a legend below reads like a map key (for example \"1 a paperback 2 a camera 3 yarn & hook 4 a pocket puzzle 5 a pencil 6 a notebook\"; write the final legend text). Give the item positions as a 3x3 grid layout and the phrase position.\n3. Print rules: minimum line weight about 2 pt at final size; no fine hatching or tiny text under 14 pt; one ink color; text set later in a typed font, not drawn by the image AI. Ink versions: Graphite #2E2E2E on a natural tote, Denim #3E5C76 as an alternate, and Oat #F4EDE1 for a black tote.\n4. Three image-generation prompts I can paste into an image model: (a) the main line drawing, (b) a looser hand-drawn alternate, (c) the six items as separate sticker-style icons for spin-offs. Each states the style, composition, colors with hex codes, aspect ratio 1:1, transparent or pure white background, and negatives (no text, no logos, no brand shapes, no people, no watermarks).\n5. Typography: a font for the phrase (such as Playfair Display Italic or DM Serif Display) and for the legend (Caveat or Courier Prime), with sizes in points at the 14 in width.\n6. A mockup shot list of 7 listing images (flat lay, packed with refill booklets, on a shoulder with no face, detail of the legend, size guide, gift-set image, color options) and a 3-line gift-set note that tells buyers how the refill pack pairs with the tote.\n\nCONTENT RULES: Everything original; plain, friendly wording; reading level grade 6-8; no claims about health, focus or screen time.\n\nDIFFERENTIATION: Illustration-led rather than slogan-only; the legend makes it a \"map\" of an analog bag; it coordinates with the Refill Pack's \"Oat & Ink\" palette (Oat #F4EDE1, Graphite #2E2E2E, Tomato #D9583B, Moss #6B7B4B, Denim #3E5C76, Butter #F2C94C).\n\nCONSTRAINTS: No brands or trade dress: nothing resembling Polaroid, Instax or Fujifilm cameras, Brick or Light Phone devices, The Offline Club, or any newspaper puzzle or daily word-game branding; no book titles; no creators' names or likenesses; no song lyrics or film references.\n\nOUTPUT FORMAT: Numbered sections 1-6 as above, written so I can work through them in order in Canva and Printify. End with a self-check: phrases flagged for a trademark search; the camera described as generic; line-weight and text-size rules stated; all three image prompts include negatives and a 1:1 aspect ratio; no brand names appear except in the \"do not resemble\" list. Fix anything that fails, then answer.",
+      "imagePrompts": [
+        {
+          "tool": "ChatGPT images (ask for a transparent PNG) or Ideogram",
+          "purpose": "Main tote artwork: single-color contents-map line drawing (text added later in Canva)",
+          "prompt": "Single-color line illustration in graphite #2E2E2E on a transparent background (or pure white #FFFFFF if transparency is not available): a dashed outline of an open tote bag seen from the front, holding six items in a loose overlapping arrangement: a paperback with a blank cover, a boxy generic rectangular film camera with a round lens and no logo or lettering, a ball of yarn with a crochet hook, a small folded booklet with a tiny blank grid, a pencil, a small spiral notebook. Each item has a small empty circle beside it for a number. Clean confident lines of even, thick weight (no fine hatching), friendly hand-drawn feel, centered with empty space above and below for text. No text, no letters, no numbers, no logos, no instant-camera shapes, no phones, no people, no watermarks. Aspect ratio 1:1."
+        },
+        {
+          "tool": "Midjourney",
+          "purpose": "Alternate looser artwork version for A/B testing",
+          "prompt": "Loose ink-pen doodle illustration of the contents of a canvas tote bag laid out like a map: paperback with blank cover, generic boxy film camera without branding, yarn ball and crochet hook, pocket puzzle booklet, pencil, notebook, each with a small blank circle marker, single color denim blue #3E5C76 on pure white #FFFFFF, thick even strokes, generous spacing, centered square composition. --ar 1:1 --style raw --no text, letters, numbers, logos, brand, instant camera, phone, people, watermark"
+        },
+        {
+          "tool": "ChatGPT images (ask for a transparent PNG)",
+          "purpose": "Six items as separate sticker-style icons (Redbubble stickers and the pivot sticker sheet)",
+          "prompt": "Six separate sticker-style illustrations in a 3x2 grid on a transparent background, each with a thick oat #F4EDE1 border: a paperback with a blank cover, a generic boxy film camera with no logo, a ball of yarn with a crochet hook, a small folded puzzle booklet, a pencil, a spiral notebook. Flat colors tomato #D9583B, moss #6B7B4B, denim #3E5C76, butter #F2C94C with graphite #2E2E2E outlines. No text, no letters, no logos, no instant-camera shapes, no people, no watermarks. Aspect ratio 3:2, transparent background."
+        },
+        {
+          "tool": "Midjourney (or ChatGPT images)",
+          "purpose": "Lifestyle background for gift-set listing photo (tote art placed via Printify or Canva mockups)",
+          "prompt": "Photo of a plain natural canvas tote bag with no print, standing on a wooden table, packed with a paperback with a blank cover, a ball of yarn, a pencil and small folded paper booklets, a mug beside it, soft window daylight, cozy autumn tones. No text, no logos, no phones, no people, no watermarks. Photorealistic, aspect ratio 4:3. --ar 4:3 --style raw --no text, logos, phone, people, watermark"
+        }
+      ],
+      "assembly": [
+        "Run the super prompt in Claude or ChatGPT; pick 2-3 phrases and check each in the USPTO trademark search (tmsearch.uspto.gov) and on Etsy for existing use before choosing one (not done in the input). If anything looks close, use another phrase.",
+        "Generate the main artwork; reject any result whose camera looks like a real brand or model. If you only get a white background, remove it (Canva Pro background remover or a free remover) and upscale to at least 4200 x 4200 px with an upscaler; for the crispest lines, trace it to vector in Inkscape (free) before export.",
+        "In Canva create a 4200 x 4200 px design, place the art, add the numbers in the circles, the legend (Caveat or Courier Prime) and the chosen phrase (Playfair Display Italic or DM Serif Display), keep all text above about 14 pt at print size, then download as PNG with a transparent background. Make an Oat #F4EDE1 ink version for a black tote.",
+        "In Printify choose a natural cotton canvas tote with a US print provider (compare base cost, ratings and production time in the catalog), download or view its print-area template, and scale the PNG to fit inside the print area with the composition centered.",
+        "Generate Printify mockups (front, close-up, both colors), connect Printify to your Etsy shop, set the price ($28 with free shipping built in), and publish. Add the print provider as a production partner in Etsy as Etsy requires for print-on-demand items.",
+        "Order one sample to your own address on Day 0; when it arrives, check line sharpness and placement, then photograph it packed with printed refill booklets and replace the mockups as the first listing photos.",
+        "Upload the same art to Redbubble (tote bags and stickers) as a no-cost secondary listing."
+      ],
+      "listingPrompt": "You are an Etsy SEO copywriter. Write the Etsy listing for a print-on-demand canvas tote bag with an original illustrated \"contents map\" of an analog bag: line drawings of a paperback, a generic film camera, yarn and a crochet hook, a pocket puzzle booklet, a pencil and a notebook, each numbered with a map-style legend, and the phrase [YOUR CHOSEN PHRASE].\nProduct facts to fill from my Printify product page: tote model and size [SIZE], fabric [FABRIC], handle length [HANDLES], print method [PRINT METHOD], production time [DAYS], US shipping time [DAYS]; printed and shipped by my print partner [PROVIDER NAME]. Gift-set option: buyers can add the printable Analog Bag Refill Pack (separate digital listing) [LINK].\n\nProduce:\n1. TITLE under 140 characters starting with the buyer's search phrase (choose from \"Analog Bag Tote\", \"Book Lover Tote Bag\", \"Canvas Tote Bag Gift\"), then the design (illustrated contents map, paperback, camera, yarn) and gift use. Sentence case; show the character count.\n2. 13 TAGS of 20 characters or fewer (show each count), no repeats, from phrases like: analog bag, analog bag tote, canvas tote bag, book lover tote, reader gift, crochet tote, gift for her, screen free gift, cute tote bag, illustrated tote, bookish gift, aesthetic tote, christmas gift tote.\n3. DESCRIPTION: a 2-line opening; what the illustration shows; tote specifications from the facts above; care instructions (cold wash inside out or spot clean; check the provider's care guidance); production and shipping times with a clear \"order by [DATE] for Christmas delivery\" line that I will set from my provider's cutoffs; the gift-set note; a line that the design was created with AI assistance and finished by me, and that it is printed by a production partner; a 4-question FAQ (What size is it? Is the print one color? Can I get it on a black tote? When will it arrive?).\nRULES: No trademarked or brand terms anywhere (no camera, phone, puzzle, newspaper or app brands, no named clubs or creators); do not call the camera by any brand or model. No claims about health, focus or screen time. Do not promise delivery dates the provider does not guarantee. Output in order: Title, Tags, Description.",
+      "pricing": {
+        "recommended": 28,
+        "low": 24,
+        "high": 34,
+        "currency": "USD",
+        "rationale": "At an estimated $13 base plus $6 US shipping, $28 with free shipping leaves about $6 after Etsy fees (estimate). Below $24 the margin nearly disappears, and above about $34 it competes with branded gift totes. Margins are thin, so the tote is mainly a gift-set anchor for the Refill Pack.",
+        "basis": "estimate"
+      },
+      "costs": {
+        "provider": "Printify",
+        "item": "Natural cotton canvas tote, about 15 x 16 in (choose a US print provider)",
+        "baseCost": 13,
+        "shipping": 6,
+        "pages": null,
+        "basis": "estimate: verify in the provider catalog. Typical canvas tote base cost is about $11-15 and first-item US shipping about $5-7 depending on print provider; Etsy fees (about 6.5% of item + shipping, abo",
+        "testBudget": 20,
+        "testBudgetNote": "One sample order to your own address (about $18-22 with shipping, estimate). No Etsy Ads: at about $6 margin per sale, paid clicks are unlikely to pay back."
+      },
+      "platforms": [
+        {
+          "name": "Etsy (via Printify)",
+          "role": "primary",
+          "why": "Gift buyers shop Etsy for illustrated totes; the Printify integration handles printing, shipping and order sync with no inventory."
+        },
+        {
+          "name": "Redbubble",
+          "role": "secondary",
+          "why": "Zero-cost second listing for the same art on totes and stickers; low margin but no extra work after upload."
+        },
+        {
+          "name": "Instagram",
+          "role": "traffic",
+          "why": "Photos of the real tote packed as an analog bag fit the trend's visual style."
+        },
+        {
+          "name": "Pinterest",
+          "role": "traffic",
+          "why": "Gift-set pins (tote plus refill booklets) catch 'analog bag ideas' and gift searches through early December."
+        }
+      ],
+      "marketing": {
+        "positioning": "The bag at the center of the trend, drawn as a map of what goes inside it: an illustration-led canvas tote that is both the gift and the container, sold as a gift set with the printable refill pack.",
+        "launchPlan": [
+          {
+            "day": "Day 0 (Thu Oct 15, 2026)",
+            "action": "Publish the Etsy listing from Printify mockups at $28 with free shipping (input deadline: by Oct 15) and order one sample to your address."
+          },
+          {
+            "day": "Day 1 (Fri Oct 16)",
+            "action": "Upload the art to Redbubble (tote and stickers)."
+          },
+          {
+            "day": "Day 2 (Sat Oct 17)",
+            "action": "Cross-link: add the tote to the Refill Pack's listing photos and description as a gift-set idea, and link the Refill Pack in the tote description."
+          },
+          {
+            "day": "Day 4 (Mon Oct 19)",
+            "action": "Post 3 Pinterest pins (tote mockup, tote plus booklets gift set, legend close-up)."
+          },
+          {
+            "day": "Day 9 (Sat Oct 24, estimate)",
+            "action": "Sample arrives (production plus shipping time varies; estimate). Check print quality, photograph it packed as an analog bag, and replace the first two listing photos."
+          },
+          {
+            "day": "Day 12 (Tue Oct 27)",
+            "action": "Post the real tote on Instagram and in a 'pack my analog bag' TikTok/Reel alongside the refill booklets."
+          },
+          {
+            "day": "Day 21 (Thu Nov 5)",
+            "action": "Review views and favorites; adjust the title and first photo, and add an 'order by [provider cutoff] for Christmas' line."
+          },
+          {
+            "day": "Day 36 (Fri Nov 20)",
+            "action": "Continue check: any tote sales by Nov 20 means keep it and push gift-set pins. Pivot if views come but no sales: offer the illustration as a sticker sheet or printable art print instead."
+          },
+          {
+            "day": "Day 51 (Sat Dec 5)",
+            "action": "Stop check: no sales by Dec 5 (the practical print-on-demand cutoff for Christmas delivery) means stop promoting it; leave it listed passively or deactivate it."
+          }
+        ],
+        "channels": [
+          {
+            "channel": "Pinterest",
+            "tactic": "Gift-set pins of the tote packed with the refill booklets, linking to the tote listing.",
+            "cadence": "3 pins in week 1, then 2 per week until Dec 5"
+          },
+          {
+            "channel": "Instagram",
+            "tactic": "Real-sample photos and a packing Reel once the sample arrives.",
+            "cadence": "2 posts per week from Day 12 to Dec 5"
+          },
+          {
+            "channel": "TikTok",
+            "tactic": "Include the tote in the Refill Pack's 'pack my analog bag' videos rather than separate promotion.",
+            "cadence": "In 1 of every 3 Refill Pack videos"
+          },
+          {
+            "channel": "Redbubble",
+            "tactic": "Upload once with clear tags; no active promotion.",
+            "cadence": "Once"
+          },
+          {
+            "channel": "Etsy SEO",
+            "tactic": "Organic only, no ads; refresh tags at Day 21. The keywords below are untested suggestions, not measured volumes.",
+            "cadence": "Once at Day 21"
+          }
+        ],
+        "keywords": [
+          "analog bag tote",
+          "analog bag",
+          "book lover tote bag",
+          "canvas tote bag gift",
+          "crochet tote bag",
+          "reader gift",
+          "illustrated tote bag",
+          "screen free gift",
+          "aesthetic tote bag",
+          "bookish gift"
+        ],
+        "hooks": [
+          "A tote that maps what goes inside an analog bag.",
+          "Building an analog bag as a gift? Start with the bag.",
+          "Paperback, yarn, pencil, puzzle: the map of my analog bag.",
+          "Gift set: the tote plus a printable refill pack you print tonight."
+        ]
+      },
+      "extensions": [
+        "Sticker sheet of the six items (printable or Redbubble), which is also the pivot",
+        "Printable art print of the contents map (8x10 and A4) as a digital listing",
+        "Matching zip pouch or bookmark design from the same illustration",
+        "Seasonal colorways (tomato ink for the holidays, moss for spring)",
+        "Use the illustration as the Refill Pack cover so the product family looks coordinated"
+      ],
+      "asymmetry": {
+        "downside": "About 6 hours plus about $20 for one sample; no inventory.",
+        "upside": "Capped: about $6 margin per sale (estimate), a hard Christmas cutoff around Dec 5-10, and a crowded print-on-demand tote market. The upside is mostly strategic: a physical anchor for the Refill Pack gift set and an illustration that is reused for stickers, prints and covers.",
+        "badBetIf": "You treat it as a standalone money-maker: it is not very asymmetric on its own (thin margin, deadline, crowded). Skip it if the sample prints poorly on canvas, the chosen phrase has trademark conflicts, or you cannot list by Oct 15."
+      },
+      "risks": [
+        "Thin margins: provider price or shipping changes can erase the roughly $6 profit; recheck costs in the catalog before publishing.",
+        "Trademark: the phrase (including 'Gone analog') is unchecked; search before use.",
+        "Brand resemblance: AI cameras often look like real models; keep it generic or redraw it.",
+        "Print quality: thin lines can break up on canvas; follow the line-weight rule and confirm with the sample.",
+        "December delays: provider production and carrier delays can miss Christmas; state cutoffs clearly and avoid promising dates.",
+        "Policy: Etsy requires print-on-demand production partners to be disclosed in listings; AI-assisted design should be disclosed too (check current policies)."
+      ],
+      "source": "written"
+    }
+  ],
+  "writtenAt": "2026-10-04T23:13:22Z",
+  "source": "written"
+}
