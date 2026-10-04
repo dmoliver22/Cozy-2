@@ -1,6 +1,7 @@
 import { h } from 'preact';
 import { ACTIONS, CATEGORIES, FORMATS, STAGES, EFFORT } from '../core/constants.js';
 import { ActionChip, ConfidenceMark, StageTrack, ScoreMeter, Icon, relTime, catLabel, fmtLabel, shortTheme, Empty } from './bits.jsx';
+import { AsymmetryChip } from './playbook.jsx';
 
 export const EMPTY_FILTERS = { q: '', action: '', format: '', category: '', stage: '', confidence: '', effort: '', region: '', channel: '', sort: 'rank' };
 const EFFORT_RANK = { low: 0, medium: 1, high: 2 };
@@ -29,9 +30,32 @@ export function sortItems(items, sort, rankCompare) {
   const list = [...items];
   if (sort === 'score') list.sort((x, y) => y.a.opportunity.score - x.a.opportunity.score);
   else if (sort === 'confidence') list.sort((x, y) => y.a.confidence.score - x.a.confidence.score);
+  else if (sort === 'asymmetry') list.sort((x, y) => (bestBet(y)?.asym.score ?? -1) - (bestBet(x)?.asym.score ?? -1));
   else if (sort === 'recent') list.sort((x, y) => Date.parse(y.c.researchedAt || 0) - Date.parse(x.c.researchedAt || 0));
   else list.sort((x, y) => rankCompare(x.a, y.a));
   return list;
+}
+
+export function bestBet(item) {
+  return (item.bets || []).reduce((best, b) => (!best || b.asym.score > best.asym.score ? b : best), null);
+}
+
+function TopBet({ items }) {
+  let best = null;
+  for (const it of items) {
+    if (!['test_now', 'prepare'].includes(it.a.gate.action)) continue;
+    (it.bets || []).forEach((b, i) => {
+      if (!best || b.asym.score > best.b.asym.score) best = { it, b, i };
+    });
+  }
+  if (!best) return null;
+  const name = best.b.playbook.productName || fmtLabel(best.it.c.products[best.i]?.format);
+  return (
+    <span class="sub">
+      Most asymmetric bet: <b>{name}</b> ({best.it.c.name}) · {best.b.asym.label.toLowerCase()}
+      {best.b.econ.primary && best.b.econ.primary.net != null ? `, ≈$${best.b.econ.primary.net.toFixed(2)} kept per sale` : ''}
+    </span>
+  );
 }
 
 export function DecisionStrip({ items, now, demo }) {
@@ -54,6 +78,7 @@ export function DecisionStrip({ items, now, demo }) {
         <span class="sub">
           {latest ? `Latest research ${relTime(new Date(latest).toISOString(), now)}` : 'Run “Discover trends” or “Analyze a topic” to start.'}
         </span>
+        <TopBet items={items} />
       </div>
       <div>
         <span class="label">Prepare</span>
@@ -117,6 +142,7 @@ export function Filters({ filters, setFilters, items, shown }) {
             <option value="score">Sort: opportunity score</option>
             <option value="confidence">Sort: evidence confidence</option>
             <option value="recent">Sort: recently researched</option>
+            <option value="asymmetry">Sort: most asymmetric bet</option>
           </select>
         </label>
       </div>
@@ -138,8 +164,9 @@ export function Ledger({ items, selected, onSelect, watch, onToggleWatch, now, c
   if (!items.length) return null;
   return (
     <ol class="ledger" aria-label="Ranked opportunities">
-      {items.map(({ c, a }, i) => {
+      {items.map(({ c, a, bets }, i) => {
         const p = (c.products || [])[0];
+        const bet = bestBet({ bets });
         const watched = watch.has(c.id);
         return (
           <li class="row" key={c.id} aria-current={selected === c.id ? 'true' : undefined}>
@@ -168,6 +195,12 @@ export function Ledger({ items, selected, onSelect, watch, onToggleWatch, now, c
               <div class="row-meta">
                 <StageTrack stage={c.trajectory?.stage} />
                 <ConfidenceMark confidence={a.confidence} showScore={false} />
+                {bet ? (
+                  <span class="bet" title="Best product bet for this trend">
+                    <AsymmetryChip asym={bet.asym} />
+                    {bet.econ.primary && bet.econ.primary.net != null ? <span class="mono"> ≈${bet.econ.primary.net.toFixed(2)}/sale</span> : null}
+                  </span>
+                ) : null}
                 {p?.buyer ? <span title={p.buyer}>For: {p.buyer.length > 60 ? p.buyer.slice(0, 58) + '…' : p.buyer}</span> : null}
                 <span class="muted">Researched {relTime(c.researchedAt, now)}</span>
               </div>

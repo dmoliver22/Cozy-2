@@ -7,6 +7,7 @@ import { canonicalUrl } from './evidence.js';
 import { normalizeTopic, safeId } from './normalize.js';
 import { assess } from './scoring.js';
 import { makeSnapshot } from './changes.js';
+import { cleanPlaybookProduct, themeKey } from './playbook.js';
 
 const MAX = { short: 200, text: 2000, list: 30 };
 const EFFORTS = ['low', 'medium', 'high'];
@@ -220,11 +221,12 @@ export function ingestResearch(raw, { runId, now = Date.now(), jobId = null, exi
       action = 'watch';
     }
 
-    let products = (Array.isArray(rc.products) ? rc.products : []).map((p) => cleanProduct(p, warn, refMap)).filter(Boolean);
-    if (products.length > 3) {
+    let pairs = (Array.isArray(rc.products) ? rc.products : []).map((p) => ({ raw: p, clean: cleanProduct(p, warn, refMap) })).filter((x) => x.clean);
+    if (pairs.length > 3) {
       warn('More than three products suggested; kept the first three.');
-      products = products.slice(0, 3);
+      pairs = pairs.slice(0, 3);
     }
+    const products = pairs.map((x) => x.clean);
 
     const w = rc.window && typeof rc.window === 'object' ? rc.window : {};
     let estimate = str(w.estimate, 300) || null;
@@ -287,6 +289,14 @@ export function ingestResearch(raw, { runId, now = Date.now(), jobId = null, exi
       editorialNotes: strList(rc.editorialNotes, 40, 400),
     };
     docs.push({ path: `candidates/${id}`, data: candidate });
+
+    // Make-and-sell playbooks written alongside the research (optional).
+    const playbookProducts = pairs
+      .map((x, i) => (x.raw && x.raw.playbook ? cleanPlaybookProduct({ ...x.raw.playbook, index: i, themeKey: themeKey(x.clean.theme), source: 'worker' }) : null))
+      .filter(Boolean);
+    if (playbookProducts.length) {
+      docs.push({ path: `playbooks/${id}`, data: { id, candidateId: id, products: playbookProducts, writtenAt: candidate.researchedAt, source: 'worker', runId } });
+    }
 
     // Observations: only numeric, dated, attributed to evidence we kept.
     for (const o of Array.isArray(rc.observations) ? rc.observations : []) {

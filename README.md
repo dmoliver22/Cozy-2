@@ -73,6 +73,30 @@ npm run build                  # dist/trendjack.html
 node scripts/verify-ui.mjs     # browser checks (needs Chromium)
 ```
 
+## Make & sell playbooks
+
+Every product idea carries a playbook (`playbooks/{candidate}` in the database):
+
+- **Super prompt**: one copy-paste prompt for Claude or ChatGPT that produces the complete sellable
+  content (pages, sizes, palette, fonts, rights limits, self-check), plus image-generation prompts,
+  build/export steps and a listing-copy prompt.
+- **Sell it**: where to list (primary, secondary, traffic), a dated launch plan, channel tactics
+  with cadence, search phrases to test (suggestions, never measured volumes) and post hooks.
+- **Profit**: per-sale arithmetic per channel from `src/core/economics.js`. Fees come from
+  `config/fees` (verified against published fee pages, with source and date), your overrides in
+  Settings → Selling costs, or labeled defaults. KDP uses the 60%/50% royalty tiers and the
+  short-book flat print cost. POD costs use verified provider prices where available and the
+  playbook's estimate otherwise; unknown costs show as unknown, never as profit.
+- **Asymmetry**: a 0–100 heuristic of how capped the downside is against how open the upside is.
+  Upside factors: zero marginal cost 25%, margin 20%, shelf life 20%, sells in several places 15%,
+  room to extend 10%, no hard deadline 10%. The upside is discounted ×0.85 or ×0.7 when cash at
+  risk, hours or break-even sales are larger. Labels: strongly asymmetric (70+), asymmetric (55+),
+  roughly even (40+), unfavorable.
+
+Written playbooks come from `research/playbooks/out-*.json` (validated by
+`scripts/seed-playbooks.mjs`); new ideas from the research worker include their own playbooks, and
+any product without one gets a template super prompt built from its research fields.
+
 ## Research worker
 
 Research runs in Claude Code Routines with web search, not in the page:

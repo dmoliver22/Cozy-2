@@ -2,6 +2,8 @@ import { h, render } from 'preact';
 import { useState, useEffect, useMemo, useRef, useCallback } from 'preact/hooks';
 import { DEFAULT_PREFERENCES, DEFAULT_WEIGHTS } from '../core/constants.js';
 import { assess, rankCompare } from '../core/scoring.js';
+import { feeTable, productEconomics, asymmetry } from '../core/economics.js';
+import { matchPlaybooks } from '../core/playbook.js';
 import { createDbStore, createLocalStore, indexState } from '../data/store.js';
 import { planJob, ingestInboxItem, ACTIVE } from '../data/jobs.js';
 import { createWorker, describeMcpError } from '../data/worker.js';
@@ -120,10 +122,18 @@ function App() {
   const weights = { ...DEFAULT_WEIGHTS, ...(settings.weights || {}) };
   const settingsForScoring = { preferences: prefs, weights };
 
+  const fees = useMemo(() => feeTable(liveIx.fees, settings.fees), [liveIx.fees, JSON.stringify(settings.fees || {})]);
   const items = useMemo(
-    () => ix.candidates.map((c) => ({ c, a: assess(c, ix.evidenceBy.get(c.id) || [], settingsForScoring, now) })),
+    () =>
+      ix.candidates.map((c) => {
+        const bets = matchPlaybooks(c, ix.playbooks.get(c.id)).map((m, i) => {
+          const econ = productEconomics(c.products[i], m.playbook, fees);
+          return { ...m, econ, asym: asymmetry({ product: c.products[i], candidate: c, econ, playbook: m.playbook, now }) };
+        });
+        return { c, a: assess(c, ix.evidenceBy.get(c.id) || [], settingsForScoring, now), bets };
+      }),
     // eslint-disable-next-line
-    [ix, JSON.stringify(settingsForScoring), Math.floor(now / 3600000)],
+    [ix, fees, JSON.stringify(settingsForScoring), Math.floor(now / 3600000)],
   );
   const filtered = useMemo(() => sortItems(applyFilters(items, filters), filters.sort, rankCompare), [items, filters]);
   const sel = selected ? items.find((i) => i.c.id === selected) : null;
@@ -448,6 +458,8 @@ function App() {
                     evidence={ix.evidenceBy.get(sel.c.id) || []}
                     observations={ix.observationsBy.get(sel.c.id) || []}
                     snapshots={ix.snapshotsBy.get(sel.c.id) || []}
+                    bets={sel.bets}
+                    feeTable={fees}
                     watched={liveIx.watch.has(sel.c.id)}
                     onClose={() => setSelected(null)}
                     onToggleWatch={toggleWatch}
@@ -471,7 +483,7 @@ function App() {
         <ResearchView ix={liveIx} onCancel={cancelJob} onRetry={retryJob} onDismiss={dismissJob} onOpen={openCandidate} canWrite={canWrite} now={now} workerInfo={workerInfo} onDiscover={discover} onAnalyze={() => setAnalyzeOpen(true)} />
       ) : null}
       {tab === 'settings' ? (
-        <SettingsView settings={liveIx.settings} onSave={saveSettings} canWrite={canWrite} workerInfo={workerInfo} onLoadTrigger={loadTriggers} onSaveSchedule={saveSchedule} scheduleState={scheduleState} demo={demo} setDemo={setDemo} storeKind={store?.kind} />
+        <SettingsView settings={liveIx.settings} feeTable={fees} feesDoc={liveIx.fees} onSave={saveSettings} canWrite={canWrite} workerInfo={workerInfo} onLoadTrigger={loadTriggers} onSaveSchedule={saveSchedule} scheduleState={scheduleState} demo={demo} setDemo={setDemo} storeKind={store?.kind} />
       ) : null}
 
       <footer class="foot">

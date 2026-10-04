@@ -320,7 +320,7 @@ function WorkerStatusLine({ workerInfo }) {
 }
 
 // ---------------- Settings ----------------
-export function SettingsView({ settings, onSave, canWrite, workerInfo, onLoadTrigger, onSaveSchedule, scheduleState, demo, setDemo, storeKind }) {
+export function SettingsView({ settings, feeTable = {}, feesDoc, onSave, canWrite, workerInfo, onLoadTrigger, onSaveSchedule, scheduleState, demo, setDemo, storeKind }) {
   const prefs = { ...DEFAULT_PREFERENCES, ...(settings?.preferences || {}) };
   const [draft, setDraft] = useState(prefs);
   const [weights, setWeights] = useState({ ...DEFAULT_WEIGHTS, ...(settings?.weights || {}) });
@@ -467,6 +467,8 @@ export function SettingsView({ settings, onSave, canWrite, workerInfo, onLoadTri
         ) : null}
       </div>
 
+      <FeeSettings table={feeTable} feesDoc={feesDoc} settings={settings} onSave={onSave} canWrite={canWrite} />
+
       <WorkerSettings workerInfo={workerInfo} onLoad={onLoadTrigger} onSaveSchedule={onSaveSchedule} scheduleState={scheduleState} canWrite={canWrite} />
 
       <div class="panel">
@@ -557,6 +559,108 @@ function WorkerSettings({ workerInfo, onLoad, onSaveSchedule, scheduleState, can
               <span class="small muted">Times use your time zone ({tz}). Each scheduled run uses your Claude usage.</span>
             </>
           ) : null}
+        </div>
+      ) : null}
+    </div>
+  );
+}
+
+function FeeSettings({ table, feesDoc, settings, onSave, canWrite }) {
+  const [draft, setDraft] = useState({});
+  const keys = Object.keys(table);
+  const verified = keys.filter((k) => table[k].status === 'verified').length;
+  const fmt = (x) => (x.value == null ? '—' : x.unit === 'percent' ? `${x.value}%` : x.unit === 'usd_per_page' ? `$${x.value}/page` : x.unit === 'text' ? String(x.value) : `$${Number(x.value).toFixed(2)}`);
+  return (
+    <div class="panel">
+      <h2>Selling costs</h2>
+      <p class="lede">
+        Platform fees and print-on-demand costs used in every profit table. {verified} of {keys.length} figures are verified against published sources
+        {feesDoc?.checkedAt ? ` (checked ${fmtDateTime(feesDoc.checkedAt)})` : ''}; the rest are labeled default assumptions. Your own numbers override both.
+      </p>
+      <div class="table-wrap">
+        <table class="t">
+          <thead>
+            <tr>
+              <th>Cost</th>
+              <th>Value</th>
+              <th>Status</th>
+              {canWrite ? <th>Your value</th> : null}
+            </tr>
+          </thead>
+          <tbody>
+            {keys.map((k) => {
+              const x = table[k];
+              return (
+                <tr>
+                  <td>
+                    {x.label}
+                    {x.note ? <div class="small muted">{x.note}</div> : null}
+                  </td>
+                  <td class="mono">{fmt(x)}</td>
+                  <td>
+                    {x.status === 'verified' ? (
+                      <span>
+                        <span class="tag good">Verified</span>{' '}
+                        {x.source ? (
+                          <a class="small" href={/^https?:/.test(x.source) ? x.source : undefined} target="_blank" rel="noopener noreferrer">
+                            source
+                          </a>
+                        ) : null}
+                      </span>
+                    ) : x.status === 'override' ? (
+                      <span class="tag accent">Your value</span>
+                    ) : x.status === 'unavailable' ? (
+                      <span class="tag bad">Not found</span>
+                    ) : (
+                      <span class="tag warn">Default, not verified</span>
+                    )}
+                  </td>
+                  {canWrite ? (
+                    <td>
+                      {x.unit === 'text' ? null : (
+                        <input
+                          id={`fee-${k}`}
+                          type="number"
+                          step="0.01"
+                          style={{ width: '90px' }}
+                          value={draft[k] ?? settings?.fees?.[k] ?? ''}
+                          placeholder={x.value == null ? '' : String(x.value)}
+                          onInput={(e) => setDraft({ ...draft, [k]: e.currentTarget.value })}
+                        />
+                      )}
+                    </td>
+                  ) : null}
+                </tr>
+              );
+            })}
+          </tbody>
+        </table>
+      </div>
+      {canWrite ? (
+        <div style={{ display: 'flex', gap: '8px' }}>
+          <button
+            class="btn primary"
+            onClick={() => {
+              const merged = { ...(settings?.fees || {}) };
+              for (const [k, v] of Object.entries(draft)) {
+                if (v === '' || v == null) delete merged[k];
+                else merged[k] = Number(v);
+              }
+              onSave({ fees: merged });
+              setDraft({});
+            }}
+          >
+            Save costs
+          </button>
+          <button
+            class="btn ghost"
+            onClick={() => {
+              onSave({ fees: {} });
+              setDraft({});
+            }}
+          >
+            Clear my values
+          </button>
         </div>
       ) : null}
     </div>

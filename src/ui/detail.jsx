@@ -6,6 +6,7 @@ import { latestChanges } from '../core/changes.js';
 import { timeToBuyer } from '../core/scoring.js';
 import { ActionChip, ConfidenceMark, StageTrack, ScoreMeter, Icon, Cites, shortTheme, relTime, fmtDate, fmtDateTime, catLabel, fmtLabel, intentLabel, signalLabel, accessLabel, safeHref } from './bits.jsx';
 import { LineChart } from './charts.jsx';
+import { Playbook } from './playbook.jsx';
 
 function numberEvidence(evidence) {
   // Stable numbering: oldest publication first, undated last.
@@ -49,7 +50,7 @@ function nextStep(c, a) {
   return c.unresolved?.[0] ? `Re-check later. Key open question: ${c.unresolved[0]}` : 'Re-check later with a refresh.';
 }
 
-export function Dossier({ c, a, evidence, observations, snapshots, watched, onClose, onToggleWatch, onRefresh, refreshState, canWrite, prefs, now }) {
+export function Dossier({ c, a, evidence, observations, snapshots, bets = [], feeTable, watched, onClose, onToggleWatch, onRefresh, refreshState, canWrite, prefs, now }) {
   const byId = useMemo(() => numberEvidence(evidence), [evidence]);
   const clusters = useMemo(() => clusterEvidence(evidence), [evidence]);
   const series = useMemo(() => chartableSeries(observations), [observations]);
@@ -239,7 +240,7 @@ export function Dossier({ c, a, evidence, observations, snapshots, watched, onCl
           {(c.products || []).length === 0 ? <p class="muted">No product suggested. The research did not find a credible angle.</p> : null}
           <div class="products">
             {(c.products || []).map((p, i) => (
-              <Product p={p} i={i} c={c} fit={a.gate.productFits[i]} byId={byId} prefs={prefs} />
+              <Product p={p} i={i} c={c} fit={a.gate.productFits[i]} byId={byId} prefs={prefs} bet={bets[i]} feeTable={feeTable} />
             ))}
           </div>
         </Section>
@@ -348,7 +349,7 @@ export function Dossier({ c, a, evidence, observations, snapshots, watched, onCl
   );
 }
 
-function Product({ p, i, c, fit, byId, prefs }) {
+function Product({ p, i, c, fit, byId, prefs, bet, feeTable }) {
   const ttb = timeToBuyer(p, prefs);
   const total = Math.max(1, ttb.total);
   return (
@@ -430,6 +431,7 @@ function Product({ p, i, c, fit, byId, prefs }) {
           <span class="tag warn">Rights</span> {p.rightsNote}
         </p>
       ) : null}
+      {bet ? <Playbook product={p} candidate={c} bet={bet} table={feeTable} index={i} /> : null}
     </div>
   );
 }

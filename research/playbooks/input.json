@@ -1,0 +1,1198 @@
+[
+ {
+  "candidateId": "american-mahjong-boom",
+  "name": "American mahjong boom",
+  "category": "hobby",
+  "summary": "A surge of mostly young adult and women newcomers learning mahjong (especially the American/NMJL style) through clubs, paid classes and hosted game nights.",
+  "what": "Mahjong is a tile game that originated in 19th-century China; the American variant uses an annual card of hands issued by the National Mah Jongg League. Since about 2023 it has become a social 'girls' night', bar-night and club activity across the US, with paid beginner classes, clubs and themed sets/merch. Newcomers need to learn tiles, the Charleston and scoring, and organizers need ways to run tables, leagues and classes.",
+  "adopters": "Young adults and Gen Z, many women hosting 'girls' night' games, plus Asian-American players reconnecting with family tradition; club founders, bars and new independent instructors teaching paid classes.",
+  "stage": "mainstream_surge",
+  "recommendedAction": "test_now",
+  "productDemand": "Purchase intent is visible for physical goods (official card bundles estimated ~6,000/month on Amazon in July 2026; gift guides and trade press on mahjong gifts) and for learning/organizing aids: third-party keyword estimates show 'mahjong pdf' +89%, 'mahjong group' +83% and 'mahjong instructor' +556%, and classes are oversubscribed. Etsy printables show view activity but sales were not observed.",
+  "competition": "High for generic products: many Etsy beginner cheat sheets ($1-$12), 2026 score cards and hand trackers, suit-pun totes, plus mass-market advent calendars and gift-guide merch. Not checked (search budget ran out): how many listings target instructors or club/league organizers specifically.",
+  "competitionLevel": "high",
+  "gap": "Generic player cheat sheets are crowded, so the opening is likely the supply side of the boom: new instructors (searches rising fast) and club/league organizers need class handouts, sign-in and progress sheets, table-rotation charts, standings and kitty/payout ledgers, which player-focused printables do not cover. A beginner guide that credits the game's Chinese origins and covers several variants (Chinese/HK, American, Riichi) would also stand apart from card-centric sheets. Whether instructor kits are already crowded is unverified.",
+  "window": {
+   "estimate": "Now through Dec 2026 for holiday hosting and gifting; organizer/instructor tools likely stay relevant through 2027.",
+   "reasoning": "Growth is multi-year and still accelerating; digital delivery is instant, so the November-December hosting/gift window is reachable even with slow listing discovery. Clubs and classes recruit again in January and around the new annual card.",
+   "invalidators": [
+    "Instructor/organizer kits turn out to be already saturated on Etsy",
+    "NMJL or tile-brand IP complaints against listings that reference the card",
+    "Appropriation backlash targeting non-Asian sellers of mahjong products",
+    "Etsy views fail to convert during a 3-week test"
+   ],
+   "seasonality": "Holiday hosting and Hanukkah/Christmas gifting Nov-Dec; New-Year club formation in January; a new card each year (spring release timing not verified in this session).",
+   "sellBy": null,
+   "endEstimate": null
+  },
+  "rights": {
+   "risk": "medium",
+   "note": "Do not reproduce the National Mah Jongg League card's hands or use NMJL names/logos beyond plain compatibility statements; write original example hands. Do not copy branded tile artwork (e.g., designer sets); draw original tiles. The Mahjong Line backlash shows the risk of 'refreshing' the game or stripping Chinese characters, so credit its Chinese origins and avoid exoticizing imagery."
+  },
+  "durabilityScore": 4,
+  "products": [
+   {
+    "index": 0,
+    "buyer": "New independent mahjong instructors and club hosts running beginner classes",
+    "format": "bundle",
+    "theme": "Beginner class kit: editable 3-session lesson handouts (tile ID, Charleston walk-through, joker basics in original wording with original practice hands), class sign-in and student progress checklist, 'first game' certificate, class flyer and social templates, and a heritage page crediting Chinese origins",
+    "whyBuy": "Instructor searches are reported up sharply and classes are oversubscribed; a ready kit saves new teachers prep time and looks professional.",
+    "evidence": [
+     "american-mahjong-boom~370e4560",
+     "american-mahjong-boom~abfa2287",
+     "american-mahjong-boom~4555b985",
+     "american-mahjong-boom~57562c4c"
+    ],
+    "differentiation": "Built for teachers and hosts rather than players; Canva-editable for the host's own branding; respectful heritage framing.",
+    "channels": [
+     "Etsy",
+     "Gumroad",
+     "Instagram",
+     "Pinterest"
+    ],
+    "effort": "medium",
+    "effortHours": 16,
+    "leadTimeDays": 4,
+    "fulfillment": "digital",
+    "validationTest": "List one $19 kit on Etsy and Gumroad with a free one-page sample; DM 20-30 instructors/club accounts on Instagram; $1-2/day Etsy ads for 14 days.",
+    "continueIf": "At least 3 sales or at least 2% conversion on at least 300 listing views within 21 days.",
+    "pivotIf": "Views and favorites but no sales: split into a $7 student handout pack and a $12 admin pack.",
+    "stopIf": "Under 100 views after 3 weeks with ads, or instructor kits turn out to be abundant at lower prices.",
+    "rightsNote": "No reproduction of NMJL card hands or logos; original tile drawings; describe compatibility in plain words only."
+   },
+   {
+    "index": 1,
+    "buyer": "People starting or running mahjong clubs, leagues and weekly open play",
+    "format": "template",
+    "theme": "Club organizer kit: Google Sheets season standings and kitty/payout ledger, round-robin table-rotation charts for 8-32 players, sign-up and waitlist sheets, a club 'house rules' template, and printable table numbers",
+    "whyBuy": "Club searches and attendance are reported to be exploding; organizers juggling 30-55 weekly players need rotation and record-keeping tools.",
+    "evidence": [
+     "american-mahjong-boom~4555b985",
+     "american-mahjong-boom~57562c4c",
+     "american-mahjong-boom~73a1e9ce",
+     "american-mahjong-boom~9fe9743a"
+    ],
+    "differentiation": "Solves multi-table logistics, not single-game scoring like existing score cards.",
+    "channels": [
+     "Etsy",
+     "Gumroad",
+     "Pinterest"
+    ],
+    "effort": "medium",
+    "effortHours": 12,
+    "leadTimeDays": 3,
+    "fulfillment": "digital",
+    "validationTest": "Publish at $12 with a short screen-recording demo; pin 5 Pinterest pins; track views, favorites and sales for 21 days alongside the instructor kit.",
+    "continueIf": "At least 3 sales in 21 days or buyer messages asking for added formats.",
+    "pivotIf": "Interest in only one piece (e.g., rotation charts): sell that piece alone at $5-7.",
+    "stopIf": "No sales after 30 days and under 150 views.",
+    "rightsNote": "Generic organizing tools; avoid NMJL marks in titles beyond plain description."
+   },
+   {
+    "index": 2,
+    "buyer": "Hosts of holiday mahjong nights (Hanukkah, Christmas, New Year's Eve) and gift-givers",
+    "format": "printable",
+    "theme": "Holiday mahjong night kit: invitations, place cards, first-timer table tents ('how a turn works'), score pads and a cocoa or cocktail menu card in three original holiday designs",
+    "whyBuy": "Mahjong now appears in holiday gift guides and girls'-night hosting; a themed kit makes a game night feel like an event.",
+    "evidence": [
+     "american-mahjong-boom~c66e9094",
+     "american-mahjong-boom~1b72d068",
+     "american-mahjong-boom~1a4126ae",
+     "american-mahjong-boom~392ca73c"
+    ],
+    "differentiation": "Seasonal party styling plus first-timer table tents; score pads alone are already common.",
+    "channels": [
+     "Etsy",
+     "Pinterest",
+     "Instagram"
+    ],
+    "effort": "low",
+    "effortHours": 8,
+    "leadTimeDays": 2,
+    "fulfillment": "digital",
+    "validationTest": "List by Nov 1 at $8; 10 Pinterest pins; watch favorites and sales through Dec 15.",
+    "continueIf": "At least 5 sales by Dec 10.",
+    "pivotIf": "Favorites but few sales: bundle it into the club kit as a bonus.",
+    "stopIf": "Under 50 views by Nov 25.",
+    "rightsNote": "Original illustrations only; avoid branded tile designs and NMJL card content."
+   }
+  ]
+ },
+ {
+  "candidateId": "analog-bag-screen-free-gifting",
+  "name": "Analog bag & screen-free gifting",
+  "category": "movement",
+  "summary": "Young adults are filling a tote with screen-free activities (books, puzzles, crafts, a notebook) to avoid doomscrolling, and that preference is now shaping 2026 holiday gift lists.",
+  "what": "An 'analog bag' is a tote packed with non-digital activities (crosswords, sketchbook, crochet, a camera, a book) carried so people reach for it instead of their phone. It is the most visible object of a broader 2026 'analog' movement that also includes paper planners, phone-free events and dumbphones. For holiday 2026, PwC reports that most Gen Z shoppers are prioritizing screen-free gifts.",
+  "adopters": "Mainly Gen Z and young millennial women, according to YPulse and Fast Company, who want to cut doomscrolling and reclaim attention. It has since spread to parents gifting teens and tweens (PureWow) and to faith and lifestyle bloggers (Karen Ehman). PwC's 2026 holiday survey finds 78% of Gen Z prioritizing screen-free gifts, against 64% of all consumers.",
+  "stage": "mainstream_surge",
+  "recommendedAction": "test_now",
+  "productDemand": "There is gift-purchase intent for the screen-free categories themselves: PwC lists puzzles, art supplies, board games and books, and 81% of Gen Z prioritize in-person holiday activities. Press frames the analog bag explicitly as a gift (PureWow 2025; Karen Ehman suggests stocking stuffers). There is no direct evidence that people buy printable analog-bag content as opposed to physical items. PwC also projects Gen Z gift spending down 9%, which favors low-price items.",
+  "competition": "An Etsy market page for 'analog bag' exists, and search results show mostly kids' screen-free activity and coloring packs at about $0.99-$6.99. analogbag.net gives away free coloring pages and plans puzzles and journal templates. Generic journal-prompt printables are saturated and cheap. Mass retailers sell the physical fillers. No adult-focused, giftable printable 'refill pack' or phone-free gathering kit was seen in results, but listing counts could not be checked because Etsy was blocked.",
+  "competitionLevel": "moderate",
+  "gap": "Missing: (1) an adult or teen-focused, gift-ready printable 'analog bag refill' with original puzzles and prompts, packaged to print and tuck into a tote or stocking at the last minute; (2) a 'phone-free table' kit for Friendsgiving and holiday dinners, tying the 81% in-person / 63% shared-meal preference to the growth in phone-free events; (3) a tote whose design is the analog bag itself, as an illustrated contents map with no brand marks. Existing printables skew toward kids and coloring.",
+  "window": {
+   "estimate": "Now through Dec 24, 2026 for digital; POD orders by about Dec 8-10 for Christmas delivery; then January 2027 digital-detox season",
+   "reasoning": "PwC's gift intent applies to this holiday season. Digital delivers instantly, so it fits last-minute buyers (Basis reports 83% decide within days of discovering a gift; evidence a22). New listings need weeks to surface, so they should go up in October. The movement has run from 2025 through 2026 across independent outlets, so it will probably outlast the product cycle.",
+   "invalidators": [
+    "Free printable sites (e.g. analogbag.net) fill the adult segment",
+    "Etsy search does not surface new listings before mid-December",
+    "Backlash framing analog as aesthetic overconsumption",
+    "Physical kits from big retailers crowd out digital gift alternatives"
+   ],
+   "seasonality": "Peak gifting from mid-November to Dec 24; secondary peak in January (detox and New Year habits).",
+   "sellBy": "2026-12-24",
+   "endEstimate": null
+  },
+  "rights": {
+   "risk": "low",
+   "note": "'Analog bag' reads as a generic community term, but trademark filings were not checked (search budget ran out). Avoid brand names and trade dress: Polaroid, Instax/Fujifilm, Brick, Light Phone, The Offline Club, NYT Crossword/Wordle. Write all puzzles from scratch. Do not use creators' names or likenesses."
+  },
+  "durabilityScore": 4,
+  "products": [
+   {
+    "index": 0,
+    "buyer": "Gen Z/millennial women aged 18-34, and gift-givers (friends, parents of teens) looking for a screen-free gift or stocking stuffer",
+    "format": "printable",
+    "theme": "'Analog Bag Refill Pack': about 40 printable half-letter/A5 pages that fold into pocket booklets. Contents: original crosswords, word searches and logic grids; 30 sketch prompts; 52 journal prompts; an 'offline bingo' card; a cut-and-fold mini-zine; and a printable gift tag reading 'Your analog bag awaits'.",
+    "whyBuy": "Puzzles and art activities match the categories PwC says Gen Z wants as screen-free gifts. As a digital download it works as an instant last-minute gift or a tote/stocking filler.",
+    "evidence": [
+     "analog-bag-screen-free-gifting~811522bc",
+     "analog-bag-screen-free-gifting~b6565b2d",
+     "analog-bag-screen-free-gifting~a92e27e4",
+     "analog-bag-screen-free-gifting~468db1dc"
+    ],
+    "differentiation": "Designed for adults and teens, unlike the kids' activity packs and free coloring pages. Packaged as a gift (tag, booklet fold). All puzzles original. Coordinated aesthetic with the tote.",
+    "channels": [
+     "Etsy",
+     "Pinterest",
+     "TikTok",
+     "Gumroad"
+    ],
+    "effort": "medium",
+    "effortHours": 12,
+    "leadTimeDays": 3,
+    "fulfillment": "digital",
+    "validationTest": "List on Etsy and Gumroad by Oct 10. Post 10 Pinterest pins (keywords 'analog bag ideas', 'screen-free gift') and 3 short 'pack my analog bag' videos. Run $1-2/day Etsy ads for 14 days.",
+    "continueIf": "At least one sale, or a clearly rising favorites-to-views ratio, within 14 days of ads starting; pins getting saves.",
+    "pivotIf": "Views and favorites but no sales: reposition as a family/teen 'phone-free holiday' pack, or bundle it with the table kit.",
+    "stopIf": "Fewer than about 100 listing views after 21 days of ads, or no sales by Nov 20.",
+    "rightsNote": "Write every puzzle and prompt from scratch. Do not imitate NYT/Wordle branding. Use the word 'analog' generically."
+   },
+   {
+    "index": 1,
+    "buyer": "Friendsgiving and holiday-dinner hosts aged 18-35",
+    "format": "printable",
+    "theme": "'Phone-Free Table Kit': a phone-basket sign ('Phones rest here tonight'), 60 conversation cards, 4 pen-and-paper party games, and place cards. Two editions: Friendsgiving (week of Nov 26) and Christmas/New Year's Eve.",
+    "whyBuy": "81% of Gen Z prioritize in-person holiday activities and 63% say a shared meal matters more than a present (PwC via Fortune). Phone-free events are surging (Eventbrite). Hosts want an easy, instantly downloadable way to make a dinner feel offline.",
+    "evidence": [
+     "analog-bag-screen-free-gifting~811522bc",
+     "analog-bag-screen-free-gifting~ed7fe1ae"
+    ],
+    "differentiation": "Uses phone-free as the hook, unlike generic Friendsgiving trivia and invitations. Works for several holidays from one design system.",
+    "channels": [
+     "Etsy",
+     "Pinterest",
+     "Instagram",
+     "TikTok"
+    ],
+    "effort": "medium",
+    "effortHours": 10,
+    "leadTimeDays": 2,
+    "fulfillment": "digital",
+    "validationTest": "Publish the Friendsgiving edition by Oct 20 with pins targeting 'Friendsgiving games' and 'phone-free party'. Track listing views and saves weekly.",
+    "continueIf": "Any sales or steady favorite growth by Nov 15. If so, launch the Christmas/NYE edition by Nov 25.",
+    "pivotIf": "Friendsgiving edition gets views but no sales: drop it and put effort into the NYE 'phone-free countdown' edition.",
+    "stopIf": "Under 50 views by Nov 10 despite pins and ads.",
+    "rightsNote": "Original game rules and text. Do not use trademarked game names (Pictionary, Scattergories, etc.)."
+   },
+   {
+    "index": 2,
+    "buyer": "Analog-curious Gen Z/millennials, and people buying a tote to build an analog bag as a gift",
+    "format": "tote",
+    "theme": "An illustrated 'contents map' tote: line drawings of a paperback, unbranded film camera, crochet hook and yarn, pocket crossword and pencil, with a small original phrase (e.g. 'Gone analog').",
+    "whyBuy": "The bag is the object at the center of the trend, so the tote doubles as both gift and container. Press frames analog bags as a holiday gift.",
+    "evidence": [
+     "analog-bag-screen-free-gifting~a92e27e4",
+     "analog-bag-screen-free-gifting~193ddd17",
+     "analog-bag-screen-free-gifting~468db1dc",
+     "analog-bag-screen-free-gifting~29e6ac09"
+    ],
+    "differentiation": "Illustration-led rather than slogan-only. Pairs with the refill pack as a 'gift set' listing.",
+    "channels": [
+     "Etsy",
+     "Redbubble",
+     "Instagram"
+    ],
+    "effort": "low",
+    "effortHours": 6,
+    "leadTimeDays": 3,
+    "fulfillment": "pod",
+    "validationTest": "List from mockups by Oct 15 and order one sample to check print quality. Promote the gift-set pairing with the refill pack.",
+    "continueIf": "Any tote sales by Nov 20.",
+    "pivotIf": "Totes get views but no sales: offer the illustration as a sticker sheet or printable art instead.",
+    "stopIf": "No sales by Dec 5 (practical POD cutoff for Christmas delivery).",
+    "rightsNote": "Draw a generic camera, not a recognizable Polaroid/Instax shape. Run a trademark search on any phrase before use (not done here)."
+   }
+  ]
+ },
+ {
+  "candidateId": "cosmic-reset-beginner-astrology-tarot",
+  "name": "Cosmic Reset (beginner astrology & tarot)",
+  "category": "belief",
+  "summary": "A fall-2026 wave of people learning astrology and tarot from scratch - natal charts, astrocartography, moon rituals - which Pinterest reports among its biggest search increases.",
+  "what": "Pinterest's 'Cosmic Reset' trend covers beginners learning astrology basics, pulling natal charts, exploring astrocartography (mapping places onto a birth chart), learning tarot and crystal meanings, and doing moon or 'reset' rituals around September's fresh start. It rides on long-standing Gen Z/millennial interest in astrology, but the reported growth is concentrated in 'for beginners' and 'learn' queries.",
+  "adopters": "Beginners (largely Gen Z and millennial women, inferred from coverage) who want to learn the system themselves rather than read horoscopes; travelers using astrocartography; people building September/New-Year 'reset' routines. Why they care: self-reflection, identity language, and intentional routines.",
+  "stage": "established_niche",
+  "recommendedAction": "prepare",
+  "productDemand": "The reported searches are learning/curiosity intent ('learn astrology', 'tarot cards for beginners', 'crystals and meanings'), which suits workbooks, journals and planners better than decor. Astrology already works as a gift frame in mainstream editorial. No sales evidence for astrology printables was gathered.",
+  "competition": "Not measured: the search budget ran out before a marketplace check. From background knowledge (unverified this session), astrology/moon planners and tarot journals have been sold on Etsy and KDP for years, so competition is probably high; a beginner 'learn the system' workbook may be less crowded.",
+  "competitionLevel": "unknown",
+  "gap": "A 'learning-first' product that matches the beginner queries: a structured 12-week workbook that teaches how to read your own chart (fill-in chart wheel, glossary, guided worksheets) without predictions, plus an astronomically accurate 2027 moon-phase reflection planner timed for New Year.",
+  "window": {
+   "estimate": "Launch by early-to-mid December 2026 for New-Year buying; the beginner workbook can sell longer.",
+   "reasoning": "Planner and intention products sell mostly from late November through January. A new listing needs weeks to gain visibility, so prepare now and list by early December. Digital delivery suits last-minute buyers.",
+   "invalidators": [
+    "Marketplace check shows saturated beginner-astrology workbooks with strong incumbents",
+    "Pinterest beginner-astrology interest proves to be a September-only bump"
+   ],
+   "seasonality": "September 'reset' and January New-Year intention peaks.",
+   "sellBy": null,
+   "endEstimate": "2027-01-31"
+  },
+  "rights": {
+   "risk": "low",
+   "note": "Belief-based: describe astrology and tarot as reflective practices, explain the community's methods accurately, never promise outcomes or predictions. Tarot art: draw original cards or verify that any reference art is in the public domain (the 1909 Rider-Waite-Smith originals are commonly treated as US public domain, but later recolored editions are claimed by their publishers). Moon-phase and eclipse dates must come from an authoritative astronomical source and be checked."
+  },
+  "durabilityScore": 3,
+  "products": [
+   {
+    "index": 0,
+    "buyer": "Astrology beginners (Gen Z/millennial) who want to read their own chart instead of horoscopes",
+    "format": "printable",
+    "theme": "'Learn Astrology in 12 Weeks' workbook: weekly lessons, glossary, blank chart wheel to fill in from any free chart calculator, house/planet worksheets, reflection prompts; printable PDF and GoodNotes-ready version",
+    "whyBuy": "Directly matches the 'learn astrology' and natal-chart searches Pinterest reported.",
+    "evidence": [
+     "cosmic-reset-beginner-astrology-tarot~d2e1f12c"
+    ],
+    "differentiation": "Teaches the method step by step (no predictions), unlike horoscope/zodiac-sign decor.",
+    "channels": [
+     "Etsy",
+     "Gumroad",
+     "Pinterest"
+    ],
+    "effort": "medium",
+    "effortHours": 20,
+    "leadTimeDays": 7,
+    "fulfillment": "digital",
+    "validationTest": "Run a marketplace check first; if not saturated, publish a 4-week sample module free on Gumroad, promote with 10 pins, and measure email signups before building all 12 weeks.",
+    "continueIf": "Sample downloads and signups show real pull within 2-3 weeks.",
+    "pivotIf": "Downloads but no paid conversion: shorten to a low-price 'chart reading starter kit'.",
+    "stopIf": "Marketplace check shows dominant, well-reviewed equivalents and the sample gets no traction.",
+    "rightsNote": "Original text; accurate description of astrological conventions; no outcome claims."
+   },
+   {
+    "index": 1,
+    "buyer": "People setting New-Year intentions who like moon/celestial rituals",
+    "format": "planner",
+    "theme": "2027 Moon Phase & Intentions digital planner (GoodNotes/Notability hyperlinked PDF + printable): new/full moon reflection pages, monthly reset spreads, celestial line art",
+    "whyBuy": "Pairs the reported 'reset'/moon-ritual interest with the New-Year planner buying season.",
+    "evidence": [
+     "cosmic-reset-beginner-astrology-tarot~d2e1f12c",
+     "cosmic-reset-beginner-astrology-tarot~a29439f1"
+    ],
+    "differentiation": "Reflection-focused and astronomically accurate rather than horoscope-filled; clean celestial design.",
+    "channels": [
+     "Etsy",
+     "Gumroad",
+     "Pinterest"
+    ],
+    "effort": "medium",
+    "effortHours": 16,
+    "leadTimeDays": 5,
+    "fulfillment": "digital",
+    "validationTest": "List by early December with 10-15 pins; compare against a plain 2027 planner listing as a control.",
+    "continueIf": "The moon planner gets more favorites and sales than the control by early January.",
+    "pivotIf": "Interest is low: repackage the moon pages as an add-on insert for existing planners.",
+    "stopIf": "No sales by mid-January.",
+    "rightsNote": "Verify every moon-phase and eclipse date against an authoritative astronomical source."
+   },
+   {
+    "index": 2,
+    "buyer": "Tarot beginners",
+    "format": "printable",
+    "theme": "Beginner tarot learning journal: a card-by-card notes page for all 78 cards, a spread log, and a 'what I noticed' reflection template",
+    "whyBuy": "Matches the 'tarot cards for beginners' search increase Pinterest reported.",
+    "evidence": [
+     "cosmic-reset-beginner-astrology-tarot~d2e1f12c"
+    ],
+    "differentiation": "A study log for learning the deck rather than an interpretation book.",
+    "channels": [
+     "Etsy",
+     "Amazon KDP",
+     "Gumroad"
+    ],
+    "effort": "low",
+    "effortHours": 10,
+    "leadTimeDays": 4,
+    "fulfillment": "digital",
+    "validationTest": "Bundle with the astrology workbook; track attach rate.",
+    "continueIf": "Raises the bundle's conversion rate.",
+    "pivotIf": "Sell it standalone as a KDP paperback for gifting.",
+    "stopIf": "No lift and no standalone sales after 4 weeks.",
+    "rightsNote": "Original card illustrations or none; don't reproduce copyrighted deck art or guidebook text."
+   }
+  ]
+ },
+ {
+  "candidateId": "gen-z-bible-reading-revival",
+  "name": "Gen Z Bible-reading revival",
+  "category": "belief",
+  "summary": "Surveys and sales data report sharply more young US and UK adults reading and buying Bibles, with young men prominent. That creates new readers who need beginner-friendly structure, especially at New Year.",
+  "what": "Barna and Gloo's State of the Church research (released November 2025) reports US weekly Bible reading rebounding to 42% of adults, with Gen Z rising from 30% to 49% and young men leading. Physical Bible sales are reported at a 21-year US high in 2025 and record UK levels. Publishers have launched beginner guides for 'a new generation of readers'. This describes reported engagement data, not any particular teaching.",
+  "adopters": "Gen Z and millennials, especially young men, according to Barna. Pastors report higher Gen Z engagement: 45% versus 12% reporting lower (Crosswalk). Press reports first-time Bible buyers, and Gen Z reportedly prefers 'aesthetic' editions and journaling Bibles. Motivations described in press include searching for meaning; this is a reported framing, not an inference about individuals.",
+  "stage": "early_growth",
+  "recommendedAction": "prepare",
+  "productDemand": "There is direct purchase evidence for Bibles themselves (record sales reported). Publishers launched beginner reference guides in 2026, which shows a perceived need for orientation tools. Etsy sells low-priced Bible reading trackers (e.g. a chronological plan at $1.87 from a Star Seller). Demand for printable reading plans for new young readers specifically is plausible but not measured. Free plans from churches and apps are a strong substitute.",
+  "competition": "High. Reading-plan printables and trackers are abundant and cheap on Etsy, free plans are widespread from churches and Bible apps, and journaling Bibles and devotionals are an established publishing category. Beginner orientation guides exist (ilubra). Less visible in results: plans explicitly designed for first-time young-adult readers, and styles aimed at the young-men segment Barna highlights.",
+  "competitionLevel": "high",
+  "gap": "A 2027 'first-time reader' plan: references only, two styles (minimal for young men, soft aesthetic), plus factual orientation pages (how the Bible is organized: testaments, books, genres) and a simple tracker. Also a neutral reading-notes journal. Neither should present new teachings or promise outcomes. The opening is in beginner positioning and design rather than content novelty.",
+  "window": {
+   "estimate": "List by about Dec 1, 2026 and sell through mid-January 2027 (New Year reading-plan season). The underlying trend looks multi-year.",
+   "reasoning": "Year-long reading plans conventionally start January 1 (inference; no search evidence gathered on seasonal spikes). The revival data covers multiple years (sales up since 2019 in the UK; US rebound 2024 to 2025), so the trend should outlast the launch window.",
+   "invalidators": [
+    "2026 State of the Church or other surveys show the rebound reversing or not replicating",
+    "Free app and church plans fully meet the need",
+    "Community reaction to commercial products seen as inauthentic",
+    "Translation-copyright problems if scripture text is included"
+   ],
+   "seasonality": "Peak late December to mid-January for year-long plans. Secondary peaks around Lent/Easter and back-to-school.",
+   "sellBy": null,
+   "endEstimate": "2027-01-15"
+  },
+  "rights": {
+   "risk": "medium",
+   "note": "Modern translations (NIV, ESV, NLT, CSB, etc.) are copyrighted and have quotation permissions. Use references only, or quote public-domain text (KJV, World English Bible). Do not use ministry or app brand names (YouVersion, She Reads Truth, BibleProject) or the names of published reading plans unless they are verified public domain. Have content checked for accuracy and denominational neutrality. Make no claims about spiritual or mental-health outcomes."
+  },
+  "durabilityScore": 4,
+  "products": [
+   {
+    "index": 0,
+    "buyer": "Adults aged 18-35 who are new to reading the Bible, including first-time Bible buyers; separate design for the young-men segment",
+    "format": "printable",
+    "theme": "'2027 First-Time Reader Plan': a references-only, one-year reading schedule based on a standard, verifiable structure (e.g. the whole Bible in canonical or chronological order, or the New Testament in a year), plus orientation pages (how the Bible is organized: testaments, book list, genres), a check-off tracker and a notes page. Offered in two visual styles.",
+    "whyBuy": "Weekly Bible reading among Gen Z is reported up from 30% to 49%, and new readers want structure. Publishers launched beginner guides in 2026. January 1 is the natural start date.",
+    "evidence": [
+     "gen-z-bible-reading-revival~fb50f53c",
+     "gen-z-bible-reading-revival~70c21293",
+     "gen-z-bible-reading-revival~63739610"
+    ],
+    "differentiation": "Built for beginners, with factual orientation pages. A minimal style for young men, unlike the mostly floral tracker designs. No copyrighted text.",
+    "channels": [
+     "Etsy",
+     "Pinterest",
+     "Gumroad",
+     "Instagram"
+    ],
+    "effort": "medium",
+    "effortHours": 10,
+    "leadTimeDays": 3,
+    "fulfillment": "digital",
+    "validationTest": "List both styles by Nov 20 and pin weekly. Watch which style earns more favorites and clicks by Dec 20.",
+    "continueIf": "Sales, or favorites growing week over week, during Dec 15 to Jan 10.",
+    "pivotIf": "Only one style moves: drop the other and add a matching journal or Bible-tab printable in the winning style.",
+    "stopIf": "No sales by Jan 15, 2027.",
+    "rightsNote": "References only. No translation text. Do not copy proprietary reading plans. Get an accuracy review."
+   },
+   {
+    "index": 1,
+    "buyer": "The same new readers who prefer writing by hand",
+    "format": "journal",
+    "theme": "An undated 365-entry reading-notes journal with neutral fields (date, passage reference, what stood out, questions, notes or prayer) and orientation pages at the front, in the two matching styles.",
+    "whyBuy": "Journaling Bibles and handwritten notes are reported as Gen Z preferences, and this fits the analog/paper trend.",
+    "evidence": [
+     "gen-z-bible-reading-revival~28c6700e",
+     "gen-z-bible-reading-revival~fb50f53c"
+    ],
+    "differentiation": "Matches the plan's design and beginner orientation, and pairs with it as a bundle.",
+    "channels": [
+     "Amazon KDP",
+     "Etsy"
+    ],
+    "effort": "medium",
+    "effortHours": 8,
+    "leadTimeDays": 5,
+    "fulfillment": "pod",
+    "validationTest": "Publish to KDP by Dec 1 (allowing for review time) and sell the digital interior on Etsy.",
+    "continueIf": "Any organic KDP sales in the first three weeks of January.",
+    "pivotIf": "KDP stalls but digital sells: keep digital only.",
+    "stopIf": "No sales in either channel by Jan 31, 2027.",
+    "rightsNote": "Do not present common journaling methods as new teachings. No scripture text unless public domain."
+   }
+  ]
+ },
+ {
+  "candidateId": "hyrox-style-fitness-racing",
+  "name": "Hyrox-style fitness racing",
+  "category": "hobby",
+  "summary": "A standardized indoor race (eight 1 km runs alternating with eight functional workout stations) that has turned gym-goers into first-time 'fitness racers' who train for months toward an event.",
+  "what": "Hyrox races use the same format everywhere: 1 km run, then a station (ski erg, sled push, sled pull, burpee broad jumps, row, farmers carry, sandbag lunges, wall balls), repeated eight times. That makes times comparable and gives newcomers a concrete training target. Participants track run splits and station times and follow 8-16 week plans.",
+  "adopters": "Gym members, runners and CrossFit-adjacent athletes looking for a goal race; gyms affiliating to offer training (UK affiliates 18 to 120 in a year).",
+  "stage": "mainstream_surge",
+  "recommendedAction": "prepare",
+  "productDemand": "People pay for preparation: several independent training books, an official-partner ebook, Notion trackers and apps exist, and sellers bundle printable checklists and calendars. That is supply-side evidence; direct sales figures were not observed.",
+  "competition": "Moderate to high for training plans (books, Rogue ebook, apps). Narrower for physical logbooks and printable split trackers, though a logbook seller already targets the race-day log. The trademark limits keyword use for unofficial products.",
+  "competitionLevel": "moderate",
+  "gap": "A paper or printable split-and-station logbook for first-time racers (16-week block, per-station PB tracker, compromised-run log, race-day checklist), sold as a January training gift, appears thinner than plans and apps. Training plans carry expertise and injury-liability expectations a solo creator should avoid.",
+  "window": {
+   "estimate": "Mid-Nov 2026 to Mar 2027 (holiday gifts, then New-Year race sign-ups); the format looks durable for multiple seasons.",
+   "reasoning": "The 2026/27 season is underway and expanding; New-Year fitness goals line up with spring races. KDP paperbacks take days to go live and ship quickly, which fits a December listing.",
+   "invalidators": [
+    "Brand enforcement against unofficial products using the name",
+    "US participation stays small relative to Europe/Asia",
+    "Apps (including official ones) make paper logs irrelevant to this tech-forward audience"
+   ],
+   "seasonality": "January resolution peak; race-specific spikes near US event dates (not verified).",
+   "sellBy": null,
+   "endEstimate": null
+  },
+  "rights": {
+   "risk": "medium",
+   "note": "HYROX is a brand with official partners (PUMA, Rogue). Do not use the name or logo in product titles or designs. Describe the product generically ('for 8-station fitness races') and rely on descriptive keywords; any use of the name, even in tags, carries takedown risk. Avoid prescriptive training or medical claims."
+  },
+  "durabilityScore": 4,
+  "products": [
+   {
+    "index": 0,
+    "buyer": "First-time fitness racers training for a spring 2027 event, and gym partners buying them a gift",
+    "format": "journal",
+    "theme": "16-week fitness-race training log (KDP 6x9 paperback plus printable PDF): weekly plan grid, 8 run-split + 8 station time tracker per session, station PB pages, compromised-running log, race-day checklist and post-race reflection",
+    "whyBuy": "A standardized format makes split tracking central to training, and January brings new sign-ups.",
+    "evidence": [
+     "hyrox-style-fitness-racing~9f2cd823",
+     "hyrox-style-fitness-racing~0df17bd6",
+     "hyrox-style-fitness-racing~1bfcfcae",
+     "hyrox-style-fitness-racing~70fb377e",
+     "hyrox-style-fitness-racing~408656cd"
+    ],
+    "differentiation": "Paper alternative to apps, focused on split and station tracking rather than prescribing workouts; no brand name used.",
+    "channels": [
+     "Amazon KDP",
+     "Etsy",
+     "Instagram",
+     "TikTok"
+    ],
+    "effort": "medium",
+    "effortHours": 12,
+    "leadTimeDays": 5,
+    "fulfillment": "pod",
+    "validationTest": "Publish the printable on Etsy first ($7) with generic keywords; post 3 short videos showing a filled-in split page; check views and sales over 14 days before ordering a KDP proof.",
+    "continueIf": "At least 3 printable sales or at least 300 views with 20+ favorites in 14 days.",
+    "pivotIf": "Interest only in race-day pages: sell a $4 race-day checklist and pacing card pack.",
+    "stopIf": "Under 100 views in 3 weeks, or any trademark complaint.",
+    "rightsNote": "Never use 'HYROX' or its logo in titles, tags or designs; use generic station names."
+   },
+   {
+    "index": 1,
+    "buyer": "First-time racers 2-6 weeks out",
+    "format": "template",
+    "theme": "Race-day pacing kit: Google Sheets split calculator (target finish time to per-run and per-station targets), printable wrist/pace cards and a gear and fueling checklist",
+    "whyBuy": "Newcomers want a concrete pacing plan for a standardized course; sellers already bundle checklists and cue cards as book bonuses.",
+    "evidence": [
+     "hyrox-style-fitness-racing~1bfcfcae",
+     "hyrox-style-fitness-racing~70fb377e",
+     "hyrox-style-fitness-racing~9f2cd823"
+    ],
+    "differentiation": "Cheap, single-purpose and race-week focused; complements apps rather than replacing them.",
+    "channels": [
+     "Etsy",
+     "Gumroad",
+     "Instagram"
+    ],
+    "effort": "low",
+    "effortHours": 6,
+    "leadTimeDays": 2,
+    "fulfillment": "digital",
+    "validationTest": "List at $5 alongside the log; measure views and sales over 21 days.",
+    "continueIf": "At least 5 sales in 21 days.",
+    "pivotIf": "Offer it as a free lead magnet for the logbook.",
+    "stopIf": "Under 75 views in 21 days.",
+    "rightsNote": "Generic language only; no brand marks; no medical or nutrition claims."
+   }
+  ]
+ },
+ {
+  "candidateId": "jimothy-the-raccoon",
+  "name": "Jimothy the raccoon",
+  "category": "character",
+  "summary": "A round, short-spined wild raccoon in Seattle's Ballard neighborhood that went viral in July 2026 and turned into a local mascot and merch phenomenon.",
+  "what": "Jimothy is a wild Seattle raccoon with an unusually short, rounded body (believed to be short spine syndrome) who scurries instead of walking. A resident's Instagram video named him 'Jimothy', went viral in July 2026, and made him a symbol of resilience and wholesomeness. He picked up Mariners tie-ins, an officially licensed bobblehead, a Google animation, a city 'Jimothy Summer' declaration, and a free Fortnite sidekick for Fortnitemares (Oct 1, 2026).",
+  "adopters": "A broad, wholesome-content audience. Seattle locals and Mariners fans (Salmon Run feature, card giveaway for Ballard Food Bank). Artists (fan art, tattoos, figurines, knit dolls). Faith and wellness writers framing him as a resilience symbol. Gamers and kids via Fortnite. Crypto speculators (a meme coin).",
+  "stage": "established_niche",
+  "recommendedAction": "pass",
+  "productDemand": "The strongest merch evidence in this lens. Fast Company reported that Jimothy shirts, mugs, sticker packs and figurines took over Etsy and Amazon within about a week. An officially licensed bobblehead is on presale. The Mariners made special merchandise. A Yahoo headline reports a teenager turned a free raccoon baseball card into more than $20K (collectible resale). This is real buyer activity, though the card is an outlier.",
+  "competition": "Saturated. Bootleg-style tees, mugs and stickers flooded Etsy and Amazon within a week of the video. Redbubble has a Jimothy shop page. An 'Official Jimothy Raccoon Store' sells Mariners-themed and 'Make Noise For Jimothy 2026' shirts. A licensed bobblehead exists. Slogans like 'In a world full of trash pandas, be a Jimothy' and 'if jimothy can i can' are already used.",
+  "competitionLevel": "saturated",
+  "gap": "There's little room for generic Jimothy merch. The only plausible gap is a narrow Seattle-local holiday item (e.g., an original-art 'Saint Jimothy' ornament or holiday card for Seattle gift buyers), and even that is probably already contested.",
+  "window": {
+   "estimate": "Already mature. Holiday 2026 is the last obvious gifting moment.",
+   "reasoning": "Merch supply has been flooding since July. The Fortnite tie-in sustains awareness among kids through October, but a new seller with no audience entering in October faces months of entrenched competition and weeks of discovery lag.",
+   "invalidators": [
+    "News about the raccoon's health or death changes the tone",
+    "Someone (e.g., the original videographer) asserts trademark or copyright claims and triggers marketplace takedowns",
+    "Interest fades after Fortnitemares"
+   ],
+   "seasonality": "Summer 2026 peak ('Jimothy Summer'). Holiday gifting is a possible last wave.",
+   "sellBy": null,
+   "endEstimate": null
+  },
+  "rights": {
+   "risk": "medium",
+   "note": "IP attorneys quoted by ABA Journal and Bloomberg Law say the name and a generic drawn image likely can't be trademarked, though Kiana Hall might have a claim (a high bar). The original video and photos are copyrighted, so don't trace them. Mariners logos and uniforms, the Fortnite sidekick design, and the licensed bobblehead design are off-limits. 'Official' store and licensing activity means takedown risk could grow."
+  },
+  "durabilityScore": 2,
+  "products": [
+   {
+    "index": 0,
+    "buyer": "Seattle-area gift buyers and Jimothy fans shopping for holiday ornaments and cards (only if revisited)",
+    "format": "other",
+    "theme": "Original-art 'Saint Jimothy' round-raccoon ceramic ornament or holiday card with 'Season's Scurryings from Ballard'. No team or game marks.",
+    "whyBuy": "Local-pride holiday gift for a city that officially celebrated 'Jimothy Summer'",
+    "evidence": [
+     "jimothy-the-raccoon~8d3312a4",
+     "jimothy-the-raccoon~a91fa241"
+    ],
+    "differentiation": "Holiday and local framing rather than generic tees. Probably still contested.",
+    "channels": [
+     "Etsy",
+     "Instagram"
+    ],
+    "effort": "low",
+    "effortHours": 4,
+    "leadTimeDays": 4,
+    "fulfillment": "pod",
+    "validationTest": "Not recommended now. If revisited, list one ornament and check whether 'jimothy ornament' search results are already crowded before investing.",
+    "continueIf": "Search shows few holiday-specific Jimothy items AND the listing gets 5+ sales by Dec 1",
+    "pivotIf": "n/a",
+    "stopIf": "Holiday Jimothy items are already abundant, or there's no sale within 3 weeks",
+    "rightsNote": "Original art only. No traced photos, no Mariners or Fortnite marks, no 'official' claims."
+   }
+  ]
+ },
+ {
+  "candidateId": "kinda-chic-kinda-chic-to",
+  "name": "Kinda Chic (\"kinda chic to...\")",
+  "category": "meme",
+  "summary": "A caption template where people call ordinary or hard-won things 'kinda chic', such as aging, body neutrality, sobriety or personal growth. Usually set in a butter-yellow font.",
+  "what": "Creators overlay pale/butter-yellow text reading 'kinda chic to...' on a photo, video or carousel and finish it with something non-luxury they are quietly proud of ('kinda chic to be in your 50s', 'kinda chic to never stop learning'). It takes 'chic' away from money and gives it to aging, body positivity, mental health and small wins. Celebrities and brands picked it up in August 2026, and critics have called it a humblebrag.",
+  "adopters": "Mostly women on Instagram and TikTok posting about body positivity, aging, mental health and personal growth. Celebrities joined (Drew Barrymore, 'kinda chic to be in your 50s'; Reese Witherspoon; Ashley Graham), and so did brands and businesses, including optical retailers covered by a trade publication. Search summaries say brands like Boots, Aldi and Virgin Atlantic used it, but the exact source page wasn't identified.",
+  "stage": "mainstream_surge",
+  "recommendedAction": "prepare",
+  "productDemand": "Indirect only. Multiple Etsy sellers have launched 'kinda chic' apparel in niche variants (Kinda Chic to Be Kind sweatshirt; 'kinda chic' Comfort Colors tee; 'Kinda Chic to be Mommin'' hat; volleyball-mom sweatshirt; cheer-coach SVG files for crafters). Brands use it in marketing. No sales figures, reviews or reported consumer requests for merch were found.",
+  "competition": "Etsy has a growing set of 'kinda chic' listings aimed at moms, coaches and sports parents, plus SVG files. Milestone-birthday, journal or planner products didn't appear in the limited results seen. Total listing counts weren't visible.",
+  "competitionLevel": "moderate",
+  "gap": "The trend's most-shared emotional core is aging and self-acceptance (Drew Barrymore's 'kinda chic to be in your 50s'), yet the competition seen targets moms and sports parents. Missing angles: (1) milestone-birthday gifts ('kinda chic to be 40/50/60') as mugs and printable cards, an evergreen gift occasion that outlives the meme; (2) a 2027 'small wins' journal or planner with weekly 'kinda chic to...' prompts for New Year planner season; (3) a planner sticker sheet of everyday 'kinda chic' wins.",
+  "window": {
+   "estimate": "Holiday gifting and New Year planner season (Nov 2026 - Jan 2027); milestone-birthday designs possibly year-round if the phrase sticks",
+   "reasoning": "It's past the August surge but still in active use in October. Birthday gifts and planners don't depend on the meme staying viral, only on the phrase still being recognizable. POD lead time (1-2 weeks) fits the holiday window if listings go up in October.",
+   "invalidators": [
+    "The phrase becomes cringe because brands overuse it (backlash pieces already exist)",
+    "Fast fade in recognition before December",
+    "A trademark filing on 'kinda chic' for apparel (none found, not cleared)",
+    "Etsy niche fills quickly with milestone-birthday variants"
+   ],
+   "seasonality": "Peaked in summer 2026. Products ride holiday gifting, New Year planning, and milestone birthdays.",
+   "sellBy": null,
+   "endEstimate": null
+  },
+  "rights": {
+   "risk": "low",
+   "note": "Common words with no known owner. A web search found no 'kinda chic' trademark filing, but that's not a clearance (check USPTO before scaling). The butter-yellow typographic look isn't protectable. Don't use celebrity names, photos or quotes (e.g., Drew Barrymore). 'Kinda chic to be in your 50s' as generic text is fine without her name or image. Avoid health or body-outcome promises in journal copy."
+  },
+  "durabilityScore": 3,
+  "products": [
+   {
+    "index": 0,
+    "buyer": "Adults (largely women 30-60) buying birthday gifts for a friend, sister or mother hitting a milestone age",
+    "format": "mug",
+    "theme": "'kinda chic to be 50' (series: 30/40/50/60/70) in butter-yellow lowercase type on cream, with a small sparkle detail. Matching printable birthday card.",
+    "whyBuy": "Turns a dreaded milestone into a compliment using a phrase the recipient has seen everywhere this year. A ready-made gift.",
+    "evidence": [
+     "kinda-chic-kinda-chic-to~c3600590",
+     "kinda-chic-kinda-chic-to~f7425bec",
+     "kinda-chic-kinda-chic-to~b3317c0e"
+    ],
+    "differentiation": "Aging/milestone angle, where the competition seen is mom and sports-parent apparel. The age series multiplies SEO entry points.",
+    "channels": [
+     "Etsy",
+     "Pinterest",
+     "Instagram"
+    ],
+    "effort": "low",
+    "effortHours": 6,
+    "leadTimeDays": 4,
+    "fulfillment": "pod",
+    "validationTest": "Publish the 40, 50 and 60 versions as Etsy POD mugs and a $4 printable card bundle. Pin 6 mockups on Pinterest. Run for 3 weeks.",
+    "continueIf": "Any age version gets 3+ sales or 30+ favorites within 3 weeks",
+    "pivotIf": "Favorites without sales: shift to the cheaper printable card or a sticker",
+    "stopIf": "Fewer than 10 favorites and no sales by early November",
+    "rightsNote": "No celebrity names, images or quotes. Generic phrase only."
+   },
+   {
+    "index": 1,
+    "buyer": "Women 25-45 into self-improvement, body neutrality and journaling, shopping for a 2027 planner",
+    "format": "journal",
+    "theme": "'Kinda Chic 2027: a year of small wins'. 52 weekly 'kinda chic to...' reflection prompts (rest, boundaries, rewearing outfits, trying new things), a monthly 'kinda chic' wins log and a year-end review. Goodnotes PDF plus printable.",
+    "whyBuy": "New Year planner season plus a supportive phrase they already use. Instant download.",
+    "evidence": [
+     "kinda-chic-kinda-chic-to~c3600590",
+     "kinda-chic-kinda-chic-to~17ac75ca",
+     "kinda-chic-kinda-chic-to~ae2f1385"
+    ],
+    "differentiation": "No 'kinda chic' journal or planner products appeared in results. Built around the trend's self-acceptance core rather than fashion.",
+    "channels": [
+     "Etsy",
+     "Gumroad",
+     "Pinterest",
+     "TikTok"
+    ],
+    "effort": "medium",
+    "effortHours": 14,
+    "leadTimeDays": 6,
+    "fulfillment": "digital",
+    "validationTest": "Release a free 4-week sample on Gumroad, promoted through 3 'kinda chic to...' Reels/TikToks. Then list the full journal on Etsy at about $8.",
+    "continueIf": "150+ free sample downloads or 5+ paid sales by mid-November",
+    "pivotIf": "Samples are popular but paid sales are weak: bundle with the sticker sheet or drop the price",
+    "stopIf": "Fewer than 50 sample downloads after 3 posts",
+    "rightsNote": "Avoid health, weight or mental-health outcome claims. Supportive prompts only."
+   },
+   {
+    "index": 2,
+    "buyer": "Planner and journal users who decorate spreads with stickers",
+    "format": "sticker",
+    "theme": "Sticker sheet of 12 everyday 'kinda chic to...' wins (drink the water, leave early, go to therapy, rewear it, say no, rest) in butter-yellow and cream",
+    "whyBuy": "Cheap, giftable add-on that fits planner culture",
+    "evidence": [
+     "kinda-chic-kinda-chic-to~c3600590",
+     "kinda-chic-kinda-chic-to~ae2f1385"
+    ],
+    "differentiation": "Everyday-wins content rather than identity tees. Pairs with the journal.",
+    "channels": [
+     "Etsy",
+     "Redbubble"
+    ],
+    "effort": "low",
+    "effortHours": 4,
+    "leadTimeDays": 3,
+    "fulfillment": "pod",
+    "validationTest": "List one sticker sheet on Redbubble/Etsy POD alongside the journal sample.",
+    "continueIf": "5+ sales in 4 weeks",
+    "pivotIf": "Sells only bundled: keep it as a bonus",
+    "stopIf": "No sales in 4 weeks",
+    "rightsNote": "Generic phrases only."
+   }
+  ]
+ },
+ {
+  "candidateId": "kitchen-witch-aesthetic",
+  "name": "Kitchen Witch aesthetic",
+  "category": "aesthetic",
+  "summary": "A cozy, old-world witchy kitchen look - labeled herb and apothecary jars, dried flowers, candles, copper, moons - that Pinterest named a fall-2026 trend and that Practical Magic 2 pushed into the mainstream.",
+  "what": "Kitchen Witch is a decor and hobby aesthetic built on herbs and home craft: apothecary-style labeled jars on open shelves, drying herbs and flowers, homemade spice blends, beeswax candles and vintage 'old-world' decor. It sits between cottagecore and the 90s whimsigoth look made famous by the 1998 film Practical Magic. In 2026 Pinterest gave it a name, and the September 2026 sequel brought licensed retail collections.",
+  "adopters": "Pinterest hobby users pursuing herbal crafts (herbal apothecary, spice blends, candle making); TikTok creators doing Practical Magic-inspired kitchen makeovers, including renters; nostalgic millennial fans of the 1998 film; whimsigoth and dark-cottage decor fans. Why they care: hands-on, offline hobbies plus a nostalgic, cozy seasonal look.",
+  "stage": "mainstream_surge",
+  "recommendedAction": "test_now",
+  "productDemand": "Purchase-adjacent signals: big retailers licensed decor and apparel (Wayfair, MacKenzie-Childs, Target), and fan goods sell on Etsy at $8 (digital prints) to $44 (sweaters). The Pinterest searches are utility/hobby intent ('herbal apothecary', 'homemade spice blends', 'candle making tutorial'), which fits functional printables like jar labels and recipe/herb journals. No sales figures were seen.",
+  "competition": "Halloween-style potion/apothecary labels (Eye of Newt and similar) are already sold as downloads on Payhip and Etsy, and Practical Magic-inspired signs, pins, sweaters and prints exist. Licensed brands now hold the film-branded space. Counts could not be measured. The visible supply leans toward Halloween novelty and film references, not functional year-round herb/pantry systems.",
+  "competitionLevel": "moderate",
+  "gap": "An original, non-film, non-Halloween 'kitchen witch pantry' system: functional labels for real culinary herbs, spices, teas and homemade blends (plus editable blanks) in a vintage-apothecary look, paired with a herb/recipe 'grimoire' journal. This serves the utility searches (herbal apothecary, spice blends) and stays sellable after Oct 31 and as Yule/holiday gifts.",
+  "window": {
+   "estimate": "Now through about late December 2026 for digital products; POD only for holiday/Yule gifting, not Halloween.",
+   "reasoning": "Digital delivery is instant, but new listings take weeks to be discovered, so Halloween demand (27 days away) is mostly out of reach. The aesthetic is autumn-winter rather than Halloween-only: herbs, candles and cozy kitchens carry into winter solstice/Yule (Dec 21) and holiday gifting. The film's home release could create a second spike, but its date was not verified.",
+   "invalidators": [
+    "Interest collapses right after Halloween (watch Pinterest/Etsy engagement on test pins and listings in early November)",
+    "Licensed Practical Magic 2 goods and Halloween label sellers crowd out new listings",
+    "IP complaints if listings use the film's name, characters or lines"
+   ],
+   "seasonality": "Peaks Sept-Oct (Halloween + film); secondary tail around winter solstice/Yule and holiday gifting; herb-pantry labels are useful year-round.",
+   "sellBy": null,
+   "endEstimate": "2026-12-21"
+  },
+  "rights": {
+   "risk": "medium",
+   "note": "Do NOT use 'Practical Magic', Owens-family names, film stills, logos, or film lines such as 'midnight margaritas' in designs, titles or tags. Warner Bros. is actively licensing (Target, Wayfair, MacKenzie-Childs), so enforcement is likely. Generic 'kitchen witch', apothecary, herb and moon motifs are fine. Treat witchcraft respectfully: frame herb content as culinary or traditional folklore, never as promised effects."
+  },
+  "durabilityScore": 3,
+  "products": [
+   {
+    "index": 0,
+    "buyer": "Home cooks and herbal hobbyists (mostly US women 25-45) restyling open shelves or a spice cabinet in the witchy-cottage look",
+    "format": "printable",
+    "theme": "'Kitchen Witch Pantry' apothecary label system: 60+ labels for real culinary herbs, spices, teas and homemade blends (rosemary, sage, chamomile, lavender, cinnamon, 'Hearth Blend'...), vintage-apothecary typography with moon and botanical ornament, plus editable blanks (Canva link + PDF) and round/rectangular sizes for mason and spice jars",
+    "whyBuy": "Matches the Pinterest utility searches ('herbal apothecary', homemade spice blends) and the labeled-jar look central to TikTok kitchen makeovers; still useful after Halloween.",
+    "evidence": [
+     "kitchen-witch-aesthetic~d2e1f12c",
+     "kitchen-witch-aesthetic~0ccb2b16",
+     "kitchen-witch-aesthetic~4491f321",
+     "kitchen-witch-aesthetic~49f0b89f"
+    ],
+    "differentiation": "Functional and year-round (real ingredients, editable), not Halloween novelty labels like 'Eye of Newt'; no film references.",
+    "channels": [
+     "Etsy",
+     "Pinterest",
+     "Gumroad"
+    ],
+    "effort": "low",
+    "effortHours": 8,
+    "leadTimeDays": 2,
+    "fulfillment": "digital",
+    "validationTest": "Publish one Etsy listing and one Gumroad page, plus 10 Pinterest pins (styled shelf mockups) that link to them; run for 21 days.",
+    "continueIf": "Pins earn saves/outbound clicks above your account baseline and the listing gets favorites plus at least a few sales within 21 days.",
+    "pivotIf": "Pins get saves but no sales: try a free 12-label sampler as a lead magnet or bundle with the journal; or reposition as 'apothecary spice labels' without the witch framing.",
+    "stopIf": "Almost no impressions or saves after 21 days and 20+ pins, or clicks without conversions after two price/thumbnail changes.",
+    "rightsNote": "Original typography and ornament only; avoid film names, quotes and imagery; use public-domain or self-made botanical art."
+   },
+   {
+    "index": 1,
+    "buyer": "Gift buyers for witchy, cottagecore or herb-loving friends (Yule/solstice and holiday gifts), and the hobbyists themselves",
+    "format": "journal",
+    "theme": "'Kitchen Grimoire' herb and recipe journal: herb profile pages (culinary use, harvest, storage), blend recipe cards, a seasonal 'wheel of the year' kitchen calendar, and pressed-flower pages; sold as a printable PDF and as an Amazon KDP paperback",
+    "whyBuy": "Ties to Pinterest-reported spice-blend, candle and herbal-apothecary hobby searches; journal format suits holiday gifting.",
+    "evidence": [
+     "kitchen-witch-aesthetic~d2e1f12c",
+     "kitchen-witch-aesthetic~0ccb2b16",
+     "kitchen-witch-aesthetic~931bdd29"
+    ],
+    "differentiation": "Practical recipe/herb log with an old-world look rather than a spell book; no film IP; content framed as culinary and traditional folklore.",
+    "channels": [
+     "Amazon KDP",
+     "Etsy",
+     "Gumroad",
+     "Pinterest"
+    ],
+    "effort": "medium",
+    "effortHours": 16,
+    "leadTimeDays": 5,
+    "fulfillment": "pod",
+    "validationTest": "Sell the printable PDF on Etsy first (instant) for two weeks; publish the KDP paperback in parallel by about mid-October so it is live for holiday shopping.",
+    "continueIf": "The PDF converts at least as well as the label set, or KDP shows organic sales by mid-November.",
+    "pivotIf": "Buyers prefer the labels: fold journal pages into a larger 'Kitchen Witch Pantry' bundle.",
+    "stopIf": "No sales from either format by early December.",
+    "rightsNote": "Write original herb notes; do not present herbs as remedies or promise effects; no film references."
+   },
+   {
+    "index": 2,
+    "buyer": "Renters and homeowners styling a kitchen or coffee nook in the whimsigoth/kitchen-witch look",
+    "format": "poster",
+    "theme": "Vintage herbarium-style culinary herb chart and moon-phase apothecary prints (set of 3) in deep jewel tones, sold as digital downloads with an optional POD print",
+    "whyBuy": "Design press recommends botanicals and apothecary-flair decor for the fall 2026 whimsigoth look; renters can decorate without remodeling.",
+    "evidence": [
+     "kitchen-witch-aesthetic~84a7044e",
+     "kitchen-witch-aesthetic~4491f321",
+     "kitchen-witch-aesthetic~08aa1605"
+    ],
+    "differentiation": "Functional chart content (culinary pairings, harvest months) instead of a film-quote sign; consistent with the label set for cross-selling.",
+    "channels": [
+     "Etsy",
+     "Pinterest",
+     "Redbubble"
+    ],
+    "effort": "low",
+    "effortHours": 6,
+    "leadTimeDays": 2,
+    "fulfillment": "digital",
+    "validationTest": "Add as a digital listing and as a bundle add-on to the label set; track attach rate.",
+    "continueIf": "The bundle with prints sells as well as or better than labels alone.",
+    "pivotIf": "Prints don't attach: offer them free as Pinterest-traffic bait.",
+    "stopIf": "Zero standalone sales and no bundle lift after 3 weeks.",
+    "rightsNote": "Use public-domain botanical illustrations (verify pre-1931 publication) or original art; no film imagery."
+   }
+  ]
+ },
+ {
+  "candidateId": "needlepoint-revival",
+  "name": "Needlepoint revival",
+  "category": "hobby",
+  "summary": "Young women are taking up needlepoint, stitching hand-painted canvases at home and at shop 'stitch nights', driven by TikTok and a wish to put phones down.",
+  "what": "Needlepoint is stitching wool or silk thread through a stiff mesh canvas, usually hand-painted by a designer. A 2024 TikTok wave pulled younger stitchers into local shops, and in 2026 beginner kits, stitch clubs and public beginner classes are spreading. Stitchers manage stashes of canvases and threads, track projects, and send finished pieces to 'finishers' (e.g., ornaments, pillows).",
+  "adopters": "Gen Z and younger millennial women seeking a screen-free, social hobby; hosts of home stitch nights; shops running weekly clubs.",
+  "stage": "early_growth",
+  "recommendedAction": "prepare",
+  "productDemand": "Strong spending on physical goods (kits selling out, a multimillion-dollar needlepoint business). New tracking apps and a published journal suggest an organizing need. Demand for paid digital trackers specifically was not observed.",
+  "competition": "Moderate: two apps (one free), a published journal and at least one Substack printable series target needlepoint organizing, plus many adjacent cross-stitch planners. The volume of needlepoint-specific printables on Etsy was not checked.",
+  "competitionLevel": "moderate",
+  "gap": "A stylish paper/printable canvas-stash and project journal made for needlepoint workflows (mesh count, kitted status, thread by brand/number, finisher and finishing-deadline tracker for holiday ornaments and stockings) may be thinner than for cross-stitch, along with stitch-night hosting printables. Both are inference; the finishing-deadline need is an assumption about the hobby and was not checked in this session.",
+  "window": {
+   "estimate": "Nov 2026 to Jan 2027 (gifts for stitchers, New-Year stitch goals), then evergreen.",
+   "reasoning": "Craft trackers sell around gifting and New-Year goals; the hobby wave has run since 2024 and still drew coverage in Aug 2026.",
+   "invalidators": [
+    "Free apps (Stitchpoint) absorb the organizing need",
+    "Etsy turns out to be saturated with needlepoint journals",
+    "The youth wave cools before January"
+   ],
+   "seasonality": "Holiday gifting and ornament/stocking stitching in Q4 (assumed); New-Year goal setting in January.",
+   "sellBy": null,
+   "endEstimate": null
+  },
+  "rights": {
+   "risk": "low",
+   "note": "Do not reproduce designers' hand-painted canvas art or paid stitch guides; draw original motifs. Press ties the craft to celebrities, so avoid celebrity names or likenesses."
+  },
+  "durabilityScore": 4,
+  "products": [
+   {
+    "index": 0,
+    "buyer": "Newer needlepoint stitchers with a growing canvas and thread stash; gift-givers for stitchers",
+    "format": "journal",
+    "theme": "Needlepoint project journal and canvas stash log (printable PDF plus KDP paperback): canvas inventory (designer, size, mesh, kitted Y/N, price), thread stash by brand/color number, per-project log with stitch notes, finisher tracker with due dates, and 2027 stitch goals",
+    "whyBuy": "Stitchers who buy many canvases need to track them; apps exist, which suggests the need, but some prefer paper.",
+    "evidence": [
+     "needlepoint-revival~18f0d86e",
+     "needlepoint-revival~10e0970f",
+     "needlepoint-revival~5352fdba",
+     "needlepoint-revival~db37cd8c",
+     "needlepoint-revival~027ee238"
+    ],
+    "differentiation": "Needlepoint-specific fields (mesh, kitted status, finishing) instead of generic cross-stitch planners; preppy-modern styling suited to the younger audience.",
+    "channels": [
+     "Etsy",
+     "Amazon KDP",
+     "Pinterest",
+     "Instagram"
+    ],
+    "effort": "medium",
+    "effortHours": 12,
+    "leadTimeDays": 4,
+    "fulfillment": "digital",
+    "validationTest": "List the printable at $8 by Nov 10; 10 Pinterest pins plus 3 stitch-night Instagram posts; check views and sales by Dec 10 before doing the KDP version.",
+    "continueIf": "At least 5 sales or at least 400 views with 30+ favorites by Dec 10.",
+    "pivotIf": "Views without sales: drop to a $4 stash-tracker-only version or bundle with the stitch-night kit.",
+    "stopIf": "Under 100 views by Dec 10.",
+    "rightsNote": "Original decorative art only; no designer canvas images."
+   },
+   {
+    "index": 1,
+    "buyer": "Hosts of home or shop stitch nights",
+    "format": "printable",
+    "theme": "Stitch-night host kit: invitation, sign-in sheet, name tags, 'what I'm stitching' cards, canvas-swap tickets, and a snack/drink menu card",
+    "whyBuy": "Craft-night and girls'-night-craft searches are reported up sharply, and stitch nights are the social core of the revival.",
+    "evidence": [
+     "needlepoint-revival~e6d55b38",
+     "needlepoint-revival~fccc46ba",
+     "needlepoint-revival~18f0d86e"
+    ],
+    "differentiation": "Built for needlepoint gatherings specifically (swap tickets, project cards) rather than generic party printables.",
+    "channels": [
+     "Etsy",
+     "Pinterest",
+     "Instagram"
+    ],
+    "effort": "low",
+    "effortHours": 6,
+    "leadTimeDays": 2,
+    "fulfillment": "digital",
+    "validationTest": "List at $6; measure views and sales over 21 days alongside the journal.",
+    "continueIf": "At least 3 sales in 21 days.",
+    "pivotIf": "Generalize to a 'craft night' kit covering knitting and crochet groups.",
+    "stopIf": "Under 75 views in 21 days.",
+    "rightsNote": "Original illustrations."
+   }
+  ]
+ },
+ {
+  "candidateId": "poetcore",
+  "name": "Poetcore",
+  "category": "aesthetic",
+  "summary": "A literary, romantic style - tweed and turtlenecks, satchels, notebooks and dog-eared poetry books - that Pinterest predicted for 2026 and fashion press now calls an autumn-2026 trend.",
+  "what": "Poetcore dresses like a 19th-century or bohemian poet: oversized turtlenecks, vintage blazers, messenger satchels, scarves, ink-stained notebooks and books carried as accessories. It is a softer, more romantic relative of dark academia and is marketed to both women and men. Its props (notebooks, poetry, handwriting) map naturally onto stationery and literary wall art.",
+  "adopters": "Gen Z and young millennial fashion followers of both genders; book lovers; fans of literary-heartthrob celebrity style (inferred). They care because it signals introspection, slowness and taste rather than logos.",
+  "stage": "early_growth",
+  "recommendedAction": "watch",
+  "productDemand": "Commercial uptake is visible in apparel merchandising only. Demand for Poetcore stationery, journals or poetry prints is plausible (books and notebooks are core props) but not evidenced. Gifting for book lovers in Q4 is a reasonable channel (inference).",
+  "competition": "Not measured (search budget exhausted). Literary/dark-academia prints and journals are a long-established category (background knowledge, unverified), so generic designs would face competition.",
+  "competitionLevel": "unknown",
+  "gap": "Curated public-domain poetry broadsides typeset in letterpress style, plus a 'commonplace book' journal for copying and annotating lines, sold as a Poetcore set. This uses rights-free text and fits gifting, New-Year journaling, Valentine's and National Poetry Month (April).",
+  "window": {
+   "estimate": "Autumn 2026 through spring 2027 (aesthetic likely outlasts the season).",
+   "reasoning": "Multi-source fashion adoption plus runway support suggests more than a single-season micro-trend; the paper-goods market is not time-critical, so creators can test without racing Halloween.",
+   "invalidators": [
+    "Poetcore fashion coverage drops off after autumn 2026",
+    "Marketplace check shows literary prints/journals are saturated with no premium for the Poetcore framing"
+   ],
+   "seasonality": "Autumn/winter look; poetry gifting peaks for Valentine's and April (National Poetry Month).",
+   "sellBy": null,
+   "endEstimate": null
+  },
+  "rights": {
+   "risk": "low",
+   "note": "Use only poems in the US public domain (published before 1931, e.g., Dickinson, Keats, Christina Rossetti, Whitman) and check each text and edition. Avoid modern poets and song lyrics. Don't use celebrity likenesses associated with the look."
+  },
+  "durabilityScore": 4,
+  "products": [
+   {
+    "index": 0,
+    "buyer": "Book lovers and Poetcore/dark-academia fans decorating reading nooks or dorms; gift buyers",
+    "format": "poster",
+    "theme": "Letterpress-style broadsides of public-domain poems (set of 4-6: Dickinson, Keats, Christina Rossetti, Whitman) on aged paper with ink-blot ornament",
+    "whyBuy": "Poems and books are core props of the look; a rights-free, giftable decor piece.",
+    "evidence": [
+     "poetcore~129dde2d",
+     "poetcore~0cc6d57d"
+    ],
+    "differentiation": "Curated, accurately transcribed texts with typographic craft instead of generic quote posters.",
+    "channels": [
+     "Etsy",
+     "Pinterest",
+     "Redbubble"
+    ],
+    "effort": "low",
+    "effortHours": 8,
+    "leadTimeDays": 3,
+    "fulfillment": "digital",
+    "validationTest": "List the set as a digital download plus 10 pins tagged poetcore/literary decor; compare saves against your other boards.",
+    "continueIf": "Saves and favorites are steady and a few sales come within 4 weeks.",
+    "pivotIf": "Saves but no sales: make one poem free as a pin magnet and sell the journal instead.",
+    "stopIf": "No traction after 4 weeks and 20 pins.",
+    "rightsNote": "Verify public-domain status and text accuracy for each poem."
+   },
+   {
+    "index": 1,
+    "buyer": "Poetcore adopters who journal; New-Year journaling buyers",
+    "format": "journal",
+    "theme": "'Commonplace Book' journal: pages for copying lines, annotating poems, word lists and drafting, with a monthly 'poem to memorize' page (public-domain selections); KDP paperback + printable",
+    "whyBuy": "Notebooks are part of the look; commonplace books suit the slow, literary values the trend is described with.",
+    "evidence": [
+     "poetcore~0cc6d57d",
+     "poetcore~0ead978f"
+    ],
+    "differentiation": "Built for engaging with poetry, not a blank notebook.",
+    "channels": [
+     "Amazon KDP",
+     "Etsy",
+     "Gumroad"
+    ],
+    "effort": "medium",
+    "effortHours": 12,
+    "leadTimeDays": 5,
+    "fulfillment": "pod",
+    "validationTest": "Publish on KDP and as a PDF in December; promote around New Year.",
+    "continueIf": "Organic KDP sales in January.",
+    "pivotIf": "Re-theme for Valentine's (love poems) if January is flat.",
+    "stopIf": "No sales by end of February.",
+    "rightsNote": "Public-domain poems only; original layout."
+   }
+  ]
+ },
+ {
+  "candidateId": "remember-november-2026",
+  "name": "Remember November 2026",
+  "category": "meme",
+  "summary": "A cursed AI polar bear that supposedly comes 'from November 2026' was revived in Sept 2026 singing 'Remember November 2026 is coming'. November 2026 is now four weeks away.",
+  "what": "In 2023 an AI-generated image of a polar bear propped on its front paws spread on Russian TikTok with the caption 'This is a November meme from 2026, you won't understand yet'. It became a 'meme from the future' creepypasta. In late August 2026 a new AI video showed the bear singing 'Remember November 2026 is coming' to Oliver Tree's 'Life Goes On', and the format spread across TikTok and Instagram Reels in September. The joke is anticipation with no event at the end of it, so the meme's payoff is the calendar month itself.",
+  "adopters": "TikTok and Instagram Reels users, especially teen and young-adult meme audiences, making karaoke covers, edits of the bear next to a November 2026 calendar, and reaction skits. Explainer creators (YouTube, blogs) and creator-asset sellers are also cashing in.",
+  "stage": "mainstream_surge",
+  "recommendedAction": "test_now",
+  "productDemand": "Supply-side signals only. Etsy has market pages for 'Remember November 2026 shirt' and '...is coming'. TeePublic carries a 'Remember November 2026 is Coming Polar Bear Meme' long-sleeve. A YouTube Short promotes a tee. A Shopify store (Laima Design) wrote a content-marketing explainer. Creatorset sells a green-screen asset of the meme. No sales counts, reviews, 'sold out' reports, or press about people seeking merch were found. Listings show sellers expect demand, not that buyers exist.",
+  "competition": "Several independent sellers already list shirts, long-sleeves, hoodies and totes on Etsy and TeePublic, and Redbubble shows at least one Polar Bear 2026 sticker among unrelated 2026 polar-bear designs. No November-2026 calendar wallpapers or printables appeared in the results, but this was a limited search, not a count.",
+  "competitionLevel": "moderate",
+  "gap": "Most supply is apparel copying the AI bear or moody forest-and-moon graphics. Missing: (1) instant digital products that use the calendar payoff, such as a November 2026 phone wallpaper/lock-screen calendar with an original bear and day-by-day 'do you understand yet?' gags; (2) cheap stickers with a post-payoff punchline ('I remembered. November 2026.') that work for the whole month. Digital avoids POD shipping lag on a hard-dated joke.",
+  "window": {
+   "estimate": "Now through about 2026-11-30. Best selling days are likely late October to mid-November.",
+   "reasoning": "The joke points at November 2026, and the month's arrival is a guaranteed attention trigger (inference). Digital products deliver instantly through November. POD orders placed after about Nov 15 arrive near or after month-end (1-2 week POD delivery). After November the premise is spent, though the 'meme from 2027' bird lore shows the 'meme from the future' format rolls forward to a new year, which is a different product.",
+   "invalidators": [
+    "Attention already peaked in September and November passes quietly",
+    "Platform takedowns of listings that copy the AI bear image or reference the Oliver Tree song",
+    "A larger seller or brand floods the November moment",
+    "A real-world 'November 2026' event repurposes the phrase in a way that makes it unfunny or sensitive"
+   ],
+   "seasonality": "Hard-dated to November 2026. Overlaps early holiday shopping, so it competes for attention with Black Friday listings.",
+   "sellBy": "2026-11-30",
+   "endEstimate": null
+  },
+  "rights": {
+   "risk": "medium",
+   "note": "Do NOT use the viral AI polar-bear image or video frames: who made it is unclear, and copying it invites takedowns. Do not reference Oliver Tree, the song title, or lyrics/melody. The phrase 'Remember November 2026 (is coming)' is a meme line with no known owner, and an original, clearly different polar-bear illustration plus text is low risk. 'Polar bear' and dates are generic. Risk drops to low if you use only the phrase and original art."
+  },
+  "durabilityScore": 1,
+  "products": [
+   {
+    "index": 0,
+    "buyer": "Teens and young adults (US) who follow the meme on TikTok/Reels and want to be 'in on it' on their lock screen during November",
+    "format": "other",
+    "theme": "'November 2026: Do You Understand Yet?' phone wallpaper and lock-screen calendar pack. Original cartoon polar bear in a few poses (balanced on front paws, holding a calendar, shrugging on Nov 30), with day-by-day deadpan gag captions. Includes a printable desk-calendar PDF version.",
+    "whyBuy": "Identity signal for the meme's own month; instant delivery; cheap impulse buy timed to the Nov 1 moment",
+    "evidence": [
+     "remember-november-2026~7a9c3c65",
+     "remember-november-2026~01f4b8b5",
+     "remember-november-2026~87c02ef3"
+    ],
+    "differentiation": "Uses the calendar payoff instead of copying the AI bear onto a shirt. Original art. Digital, so no shipping lag on a hard-dated joke.",
+    "channels": [
+     "TikTok",
+     "Gumroad",
+     "Etsy",
+     "Instagram"
+    ],
+    "effort": "low",
+    "effortHours": 5,
+    "leadTimeDays": 2,
+    "fulfillment": "digital",
+    "validationTest": "List on Gumroad and Etsy at about $3. Post 3-5 TikToks/Reels in the meme's format (bear reacting to the calendar) between Oct 25 and Nov 3, linking the product.",
+    "continueIf": "10 or more paid downloads, or clear 'where do I get this' comments, by Nov 4",
+    "pivotIf": "Videos get views but no sales: offer it free as a lead magnet and test a paid sticker instead",
+    "stopIf": "Fewer than 3 sales by Nov 10, or meme content volume visibly dies after Nov 1",
+    "rightsNote": "No AI bear image, no Oliver Tree name/song/lyrics. Original bear art only."
+   },
+   {
+    "index": 1,
+    "buyer": "Meme-literate teens and young adults decorating laptops, water bottles and phone cases",
+    "format": "sticker",
+    "theme": "Die-cut sticker of an original polar bear balancing on its front paws, captioned 'I remembered. November 2026.' (alt: 'Remember November 2026 - I still don't get it')",
+    "whyBuy": "Cheap, giftable in-joke for the payoff month",
+    "evidence": [
+     "remember-november-2026~1cafc1f7",
+     "remember-november-2026~666d1bc5",
+     "remember-november-2026~b912e5ab"
+    ],
+    "differentiation": "Post-payoff punchline that stays funny all through November, where competitors use the 'coming' framing that goes stale on Nov 1",
+    "channels": [
+     "Redbubble",
+     "Etsy",
+     "TikTok"
+    ],
+    "effort": "low",
+    "effortHours": 3,
+    "leadTimeDays": 3,
+    "fulfillment": "pod",
+    "validationTest": "List 2 caption variants on Redbubble and as Etsy POD stickers by Oct 15, then compare favorites and sales.",
+    "continueIf": "Any variant sells 5+ by Nov 5",
+    "pivotIf": "Favorites but no sales: bundle as a free bonus with the wallpaper pack",
+    "stopIf": "No sales by Nov 12 (POD delivery would then land after the joke expires)",
+    "rightsNote": "Original bear only. Do not trace the AI image."
+   }
+  ]
+ },
+ {
+  "candidateId": "the-great-lock-in",
+  "name": "The Great Lock-In",
+  "category": "movement",
+  "summary": "A TikTok-born challenge where people use September 1 to December 31 to build habits and work on goals, instead of waiting for New Year's resolutions.",
+  "what": "Participants pick a small set of personal goals (fitness, money, reading, sleep, organization, and in 2026 more mindfulness) and 'lock in' on them for the last four months of the year. There are no official rules. It started on TikTok in August 2025 and returned for 2026. It overlaps with the older 'Winter Arc' (Oct 1 to Dec 31) and 'last 90 days' challenges, and feeds the 'lock-in/rebrand instead of resolutions' framing for the New Year.",
+  "adopters": "Gen Z and young millennials on TikTok, with coverage of adoption in Black online communities (The Root, TheGrio). Fitness and wellness brands (Gymshark, Johnson Fitness UK) and productivity apps (Motion, HabitHuddle) publish content about it. People want structure and a fresh start without waiting for January.",
+  "stage": "mainstream_surge",
+  "recommendedAction": "prepare",
+  "productDemand": "Most signals are participation and curiosity content (videos documenting rules and routines) rather than purchase intent. Paid products exist for the sibling Winter Arc trend (Gumroad and Payhip journals and trackers), and Etsy sells many generic habit trackers at $1-6, which shows people buy trackers in general. No sales data for lock-in-branded products was found. Trill Mag reports Gen Z replacing resolutions with 'rebrands' and 'lock-ins' planned months ahead, which supports a New Year 2027 planner angle.",
+  "competition": "Generic printable habit trackers are saturated on Etsy. Free apps (Motion, HabitHuddle) publish Winter Arc and Lock-In guides. Winter Arc journals are sold on Gumroad. A search for lock-in-specific Etsy trackers returned only generic trackers, which suggests few trend-named listings, but Etsy could not be checked directly.",
+  "competitionLevel": "moderate",
+  "gap": "A dated 'final 12 weeks of 2026' Lock-In tracker that includes a progress log for proving results with numbers (borrowing the 2026 'potential-maxxing' habit of quantifying growth), and especially a 'Lock In 2027' quarterly sprint planner that carries the lock-in identity into January for resolution skeptics. Existing products are either generic trackers or tied to the fading 'Winter Arc' name.",
+  "window": {
+   "estimate": "Sprint tracker: now to mid-November at best. 'Lock In 2027' planner: list by Dec 1, sell Dec 15 to Jan 31",
+   "reasoning": "The 2026 lock-in started Sept 1 and is already a month old. A new listing needs weeks to surface, so a Sept-Dec tracker mostly misses the window. New Year planning is the stronger window, and the 'lock-in instead of resolutions' framing is documented.",
+   "invalidators": [
+    "The 'Great Lock-In' name fades the way 'Winter Arc' did",
+    "TikTok moves to a new name for the January reset",
+    "Backlash about burnout and 'grind culture' (CBC critique) reduces appeal",
+    "Free app templates meet the need"
+   ],
+   "seasonality": "Two peaks a year: early September (lock-in start) and late December to early January (resolution season). Winter Arc peaks around Oct 1.",
+   "sellBy": null,
+   "endEstimate": null
+  },
+  "rights": {
+   "risk": "low",
+   "note": "'Great Lock-In', 'lock in' and 'winter arc' read as community slang, but trademark filings were not checked (search budget ran out). Avoid brand names (Gymshark), creator names and likenesses, and any health or fitness outcome claims."
+  },
+  "durabilityScore": 3,
+  "products": [
+   {
+    "index": 0,
+    "buyer": "TikTok-native 18-30-year-olds doing a late-year lock-in or winter arc",
+    "format": "printable",
+    "theme": "'Lock-In: The Final 12 Weeks of 2026' (Oct 6 to Dec 27): pick 3 non-negotiables, a daily check grid, a weekly reflection, and a 'proof log' page for recording numbers (pages read, workouts, dollars saved).",
+    "whyBuy": "It turns a free-form TikTok challenge into a dated, printable structure. The proof log matches the 2026 trend of showing growth with numbers.",
+    "evidence": [
+     "the-great-lock-in~5dc9c30d",
+     "the-great-lock-in~a47e4ff3",
+     "the-great-lock-in~6be192c9",
+     "the-great-lock-in~89b0c6ce"
+    ],
+    "differentiation": "Dated to the 2026 lock-in and named for it, unlike generic undated trackers. Includes the proof log.",
+    "channels": [
+     "Etsy",
+     "Gumroad",
+     "TikTok",
+     "Pinterest"
+    ],
+    "effort": "low",
+    "effortHours": 5,
+    "leadTimeDays": 1,
+    "fulfillment": "digital",
+    "validationTest": "List on Etsy and Gumroad by Oct 6. Post 3 short 'my last-12-weeks lock-in setup' videos and 5 pins.",
+    "continueIf": "Any sales or 20+ favorites within 14 days.",
+    "pivotIf": "Views but no sales: make it free as a lead magnet for the 2027 planner.",
+    "stopIf": "Under about 50 views by Oct 25. Fold the design into the 2027 product.",
+    "rightsNote": "Generic slang only. No fitness or health outcome claims."
+   },
+   {
+    "index": 1,
+    "buyer": "Resolution skeptics aged 18-35 who prefer short sprints and a 'rebrand' over January resolutions",
+    "format": "planner",
+    "theme": "'Lock In 2027': a 12-week Q1 sprint planner with a yearly vision/'rebrand' page, quarterly goal breakdown, weekly non-negotiables, habit and proof logs, and an optional low-buy tracker page. Sold as a printable plus a GoodNotes-compatible PDF, with an optional KDP paperback.",
+    "whyBuy": "Carries the lock-in identity into the New Year. Trill Mag and Yahoo report Gen Z replacing resolutions with lock-ins, rebrands and arcs.",
+    "evidence": [
+     "the-great-lock-in~e59b44dd",
+     "the-great-lock-in~c83a76c9",
+     "the-great-lock-in~a47e4ff3"
+    ],
+    "differentiation": "Lock-in framing and 12-week sprints instead of a year-long dated planner. Bundles the no-buy and rebrand rituals into one product.",
+    "channels": [
+     "Etsy",
+     "Gumroad",
+     "Amazon KDP",
+     "Pinterest",
+     "TikTok"
+    ],
+    "effort": "medium",
+    "effortHours": 14,
+    "leadTimeDays": 4,
+    "fulfillment": "digital",
+    "validationTest": "Pre-list by Nov 15 so the listing ages. Pin weekly. Start TikTok 'plan my 2027 lock-in' content around Dec 15.",
+    "continueIf": "Sales or rising favorites by Dec 20. If so, add the KDP paperback and a Q2 refill.",
+    "pivotIf": "The lock-in name gets no traction: retitle around '12-week year' or 'Q1 sprint' wording.",
+    "stopIf": "No sales by Jan 10, 2027.",
+    "rightsNote": "Avoid the trademarked '12 Week Year' title and the names of commercial planner brands. Use generic wording."
+   }
+  ]
+ },
+ {
+  "candidateId": "6-7-six-seven-meme",
+  "name": "6-7 (Six Seven) meme",
+  "category": "meme",
+  "summary": "A nonsensical Gen Z/Gen Alpha catchphrase and hand gesture from Skrilla's 'Doot Doot (6 7)' and LaMelo Ball edits, named Dictionary.com's 2025 Word of the Year and now reported to be declining.",
+  "what": "'6-7' is a meaningless, ironic interjection, often paired with a shrug-like hand gesture. It is used for 'so-so' or 'maybe' and in jokes such as scoring 67% on an exam. It spread from basketball edits to school playgrounds and mainstream brands. Dictionary.com classed it as brainrot.",
+  "adopters": "Mainly children, teens and Gen Z, with heavy use in schools. Teachers and schools reacted, and some banned it. Brands such as Buc-ee's and Southwest Airlines joined in.",
+  "stage": "declining",
+  "recommendedAction": "pass",
+  "productDemand": "Many 6-7 products are listed on Etsy, and Buc-ee's sells a 67 T-shirt. These are supply, not demand. I found no sales figures, sell-outs or purchase-intent surveys.",
+  "competition": "Etsy has many 6-7 listings, including PNG design bundles, sweatshirts and embroidered shirts. Walmart and Buc-ee's also carry products. I could not count listings.",
+  "competitionLevel": "high",
+  "gap": "No clear gap is visible. Existing listings already cover tees, PNG bundles and gifts. Any remaining angle, such as teacher classroom humor printables, would target a fading trend. This is an inference, not an observation.",
+  "window": {
+   "endEstimate": null,
+   "estimate": null,
+   "invalidators": [
+    "A new viral revival or a related event, such as a sports moment or brand campaign",
+    "Trend data showing renewed growth"
+   ],
+   "reasoning": "Reported decline in 2026 and a POD delivery time of 1-2 weeks plus weeks for a new listing to be discovered leave little time to earn from it. I cannot give a dated estimate from the available evidence.",
+   "seasonality": "School-year humor; no fixed deadline found.",
+   "sellBy": null
+  },
+  "rights": {
+   "note": "Skrilla's song and lyrics, LaMelo Ball's name and likeness, and brand marks (e.g. Buc-ee's) should be avoided. The bare number is generic, but I did not find trademark status either way.",
+   "risk": "medium"
+  },
+  "durabilityScore": 1,
+  "products": []
+ }
+]

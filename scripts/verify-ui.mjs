@@ -138,7 +138,7 @@ const check = (name, ok, detail = '') => {
 };
 
 async function newPage(scenario, viewport = { width: 1440, height: 1000 }, colorScheme = 'light') {
-  const ctx = await browser.newContext({ viewport, colorScheme });
+  const ctx = await browser.newContext({ viewport, colorScheme, permissions: ['clipboard-read', 'clipboard-write'] });
   const page = await ctx.newPage();
   const errors = [];
   page.on('pageerror', (e) => errors.push(e.message));
@@ -150,7 +150,29 @@ async function newPage(scenario, viewport = { width: 1440, height: 1000 }, color
 
 // ---- Scenario 1: connected worker, full flows ----
 {
-  const withWorker = { ...seed, 'config/worker': { triggerId: 'trig_test', scheduleTriggerId: 'trig_sched' } };
+  const testPlaybook = {
+    candidateId: 'american-mahjong-boom',
+    products: [
+      {
+        index: 0,
+        themeKey: seed['candidates/american-mahjong-boom'].products[0].theme.slice(0, 60),
+        productName: 'Test Instructor Kit',
+        superPrompt: 'You are a test super prompt. Produce the kit.',
+        imagePrompts: [{ tool: 'Ideogram', purpose: 'cover', prompt: 'A test cover.' }],
+        assembly: ['Open Canva', 'Export PDF'],
+        listingPrompt: 'Write the listing.',
+        pricing: { recommended: 19, low: 14, high: 29, currency: 'USD', rationale: 'test', basis: 'estimate' },
+        costs: { provider: null, item: null, baseCost: null, shipping: null, basis: 'estimate', testBudget: 14, testBudgetNote: '' },
+        platforms: [{ name: 'Etsy', role: 'primary', why: 'test' }, { name: 'Gumroad', role: 'secondary', why: 'test' }, { name: 'Pinterest', role: 'traffic', why: 'test' }],
+        marketing: { positioning: 'Test positioning', launchPlan: [{ day: 'Day 0', action: 'List it' }, { day: 'Day 21', action: 'Decide' }], channels: [{ channel: 'Pinterest', tactic: 'Pins', cadence: 'daily' }], keywords: ['mahjong teacher'], hooks: ['Hook one'] },
+        extensions: ['Bundle', 'Series', 'Upsell'],
+        asymmetry: { downside: 'Small', upside: 'Open', badBetIf: 'Crowded' },
+        risks: ['Test risk'],
+        source: 'written',
+      },
+    ],
+  };
+  const withWorker = { ...seed, 'config/worker': { triggerId: 'trig_test', scheduleTriggerId: 'trig_sched' }, 'playbooks/american-mahjong-boom': testPlaybook };
   const { ctx, page, errors } = await newPage({ mcp: 'ok' });
   await page.evaluate((s) => localStorage.setItem('mockdb.v1', JSON.stringify(s)), withWorker);
   await page.reload();
@@ -185,6 +207,24 @@ async function newPage(scenario, viewport = { width: 1440, height: 1000 }, color
   check('detail shows score breakdown and confidence factors', dossierText.includes('Score breakdown') && dossierText.includes('Independent sources'));
   check('history shows dated timeline (no fabricated chart)', /dated evidence timeline/i.test(dossierText) && (await page.locator('.dossier svg.chart').count()) === 0);
   await page.screenshot({ path: `${shots}/detail.png`, fullPage: false });
+
+  // Playbook: tabs, copy, profit, asymmetry
+  check('written playbook shows on the product', (await page.locator('.dossier .pb').count()) >= 1 && /Test Instructor Kit/.test(await page.locator('.dossier .pb').first().innerText()));
+  await page.locator('.dossier .pb').first().locator('button:has-text("Copy")').first().click();
+  const clip = await page.evaluate(() => navigator.clipboard.readText().catch(() => ''));
+  check('super prompt copies to the clipboard', clip.includes('test super prompt'), clip.slice(0, 40));
+  await page.locator('.dossier .pb').first().locator('.pb-tab:has-text("Profit")').click();
+  const profit = await page.locator('.dossier .pb').first().innerText();
+  check('profit tab shows per-channel net and break-even', /You keep/i.test(profit) && /Gumroad/.test(profit) && /Break-even/i.test(profit));
+  const before = await page.locator('.dossier .pb').first().locator('tbody tr').first().innerText();
+  await page.locator('.dossier .pb').first().locator('input[type=number]').fill('29');
+  const after = await page.locator('.dossier .pb').first().locator('tbody tr').first().innerText();
+  check('changing the price updates the profit table', before !== after && after.includes('$29.00'), after.replace(/\s+/g, ' '));
+  await page.locator('.dossier .pb').first().locator('.pb-tab:has-text("Asymmetry")').click();
+  const asymText = await page.locator('.dossier .pb').first().innerText();
+  check('asymmetry tab shows rating, downside and factors', /asymmetric|Roughly even|Unfavorable/i.test(asymText) && /Risk \$/.test(asymText) && /Zero marginal cost/.test(asymText));
+  check('products without a written playbook get a template prompt', (await page.locator('.dossier .tag:has-text("Template")').count()) >= 1);
+  check('ledger rows show the best bet asymmetry', (await page.locator('.row .bet').count()) > 0);
 
   // Gate explanation on a downgraded candidate
   await page.click('text=Back to list');
@@ -258,8 +298,15 @@ async function newPage(scenario, viewport = { width: 1440, height: 1000 }, color
   await page.click('text=Save weights');
   await page.waitForTimeout(100);
   check('weights save to the database', (await page.evaluate(() => window.__mock.store['config/settings']?.weights?.timing)) === 0);
+  check('selling costs panel lists fee assumptions', /Selling costs/.test(await page.locator('.view').innerText()) && (await page.locator('input[id^="fee-"]').count()) > 5);
   check('worker schedule status loads', await page.evaluate(() => window.__mock.calls.some((c) => c[0] === 'get_trigger')));
   await page.screenshot({ path: `${shots}/settings.png`, fullPage: true });
+
+  await page.click('role=tab[name=/Opportunities/]');
+  await page.selectOption('#f-sort', 'asymmetry');
+  check('sorting by most asymmetric bet works', (await page.locator('.row').count()) === 13);
+  await page.selectOption('#f-sort', 'rank');
+  await page.click('role=tab[name=/Settings/]');
 
   // Demo mode is labeled and separate
   await page.check('#demo-toggle');

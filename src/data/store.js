@@ -3,7 +3,7 @@
 //   - local: browser storage, for previews outside claude.ai (per browser only)
 // The UI only talks to this interface, never to a backend directly.
 
-export const COLLECTIONS = ['candidates', 'evidence', 'observations', 'snapshots', 'jobs', 'runs', 'watchlist', 'inbox', 'config'];
+export const COLLECTIONS = ['candidates', 'evidence', 'observations', 'snapshots', 'jobs', 'runs', 'watchlist', 'inbox', 'config', 'playbooks'];
 
 function emptyState() {
   const s = { ready: false, error: null };
@@ -245,6 +245,8 @@ export function indexState(state) {
     jobs: [...(state.jobs || [])].sort((a, b) => Date.parse(b.createdAt || 0) - Date.parse(a.createdAt || 0)),
     runs: [...(state.runs || [])].sort((a, b) => Date.parse(b.researchedAt || 0) - Date.parse(a.researchedAt || 0)),
     inbox: state.inbox || [],
+    playbooks: new Map((state.playbooks || []).map((p) => [p.candidateId || p.id, p])),
+    fees: config.fees || null,
     settings: config.settings || null,
     worker: config.worker || null,
     sources: config.sources || null,
