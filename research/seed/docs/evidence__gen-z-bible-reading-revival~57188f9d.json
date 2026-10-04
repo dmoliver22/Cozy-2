@@ -1,0 +1,19 @@
+{
+  "id": "gen-z-bible-reading-revival~57188f9d",
+  "candidateId": "gen-z-bible-reading-revival",
+  "url": "https://www.christian.org.uk/news/bible-sales-reach-record-high-as-gen-z-shows-increasing-openness/",
+  "title": "Bible sales reach record high, as Gen Z shows increasing openness",
+  "publisher": "The Christian Institute",
+  "publishedAt": null,
+  "retrievedAt": "2026-10-04T20:59:17Z",
+  "accessMethod": "web_search_result",
+  "signalType": "press",
+  "intent": "purchase",
+  "claim": "Reports record UK Bible sales in 2025 and a 21-year US high in 2025 (up 12% from 2024), with Gen Z interest cited.",
+  "kind": "observed",
+  "syndicationOf": null,
+  "excerpt": "Summary: physical Bible sales up 27.7% last year (UK), up 106% since 2019; US sales at a 21-year high in 2025, +12%. Original data sources not identified in the summary.",
+  "firstSeenRunId": "run-2026-10-04-movements",
+  "lastSeenRunId": "run-2026-10-04-movements",
+  "firstRetrievedAt": "2026-10-04T20:59:17Z"
+}

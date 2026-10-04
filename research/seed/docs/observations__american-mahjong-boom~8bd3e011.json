@@ -1,0 +1,13 @@
+{
+  "id": "american-mahjong-boom~8bd3e011",
+  "candidateId": "american-mahjong-boom",
+  "metric": "YoY change in Yelp searches for mahjong clubs",
+  "unit": "percent (approx.)",
+  "value": 4500,
+  "asOf": "2026-04-29",
+  "evidenceId": "american-mahjong-boom~4555b985",
+  "isAbsolute": false,
+  "note": "reported by WBUR/NPR citing Yelp ('almost 4,500%'); another summary gives 4,467% for fall 2024 to fall 2025; not independently verified",
+  "runId": "run-2026-10-04-hobbies",
+  "recordedAt": "2026-10-04T21:01:01.000Z"
+}

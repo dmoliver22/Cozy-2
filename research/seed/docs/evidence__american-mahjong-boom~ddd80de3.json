@@ -1,0 +1,19 @@
+{
+  "id": "american-mahjong-boom~ddd80de3",
+  "candidateId": "american-mahjong-boom",
+  "url": "https://www.nbcnewyork.com/news/national-international/mahjong-nights-draw-young-crowds-san-francisco-bars-restaurants/6385972/",
+  "title": "Mahjong nights draw young crowds to San Francisco bars, restaurants",
+  "publisher": "NBC (syndicated across NBC O&O sites)",
+  "publishedAt": null,
+  "retrievedAt": "2026-10-04T20:53:53Z",
+  "accessMethod": "web_search_result",
+  "signalType": "press",
+  "intent": "curiosity",
+  "claim": "Reports Eventbrite data: US mahjong events on its platform rose 179% from 2023 to 2024.",
+  "kind": "observed",
+  "syndicationOf": null,
+  "excerpt": "Search summary: Eventbrite reports a 179% increase in US mahjong events 2023->2024; SF's YLL Mahjong Club hosts parties with up to 30 tables and 200 guests; Gen Z interest in other 'grannycore' activities like needlework circles.",
+  "firstSeenRunId": "run-2026-10-04-hobbies",
+  "lastSeenRunId": "run-2026-10-04-hobbies",
+  "firstRetrievedAt": "2026-10-04T20:53:53Z"
+}

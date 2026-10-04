@@ -1,0 +1,19 @@
+{
+  "id": "analog-bag-screen-free-gifting~ef4782e2",
+  "candidateId": "analog-bag-screen-free-gifting",
+  "url": "https://finance.yahoo.com/sectors/technology/articles/gen-z-engineering-analog-future-090000793.html",
+  "title": "Gen Z is engineering an analog future — and it's at least a $5 billion opportunity",
+  "publisher": "Yahoo Finance",
+  "publishedAt": null,
+  "retrievedAt": "2026-10-04T20:59:17Z",
+  "accessMethod": "web_search_result",
+  "signalType": "press",
+  "intent": "curiosity",
+  "claim": "Syndicated copy of the Fortune analog-economy article.",
+  "kind": "observed",
+  "syndicationOf": "analog-bag-screen-free-gifting~f7776af1",
+  "excerpt": "Same title as a9.",
+  "firstSeenRunId": "run-2026-10-04-movements",
+  "lastSeenRunId": "run-2026-10-04-movements",
+  "firstRetrievedAt": "2026-10-04T20:59:17Z"
+}

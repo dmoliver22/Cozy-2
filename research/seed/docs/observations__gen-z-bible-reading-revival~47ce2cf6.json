@@ -1,0 +1,13 @@
+{
+  "id": "gen-z-bible-reading-revival~47ce2cf6",
+  "candidateId": "gen-z-bible-reading-revival",
+  "metric": "US physical Bible sales growth, 2025 vs 2024",
+  "unit": "percent increase",
+  "value": 12,
+  "asOf": "2026-10-04",
+  "evidenceId": "gen-z-bible-reading-revival~57188f9d",
+  "isAbsolute": false,
+  "note": "Reported by The Christian Institute (original data source not identified); 2025 described as a 21-year high.",
+  "runId": "run-2026-10-04-movements",
+  "recordedAt": "2026-10-04T21:02:03.000Z"
+}

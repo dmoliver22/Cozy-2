@@ -1,0 +1,13 @@
+{
+  "id": "kinda-chic-kinda-chic-to~57421db6",
+  "candidateId": "kinda-chic-kinda-chic-to",
+  "metric": "likes on Drew Barrymore's Kinda Chic Instagram carousel within four days",
+  "unit": "likes (lower bound)",
+  "value": 170000,
+  "asOf": "2026-08-07",
+  "evidenceId": "kinda-chic-kinda-chic-to~c3600590",
+  "isAbsolute": true,
+  "note": "Reported by KYM via search summary. Not independently verified.",
+  "runId": "run-2026-10-04-memes",
+  "recordedAt": "2026-10-04T21:01:02.000Z"
+}

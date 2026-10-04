@@ -1,0 +1,19 @@
+{
+  "id": "analog-bag-screen-free-gifting~f8b1e5ac",
+  "candidateId": "analog-bag-screen-free-gifting",
+  "url": "https://www.etsy.com/market/analog_bag",
+  "title": "Analog Bag - Etsy",
+  "publisher": "Etsy",
+  "publishedAt": null,
+  "retrievedAt": "2026-10-04T20:59:17Z",
+  "accessMethod": "web_search_result",
+  "signalType": "marketplace",
+  "intent": "none",
+  "claim": "Etsy has a market page for 'analog bag', showing that supply exists; the number of listings is unknown.",
+  "kind": "observed",
+  "syndicationOf": null,
+  "excerpt": "Summary mentioned retro gaming coloring sets marketed as no-screen activity packs and kids' printable bundles, with downloads at about $0.99-$6.99. WebFetch was blocked, so no counts.",
+  "firstSeenRunId": "run-2026-10-04-movements",
+  "lastSeenRunId": "run-2026-10-04-movements",
+  "firstRetrievedAt": "2026-10-04T20:59:17Z"
+}

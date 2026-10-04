@@ -1,0 +1,19 @@
+{
+  "id": "jimothy-the-raccoon~9019e0d9",
+  "candidateId": "jimothy-the-raccoon",
+  "url": "https://pres-outlook.org/2026/07/the-patron-saint-of-wholesome/",
+  "title": "The patron saint of wholesome - The Presbyterian Outlook",
+  "publisher": "The Presbyterian Outlook",
+  "publishedAt": "2026-07-01",
+  "retrievedAt": "2026-10-04T20:57:55Z",
+  "accessMethod": "web_search_result",
+  "signalType": "press",
+  "intent": "curiosity",
+  "claim": "A faith publication framed Jimothy as a wholesome or resilience symbol (July 2026; exact day unknown).",
+  "kind": "observed",
+  "syndicationOf": null,
+  "excerpt": "Headline only; publishedAt uses the first of the month from the URL path.",
+  "firstSeenRunId": "run-2026-10-04-memes",
+  "lastSeenRunId": "run-2026-10-04-memes",
+  "firstRetrievedAt": "2026-10-04T20:57:55Z"
+}

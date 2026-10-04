@@ -1,0 +1,13 @@
+{
+  "id": "american-mahjong-boom~14d84165",
+  "candidateId": "american-mahjong-boom",
+  "metric": "Change in US mahjong events on Eventbrite, 2023 to 2024",
+  "unit": "percent",
+  "value": 179,
+  "asOf": "2024-12-31",
+  "evidenceId": "american-mahjong-boom~ddd80de3",
+  "isAbsolute": false,
+  "note": "reported by NBC citing Eventbrite; not independently verified",
+  "runId": "run-2026-10-04-hobbies",
+  "recordedAt": "2026-10-04T21:01:01.000Z"
+}

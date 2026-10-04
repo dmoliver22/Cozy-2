@@ -1,0 +1,13 @@
+{
+  "id": "kinda-chic-kinda-chic-to~953bfce1",
+  "candidateId": "kinda-chic-kinda-chic-to",
+  "metric": "Instagram hashtag uses",
+  "unit": "posts (lower bound, 'over 100k')",
+  "value": 100000,
+  "asOf": "2026-09-01",
+  "evidenceId": "kinda-chic-kinda-chic-to~ae2f1385",
+  "isAbsolute": true,
+  "note": "Reported by startups.co.uk (September 2026 article; exact date unknown, asOf approximate). Other search summaries gave 60,000 and 97,000, so figures are inconsistent and unverified.",
+  "runId": "run-2026-10-04-memes",
+  "recordedAt": "2026-10-04T21:01:02.000Z"
+}

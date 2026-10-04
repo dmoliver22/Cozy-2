@@ -1,0 +1,19 @@
+{
+  "id": "jimothy-the-raccoon~02646349",
+  "candidateId": "jimothy-the-raccoon",
+  "url": "https://www.yahoo.com/entertainment/articles/jimothy-raccoon-merch-taking-over-170500723.html",
+  "title": "Jimothy the raccoon merch is taking over Etsy and Amazon",
+  "publisher": "Yahoo Entertainment (likely syndicated)",
+  "publishedAt": null,
+  "retrievedAt": "2026-10-04T20:57:55Z",
+  "accessMethod": "web_search_result",
+  "signalType": "press",
+  "intent": "none",
+  "claim": "Likely a syndicated copy of the Fast Company merch story (same framing).",
+  "kind": "observed",
+  "syndicationOf": "jimothy-the-raccoon~a91fa241",
+  "excerpt": "Headline mirrors the Fast Company piece.",
+  "firstSeenRunId": "run-2026-10-04-memes",
+  "lastSeenRunId": "run-2026-10-04-memes",
+  "firstRetrievedAt": "2026-10-04T20:57:55Z"
+}

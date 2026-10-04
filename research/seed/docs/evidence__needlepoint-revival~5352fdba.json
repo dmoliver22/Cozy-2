@@ -1,0 +1,19 @@
+{
+  "id": "needlepoint-revival~5352fdba",
+  "candidateId": "needlepoint-revival",
+  "url": "https://apps.apple.com/ca/app/stitchpoint/id6759072297",
+  "title": "Stitchpoint",
+  "publisher": "Apple App Store",
+  "publishedAt": null,
+  "retrievedAt": "2026-10-04T20:53:53Z",
+  "accessMethod": "web_search_result",
+  "signalType": "marketplace",
+  "intent": "utility",
+  "claim": "A free app catalogs canvases, threads and stitches, which competes with paid trackers.",
+  "kind": "observed",
+  "syndicationOf": null,
+  "excerpt": "Search summary: free; catalog unstarted canvases; build a searchable thread inventory.",
+  "firstSeenRunId": "run-2026-10-04-hobbies",
+  "lastSeenRunId": "run-2026-10-04-hobbies",
+  "firstRetrievedAt": "2026-10-04T20:53:53Z"
+}

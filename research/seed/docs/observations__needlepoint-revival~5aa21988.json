@@ -1,0 +1,13 @@
+{
+  "id": "needlepoint-revival~5aa21988",
+  "candidateId": "needlepoint-revival",
+  "metric": "YoY change in 'craft night' searches",
+  "unit": "percent",
+  "value": 103,
+  "asOf": "2026-03-10",
+  "evidenceId": "needlepoint-revival~e6d55b38",
+  "isAbsolute": false,
+  "note": "reported by Michaels (platform not stated)",
+  "runId": "run-2026-10-04-hobbies",
+  "recordedAt": "2026-10-04T21:01:01.000Z"
+}

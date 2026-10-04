@@ -1,0 +1,230 @@
+{
+  "id": "hyrox-style-fitness-racing",
+  "name": "Hyrox-style fitness racing",
+  "aliases": [
+    "HYROX",
+    "fitness racing",
+    "hybrid fitness racing",
+    "hybrid training",
+    "Hyrox / indoor fitness racing (8 x 1 km runs + 8 stations)"
+  ],
+  "topicKeys": [
+    "phrase:hyrox style fitness racing",
+    "phrase:hyrox",
+    "phrase:fitness racing",
+    "phrase:hybrid fitness racing",
+    "phrase:hybrid training",
+    "phrase:hyrox indoor fitness racing 8 x 1 km runs 8 stations"
+  ],
+  "category": "hobby",
+  "summary": "A standardized indoor race (eight 1 km runs alternating with eight functional workout stations) that has turned gym-goers into first-time 'fitness racers' who train for months toward an event.",
+  "what": "Hyrox races use the same format everywhere: 1 km run, then a station (ski erg, sled push, sled pull, burpee broad jumps, row, farmers carry, sandbag lunges, wall balls), repeated eight times. That makes times comparable and gives newcomers a concrete training target. Participants track run splits and station times and follow 8-16 week plans.",
+  "origin": {
+    "text": "A branded race series whose 2025/26 season is reported at more than 1.5 million athletes, with the 2026/27 calendar expanding to 107 race weekends including new US host cities.",
+    "evidence": [
+      "hyrox-style-fitness-racing~9f2cd823",
+      "hyrox-style-fitness-racing~0df17bd6"
+    ],
+    "date": null
+  },
+  "adopters": {
+    "text": "Gym members, runners and CrossFit-adjacent athletes looking for a goal race; gyms affiliating to offer training (UK affiliates 18 to 120 in a year).",
+    "evidence": [
+      "hyrox-style-fitness-racing~83fb2e35",
+      "hyrox-style-fitness-racing~e223a059"
+    ]
+  },
+  "spread": {
+    "text": "Global press (Malaysia, Thailand, Australia, UK trade press, US functional-fitness media) with record single-event turnouts in Asia. US-specific participation figures were not found; US growth is shown only by new host cities.",
+    "evidence": [
+      "hyrox-style-fitness-racing~9f2cd823",
+      "hyrox-style-fitness-racing~ca19eaf0",
+      "hyrox-style-fitness-racing~bd4c6c27",
+      "hyrox-style-fitness-racing~e223a059"
+    ]
+  },
+  "trajectory": {
+    "text": "Globally surging: reported participation of 1.5M in 2025/26 with more than 2M expected in 2026/27, plus multi-week residencies for demand. The US is a smaller, growing slice (new San Diego and Portland events), so the US trajectory is less certain.",
+    "evidence": [
+      "hyrox-style-fitness-racing~9f2cd823",
+      "hyrox-style-fitness-racing~0df17bd6",
+      "hyrox-style-fitness-racing~bd4c6c27"
+    ],
+    "stage": "mainstream_surge"
+  },
+  "productDemand": {
+    "text": "People pay for preparation: several independent training books, an official-partner ebook, Notion trackers and apps exist, and sellers bundle printable checklists and calendars. That is supply-side evidence; direct sales figures were not observed.",
+    "evidence": [
+      "hyrox-style-fitness-racing~1bfcfcae",
+      "hyrox-style-fitness-racing~90004048",
+      "hyrox-style-fitness-racing~fa3bffd3",
+      "hyrox-style-fitness-racing~79f16294",
+      "hyrox-style-fitness-racing~70fb377e"
+    ]
+  },
+  "competition": {
+    "text": "Moderate to high for training plans (books, Rogue ebook, apps). Narrower for physical logbooks and printable split trackers, though a logbook seller already targets the race-day log. The trademark limits keyword use for unofficial products.",
+    "evidence": [
+      "hyrox-style-fitness-racing~1bfcfcae",
+      "hyrox-style-fitness-racing~25f08a71",
+      "hyrox-style-fitness-racing~90004048",
+      "hyrox-style-fitness-racing~fa3bffd3",
+      "hyrox-style-fitness-racing~79f16294",
+      "hyrox-style-fitness-racing~408656cd",
+      "hyrox-style-fitness-racing~bf0bce5c",
+      "hyrox-style-fitness-racing~c7954a21"
+    ],
+    "level": "moderate"
+  },
+  "gap": {
+    "text": "A paper or printable split-and-station logbook for first-time racers (16-week block, per-station PB tracker, compromised-run log, race-day checklist), sold as a January training gift, appears thinner than plans and apps. Training plans carry expertise and injury-liability expectations a solo creator should avoid.",
+    "isInference": true
+  },
+  "window": {
+    "estimate": "Mid-Nov 2026 to Mar 2027 (holiday gifts, then New-Year race sign-ups); the format looks durable for multiple seasons.",
+    "reasoning": "The 2026/27 season is underway and expanding; New-Year fitness goals line up with spring races. KDP paperbacks take days to go live and ship quickly, which fits a December listing.",
+    "invalidators": [
+      "Brand enforcement against unofficial products using the name",
+      "US participation stays small relative to Europe/Asia",
+      "Apps (including official ones) make paper logs irrelevant to this tech-forward audience"
+    ],
+    "seasonality": "January resolution peak; race-specific spikes near US event dates (not verified).",
+    "sellBy": null,
+    "endEstimate": null
+  },
+  "rights": {
+    "risk": "medium",
+    "note": "HYROX is a brand with official partners (PUMA, Rogue). Do not use the name or logo in product titles or designs. Describe the product generically ('for 8-station fitness races') and rely on descriptive keywords; any use of the name, even in tags, carries takedown risk. Avoid prescriptive training or medical claims."
+  },
+  "scores": {
+    "timing": {
+      "score": 3,
+      "basis": "qualitative",
+      "rationale": "Season expanding and the New-Year window is close, but US-specific growth evidence is thin."
+    },
+    "buyerIntent": {
+      "score": 3,
+      "basis": "reported",
+      "rationale": "Paid race participation at reported scale (1.5M athletes worldwide, 2025/26) shows people spend on the activity. There is no evidence of demand for paper logbooks specifically, and US-only figures were not found."
+    },
+    "supplyGap": {
+      "score": 2,
+      "basis": "qualitative",
+      "rationale": "Plans, apps and Notion trackers are present; a paper-log niche may be open but is unverified."
+    },
+    "productFit": {
+      "score": 3,
+      "basis": "qualitative",
+      "rationale": "Logbooks are easy to make; the trademark limits discovery, and plans need expertise."
+    },
+    "durability": {
+      "score": 4,
+      "basis": "reported",
+      "rationale": "Participation reported growing season over season, with Olympic ambitions and gym affiliate growth."
+    },
+    "economics": {
+      "score": 3,
+      "basis": "qualitative",
+      "rationale": "KDP and printable margins are fine at $7-12; heavy competition from free apps caps pricing."
+    }
+  },
+  "recommendedAction": "prepare",
+  "actionRationale": "Real, durable participation growth, but US share, product-specific demand and how much the trademark limits keywords are unresolved. Build a generic fitness-race logbook in November for a mid-December KDP/Etsy launch aimed at New-Year racers rather than testing now.",
+  "products": [
+    {
+      "buyer": "First-time fitness racers training for a spring 2027 event, and gym partners buying them a gift",
+      "format": "journal",
+      "theme": "16-week fitness-race training log (KDP 6x9 paperback plus printable PDF): weekly plan grid, 8 run-split + 8 station time tracker per session, station PB pages, compromised-running log, race-day checklist and post-race reflection",
+      "whyBuy": "A standardized format makes split tracking central to training, and January brings new sign-ups.",
+      "evidence": [
+        "hyrox-style-fitness-racing~9f2cd823",
+        "hyrox-style-fitness-racing~0df17bd6",
+        "hyrox-style-fitness-racing~1bfcfcae",
+        "hyrox-style-fitness-racing~70fb377e",
+        "hyrox-style-fitness-racing~408656cd"
+      ],
+      "differentiation": "Paper alternative to apps, focused on split and station tracking rather than prescribing workouts; no brand name used.",
+      "channels": [
+        "Amazon KDP",
+        "Etsy",
+        "Instagram",
+        "TikTok"
+      ],
+      "effort": "medium",
+      "effortHours": 12,
+      "leadTimeDays": 5,
+      "fulfillment": "pod",
+      "validationTest": "Publish the printable on Etsy first ($7) with generic keywords; post 3 short videos showing a filled-in split page; check views and sales over 14 days before ordering a KDP proof.",
+      "continueIf": "At least 3 printable sales or at least 300 views with 20+ favorites in 14 days.",
+      "pivotIf": "Interest only in race-day pages: sell a $4 race-day checklist and pacing card pack.",
+      "stopIf": "Under 100 views in 3 weeks, or any trademark complaint.",
+      "rightsNote": "Never use 'HYROX' or its logo in titles, tags or designs; use generic station names."
+    },
+    {
+      "buyer": "First-time racers 2-6 weeks out",
+      "format": "template",
+      "theme": "Race-day pacing kit: Google Sheets split calculator (target finish time to per-run and per-station targets), printable wrist/pace cards and a gear and fueling checklist",
+      "whyBuy": "Newcomers want a concrete pacing plan for a standardized course; sellers already bundle checklists and cue cards as book bonuses.",
+      "evidence": [
+        "hyrox-style-fitness-racing~1bfcfcae",
+        "hyrox-style-fitness-racing~70fb377e",
+        "hyrox-style-fitness-racing~9f2cd823"
+      ],
+      "differentiation": "Cheap, single-purpose and race-week focused; complements apps rather than replacing them.",
+      "channels": [
+        "Etsy",
+        "Gumroad",
+        "Instagram"
+      ],
+      "effort": "low",
+      "effortHours": 6,
+      "leadTimeDays": 2,
+      "fulfillment": "digital",
+      "validationTest": "List at $5 alongside the log; measure views and sales over 21 days.",
+      "continueIf": "At least 5 sales in 21 days.",
+      "pivotIf": "Offer it as a free lead magnet for the logbook.",
+      "stopIf": "Under 75 views in 21 days.",
+      "rightsNote": "Generic language only; no brand marks; no medical or nutrition claims."
+    }
+  ],
+  "unresolved": [
+    "US share of the 1.5M participants and US race dates for Jan-Apr 2027.",
+    "How strictly the brand enforces its trademark against unofficial logbooks on Etsy and Amazon.",
+    "Search demand for generic terms ('fitness race training log') versus the brand term.",
+    "Whether an app-first audience buys paper logs.",
+    "What the PUMA collection controversy was about."
+  ],
+  "formats": [
+    "journal",
+    "template"
+  ],
+  "channels": [
+    "Amazon KDP",
+    "Etsy",
+    "Instagram",
+    "TikTok",
+    "Gumroad"
+  ],
+  "effortMin": "low",
+  "region": "US",
+  "language": "en",
+  "lens": "Discovery scan: hobbies & practical niches",
+  "source": "research",
+  "researchedAt": "2026-10-04T21:01:01Z",
+  "lastRunId": "run-2026-10-04-hobbies",
+  "runIds": [
+    "run-2026-10-04-hobbies"
+  ],
+  "firstSeenAt": "2026-10-04T21:01:01.000Z",
+  "jobId": null,
+  "qualityFlags": [],
+  "editorialNotes": [
+    "Editorial review 2026-10-04: Relabeled \"The Star (wire)\" from curiosity to purchase intent: reported participation of 1.5M athletes means paid race entries: spending in the category, though not demand for logbooks specifically.",
+    "Editorial review 2026-10-04: Relabeled \"Gumroad seller\" from purchase intent to context only: existing trackers are supply.",
+    "Editorial review 2026-10-04: Relabeled \"IberLibro (book listing)\" from purchase intent to context only: existing books are supply.",
+    "Editorial review 2026-10-04: Relabeled \"ThriftBooks (book listing)\" from purchase intent to context only: existing books are supply.",
+    "Editorial review 2026-10-04: Relabeled \"Rogue Fitness\" from purchase intent to context only: an official ebook is supply.",
+    "Editorial review 2026-10-04: Relabeled \"Unrelated-domain storefront (low reliability)\" from purchase intent to context only: bundled printables are supply.",
+    "Editorial review 2026-10-04: Relabeled \"PUMA\" from purchase intent to context only: an official apparel partner is supply and brand management."
+  ]
+}

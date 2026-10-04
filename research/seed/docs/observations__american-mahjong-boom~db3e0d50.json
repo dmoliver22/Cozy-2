@@ -1,0 +1,13 @@
+{
+  "id": "american-mahjong-boom~db3e0d50",
+  "candidateId": "american-mahjong-boom",
+  "metric": "Estimated monthly Amazon sales, NMJL 2026 large card four-pack",
+  "unit": "units/month (estimate)",
+  "value": 6000,
+  "asOf": "2026-07-31",
+  "evidenceId": "american-mahjong-boom~db54c50e",
+  "isAbsolute": true,
+  "note": "third-party estimate by ASINsight; not verified",
+  "runId": "run-2026-10-04-hobbies",
+  "recordedAt": "2026-10-04T21:01:01.000Z"
+}

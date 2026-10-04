@@ -1,0 +1,13 @@
+{
+  "id": "poetcore~bc56af0b",
+  "candidateId": "poetcore",
+  "metric": "Pinterest search change: 'the poet aesthetic'",
+  "unit": "% (Pinterest Predicts 2026 window, Sept ",
+  "value": 175,
+  "asOf": "2025-12-10",
+  "evidenceId": "poetcore~129dde2d",
+  "isAbsolute": false,
+  "note": "reported by Pinterest via FashionUnited; not independently verified",
+  "runId": "run-2026-10-04-aesthetics",
+  "recordedAt": "2026-10-04T21:00:56.000Z"
+}

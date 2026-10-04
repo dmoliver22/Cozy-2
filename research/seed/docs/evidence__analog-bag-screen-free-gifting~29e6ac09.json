@@ -1,0 +1,19 @@
+{
+  "id": "analog-bag-screen-free-gifting~29e6ac09",
+  "candidateId": "analog-bag-screen-free-gifting",
+  "url": "https://www.michaels.com/class/vod/what%27s-in-your-analog-bag-1171349683",
+  "title": "What's in your analog bag (Michaels class)",
+  "publisher": "Michaels",
+  "publishedAt": null,
+  "retrievedAt": "2026-10-04T20:59:17Z",
+  "accessMethod": "web_search_result",
+  "signalType": "marketplace",
+  "intent": "utility",
+  "claim": "A major US craft retailer runs a class themed on analog bags, a sign of mainstream retail adoption.",
+  "kind": "observed",
+  "syndicationOf": null,
+  "excerpt": "Class URL appeared in results for 'walmart analog bag kit'.",
+  "firstSeenRunId": "run-2026-10-04-movements",
+  "lastSeenRunId": "run-2026-10-04-movements",
+  "firstRetrievedAt": "2026-10-04T20:59:17Z"
+}

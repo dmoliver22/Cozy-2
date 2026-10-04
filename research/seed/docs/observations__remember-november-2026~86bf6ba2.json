@@ -1,0 +1,13 @@
+{
+  "id": "remember-november-2026~86bf6ba2",
+  "candidateId": "remember-november-2026",
+  "metric": "views recorded by Know Your Meme within two weeks",
+  "unit": "views (lower bound, 'more than')",
+  "value": 980000,
+  "asOf": "2026-10-04",
+  "evidenceId": "remember-november-2026~7a9c3c65",
+  "isAbsolute": true,
+  "note": "Reported in a search-tool summary attributing it to KYM. Unclear whether this is one video or an aggregate. Measurement date not stated; asOf is the retrieval date. Not independently verified.",
+  "runId": "run-2026-10-04-memes",
+  "recordedAt": "2026-10-04T21:01:02.000Z"
+}

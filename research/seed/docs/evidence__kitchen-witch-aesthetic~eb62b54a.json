@@ -1,0 +1,19 @@
+{
+  "id": "kitchen-witch-aesthetic~eb62b54a",
+  "candidateId": "kitchen-witch-aesthetic",
+  "url": "https://ny1.com/nyc/all-boroughs/ap-top-news/2026/09/13/practical-magic-2-conjures-a-no-1-box-office-debut-with-30-million",
+  "title": "'Practical Magic 2' conjures a No. 1 box office debut with $30 million",
+  "publisher": "NY1 (AP wire)",
+  "publishedAt": "2026-09-13",
+  "retrievedAt": "2026-10-04T20:56:14Z",
+  "accessMethod": "web_search_result",
+  "signalType": "press",
+  "intent": "none",
+  "claim": "Syndicated AP copy of the same box-office story.",
+  "kind": "observed",
+  "syndicationOf": "kitchen-witch-aesthetic~685be181",
+  "excerpt": "Same AP story as kw4.",
+  "firstSeenRunId": "run-2026-10-04-aesthetics",
+  "lastSeenRunId": "run-2026-10-04-aesthetics",
+  "firstRetrievedAt": "2026-10-04T20:56:14Z"
+}

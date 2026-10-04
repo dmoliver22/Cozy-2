@@ -1,0 +1,208 @@
+{
+  "id": "run-2026-10-04-memes",
+  "jobId": null,
+  "lens": "Discovery scan: memes & phrases",
+  "kind": "discover",
+  "researchedAt": "2026-10-04T21:01:02Z",
+  "ingestedAt": "2026-10-04T21:01:02.000Z",
+  "sourcesTried": [
+    {
+      "source": "WebSearch (general web, standard + extended modes)",
+      "method": "WebSearch",
+      "status": "ok",
+      "note": "About 48 searches run from 20:53Z to 21:01Z UTC. Then the session-wide search budget (200 calls, shared with other agents) ran out, so 3 follow-up Jimothy searches (Sept/Oct trajectory, 'Jimothy Summer' proclamation, card resale) were refused. Evidence after 20:57:55Z is marked with retrievedAt 21:0"
+    },
+    {
+      "source": "Yahoo Entertainment (KYM-syndicated 'Remember November 2026' explainer)",
+      "method": "WebFetch",
+      "status": "blocked",
+      "note": "EGRESS_BLOCKED for www.yahoo.com"
+    },
+    {
+      "source": "Fast Company (Jimothy merch article)",
+      "method": "WebFetch",
+      "status": "blocked",
+      "note": "EGRESS_BLOCKED for www.fastcompany.com"
+    },
+    {
+      "source": "Know Your Meme (entries, Meme of the Month polls, editorial guides)",
+      "method": "WebSearch results only",
+      "status": "ok",
+      "note": "Not fetched (the brief lists it as blocked). Claims come from the search tool's summaries of KYM pages."
+    },
+    {
+      "source": "Etsy / Redbubble / TeePublic / Amazon listings",
+      "method": "WebSearch results only",
+      "status": "ok",
+      "note": "Listing titles and market-page existence seen in search results. No listing counts, sales or reviews were visible. Etsy is blocked for WebFetch per the brief."
+    },
+    {
+      "source": "TikTok discover pages",
+      "method": "WebSearch results only",
+      "status": "ok",
+      "note": "Only the existence of discover/topic pages was seen. No view counts were read from TikTok directly."
+    },
+    {
+      "source": "Google Trends",
+      "method": "WebFetch",
+      "status": "not_tried",
+      "note": "Blocked per brief. The '+5000%' Kinda Chic figure is second-hand from search summaries."
+    },
+    {
+      "source": "Reddit",
+      "method": "WebFetch",
+      "status": "not_tried",
+      "note": "Blocked per brief. No Reddit threads came up in results."
+    },
+    {
+      "source": "USPTO trademark database",
+      "method": "WebSearch",
+      "status": "error",
+      "note": "No direct TESS access. A web search for a 'kinda chic' filing surfaced only unrelated marks. This is not a clearance search."
+    }
+  ],
+  "discovered": [
+    {
+      "name": "Remember November 2026 / Polar Bear 2026",
+      "whyConsidered": "A 2023 AI polar-bear 'meme from the future' revived in late Aug-Sept 2026 with the line 'Remember November 2026 is coming'. It has a built-in calendar payoff (Nov 2026), KYM entries plus a Yahoo-syndicated explainer, and independent sellers already listing merch.",
+      "disposition": "deep_dived",
+      "rejectReason": ""
+    },
+    {
+      "name": "Kinda Chic trend ('kinda chic to...')",
+      "whyConsidered": "A phrase template with high identity value: people reframe ordinary wins as 'chic'. Celebrities and brands adopted it, it got press in multiple countries and languages, and Etsy sellers are already making niche variants.",
+      "disposition": "deep_dived",
+      "rejectReason": ""
+    },
+    {
+      "name": "Jimothy the raccoon (Seattle)",
+      "whyConsidered": "The clearest merch-demand story in the lens: Fast Company/Shopifreaks reported a merch flood, there is an officially licensed bobblehead, Mariners tie-ins, and a reported $20K+ card resale. It went viral in July but kept accelerating Aug-Oct through brand tie-ins (Fortnite sidekick on Oct 1).",
+      "disposition": "deep_dived",
+      "rejectReason": ""
+    },
+    {
+      "name": "Things to Say (ironic hustle-culture advice lists)",
+      "whyConsidered": "Won KYM's September 2026 Meme of the Month with 11.6% of votes (per KYM poll result in search). Started on TikTok Aug 17, 2026.",
+      "disposition": "rejected",
+      "rejectReason": "The format depends on celebrity photos (e.g., Matthew McConaughey), which can't be used on merch. The first post was sexual. No merch or purchase signals found. A photo-free 'list of terrible advice' card is possible but generic and loses the joke."
+    },
+    {
+      "name": "Chile memes (everything in Chile is long and skinny)",
+      "whyConsidered": "Came 2nd in KYM's September 2026 Meme of the Month (8.4%). Wide TikTok/Reels/X spread in September.",
+      "disposition": "rejected",
+      "rejectReason": "A spectator joke with no merch, shop or purchase signals in search results. The product angle (skinny-object stickers) is weak, and jokes about a real country risk reading as mockery to buyers."
+    },
+    {
+      "name": "Thoughts on Lanterns (edit format)",
+      "whyConsidered": "Big X/Twitter exploitable in September 2026 (53K+ likes on the Sept 8 post, per KYM summary).",
+      "disposition": "rejected",
+      "rejectReason": "Built on a promo still from DC/HBO's 'Lanterns' and the actors' likenesses (Aaron Pierre, Kyle Chandler). Edits pile third-party IP on top. Not usable on merch."
+    },
+    {
+      "name": "La Peace (Kai Cenat 'lapis lazuli' clip)",
+      "whyConsidered": "2nd in KYM's August 2026 Meme of the Month (~11%). The Aug 16 TikTok edit got 4.2M views in five days (per KYM summary).",
+      "disposition": "rejected",
+      "rejectReason": "Built around a streamer's likeness and persona plus Minecraft. Without Kai Cenat the phrase means nothing to buyers. Right-of-publicity risk."
+    },
+    {
+      "name": "Quiet on the Creek",
+      "whyConsidered": "The strongest slang spread in the lens. #QuietontheCreek was reported No. 1 on TikTok music, the song debuted at No. 45 on Billboard Hot R&B/Hip-Hop (per KYM/meme.com summaries), and it's used as 'move in silence' slang.",
+      "disposition": "rejected",
+      "rejectReason": "The phrase is the title and hook of a Saucy Santana song released Jul 17, 2026, and the artist actively markets it (The Fader interview, Aug 24). Merch would trade on an artist's lyric/title. Pass on rights."
+    },
+    {
+      "name": "Grr Mondays",
+      "whyConsidered": "A Ted 2 (2015) line resurfaced on TikTok in Sept 2026 as Monday-complaint shorthand. Short and mug-friendly.",
+      "disposition": "rejected",
+      "rejectReason": "The source image is a crude Universal film scene and can't be used. The bare phrase lands in the saturated 'I hate Mondays' office-mug category. No merch signal found."
+    },
+    {
+      "name": "Relax, Pal",
+      "whyConsidered": "A late-September 2026 catchphrase from a WISN 12 news clip that spread fast on TikTok.",
+      "disposition": "rejected",
+      "rejectReason": "It comes from news coverage of a hazing investigation (arrests Sept 25, 2026). Memes glorify a private student tied to a criminal case. Ethical and right-of-publicity concerns; do not monetize."
+    },
+    {
+      "name": "We can't all be matcha girls (hot-dog boys, M&M girls, pretzel people)",
+      "whyConsidered": "Identity-style food-coded phrase listed in a September 2026 TikTok trend roundup.",
+      "disposition": "rejected",
+      "rejectReason": "Only one source (Epidemic Sound roundup), so not enough evidence of spread. 'M&M' is a Mars trademark."
+    },
+    {
+      "name": "You were bought ('I just spent $1 for one view')",
+      "whyConsidered": "Reported as trending for over a month in Sept 2026 (Epidemic Sound roundup).",
+      "disposition": "rejected",
+      "rejectReason": "An audio-driven clickbait format set to a commercial song (Clean Bandit & Zara Larsson). No product angle."
+    },
+    {
+      "name": "6-7 New Year angle ('the next 2 years are literally 6-7')",
+      "whyConsidered": "2026->2027 reads as '6 7'. 6-7 is still the most-searched Gen Alpha slang of 2026 (Euronews, Sept 28, 2026). New Year's Eve is a natural trigger.",
+      "disposition": "rejected",
+      "rejectReason": "Older than this lens's window (6-7 was Dictionary.com's 2025 Word of the Year), and Etsy, Amazon and Redbubble already list '2026 2027 literally 6-7' tees and PNGs, so it's saturated. Trademark status unverified. Flag for the seasonal/New Year agent rather than this lens."
+    },
+    {
+      "name": "Elizabeth Holmes / Nathan Fielder documentary memes",
+      "whyConsidered": "Named in KYM's September 2026 Meme of the Month roundup.",
+      "disposition": "rejected",
+      "rejectReason": "Real-person likeness. Spectator meme with no product angle."
+    },
+    {
+      "name": "Let's Groove edits",
+      "whyConsidered": "3rd in KYM's September 2026 Meme of the Month (7.4%).",
+      "disposition": "rejected",
+      "rejectReason": "Animation edits set to an Earth, Wind & Fire song. Song rights; nothing to put on a product."
+    },
+    {
+      "name": "Lesbian Space Princess 'Great Fandom Truce'",
+      "whyConsidered": "Won KYM's August 2026 Meme of the Month (13.3%).",
+      "disposition": "rejected",
+      "rejectReason": "A pile-on mocking a film: criticism, not demand. Film IP, and it would target a real production."
+    },
+    {
+      "name": "Gen Alpha back-to-school slang (larp/larper, bop, chud, geeg)",
+      "whyConsidered": "Explainer coverage of the most-searched slang (Euronews Sept 28, 2026; Mental Floss; Yahoo).",
+      "disposition": "rejected",
+      "rejectReason": "The search interest comes from confused parents looking up meanings, not purchase intent. 'Bop' has a sexual meaning and 'chud' is a slur-like insult. 'Geeg' had no definition in results."
+    },
+    {
+      "name": "Petra Parker / Gucci Morty / Universal Horror Nights roaming-character memes",
+      "whyConsidered": "August 2026 Meme of the Month contenders.",
+      "disposition": "rejected",
+      "rejectReason": "Built on Marvel, Adult Swim (Rick and Morty) and Universal IP."
+    },
+    {
+      "name": "Malfoid (female Draco Malfoy fan art)",
+      "whyConsidered": "Blew up on X in late September 2026 (per Yahoo/KYM-sourced search summary).",
+      "disposition": "rejected",
+      "rejectReason": "Harry Potter (Warner Bros.) character IP."
+    }
+  ],
+  "candidateIds": [
+    "remember-november-2026",
+    "kinda-chic-kinda-chic-to",
+    "jimothy-the-raccoon"
+  ],
+  "report": [
+    {
+      "id": "remember-november-2026",
+      "name": "Remember November 2026",
+      "status": "created",
+      "errors": [],
+      "warnings": 0
+    },
+    {
+      "id": "kinda-chic-kinda-chic-to",
+      "name": "Kinda Chic (\"kinda chic to...\")",
+      "status": "created",
+      "errors": [],
+      "warnings": 0
+    },
+    {
+      "id": "jimothy-the-raccoon",
+      "name": "Jimothy the raccoon",
+      "status": "created",
+      "errors": [],
+      "warnings": 0
+    }
+  ]
+}

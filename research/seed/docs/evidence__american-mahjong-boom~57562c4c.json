@@ -1,0 +1,19 @@
+{
+  "id": "american-mahjong-boom~57562c4c",
+  "candidateId": "american-mahjong-boom",
+  "url": "https://www.bostonglobe.com/2026/03/23/lifestyle/mahjong-new-card-games/",
+  "title": "mahjong new card games",
+  "publisher": "The Boston Globe",
+  "publishedAt": "2026-03-23",
+  "retrievedAt": "2026-10-04T20:58:18Z",
+  "accessMethod": "web_search_result",
+  "signalType": "press",
+  "intent": "curiosity",
+  "claim": "One of a result set whose summary stated Evite mahjong events were up 94% YoY and Yelp named mahjong a top 2026 trend (club searches +4,467% fall 2024 to fall 2025); which article in the set made each claim was not confirmed.",
+  "kind": "observed",
+  "syndicationOf": null,
+  "excerpt": "Search summary (multi-source, attribution not confirmed): mahjong events up 94% YoY per Evite; Yelp named mahjong a top trend of 2026 with club searches +4,467% YoY; a feedback loop of influencers, merch companies, instructors and event planners.",
+  "firstSeenRunId": "run-2026-10-04-hobbies",
+  "lastSeenRunId": "run-2026-10-04-hobbies",
+  "firstRetrievedAt": "2026-10-04T20:58:18Z"
+}

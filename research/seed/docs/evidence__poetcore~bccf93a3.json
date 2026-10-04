@@ -1,0 +1,19 @@
+{
+  "id": "poetcore~bccf93a3",
+  "candidateId": "poetcore",
+  "url": "https://axios.com/2025/12/09/2026-pinterest-trend-report",
+  "title": "Glamour, thrill and alien-core: Pinterest predicts 2026 trends",
+  "publisher": "Axios",
+  "publishedAt": "2025-12-09",
+  "retrievedAt": "2026-10-04T20:56:14Z",
+  "accessMethod": "web_search_result",
+  "signalType": "press",
+  "intent": "none",
+  "claim": "Dates the Pinterest Predicts 2026 release to about Dec 9, 2025.",
+  "kind": "observed",
+  "syndicationOf": "poetcore~96e6d123",
+  "excerpt": "Search result title; URL date 2025/12/09.",
+  "firstSeenRunId": "run-2026-10-04-aesthetics",
+  "lastSeenRunId": "run-2026-10-04-aesthetics",
+  "firstRetrievedAt": "2026-10-04T20:56:14Z"
+}

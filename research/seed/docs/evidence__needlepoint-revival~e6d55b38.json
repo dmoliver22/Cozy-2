@@ -1,0 +1,19 @@
+{
+  "id": "needlepoint-revival~e6d55b38",
+  "candidateId": "needlepoint-revival",
+  "url": "https://www.michaelspressroom.com/news/detail/5025/michaels-unveils-2026-creativity-trend-report-revealing",
+  "title": "Michaels Unveils 2026 Creativity Trend Report",
+  "publisher": "Michaels (press release)",
+  "publishedAt": "2026-03-10",
+  "retrievedAt": "2026-10-04T20:53:53Z",
+  "accessMethod": "web_search_result",
+  "signalType": "search",
+  "intent": "utility",
+  "claim": "Michaels reports 'craft night' searches up 103% YoY and 'girls' night craft' up 242%, and lists 'grandma' hobbies like needlepoint as returning.",
+  "kind": "observed",
+  "syndicationOf": null,
+  "excerpt": "Search summary: 2026 declared the Year of Creative Living; Crafting Chemistry trend; junk journaling +63%; knitting and needlepoint comeback.",
+  "firstSeenRunId": "run-2026-10-04-hobbies",
+  "lastSeenRunId": "run-2026-10-04-hobbies",
+  "firstRetrievedAt": "2026-10-04T20:53:53Z"
+}

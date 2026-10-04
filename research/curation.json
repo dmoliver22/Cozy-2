@@ -1,0 +1,339 @@
+{
+  "reviewedAt": "2026-10-04T21:40:00Z",
+  "rules": [
+    "Purchase intent requires evidence of people buying or planning to buy (sales figures or estimates, sell-outs, oversubscribed paid offerings, spending/gift-intent surveys, retailer or manufacturer reports of demand). Listings that exist, brand collections, books for sale and gift guides show supply, not demand.",
+    "Articles that restate one underlying dataset (a Pinterest report, a PwC survey, a Barna study, one box-office number) count as one signal.",
+    "A criterion scored from assumption rather than evidence is marked not assessed, so it lowers confidence and counts as zero instead of carrying a guessed value."
+  ],
+  "candidates": {
+    "Kitchen Witch (Practical Magic 2-era witchy apothecary kitchen)": {
+      "name": "Kitchen Witch aesthetic",
+      "evidence": {
+        "kw2": {
+          "syndicationOf": "kw1",
+          "why": "restates the Pinterest Hobbies report data"
+        },
+        "kw3": {
+          "syndicationOf": "kw1",
+          "why": "restates the Pinterest Hobbies report data"
+        },
+        "kw7": {
+          "syndicationOf": "kw4",
+          "why": "same box-office figure as the AP story"
+        },
+        "kw13": {
+          "syndicationOf": "kw12",
+          "why": "the research already counted both TikTok discover pages as one social signal"
+        },
+        "kw8": {
+          "intent": "none",
+          "why": "brand partnerships show supply and licensing, not consumer purchases"
+        },
+        "kw9": {
+          "intent": "none",
+          "why": "a licensed collection launching is supply"
+        },
+        "kw10": {
+          "intent": "none",
+          "why": "a licensed collection on discount is supply; discounting may even suggest slow sell-through"
+        },
+        "kw15": {
+          "intent": "none",
+          "why": "existing fan merch is supply"
+        },
+        "kw16": {
+          "intent": "none",
+          "why": "an existing listing is supply"
+        },
+        "kw17": {
+          "intent": "none",
+          "why": "existing printable labels are supply"
+        }
+      },
+      "scores": {
+        "buyerIntent": {
+          "score": 2,
+          "basis": "qualitative",
+          "rationale": "No consumer purchase evidence was found. Licensed collections and existing listings show supply; Pinterest's reported searches show hobby and utility interest (herbal apothecary, spice blends), which fits functional printables but is not proof of buying."
+        }
+      },
+      "window": {
+        "endEstimate": "2026-12-21"
+      },
+      "notes": [
+        "Estimated window end set to the winter solstice (Dec 21), matching the research's 'autumn to Yule' reasoning. It is an estimate, not a deadline."
+      ]
+    },
+    "Cosmic Reset (beginner astrology, tarot and astrocartography)": {
+      "name": "Cosmic Reset (beginner astrology & tarot)",
+      "evidence": {
+        "cr2": {
+          "syndicationOf": "cr1",
+          "why": "restates the Pinterest Hobbies report data"
+        },
+        "cr3": {
+          "syndicationOf": "cr1",
+          "why": "restates the Pinterest Hobbies report data"
+        },
+        "cr4": {
+          "syndicationOf": "cr1",
+          "why": "restates the Pinterest Hobbies report data"
+        },
+        "cr7": {
+          "intent": "none",
+          "why": "a gift guide using astrology as a frame is editorial supply, not buyer behavior"
+        }
+      },
+      "scores": {
+        "supplyGap": {
+          "score": null,
+          "basis": "unknown",
+          "rationale": "Competition was not measured (search budget ran out before a marketplace check). The research's assumption of a crowded category is plausible but unverified."
+        }
+      },
+      "window": {
+        "endEstimate": "2027-01-31"
+      },
+      "notes": [
+        "Estimated window end set to Jan 31, 2027, when New-Year planner buying typically tails off (inference)."
+      ]
+    },
+    "Poetcore (the poet aesthetic)": {
+      "name": "Poetcore",
+      "evidence": {
+        "pc1": {
+          "syndicationOf": "pc4",
+          "why": "reports the Pinterest Predicts figure from the primary report"
+        },
+        "pc10": {
+          "syndicationOf": "pc4",
+          "why": "coverage of the same Pinterest Predicts release"
+        },
+        "pc8": {
+          "intent": "none",
+          "why": "retailers merchandising clothing is supply, and in apparel rather than paper goods"
+        },
+        "pc9": {
+          "intent": "none",
+          "why": "retailer marketing is supply"
+        }
+      },
+      "scores": {
+        "supplyGap": {
+          "score": null,
+          "basis": "unknown",
+          "rationale": "Competition was not measured. Literary prints are probably an established category, but that was assumed, not checked."
+        }
+      }
+    },
+    "American mahjong boom (clubs, classes, game nights)": {
+      "name": "American mahjong boom",
+      "evidence": {
+        "mj12": {
+          "intent": "none",
+          "why": "existing listings are supply"
+        },
+        "mj13": {
+          "intent": "none",
+          "why": "existing listings are supply"
+        },
+        "mj14": {
+          "intent": "none",
+          "why": "existing listings are supply"
+        },
+        "mj15": {
+          "intent": "curiosity",
+          "why": "listing views are attention, not purchases"
+        },
+        "mj16": {
+          "intent": "none",
+          "why": "existing merch is supply"
+        },
+        "mj18": {
+          "intent": "none",
+          "why": "a shopping guide is editorial supply"
+        },
+        "mj20": {
+          "intent": "utility",
+          "why": "'mahjong pdf' searches may be for free rules; this is help-seeking, not buying"
+        },
+        "mj23": {
+          "intent": "none",
+          "why": "a gift guide is editorial supply"
+        },
+        "mj24": {
+          "intent": "none",
+          "why": "a gift guide is editorial supply"
+        },
+        "mj25": {
+          "intent": "none",
+          "why": "retail novelty products are supply"
+        }
+      },
+      "scores": {
+        "buyerIntent": {
+          "score": 4,
+          "basis": "reported",
+          "rationale": "Three independent purchase signals: an estimated ~6,000 monthly Amazon sales of the official card pack (third-party estimate), trade press on manufacturers meeting rising gift demand, and oversubscribed paid beginner classes. Rising 'instructor' searches add help-seeking intent."
+        }
+      }
+    },
+    "Hyrox / indoor fitness racing (8 x 1 km runs + 8 stations)": {
+      "name": "Hyrox-style fitness racing",
+      "evidence": {
+        "hx2": {
+          "intent": "purchase",
+          "why": "reported participation of 1.5M athletes means paid race entries: spending in the category, though not demand for logbooks specifically"
+        },
+        "hx7": {
+          "intent": "none",
+          "why": "existing trackers are supply"
+        },
+        "hx9": {
+          "intent": "none",
+          "why": "existing books are supply"
+        },
+        "hx10": {
+          "intent": "none",
+          "why": "existing books are supply"
+        },
+        "hx11": {
+          "intent": "none",
+          "why": "an official ebook is supply"
+        },
+        "hx12": {
+          "intent": "none",
+          "why": "bundled printables are supply"
+        },
+        "hx14": {
+          "intent": "none",
+          "why": "an official apparel partner is supply and brand management"
+        }
+      },
+      "scores": {
+        "buyerIntent": {
+          "score": 3,
+          "basis": "reported",
+          "rationale": "Paid race participation at reported scale (1.5M athletes worldwide, 2025/26) shows people spend on the activity. There is no evidence of demand for paper logbooks specifically, and US-only figures were not found."
+        }
+      }
+    },
+    "Needlepoint revival among Gen Z and millennials (stitch nights)": {
+      "name": "Needlepoint revival",
+      "evidence": {
+        "np1": {
+          "intent": "purchase",
+          "why": "beginner kits reported selling out is a purchase signal"
+        },
+        "np14": {
+          "intent": "none",
+          "why": "a published journal is supply"
+        },
+        "np15": {
+          "intent": "none",
+          "why": "a creator selling printables is supply"
+        },
+        "np16": {
+          "intent": "none",
+          "why": "adjacent planners for sale are supply"
+        }
+      }
+    },
+    "Analog bag & screen-free holiday gifting": {
+      "name": "Analog bag & screen-free gifting",
+      "evidence": {
+        "a1": {
+          "syndicationOf": "a2",
+          "why": "reports the PwC Holiday Outlook figure from the primary report"
+        },
+        "a6": {
+          "intent": "none",
+          "why": "editorial gift framing is supply-side, not buyer behavior"
+        },
+        "a7": {
+          "intent": "none",
+          "why": "syndicated copy of a6"
+        },
+        "a16": {
+          "intent": "none",
+          "why": "a creator's suggestion is not buyer behavior"
+        },
+        "a22": {
+          "intent": "none",
+          "why": "general holiday shopping behavior, not specific to this trend"
+        }
+      },
+      "window": {
+        "sellBy": "2026-12-24"
+      },
+      "notes": [
+        "Fixed deadline set to Dec 24, 2026 (Christmas gifting). POD delivery time is already counted in each product's time-to-buyer."
+      ]
+    },
+    "The Great Lock-In 2026 (end-of-year self-improvement sprint)": {
+      "name": "The Great Lock-In",
+      "evidence": {
+        "l15": {
+          "intent": "none",
+          "why": "existing journals for a sibling trend are supply"
+        }
+      }
+    },
+    "Gen Z & millennial Bible-reading revival": {
+      "name": "Gen Z Bible-reading revival",
+      "evidence": {
+        "b2": {
+          "syndicationOf": "b1",
+          "why": "reports the same Barna/Gloo dataset"
+        },
+        "b6": {
+          "intent": "none",
+          "why": "a publisher launch is supply"
+        },
+        "b9": {
+          "intent": "none",
+          "why": "existing trackers are supply"
+        }
+      },
+      "window": {
+        "endEstimate": "2027-01-15"
+      },
+      "notes": [
+        "Estimated window end set to Jan 15, 2027, matching the research's 'sell through mid-January' reasoning."
+      ]
+    },
+    "Remember November 2026 (Polar Bear 2026)": {
+      "name": "Remember November 2026",
+      "window": {
+        "sellBy": "2026-11-30"
+      },
+      "notes": [
+        "Fixed deadline set to Nov 30, 2026: the joke's premise expires when November ends."
+      ]
+    },
+    "Kinda Chic trend ('kinda chic to...')": {
+      "name": "Kinda Chic (\"kinda chic to...\")"
+    },
+    "Jimothy the raccoon": {
+      "evidence": {
+        "jm5": {
+          "intent": "none",
+          "why": "a flood of bootleg merch is supply; it does not show how much buyers purchased"
+        },
+        "jm6": {
+          "intent": "none",
+          "why": "syndicated copy of jm5"
+        },
+        "jm7": {
+          "intent": "none",
+          "syndicationOf": "jm5",
+          "why": "likely derived from the Fast Company merch report; supply, not purchases"
+        },
+        "jm11": {
+          "intent": "none",
+          "why": "a licensed product on presale is supply"
+        }
+      }
+    }
+  }
+}

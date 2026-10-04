@@ -1,0 +1,19 @@
+{
+  "id": "poetcore~96e6d123",
+  "candidateId": "poetcore",
+  "url": "https://business.pinterest.com/pdf/pinterest-predicts/2026-trend-report/",
+  "title": "2026 Trend Report",
+  "publisher": "Pinterest Business",
+  "publishedAt": null,
+  "retrievedAt": "2026-10-04T20:56:14Z",
+  "accessMethod": "web_search_result",
+  "signalType": "search",
+  "intent": "curiosity",
+  "claim": "Primary Pinterest Predicts 2026 report: 21 trends based on searches and engagement from Sept 2024 to Aug 2025; Pinterest says its predictions were 88% accurate over the past six years.",
+  "kind": "observed",
+  "syndicationOf": null,
+  "excerpt": "Search result title; data window and accuracy claim come from summaries of coverage (letsdatascience, nss magazine). The accuracy figure is Pinterest's own claim.",
+  "firstSeenRunId": "run-2026-10-04-aesthetics",
+  "lastSeenRunId": "run-2026-10-04-aesthetics",
+  "firstRetrievedAt": "2026-10-04T20:56:14Z"
+}

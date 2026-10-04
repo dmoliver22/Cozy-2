@@ -1,0 +1,16 @@
+{
+  "id": "the-great-lock-in~run-2026-10-04-movements",
+  "candidateId": "the-great-lock-in",
+  "runId": "run-2026-10-04-movements",
+  "takenAt": "2026-10-04T21:02:03Z",
+  "score": 57,
+  "confidence": 51,
+  "stage": "mainstream_surge",
+  "action": "prepare",
+  "analystAction": "prepare",
+  "competition": "moderate",
+  "independentSources": 18,
+  "purchaseSignals": 0,
+  "windowEstimate": "Sprint tracker: now to mid-November at best. 'Lock In 2027' planner: list by Dec 1, sell Dec 15 to Jan 31",
+  "weightsUsed": null
+}

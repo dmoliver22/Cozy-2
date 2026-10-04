@@ -1,0 +1,1690 @@
+{
+  "lens": "Memes, phrases, slang and internet humor that emerged or accelerated Aug - early Oct 2026, screened for merchandise/product demand (stickers, shirts, mugs, wallpapers, cards, planners) and usable rights",
+  "researchedAt": "2026-10-04T21:01:02Z",
+  "sourcesTried": [
+    {
+      "source": "WebSearch (general web, standard + extended modes)",
+      "method": "WebSearch",
+      "status": "ok",
+      "note": "About 48 searches run from 20:53Z to 21:01Z UTC. Then the session-wide search budget (200 calls, shared with other agents) ran out, so 3 follow-up Jimothy searches (Sept/Oct trajectory, 'Jimothy Summer' proclamation, card resale) were refused. Evidence after 20:57:55Z is marked with retrievedAt 21:01:02Z."
+    },
+    {
+      "source": "Yahoo Entertainment (KYM-syndicated 'Remember November 2026' explainer)",
+      "method": "WebFetch",
+      "status": "blocked",
+      "note": "EGRESS_BLOCKED for www.yahoo.com"
+    },
+    {
+      "source": "Fast Company (Jimothy merch article)",
+      "method": "WebFetch",
+      "status": "blocked",
+      "note": "EGRESS_BLOCKED for www.fastcompany.com"
+    },
+    {
+      "source": "Know Your Meme (entries, Meme of the Month polls, editorial guides)",
+      "method": "WebSearch results only",
+      "status": "ok",
+      "note": "Not fetched (the brief lists it as blocked). Claims come from the search tool's summaries of KYM pages."
+    },
+    {
+      "source": "Etsy / Redbubble / TeePublic / Amazon listings",
+      "method": "WebSearch results only",
+      "status": "ok",
+      "note": "Listing titles and market-page existence seen in search results. No listing counts, sales or reviews were visible. Etsy is blocked for WebFetch per the brief."
+    },
+    {
+      "source": "TikTok discover pages",
+      "method": "WebSearch results only",
+      "status": "ok",
+      "note": "Only the existence of discover/topic pages was seen. No view counts were read from TikTok directly."
+    },
+    {
+      "source": "Google Trends",
+      "method": "WebFetch",
+      "status": "not_tried",
+      "note": "Blocked per brief. The '+5000%' Kinda Chic figure is second-hand from search summaries."
+    },
+    {
+      "source": "Reddit",
+      "method": "WebFetch",
+      "status": "not_tried",
+      "note": "Blocked per brief. No Reddit threads came up in results."
+    },
+    {
+      "source": "USPTO trademark database",
+      "method": "WebSearch",
+      "status": "error",
+      "note": "No direct TESS access. A web search for a 'kinda chic' filing surfaced only unrelated marks. This is not a clearance search."
+    }
+  ],
+  "discovered": [
+    {
+      "name": "Remember November 2026 / Polar Bear 2026",
+      "whyConsidered": "A 2023 AI polar-bear 'meme from the future' revived in late Aug-Sept 2026 with the line 'Remember November 2026 is coming'. It has a built-in calendar payoff (Nov 2026), KYM entries plus a Yahoo-syndicated explainer, and independent sellers already listing merch.",
+      "disposition": "deep_dived",
+      "rejectReason": ""
+    },
+    {
+      "name": "Kinda Chic trend ('kinda chic to...')",
+      "whyConsidered": "A phrase template with high identity value: people reframe ordinary wins as 'chic'. Celebrities and brands adopted it, it got press in multiple countries and languages, and Etsy sellers are already making niche variants.",
+      "disposition": "deep_dived",
+      "rejectReason": ""
+    },
+    {
+      "name": "Jimothy the raccoon (Seattle)",
+      "whyConsidered": "The clearest merch-demand story in the lens: Fast Company/Shopifreaks reported a merch flood, there is an officially licensed bobblehead, Mariners tie-ins, and a reported $20K+ card resale. It went viral in July but kept accelerating Aug-Oct through brand tie-ins (Fortnite sidekick on Oct 1).",
+      "disposition": "deep_dived",
+      "rejectReason": ""
+    },
+    {
+      "name": "Things to Say (ironic hustle-culture advice lists)",
+      "whyConsidered": "Won KYM's September 2026 Meme of the Month with 11.6% of votes (per KYM poll result in search). Started on TikTok Aug 17, 2026.",
+      "disposition": "rejected",
+      "rejectReason": "The format depends on celebrity photos (e.g., Matthew McConaughey), which can't be used on merch. The first post was sexual. No merch or purchase signals found. A photo-free 'list of terrible advice' card is possible but generic and loses the joke."
+    },
+    {
+      "name": "Chile memes (everything in Chile is long and skinny)",
+      "whyConsidered": "Came 2nd in KYM's September 2026 Meme of the Month (8.4%). Wide TikTok/Reels/X spread in September.",
+      "disposition": "rejected",
+      "rejectReason": "A spectator joke with no merch, shop or purchase signals in search results. The product angle (skinny-object stickers) is weak, and jokes about a real country risk reading as mockery to buyers."
+    },
+    {
+      "name": "Thoughts on Lanterns (edit format)",
+      "whyConsidered": "Big X/Twitter exploitable in September 2026 (53K+ likes on the Sept 8 post, per KYM summary).",
+      "disposition": "rejected",
+      "rejectReason": "Built on a promo still from DC/HBO's 'Lanterns' and the actors' likenesses (Aaron Pierre, Kyle Chandler). Edits pile third-party IP on top. Not usable on merch."
+    },
+    {
+      "name": "La Peace (Kai Cenat 'lapis lazuli' clip)",
+      "whyConsidered": "2nd in KYM's August 2026 Meme of the Month (~11%). The Aug 16 TikTok edit got 4.2M views in five days (per KYM summary).",
+      "disposition": "rejected",
+      "rejectReason": "Built around a streamer's likeness and persona plus Minecraft. Without Kai Cenat the phrase means nothing to buyers. Right-of-publicity risk."
+    },
+    {
+      "name": "Quiet on the Creek",
+      "whyConsidered": "The strongest slang spread in the lens. #QuietontheCreek was reported No. 1 on TikTok music, the song debuted at No. 45 on Billboard Hot R&B/Hip-Hop (per KYM/meme.com summaries), and it's used as 'move in silence' slang.",
+      "disposition": "rejected",
+      "rejectReason": "The phrase is the title and hook of a Saucy Santana song released Jul 17, 2026, and the artist actively markets it (The Fader interview, Aug 24). Merch would trade on an artist's lyric/title. Pass on rights."
+    },
+    {
+      "name": "Grr Mondays",
+      "whyConsidered": "A Ted 2 (2015) line resurfaced on TikTok in Sept 2026 as Monday-complaint shorthand. Short and mug-friendly.",
+      "disposition": "rejected",
+      "rejectReason": "The source image is a crude Universal film scene and can't be used. The bare phrase lands in the saturated 'I hate Mondays' office-mug category. No merch signal found."
+    },
+    {
+      "name": "Relax, Pal",
+      "whyConsidered": "A late-September 2026 catchphrase from a WISN 12 news clip that spread fast on TikTok.",
+      "disposition": "rejected",
+      "rejectReason": "It comes from news coverage of a hazing investigation (arrests Sept 25, 2026). Memes glorify a private student tied to a criminal case. Ethical and right-of-publicity concerns; do not monetize."
+    },
+    {
+      "name": "We can't all be matcha girls (hot-dog boys, M&M girls, pretzel people)",
+      "whyConsidered": "Identity-style food-coded phrase listed in a September 2026 TikTok trend roundup.",
+      "disposition": "rejected",
+      "rejectReason": "Only one source (Epidemic Sound roundup), so not enough evidence of spread. 'M&M' is a Mars trademark."
+    },
+    {
+      "name": "You were bought ('I just spent $1 for one view')",
+      "whyConsidered": "Reported as trending for over a month in Sept 2026 (Epidemic Sound roundup).",
+      "disposition": "rejected",
+      "rejectReason": "An audio-driven clickbait format set to a commercial song (Clean Bandit & Zara Larsson). No product angle."
+    },
+    {
+      "name": "6-7 New Year angle ('the next 2 years are literally 6-7')",
+      "whyConsidered": "2026->2027 reads as '6 7'. 6-7 is still the most-searched Gen Alpha slang of 2026 (Euronews, Sept 28, 2026). New Year's Eve is a natural trigger.",
+      "disposition": "rejected",
+      "rejectReason": "Older than this lens's window (6-7 was Dictionary.com's 2025 Word of the Year), and Etsy, Amazon and Redbubble already list '2026 2027 literally 6-7' tees and PNGs, so it's saturated. Trademark status unverified. Flag for the seasonal/New Year agent rather than this lens."
+    },
+    {
+      "name": "Elizabeth Holmes / Nathan Fielder documentary memes",
+      "whyConsidered": "Named in KYM's September 2026 Meme of the Month roundup.",
+      "disposition": "rejected",
+      "rejectReason": "Real-person likeness. Spectator meme with no product angle."
+    },
+    {
+      "name": "Let's Groove edits",
+      "whyConsidered": "3rd in KYM's September 2026 Meme of the Month (7.4%).",
+      "disposition": "rejected",
+      "rejectReason": "Animation edits set to an Earth, Wind & Fire song. Song rights; nothing to put on a product."
+    },
+    {
+      "name": "Lesbian Space Princess 'Great Fandom Truce'",
+      "whyConsidered": "Won KYM's August 2026 Meme of the Month (13.3%).",
+      "disposition": "rejected",
+      "rejectReason": "A pile-on mocking a film: criticism, not demand. Film IP, and it would target a real production."
+    },
+    {
+      "name": "Gen Alpha back-to-school slang (larp/larper, bop, chud, geeg)",
+      "whyConsidered": "Explainer coverage of the most-searched slang (Euronews Sept 28, 2026; Mental Floss; Yahoo).",
+      "disposition": "rejected",
+      "rejectReason": "The search interest comes from confused parents looking up meanings, not purchase intent. 'Bop' has a sexual meaning and 'chud' is a slur-like insult. 'Geeg' had no definition in results."
+    },
+    {
+      "name": "Petra Parker / Gucci Morty / Universal Horror Nights roaming-character memes",
+      "whyConsidered": "August 2026 Meme of the Month contenders.",
+      "disposition": "rejected",
+      "rejectReason": "Built on Marvel, Adult Swim (Rick and Morty) and Universal IP."
+    },
+    {
+      "name": "Malfoid (female Draco Malfoy fan art)",
+      "whyConsidered": "Blew up on X in late September 2026 (per Yahoo/KYM-sourced search summary).",
+      "disposition": "rejected",
+      "rejectReason": "Harry Potter (Warner Bros.) character IP."
+    }
+  ],
+  "candidates": [
+    {
+      "name": "Remember November 2026 (Polar Bear 2026)",
+      "aliases": [
+        "Polar Bear 2026",
+        "Remember November 2026 is coming",
+        "This is a November meme from 2026, you won't understand yet",
+        "memes from the future"
+      ],
+      "category": "meme",
+      "summary": "A cursed AI polar bear that supposedly comes 'from November 2026' was revived in Sept 2026 singing 'Remember November 2026 is coming'. November 2026 is now four weeks away.",
+      "what": "In 2023 an AI-generated image of a polar bear propped on its front paws spread on Russian TikTok with the caption 'This is a November meme from 2026, you won't understand yet'. It became a 'meme from the future' creepypasta. In late August 2026 a new AI video showed the bear singing 'Remember November 2026 is coming' to Oliver Tree's 'Life Goes On', and the format spread across TikTok and Instagram Reels in September. The joke is anticipation with no event at the end of it, so the meme's payoff is the calendar month itself.",
+      "origin": {
+        "text": "First posted on TikTok on 2023-03-27 by @gmd_arahis with a Russian caption (per search summaries of KYM content). English-language spread began September 2023. The current wave started with a late-August 2026 TikTok by @bigbakdiskk28 featuring the singing-bear video.",
+        "date": "2023-03-27",
+        "evidence": [
+          "rn1",
+          "rn5"
+        ]
+      },
+      "adopters": {
+        "text": "TikTok and Instagram Reels users, especially teen and young-adult meme audiences, making karaoke covers, edits of the bear next to a November 2026 calendar, and reaction skits. Explainer creators (YouTube, blogs) and creator-asset sellers are also cashing in.",
+        "evidence": [
+          "rn1",
+          "rn6",
+          "rn14",
+          "rn18"
+        ]
+      },
+      "spread": {
+        "text": "Independent coverage beyond the source platform: KYM database entries and a KYM editorial guide (syndicated to Yahoo US and Yahoo Singapore), plus separate explainers from meme.com, Neon Music, Cloutfluence and YouTube explainer videos. TikTok has topic pages for the phrase. The Yahoo copies count as one signal with the KYM guide.",
+        "evidence": [
+          "rn1",
+          "rn2",
+          "rn3",
+          "rn4",
+          "rn6",
+          "rn7",
+          "rn8",
+          "rn17",
+          "rn18"
+        ]
+      },
+      "trajectory": {
+        "stage": "mainstream_surge",
+        "text": "Revived late August, popularized in September 2026. A search summary says KYM recorded 980,000+ views within two weeks (unclear whether one video or an aggregate). No October-specific trajectory data was found. Inference: interest will probably spike again when November 2026 actually starts, then collapse after the month ends because the premise expires.",
+        "evidence": [
+          "rn1",
+          "rn2",
+          "rn16"
+        ]
+      },
+      "productDemand": {
+        "text": "Supply-side signals only. Etsy has market pages for 'Remember November 2026 shirt' and '...is coming'. TeePublic carries a 'Remember November 2026 is Coming Polar Bear Meme' long-sleeve. A YouTube Short promotes a tee. A Shopify store (Laima Design) wrote a content-marketing explainer. Creatorset sells a green-screen asset of the meme. No sales counts, reviews, 'sold out' reports, or press about people seeking merch were found. Listings show sellers expect demand, not that buyers exist.",
+        "evidence": [
+          "rn9",
+          "rn10",
+          "rn11",
+          "rn12",
+          "rn13",
+          "rn14",
+          "rn15"
+        ]
+      },
+      "competition": {
+        "text": "Several independent sellers already list shirts, long-sleeves, hoodies and totes on Etsy and TeePublic, and Redbubble shows at least one Polar Bear 2026 sticker among unrelated 2026 polar-bear designs. No November-2026 calendar wallpapers or printables appeared in the results, but this was a limited search, not a count.",
+        "level": "moderate",
+        "evidence": [
+          "rn9",
+          "rn10",
+          "rn11",
+          "rn15"
+        ]
+      },
+      "gap": {
+        "text": "Most supply is apparel copying the AI bear or moody forest-and-moon graphics. Missing: (1) instant digital products that use the calendar payoff, such as a November 2026 phone wallpaper/lock-screen calendar with an original bear and day-by-day 'do you understand yet?' gags; (2) cheap stickers with a post-payoff punchline ('I remembered. November 2026.') that work for the whole month. Digital avoids POD shipping lag on a hard-dated joke.",
+        "isInference": true
+      },
+      "window": {
+        "estimate": "Now through about 2026-11-30. Best selling days are likely late October to mid-November.",
+        "reasoning": "The joke points at November 2026, and the month's arrival is a guaranteed attention trigger (inference). Digital products deliver instantly through November. POD orders placed after about Nov 15 arrive near or after month-end (1-2 week POD delivery). After November the premise is spent, though the 'meme from 2027' bird lore shows the 'meme from the future' format rolls forward to a new year, which is a different product.",
+        "invalidators": [
+          "Attention already peaked in September and November passes quietly",
+          "Platform takedowns of listings that copy the AI bear image or reference the Oliver Tree song",
+          "A larger seller or brand floods the November moment",
+          "A real-world 'November 2026' event repurposes the phrase in a way that makes it unfunny or sensitive"
+        ],
+        "seasonality": "Hard-dated to November 2026. Overlaps early holiday shopping, so it competes for attention with Black Friday listings."
+      },
+      "rights": {
+        "risk": "medium",
+        "note": "Do NOT use the viral AI polar-bear image or video frames: who made it is unclear, and copying it invites takedowns. Do not reference Oliver Tree, the song title, or lyrics/melody. The phrase 'Remember November 2026 (is coming)' is a meme line with no known owner, and an original, clearly different polar-bear illustration plus text is low risk. 'Polar bear' and dates are generic. Risk drops to low if you use only the phrase and original art."
+      },
+      "scores": {
+        "timing": {
+          "score": 3,
+          "basis": "qualitative",
+          "rationale": "Entry is possible only right now: about 8 weeks until the premise expires. Fine for digital, tight for POD shirts."
+        },
+        "buyerIntent": {
+          "score": 2,
+          "basis": "qualitative",
+          "rationale": "Several independent sellers and a creator-asset vendor are monetizing, but no purchase evidence (sales, reviews, people asking where to buy) was found."
+        },
+        "supplyGap": {
+          "score": 2,
+          "basis": "qualitative",
+          "rationale": "Apparel competition already exists on Etsy and TeePublic. The digital calendar/wallpaper niche looked open in a limited search."
+        },
+        "productFit": {
+          "score": 4,
+          "basis": "qualitative",
+          "rationale": "Text plus one original illustration. A digital calendar wallpaper is a few hours of work with AI-assisted art and common design tools."
+        },
+        "durability": {
+          "score": 1,
+          "basis": "qualitative",
+          "rationale": "Built-in expiry at the end of November 2026."
+        },
+        "economics": {
+          "score": 2,
+          "basis": "qualitative",
+          "rationale": "Low price points (digital about $2-5, stickers about $3-5) and a sales window of a few weeks limit the upside. Search summaries put competitor tees at about $11-24, which squeezes POD apparel margins."
+        }
+      },
+      "recommendedAction": "test_now",
+      "actionRationale": "Test now, but only as a tiny, time-boxed experiment with low confidence. Spread is independent and documented, other sellers are already investing, the effort is a few hours, and the arrival of November is a predictable attention moment. Waiting means the window closes. Purchase evidence is still missing, so keep it to digital plus stickers, put no money into ads or apparel inventory, and stop hard by mid-November if nothing sells.",
+      "products": [
+        {
+          "buyer": "Teens and young adults (US) who follow the meme on TikTok/Reels and want to be 'in on it' on their lock screen during November",
+          "format": "other",
+          "theme": "'November 2026: Do You Understand Yet?' phone wallpaper and lock-screen calendar pack. Original cartoon polar bear in a few poses (balanced on front paws, holding a calendar, shrugging on Nov 30), with day-by-day deadpan gag captions. Includes a printable desk-calendar PDF version.",
+          "whyBuy": "Identity signal for the meme's own month; instant delivery; cheap impulse buy timed to the Nov 1 moment",
+          "evidence": [
+            "rn1",
+            "rn6",
+            "rn14"
+          ],
+          "differentiation": "Uses the calendar payoff instead of copying the AI bear onto a shirt. Original art. Digital, so no shipping lag on a hard-dated joke.",
+          "channels": [
+            "TikTok",
+            "Gumroad",
+            "Etsy",
+            "Instagram"
+          ],
+          "effort": "low",
+          "effortHours": 5,
+          "leadTimeDays": 2,
+          "fulfillment": "digital",
+          "validationTest": "List on Gumroad and Etsy at about $3. Post 3-5 TikToks/Reels in the meme's format (bear reacting to the calendar) between Oct 25 and Nov 3, linking the product.",
+          "continueIf": "10 or more paid downloads, or clear 'where do I get this' comments, by Nov 4",
+          "pivotIf": "Videos get views but no sales: offer it free as a lead magnet and test a paid sticker instead",
+          "stopIf": "Fewer than 3 sales by Nov 10, or meme content volume visibly dies after Nov 1",
+          "rightsNote": "No AI bear image, no Oliver Tree name/song/lyrics. Original bear art only."
+        },
+        {
+          "buyer": "Meme-literate teens and young adults decorating laptops, water bottles and phone cases",
+          "format": "sticker",
+          "theme": "Die-cut sticker of an original polar bear balancing on its front paws, captioned 'I remembered. November 2026.' (alt: 'Remember November 2026 - I still don't get it')",
+          "whyBuy": "Cheap, giftable in-joke for the payoff month",
+          "evidence": [
+            "rn9",
+            "rn11",
+            "rn15"
+          ],
+          "differentiation": "Post-payoff punchline that stays funny all through November, where competitors use the 'coming' framing that goes stale on Nov 1",
+          "channels": [
+            "Redbubble",
+            "Etsy",
+            "TikTok"
+          ],
+          "effort": "low",
+          "effortHours": 3,
+          "leadTimeDays": 3,
+          "fulfillment": "pod",
+          "validationTest": "List 2 caption variants on Redbubble and as Etsy POD stickers by Oct 15, then compare favorites and sales.",
+          "continueIf": "Any variant sells 5+ by Nov 5",
+          "pivotIf": "Favorites but no sales: bundle as a free bonus with the wallpaper pack",
+          "stopIf": "No sales by Nov 12 (POD delivery would then land after the joke expires)",
+          "rightsNote": "Original bear only. Do not trace the AI image."
+        }
+      ],
+      "unresolved": [
+        "No direct purchase evidence (sales, reviews, sold-out reports) was found for any Remember November product",
+        "Whether interest is still rising in October or peaked in September (no October trajectory data; search budget ran out)",
+        "How many competing listings exist (market pages seen, counts not visible)",
+        "Whether the Nov 1 'it's November 2026' moment actually produces a spike (inference only)"
+      ],
+      "evidence": [
+        {
+          "id": "rn1",
+          "url": "https://knowyourmeme.com/memes/remember-november-2026-is-coming",
+          "title": "Remember November 2026 Is Coming",
+          "publisher": "Know Your Meme",
+          "publishedAt": null,
+          "retrievedAt": "2026-10-04T20:57:55Z",
+          "accessMethod": "web_search_result",
+          "signalType": "community",
+          "intent": "curiosity",
+          "claim": "The meme is an AI polar-bear video set to Oliver Tree's 'Life Goes On', popularized on Instagram Reels and TikTok in September 2026.",
+          "kind": "observed",
+          "syndicationOf": null,
+          "excerpt": "Search summary: the polar bear sings 'Remember November 2026 is coming' as a reminder of the 2023 meme; popularized on Reels/TikTok in Sept 2026; 'Know Your Meme recorded more than 980,000 views within two weeks' (unclear what was counted); original 2023 post dated March 27, 2023 by @gmd_arahis."
+        },
+        {
+          "id": "rn2",
+          "url": "https://trending.knowyourmeme.com/editorials/guides/what-is-the-remember-november-2026-meme-the-viral-ai-polar-bear-memes-from-the-future-explained",
+          "title": "What Is The 'Remember November 2026' Meme? The Viral AI 'Polar Bear' Memes From The Future Explained",
+          "publisher": "Know Your Meme (editorial)",
+          "publishedAt": null,
+          "retrievedAt": "2026-10-04T20:57:55Z",
+          "accessMethod": "web_search_result",
+          "signalType": "press",
+          "intent": "curiosity",
+          "claim": "KYM's editorial team wrote an explainer on the revived meme, which signals mainstream curiosity.",
+          "kind": "observed",
+          "syndicationOf": null,
+          "excerpt": "KYM editorial guide explaining the AI polar bear 'memes from the future'."
+        },
+        {
+          "id": "rn3",
+          "url": "https://www.yahoo.com/entertainment/articles/remember-november-2026-meme-viral-193000262.html",
+          "title": "What Is The 'Remember November 2026' Meme? The Viral AI 'Polar Bear' Memes From The Future Explained",
+          "publisher": "Yahoo Entertainment (syndicated)",
+          "publishedAt": null,
+          "retrievedAt": "2026-10-04T20:57:55Z",
+          "accessMethod": "web_search_result",
+          "signalType": "press",
+          "intent": "curiosity",
+          "claim": "Syndicated copy of the KYM explainer on Yahoo (WebFetch blocked).",
+          "kind": "observed",
+          "syndicationOf": "rn2",
+          "excerpt": "Same headline as the KYM guide; describes the singing-bear video and its September 2026 popularity."
+        },
+        {
+          "id": "rn4",
+          "url": "https://sg.news.yahoo.com/remember-november-2026-meme-viral-193000262.html",
+          "title": "What Is The 'Remember November 2026' Meme? The Viral AI 'Polar Bear' Memes From The Future Explained - Yahoo News Singapore",
+          "publisher": "Yahoo News Singapore (syndicated)",
+          "publishedAt": null,
+          "retrievedAt": "2026-10-04T20:57:55Z",
+          "accessMethod": "web_search_result",
+          "signalType": "press",
+          "intent": "curiosity",
+          "claim": "Second syndicated copy of the same KYM explainer.",
+          "kind": "observed",
+          "syndicationOf": "rn2",
+          "excerpt": "Same article, Singapore edition."
+        },
+        {
+          "id": "rn5",
+          "url": "https://knowyourmeme.com/memes/polar-bear-2026",
+          "title": "Polar Bear 2026",
+          "publisher": "Know Your Meme",
+          "publishedAt": null,
+          "retrievedAt": "2026-10-04T20:57:55Z",
+          "accessMethod": "web_search_result",
+          "signalType": "community",
+          "intent": "curiosity",
+          "claim": "The Polar Bear 2026 creepypasta began on Russian TikTok in early 2023 and was revived at the end of August 2026 by TikToker @bigbakdiskk28.",
+          "kind": "observed",
+          "syndicationOf": null,
+          "excerpt": "AI image of a polar bear on its front paws captioned (Russian) 'This is a November meme from 2026, you won't understand yet'; English spread Sept 2023; revival late Aug 2026 with the 'Remember November 2026 is coming' video."
+        },
+        {
+          "id": "rn6",
+          "url": "https://meme.com/memes/remember-november-2026-is-coming",
+          "title": "Remember November 2026 Is Coming Meme Explained",
+          "publisher": "meme.com",
+          "publishedAt": null,
+          "retrievedAt": "2026-10-04T20:57:55Z",
+          "accessMethod": "web_search_result",
+          "signalType": "press",
+          "intent": "curiosity",
+          "claim": "An independent explainer says nobody knows what November brings, that this is the whole joke, and lists the main formats.",
+          "kind": "observed",
+          "syndicationOf": null,
+          "excerpt": "Search summary across meme.com/KYM/Neon Music results: no verified prediction behind the date; 'collaborative fiction'; popular entries are karaoke covers of the bear song, edits pairing the bear with a November 2026 calendar, and reaction skits."
+        },
+        {
+          "id": "rn7",
+          "url": "https://neonmusic.co.uk/polar-bear-2026-meme",
+          "title": "Polar Bear 2026 Meme Explained: Remember November 2026",
+          "publisher": "Neon Music",
+          "publishedAt": null,
+          "retrievedAt": "2026-10-04T20:57:55Z",
+          "accessMethod": "web_search_result",
+          "signalType": "press",
+          "intent": "curiosity",
+          "claim": "A UK music/culture site published its own explainer, showing spread beyond meme databases.",
+          "kind": "observed",
+          "syndicationOf": null,
+          "excerpt": "Explainer of the polar bear meme and the 'Remember November 2026' line."
+        },
+        {
+          "id": "rn8",
+          "url": "https://cloutfluence.com/en/blog/tiktok/polar-bear-2026-remember-november-meme/",
+          "title": "Polar Bear 2026 Meme: Remember November 2026 Explained",
+          "publisher": "Cloutfluence",
+          "publishedAt": null,
+          "retrievedAt": "2026-10-04T20:57:55Z",
+          "accessMethod": "web_search_result",
+          "signalType": "press",
+          "intent": "curiosity",
+          "claim": "A marketing blog covered the meme as a TikTok trend.",
+          "kind": "observed",
+          "syndicationOf": null,
+          "excerpt": "TikTok marketing blog explainer of the meme."
+        },
+        {
+          "id": "rn9",
+          "url": "https://www.etsy.com/market/remember_november_2026_shirt",
+          "title": "Remember November 2026 Shirt - Etsy",
+          "publisher": "Etsy",
+          "publishedAt": null,
+          "retrievedAt": "2026-10-04T20:57:55Z",
+          "accessMethod": "web_search_result",
+          "signalType": "marketplace",
+          "intent": "none",
+          "claim": "Etsy has a market/search page for this phrase with multiple meme tees (supply, not demand).",
+          "kind": "observed",
+          "syndicationOf": null,
+          "excerpt": "Search summary: items include 'Remember November 2026 Shirt', 'Polar Bear 2026 Meme Tee', 'Cursed Polar Bear Graphic Tee'; designs with forest/moon and 'REMEMBER NOVEMBER / 2026 IS COMING'; basic tees about $11-24; hoodies and totes also present."
+        },
+        {
+          "id": "rn10",
+          "url": "https://www.etsy.com/market/remember_november_2026_is_coming",
+          "title": "Remember November 2026 is Coming - Etsy",
+          "publisher": "Etsy",
+          "publishedAt": null,
+          "retrievedAt": "2026-10-04T20:57:55Z",
+          "accessMethod": "web_search_result",
+          "signalType": "marketplace",
+          "intent": "none",
+          "claim": "A second Etsy market page exists for the full phrase.",
+          "kind": "observed",
+          "syndicationOf": null,
+          "excerpt": "Etsy market page title only; no counts visible."
+        },
+        {
+          "id": "rn11",
+          "url": "https://www.teepublic.com/long-sleeve-t-shirt/98873611-remember-november-2026-is-coming-polar-bear-meme",
+          "title": "Remember November 2026 is Coming Polar Bear Meme - Remember November 2026 Is Coming - Long Sleeve T-Shirt",
+          "publisher": "TeePublic",
+          "publishedAt": null,
+          "retrievedAt": "2026-10-04T20:57:55Z",
+          "accessMethod": "web_search_result",
+          "signalType": "marketplace",
+          "intent": "none",
+          "claim": "A POD seller lists a Remember November 2026 polar bear long-sleeve on TeePublic.",
+          "kind": "observed",
+          "syndicationOf": null,
+          "excerpt": "TeePublic listing for the phrase."
+        },
+        {
+          "id": "rn12",
+          "url": "https://www.youtube.com/shorts/_aVkue-9Fhs",
+          "title": "November 2026 Is Coming 🐻‍❄️ Polar Bear Meme T-Shirt - YouTube",
+          "publisher": "YouTube",
+          "publishedAt": null,
+          "retrievedAt": "2026-10-04T20:57:55Z",
+          "accessMethod": "web_search_result",
+          "signalType": "creator",
+          "intent": "none",
+          "claim": "A creator/seller is promoting a Polar Bear meme T-shirt on YouTube Shorts.",
+          "kind": "observed",
+          "syndicationOf": null,
+          "excerpt": "YouTube Short titled as a polar bear meme T-shirt promo."
+        },
+        {
+          "id": "rn13",
+          "url": "https://laimadesign.com/blogs/news/remember-november-2026-polar-bear-meme",
+          "title": "The 'Remember November 2026' Polar Bear Meme, Explained (And How to We",
+          "publisher": "Laima Design (Shopify store blog)",
+          "publishedAt": null,
+          "retrievedAt": "2026-10-04T20:57:55Z",
+          "accessMethod": "web_search_result",
+          "signalType": "creator",
+          "intent": "none",
+          "claim": "An apparel store published a content-marketing post on the meme, apparently tied to wearing/selling it (title truncated in results).",
+          "kind": "observed",
+          "syndicationOf": null,
+          "excerpt": "Store blog explainer; title suggests 'how to wear' merch."
+        },
+        {
+          "id": "rn14",
+          "url": "https://shop.creatorset.com/products/ai-polar-bear-remember-november-2026-is-coming-meme-green-screen",
+          "title": "AI Polar Bear \"Remember November 2026 is Coming\" meme (Green Screen)",
+          "publisher": "Creatorset",
+          "publishedAt": null,
+          "retrievedAt": "2026-10-04T20:57:55Z",
+          "accessMethod": "web_search_result",
+          "signalType": "marketplace",
+          "intent": "utility",
+          "claim": "A creator-asset shop sells a green-screen version of the meme, showing demand from video creators making content in the format.",
+          "kind": "observed",
+          "syndicationOf": null,
+          "excerpt": "Green-screen meme asset product page."
+        },
+        {
+          "id": "rn15",
+          "url": "https://www.redbubble.com/shop/polar+bear+2026",
+          "title": "Polar Bear 2026 Merch & Gifts for Sale",
+          "publisher": "Redbubble",
+          "publishedAt": null,
+          "retrievedAt": "2026-10-04T20:57:55Z",
+          "accessMethod": "web_search_result",
+          "signalType": "marketplace",
+          "intent": "none",
+          "claim": "Redbubble's 'polar bear 2026' results include at least one meme sticker ('Polar Bear 2026 at my limit') mixed with unrelated 2026 polar-bear designs.",
+          "kind": "observed",
+          "syndicationOf": null,
+          "excerpt": "Search summary lists 'Polar Bear 2026 at my limit Sticker' plus generic 2026 polar-bear items."
+        },
+        {
+          "id": "rn16",
+          "url": "https://knowyourmeme.com/editorials/guides/what-is-the-meme-from-2027-and-polar-bear-2026-the-lore-behind-tiktoks-opium-bird-and-memes-from-the-future-explained",
+          "title": "What Is The 'Meme From 2027' And 'Polar Bear 2026'? The Lore Behind TikTok's 'Opium Bird' And 'Memes From The Future' Explained",
+          "publisher": "Know Your Meme (editorial)",
+          "publishedAt": null,
+          "retrievedAt": "2026-10-04T21:01:02Z",
+          "accessMethod": "web_search_result",
+          "signalType": "press",
+          "intent": "curiosity",
+          "claim": "'Memes from the future' is a recurring format. A 2027 counterpart (Erosion/Opium Bird) already exists, so the format will likely roll to 2027 after November.",
+          "kind": "observed",
+          "syndicationOf": null,
+          "excerpt": "Erosion Bird / Opium Bird, also called 'Meme from 2027', is an AI image unveiled Sept 2023; joke that a meme is so advanced only the future understands it."
+        },
+        {
+          "id": "rn17",
+          "url": "https://www.tiktok.com/discover/this-meme-is-from-november-2026-you-won%E2%80%99t-understand-it",
+          "title": "This Meme Is from November 2026 You Won't Understand It",
+          "publisher": "TikTok",
+          "publishedAt": null,
+          "retrievedAt": "2026-10-04T20:57:55Z",
+          "accessMethod": "web_search_result",
+          "signalType": "social",
+          "intent": "curiosity",
+          "claim": "TikTok has a discover/topic page for the phrase, a sign of on-platform search activity (no counts visible).",
+          "kind": "observed",
+          "syndicationOf": null,
+          "excerpt": "TikTok discover page title."
+        },
+        {
+          "id": "rn18",
+          "url": "https://www.youtube.com/watch?v=116HMiZzhZw",
+          "title": "Remember November 2026 Is Coming Explained - YouTube",
+          "publisher": "YouTube",
+          "publishedAt": null,
+          "retrievedAt": "2026-10-04T20:57:55Z",
+          "accessMethod": "web_search_result",
+          "signalType": "creator",
+          "intent": "curiosity",
+          "claim": "YouTube creators are making explainer videos about the meme.",
+          "kind": "observed",
+          "syndicationOf": null,
+          "excerpt": "YouTube explainer video title."
+        }
+      ],
+      "observations": [
+        {
+          "metric": "views recorded by Know Your Meme within two weeks",
+          "value": 980000,
+          "unit": "views (lower bound, 'more than')",
+          "asOf": "2026-10-04",
+          "evidence": "rn1",
+          "isAbsolute": true,
+          "note": "Reported in a search-tool summary attributing it to KYM. Unclear whether this is one video or an aggregate. Measurement date not stated; asOf is the retrieval date. Not independently verified."
+        },
+        {
+          "metric": "price range of basic Remember November 2026 tees on Etsy",
+          "value": 11,
+          "unit": "USD (low end of ~$11-24 range)",
+          "asOf": "2026-10-04",
+          "evidence": "rn9",
+          "isAbsolute": true,
+          "note": "From the search-tool summary of the Etsy market page. Not verified on Etsy (blocked)."
+        }
+      ]
+    },
+    {
+      "name": "Kinda Chic trend ('kinda chic to...')",
+      "aliases": [
+        "kinda chic",
+        "kind of chic",
+        "feels kind of chic to",
+        "#KindaChic"
+      ],
+      "category": "meme",
+      "summary": "A caption template where people call ordinary or hard-won things 'kinda chic', such as aging, body neutrality, sobriety or personal growth. Usually set in a butter-yellow font.",
+      "what": "Creators overlay pale/butter-yellow text reading 'kinda chic to...' on a photo, video or carousel and finish it with something non-luxury they are quietly proud of ('kinda chic to be in your 50s', 'kinda chic to never stop learning'). It takes 'chic' away from money and gives it to aging, body positivity, mental health and small wins. Celebrities and brands picked it up in August 2026, and critics have called it a humblebrag.",
+      "origin": {
+        "text": "KYM dates early examples to April 2026, including an Instagram post by user mariabegins on 2026-04-27 about body positivity. It went viral July-August 2026.",
+        "date": "2026-04-27",
+        "evidence": [
+          "kc1"
+        ]
+      },
+      "adopters": {
+        "text": "Mostly women on Instagram and TikTok posting about body positivity, aging, mental health and personal growth. Celebrities joined (Drew Barrymore, 'kinda chic to be in your 50s'; Reese Witherspoon; Ashley Graham), and so did brands and businesses, including optical retailers covered by a trade publication. Search summaries say brands like Boots, Aldi and Virgin Atlantic used it, but the exact source page wasn't identified.",
+        "evidence": [
+          "kc1",
+          "kc3",
+          "kc9",
+          "kc17"
+        ]
+      },
+      "spread": {
+        "text": "Spread well beyond its origin: KYM entry plus editorial guide, US celebrity/lifestyle press (Hola US, syndicated to Yahoo; PureWow), UK business press (startups.co.uk September trends), a US alt-weekly (Riverfront Times), Spanish-language coverage (Emisoras Unidas, Sept 17), an optical trade outlet (Vision Monday), a Dictionary.com culture entry, and critical commentary (The Spectator). WhoWhatWear used the phrasing in an October 2026 shopping headline (per search summary).",
+        "evidence": [
+          "kc1",
+          "kc2",
+          "kc3",
+          "kc4",
+          "kc5",
+          "kc6",
+          "kc7",
+          "kc8",
+          "kc9",
+          "kc10",
+          "kc11",
+          "kc17",
+          "kc18"
+        ]
+      },
+      "trajectory": {
+        "stage": "mainstream_surge",
+        "text": "Built from April, surged July-August (celebrity and brand adoption in early August), still widely referenced in September and showing up in fashion copy in October. Backlash pieces ('humblebrag') usually appear near a trend's peak. Inference: likely at or just past peak as a meme, but the phrase may persist as an everyday template the way 'it's giving' did. No October search-interest data was available.",
+        "evidence": [
+          "kc1",
+          "kc3",
+          "kc5",
+          "kc6",
+          "kc8",
+          "kc11"
+        ]
+      },
+      "productDemand": {
+        "text": "Indirect only. Multiple Etsy sellers have launched 'kinda chic' apparel in niche variants (Kinda Chic to Be Kind sweatshirt; 'kinda chic' Comfort Colors tee; 'Kinda Chic to be Mommin'' hat; volleyball-mom sweatshirt; cheer-coach SVG files for crafters). Brands use it in marketing. No sales figures, reviews or reported consumer requests for merch were found.",
+        "evidence": [
+          "kc12",
+          "kc13",
+          "kc14",
+          "kc15",
+          "kc16",
+          "kc9"
+        ]
+      },
+      "competition": {
+        "text": "Etsy has a growing set of 'kinda chic' listings aimed at moms, coaches and sports parents, plus SVG files. Milestone-birthday, journal or planner products didn't appear in the limited results seen. Total listing counts weren't visible.",
+        "level": "moderate",
+        "evidence": [
+          "kc12",
+          "kc13",
+          "kc14",
+          "kc15",
+          "kc16",
+          "kc20"
+        ]
+      },
+      "gap": {
+        "text": "The trend's most-shared emotional core is aging and self-acceptance (Drew Barrymore's 'kinda chic to be in your 50s'), yet the competition seen targets moms and sports parents. Missing angles: (1) milestone-birthday gifts ('kinda chic to be 40/50/60') as mugs and printable cards, an evergreen gift occasion that outlives the meme; (2) a 2027 'small wins' journal or planner with weekly 'kinda chic to...' prompts for New Year planner season; (3) a planner sticker sheet of everyday 'kinda chic' wins.",
+        "isInference": true
+      },
+      "window": {
+        "estimate": "Holiday gifting and New Year planner season (Nov 2026 - Jan 2027); milestone-birthday designs possibly year-round if the phrase sticks",
+        "reasoning": "It's past the August surge but still in active use in October. Birthday gifts and planners don't depend on the meme staying viral, only on the phrase still being recognizable. POD lead time (1-2 weeks) fits the holiday window if listings go up in October.",
+        "invalidators": [
+          "The phrase becomes cringe because brands overuse it (backlash pieces already exist)",
+          "Fast fade in recognition before December",
+          "A trademark filing on 'kinda chic' for apparel (none found, not cleared)",
+          "Etsy niche fills quickly with milestone-birthday variants"
+        ],
+        "seasonality": "Peaked in summer 2026. Products ride holiday gifting, New Year planning, and milestone birthdays."
+      },
+      "rights": {
+        "risk": "low",
+        "note": "Common words with no known owner. A web search found no 'kinda chic' trademark filing, but that's not a clearance (check USPTO before scaling). The butter-yellow typographic look isn't protectable. Don't use celebrity names, photos or quotes (e.g., Drew Barrymore). 'Kinda chic to be in your 50s' as generic text is fine without her name or image. Avoid health or body-outcome promises in journal copy."
+      },
+      "scores": {
+        "timing": {
+          "score": 3,
+          "basis": "qualitative",
+          "rationale": "Past the August peak but still current, and holiday plus New Year demand windows are ahead."
+        },
+        "buyerIntent": {
+          "score": 2,
+          "basis": "qualitative",
+          "rationale": "Seller proliferation and brand use suggest commercial interest, but there's no direct evidence of buyers purchasing."
+        },
+        "supplyGap": {
+          "score": 3,
+          "basis": "qualitative",
+          "rationale": "Moderate competition concentrated in mom and sports niches. Milestone-birthday and journal angles weren't seen (limited search)."
+        },
+        "productFit": {
+          "score": 5,
+          "basis": "qualitative",
+          "rationale": "Pure typography in one recognizable color. Trivial to produce variants. A journal is a moderate lift with templates."
+        },
+        "durability": {
+          "score": 3,
+          "basis": "qualitative",
+          "rationale": "A reusable template phrase with evergreen gift uses, offset by backlash and normal meme decay."
+        },
+        "economics": {
+          "score": 3,
+          "basis": "qualitative",
+          "rationale": "Mugs and cards carry gift-level pricing on POD. Digital planners have near-zero marginal cost. Competition limits premium pricing."
+        }
+      },
+      "recommendedAction": "prepare",
+      "actionRationale": "Spread and identity value are well documented, and the phrase suits gifts and planners, but buying intent is still unproven and the meme is probably past peak. Prepare a differentiated holiday/New Year line (milestone-birthday mug and card, 2027 small-wins journal) and validate cheaply in October with one listing per format before expanding. Skip generic 'kinda chic' tees, which are already being copied.",
+      "products": [
+        {
+          "buyer": "Adults (largely women 30-60) buying birthday gifts for a friend, sister or mother hitting a milestone age",
+          "format": "mug",
+          "theme": "'kinda chic to be 50' (series: 30/40/50/60/70) in butter-yellow lowercase type on cream, with a small sparkle detail. Matching printable birthday card.",
+          "whyBuy": "Turns a dreaded milestone into a compliment using a phrase the recipient has seen everywhere this year. A ready-made gift.",
+          "evidence": [
+            "kc1",
+            "kc3",
+            "kc12"
+          ],
+          "differentiation": "Aging/milestone angle, where the competition seen is mom and sports-parent apparel. The age series multiplies SEO entry points.",
+          "channels": [
+            "Etsy",
+            "Pinterest",
+            "Instagram"
+          ],
+          "effort": "low",
+          "effortHours": 6,
+          "leadTimeDays": 4,
+          "fulfillment": "pod",
+          "validationTest": "Publish the 40, 50 and 60 versions as Etsy POD mugs and a $4 printable card bundle. Pin 6 mockups on Pinterest. Run for 3 weeks.",
+          "continueIf": "Any age version gets 3+ sales or 30+ favorites within 3 weeks",
+          "pivotIf": "Favorites without sales: shift to the cheaper printable card or a sticker",
+          "stopIf": "Fewer than 10 favorites and no sales by early November",
+          "rightsNote": "No celebrity names, images or quotes. Generic phrase only."
+        },
+        {
+          "buyer": "Women 25-45 into self-improvement, body neutrality and journaling, shopping for a 2027 planner",
+          "format": "journal",
+          "theme": "'Kinda Chic 2027: a year of small wins'. 52 weekly 'kinda chic to...' reflection prompts (rest, boundaries, rewearing outfits, trying new things), a monthly 'kinda chic' wins log and a year-end review. Goodnotes PDF plus printable.",
+          "whyBuy": "New Year planner season plus a supportive phrase they already use. Instant download.",
+          "evidence": [
+            "kc1",
+            "kc2",
+            "kc5"
+          ],
+          "differentiation": "No 'kinda chic' journal or planner products appeared in results. Built around the trend's self-acceptance core rather than fashion.",
+          "channels": [
+            "Etsy",
+            "Gumroad",
+            "Pinterest",
+            "TikTok"
+          ],
+          "effort": "medium",
+          "effortHours": 14,
+          "leadTimeDays": 6,
+          "fulfillment": "digital",
+          "validationTest": "Release a free 4-week sample on Gumroad, promoted through 3 'kinda chic to...' Reels/TikToks. Then list the full journal on Etsy at about $8.",
+          "continueIf": "150+ free sample downloads or 5+ paid sales by mid-November",
+          "pivotIf": "Samples are popular but paid sales are weak: bundle with the sticker sheet or drop the price",
+          "stopIf": "Fewer than 50 sample downloads after 3 posts",
+          "rightsNote": "Avoid health, weight or mental-health outcome claims. Supportive prompts only."
+        },
+        {
+          "buyer": "Planner and journal users who decorate spreads with stickers",
+          "format": "sticker",
+          "theme": "Sticker sheet of 12 everyday 'kinda chic to...' wins (drink the water, leave early, go to therapy, rewear it, say no, rest) in butter-yellow and cream",
+          "whyBuy": "Cheap, giftable add-on that fits planner culture",
+          "evidence": [
+            "kc1",
+            "kc5"
+          ],
+          "differentiation": "Everyday-wins content rather than identity tees. Pairs with the journal.",
+          "channels": [
+            "Etsy",
+            "Redbubble"
+          ],
+          "effort": "low",
+          "effortHours": 4,
+          "leadTimeDays": 3,
+          "fulfillment": "pod",
+          "validationTest": "List one sticker sheet on Redbubble/Etsy POD alongside the journal sample.",
+          "continueIf": "5+ sales in 4 weeks",
+          "pivotIf": "Sells only bundled: keep it as a bonus",
+          "stopIf": "No sales in 4 weeks",
+          "rightsNote": "Generic phrases only."
+        }
+      ],
+      "unresolved": [
+        "No direct purchase evidence (sales or reviews) for 'kinda chic' products",
+        "Actual Etsy competition depth for milestone-birthday 'kinda chic' items (limited search; counts not visible)",
+        "Whether search interest is falling in October (no Trends access; search budget exhausted)",
+        "Trademark clearance not done (no direct USPTO search)",
+        "Source page for the brand-adoption claims (Boots, Aldi, Virgin Atlantic) not pinned down"
+      ],
+      "evidence": [
+        {
+          "id": "kc1",
+          "url": "https://knowyourmeme.com/memes/kinda-chic-trend",
+          "title": "Kinda Chic Trend",
+          "publisher": "Know Your Meme",
+          "publishedAt": null,
+          "retrievedAt": "2026-10-04T20:57:55Z",
+          "accessMethod": "web_search_result",
+          "signalType": "community",
+          "intent": "curiosity",
+          "claim": "The trend began around April 2026 and exploded in August 2026 with high-engagement creator and celebrity posts.",
+          "kind": "observed",
+          "syndicationOf": null,
+          "excerpt": "Search summary: early example by Instagram user mariabegins on April 27, 2026; Aug 2 TikTok by @lifewitht00 ('feels kind of chic to be chubby...') 192,000+ likes in five days; Aug 3 Drew Barrymore carousel 170,000+ likes in four days; summaries also cite Google searches up 5,000% and hashtag counts of 60,000 to 97,000 posts (source page within results not identified)."
+        },
+        {
+          "id": "kc2",
+          "url": "https://trending.knowyourmeme.com/editorials/guides/what-is-the-kinda-chic-trend-the-viral-wellbeing-and-body-positivity-trend-on-tiktok-and-instagram-explained",
+          "title": "What Is The 'Kinda Chic' Trend? The Viral Wellbeing And Body Positivity Trend On TikTok And Instagram Explained",
+          "publisher": "Know Your Meme (editorial)",
+          "publishedAt": null,
+          "retrievedAt": "2026-10-04T20:57:55Z",
+          "accessMethod": "web_search_result",
+          "signalType": "press",
+          "intent": "curiosity",
+          "claim": "KYM frames the trend as a wellbeing and body-positivity format.",
+          "kind": "observed",
+          "syndicationOf": null,
+          "excerpt": "Editorial explainer: 'kinda chic to...' captions celebrating body positivity, mental health and well-being."
+        },
+        {
+          "id": "kc3",
+          "url": "https://www.hola.com/us/lifestyle/20260818918711/kinda-chic-trend-celebrities-joining-in/",
+          "title": "Why the 'Kinda Chic' trend has celebrities joining in",
+          "publisher": "Hola! USA",
+          "publishedAt": "2026-08-18",
+          "retrievedAt": "2026-10-04T20:57:55Z",
+          "accessMethod": "web_search_result",
+          "signalType": "press",
+          "intent": "curiosity",
+          "claim": "Celebrities including Drew Barrymore, Reese Witherspoon and Ashley Graham joined the trend.",
+          "kind": "observed",
+          "syndicationOf": null,
+          "excerpt": "Barrymore 'kinda chic to be in your 50s'; Witherspoon with Laura Dern on supporting women; Graham on cellulite and body confidence. The same search summary said Boots ('reapply your SPF'), Aldi (sock hanger) and Virgin Atlantic used the format; the exact source page wasn't confirmed."
+        },
+        {
+          "id": "kc4",
+          "url": "https://www.yahoo.com/entertainment/celebrity/articles/why-kinda-chic-trend-celebrities-220029708.html",
+          "title": "Why the 'Kinda Chic' trend has celebrities joining in",
+          "publisher": "Yahoo Entertainment (syndicated)",
+          "publishedAt": null,
+          "retrievedAt": "2026-10-04T20:57:55Z",
+          "accessMethod": "web_search_result",
+          "signalType": "press",
+          "intent": "curiosity",
+          "claim": "Syndicated copy of the Hola! USA article.",
+          "kind": "observed",
+          "syndicationOf": "kc3",
+          "excerpt": "Same headline on Yahoo."
+        },
+        {
+          "id": "kc5",
+          "url": "https://startups.co.uk/news/social-media-trends-september/",
+          "title": "6 social media trends you shouldn't miss this September 2026",
+          "publisher": "Startups.co.uk",
+          "publishedAt": null,
+          "retrievedAt": "2026-10-04T21:01:02Z",
+          "accessMethod": "web_search_result",
+          "signalType": "press",
+          "intent": "utility",
+          "claim": "UK business press recommended Kinda Chic to brands in September 2026 and reported 100k+ Instagram hashtag uses.",
+          "kind": "observed",
+          "syndicationOf": null,
+          "excerpt": "Butter-yellow 'kinda chic to' overlay; romanticises the mundane; 'over 100k hashtags on Instagram'; adopted by Reese Witherspoon and Drew Barrymore; easy for brands to join."
+        },
+        {
+          "id": "kc6",
+          "url": "https://spectator.com/article/kinda-chic-is-mere-humblebrag/",
+          "title": "The 'Kinda chic' trend is mere humblebrag",
+          "publisher": "The Spectator",
+          "publishedAt": null,
+          "retrievedAt": "2026-10-04T21:01:02Z",
+          "accessMethod": "web_search_result",
+          "signalType": "press",
+          "intent": "criticism",
+          "claim": "Critical backlash describes the trend as a glossed-up humblebrag.",
+          "kind": "observed",
+          "syndicationOf": null,
+          "excerpt": "Critics call it 'the 2026 gloss over the good old fashioned humblebrag' (per search summary)."
+        },
+        {
+          "id": "kc7",
+          "url": "https://www.riverfronttimes.com/kinda-chic-trend/",
+          "title": "Kinda Chic To Understand the Value of a Trend - St. Louis Riverfront Times",
+          "publisher": "Riverfront Times",
+          "publishedAt": null,
+          "retrievedAt": "2026-10-04T20:57:55Z",
+          "accessMethod": "web_search_result",
+          "signalType": "press",
+          "intent": "curiosity",
+          "claim": "A US local alt-weekly covered the trend, showing spread into regional media.",
+          "kind": "observed",
+          "syndicationOf": null,
+          "excerpt": "Headline only seen in results."
+        },
+        {
+          "id": "kc8",
+          "url": "https://emisorasunidas.com/tendencias/2026/09/17/kinda-chic-tendencia-que-enamora-generacion-z/",
+          "title": "Kinda Chic: La Tendencia que Enamora a la Generación Z",
+          "publisher": "Emisoras Unidas",
+          "publishedAt": "2026-09-17",
+          "retrievedAt": "2026-10-04T20:57:55Z",
+          "accessMethod": "web_search_result",
+          "signalType": "press",
+          "intent": "curiosity",
+          "claim": "Spanish-language media covered the trend in mid-September, showing international spread.",
+          "kind": "observed",
+          "syndicationOf": null,
+          "excerpt": "Headline frames Kinda Chic as a trend Gen Z loves."
+        },
+        {
+          "id": "kc9",
+          "url": "https://www.visionmonday.com/scene-and-heard/discover/article/its-kinda-chic-optical-joins-in-on-the-newest-social-media-trend-3/",
+          "title": "its kinda chic optical joins in on the newest social media trend 3",
+          "publisher": "Vision Monday",
+          "publishedAt": null,
+          "retrievedAt": "2026-10-04T20:57:55Z",
+          "accessMethod": "web_search_result",
+          "signalType": "press",
+          "intent": "utility",
+          "claim": "Optical businesses adopted the format in their marketing (trade-press coverage).",
+          "kind": "observed",
+          "syndicationOf": null,
+          "excerpt": "Trade publication on the optical industry joining the trend."
+        },
+        {
+          "id": "kc10",
+          "url": "https://www.dictionary.com/culture/memes/kinda-chic",
+          "title": "kinda chic",
+          "publisher": "Dictionary.com",
+          "publishedAt": null,
+          "retrievedAt": "2026-10-04T20:57:55Z",
+          "accessMethod": "web_search_result",
+          "signalType": "press",
+          "intent": "curiosity",
+          "claim": "Dictionary.com has a culture/memes entry for 'kinda chic', a sign of mainstream reference status.",
+          "kind": "observed",
+          "syndicationOf": null,
+          "excerpt": "Dictionary.com culture memes entry exists."
+        },
+        {
+          "id": "kc11",
+          "url": "https://www.whowhatwear.com/fashion/shopping/what-to-buy-in-october-2026",
+          "title": "10 Things to Buy This October If You're Busy But Want to Look On-Trend",
+          "publisher": "Who What Wear",
+          "publishedAt": null,
+          "retrievedAt": "2026-10-04T21:01:02Z",
+          "accessMethod": "web_search_result",
+          "signalType": "press",
+          "intent": "curiosity",
+          "claim": "The phrase still appears in fashion editorial copy in October 2026.",
+          "kind": "observed",
+          "syndicationOf": null,
+          "excerpt": "Search summary: article references 'Okay, Kinda Chic to Spend Under $150 on Fall's Biggest Trends'."
+        },
+        {
+          "id": "kc12",
+          "url": "https://www.etsy.com/listing/4554578166/kinda-chic-to-be-kind-sweatshirt",
+          "title": "Kinda Chic to Be Kind Sweatshirt Positive Affirmation Kindness Sweater Be Kind Crewneck Teacher Appreciation Sweatshirt Motivational Sweater - Etsy",
+          "publisher": "Etsy",
+          "publishedAt": null,
+          "retrievedAt": "2026-10-04T20:57:55Z",
+          "accessMethod": "web_search_result",
+          "signalType": "marketplace",
+          "intent": "none",
+          "claim": "An Etsy seller lists a 'Kinda Chic to Be Kind' affirmation sweatshirt.",
+          "kind": "observed",
+          "syndicationOf": null,
+          "excerpt": "Listing title only."
+        },
+        {
+          "id": "kc13",
+          "url": "https://www.etsy.com/listing/4556230343/kinda-chic-shirt-trendy-comfort-colors",
+          "title": "Kinda Chic Shirt, Trendy Comfort Colors Tshirt, Feminine Tee - Etsy",
+          "publisher": "Etsy",
+          "publishedAt": null,
+          "retrievedAt": "2026-10-04T20:57:55Z",
+          "accessMethod": "web_search_result",
+          "signalType": "marketplace",
+          "intent": "none",
+          "claim": "A generic 'Kinda Chic' tee listing exists on Etsy.",
+          "kind": "observed",
+          "syndicationOf": null,
+          "excerpt": "Comfort Colors tee for anyone 'living their kinda chic era' (per summary)."
+        },
+        {
+          "id": "kc14",
+          "url": "https://www.etsy.com/listing/4549252393/kinda-chic-hat-embroidered-baseball-cap",
+          "title": "Kinda Chic Hat Embroidered Baseball Cap Women Mom Trucker Mesh Snapback Adjustable Design Graphic Phrase Momlife Gift Mother Birthday Casual - Etsy",
+          "publisher": "Etsy",
+          "publishedAt": null,
+          "retrievedAt": "2026-10-04T20:57:55Z",
+          "accessMethod": "web_search_result",
+          "signalType": "marketplace",
+          "intent": "none",
+          "claim": "A mom-targeted 'Kinda Chic to be Mommin'' embroidered hat is listed.",
+          "kind": "observed",
+          "syndicationOf": null,
+          "excerpt": "Listing title; summary mentions 'Kinda Chic to be Mommin''."
+        },
+        {
+          "id": "kc15",
+          "url": "https://www.etsy.com/listing/4549965233/kinda-chic-trend-volleyball-mom-gift",
+          "title": "Kinda Chic Trend Volleyball Mom Gift Sweatshirt Women Pink Crewneck Pullover Casual Wear Game Day Clothing Athletic Supporter Apparel Team - Etsy",
+          "publisher": "Etsy",
+          "publishedAt": null,
+          "retrievedAt": "2026-10-04T20:57:55Z",
+          "accessMethod": "web_search_result",
+          "signalType": "marketplace",
+          "intent": "none",
+          "claim": "A sports-parent 'Kinda Chic Trend' variant is listed, and the seller names the trend explicitly in the title.",
+          "kind": "observed",
+          "syndicationOf": null,
+          "excerpt": "Listing title only."
+        },
+        {
+          "id": "kc16",
+          "url": "https://www.etsy.com/mx/market/kinda_chic_coach_svg",
+          "title": "Kinda Chic Coach Svg - Etsy Mexico",
+          "publisher": "Etsy",
+          "publishedAt": null,
+          "retrievedAt": "2026-10-04T20:57:55Z",
+          "accessMethod": "web_search_result",
+          "signalType": "marketplace",
+          "intent": "none",
+          "claim": "SVG cut files for 'kinda chic' coach designs exist, showing crafter supply.",
+          "kind": "observed",
+          "syndicationOf": null,
+          "excerpt": "Etsy Mexico market page; summary mentions 'Kinda Chic To Be a Cheer Coach'."
+        },
+        {
+          "id": "kc17",
+          "url": "https://www.purewow.com/news/reese-witherspoon-tik-tok-trend-kinda-chic",
+          "title": "reese witherspoon tik tok trend kinda chic",
+          "publisher": "PureWow",
+          "publishedAt": null,
+          "retrievedAt": "2026-10-04T20:57:55Z",
+          "accessMethod": "web_search_result",
+          "signalType": "press",
+          "intent": "curiosity",
+          "claim": "Lifestyle press covered Reese Witherspoon's participation.",
+          "kind": "observed",
+          "syndicationOf": null,
+          "excerpt": "URL/title only."
+        },
+        {
+          "id": "kc18",
+          "url": "https://coveteur.com/kinda-chic-trend",
+          "title": "kinda chic trend",
+          "publisher": "Coveteur",
+          "publishedAt": null,
+          "retrievedAt": "2026-10-04T21:01:02Z",
+          "accessMethod": "web_search_result",
+          "signalType": "press",
+          "intent": "curiosity",
+          "claim": "Fashion press analysis says the appeal is being 'special while being normal'.",
+          "kind": "observed",
+          "syndicationOf": null,
+          "excerpt": "Search summary: the 'deliberately lowbrow use of kinda' undercuts the unattainable 'chic'; anyone can claim chic status for something small."
+        },
+        {
+          "id": "kc20",
+          "url": "https://www.etsy.com/listing/4551255465/kinda-outdoorsy-kinda-chic-shirt-boho",
+          "title": "Kinda Outdoorsy Kinda Chic Shirt, Boho Hiking T-shirt, Mountain Lover Tee, Outdoorsy Girl Shirt, Camping Adventure Graphic Tee - Etsy",
+          "publisher": "Etsy",
+          "publishedAt": null,
+          "retrievedAt": "2026-10-04T20:57:55Z",
+          "accessMethod": "web_search_result",
+          "signalType": "marketplace",
+          "intent": "none",
+          "claim": "Adjacent 'kinda X kinda chic' apparel exists. It may or may not be trend-driven.",
+          "kind": "observed",
+          "syndicationOf": null,
+          "excerpt": "Listing title only."
+        }
+      ],
+      "observations": [
+        {
+          "metric": "likes on @lifewitht00 'feels kind of chic to be chubby' TikTok within five days",
+          "value": 192000,
+          "unit": "likes (lower bound)",
+          "asOf": "2026-08-07",
+          "evidence": "kc1",
+          "isAbsolute": true,
+          "note": "Reported by KYM via search summary. Not independently verified."
+        },
+        {
+          "metric": "likes on Drew Barrymore's Kinda Chic Instagram carousel within four days",
+          "value": 170000,
+          "unit": "likes (lower bound)",
+          "asOf": "2026-08-07",
+          "evidence": "kc1",
+          "isAbsolute": true,
+          "note": "Reported by KYM via search summary. Not independently verified."
+        },
+        {
+          "metric": "Instagram hashtag uses",
+          "value": 100000,
+          "unit": "posts (lower bound, 'over 100k')",
+          "asOf": "2026-09-01",
+          "evidence": "kc5",
+          "isAbsolute": true,
+          "note": "Reported by startups.co.uk (September 2026 article; exact date unknown, asOf approximate). Other search summaries gave 60,000 and 97,000, so figures are inconsistent and unverified."
+        },
+        {
+          "metric": "increase in Google searches for 'kinda chic'",
+          "value": 5000,
+          "unit": "percent (relative)",
+          "asOf": "2026-08-31",
+          "evidence": "kc1",
+          "isAbsolute": false,
+          "note": "Relative Google Trends-style figure stated in search summaries. Source page and baseline unknown; asOf approximate. Not volume."
+        }
+      ]
+    },
+    {
+      "name": "Jimothy the raccoon",
+      "aliases": [
+        "Jimothy",
+        "Saint Jimothy",
+        "King Jimothy",
+        "Jimothy Summer",
+        "hot Jimothy summer"
+      ],
+      "category": "character",
+      "summary": "A round, short-spined wild raccoon in Seattle's Ballard neighborhood that went viral in July 2026 and turned into a local mascot and merch phenomenon.",
+      "what": "Jimothy is a wild Seattle raccoon with an unusually short, rounded body (believed to be short spine syndrome) who scurries instead of walking. A resident's Instagram video named him 'Jimothy', went viral in July 2026, and made him a symbol of resilience and wholesomeness. He picked up Mariners tie-ins, an officially licensed bobblehead, a Google animation, a city 'Jimothy Summer' declaration, and a free Fortnite sidekick for Fortnitemares (Oct 1, 2026).",
+      "origin": {
+        "text": "Seattle resident Kiana Hall posted an Instagram video of the raccoon on 2026-07-14 and named him 'Jimothy' because 'he just looked like a Jimothy'.",
+        "date": "2026-07-14",
+        "evidence": [
+          "jm1",
+          "jm9"
+        ]
+      },
+      "adopters": {
+        "text": "A broad, wholesome-content audience. Seattle locals and Mariners fans (Salmon Run feature, card giveaway for Ballard Food Bank). Artists (fan art, tattoos, figurines, knit dolls). Faith and wellness writers framing him as a resilience symbol. Gamers and kids via Fortnite. Crypto speculators (a meme coin).",
+        "evidence": [
+          "jm1",
+          "jm4",
+          "jm14",
+          "jm16",
+          "jm17",
+          "jm18"
+        ]
+      },
+      "spread": {
+        "text": "Far beyond the original post: national press (Washington Post opinion, ABC/GMA, Today, The Hill syndicated to WGN), local TV (KOMO), legal press (Bloomberg Law, ABA Journal), e-commerce press (Fast Company, Shopifreaks), and gaming press (TheGamer, Vice) covering the Fortnite sidekick.",
+        "evidence": [
+          "jm1",
+          "jm2",
+          "jm3",
+          "jm4",
+          "jm5",
+          "jm7",
+          "jm8",
+          "jm9",
+          "jm14",
+          "jm19",
+          "jm10",
+          "jm20"
+        ]
+      },
+      "trajectory": {
+        "stage": "established_niche",
+        "text": "Viral explosion in July 2026, then ongoing institutional tie-ins through August and September (Mariners, bobblehead, city proclamation) and an Oct 1 Fortnite sidekick that keeps him in youth culture. Inference: past the novelty peak but settled as a durable Seattle mascot. No September/October interest data was retrieved; the session search budget ran out before follow-up checks.",
+        "evidence": [
+          "jm1",
+          "jm11",
+          "jm14",
+          "jm16"
+        ]
+      },
+      "productDemand": {
+        "text": "The strongest merch evidence in this lens. Fast Company reported that Jimothy shirts, mugs, sticker packs and figurines took over Etsy and Amazon within about a week. An officially licensed bobblehead is on presale. The Mariners made special merchandise. A Yahoo headline reports a teenager turned a free raccoon baseball card into more than $20K (collectible resale). This is real buyer activity, though the card is an outlier.",
+        "evidence": [
+          "jm5",
+          "jm7",
+          "jm11",
+          "jm13",
+          "jm1",
+          "jm6"
+        ]
+      },
+      "competition": {
+        "text": "Saturated. Bootleg-style tees, mugs and stickers flooded Etsy and Amazon within a week of the video. Redbubble has a Jimothy shop page. An 'Official Jimothy Raccoon Store' sells Mariners-themed and 'Make Noise For Jimothy 2026' shirts. A licensed bobblehead exists. Slogans like 'In a world full of trash pandas, be a Jimothy' and 'if jimothy can i can' are already used.",
+        "level": "saturated",
+        "evidence": [
+          "jm5",
+          "jm7",
+          "jm12",
+          "jm15",
+          "jm11"
+        ]
+      },
+      "gap": {
+        "text": "There's little room for generic Jimothy merch. The only plausible gap is a narrow Seattle-local holiday item (e.g., an original-art 'Saint Jimothy' ornament or holiday card for Seattle gift buyers), and even that is probably already contested.",
+        "isInference": true
+      },
+      "window": {
+        "estimate": "Already mature. Holiday 2026 is the last obvious gifting moment.",
+        "reasoning": "Merch supply has been flooding since July. The Fortnite tie-in sustains awareness among kids through October, but a new seller with no audience entering in October faces months of entrenched competition and weeks of discovery lag.",
+        "invalidators": [
+          "News about the raccoon's health or death changes the tone",
+          "Someone (e.g., the original videographer) asserts trademark or copyright claims and triggers marketplace takedowns",
+          "Interest fades after Fortnitemares"
+        ],
+        "seasonality": "Summer 2026 peak ('Jimothy Summer'). Holiday gifting is a possible last wave."
+      },
+      "rights": {
+        "risk": "medium",
+        "note": "IP attorneys quoted by ABA Journal and Bloomberg Law say the name and a generic drawn image likely can't be trademarked, though Kiana Hall might have a claim (a high bar). The original video and photos are copyrighted, so don't trace them. Mariners logos and uniforms, the Fortnite sidekick design, and the licensed bobblehead design are off-limits. 'Official' store and licensing activity means takedown risk could grow."
+      },
+      "scores": {
+        "timing": {
+          "score": 1,
+          "basis": "qualitative",
+          "rationale": "Entering about 3 months after a merch flood that began within a week of the video."
+        },
+        "buyerIntent": {
+          "score": 3,
+          "basis": "reported",
+          "rationale": "Press reports describe a merch boom, licensed products are on presale, and a card resale is reported. Real but unquantified consumer purchasing."
+        },
+        "supplyGap": {
+          "score": 1,
+          "basis": "reported",
+          "rationale": "Fast Company and Shopifreaks report Etsy and Amazon flooded, plus official and licensed products."
+        },
+        "productFit": {
+          "score": 3,
+          "basis": "qualitative",
+          "rationale": "An original cartoon raccoon is easy, but avoiding photo-derived art and team or game IP takes care."
+        },
+        "durability": {
+          "score": 2,
+          "basis": "qualitative",
+          "rationale": "Local-mascot status and the Fortnite tie-in help, but viral-animal interest usually decays and the subject is a wild animal with health issues."
+        },
+        "economics": {
+          "score": 2,
+          "basis": "qualitative",
+          "rationale": "Heavy price competition from many bootleg sellers compresses POD margins."
+        }
+      },
+      "recommendedAction": "pass",
+      "actionRationale": "Demand was real, but the market was flooded within days, licensed and 'official' products exist, and a new solo seller has no edge in October. Pass on general Jimothy merch. Revisit only if a new catalyst appears (e.g., a TV project, which The Hill hinted at) or for a narrow Seattle-local holiday item with original art.",
+      "products": [
+        {
+          "buyer": "Seattle-area gift buyers and Jimothy fans shopping for holiday ornaments and cards (only if revisited)",
+          "format": "other",
+          "theme": "Original-art 'Saint Jimothy' round-raccoon ceramic ornament or holiday card with 'Season's Scurryings from Ballard'. No team or game marks.",
+          "whyBuy": "Local-pride holiday gift for a city that officially celebrated 'Jimothy Summer'",
+          "evidence": [
+            "jm16",
+            "jm5"
+          ],
+          "differentiation": "Holiday and local framing rather than generic tees. Probably still contested.",
+          "channels": [
+            "Etsy",
+            "Instagram"
+          ],
+          "effort": "low",
+          "effortHours": 4,
+          "leadTimeDays": 4,
+          "fulfillment": "pod",
+          "validationTest": "Not recommended now. If revisited, list one ornament and check whether 'jimothy ornament' search results are already crowded before investing.",
+          "continueIf": "Search shows few holiday-specific Jimothy items AND the listing gets 5+ sales by Dec 1",
+          "pivotIf": "n/a",
+          "stopIf": "Holiday Jimothy items are already abundant, or there's no sale within 3 weeks",
+          "rightsNote": "Original art only. No traced photos, no Mariners or Fortnite marks, no 'official' claims."
+        }
+      ],
+      "unresolved": [
+        "September/October trajectory not verified (search budget ran out)",
+        "Who operates the 'Official Jimothy Raccoon Store', and whether any trademark has been filed",
+        "Whether holiday-specific Jimothy products are already common",
+        "The Hill headline hints at TV; details unknown"
+      ],
+      "evidence": [
+        {
+          "id": "jm1",
+          "url": "https://en.wikipedia.org/wiki/Jimothy_(raccoon)",
+          "title": "Jimothy (raccoon)",
+          "publisher": "Wikipedia",
+          "publishedAt": null,
+          "retrievedAt": "2026-10-04T20:57:55Z",
+          "accessMethod": "web_search_result",
+          "signalType": "community",
+          "intent": "curiosity",
+          "claim": "Jimothy went viral in July 2026 from Kiana Hall's July 14 Instagram video and inspired a Google animation, bobblehead, Mariners merch and card giveaway, and a Fortnite appearance.",
+          "kind": "observed",
+          "syndicationOf": null,
+          "excerpt": "Search summary: short spine syndrome; the July 14 video got about 8 million Instagram views (another summary: 10 million within one week); Mariners Salmon Run, special merchandise, card giveaway for Ballard Food Bank; Etsy full of paintings, sculptures, stickers, knit dolls; tattoos."
+        },
+        {
+          "id": "jm2",
+          "url": "https://www.washingtonpost.com/opinions/2026/07/30/seattle-raccoon-jimothy-goes-viral/",
+          "title": "Opinion",
+          "publisher": "The Washington Post",
+          "publishedAt": "2026-07-30",
+          "retrievedAt": "2026-10-04T20:57:55Z",
+          "accessMethod": "web_search_result",
+          "signalType": "press",
+          "intent": "curiosity",
+          "claim": "National opinion coverage of Jimothy's virality.",
+          "kind": "observed",
+          "syndicationOf": null,
+          "excerpt": "URL indicates a Washington Post opinion piece on the viral Seattle raccoon."
+        },
+        {
+          "id": "jm3",
+          "url": "https://abcnews.com/GMA/Living/jimothy-raccoon-captures-internets-heart/story?id=135020936",
+          "title": "'Jimothy' the raccoon captures the internet's heart - ABC News",
+          "publisher": "ABC News / GMA",
+          "publishedAt": null,
+          "retrievedAt": "2026-10-04T20:57:55Z",
+          "accessMethod": "web_search_result",
+          "signalType": "press",
+          "intent": "curiosity",
+          "claim": "National TV and news coverage.",
+          "kind": "observed",
+          "syndicationOf": null,
+          "excerpt": "Headline only."
+        },
+        {
+          "id": "jm4",
+          "url": "https://komonews.com/news/local/who-is-jimothy-viral-rotund-raccoon-takes-seattle-and-the-internet-by-storm-video-social-media-short-spine-syndome-ballard-cute-animal-fan-art-residents-tourism-travel-summer-ballard-neighborhood-mariners",
+          "title": "Who is Jimothy? Seattle's viral rotund raccoon takes the Internet by storm",
+          "publisher": "KOMO News",
+          "publishedAt": null,
+          "retrievedAt": "2026-10-04T20:57:55Z",
+          "accessMethod": "web_search_result",
+          "signalType": "press",
+          "intent": "curiosity",
+          "claim": "Local TV coverage of Jimothy, fan art and the Mariners link.",
+          "kind": "observed",
+          "syndicationOf": null,
+          "excerpt": "Headline and URL keywords: fan art, tourism, Ballard, Mariners."
+        },
+        {
+          "id": "jm5",
+          "url": "https://www.fastcompany.com/91576506/jimothy-the-raccoon-shirts-mugs-stickers-merch-etsy-amazon",
+          "title": "Jimothy the raccoon shirts, mugs, stickers take over Etsy, Amazon - Fast Company",
+          "publisher": "Fast Company",
+          "publishedAt": null,
+          "retrievedAt": "2026-10-04T20:57:55Z",
+          "accessMethod": "web_search_result",
+          "signalType": "press",
+          "intent": "purchase",
+          "claim": "Within about a week of the video, bootleg Jimothy tees, mugs, sticker packs and figurines were already on Etsy and Amazon (WebFetch blocked).",
+          "kind": "observed",
+          "syndicationOf": null,
+          "excerpt": "Search summary: '90s superhero' style bootleg tees; mugs, sticker packs, hand-painted figurines; slogans like 'In a world full of trash pandas, be a Jimothy', 'if jimothy can i can', 'be kind of feral'."
+        },
+        {
+          "id": "jm6",
+          "url": "https://www.yahoo.com/entertainment/articles/jimothy-raccoon-merch-taking-over-170500723.html",
+          "title": "Jimothy the raccoon merch is taking over Etsy and Amazon",
+          "publisher": "Yahoo Entertainment (likely syndicated)",
+          "publishedAt": null,
+          "retrievedAt": "2026-10-04T20:57:55Z",
+          "accessMethod": "web_search_result",
+          "signalType": "press",
+          "intent": "purchase",
+          "claim": "Likely a syndicated copy of the Fast Company merch story (same framing).",
+          "kind": "observed",
+          "syndicationOf": "jm5",
+          "excerpt": "Headline mirrors the Fast Company piece."
+        },
+        {
+          "id": "jm7",
+          "url": "https://www.shopifreaks.com/jimothy-the-raccoon-merch-floods-etsy-and-amazon-within-a-week-of-a-seattle-backyard-video-racking-up-millions-of-views/",
+          "title": "Jimothy the raccoon merch floods Etsy and Amazon within a week of a Seattle backyard video racking up millions of views",
+          "publisher": "Shopifreaks",
+          "publishedAt": null,
+          "retrievedAt": "2026-10-04T20:57:55Z",
+          "accessMethod": "web_search_result",
+          "signalType": "press",
+          "intent": "purchase",
+          "claim": "An e-commerce newsletter also reported the merch flood within a week. It may be derived from Fast Company's reporting.",
+          "kind": "observed",
+          "syndicationOf": null,
+          "excerpt": "Headline only."
+        },
+        {
+          "id": "jm8",
+          "url": "https://www.abajournal.com/news/article/jimothy-the-raccoon-is-too-popular-to-be-owned-ip-attorneys-say",
+          "title": "Is Jimothy the raccoon too popular to be owned? IP attorneys weigh in",
+          "publisher": "ABA Journal",
+          "publishedAt": null,
+          "retrievedAt": "2026-10-04T20:57:55Z",
+          "accessMethod": "web_search_result",
+          "signalType": "press",
+          "intent": "utility",
+          "claim": "IP attorneys say the name and a generic drawn image likely can't be protected as a trademark, though the original videographer might have a hard-to-prove claim.",
+          "kind": "observed",
+          "syndicationOf": null,
+          "excerpt": "'The name of the raccoon, in all likelihood, and a general image of the raccoon drawn however you would, would not theoretically be possible to be protected as a trademark' (per search summary)."
+        },
+        {
+          "id": "jm9",
+          "url": "https://news.bloomberglaw.com/litigation/jimothy-the-raccoons-popularity-undermines-the-right-to-own-him",
+          "title": "Jimothy the Raccoon's Popularity Undermines the Right to Own Him",
+          "publisher": "Bloomberg Law",
+          "publishedAt": null,
+          "retrievedAt": "2026-10-04T20:57:55Z",
+          "accessMethod": "web_search_result",
+          "signalType": "press",
+          "intent": "utility",
+          "claim": "Legal press: viral popularity undermines anyone's ability to own the Jimothy name and image.",
+          "kind": "observed",
+          "syndicationOf": null,
+          "excerpt": "Headline only; summary notes Kiana Hall named him."
+        },
+        {
+          "id": "jm10",
+          "url": "https://iipla.org/news/legal-experts-say-viral-raccoon-jimothy-s-name-and-image-resist-trademark-ownership",
+          "title": "Legal Experts Say Viral Raccoon Jimothy's Name and Image Resist Trademark Ownership",
+          "publisher": "IIPLA",
+          "publishedAt": null,
+          "retrievedAt": "2026-10-04T20:57:55Z",
+          "accessMethod": "web_search_result",
+          "signalType": "press",
+          "intent": "utility",
+          "claim": "Restates the same legal-expert view. Likely derivative of ABA Journal/Bloomberg Law coverage.",
+          "kind": "observed",
+          "syndicationOf": "jm8",
+          "excerpt": "Headline only."
+        },
+        {
+          "id": "jm11",
+          "url": "https://store.bobbleheadhall.com/products/jimothy",
+          "title": "Jimothy the Raccoon Bobblehead (Presale)",
+          "publisher": "National Bobblehead Hall of Fame and Museum store",
+          "publishedAt": null,
+          "retrievedAt": "2026-10-04T20:57:55Z",
+          "accessMethod": "web_search_result",
+          "signalType": "marketplace",
+          "intent": "purchase",
+          "claim": "An officially licensed, limited-edition Jimothy bobblehead is on presale.",
+          "kind": "observed",
+          "syndicationOf": null,
+          "excerpt": "Presale product page; KMPH reports it as the first officially licensed bobblehead."
+        },
+        {
+          "id": "jm12",
+          "url": "https://officialjimothyraccoonstore.com/",
+          "title": "Official Jimothy Raccoon Store - Unisex Apparel & Merchandise",
+          "publisher": "officialjimothyraccoonstore.com",
+          "publishedAt": null,
+          "retrievedAt": "2026-10-04T20:57:55Z",
+          "accessMethod": "web_search_result",
+          "signalType": "marketplace",
+          "intent": "none",
+          "claim": "A self-described official store sells Mariners-themed and 'Make Noise For Jimothy 2026' shirts. Its 'official' status is unverified.",
+          "kind": "observed",
+          "syndicationOf": null,
+          "excerpt": "Store homepage per search summary."
+        },
+        {
+          "id": "jm13",
+          "url": "https://yahoo.com/entertainment/articles/teenager-turns-free-raccoon-baseball-110003532.html",
+          "title": "Teenager Turns Free Raccoon Baseball Card Into More Than $20K",
+          "publisher": "Yahoo Entertainment",
+          "publishedAt": null,
+          "retrievedAt": "2026-10-04T20:57:55Z",
+          "accessMethod": "web_search_result",
+          "signalType": "press",
+          "intent": "purchase",
+          "claim": "A teenager reportedly turned a free raccoon baseball card (likely the Mariners Jimothy giveaway) into more than $20K. That's collectible-resale demand, and an outlier.",
+          "kind": "observed",
+          "syndicationOf": null,
+          "excerpt": "Headline only; the link to the Jimothy card giveaway is inferred from the search context."
+        },
+        {
+          "id": "jm14",
+          "url": "https://thegamer.com/how-unlock-jimothy-sidekick-fortnite",
+          "title": "Fortnite Now Has A Jimothy Sidekick You Unlock For Free",
+          "publisher": "TheGamer",
+          "publishedAt": null,
+          "retrievedAt": "2026-10-04T20:57:55Z",
+          "accessMethod": "web_search_result",
+          "signalType": "press",
+          "intent": "curiosity",
+          "claim": "Epic Games added a free Jimothy sidekick to Fortnite for Fortnitemares 2026 (live Oct 1, per related results).",
+          "kind": "observed",
+          "syndicationOf": null,
+          "excerpt": "Unlock by finding and extracting a Dumpster Dive Sprite (per Vice/esports.gg summaries)."
+        },
+        {
+          "id": "jm15",
+          "url": "https://www.redbubble.com/shop/jimothy",
+          "title": "Jimothy Merch & Gifts for Sale",
+          "publisher": "Redbubble",
+          "publishedAt": null,
+          "retrievedAt": "2026-10-04T20:57:55Z",
+          "accessMethod": "web_search_result",
+          "signalType": "marketplace",
+          "intent": "none",
+          "claim": "Redbubble has a Jimothy shop/search page, adding to the competition.",
+          "kind": "observed",
+          "syndicationOf": null,
+          "excerpt": "Shop page title."
+        },
+        {
+          "id": "jm16",
+          "url": "https://komonews.com/news/local/photos-seattle-officially-declares-jimothy-summer-to-honor-internet-famous-raccoon-raccoon-short-spine-syndrome-viral-ballard-art-celebration-government-travel-tourism-parade-weekend",
+          "title": "PHOTOS: Seattle officially declares 'Jimothy Summer' to honor Internet-famous raccoon",
+          "publisher": "KOMO News",
+          "publishedAt": null,
+          "retrievedAt": "2026-10-04T20:57:55Z",
+          "accessMethod": "web_search_result",
+          "signalType": "press",
+          "intent": "curiosity",
+          "claim": "Seattle officially declared 'Jimothy Summer', which shows institutional, local-pride adoption.",
+          "kind": "observed",
+          "syndicationOf": null,
+          "excerpt": "Headline; URL keywords mention art celebration and parade weekend."
+        },
+        {
+          "id": "jm17",
+          "url": "https://pres-outlook.org/2026/07/the-patron-saint-of-wholesome/",
+          "title": "The patron saint of wholesome - The Presbyterian Outlook",
+          "publisher": "The Presbyterian Outlook",
+          "publishedAt": "2026-07-01",
+          "retrievedAt": "2026-10-04T20:57:55Z",
+          "accessMethod": "web_search_result",
+          "signalType": "press",
+          "intent": "curiosity",
+          "claim": "A faith publication framed Jimothy as a wholesome or resilience symbol (July 2026; exact day unknown).",
+          "kind": "observed",
+          "syndicationOf": null,
+          "excerpt": "Headline only; publishedAt uses the first of the month from the URL path."
+        },
+        {
+          "id": "jm18",
+          "url": "https://phemex.com/academy/kiana-hall-raccoon-meme-coin",
+          "title": "Who Is Kiana Hall? The Raccoon Video Behind a 52x Meme Coin",
+          "publisher": "Phemex Academy",
+          "publishedAt": null,
+          "retrievedAt": "2026-10-04T20:57:55Z",
+          "accessMethod": "web_search_result",
+          "signalType": "press",
+          "intent": "none",
+          "claim": "A crypto exchange blog describes a meme coin tied to the raccoon video. This is speculation, not product demand.",
+          "kind": "observed",
+          "syndicationOf": null,
+          "excerpt": "Headline only; '52x' is the blog's claim, not verified."
+        },
+        {
+          "id": "jm19",
+          "url": "https://thehill.com/media/5983866-who-is-jimothy-the-short-spined-raccoon-taking-over-social-media-and-maybe-your-tv/",
+          "title": "Who is Jimothy, the short-spined raccoon taking over social media (and maybe your TV)",
+          "publisher": "The Hill",
+          "publishedAt": null,
+          "retrievedAt": "2026-10-04T20:57:55Z",
+          "accessMethod": "web_search_result",
+          "signalType": "press",
+          "intent": "curiosity",
+          "claim": "National politics/media outlet coverage hints at a TV angle (details not visible).",
+          "kind": "observed",
+          "syndicationOf": null,
+          "excerpt": "Headline only; also carried by WGN."
+        },
+        {
+          "id": "jm20",
+          "url": "https://wgntv.com/entertainment-news/who-is-jimothy-the-short-spined-raccoon-taking-over-social-media-and-maybe-your-tv/",
+          "title": "Who is Jimothy, the short-spined raccoon taking over social media (and maybe your TV)",
+          "publisher": "WGN-TV (syndicated)",
+          "publishedAt": null,
+          "retrievedAt": "2026-10-04T20:57:55Z",
+          "accessMethod": "web_search_result",
+          "signalType": "press",
+          "intent": "curiosity",
+          "claim": "Syndicated copy of The Hill's story.",
+          "kind": "observed",
+          "syndicationOf": "jm19",
+          "excerpt": "Same headline."
+        }
+      ],
+      "observations": [
+        {
+          "metric": "Instagram views of Kiana Hall's original July 14 video",
+          "value": 8000000,
+          "unit": "views (approximate)",
+          "asOf": "2026-10-04",
+          "evidence": "jm1",
+          "isAbsolute": true,
+          "note": "Reported via search summary of Wikipedia. Another summary said 10 million within one week, and ABA-context results said more than 10 million across social media. Measurement date unknown. Not independently verified."
+        },
+        {
+          "metric": "resale value of a free raccoon baseball card",
+          "value": 20000,
+          "unit": "USD (lower bound, 'more than $20K')",
+          "asOf": "2026-10-04",
+          "evidence": "jm13",
+          "isAbsolute": true,
+          "note": "Reported in a Yahoo headline. An outlier collectible event, not typical merch demand. The link to the Jimothy giveaway is inferred."
+        }
+      ]
+    }
+  ]
+}

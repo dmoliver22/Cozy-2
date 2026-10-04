@@ -1,0 +1,13 @@
+{
+  "id": "needlepoint-revival~774a91b0",
+  "candidateId": "needlepoint-revival",
+  "metric": "TikTok videos tagged #Needlepoint",
+  "unit": "videos ('over')",
+  "value": 119000,
+  "asOf": "2026-01-20",
+  "evidenceId": "needlepoint-revival~18f0d86e",
+  "isAbsolute": true,
+  "note": "reported by YPulse; not independently verified",
+  "runId": "run-2026-10-04-hobbies",
+  "recordedAt": "2026-10-04T21:01:01.000Z"
+}

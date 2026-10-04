@@ -1,0 +1,1467 @@
+{
+  "lens": "Aesthetics, decor, style and visual micro-trends (fall 2026) that create demand for wall art/posters, printables, stationery, digital planners, phone wallpapers, stickers or journals",
+  "researchedAt": "2026-10-04T21:00:56Z",
+  "sourcesTried": [
+    {
+      "source": "WebSearch (standard + extended)",
+      "method": "WebSearch",
+      "status": "ok",
+      "note": "38 successful queries. The 39th query returned 'web search budget exhausted (200 of 200 calls for this session)' - the budget is shared across the session, so no further searches were possible. As a result, marketplace competition checks for the Cosmic Reset and Poetcore product angles, the Practical Magic 2 home-release date, and 'analog lifestyle' paper-planner evidence could NOT be run."
+    },
+    {
+      "source": "Pinterest Newsroom (2026 Hobbies Trend Report)",
+      "method": "WebFetch",
+      "status": "blocked",
+      "note": "newsroom.pinterest.com blocked by egress proxy; all Pinterest figures below come from search-result summaries of the newsroom page and of press coverage."
+    },
+    {
+      "source": "Fashionista (Practical Magic 2 brand partnerships article)",
+      "method": "WebFetch",
+      "status": "blocked",
+      "note": "fashionista.com blocked."
+    },
+    {
+      "source": "Yahoo Lifestyle (Kitchen Witch article)",
+      "method": "WebFetch",
+      "status": "blocked",
+      "note": "www.yahoo.com blocked."
+    },
+    {
+      "source": "LBB Online (Hobbies report coverage)",
+      "method": "WebFetch",
+      "status": "blocked",
+      "note": "lbbonline.com blocked."
+    },
+    {
+      "source": "WWD (Pinterest fall 2026 trend report coverage)",
+      "method": "WebFetch",
+      "status": "blocked",
+      "note": "wwd.com blocked."
+    },
+    {
+      "source": "Google Trends",
+      "method": "WebFetch",
+      "status": "not_tried",
+      "note": "Listed as blocked in the brief; no search-interest time series was measured for any candidate."
+    },
+    {
+      "source": "Etsy search / listing pages",
+      "method": "WebFetch",
+      "status": "not_tried",
+      "note": "Blocked per brief. Etsy listings were seen only as search-result titles/snippets; no listing counts were measured."
+    },
+    {
+      "source": "Pinterest Trends tool",
+      "method": "WebFetch",
+      "status": "not_tried",
+      "note": "pinterest.com blocked per brief."
+    },
+    {
+      "source": "TikTok discover pages",
+      "method": "WebSearch",
+      "status": "ok",
+      "note": "Only discover-page titles and search summaries were visible; no view counts were seen or recorded."
+    },
+    {
+      "source": "Reddit",
+      "method": "WebFetch",
+      "status": "not_tried",
+      "note": "Blocked per brief."
+    }
+  ],
+  "discovered": [
+    {
+      "name": "Kitchen Witch (Practical Magic 2-era witchy apothecary kitchen)",
+      "whyConsidered": "Named trend in Pinterest's 2026 Hobbies Trend Report (released ~2026-08-25) with large reported search increases; reinforced by Practical Magic 2's No. 1 box-office opening (weekend of 2026-09-11/13), licensed decor/apparel partnerships, TikTok kitchen-makeover content and fall design press.",
+      "disposition": "deep_dived",
+      "rejectReason": ""
+    },
+    {
+      "name": "Cosmic Reset (beginner astrology, tarot, crystals, astrocartography)",
+      "whyConsidered": "Pinterest 2026 Hobbies Trend Report reported the largest figures in the report for this trend ('learn astrology' +733%, 'crystals and meanings' +606%, 'tarot cards for beginners' +558%); aligns with New-Year / 2027 planner buying.",
+      "disposition": "deep_dived",
+      "rejectReason": ""
+    },
+    {
+      "name": "Poetcore (the poet aesthetic)",
+      "whyConsidered": "Pinterest Predicts 2026 ('the poet aesthetic' +175%), picked up across fashion press in Dec 2025-Jan 2026 and described as an autumn 2026 trend; literary theme maps naturally to stationery, journals and poetry posters.",
+      "disposition": "deep_dived",
+      "rejectReason": ""
+    },
+    {
+      "name": "Whimsigoth",
+      "whyConsidered": "Fall 2026 design press (Inman, 2026-09-11) and licensed Practical Magic 2 collections (MacKenzie-Childs, Wayfair) frame the film's look as whimsigoth.",
+      "disposition": "rejected",
+      "rejectReason": "Not a separate candidate: same demand driver (Practical Magic 2) and overlapping motifs as Kitchen Witch, so merged into that candidate as an alias/adjacent aesthetic per the dedup rule."
+    },
+    {
+      "name": "Weekend Equestrian / equestrian decor",
+      "whyConsidered": "Pinterest Hobbies report: 'barn jacket outfit women' +1,109%, 'equestrian aesthetic outfit' +219% (reported via WWD); Homes & Gardens and House Digest call equestrian decor a 2026 trend.",
+      "disposition": "rejected",
+      "rejectReason": "Pinterest signal is apparel (barn jackets, riding boots), not wall art or paper goods; decor coverage advises against on-the-nose horse motifs (a single statement piece); horse-print competition could not be checked after search budget ran out. Watch for 2027."
+    },
+    {
+      "name": "Home Cafe Engineering (vintage coffee corner)",
+      "whyConsidered": "Pinterest Hobbies report: 'vintage coffee corner' +430%; a secondary article also cites 'coffee station ideas party' +624%. Natural fit for coffee-bar menu printables and cafe wall art.",
+      "disposition": "rejected",
+      "rejectReason": "Evidence limited to Pinterest's report via secondary summaries; competition for coffee-bar signs/menus could not be checked (search budget exhausted) and is plausibly heavy given how long coffee-bar decor has been sold. Good fallback idea, but less evidenced than the three deep dives."
+    },
+    {
+      "name": "Curated Clutter (styled collections / cluttercore)",
+      "whyConsidered": "Pinterest Hobbies report trend covered by Domino and Apartment Therapy (Pokemon cards +570%, figure display shelf +79%, DVD collection display +41%).",
+      "disposition": "rejected",
+      "rejectReason": "Demand is for physical collectibles and display furniture, much of it fandom IP (Pokemon, anime); weak fit for original printables/POD."
+    },
+    {
+      "name": "Backyard Botanist (herbarium / field-guide sketching)",
+      "whyConsidered": "Pinterest Hobbies report trend: pressed flowers, watercolour sketchbooks, illustrated field guides.",
+      "disposition": "rejected",
+      "rejectReason": "Adopters want to make their own art rather than buy it; vintage botanical prints are a long-established evergreen category; the herb/apothecary overlap is captured by the Kitchen Witch candidate."
+    },
+    {
+      "name": "Neo Deco (Art Deco revival)",
+      "whyConsidered": "Pinterest Predicts 2026 interiors trend (vintage bar carts +100%, red marble bathrooms +80%, pendant lamps +40% per nss magazine), and Houzz also listed an Art Deco revival for 2026.",
+      "disposition": "rejected",
+      "rejectReason": "Driven by furniture and finishes (chrome, brass, fluted glass); Art Deco posters are a long-standing evergreen print category; no fall-2026 acceleration signal found. Possible New Year's Eve party-printable angle, but not differentiated."
+    },
+    {
+      "name": "Extra Celestial / alien-core (Pinterest 'Ovnipresent')",
+      "whyConsidered": "Pinterest Predicts 2026: 'alien core aesthetic' +80%, 'opalescent' +115% (reported via AOL/House Digest syndication).",
+      "disposition": "rejected",
+      "rejectReason": "Data is from Sept 2024-Aug 2025; no fall-2026 follow-up signal found; holographic/opalescent finishes don't translate well to flat prints. The celestial appetite is better captured by the Cosmic Reset candidate."
+    },
+    {
+      "name": "FunHaus / Chapithome (circus stripes decor)",
+      "whyConsidered": "Pinterest Predicts 2026 interiors trend (bold stripes, sculptural shapes, a touch of camp).",
+      "disposition": "rejected",
+      "rejectReason": "No 2026 follow-up evidence found; furniture/textile-led; insufficient evidence."
+    },
+    {
+      "name": "Afrohemian decor",
+      "whyConsidered": "Pinterest Predicts 2026: Afro-bohemian decor +220%, Berber +210% (reported).",
+      "disposition": "rejected",
+      "rejectReason": "No fall-2026 follow-up signal; draws on specific African textile and art traditions (adire, Ethiopian art), which raises appropriation risk for a creator outside those communities; better served by creators from them."
+    },
+    {
+      "name": "Laced Up (lace / doily motifs)",
+      "whyConsidered": "Pinterest Predicts 2026: lace nails +215%, lace bandanas +150%, lace doily +105%.",
+      "disposition": "rejected",
+      "rejectReason": "Beauty/fashion-led and close to the fading coquette look; weak printable fit beyond generic digital papers; no fall-2026 follow-up signal."
+    },
+    {
+      "name": "Glamoratti (80s luxury)",
+      "whyConsidered": "Pinterest Predicts 2026: '80s luxury' +225%, baggy suits +90%.",
+      "disposition": "rejected",
+      "rejectReason": "Fashion/beauty trend with no clear paper-goods or wall-art demand."
+    },
+    {
+      "name": "Whimsymaxxing",
+      "whyConsidered": "PureWow, TODAY and Inside Retail describe it as a maximalist joy trend (bag charms, stacked accessories, rhinestones); a September 2026 TikTok roundup listed it.",
+      "disposition": "rejected",
+      "rejectReason": "Mostly about physical accessories and embellishing objects; TODAY framed it as a summer trend; weak fit for digital/POD paper goods (stickers possible but undifferentiated)."
+    },
+    {
+      "name": "Gothic romance / 'Wuthering Heights' effect",
+      "whyConsidered": "Numero, Dengarden and others tie a 2026 shift to dark romanticism (corsets, lace, velvet, burgundy) to the February 2026 Wuthering Heights film.",
+      "disposition": "rejected",
+      "rejectReason": "The film came out eight months ago; the signal is fashion/wedding-led. For fall, the darker romantic decor appetite overlaps the Kitchen Witch/whimsigoth candidate, which has a fresher catalyst."
+    },
+    {
+      "name": "Narnia (Greta Gerwig's The Magician's Nephew) aesthetic",
+      "whyConsidered": "Was expected as a Thanksgiving-2026 IMAX release that could drive a wintry Narnia aesthetic.",
+      "disposition": "rejected",
+      "rejectReason": "Release moved to Feb 12, 2027 (IMAX previews Feb 10; Netflix Apr 2, 2027) per Variety/ABC; outside the Q4 2026 window; high IP risk. Watch for Q1 2027."
+    },
+    {
+      "name": "Etsy 2026 Color/Texture of the Year: Patina Blue and Washed Linen",
+      "whyConsidered": "Etsy's official 2026 picks; Etsy reported linen clothing searches up over 1,200%.",
+      "disposition": "rejected",
+      "rejectReason": "A color and a fabric, not a motif; the linen signal is for physical textiles/clothing."
+    },
+    {
+      "name": "Plum Noir / 'plum, olive and fig' palette",
+      "whyConsidered": "eRank's Fall 2026 Etsy-seller blog flags Plum Noir for stationery and dark florals; one result cited 'plum and olive wedding' +1,380%.",
+      "disposition": "rejected",
+      "rejectReason": "A palette, not an aesthetic; comes from third-party SEO/seller-tool blogs; the source of the +1,380% figure could not be traced."
+    },
+    {
+      "name": "Snowy leopard print",
+      "whyConsidered": "eRank Fall 2026 blog: grey/white/black leopard on faux fur, velvet, fleece.",
+      "disposition": "rejected",
+      "rejectReason": "Textile/apparel pattern from a third-party blog; generic; weak paper-goods fit."
+    },
+    {
+      "name": "Polka dots",
+      "whyConsidered": "Etsy reported polka dot phone cases +835% in its 2026 trend coverage.",
+      "disposition": "rejected",
+      "rejectReason": "A spring/summer 2026 signal for phone cases; generic pattern with no defensible angle for fall."
+    },
+    {
+      "name": "Nutcrackercore",
+      "whyConsidered": "Third-party Etsy-trend blogs claim '1000% year-over-year growth' in related searches.",
+      "disposition": "rejected",
+      "rejectReason": "Figure appears only in SEO blogs without a traceable Etsy source and may be recycled from an earlier year; nutcracker holiday decor is an established, crowded seasonal category. Not verified."
+    }
+  ],
+  "candidates": [
+    {
+      "name": "Kitchen Witch (Practical Magic 2-era witchy apothecary kitchen)",
+      "aliases": [
+        "Kitchen Witch",
+        "witch's kitchen",
+        "cottage witch kitchen",
+        "Practical Magic aesthetic",
+        "hearth witch",
+        "whimsigoth (adjacent)",
+        "witchy apothecary"
+      ],
+      "category": "aesthetic",
+      "summary": "A cozy, old-world witchy kitchen look - labeled herb and apothecary jars, dried flowers, candles, copper, moons - that Pinterest named a fall-2026 trend and that Practical Magic 2 pushed into the mainstream.",
+      "what": "Kitchen Witch is a decor and hobby aesthetic built on herbs and home craft: apothecary-style labeled jars on open shelves, drying herbs and flowers, homemade spice blends, beeswax candles and vintage 'old-world' decor. It sits between cottagecore and the 90s whimsigoth look made famous by the 1998 film Practical Magic. In 2026 Pinterest gave it a name, and the September 2026 sequel brought licensed retail collections.",
+      "origin": {
+        "text": "Long-standing witchy/cottage-witch subculture and 1998 Practical Magic nostalgia. Pinterest named 'Kitchen Witch' in its 2026 Hobbies Trend Report (released around 2026-08-25, data May 2025 vs May 2026), shortly before Practical Magic 2 opened at No. 1 on the weekend of Sept 11-13, 2026.",
+        "date": "2026-08-25",
+        "evidence": [
+          "kw1",
+          "kw2",
+          "kw4"
+        ]
+      },
+      "adopters": {
+        "text": "Pinterest hobby users pursuing herbal crafts (herbal apothecary, spice blends, candle making); TikTok creators doing Practical Magic-inspired kitchen makeovers, including renters; nostalgic millennial fans of the 1998 film; whimsigoth and dark-cottage decor fans. Why they care: hands-on, offline hobbies plus a nostalgic, cozy seasonal look.",
+        "evidence": [
+          "kw1",
+          "kw3",
+          "kw12",
+          "kw14"
+        ]
+      },
+      "spread": {
+        "text": "The trend shows up independently in Pinterest's own data, consumer press, real-estate/design press (Inman), TikTok creator clusters, and retail licensing (Target, Wayfair, MacKenzie-Childs). Much of the press restates Pinterest's numbers, so those articles are one signal. The film is a strong, separate catalyst.",
+        "evidence": [
+          "kw1",
+          "kw3",
+          "kw8",
+          "kw9",
+          "kw10",
+          "kw11",
+          "kw12"
+        ]
+      },
+      "trajectory": {
+        "stage": "mainstream_surge",
+        "text": "Accelerating into October: Pinterest reports large increases (May-to-May), and the film's No. 1 opening plus licensed collections pushed the look into mass retail in September. Expect the film spike to fade after Halloween. The underlying witchy/herbal hobby is long-lived, so a smaller winter (Yule/solstice) tail is plausible (inference). No time-series data (Google Trends) could be measured.",
+        "evidence": [
+          "kw1",
+          "kw4",
+          "kw8",
+          "kw11"
+        ]
+      },
+      "productDemand": {
+        "text": "Purchase-adjacent signals: big retailers licensed decor and apparel (Wayfair, MacKenzie-Childs, Target), and fan goods sell on Etsy at $8 (digital prints) to $44 (sweaters). The Pinterest searches are utility/hobby intent ('herbal apothecary', 'homemade spice blends', 'candle making tutorial'), which fits functional printables like jar labels and recipe/herb journals. No sales figures were seen.",
+        "evidence": [
+          "kw1",
+          "kw8",
+          "kw9",
+          "kw10",
+          "kw15",
+          "kw16"
+        ]
+      },
+      "competition": {
+        "text": "Halloween-style potion/apothecary labels (Eye of Newt and similar) are already sold as downloads on Payhip and Etsy, and Practical Magic-inspired signs, pins, sweaters and prints exist. Licensed brands now hold the film-branded space. Counts could not be measured. The visible supply leans toward Halloween novelty and film references, not functional year-round herb/pantry systems.",
+        "level": "moderate",
+        "evidence": [
+          "kw15",
+          "kw16",
+          "kw17",
+          "kw10"
+        ]
+      },
+      "gap": {
+        "text": "An original, non-film, non-Halloween 'kitchen witch pantry' system: functional labels for real culinary herbs, spices, teas and homemade blends (plus editable blanks) in a vintage-apothecary look, paired with a herb/recipe 'grimoire' journal. This serves the utility searches (herbal apothecary, spice blends) and stays sellable after Oct 31 and as Yule/holiday gifts.",
+        "isInference": true
+      },
+      "window": {
+        "estimate": "Now through about late December 2026 for digital products; POD only for holiday/Yule gifting, not Halloween.",
+        "reasoning": "Digital delivery is instant, but new listings take weeks to be discovered, so Halloween demand (27 days away) is mostly out of reach. The aesthetic is autumn-winter rather than Halloween-only: herbs, candles and cozy kitchens carry into winter solstice/Yule (Dec 21) and holiday gifting. The film's home release could create a second spike, but its date was not verified.",
+        "invalidators": [
+          "Interest collapses right after Halloween (watch Pinterest/Etsy engagement on test pins and listings in early November)",
+          "Licensed Practical Magic 2 goods and Halloween label sellers crowd out new listings",
+          "IP complaints if listings use the film's name, characters or lines"
+        ],
+        "seasonality": "Peaks Sept-Oct (Halloween + film); secondary tail around winter solstice/Yule and holiday gifting; herb-pantry labels are useful year-round."
+      },
+      "rights": {
+        "risk": "medium",
+        "note": "Do NOT use 'Practical Magic', Owens-family names, film stills, logos, or film lines such as 'midnight margaritas' in designs, titles or tags. Warner Bros. is actively licensing (Target, Wayfair, MacKenzie-Childs), so enforcement is likely. Generic 'kitchen witch', apothecary, herb and moon motifs are fine. Treat witchcraft respectfully: frame herb content as culinary or traditional folklore, never as promised effects."
+      },
+      "scores": {
+        "timing": {
+          "score": 3,
+          "basis": "qualitative",
+          "rationale": "Strong, current catalyst (Sept 2026 film + Aug 2026 Pinterest report), but Halloween is too close for new-listing discovery; digital products can still catch the autumn-to-Yule tail."
+        },
+        "buyerIntent": {
+          "score": 3,
+          "basis": "qualitative",
+          "rationale": "Licensed retail collections and existing fan goods at $8-$44 suggest people buy into the look; Pinterest searches show utility intent (herbal apothecary, spice blends). No sales data."
+        },
+        "supplyGap": {
+          "score": 2,
+          "basis": "qualitative",
+          "rationale": "Halloween potion labels and film-inspired goods already exist; the gap is narrower: functional, non-IP, year-round herb/pantry systems."
+        },
+        "productFit": {
+          "score": 4,
+          "basis": "qualitative",
+          "rationale": "Labels, journals and herb charts are quick to design with common tools and AI-assisted ornament; no inventory."
+        },
+        "durability": {
+          "score": 3,
+          "basis": "qualitative",
+          "rationale": "The film spike will fade, but witchy/cottage-witch decor and herbal hobbies have persisted for years (Practical Magic 1998 cult status, whimsigoth)."
+        },
+        "economics": {
+          "score": 3,
+          "basis": "qualitative",
+          "rationale": "Digital downloads carry near-zero marginal cost at typical low price points; KDP/POD prints have thinner margins. No revenue forecast implied."
+        }
+      },
+      "recommendedAction": "test_now",
+      "actionRationale": "Evidence of demand comes from several independent sources: Pinterest-reported utility searches, a No. 1 film, and broad retail licensing. There is a credible original product angle (functional herb-pantry labels and a herb/recipe journal) that avoids the film's IP. Digital products can launch within days and still catch the autumn-to-Yule window. Test with digital only. Skip Halloween-specific designs and POD for Halloween.",
+      "products": [
+        {
+          "buyer": "Home cooks and herbal hobbyists (mostly US women 25-45) restyling open shelves or a spice cabinet in the witchy-cottage look",
+          "format": "printable",
+          "theme": "'Kitchen Witch Pantry' apothecary label system: 60+ labels for real culinary herbs, spices, teas and homemade blends (rosemary, sage, chamomile, lavender, cinnamon, 'Hearth Blend'...), vintage-apothecary typography with moon and botanical ornament, plus editable blanks (Canva link + PDF) and round/rectangular sizes for mason and spice jars",
+          "whyBuy": "Matches the Pinterest utility searches ('herbal apothecary', homemade spice blends) and the labeled-jar look central to TikTok kitchen makeovers; still useful after Halloween.",
+          "evidence": [
+            "kw1",
+            "kw3",
+            "kw12",
+            "kw17"
+          ],
+          "differentiation": "Functional and year-round (real ingredients, editable), not Halloween novelty labels like 'Eye of Newt'; no film references.",
+          "channels": [
+            "Etsy",
+            "Pinterest",
+            "Gumroad"
+          ],
+          "effort": "low",
+          "effortHours": 8,
+          "leadTimeDays": 2,
+          "fulfillment": "digital",
+          "validationTest": "Publish one Etsy listing and one Gumroad page, plus 10 Pinterest pins (styled shelf mockups) that link to them; run for 21 days.",
+          "continueIf": "Pins earn saves/outbound clicks above your account baseline and the listing gets favorites plus at least a few sales within 21 days.",
+          "pivotIf": "Pins get saves but no sales: try a free 12-label sampler as a lead magnet or bundle with the journal; or reposition as 'apothecary spice labels' without the witch framing.",
+          "stopIf": "Almost no impressions or saves after 21 days and 20+ pins, or clicks without conversions after two price/thumbnail changes.",
+          "rightsNote": "Original typography and ornament only; avoid film names, quotes and imagery; use public-domain or self-made botanical art."
+        },
+        {
+          "buyer": "Gift buyers for witchy, cottagecore or herb-loving friends (Yule/solstice and holiday gifts), and the hobbyists themselves",
+          "format": "journal",
+          "theme": "'Kitchen Grimoire' herb and recipe journal: herb profile pages (culinary use, harvest, storage), blend recipe cards, a seasonal 'wheel of the year' kitchen calendar, and pressed-flower pages; sold as a printable PDF and as an Amazon KDP paperback",
+          "whyBuy": "Ties to Pinterest-reported spice-blend, candle and herbal-apothecary hobby searches; journal format suits holiday gifting.",
+          "evidence": [
+            "kw1",
+            "kw3",
+            "kw19"
+          ],
+          "differentiation": "Practical recipe/herb log with an old-world look rather than a spell book; no film IP; content framed as culinary and traditional folklore.",
+          "channels": [
+            "Amazon KDP",
+            "Etsy",
+            "Gumroad",
+            "Pinterest"
+          ],
+          "effort": "medium",
+          "effortHours": 16,
+          "leadTimeDays": 5,
+          "fulfillment": "pod",
+          "validationTest": "Sell the printable PDF on Etsy first (instant) for two weeks; publish the KDP paperback in parallel by about mid-October so it is live for holiday shopping.",
+          "continueIf": "The PDF converts at least as well as the label set, or KDP shows organic sales by mid-November.",
+          "pivotIf": "Buyers prefer the labels: fold journal pages into a larger 'Kitchen Witch Pantry' bundle.",
+          "stopIf": "No sales from either format by early December.",
+          "rightsNote": "Write original herb notes; do not present herbs as remedies or promise effects; no film references."
+        },
+        {
+          "buyer": "Renters and homeowners styling a kitchen or coffee nook in the whimsigoth/kitchen-witch look",
+          "format": "poster",
+          "theme": "Vintage herbarium-style culinary herb chart and moon-phase apothecary prints (set of 3) in deep jewel tones, sold as digital downloads with an optional POD print",
+          "whyBuy": "Design press recommends botanicals and apothecary-flair decor for the fall 2026 whimsigoth look; renters can decorate without remodeling.",
+          "evidence": [
+            "kw11",
+            "kw12",
+            "kw15"
+          ],
+          "differentiation": "Functional chart content (culinary pairings, harvest months) instead of a film-quote sign; consistent with the label set for cross-selling.",
+          "channels": [
+            "Etsy",
+            "Pinterest",
+            "Redbubble"
+          ],
+          "effort": "low",
+          "effortHours": 6,
+          "leadTimeDays": 2,
+          "fulfillment": "digital",
+          "validationTest": "Add as a digital listing and as a bundle add-on to the label set; track attach rate.",
+          "continueIf": "The bundle with prints sells as well as or better than labels alone.",
+          "pivotIf": "Prints don't attach: offer them free as Pinterest-traffic bait.",
+          "stopIf": "Zero standalone sales and no bundle lift after 3 weeks.",
+          "rightsNote": "Use public-domain botanical illustrations (verify pre-1931 publication) or original art; no film imagery."
+        }
+      ],
+      "unresolved": [
+        "When Practical Magic 2 reaches home viewing (digital/streaming) - not verified, and it could create a second spike.",
+        "Actual Etsy listing counts and sales velocity for 'kitchen witch labels' / 'apothecary spice labels' (Etsy not accessible).",
+        "Whether Pinterest's global May-to-May increases reflect US buyers specifically, and how much of the interest ends at Halloween.",
+        "Pinterest figures were seen only through search summaries of the newsroom page, not the page itself."
+      ],
+      "evidence": [
+        {
+          "id": "kw1",
+          "url": "https://newsroom.pinterest.com/news/2026-pinterest-hobbies-trend-report/",
+          "title": "Pinterest Hobbies Trend Report 2026: Find your joy",
+          "publisher": "Pinterest Newsroom",
+          "publishedAt": "2026-08-25",
+          "retrievedAt": "2026-10-04T20:56:14Z",
+          "accessMethod": "web_search_result",
+          "signalType": "search",
+          "intent": "utility",
+          "claim": "Pinterest named 'Kitchen Witch' one of nine fall-2026 hobby trends and reported search increases for related terms.",
+          "kind": "observed",
+          "syndicationOf": null,
+          "excerpt": "Search summaries of this page: Kitchen Witch is one of nine trends (with Cosmic Reset, Home Cafe Engineering, Backyard Botanist, Weekend Equestrian, Secondhand Sidequest, Handmade Hacker, Curated Clutter, Casual Crafter); searches for 'herbal apothecary' +595%, 'midnight margaritas' +140%, 'candle making tutorial' +118%, homemade spice blends +209%, kombucha scoby recipes +201%, beeswax wrap tutorials +250%. Figures are Pinterest's own; page not fetched (blocked)."
+        },
+        {
+          "id": "kw2",
+          "url": "https://wwd.com/business-news/business-features/pinterest-fall-2026-trend-report-equestrian-style-secondhand-thrifting-cosmic-wellness-rituals-1239148348/",
+          "title": "Pinterest Fall 2026 Trends Are Thrifting, Equestrian & Cosmic Reset",
+          "publisher": "WWD",
+          "publishedAt": null,
+          "retrievedAt": "2026-10-04T20:56:14Z",
+          "accessMethod": "web_search_result",
+          "signalType": "press",
+          "intent": "none",
+          "claim": "Trade-press coverage confirming the report covers nine trends and compares global searches from May 2025 with May 2026.",
+          "kind": "observed",
+          "syndicationOf": null,
+          "excerpt": "Search summary: the report drew on Pinterest's internal global data, comparing searches in May 2025 with May 2026. This is the source of the comparison period applied to the Pinterest figures."
+        },
+        {
+          "id": "kw3",
+          "url": "https://www.yahoo.com/lifestyle/articles/pinterest-says-kitchen-witch-fall-130000203.html",
+          "title": "Pinterest Says It's a 'Kitchen Witch' Fall - Try These Hobbies to Make the Season Feel More Magical",
+          "publisher": "Yahoo Lifestyle",
+          "publishedAt": null,
+          "retrievedAt": "2026-10-04T20:56:14Z",
+          "accessMethod": "web_search_result",
+          "signalType": "press",
+          "intent": "curiosity",
+          "claim": "Consumer press frames Kitchen Witch as a cozy fall aesthetic (labeled herb jars, drying flowers, candles, old-world decor), with the Practical Magic house as its 'nostalgic epitome'.",
+          "kind": "observed",
+          "syndicationOf": null,
+          "excerpt": "Search summary: Kitchen Witch is about witchy crafts, dried herbs and old-world decor - labeling herb jars to display on a shelf, hanging flowers to dry, making paper, canning, beeswax candles; cites 'midnight margaritas' +140% on Pinterest. Restates Pinterest's data; it is not an independent measurement."
+        },
+        {
+          "id": "kw4",
+          "url": "https://abcnews.com/Entertainment/wireStory/practical-magic-2-conjures-1-box-office-debut-136406662",
+          "title": "'Practical Magic 2' conjures a No. 1 box office debut",
+          "publisher": "ABC News (AP wire)",
+          "publishedAt": "2026-09-13",
+          "retrievedAt": "2026-10-04T20:56:14Z",
+          "accessMethod": "web_search_result",
+          "signalType": "press",
+          "intent": "none",
+          "claim": "Practical Magic 2 opened at No. 1 in North America with an estimated $30M, a mainstream catalyst for the witchy-kitchen aesthetic.",
+          "kind": "observed",
+          "syndicationOf": null,
+          "excerpt": "Search summary: estimated $30 million from 4,146 theaters; ended Spider-Man: Brand New Day's six-weekend run at No. 1; about $16M from 77 international markets, roughly $46M worldwide."
+        },
+        {
+          "id": "kw5",
+          "url": "https://wtop.com/national/2026/09/practical-magic-2-conjures-a-no-1-box-office-debut-with-30-million-2/",
+          "title": "'Practical Magic 2' conjures a No. 1 box office debut with $30 million",
+          "publisher": "WTOP (AP wire)",
+          "publishedAt": "2026-09-13",
+          "retrievedAt": "2026-10-04T20:56:14Z",
+          "accessMethod": "web_search_result",
+          "signalType": "press",
+          "intent": "none",
+          "claim": "Syndicated AP copy of the same box-office story.",
+          "kind": "observed",
+          "syndicationOf": "kw4",
+          "excerpt": "Same AP story as kw4."
+        },
+        {
+          "id": "kw6",
+          "url": "https://ny1.com/nyc/all-boroughs/ap-top-news/2026/09/13/practical-magic-2-conjures-a-no-1-box-office-debut-with-30-million",
+          "title": "'Practical Magic 2' conjures a No. 1 box office debut with $30 million",
+          "publisher": "NY1 (AP wire)",
+          "publishedAt": "2026-09-13",
+          "retrievedAt": "2026-10-04T20:56:14Z",
+          "accessMethod": "web_search_result",
+          "signalType": "press",
+          "intent": "none",
+          "claim": "Syndicated AP copy of the same box-office story.",
+          "kind": "observed",
+          "syndicationOf": "kw4",
+          "excerpt": "Same AP story as kw4."
+        },
+        {
+          "id": "kw7",
+          "url": "https://deadline.com/2026/09/box-office-practical-magic-2-weekend-1237098516/",
+          "title": "Box Office: 'Practical Magic 2' Opening To $30M",
+          "publisher": "Deadline",
+          "publishedAt": null,
+          "retrievedAt": "2026-10-04T20:56:14Z",
+          "accessMethod": "web_search_result",
+          "signalType": "press",
+          "intent": "none",
+          "claim": "Independent trade report corroborating the ~$30M opening.",
+          "kind": "observed",
+          "syndicationOf": null,
+          "excerpt": "Search result title only: opening to $30M. URL path dates it to September 2026."
+        },
+        {
+          "id": "kw8",
+          "url": "https://fashionista.com/2026/09/practical-magic-2-brand-partnerships-merchandising",
+          "title": "The Barbification of 'Practical Magic 2'",
+          "publisher": "Fashionista",
+          "publishedAt": null,
+          "retrievedAt": "2026-10-04T21:00:56Z",
+          "accessMethod": "web_search_result",
+          "signalType": "press",
+          "intent": "purchase",
+          "claim": "Fashion trade press describes an unusually broad wave of Practical Magic 2 brand partnerships and merchandise.",
+          "kind": "observed",
+          "syndicationOf": null,
+          "excerpt": "URL path dates it to September 2026. Title frames the film's merchandising as 'Barbie'-scale. The search summary across these results said Target released graphic tees and cropped hoodies and Wayfair made its first-ever film partnership around Owens-house-style decor; that detail may come from this article or another result. Page not fetched (blocked)."
+        },
+        {
+          "id": "kw9",
+          "url": "https://www.purewow.com/home/mackenzie-childs-practical-magic-2-collection",
+          "title": "The MacKenzie-Childs 'Practical Magic 2' Decor Collection Is a Whimsigoth Dream",
+          "publisher": "PureWow",
+          "publishedAt": null,
+          "retrievedAt": "2026-10-04T21:00:56Z",
+          "accessMethod": "web_search_result",
+          "signalType": "press",
+          "intent": "purchase",
+          "claim": "A premium home brand released a licensed Practical Magic 2 decor collection, framed as whimsigoth.",
+          "kind": "observed",
+          "syndicationOf": null,
+          "excerpt": "Search summary: MacKenzie-Childs released a Practical Magic 2 collection for the film's premiere."
+        },
+        {
+          "id": "kw10",
+          "url": "https://shopping.yahoo.com/home-garden/home-decor/articles/wayfair-practical-magic-2-collaboration-120000670.html",
+          "title": "Wayfair's 'Practical Magic 2' Collaboration Brings Whimsigoth Style Home, With Pieces Up to 60% Off",
+          "publisher": "Yahoo Shopping",
+          "publishedAt": null,
+          "retrievedAt": "2026-10-04T21:00:56Z",
+          "accessMethod": "web_search_result",
+          "signalType": "press",
+          "intent": "purchase",
+          "claim": "Wayfair has a licensed Practical Magic 2 home collection; shopping coverage notes pieces up to 60% off.",
+          "kind": "observed",
+          "syndicationOf": null,
+          "excerpt": "Title only. The 'up to 60% off' framing is a retail promotion; it does not tell us how well the collection is selling."
+        },
+        {
+          "id": "kw11",
+          "url": "https://www.inman.com/2026/09/11/fall-home-design-trends-2026/",
+          "title": "5 Fall Design Trends That Real Estate Agents Should Know In 2026",
+          "publisher": "Inman",
+          "publishedAt": "2026-09-11",
+          "retrievedAt": "2026-10-04T21:00:56Z",
+          "accessMethod": "web_search_result",
+          "signalType": "press",
+          "intent": "none",
+          "claim": "Real-estate/design press lists gothic 'remixed into whimsigoth' among the hottest fall 2026 home design trends.",
+          "kind": "observed",
+          "syndicationOf": null,
+          "excerpt": "Search summary: recommends jewel tones, velvet, lace, botanicals (especially herbs) and vintage or apothecary-flair decor for staging; the same summary said whimsigoth has driven 'millions of impressions' on social media around Practical Magic 2's September premiere (attribution to this article probable, not certain; no source for that number given)."
+        },
+        {
+          "id": "kw12",
+          "url": "https://www.tiktok.com/discover/practical-magic-kitchen-inspo",
+          "title": "Practical Magic Kitchen Inspo",
+          "publisher": "TikTok (discover page)",
+          "publishedAt": null,
+          "retrievedAt": "2026-10-04T21:00:56Z",
+          "accessMethod": "web_search_result",
+          "signalType": "social",
+          "intent": "utility",
+          "claim": "TikTok creators post Practical Magic-inspired kitchen makeovers built around apothecary jars, labeled spice jars and dried herbs.",
+          "kind": "observed",
+          "syndicationOf": null,
+          "excerpt": "Search summary across TikTok discover pages ('Practical Magic Kitchen Inspo', 'Witch Kitchen Decor', 'Cottage Witch Kitchen Decor'): renter-friendly and full makeovers, apothecary storage with cork-lid jars, labeled spice jars, amber bottles, copper pots, brass moons. No view counts seen."
+        },
+        {
+          "id": "kw13",
+          "url": "https://www.tiktok.com/discover/witch-kitchen-decor?lang=en",
+          "title": "Witch Kitchen Decor",
+          "publisher": "TikTok (discover page)",
+          "publishedAt": null,
+          "retrievedAt": "2026-10-04T21:00:56Z",
+          "accessMethod": "web_search_result",
+          "signalType": "social",
+          "intent": "utility",
+          "claim": "Separate TikTok discover cluster for witch-kitchen decor (counted with kw12 as one social signal).",
+          "kind": "observed",
+          "syndicationOf": null,
+          "excerpt": "Discover-page title only; content summarized together with kw12."
+        },
+        {
+          "id": "kw14",
+          "url": "https://redheadzine.substack.com/p/the-practical-magic-effect-the-cultural",
+          "title": "The Practical Magic Effect: The Cultural Legacy of Whimsigoth",
+          "publisher": "Redhead Zine (Substack)",
+          "publishedAt": null,
+          "retrievedAt": "2026-10-04T21:00:56Z",
+          "accessMethod": "web_search_result",
+          "signalType": "creator",
+          "intent": "curiosity",
+          "claim": "Creator commentary credits the original Practical Magic with shaping the lasting whimsigoth aesthetic.",
+          "kind": "observed",
+          "syndicationOf": null,
+          "excerpt": "Search result title only."
+        },
+        {
+          "id": "kw15",
+          "url": "https://bookriot.com/gifts-for-practical-magic-lovers/",
+          "title": "Gifts for PRACTICAL MAGIC Lovers",
+          "publisher": "Book Riot",
+          "publishedAt": null,
+          "retrievedAt": "2026-10-04T21:00:56Z",
+          "accessMethod": "web_search_result",
+          "signalType": "marketplace",
+          "intent": "purchase",
+          "claim": "Fan merch already exists, including Etsy items using the film's 'midnight margaritas' phrase and digital prints.",
+          "kind": "observed",
+          "syndicationOf": null,
+          "excerpt": "Search summary: a 'Midnight Margarita Coven' enamel pin ($14, LadyMoonCompany on Etsy), a 'Midnight Margaritas' sweater ($44+), and Practical Magic-inspired wall prints, with digital prints starting around $8."
+        },
+        {
+          "id": "kw16",
+          "url": "https://www.etsy.com/listing/1340501493",
+          "title": "Magical Witchy Home Decor Salt, Rosemary, Lavender & Love Laser Engraved Slate Sign",
+          "publisher": "Etsy (listing)",
+          "publishedAt": null,
+          "retrievedAt": "2026-10-04T21:00:56Z",
+          "accessMethod": "web_search_result",
+          "signalType": "marketplace",
+          "intent": "purchase",
+          "claim": "An example of an existing Practical Magic-inspired kitchen sign on Etsy.",
+          "kind": "observed",
+          "syndicationOf": null,
+          "excerpt": "Search summary: slate sign, $29.95, DarkHouseDesign shop. Listings are supply, not proof of demand."
+        },
+        {
+          "id": "kw17",
+          "url": "https://payhip.com/b/CdeNT",
+          "title": "payhip.com (witch's kitchen / apothecary printable labels)",
+          "publisher": "Payhip",
+          "publishedAt": null,
+          "retrievedAt": "2026-10-04T21:00:56Z",
+          "accessMethod": "web_search_result",
+          "signalType": "marketplace",
+          "intent": "purchase",
+          "claim": "Halloween-style witch potion/apothecary printable labels are already sold as digital downloads.",
+          "kind": "observed",
+          "syndicationOf": null,
+          "excerpt": "Search summary (attribution to this specific result probable, not certain): a set of six large apothecary jar labels (Eye of Newt, Bat Wings, Graveyard Dust...) as four 300 dpi JPG sheets; the same summary says Etsy carries vintage Halloween potion and witchcraft apothecary label downloads."
+        },
+        {
+          "id": "kw18",
+          "url": "https://www.pepperagency.com/blog/tiktok-instagram-trends-for-september-2026-and-how-brands-can-actually-use-them",
+          "title": "TikTok & Instagram Trends for September 2026 (and How Brands Can Actually Use Them)",
+          "publisher": "Pepper Agency",
+          "publishedAt": null,
+          "retrievedAt": "2026-10-04T21:00:56Z",
+          "accessMethod": "web_search_result",
+          "signalType": "creator",
+          "intent": "none",
+          "claim": "September 2026 social-trend roundups describe Practical Magic 2 as setting the autumn mood on TikTok.",
+          "kind": "observed",
+          "syndicationOf": null,
+          "excerpt": "Search summary across September 2026 roundups (this one and newengen.com) said 'Practical Magic 2 is setting the autumn mood for the platform'; which roundup said it is not certain."
+        },
+        {
+          "id": "kw19",
+          "url": "https://fernandmaple.com/how-to-host-a-practical-magic-inspired-witch-party/",
+          "title": "How to host a Practical Magic inspired witch party",
+          "publisher": "Fern and Maple",
+          "publishedAt": null,
+          "retrievedAt": "2026-10-04T21:00:56Z",
+          "accessMethod": "web_search_result",
+          "signalType": "creator",
+          "intent": "utility",
+          "claim": "Lifestyle creators publish how-to content for Practical Magic-themed gatherings, which suggests a market for party and decor printables.",
+          "kind": "observed",
+          "syndicationOf": null,
+          "excerpt": "Search result title only."
+        }
+      ],
+      "observations": [
+        {
+          "metric": "Pinterest search change: 'herbal apothecary'",
+          "value": 595,
+          "unit": "% (global, May 2025 vs May 2026)",
+          "asOf": "2026-08-25",
+          "evidence": "kw1",
+          "isAbsolute": false,
+          "note": "reported by Pinterest (via search summaries of its newsroom page); not independently verified"
+        },
+        {
+          "metric": "Pinterest search change: 'midnight margaritas'",
+          "value": 140,
+          "unit": "% (global, May 2025 vs May 2026)",
+          "asOf": "2026-08-25",
+          "evidence": "kw1",
+          "isAbsolute": false,
+          "note": "reported by Pinterest; not independently verified"
+        },
+        {
+          "metric": "Pinterest search change: 'candle making tutorial'",
+          "value": 118,
+          "unit": "% (global, May 2025 vs May 2026)",
+          "asOf": "2026-08-25",
+          "evidence": "kw1",
+          "isAbsolute": false,
+          "note": "reported by Pinterest; not independently verified"
+        },
+        {
+          "metric": "Pinterest search change: homemade spice blends",
+          "value": 209,
+          "unit": "% (global, May 2025 vs May 2026)",
+          "asOf": "2026-08-25",
+          "evidence": "kw1",
+          "isAbsolute": false,
+          "note": "reported by Pinterest; not independently verified"
+        },
+        {
+          "metric": "Practical Magic 2 domestic opening weekend gross (estimate)",
+          "value": 30000000,
+          "unit": "USD",
+          "asOf": "2026-09-13",
+          "evidence": "kw4",
+          "isAbsolute": true,
+          "note": "reported by AP; box office is attention, not product demand"
+        },
+        {
+          "metric": "Practical Magic 2 opening theater count",
+          "value": 4146,
+          "unit": "theaters (North America)",
+          "asOf": "2026-09-13",
+          "evidence": "kw4",
+          "isAbsolute": true,
+          "note": "reported by AP"
+        }
+      ]
+    },
+    {
+      "name": "Cosmic Reset (beginner astrology, tarot and astrocartography)",
+      "aliases": [
+        "Cosmic Reset",
+        "learn astrology",
+        "beginner tarot",
+        "astrocartography",
+        "celestial self-care",
+        "moon rituals"
+      ],
+      "category": "belief",
+      "summary": "A fall-2026 wave of people learning astrology and tarot from scratch - natal charts, astrocartography, moon rituals - which Pinterest reports among its biggest search increases.",
+      "what": "Pinterest's 'Cosmic Reset' trend covers beginners learning astrology basics, pulling natal charts, exploring astrocartography (mapping places onto a birth chart), learning tarot and crystal meanings, and doing moon or 'reset' rituals around September's fresh start. It rides on long-standing Gen Z/millennial interest in astrology, but the reported growth is concentrated in 'for beginners' and 'learn' queries.",
+      "origin": {
+        "text": "Long-running astrology/tarot interest among Gen Z and millennials. Pinterest named the 'Cosmic Reset' trend in its 2026 Hobbies Trend Report (around 2026-08-25; May 2025 vs May 2026 searches).",
+        "date": "2026-08-25",
+        "evidence": [
+          "cr1",
+          "cr2",
+          "cr3",
+          "cr8"
+        ]
+      },
+      "adopters": {
+        "text": "Beginners (largely Gen Z and millennial women, inferred from coverage) who want to learn the system themselves rather than read horoscopes; travelers using astrocartography; people building September/New-Year 'reset' routines. Why they care: self-reflection, identity language, and intentional routines.",
+        "evidence": [
+          "cr1",
+          "cr5",
+          "cr8"
+        ]
+      },
+      "spread": {
+        "text": "Beyond Pinterest's own data, astrocartography shows up in travel press (Frommer's, BreezyScroll), and astrology is used as a shopping frame in mainstream gift editorial (E! Online). Pinterest Predicts separately reported a celestial/opalescent decor appetite. The Hobbies-report press coverage (WWD, VITA, Social Media Today) restates one data source.",
+        "evidence": [
+          "cr1",
+          "cr5",
+          "cr6",
+          "cr7",
+          "cr9"
+        ]
+      },
+      "trajectory": {
+        "stage": "established_niche",
+        "text": "Astrology/tarot is a long-established niche (commentary from 2025 already describes rising Gen Z interest). Pinterest's 2026 report suggests a renewed beginner-led wave, with the largest percentage increases in the report. Without time-series data it is unclear whether this is accelerating or a September seasonal bump; New-Year intention-setting usually brings another lift (inference).",
+        "evidence": [
+          "cr1",
+          "cr8"
+        ]
+      },
+      "productDemand": {
+        "text": "The reported searches are learning/curiosity intent ('learn astrology', 'tarot cards for beginners', 'crystals and meanings'), which suits workbooks, journals and planners better than decor. Astrology already works as a gift frame in mainstream editorial. No sales evidence for astrology printables was gathered.",
+        "evidence": [
+          "cr1",
+          "cr7"
+        ]
+      },
+      "competition": {
+        "text": "Not measured: the search budget ran out before a marketplace check. From background knowledge (unverified this session), astrology/moon planners and tarot journals have been sold on Etsy and KDP for years, so competition is probably high; a beginner 'learn the system' workbook may be less crowded.",
+        "level": "unknown",
+        "evidence": []
+      },
+      "gap": {
+        "text": "A 'learning-first' product that matches the beginner queries: a structured 12-week workbook that teaches how to read your own chart (fill-in chart wheel, glossary, guided worksheets) without predictions, plus an astronomically accurate 2027 moon-phase reflection planner timed for New Year.",
+        "isInference": true
+      },
+      "window": {
+        "estimate": "Launch by early-to-mid December 2026 for New-Year buying; the beginner workbook can sell longer.",
+        "reasoning": "Planner and intention products sell mostly from late November through January. A new listing needs weeks to gain visibility, so prepare now and list by early December. Digital delivery suits last-minute buyers.",
+        "invalidators": [
+          "Marketplace check shows saturated beginner-astrology workbooks with strong incumbents",
+          "Pinterest beginner-astrology interest proves to be a September-only bump"
+        ],
+        "seasonality": "September 'reset' and January New-Year intention peaks."
+      },
+      "rights": {
+        "risk": "low",
+        "note": "Belief-based: describe astrology and tarot as reflective practices, explain the community's methods accurately, never promise outcomes or predictions. Tarot art: draw original cards or verify that any reference art is in the public domain (the 1909 Rider-Waite-Smith originals are commonly treated as US public domain, but later recolored editions are claimed by their publishers). Moon-phase and eclipse dates must come from an authoritative astronomical source and be checked."
+      },
+      "scores": {
+        "timing": {
+          "score": 3,
+          "basis": "qualitative",
+          "rationale": "Fresh Pinterest report plus New-Year planner season ahead; there is time to prepare and list by early December."
+        },
+        "buyerIntent": {
+          "score": 2,
+          "basis": "reported",
+          "rationale": "Pinterest reports large increases, but they are learning/curiosity queries; no evidence that these searchers buy printables."
+        },
+        "supplyGap": {
+          "score": 1,
+          "basis": "qualitative",
+          "rationale": "Competition not measured; assumed crowded (long-established category), so scored low per the brief's missing-evidence rule."
+        },
+        "productFit": {
+          "score": 3,
+          "basis": "qualitative",
+          "rationale": "Easy to design, but needs careful, accurate content (chart-reading explanations, verified 2027 lunar data) and respectful framing."
+        },
+        "durability": {
+          "score": 3,
+          "basis": "qualitative",
+          "rationale": "Astrology interest has persisted for years; the beginner spike may be seasonal."
+        },
+        "economics": {
+          "score": 3,
+          "basis": "qualitative",
+          "rationale": "Digital workbook/planner margins are high at low price points; KDP paperback margins are thinner."
+        }
+      },
+      "recommendedAction": "prepare",
+      "actionRationale": "Strong reported curiosity and a good seasonal fit (New Year), but buyer intent and competition are unverified, and planner demand peaks in December-January. Build a beginner workbook and a 2027 moon planner now, check the marketplace before listing, and list by early December.",
+      "products": [
+        {
+          "buyer": "Astrology beginners (Gen Z/millennial) who want to read their own chart instead of horoscopes",
+          "format": "printable",
+          "theme": "'Learn Astrology in 12 Weeks' workbook: weekly lessons, glossary, blank chart wheel to fill in from any free chart calculator, house/planet worksheets, reflection prompts; printable PDF and GoodNotes-ready version",
+          "whyBuy": "Directly matches the 'learn astrology' and natal-chart searches Pinterest reported.",
+          "evidence": [
+            "cr1"
+          ],
+          "differentiation": "Teaches the method step by step (no predictions), unlike horoscope/zodiac-sign decor.",
+          "channels": [
+            "Etsy",
+            "Gumroad",
+            "Pinterest"
+          ],
+          "effort": "medium",
+          "effortHours": 20,
+          "leadTimeDays": 7,
+          "fulfillment": "digital",
+          "validationTest": "Run a marketplace check first; if not saturated, publish a 4-week sample module free on Gumroad, promote with 10 pins, and measure email signups before building all 12 weeks.",
+          "continueIf": "Sample downloads and signups show real pull within 2-3 weeks.",
+          "pivotIf": "Downloads but no paid conversion: shorten to a low-price 'chart reading starter kit'.",
+          "stopIf": "Marketplace check shows dominant, well-reviewed equivalents and the sample gets no traction.",
+          "rightsNote": "Original text; accurate description of astrological conventions; no outcome claims."
+        },
+        {
+          "buyer": "People setting New-Year intentions who like moon/celestial rituals",
+          "format": "planner",
+          "theme": "2027 Moon Phase & Intentions digital planner (GoodNotes/Notability hyperlinked PDF + printable): new/full moon reflection pages, monthly reset spreads, celestial line art",
+          "whyBuy": "Pairs the reported 'reset'/moon-ritual interest with the New-Year planner buying season.",
+          "evidence": [
+            "cr1",
+            "cr9"
+          ],
+          "differentiation": "Reflection-focused and astronomically accurate rather than horoscope-filled; clean celestial design.",
+          "channels": [
+            "Etsy",
+            "Gumroad",
+            "Pinterest"
+          ],
+          "effort": "medium",
+          "effortHours": 16,
+          "leadTimeDays": 5,
+          "fulfillment": "digital",
+          "validationTest": "List by early December with 10-15 pins; compare against a plain 2027 planner listing as a control.",
+          "continueIf": "The moon planner gets more favorites and sales than the control by early January.",
+          "pivotIf": "Interest is low: repackage the moon pages as an add-on insert for existing planners.",
+          "stopIf": "No sales by mid-January.",
+          "rightsNote": "Verify every moon-phase and eclipse date against an authoritative astronomical source."
+        },
+        {
+          "buyer": "Tarot beginners",
+          "format": "printable",
+          "theme": "Beginner tarot learning journal: a card-by-card notes page for all 78 cards, a spread log, and a 'what I noticed' reflection template",
+          "whyBuy": "Matches the 'tarot cards for beginners' search increase Pinterest reported.",
+          "evidence": [
+            "cr1"
+          ],
+          "differentiation": "A study log for learning the deck rather than an interpretation book.",
+          "channels": [
+            "Etsy",
+            "Amazon KDP",
+            "Gumroad"
+          ],
+          "effort": "low",
+          "effortHours": 10,
+          "leadTimeDays": 4,
+          "fulfillment": "digital",
+          "validationTest": "Bundle with the astrology workbook; track attach rate.",
+          "continueIf": "Raises the bundle's conversion rate.",
+          "pivotIf": "Sell it standalone as a KDP paperback for gifting.",
+          "stopIf": "No lift and no standalone sales after 4 weeks.",
+          "rightsNote": "Original card illustrations or none; don't reproduce copyrighted deck art or guidebook text."
+        }
+      ],
+      "unresolved": [
+        "Competition and price levels for beginner astrology workbooks, moon planners and tarot journals - not checked (search budget exhausted, Etsy blocked).",
+        "Whether the Pinterest increases are US-specific and sustained beyond September.",
+        "Whether beginner searchers buy paid learning products or rely on free apps/videos."
+      ],
+      "evidence": [
+        {
+          "id": "cr1",
+          "url": "https://newsroom.pinterest.com/news/2026-pinterest-hobbies-trend-report/",
+          "title": "Pinterest Hobbies Trend Report 2026: Find your joy",
+          "publisher": "Pinterest Newsroom",
+          "publishedAt": "2026-08-25",
+          "retrievedAt": "2026-10-04T20:56:14Z",
+          "accessMethod": "web_search_result",
+          "signalType": "search",
+          "intent": "curiosity",
+          "claim": "Pinterest named 'Cosmic Reset' a fall-2026 hobby trend, with large reported increases in beginner astrology, crystal and tarot searches.",
+          "kind": "observed",
+          "syndicationOf": null,
+          "excerpt": "Search summaries: 'learn astrology' +733%, 'crystals and meanings' +606%, 'tarot cards for beginners' +558%; Pinners are learning astrology basics, pulling natal charts, exploring astrocartography, using moon water and energy-cleansing rituals and 'protective charms' as September signals a fresh start. Page not fetched (blocked)."
+        },
+        {
+          "id": "cr2",
+          "url": "https://wwd.com/business-news/business-features/pinterest-fall-2026-trend-report-equestrian-style-secondhand-thrifting-cosmic-wellness-rituals-1239148348/",
+          "title": "Pinterest Fall 2026 Trends Are Thrifting, Equestrian & Cosmic Reset",
+          "publisher": "WWD",
+          "publishedAt": null,
+          "retrievedAt": "2026-10-04T20:56:14Z",
+          "accessMethod": "web_search_result",
+          "signalType": "press",
+          "intent": "none",
+          "claim": "Trade press headlined Cosmic Reset as one of the report's main fall-2026 trends; data compares May 2025 with May 2026.",
+          "kind": "observed",
+          "syndicationOf": null,
+          "excerpt": "Title names Cosmic Reset; search summary gives the comparison period."
+        },
+        {
+          "id": "cr3",
+          "url": "https://vitamagazine.com/2026/08/25/pinterest-says-your-next-fall-obsession-should-get-you-off-your-phone/",
+          "title": "Pinterest Says Your Next Fall Obsession Should Get You Off Your Phone",
+          "publisher": "VITA Daily",
+          "publishedAt": "2026-08-25",
+          "retrievedAt": "2026-10-04T21:00:56Z",
+          "accessMethod": "web_search_result",
+          "signalType": "press",
+          "intent": "none",
+          "claim": "Consumer coverage dates the report's release to about Aug 25, 2026.",
+          "kind": "observed",
+          "syndicationOf": null,
+          "excerpt": "URL date 2026/08/25; coverage of the Hobbies report."
+        },
+        {
+          "id": "cr4",
+          "url": "https://www.socialmediatoday.com/news/pinterest-hobbies-report-highlights-diy-and-vintage/828786/",
+          "title": "Pinterest hobbies report highlights DIY and vintage",
+          "publisher": "Social Media Today",
+          "publishedAt": null,
+          "retrievedAt": "2026-10-04T21:00:56Z",
+          "accessMethod": "web_search_result",
+          "signalType": "press",
+          "intent": "none",
+          "claim": "Marketing trade coverage of the same report (restates Pinterest's data; not independent).",
+          "kind": "observed",
+          "syndicationOf": null,
+          "excerpt": "Search summary placed the release on August 25, 2026."
+        },
+        {
+          "id": "cr5",
+          "url": "https://www.frommers.com/trip-ideas/arts-and-culture/how-to-use-astrology-to-plan-travel/",
+          "title": "Gen Z Travelers Are Using Astrology to Plan Vacations. Here's How to...",
+          "publisher": "Frommer's",
+          "publishedAt": null,
+          "retrievedAt": "2026-10-04T21:00:56Z",
+          "accessMethod": "web_search_result",
+          "signalType": "press",
+          "intent": "curiosity",
+          "claim": "Astrocartography has spread to mainstream travel press, independent of Pinterest.",
+          "kind": "observed",
+          "syndicationOf": null,
+          "excerpt": "Search summary: a growing number of Gen Z travelers use astrocartography (a personal world map of planetary 'lines' based on birth date, time and place) to choose destinations."
+        },
+        {
+          "id": "cr6",
+          "url": "https://www.breezyscroll.com/lifestyle/astrocartography-travel-gen-z",
+          "title": "Astrocartography Travel: Why Gen Z Is Letting Astrology Choose Their Next Vacation",
+          "publisher": "BreezyScroll",
+          "publishedAt": null,
+          "retrievedAt": "2026-10-04T21:00:56Z",
+          "accessMethod": "web_search_result",
+          "signalType": "press",
+          "intent": "curiosity",
+          "claim": "Further lifestyle coverage of Gen Z astrocartography.",
+          "kind": "observed",
+          "syndicationOf": null,
+          "excerpt": "Search result title only."
+        },
+        {
+          "id": "cr7",
+          "url": "https://www.eonline.com/news/1426792/products-each-zodiac-sign-needs-according-to-2026s-astrology",
+          "title": "Products Each Zodiac Sign Needs, According to 2026's Astrology",
+          "publisher": "E! Online",
+          "publishedAt": null,
+          "retrievedAt": "2026-10-04T21:00:56Z",
+          "accessMethod": "web_search_result",
+          "signalType": "press",
+          "intent": "purchase",
+          "claim": "Mainstream shopping editorial uses astrology as a gift-guide frame, showing astrology is used to sell products.",
+          "kind": "observed",
+          "syndicationOf": null,
+          "excerpt": "Search result title only."
+        },
+        {
+          "id": "cr8",
+          "url": "https://www.churchandculture.org/blog/2025/6/12/gen-z-and-the-rise-of-astrology",
+          "title": "Gen Z and the Rise of Astrology",
+          "publisher": "Church & Culture",
+          "publishedAt": "2025-06-12",
+          "retrievedAt": "2026-10-04T21:00:56Z",
+          "accessMethod": "web_search_result",
+          "signalType": "community",
+          "intent": "none",
+          "claim": "Commentary from outside the astrology community notes sustained Gen Z interest in astrology before the 2026 Pinterest spike.",
+          "kind": "observed",
+          "syndicationOf": null,
+          "excerpt": "Search summary: Gen Z is driving astrology interest, using it to answer life's big questions."
+        },
+        {
+          "id": "cr9",
+          "url": "https://www.aol.com/articles/otherworldly-home-decor-trend-pinterest-093000527.html",
+          "title": "The Otherworldly Home Decor Trend That Pinterest Says Is Gaining Popularity In 2026",
+          "publisher": "AOL (House Digest syndication)",
+          "publishedAt": null,
+          "retrievedAt": "2026-10-04T21:00:56Z",
+          "accessMethod": "web_search_result",
+          "signalType": "press",
+          "intent": "none",
+          "claim": "Pinterest Predicts 2026 also flagged an 'Extra Celestial' decor appetite ('alien core aesthetic' +80%, 'opalescent' +115%), adjacent to cosmic themes.",
+          "kind": "observed",
+          "syndicationOf": null,
+          "excerpt": "Search summary: Pinterest calls the trend 'Extra Celestial' (opalescent features, holographic home accents); data from Pinterest Predicts (Sept 2024-Aug 2025)."
+        }
+      ],
+      "observations": [
+        {
+          "metric": "Pinterest search change: 'learn astrology'",
+          "value": 733,
+          "unit": "% (global, May 2025 vs May 2026)",
+          "asOf": "2026-08-25",
+          "evidence": "cr1",
+          "isAbsolute": false,
+          "note": "reported by Pinterest (via search summaries); not independently verified"
+        },
+        {
+          "metric": "Pinterest search change: 'crystals and meanings'",
+          "value": 606,
+          "unit": "% (global, May 2025 vs May 2026)",
+          "asOf": "2026-08-25",
+          "evidence": "cr1",
+          "isAbsolute": false,
+          "note": "reported by Pinterest; not independently verified"
+        },
+        {
+          "metric": "Pinterest search change: 'tarot cards for beginners'",
+          "value": 558,
+          "unit": "% (global, May 2025 vs May 2026)",
+          "asOf": "2026-08-25",
+          "evidence": "cr1",
+          "isAbsolute": false,
+          "note": "reported by Pinterest; not independently verified"
+        },
+        {
+          "metric": "Pinterest search change: 'alien core aesthetic' (Extra Celestial)",
+          "value": 80,
+          "unit": "% (Pinterest Predicts 2026 data window, Sept 2024-Aug 2025)",
+          "asOf": "2025-12-09",
+          "evidence": "cr9",
+          "isAbsolute": false,
+          "note": "reported by Pinterest via AOL/House Digest; asOf is the approximate Pinterest Predicts release date; different data window from the Hobbies report, so not comparable to the figures above"
+        }
+      ]
+    },
+    {
+      "name": "Poetcore (the poet aesthetic)",
+      "aliases": [
+        "the poet aesthetic",
+        "literary chic",
+        "poet core",
+        "literary aesthetic"
+      ],
+      "category": "aesthetic",
+      "summary": "A literary, romantic style - tweed and turtlenecks, satchels, notebooks and dog-eared poetry books - that Pinterest predicted for 2026 and fashion press now calls an autumn-2026 trend.",
+      "what": "Poetcore dresses like a 19th-century or bohemian poet: oversized turtlenecks, vintage blazers, messenger satchels, scarves, ink-stained notebooks and books carried as accessories. It is a softer, more romantic relative of dark academia and is marketed to both women and men. Its props (notebooks, poetry, handwriting) map naturally onto stationery and literary wall art.",
+      "origin": {
+        "text": "Grew out of dark/light academia and literary TikTok/Pinterest culture. Pinterest named it in Pinterest Predicts 2026 (released about Dec 9, 2025 per press dates; data Sept 2024-Aug 2025).",
+        "date": "2025-12-09",
+        "evidence": [
+          "pc1",
+          "pc4",
+          "pc10"
+        ]
+      },
+      "adopters": {
+        "text": "Gen Z and young millennial fashion followers of both genders; book lovers; fans of literary-heartthrob celebrity style (inferred). They care because it signals introspection, slowness and taste rather than logos.",
+        "evidence": [
+          "pc1",
+          "pc6",
+          "pc9"
+        ]
+      },
+      "spread": {
+        "text": "Has moved from Pinterest's prediction into international fashion press (FashionUnited editions, Soigne Middle East, nss g-club, LDN Fashion) and retailer merchandising blogs (US boutique, Tokyo Canvas). The FashionUnited regional editions are one syndicated signal.",
+        "evidence": [
+          "pc1",
+          "pc5",
+          "pc6",
+          "pc7",
+          "pc8",
+          "pc9"
+        ]
+      },
+      "trajectory": {
+        "stage": "early_growth",
+        "text": "Coverage runs from the Dec 2025 prediction through spring 2026 merchandising to 'autumn 2026's most literary trend', which points to sustained growth in fashion. No 2026 search time-series or decor/stationery demand data was found, so the spread into paper goods is unproven.",
+        "evidence": [
+          "pc1",
+          "pc5",
+          "pc8"
+        ]
+      },
+      "productDemand": {
+        "text": "Commercial uptake is visible in apparel merchandising only. Demand for Poetcore stationery, journals or poetry prints is plausible (books and notebooks are core props) but not evidenced. Gifting for book lovers in Q4 is a reasonable channel (inference).",
+        "evidence": [
+          "pc8",
+          "pc9"
+        ]
+      },
+      "competition": {
+        "text": "Not measured (search budget exhausted). Literary/dark-academia prints and journals are a long-established category (background knowledge, unverified), so generic designs would face competition.",
+        "level": "unknown",
+        "evidence": []
+      },
+      "gap": {
+        "text": "Curated public-domain poetry broadsides typeset in letterpress style, plus a 'commonplace book' journal for copying and annotating lines, sold as a Poetcore set. This uses rights-free text and fits gifting, New-Year journaling, Valentine's and National Poetry Month (April).",
+        "isInference": true
+      },
+      "window": {
+        "estimate": "Autumn 2026 through spring 2027 (aesthetic likely outlasts the season).",
+        "reasoning": "Multi-source fashion adoption plus runway support suggests more than a single-season micro-trend; the paper-goods market is not time-critical, so creators can test without racing Halloween.",
+        "invalidators": [
+          "Poetcore fashion coverage drops off after autumn 2026",
+          "Marketplace check shows literary prints/journals are saturated with no premium for the Poetcore framing"
+        ],
+        "seasonality": "Autumn/winter look; poetry gifting peaks for Valentine's and April (National Poetry Month)."
+      },
+      "rights": {
+        "risk": "low",
+        "note": "Use only poems in the US public domain (published before 1931, e.g., Dickinson, Keats, Christina Rossetti, Whitman) and check each text and edition. Avoid modern poets and song lyrics. Don't use celebrity likenesses associated with the look."
+      },
+      "scores": {
+        "timing": {
+          "score": 2,
+          "basis": "qualitative",
+          "rationale": "Fashion momentum is real, but no evidence yet that it drives paper-goods buying this quarter; not time-critical."
+        },
+        "buyerIntent": {
+          "score": 2,
+          "basis": "qualitative",
+          "rationale": "Searches and press are style/curiosity; apparel merchandising exists; no stationery purchase evidence."
+        },
+        "supplyGap": {
+          "score": 2,
+          "basis": "qualitative",
+          "rationale": "Competition not measured; literary prints are assumed to be an established category, with a gap only for curated Poetcore-framed sets."
+        },
+        "productFit": {
+          "score": 4,
+          "basis": "qualitative",
+          "rationale": "Typesetting public-domain poems and building KDP journals is fast and cheap."
+        },
+        "durability": {
+          "score": 4,
+          "basis": "qualitative",
+          "rationale": "Spread across many outlets and regions and adjacent to long-lived dark academia; runway support reported."
+        },
+        "economics": {
+          "score": 3,
+          "basis": "qualitative",
+          "rationale": "Digital prints and KDP journals have workable margins at low price points; POD posters thinner."
+        }
+      },
+      "recommendedAction": "watch",
+      "actionRationale": "The aesthetic is durable and suits paper goods, but there is no evidence of product demand and competition was not checked. Watch for Poetcore-specific stationery or print demand (Pinterest/Etsy signals). Optionally build a small public-domain poetry print set now at low cost for Valentine's and April tests.",
+      "products": [
+        {
+          "buyer": "Book lovers and Poetcore/dark-academia fans decorating reading nooks or dorms; gift buyers",
+          "format": "poster",
+          "theme": "Letterpress-style broadsides of public-domain poems (set of 4-6: Dickinson, Keats, Christina Rossetti, Whitman) on aged paper with ink-blot ornament",
+          "whyBuy": "Poems and books are core props of the look; a rights-free, giftable decor piece.",
+          "evidence": [
+            "pc1",
+            "pc5"
+          ],
+          "differentiation": "Curated, accurately transcribed texts with typographic craft instead of generic quote posters.",
+          "channels": [
+            "Etsy",
+            "Pinterest",
+            "Redbubble"
+          ],
+          "effort": "low",
+          "effortHours": 8,
+          "leadTimeDays": 3,
+          "fulfillment": "digital",
+          "validationTest": "List the set as a digital download plus 10 pins tagged poetcore/literary decor; compare saves against your other boards.",
+          "continueIf": "Saves and favorites are steady and a few sales come within 4 weeks.",
+          "pivotIf": "Saves but no sales: make one poem free as a pin magnet and sell the journal instead.",
+          "stopIf": "No traction after 4 weeks and 20 pins.",
+          "rightsNote": "Verify public-domain status and text accuracy for each poem."
+        },
+        {
+          "buyer": "Poetcore adopters who journal; New-Year journaling buyers",
+          "format": "journal",
+          "theme": "'Commonplace Book' journal: pages for copying lines, annotating poems, word lists and drafting, with a monthly 'poem to memorize' page (public-domain selections); KDP paperback + printable",
+          "whyBuy": "Notebooks are part of the look; commonplace books suit the slow, literary values the trend is described with.",
+          "evidence": [
+            "pc5",
+            "pc6"
+          ],
+          "differentiation": "Built for engaging with poetry, not a blank notebook.",
+          "channels": [
+            "Amazon KDP",
+            "Etsy",
+            "Gumroad"
+          ],
+          "effort": "medium",
+          "effortHours": 12,
+          "leadTimeDays": 5,
+          "fulfillment": "pod",
+          "validationTest": "Publish on KDP and as a PDF in December; promote around New Year.",
+          "continueIf": "Organic KDP sales in January.",
+          "pivotIf": "Re-theme for Valentine's (love poems) if January is flat.",
+          "stopIf": "No sales by end of February.",
+          "rightsNote": "Public-domain poems only; original layout."
+        }
+      ],
+      "unresolved": [
+        "Whether Poetcore interest translates into decor/stationery purchases (no evidence gathered).",
+        "Competition levels for literary prints and journals (not measured).",
+        "Any 2026 search-trend data after the Pinterest Predicts window (Sept 2024-Aug 2025)."
+      ],
+      "evidence": [
+        {
+          "id": "pc1",
+          "url": "https://fashionunited.com/news/fashion/poetcore-opera-aesthetic-and-brooches-key-style-predictions-from-pinterest-for-2026/2025121069575",
+          "title": "Poetcore, opera aesthetic and brooches: Key style predictions from Pinterest for 2026",
+          "publisher": "FashionUnited",
+          "publishedAt": "2025-12-10",
+          "retrievedAt": "2026-10-04T20:56:14Z",
+          "accessMethod": "web_search_result",
+          "signalType": "press",
+          "intent": "curiosity",
+          "claim": "Pinterest Predicts 2026 named Poetcore, reporting searches for 'the poet aesthetic' up 175%.",
+          "kind": "observed",
+          "syndicationOf": null,
+          "excerpt": "Search summary: Poetcore = oversized turtlenecks, vintage blazers, messenger satchels; 'the poet aesthetic' +175%."
+        },
+        {
+          "id": "pc2",
+          "url": "https://fashionunited.uk/news/fashion/poetcore-opera-aesthetic-and-brooches-key-style-predictions-from-pinterest-for-2026/2025121085277",
+          "title": "Poetcore, opera aesthetic and brooches: Key style predictions from Pinterest for 2026",
+          "publisher": "FashionUnited UK",
+          "publishedAt": "2025-12-10",
+          "retrievedAt": "2026-10-04T20:56:14Z",
+          "accessMethod": "web_search_result",
+          "signalType": "press",
+          "intent": "curiosity",
+          "claim": "Regional edition of the same FashionUnited article.",
+          "kind": "observed",
+          "syndicationOf": "pc1",
+          "excerpt": "Same article as pc1."
+        },
+        {
+          "id": "pc3",
+          "url": "https://fashionunited.in/news/fashion/poetcore-opera-aesthetic-and-brooches-key-style-predictions-from-pinterest-for-2026/2025121052470",
+          "title": "Poetcore, opera aesthetic and brooches: Key style predictions from Pinterest for 2026",
+          "publisher": "FashionUnited India",
+          "publishedAt": "2025-12-10",
+          "retrievedAt": "2026-10-04T20:56:14Z",
+          "accessMethod": "web_search_result",
+          "signalType": "press",
+          "intent": "curiosity",
+          "claim": "Regional edition of the same FashionUnited article.",
+          "kind": "observed",
+          "syndicationOf": "pc1",
+          "excerpt": "Same article as pc1."
+        },
+        {
+          "id": "pc4",
+          "url": "https://business.pinterest.com/pdf/pinterest-predicts/2026-trend-report/",
+          "title": "2026 Trend Report",
+          "publisher": "Pinterest Business",
+          "publishedAt": null,
+          "retrievedAt": "2026-10-04T20:56:14Z",
+          "accessMethod": "web_search_result",
+          "signalType": "search",
+          "intent": "curiosity",
+          "claim": "Primary Pinterest Predicts 2026 report: 21 trends based on searches and engagement from Sept 2024 to Aug 2025; Pinterest says its predictions were 88% accurate over the past six years.",
+          "kind": "observed",
+          "syndicationOf": null,
+          "excerpt": "Search result title; data window and accuracy claim come from summaries of coverage (letsdatascience, nss magazine). The accuracy figure is Pinterest's own claim."
+        },
+        {
+          "id": "pc10",
+          "url": "https://axios.com/2025/12/09/2026-pinterest-trend-report",
+          "title": "Glamour, thrill and alien-core: Pinterest predicts 2026 trends",
+          "publisher": "Axios",
+          "publishedAt": "2025-12-09",
+          "retrievedAt": "2026-10-04T20:56:14Z",
+          "accessMethod": "web_search_result",
+          "signalType": "press",
+          "intent": "none",
+          "claim": "Dates the Pinterest Predicts 2026 release to about Dec 9, 2025.",
+          "kind": "observed",
+          "syndicationOf": null,
+          "excerpt": "Search result title; URL date 2025/12/09."
+        },
+        {
+          "id": "pc5",
+          "url": "https://www.ldnfashion.com/features/poetcore-is-the-only-trend-you-need-this-autumn/",
+          "title": "Poetcore: How to Wear Autumn 2026's Most Literary Trend",
+          "publisher": "LDN Fashion",
+          "publishedAt": null,
+          "retrievedAt": "2026-10-04T21:00:56Z",
+          "accessMethod": "web_search_result",
+          "signalType": "press",
+          "intent": "curiosity",
+          "claim": "Fashion press frames Poetcore as one of autumn 2026's most coveted looks.",
+          "kind": "observed",
+          "syndicationOf": null,
+          "excerpt": "Search summary: 'fast becoming one of autumn 2026's most coveted looks', turning worn, dog-eared classics into something wearable for cooler months."
+        },
+        {
+          "id": "pc6",
+          "url": "https://www.nssgclub.com/en/fashion/44952/poetcore-literary-aesthetic-genz-trend-2026",
+          "title": "Poetcore Explained: the literary aesthetic defining Gen Z",
+          "publisher": "nss g-club",
+          "publishedAt": null,
+          "retrievedAt": "2026-10-04T21:00:56Z",
+          "accessMethod": "web_search_result",
+          "signalType": "press",
+          "intent": "curiosity",
+          "claim": "Youth-culture press presents Poetcore as a Gen Z-defining literary aesthetic.",
+          "kind": "observed",
+          "syndicationOf": null,
+          "excerpt": "Search result title and brief summary."
+        },
+        {
+          "id": "pc7",
+          "url": "https://soignemiddleeast.com/2026/01/13/2026-poetcore-trend/",
+          "title": "How to Make the 2026 Poetcore Trend Work for You",
+          "publisher": "Soigne Middle East",
+          "publishedAt": "2026-01-13",
+          "retrievedAt": "2026-10-04T21:00:56Z",
+          "accessMethod": "web_search_result",
+          "signalType": "press",
+          "intent": "curiosity",
+          "claim": "Coverage outside US/UK fashion press, which suggests the trend is spreading internationally.",
+          "kind": "observed",
+          "syndicationOf": null,
+          "excerpt": "Search result title."
+        },
+        {
+          "id": "pc8",
+          "url": "https://currentboutique.com/blogs/cravingcurrent/poetcore-is-everywhere-for-spring-2026",
+          "title": "Poetcore Is Everywhere for Spring 2026",
+          "publisher": "Current Boutique (retailer blog)",
+          "publishedAt": null,
+          "retrievedAt": "2026-10-04T21:00:56Z",
+          "accessMethod": "web_search_result",
+          "signalType": "marketplace",
+          "intent": "purchase",
+          "claim": "Retailers are using Poetcore to merchandise clothing, which shows commercial uptake (in apparel).",
+          "kind": "observed",
+          "syndicationOf": null,
+          "excerpt": "Search result title. A search summary also said Prada, Tory Burch, Celine, Bottega Veneta and Miu Miu leaned into the look on SS26 runways; which result said this was not identified."
+        },
+        {
+          "id": "pc9",
+          "url": "https://www.tokyocanvas.com/blogs/news/the-rise-of-poetcore-%E2%80%93-intellectual-masculinity-redefined-in-2026",
+          "title": "The Rise of Poetcore - Intellectual Masculinity Redefined in 2026",
+          "publisher": "Tokyo Canvas (retailer blog)",
+          "publishedAt": null,
+          "retrievedAt": "2026-10-04T21:00:56Z",
+          "accessMethod": "web_search_result",
+          "signalType": "marketplace",
+          "intent": "purchase",
+          "claim": "A menswear angle: Poetcore is marketed to men as well as women.",
+          "kind": "observed",
+          "syndicationOf": null,
+          "excerpt": "Search result title."
+        }
+      ],
+      "observations": [
+        {
+          "metric": "Pinterest search change: 'the poet aesthetic'",
+          "value": 175,
+          "unit": "% (Pinterest Predicts 2026 window, Sept 2024-Aug 2025)",
+          "asOf": "2025-12-10",
+          "evidence": "pc1",
+          "isAbsolute": false,
+          "note": "reported by Pinterest via FashionUnited; not independently verified"
+        }
+      ]
+    }
+  ]
+}

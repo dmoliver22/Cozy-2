@@ -1,0 +1,1637 @@
+{
+  "lens": "Beliefs, movements, subcultures and seasonal hooks (Q4 2026: Halloween, Thanksgiving/Friendsgiving, holiday gifting, New Year 2027 planning)",
+  "researchedAt": "2026-10-04T21:02:03Z",
+  "sourcesTried": [
+    {
+      "source": "WebSearch (standard + extended)",
+      "method": "WebSearch",
+      "status": "ok",
+      "note": "About 50 queries run between 2026-10-04T20:53:52Z and 20:59:17Z. All evidence below is accessMethod web_search_result: titles/URLs plus the search tool's summary, not the pages themselves. Summaries sometimes merge several results; where a figure could not be tied to one specific URL it is either left out or flagged in the note."
+    },
+    {
+      "source": "WebSearch (further queries)",
+      "method": "WebSearch",
+      "status": "error",
+      "note": "The session-wide search budget (200 of 200) ran out partway through. Planned queries not run: Etsy trend-expert holiday 2026 report, Pinterest holiday 2026 trends, a check for any USPTO filings on 'analog bag' or 'great lock in', and Halloween 2026 Etsy/Pinterest data. The gaps are listed under 'unresolved'."
+    },
+    {
+      "source": "Etsy market page (etsy.com/market/analog_bag)",
+      "method": "WebFetch",
+      "status": "blocked",
+      "note": "EGRESS_BLOCKED for www.etsy.com. Listing counts could not be checked; only the fact that the market page and some listings appear in search results is used."
+    },
+    {
+      "source": "Fortune article on Gen Z analog gifts (2026-09-16)",
+      "method": "WebFetch",
+      "status": "blocked",
+      "note": "EGRESS_BLOCKED for fortune.com. The search-result summary is used instead."
+    },
+    {
+      "source": "Google Trends",
+      "method": "WebFetch",
+      "status": "not_tried",
+      "note": "Blocked according to the brief. The only trend-curve information is spiketoday.com's reported description of Google Trends for 'winter arc'."
+    },
+    {
+      "source": "Reddit / TikTok / Pinterest direct",
+      "method": "WebFetch",
+      "status": "not_tried",
+      "note": "Blocked according to the brief. TikTok discover pages and Pinterest idea pages appeared only as search-result titles."
+    }
+  ],
+  "discovered": [
+    {
+      "name": "Analog bag / 'analog era' screen-free movement, and screen-free holiday gifting",
+      "whyConsidered": "Several independent sources (Axios 2025, YPulse and Fortune April 2026, Fast Company, Eventbrite data, Michaels class) plus the PwC Holiday Outlook 2026 finding that 78% of Gen Z are prioritizing screen-free gifts. The trend lines up directly with holiday buying.",
+      "disposition": "deep_dived",
+      "rejectReason": ""
+    },
+    {
+      "name": "The Great Lock-In 2026 (aliases: Winter Arc, last-90-days challenge, 'lock in 2026')",
+      "whyConsidered": "A named Sept 1 to Dec 31 self-improvement challenge, back for its second year (TheGrio 2026-09-01; BuzzFeed says it is 'taking over TikTok again'). It also carries into New Year 2027 'lock-in/rebrand' framing.",
+      "disposition": "deep_dived",
+      "rejectReason": ""
+    },
+    {
+      "name": "Gen Z / millennial Bible-reading revival ('quiet revival')",
+      "whyConsidered": "Barna/Gloo measured Gen Z weekly Bible reading rising from 30% (2024) to 49% (2025). Record Bible sales are reported in the US and UK. New beginner guides launched in 2026. New Year reading plans are a natural seasonal hook.",
+      "disposition": "deep_dived",
+      "rejectReason": ""
+    },
+    {
+      "name": "Potential-maxxing / 'maxxing' trends",
+      "whyConsidered": "Search summaries named potential-maxxing as a September 2026 trend, and Meltwater reported that use of 'maxxing' terms grew sharply in 2026.",
+      "disposition": "rejected",
+      "rejectReason": "The 'maxxing' umbrella covers unrelated behaviors, some of them drawing criticism and outrage (pheromone-maxxing). CNBC (2026-07-11) and Ohio State experts warn about health harms, so products would drift toward health claims. Only the 'log your progress with numbers' idea is kept, as a design feature in the Lock-In tracker."
+    },
+    {
+      "name": "Appstinence / dumbphone movement",
+      "whyConsidered": "Plugged In, Movieguide and AOL describe Gen Z 'appstinence' and dumbphones. The search summary credited the term to founder Gabriela Nguyen.",
+      "disposition": "rejected",
+      "rejectReason": "This is the same underlying movement as the analog candidate, so it is merged there. The products it drives are mostly devices and apps (Light Phone, Brick). The term is tied to a named founder and organizations (Reconnect Movement), which raises attribution and rights concerns."
+    },
+    {
+      "name": "Gen Z New Year 'rebrand' instead of resolutions",
+      "whyConsidered": "Trill Mag says Gen Z plans New Year 'rebrands' and 'lock-ins' months ahead using vision boards.",
+      "disposition": "rejected",
+      "rejectReason": "Thin evidence: essentially one publication, with no independent spread found. Merged into the Lock-In candidate's 2027 planner product."
+    },
+    {
+      "name": "Resolution / vision-board bingo card 2027",
+      "whyConsidered": "A gamified goal-setting method (TikTok creator Erin Jones) that comes back every New Year, with 2027 versions already listed.",
+      "disposition": "rejected",
+      "rejectReason": "Saturated with free printables: Lovely Planner offers 13 free 2027 bingo cards, Parade has 7 printable 2027 cards, and Etsy already has 2027 bingo templates. The method dates from 2023-24, so nothing about it is new for 2027."
+    },
+    {
+      "name": "Vision board parties / vision board nights",
+      "whyConsidered": "Canva newsroom and Classpop describe social vision-board nights as a 2026 ritual.",
+      "disposition": "rejected",
+      "rejectReason": "Established, with many free guides and kits. The evidence describes January 2026, not a new 2027 angle. It could appear as a single page inside a 2027 planner."
+    },
+    {
+      "name": "No-Buy / Low-Buy year challenge (2027)",
+      "whyConsidered": "Yahoo Finance and Quartz covered 'No Buy 2026'. A Reddit no-buy community is reported at more than 70,000 members, and the trend restarts every January.",
+      "disposition": "rejected",
+      "rejectReason": "A recurring January ritual with heavy existing supply: an Etsy 'No Buy Challenge' market page and annual tracker listings. The supply gap is low. Better used as a bonus tracker page inside the Lock In 2027 planner than as a standalone launch."
+    },
+    {
+      "name": "Sober October 2026",
+      "whyConsidered": "An annual alcohol-free October challenge with brand campaigns (Kit NA Brewing).",
+      "disposition": "rejected",
+      "rejectReason": "It is already underway and lasts only one month. 'Go Sober for October' is a charity campaign name (Macmillan, UK). Products would sit close to health claims. There is no new 2026 twist."
+    },
+    {
+      "name": "Halloween 2026 costume/decor trends (chic ghost, metallic pumpkins, cyberpunk zombies, moth/skeleton/tarot motifs, Ramalama Costume Walk)",
+      "whyConsidered": "Required seasonal hook. Halloween is on a Saturday in 2026 (New Engen). NRF projects $13.5B in spending. HalloweenCostumes.com's survey says Halloween is now a full season.",
+      "disposition": "rejected",
+      "rejectReason": "None of these trends connects to a movement or belief in this lens. Several trend sources are low-quality SEO pages. Costume and decor items are physical and need stock, and POD delivery on a 27-day window is tight. The trending costume IP (movies) is a rights risk. The motif trend (moths, skeletons, tarot, vintage horror type) belongs to the aesthetics lens."
+    },
+    {
+      "name": "Friendsgiving 2026 growth",
+      "whyConsidered": "A search summary cited a 2026 Chicory survey (30% of US adults; 52% of 18-29s planning Friendsgiving) and YPulse calling it a 'real second tradition'. The specific source page could not be pinned down.",
+      "disposition": "rejected",
+      "rejectReason": "Friendsgiving products (shirts, games, invitations) are established and crowded, e.g. thanksgivingshirts.com's 2026 guide. Kept only as a sales channel for the analog candidate's phone-free table kit."
+    },
+    {
+      "name": "WitchTok / Samhain / Gen Z paganism",
+      "whyConsidered": "Halloween-adjacent belief subculture. Research and press describe young pagans growing on TikTok.",
+      "disposition": "rejected",
+      "rejectReason": "No 2026-specific growth evidence was found; the sources are 2021-2025 or undated. It is an established and crowded Etsy niche. Describing practices accurately would need deeper community research than was possible."
+    },
+    {
+      "name": "'2026 is the new 2016' nostalgia",
+      "whyConsidered": "Covered by Fast Company and Forbes (2026-01-18), with a Wikipedia page. Could feed a 2016-themed party or a '2027 is the new 2017' hook.",
+      "disposition": "rejected",
+      "rejectReason": "A meme (another lens) that peaked in January 2026. Its references are heavily trademarked (Pokémon Go, etc.). No evidence of a 2027 follow-on."
+    },
+    {
+      "name": "Year of the Fire Goat 2027 (Lunar New Year 2027-02-06)",
+      "whyConsidered": "A New Year 2027 hook. Mints are already selling Fire Goat coins.",
+      "disposition": "rejected",
+      "rejectReason": "The only evidence is bullion and coins, with no consumer trend signal. It is culturally specific and needs careful handling. At most a watch item for January."
+    },
+    {
+      "name": "Commonplace book journaling",
+      "whyConsidered": "Planoly mentions 'commonplace' notebooks as part of 2026 analog planning, and a TikTok discover page exists.",
+      "disposition": "rejected",
+      "rejectReason": "Insufficient evidence: a single TikTok discover page and a passing mention. It fits within the analog movement and could become a future product page."
+    },
+    {
+      "name": "Cathartic 'wellness raves' / social wellness gatherings",
+      "whyConsidered": "Named in the Global Wellness Summit 2026 trends.",
+      "disposition": "rejected",
+      "rejectReason": "Experience-based, with no natural digital or POD product format for a solo creator."
+    }
+  ],
+  "candidates": [
+    {
+      "name": "Analog bag & screen-free holiday gifting",
+      "aliases": [
+        "analog bag",
+        "analog era",
+        "going analog",
+        "screen-free gifts",
+        "offline is the new flex",
+        "phone-free gatherings"
+      ],
+      "category": "movement",
+      "summary": "Young adults are filling a tote with screen-free activities (books, puzzles, crafts, a notebook) to avoid doomscrolling, and that preference is now shaping 2026 holiday gift lists.",
+      "what": "An 'analog bag' is a tote packed with non-digital activities (crosswords, sketchbook, crochet, a camera, a book) carried so people reach for it instead of their phone. It is the most visible object of a broader 2026 'analog' movement that also includes paper planners, phone-free events and dumbphones. For holiday 2026, PwC reports that most Gen Z shoppers are prioritizing screen-free gifts.",
+      "origin": {
+        "text": "Traced in press to TikTok creators in 2025. Axios covered the analog bag as a screen-free wellness trend in October 2025, and the search summary named micro-influencers including Siece Campbell. PureWow called it the hottest holiday gift of 2025.",
+        "date": "2025-10-23",
+        "evidence": [
+          "a8",
+          "a6"
+        ]
+      },
+      "adopters": {
+        "text": "Mainly Gen Z and young millennial women, according to YPulse and Fast Company, who want to cut doomscrolling and reclaim attention. It has since spread to parents gifting teens and tweens (PureWow) and to faith and lifestyle bloggers (Karen Ehman). PwC's 2026 holiday survey finds 78% of Gen Z prioritizing screen-free gifts, against 64% of all consumers.",
+        "evidence": [
+          "a4",
+          "a5",
+          "a6",
+          "a16",
+          "a1"
+        ]
+      },
+      "spread": {
+        "text": "Coverage has spread well beyond TikTok: trend trackers (YPulse, April 2026), business press (Fortune April and September 2026, Fast Company), fashion and general-interest titles (Marie Claire, Reader's Digest), a major craft retailer running a 'What's in your analog bag' class (Michaels), Eventbrite's own event data, and PwC's holiday survey. These are independent outlets, not reposts of one article.",
+        "evidence": [
+          "a4",
+          "a9",
+          "a1",
+          "a5",
+          "a19",
+          "a20",
+          "a15",
+          "a10"
+        ]
+      },
+      "trajectory": {
+        "stage": "mainstream_surge",
+        "text": "It has moved from a 2025 TikTok niche to mainstream coverage and survey-tracked behavior in 2026. Eventbrite reports phone-free events up 567% globally from 2024 to 2025. Holiday 2026 is the second gifting season for the trend, and PwC's September survey shows it shaping gift intent. Inference: interest is still rising heading into the holidays, but saturation (free printables, mass-retail kits) is the main risk.",
+        "evidence": [
+          "a10",
+          "a1",
+          "a11",
+          "a17"
+        ]
+      },
+      "productDemand": {
+        "text": "There is gift-purchase intent for the screen-free categories themselves: PwC lists puzzles, art supplies, board games and books, and 81% of Gen Z prioritize in-person holiday activities. Press frames the analog bag explicitly as a gift (PureWow 2025; Karen Ehman suggests stocking stuffers). There is no direct evidence that people buy printable analog-bag content as opposed to physical items. PwC also projects Gen Z gift spending down 9%, which favors low-price items.",
+        "evidence": [
+          "a1",
+          "a2",
+          "a6",
+          "a16",
+          "a22"
+        ]
+      },
+      "competition": {
+        "text": "An Etsy market page for 'analog bag' exists, and search results show mostly kids' screen-free activity and coloring packs at about $0.99-$6.99. analogbag.net gives away free coloring pages and plans puzzles and journal templates. Generic journal-prompt printables are saturated and cheap. Mass retailers sell the physical fillers. No adult-focused, giftable printable 'refill pack' or phone-free gathering kit was seen in results, but listing counts could not be checked because Etsy was blocked.",
+        "level": "moderate",
+        "evidence": [
+          "a14",
+          "a13",
+          "a21",
+          "a15"
+        ]
+      },
+      "gap": {
+        "text": "Missing: (1) an adult or teen-focused, gift-ready printable 'analog bag refill' with original puzzles and prompts, packaged to print and tuck into a tote or stocking at the last minute; (2) a 'phone-free table' kit for Friendsgiving and holiday dinners, tying the 81% in-person / 63% shared-meal preference to the growth in phone-free events; (3) a tote whose design is the analog bag itself, as an illustrated contents map with no brand marks. Existing printables skew toward kids and coloring.",
+        "isInference": true
+      },
+      "window": {
+        "estimate": "Now through Dec 24, 2026 for digital; POD orders by about Dec 8-10 for Christmas delivery; then January 2027 digital-detox season",
+        "reasoning": "PwC's gift intent applies to this holiday season. Digital delivers instantly, so it fits last-minute buyers (Basis reports 83% decide within days of discovering a gift; evidence a22). New listings need weeks to surface, so they should go up in October. The movement has run from 2025 through 2026 across independent outlets, so it will probably outlast the product cycle.",
+        "invalidators": [
+          "Free printable sites (e.g. analogbag.net) fill the adult segment",
+          "Etsy search does not surface new listings before mid-December",
+          "Backlash framing analog as aesthetic overconsumption",
+          "Physical kits from big retailers crowd out digital gift alternatives"
+        ],
+        "seasonality": "Peak gifting from mid-November to Dec 24; secondary peak in January (detox and New Year habits)."
+      },
+      "rights": {
+        "risk": "low",
+        "note": "'Analog bag' reads as a generic community term, but trademark filings were not checked (search budget ran out). Avoid brand names and trade dress: Polaroid, Instax/Fujifilm, Brick, Light Phone, The Offline Club, NYT Crossword/Wordle. Write all puzzles from scratch. Do not use creators' names or likenesses."
+      },
+      "scores": {
+        "timing": {
+          "score": 4,
+          "basis": "reported",
+          "rationale": "PwC (September 2026) shows screen-free gift intent for this holiday season. There are 10-11 weeks of selling time for digital."
+        },
+        "buyerIntent": {
+          "score": 3,
+          "basis": "reported",
+          "rationale": "Gift intent for screen-free categories is reported. Intent for printable (digital) versions specifically is unproven."
+        },
+        "supplyGap": {
+          "score": 2,
+          "basis": "qualitative",
+          "rationale": "An Etsy market exists, free printables are available, and generic prompts are saturated. The gap is narrow: adult and gift positioning, phone-free gathering kits."
+        },
+        "productFit": {
+          "score": 4,
+          "basis": "qualitative",
+          "rationale": "Printables and POD totes are easy for a solo AI-assisted creator. Original puzzles take care to get right."
+        },
+        "durability": {
+          "score": 4,
+          "basis": "qualitative",
+          "rationale": "Sustained from 2025 through 2026 across many independent sources and Eventbrite data. It is a movement, not a single meme."
+        },
+        "economics": {
+          "score": 3,
+          "basis": "qualitative",
+          "rationale": "Digital margins are high, but price points are low ($4-9). POD tote margins are thin after base cost and fees."
+        }
+      },
+      "recommendedAction": "test_now",
+      "actionRationale": "There is independent, multi-source evidence of a lasting movement, plus fresh survey evidence of screen-free gift intent for holiday 2026. Digital products can be built in 2-3 days and listed in October, leaving time for discovery. Test the gift-ready refill pack and the phone-free table kit first. Treat the tote as a secondary test with a hard POD cutoff in early December.",
+      "products": [
+        {
+          "buyer": "Gen Z/millennial women aged 18-34, and gift-givers (friends, parents of teens) looking for a screen-free gift or stocking stuffer",
+          "format": "printable",
+          "theme": "'Analog Bag Refill Pack': about 40 printable half-letter/A5 pages that fold into pocket booklets. Contents: original crosswords, word searches and logic grids; 30 sketch prompts; 52 journal prompts; an 'offline bingo' card; a cut-and-fold mini-zine; and a printable gift tag reading 'Your analog bag awaits'.",
+          "whyBuy": "Puzzles and art activities match the categories PwC says Gen Z wants as screen-free gifts. As a digital download it works as an instant last-minute gift or a tote/stocking filler.",
+          "evidence": [
+            "a1",
+            "a2",
+            "a4",
+            "a6"
+          ],
+          "differentiation": "Designed for adults and teens, unlike the kids' activity packs and free coloring pages. Packaged as a gift (tag, booklet fold). All puzzles original. Coordinated aesthetic with the tote.",
+          "channels": [
+            "Etsy",
+            "Pinterest",
+            "TikTok",
+            "Gumroad"
+          ],
+          "effort": "medium",
+          "effortHours": 12,
+          "leadTimeDays": 3,
+          "fulfillment": "digital",
+          "validationTest": "List on Etsy and Gumroad by Oct 10. Post 10 Pinterest pins (keywords 'analog bag ideas', 'screen-free gift') and 3 short 'pack my analog bag' videos. Run $1-2/day Etsy ads for 14 days.",
+          "continueIf": "At least one sale, or a clearly rising favorites-to-views ratio, within 14 days of ads starting; pins getting saves.",
+          "pivotIf": "Views and favorites but no sales: reposition as a family/teen 'phone-free holiday' pack, or bundle it with the table kit.",
+          "stopIf": "Fewer than about 100 listing views after 21 days of ads, or no sales by Nov 20.",
+          "rightsNote": "Write every puzzle and prompt from scratch. Do not imitate NYT/Wordle branding. Use the word 'analog' generically."
+        },
+        {
+          "buyer": "Friendsgiving and holiday-dinner hosts aged 18-35",
+          "format": "printable",
+          "theme": "'Phone-Free Table Kit': a phone-basket sign ('Phones rest here tonight'), 60 conversation cards, 4 pen-and-paper party games, and place cards. Two editions: Friendsgiving (week of Nov 26) and Christmas/New Year's Eve.",
+          "whyBuy": "81% of Gen Z prioritize in-person holiday activities and 63% say a shared meal matters more than a present (PwC via Fortune). Phone-free events are surging (Eventbrite). Hosts want an easy, instantly downloadable way to make a dinner feel offline.",
+          "evidence": [
+            "a1",
+            "a10"
+          ],
+          "differentiation": "Uses phone-free as the hook, unlike generic Friendsgiving trivia and invitations. Works for several holidays from one design system.",
+          "channels": [
+            "Etsy",
+            "Pinterest",
+            "Instagram",
+            "TikTok"
+          ],
+          "effort": "medium",
+          "effortHours": 10,
+          "leadTimeDays": 2,
+          "fulfillment": "digital",
+          "validationTest": "Publish the Friendsgiving edition by Oct 20 with pins targeting 'Friendsgiving games' and 'phone-free party'. Track listing views and saves weekly.",
+          "continueIf": "Any sales or steady favorite growth by Nov 15. If so, launch the Christmas/NYE edition by Nov 25.",
+          "pivotIf": "Friendsgiving edition gets views but no sales: drop it and put effort into the NYE 'phone-free countdown' edition.",
+          "stopIf": "Under 50 views by Nov 10 despite pins and ads.",
+          "rightsNote": "Original game rules and text. Do not use trademarked game names (Pictionary, Scattergories, etc.)."
+        },
+        {
+          "buyer": "Analog-curious Gen Z/millennials, and people buying a tote to build an analog bag as a gift",
+          "format": "tote",
+          "theme": "An illustrated 'contents map' tote: line drawings of a paperback, unbranded film camera, crochet hook and yarn, pocket crossword and pencil, with a small original phrase (e.g. 'Gone analog').",
+          "whyBuy": "The bag is the object at the center of the trend, so the tote doubles as both gift and container. Press frames analog bags as a holiday gift.",
+          "evidence": [
+            "a4",
+            "a5",
+            "a6",
+            "a15"
+          ],
+          "differentiation": "Illustration-led rather than slogan-only. Pairs with the refill pack as a 'gift set' listing.",
+          "channels": [
+            "Etsy",
+            "Redbubble",
+            "Instagram"
+          ],
+          "effort": "low",
+          "effortHours": 6,
+          "leadTimeDays": 3,
+          "fulfillment": "pod",
+          "validationTest": "List from mockups by Oct 15 and order one sample to check print quality. Promote the gift-set pairing with the refill pack.",
+          "continueIf": "Any tote sales by Nov 20.",
+          "pivotIf": "Totes get views but no sales: offer the illustration as a sticker sheet or printable art instead.",
+          "stopIf": "No sales by Dec 5 (practical POD cutoff for Christmas delivery).",
+          "rightsNote": "Draw a generic camera, not a recognizable Polaroid/Instax shape. Run a trademark search on any phrase before use (not done here)."
+        }
+      ],
+      "unresolved": [
+        "How many Etsy listings target 'analog bag', and how many are adult-focused (Etsy blocked)?",
+        "Is there buyer demand for printable versions, or only for physical kits and items?",
+        "Are there any trademark filings on 'analog bag' (USPTO not checked; search budget ran out)?",
+        "Verify the Chicory 2026 Friendsgiving figures (30% of adults; 52% of 18-29s). The search summary cited them but the source page could not be pinned down.",
+        "Eventbrite US figures differ between summaries (one says listings +337%, another says event volume +388%). The primary report was not read."
+      ],
+      "evidence": [
+        {
+          "id": "a1",
+          "url": "https://fortune.com/2026/09/16/gen-z-analog-gifts-christmas-holidays/",
+          "title": "gen z analog gifts christmas holidays (Fortune)",
+          "publisher": "Fortune",
+          "publishedAt": "2026-09-16",
+          "retrievedAt": "2026-10-04T20:59:17Z",
+          "accessMethod": "web_search_result",
+          "signalType": "press",
+          "intent": "purchase",
+          "claim": "Citing PwC's 2026 Holiday Outlook, 78% of Gen Z (versus 64% of all consumers) are interested in screen-free gifts this holiday season.",
+          "kind": "observed",
+          "syndicationOf": null,
+          "excerpt": "Summary: 78% of Gen Z interested in screen-free gifts such as puzzles, art supplies and gift cards; 81% of 1,006 Gen Z respondents prioritize in-person holiday activities; 63% say a shared meal matters more than a present; Gen Z gift spending projected down 9% to $533 from $586. WebFetch was blocked."
+        },
+        {
+          "id": "a2",
+          "url": "https://www.pwc.com/us/en/industries/consumer-markets/library/assets/ho-tl-report-final.pdf",
+          "title": "ho tl report final (PwC Holiday Outlook)",
+          "publisher": "PwC",
+          "publishedAt": null,
+          "retrievedAt": "2026-10-04T20:59:17Z",
+          "accessMethod": "web_search_result",
+          "signalType": "press",
+          "intent": "purchase",
+          "claim": "The primary PwC Holiday Outlook 2026 report behind the screen-free gift figures.",
+          "kind": "observed",
+          "syndicationOf": null,
+          "excerpt": "Appeared in results for 'PwC Holiday Outlook 2026 Gen Z screen-free gifts'. Summary: 64% of consumers overall and 78% of Gen Z are prioritizing screen-free gifts. The PDF itself was not read."
+        },
+        {
+          "id": "a4",
+          "url": "https://www.ypulse.com/newsfeed/2026/04/14/gen-zs-latest-solution-to-doomscrolling-is-analog-bags/",
+          "title": "Gen Z's latest solution to doomscrolling is \"analog bags.\" - YPulse",
+          "publisher": "YPulse",
+          "publishedAt": "2026-04-14",
+          "retrievedAt": "2026-10-04T20:59:17Z",
+          "accessMethod": "web_search_result",
+          "signalType": "press",
+          "intent": "curiosity",
+          "claim": "A youth-trend tracker identified analog bags as a Gen Z anti-doomscrolling behavior in April 2026.",
+          "kind": "observed",
+          "syndicationOf": null,
+          "excerpt": "Title only, plus the summary that young people, especially young women, pack analog bags with journals, paint, crochet materials and books."
+        },
+        {
+          "id": "a5",
+          "url": "https://www.fastcompany.com/91586986/why-gen-z-is-suddenly-carrying-analog-bags-everywhere-and-what-they-put-inside-them",
+          "title": "Why Gen Z is suddenly carrying 'analog bags' everywhere—and what they put inside them - Fast Company",
+          "publisher": "Fast Company",
+          "publishedAt": null,
+          "retrievedAt": "2026-10-04T20:59:17Z",
+          "accessMethod": "web_search_result",
+          "signalType": "press",
+          "intent": "curiosity",
+          "claim": "Business press covered the analog bag as a Gen Z behavior.",
+          "kind": "observed",
+          "syndicationOf": null,
+          "excerpt": "Title seen in results; publication date not shown (likely 2026 judging by the article ID, which is an inference)."
+        },
+        {
+          "id": "a6",
+          "url": "https://www.purewow.com/family/analog-bag",
+          "title": "I'm Calling It: An 'Analog Bag' Is 2025's Hottest Holiday Gift for Tweens, Teens and Grown-Ups Too",
+          "publisher": "PureWow",
+          "publishedAt": null,
+          "retrievedAt": "2026-10-04T20:59:17Z",
+          "accessMethod": "web_search_result",
+          "signalType": "press",
+          "intent": "purchase",
+          "claim": "The analog bag was already framed as a holiday gift in 2025, for tweens, teens and adults.",
+          "kind": "observed",
+          "syndicationOf": null,
+          "excerpt": "Summary: an analog bag is a tote full of non-digital crafts and games (watercolors, crosswords, instant cameras); suggested fillers include crochet kits, friendship bracelet kits and Polaroid cameras."
+        },
+        {
+          "id": "a7",
+          "url": "https://www.aol.com/articles/im-calling-analog-bag-2025s-121254703.html",
+          "title": "I'm Calling It: An 'Analog Bag' is 2025's Hottest Holiday Gift for Tweens, Teens and Grown-Ups Too",
+          "publisher": "AOL",
+          "publishedAt": null,
+          "retrievedAt": "2026-10-04T20:59:17Z",
+          "accessMethod": "web_search_result",
+          "signalType": "press",
+          "intent": "purchase",
+          "claim": "Syndicated copy of the PureWow article.",
+          "kind": "observed",
+          "syndicationOf": "a6",
+          "excerpt": "Same title as a6, on AOL."
+        },
+        {
+          "id": "a8",
+          "url": "https://www.axios.com/2025/10/23/analog-bag-screen-free-wellness",
+          "title": "analog bag screen free wellness (Axios)",
+          "publisher": "Axios",
+          "publishedAt": "2025-10-23",
+          "retrievedAt": "2026-10-04T20:59:17Z",
+          "accessMethod": "web_search_result",
+          "signalType": "press",
+          "intent": "curiosity",
+          "claim": "National press covered the analog bag as a screen-free wellness trend by October 2025.",
+          "kind": "observed",
+          "syndicationOf": null,
+          "excerpt": "Appeared in results for the analog-lifestyle query. That query's summary named micro-influencers including Siece Campbell as developing the analog bag; tying that sentence to this page specifically is not confirmed."
+        },
+        {
+          "id": "a9",
+          "url": "https://fortune.com/2026/04/01/gen-z-analog-economy-5-billion-market-nostalgia",
+          "title": "Gen Z is engineering an analog future — and it's at least a $5 billion opportunity",
+          "publisher": "Fortune",
+          "publishedAt": "2026-04-01",
+          "retrievedAt": "2026-10-04T20:59:17Z",
+          "accessMethod": "web_search_result",
+          "signalType": "press",
+          "intent": "curiosity",
+          "claim": "Business press framed Gen Z's analog and pre-smartphone nostalgia as a commercial opportunity in April 2026.",
+          "kind": "observed",
+          "syndicationOf": null,
+          "excerpt": "Summary: 13-25-year-olds long for a tech-free past ('anemoia'); analog experiences are flourishing; the social-media-blocker app market is projected at $5B by 2035 (that figure concerns apps, not physical analog goods)."
+        },
+        {
+          "id": "a9b",
+          "url": "https://finance.yahoo.com/sectors/technology/articles/gen-z-engineering-analog-future-090000793.html",
+          "title": "Gen Z is engineering an analog future — and it's at least a $5 billion opportunity",
+          "publisher": "Yahoo Finance",
+          "publishedAt": null,
+          "retrievedAt": "2026-10-04T20:59:17Z",
+          "accessMethod": "web_search_result",
+          "signalType": "press",
+          "intent": "curiosity",
+          "claim": "Syndicated copy of the Fortune analog-economy article.",
+          "kind": "observed",
+          "syndicationOf": "a9",
+          "excerpt": "Same title as a9."
+        },
+        {
+          "id": "a10",
+          "url": "https://www.eventbrite.com/blog/?p=441080",
+          "title": "Offline by Design: The Rise of Phone-Free Experiences in 2026's Analog Era",
+          "publisher": "Eventbrite",
+          "publishedAt": null,
+          "retrievedAt": "2026-10-04T20:59:17Z",
+          "accessMethod": "web_search_result",
+          "signalType": "community",
+          "intent": "utility",
+          "claim": "Eventbrite's listing data shows phone-free events up 567% globally from 2024 to 2025, with US attendance up 913%.",
+          "kind": "observed",
+          "syndicationOf": null,
+          "excerpt": "Summary (also carried by Mixmag): analyzed listings using 'phone-free'/'photo-free' terms for 2024, 2025 and Q1 2026; global events +567%, attendance +121%; US listings +337%, attendance +913%; 49% of Gen Z/millennials want live experiences to feel less curated."
+        },
+        {
+          "id": "a10b",
+          "url": "https://mixmag.net/read/phone-free-club-events-up-by-567-new-data-reveals-news",
+          "title": "\"Phone-free\" club events rose by 567% globally in 2025, new data reveals - Mixmag.net",
+          "publisher": "Mixmag",
+          "publishedAt": null,
+          "retrievedAt": "2026-10-04T20:59:17Z",
+          "accessMethod": "web_search_result",
+          "signalType": "press",
+          "intent": "curiosity",
+          "claim": "Press report of the same Eventbrite data; not an independent signal.",
+          "kind": "observed",
+          "syndicationOf": "a10",
+          "excerpt": "Reports Eventbrite's 567% figure."
+        },
+        {
+          "id": "a11",
+          "url": "https://www.deseret.com/entertainment/2026/01/05/how-to-get-organized-and-stay-off-the-phone-in-the-new-year-2026-planners-journals-hobbies/",
+          "title": "2026: The rise of the analog lifestyle",
+          "publisher": "Deseret News",
+          "publishedAt": "2026-01-05",
+          "retrievedAt": "2026-10-04T20:59:17Z",
+          "accessMethod": "web_search_result",
+          "signalType": "press",
+          "intent": "utility",
+          "claim": "Regional press tied the analog lifestyle to planners, journals and hobbies at the start of 2026.",
+          "kind": "observed",
+          "syndicationOf": null,
+          "excerpt": "Title and URL indicate a New Year 2026 piece on staying off the phone with planners, journals and hobbies."
+        },
+        {
+          "id": "a13",
+          "url": "https://analogbag.net/about",
+          "title": "Analog Bag - Free Printables for Screen-Free Fun",
+          "publisher": "analogbag.net",
+          "publishedAt": null,
+          "retrievedAt": "2026-10-04T20:59:17Z",
+          "accessMethod": "web_search_result",
+          "signalType": "marketplace",
+          "intent": "utility",
+          "claim": "A dedicated site gives away free analog-bag printables, which competes with paid printables.",
+          "kind": "observed",
+          "syndicationOf": null,
+          "excerpt": "Summary: free mandala coloring pages, sudoku, origami templates, journal prompts and perler patterns; more puzzle and journal categories 'coming soon'."
+        },
+        {
+          "id": "a14",
+          "url": "https://www.etsy.com/market/analog_bag",
+          "title": "Analog Bag - Etsy",
+          "publisher": "Etsy",
+          "publishedAt": null,
+          "retrievedAt": "2026-10-04T20:59:17Z",
+          "accessMethod": "web_search_result",
+          "signalType": "marketplace",
+          "intent": "none",
+          "claim": "Etsy has a market page for 'analog bag', showing that supply exists; the number of listings is unknown.",
+          "kind": "observed",
+          "syndicationOf": null,
+          "excerpt": "Summary mentioned retro gaming coloring sets marketed as no-screen activity packs and kids' printable bundles, with downloads at about $0.99-$6.99. WebFetch was blocked, so no counts."
+        },
+        {
+          "id": "a15",
+          "url": "https://www.michaels.com/class/vod/what%27s-in-your-analog-bag-1171349683",
+          "title": "What's in your analog bag (Michaels class)",
+          "publisher": "Michaels",
+          "publishedAt": null,
+          "retrievedAt": "2026-10-04T20:59:17Z",
+          "accessMethod": "web_search_result",
+          "signalType": "marketplace",
+          "intent": "utility",
+          "claim": "A major US craft retailer runs a class themed on analog bags, a sign of mainstream retail adoption.",
+          "kind": "observed",
+          "syndicationOf": null,
+          "excerpt": "Class URL appeared in results for 'walmart analog bag kit'."
+        },
+        {
+          "id": "a16",
+          "url": "https://karenehman.com/2026/03/how-to-create-an-analog-bag/",
+          "title": "How to Create an Analog Bag - Karen Ehman",
+          "publisher": "Karen Ehman (blog)",
+          "publishedAt": null,
+          "retrievedAt": "2026-10-04T20:59:17Z",
+          "accessMethod": "web_search_result",
+          "signalType": "creator",
+          "intent": "purchase",
+          "claim": "A Christian lifestyle author (March 2026) suggests analog-bag contents, including devotionals, and frames it as a stocking-stuffer idea.",
+          "kind": "observed",
+          "syndicationOf": null,
+          "excerpt": "URL dated March 2026. Summary lists crosswords, sketchbook, devotional books and embroidery/crochet kits, and says an analog bag is ideal as a stocking stuffer."
+        },
+        {
+          "id": "a17",
+          "url": "https://www.purewow.com/tech/biggest-flex-2026-being-offline",
+          "title": "The Biggest Flex of 2026: Being Offline",
+          "publisher": "PureWow",
+          "publishedAt": null,
+          "retrievedAt": "2026-10-04T20:59:17Z",
+          "accessMethod": "web_search_result",
+          "signalType": "press",
+          "intent": "curiosity",
+          "claim": "Lifestyle press frames being offline as a 2026 status signal (also syndicated on AOL).",
+          "kind": "observed",
+          "syndicationOf": null,
+          "excerpt": "Summary: lack of screen time became a social indicator in 2026 (Brick, analog hobbies)."
+        },
+        {
+          "id": "a19",
+          "url": "https://www.marieclaire.com/fashion/analog-bags-tiktok-trend-reduce-doomscrolling/",
+          "title": "The Analog Bag Trend Is an Antidote to Algorithm Brain Rot and Doomscrolling",
+          "publisher": "Marie Claire",
+          "publishedAt": null,
+          "retrievedAt": "2026-10-04T20:59:17Z",
+          "accessMethod": "web_search_result",
+          "signalType": "press",
+          "intent": "curiosity",
+          "claim": "Fashion press covered the analog bag trend.",
+          "kind": "observed",
+          "syndicationOf": null,
+          "excerpt": "Title only; date not shown."
+        },
+        {
+          "id": "a20",
+          "url": "https://www.rd.com/article/analog-bag/",
+          "title": "The Antidote to Doomscrolling? The Analog Bag. Here's How to Create Your Own",
+          "publisher": "Reader's Digest",
+          "publishedAt": null,
+          "retrievedAt": "2026-10-04T20:59:17Z",
+          "accessMethod": "web_search_result",
+          "signalType": "press",
+          "intent": "utility",
+          "claim": "General-interest press aimed at older readers covered how to build an analog bag, suggesting spread beyond Gen Z.",
+          "kind": "observed",
+          "syndicationOf": null,
+          "excerpt": "Title only; date not shown."
+        },
+        {
+          "id": "a21",
+          "url": "https://www.etsy.com/market/journal_prompts",
+          "title": "Journal Prompts - Etsy",
+          "publisher": "Etsy",
+          "publishedAt": null,
+          "retrievedAt": "2026-10-04T20:59:17Z",
+          "accessMethod": "web_search_result",
+          "signalType": "marketplace",
+          "intent": "none",
+          "claim": "Generic journal-prompt printables are plentiful and cheap on Etsy.",
+          "kind": "observed",
+          "syndicationOf": null,
+          "excerpt": "Summary of the Etsy journal-prompt results said 365-prompt printables sell for about $1.53-$3.81 (figure from the result set, not tied to one listing)."
+        },
+        {
+          "id": "a22",
+          "url": "https://basis.com/news/one-third-of-holiday-shoppers-expect-to-spend-more-on-gifts-in-2026-due-to-inflation",
+          "title": "One Third of Holiday Shoppers Expect to Spend More on Gifts in 2026, Largely Due to Inflation | Basis",
+          "publisher": "Basis",
+          "publishedAt": null,
+          "retrievedAt": "2026-10-04T20:53:52Z",
+          "accessMethod": "web_search_result",
+          "signalType": "press",
+          "intent": "purchase",
+          "claim": "Basis's 2026 Winter Holiday Shopping Trends Report (July 2026) says 83% of shoppers decide on a gift within a few days of discovering it, and 71% use digital tools (search, social, AI) to find gift ideas.",
+          "kind": "observed",
+          "syndicationOf": null,
+          "excerpt": "Summary: 35% plan to spend more than in 2025 (64% of those cite inflation); 83% decide within a few days or less; consumers want gifts that feel meaningful and smart."
+        }
+      ],
+      "observations": [
+        {
+          "metric": "Gen Z shoppers prioritizing screen-free gifts (holiday 2026)",
+          "value": 78,
+          "unit": "percent of Gen Z respondents",
+          "asOf": "2026-09-16",
+          "evidence": "a1",
+          "isAbsolute": true,
+          "note": "Reported by Fortune citing PwC Holiday Outlook 2026 (n=1,006 Gen Z); not independently verified."
+        },
+        {
+          "metric": "All consumers prioritizing screen-free gifts (holiday 2026)",
+          "value": 64,
+          "unit": "percent of respondents",
+          "asOf": "2026-09-16",
+          "evidence": "a1",
+          "isAbsolute": true,
+          "note": "Reported by Fortune/PwC; not independently verified."
+        },
+        {
+          "metric": "Gen Z prioritizing in-person activities during the holidays",
+          "value": 81,
+          "unit": "percent of Gen Z respondents",
+          "asOf": "2026-09-16",
+          "evidence": "a1",
+          "isAbsolute": true,
+          "note": "Reported by Fortune/PwC."
+        },
+        {
+          "metric": "Projected Gen Z holiday gift spending per person",
+          "value": 533,
+          "unit": "USD (down from 586, -9%)",
+          "asOf": "2026-09-16",
+          "evidence": "a1",
+          "isAbsolute": true,
+          "note": "PwC projection reported by Fortune; a forecast, not measured spending."
+        },
+        {
+          "metric": "Growth in phone-free event listings, global, 2024 to 2025",
+          "value": 567,
+          "unit": "percent increase",
+          "asOf": "2026-10-04",
+          "evidence": "a10",
+          "isAbsolute": false,
+          "note": "Reported by Eventbrite (and Mixmag). A relative growth figure from a low base; Eventbrite listings only. Publication date of the report not seen."
+        },
+        {
+          "metric": "Growth in US phone-free event attendance, 2024 to 2025",
+          "value": 913,
+          "unit": "percent increase",
+          "asOf": "2026-10-04",
+          "evidence": "a10",
+          "isAbsolute": false,
+          "note": "Reported by Eventbrite; US listing growth given as 337% in one summary and 388% (event volume) in another."
+        }
+      ]
+    },
+    {
+      "name": "The Great Lock-In 2026 (end-of-year self-improvement sprint)",
+      "aliases": [
+        "The Great Lock In",
+        "Great Lock-In 2026",
+        "lock in 2026",
+        "Winter Arc",
+        "winter lock in",
+        "Last 90 Days challenge",
+        "Lock in for 2027"
+      ],
+      "category": "movement",
+      "summary": "A TikTok-born challenge where people use September 1 to December 31 to build habits and work on goals, instead of waiting for New Year's resolutions.",
+      "what": "Participants pick a small set of personal goals (fitness, money, reading, sleep, organization, and in 2026 more mindfulness) and 'lock in' on them for the last four months of the year. There are no official rules. It started on TikTok in August 2025 and returned for 2026. It overlaps with the older 'Winter Arc' (Oct 1 to Dec 31) and 'last 90 days' challenges, and feeds the 'lock-in/rebrand instead of resolutions' framing for the New Year.",
+      "origin": {
+        "text": "Became widely known on TikTok in late August and early September 2025. Fortune covered it on 2025-09-11 as a Gen Z rejection of the 'soft life'. SEO explainers say it started on TikTok in August 2025 and returns every September. 'Lock in' is described as UK-origin slang for hyper-focusing.",
+        "date": null,
+        "evidence": [
+          "l4",
+          "l5",
+          "l18"
+        ]
+      },
+      "adopters": {
+        "text": "Gen Z and young millennials on TikTok, with coverage of adoption in Black online communities (The Root, TheGrio). Fitness and wellness brands (Gymshark, Johnson Fitness UK) and productivity apps (Motion, HabitHuddle) publish content about it. People want structure and a fresh start without waiting for January.",
+        "evidence": [
+          "l1",
+          "l10",
+          "l13",
+          "l14",
+          "l3"
+        ]
+      },
+      "spread": {
+        "text": "In 2025: Fortune, CTV/CP24, CBC (critical), Newsweek (per explainers), a Know Your Meme entry. In 2026: TheGrio (2026-09-01, syndicated by Yahoo), BuzzFeed ('taking over TikTok again'), a Yahoo homebuying angle, and many SEO explainer pages. Brands and apps produce their own content. Attention is spreading independently, but much of the 2026 coverage restates the explainer.",
+        "evidence": [
+          "l4",
+          "l9",
+          "l8",
+          "l1",
+          "l3",
+          "l12",
+          "l5"
+        ]
+      },
+      "trajectory": {
+        "stage": "mainstream_surge",
+        "text": "This is the second annual cycle, with mainstream coverage in 2026 describing a broader, more holistic version. Within the year, attention likely peaks around Sept 1 (inference from timing), and we are already 34 days in. The sibling alias 'Winter Arc' shows how fast these names churn: spiketoday reports its 2025 Google Trends peak was about a quarter of the 2024 peak. Inference: the end-of-year sprint ritual is durable, but any single name may fade within 1-2 years.",
+        "evidence": [
+          "l1",
+          "l3",
+          "l11"
+        ]
+      },
+      "productDemand": {
+        "text": "Most signals are participation and curiosity content (videos documenting rules and routines) rather than purchase intent. Paid products exist for the sibling Winter Arc trend (Gumroad and Payhip journals and trackers), and Etsy sells many generic habit trackers at $1-6, which shows people buy trackers in general. No sales data for lock-in-branded products was found. Trill Mag reports Gen Z replacing resolutions with 'rebrands' and 'lock-ins' planned months ahead, which supports a New Year 2027 planner angle.",
+        "evidence": [
+          "l3",
+          "l15",
+          "l19",
+          "l16"
+        ]
+      },
+      "competition": {
+        "text": "Generic printable habit trackers are saturated on Etsy. Free apps (Motion, HabitHuddle) publish Winter Arc and Lock-In guides. Winter Arc journals are sold on Gumroad. A search for lock-in-specific Etsy trackers returned only generic trackers, which suggests few trend-named listings, but Etsy could not be checked directly.",
+        "level": "moderate",
+        "evidence": [
+          "l19",
+          "l15",
+          "l11"
+        ]
+      },
+      "gap": {
+        "text": "A dated 'final 12 weeks of 2026' Lock-In tracker that includes a progress log for proving results with numbers (borrowing the 2026 'potential-maxxing' habit of quantifying growth), and especially a 'Lock In 2027' quarterly sprint planner that carries the lock-in identity into January for resolution skeptics. Existing products are either generic trackers or tied to the fading 'Winter Arc' name.",
+        "isInference": true
+      },
+      "window": {
+        "estimate": "Sprint tracker: now to mid-November at best. 'Lock In 2027' planner: list by Dec 1, sell Dec 15 to Jan 31",
+        "reasoning": "The 2026 lock-in started Sept 1 and is already a month old. A new listing needs weeks to surface, so a Sept-Dec tracker mostly misses the window. New Year planning is the stronger window, and the 'lock-in instead of resolutions' framing is documented.",
+        "invalidators": [
+          "The 'Great Lock-In' name fades the way 'Winter Arc' did",
+          "TikTok moves to a new name for the January reset",
+          "Backlash about burnout and 'grind culture' (CBC critique) reduces appeal",
+          "Free app templates meet the need"
+        ],
+        "seasonality": "Two peaks a year: early September (lock-in start) and late December to early January (resolution season). Winter Arc peaks around Oct 1."
+      },
+      "rights": {
+        "risk": "low",
+        "note": "'Great Lock-In', 'lock in' and 'winter arc' read as community slang, but trademark filings were not checked (search budget ran out). Avoid brand names (Gymshark), creator names and likenesses, and any health or fitness outcome claims."
+      },
+      "scores": {
+        "timing": {
+          "score": 2,
+          "basis": "qualitative",
+          "rationale": "The 2026 sprint is a month old and a new listing needs weeks to surface. Timing is better for a New Year 2027 product."
+        },
+        "buyerIntent": {
+          "score": 2,
+          "basis": "qualitative",
+          "rationale": "Evidence is mostly participation and curiosity. Paid winter-arc journals exist but there is no sales evidence."
+        },
+        "supplyGap": {
+          "score": 3,
+          "basis": "qualitative",
+          "rationale": "Few trend-named products were seen (unverified, Etsy blocked), but generic trackers and free apps substitute easily."
+        },
+        "productFit": {
+          "score": 5,
+          "basis": "qualitative",
+          "rationale": "A dated tracker or planner is a quick, low-risk printable."
+        },
+        "durability": {
+          "score": 3,
+          "basis": "reported",
+          "rationale": "The ritual recurs every year, but names churn: Winter Arc's 2025 peak was about a quarter of 2024's, per spiketoday."
+        },
+        "economics": {
+          "score": 3,
+          "basis": "qualitative",
+          "rationale": "Digital at $3-9 with near-zero cost, and an optional KDP paperback. Prices are low."
+        }
+      },
+      "recommendedAction": "prepare",
+      "actionRationale": "The trend is real and covered by mainstream press in 2026, but purchase intent is unproven and the 2026 sprint window is closing. A one-day '12 final weeks' tracker is a cheap way to test the name now. The main bet is a 'Lock In 2027' planner listed by Dec 1 for the resolution season.",
+      "products": [
+        {
+          "buyer": "TikTok-native 18-30-year-olds doing a late-year lock-in or winter arc",
+          "format": "printable",
+          "theme": "'Lock-In: The Final 12 Weeks of 2026' (Oct 6 to Dec 27): pick 3 non-negotiables, a daily check grid, a weekly reflection, and a 'proof log' page for recording numbers (pages read, workouts, dollars saved).",
+          "whyBuy": "It turns a free-form TikTok challenge into a dated, printable structure. The proof log matches the 2026 trend of showing growth with numbers.",
+          "evidence": [
+            "l1",
+            "l3",
+            "l20",
+            "l21"
+          ],
+          "differentiation": "Dated to the 2026 lock-in and named for it, unlike generic undated trackers. Includes the proof log.",
+          "channels": [
+            "Etsy",
+            "Gumroad",
+            "TikTok",
+            "Pinterest"
+          ],
+          "effort": "low",
+          "effortHours": 5,
+          "leadTimeDays": 1,
+          "fulfillment": "digital",
+          "validationTest": "List on Etsy and Gumroad by Oct 6. Post 3 short 'my last-12-weeks lock-in setup' videos and 5 pins.",
+          "continueIf": "Any sales or 20+ favorites within 14 days.",
+          "pivotIf": "Views but no sales: make it free as a lead magnet for the 2027 planner.",
+          "stopIf": "Under about 50 views by Oct 25. Fold the design into the 2027 product.",
+          "rightsNote": "Generic slang only. No fitness or health outcome claims."
+        },
+        {
+          "buyer": "Resolution skeptics aged 18-35 who prefer short sprints and a 'rebrand' over January resolutions",
+          "format": "planner",
+          "theme": "'Lock In 2027': a 12-week Q1 sprint planner with a yearly vision/'rebrand' page, quarterly goal breakdown, weekly non-negotiables, habit and proof logs, and an optional low-buy tracker page. Sold as a printable plus a GoodNotes-compatible PDF, with an optional KDP paperback.",
+          "whyBuy": "Carries the lock-in identity into the New Year. Trill Mag and Yahoo report Gen Z replacing resolutions with lock-ins, rebrands and arcs.",
+          "evidence": [
+            "l16",
+            "l17",
+            "l3"
+          ],
+          "differentiation": "Lock-in framing and 12-week sprints instead of a year-long dated planner. Bundles the no-buy and rebrand rituals into one product.",
+          "channels": [
+            "Etsy",
+            "Gumroad",
+            "Amazon KDP",
+            "Pinterest",
+            "TikTok"
+          ],
+          "effort": "medium",
+          "effortHours": 14,
+          "leadTimeDays": 4,
+          "fulfillment": "digital",
+          "validationTest": "Pre-list by Nov 15 so the listing ages. Pin weekly. Start TikTok 'plan my 2027 lock-in' content around Dec 15.",
+          "continueIf": "Sales or rising favorites by Dec 20. If so, add the KDP paperback and a Q2 refill.",
+          "pivotIf": "The lock-in name gets no traction: retitle around '12-week year' or 'Q1 sprint' wording.",
+          "stopIf": "No sales by Jan 10, 2027.",
+          "rightsNote": "Avoid the trademarked '12 Week Year' title and the names of commercial planner brands. Use generic wording."
+        }
+      ],
+      "unresolved": [
+        "Is the 2026 lock-in growing or shrinking compared with 2025? No search-interest data was available (Google Trends blocked).",
+        "Do lock-in-named products sell on Etsy? Listings and reviews could not be checked.",
+        "The '16.5M posts related to Lock in 2026 on TikTok' figure came from a search summary of a result set that included a TikTok discover page. It probably counts unrelated uses of 'lock in' and its source page is unconfirmed.",
+        "Will the January 2027 reset adopt 'lock in' language or a new name?"
+      ],
+      "evidence": [
+        {
+          "id": "l1",
+          "url": "https://thegrio.com/2026/09/01/the-great-lock-in-is-back-but-is-it-for-you/",
+          "title": "The \"Great Lock-In\" is back, but is it for you? - TheGrio",
+          "publisher": "TheGrio",
+          "publishedAt": "2026-09-01",
+          "retrievedAt": "2026-10-04T20:59:17Z",
+          "accessMethod": "web_search_result",
+          "signalType": "press",
+          "intent": "curiosity",
+          "claim": "The Great Lock-In returned for a second year in September 2026.",
+          "kind": "observed",
+          "syndicationOf": null,
+          "excerpt": "Title and date seen. Summary: it runs Sept 1 to Dec 31, 2026; people use the last four months to lock in on goals."
+        },
+        {
+          "id": "l2",
+          "url": "https://www.yahoo.com/lifestyle/articles/great-lock-back-224100963.html",
+          "title": "The \"Great Lock-In\" is back, but is it for you?",
+          "publisher": "Yahoo Lifestyle",
+          "publishedAt": null,
+          "retrievedAt": "2026-10-04T20:59:17Z",
+          "accessMethod": "web_search_result",
+          "signalType": "press",
+          "intent": "curiosity",
+          "claim": "Syndicated copy of the TheGrio article.",
+          "kind": "observed",
+          "syndicationOf": "l1",
+          "excerpt": "Same title as l1."
+        },
+        {
+          "id": "l3",
+          "url": "https://www.buzzfeed.com/beccamonaghan/the-great-lock-in-tiktok-explained",
+          "title": "The \"Great Lock In\" Is Taking Over TikTok Again – But What Is It, Exactly?",
+          "publisher": "BuzzFeed",
+          "publishedAt": null,
+          "retrievedAt": "2026-10-04T20:59:17Z",
+          "accessMethod": "web_search_result",
+          "signalType": "press",
+          "intent": "curiosity",
+          "claim": "In 2026 the lock-in is 'taking over TikTok again', with a more holistic, mindfulness-inclusive focus ahead of 2027.",
+          "kind": "observed",
+          "syndicationOf": null,
+          "excerpt": "Summary: TikTok has tens of thousands of videos documenting plans, routines and rules for the final stretch of 2026; goals range from fitness and saving money to reading and sleep; the 2026 version adds mindfulness and mental wellbeing."
+        },
+        {
+          "id": "l4",
+          "url": "https://fortune.com/2025/09/11/what-is-the-great-lock-in-gen-z-millennial-hustle-culture-burnout/",
+          "title": "The 'Great Lock-In' is more than a Gen Z TikTok trend—it's a rejection of millennials' 'soft life' and taking back power in this economy",
+          "publisher": "Fortune",
+          "publishedAt": "2025-09-11",
+          "retrievedAt": "2026-10-04T20:59:17Z",
+          "accessMethod": "web_search_result",
+          "signalType": "press",
+          "intent": "curiosity",
+          "claim": "The trend had reached business press by September 2025, framed as a Gen Z response to the economy and the 'soft life'.",
+          "kind": "observed",
+          "syndicationOf": null,
+          "excerpt": "Title and date seen in results."
+        },
+        {
+          "id": "l5",
+          "url": "https://www.takeroon.com/blog/the-great-lock-in-2026",
+          "title": "The Great Lock In 2026: Dates, Rules, How to Start",
+          "publisher": "Takeroon (blog)",
+          "publishedAt": null,
+          "retrievedAt": "2026-10-04T20:59:17Z",
+          "accessMethod": "web_search_result",
+          "signalType": "creator",
+          "intent": "utility",
+          "claim": "SEO explainer: the lock-in runs Sept 1 to Dec 31, 2026 (122 days), began on TikTok in August 2025, returns every September and has no official rules.",
+          "kind": "observed",
+          "syndicationOf": null,
+          "excerpt": "The summary attributes these facts to the 2026 explainer pages (takeroon and lock-in.info share the same title)."
+        },
+        {
+          "id": "l5b",
+          "url": "https://lock-in.info/discipline/great-lock-in/",
+          "title": "The Great Lock In 2026: Dates, Rules, How to Start",
+          "publisher": "lock-in.info",
+          "publishedAt": null,
+          "retrievedAt": "2026-10-04T20:59:17Z",
+          "accessMethod": "web_search_result",
+          "signalType": "creator",
+          "intent": "utility",
+          "claim": "Same title as l5. Treated as a duplicate or syndicated explainer.",
+          "kind": "observed",
+          "syndicationOf": "l5",
+          "excerpt": "Identical title to the takeroon page."
+        },
+        {
+          "id": "l8",
+          "url": "https://www.cbc.ca/lite/story/1.7633944",
+          "title": "Is TikTok's 'Great Lock-In' more detrimental than it seems?",
+          "publisher": "CBC",
+          "publishedAt": null,
+          "retrievedAt": "2026-10-04T20:59:17Z",
+          "accessMethod": "web_search_result",
+          "signalType": "press",
+          "intent": "criticism",
+          "claim": "Critical coverage questions whether the lock-in is harmful (likely 2025).",
+          "kind": "observed",
+          "syndicationOf": null,
+          "excerpt": "Title only. This is criticism, not demand."
+        },
+        {
+          "id": "l9",
+          "url": "https://www.ctvnews.ca/lifestyle/article/the-great-lock-in-heres-everything-you-need-to-know-about-the-new-social-media-trend/",
+          "title": "Here's everything you need to know about 'The Great Lock In'",
+          "publisher": "CTV News",
+          "publishedAt": null,
+          "retrievedAt": "2026-10-04T20:59:17Z",
+          "accessMethod": "web_search_result",
+          "signalType": "press",
+          "intent": "curiosity",
+          "claim": "Canadian national press explained the trend in 2025. A CP24 copy is dated 2025-09-04.",
+          "kind": "observed",
+          "syndicationOf": null,
+          "excerpt": "Summary: 'lock in' is UK-origin slang for hyper-focusing; the great lock-in is a 3-4 month end-of-year habit-building period. A CP24 copy (cp24.com/news/world/2025/09/04/...) appeared in results."
+        },
+        {
+          "id": "l10",
+          "url": "https://www.theroot.com/black-folks-online-are-doing-the-great-lock-in-heres-h-2000123734",
+          "title": "Black Folks Online Are Getting Ready for 'The Great Lock In'",
+          "publisher": "The Root",
+          "publishedAt": null,
+          "retrievedAt": "2026-10-04T20:59:17Z",
+          "accessMethod": "web_search_result",
+          "signalType": "press",
+          "intent": "curiosity",
+          "claim": "Adoption was covered in Black online communities.",
+          "kind": "observed",
+          "syndicationOf": null,
+          "excerpt": "Title only; year not shown."
+        },
+        {
+          "id": "l11",
+          "url": "https://spiketoday.com/winter-arc-challenge/",
+          "title": "Winter Arc 2026: What It Is, the Rules and the Start Date",
+          "publisher": "Spike Today",
+          "publishedAt": null,
+          "retrievedAt": "2026-10-04T20:59:17Z",
+          "accessMethod": "web_search_result",
+          "signalType": "search",
+          "intent": "curiosity",
+          "claim": "Reports that worldwide Google searches for 'winter arc' peaked in the week of Oct 1 in both 2024 and 2025, that the 2025 peak was about a quarter of 2024's, and that searches were climbing again this week.",
+          "kind": "observed",
+          "syndicationOf": null,
+          "excerpt": "Summary: 'The trend is smaller than it was previously' plus the Google Trends description above. Google Trends was not checked directly (blocked)."
+        },
+        {
+          "id": "l12",
+          "url": "https://www.yahoo.com/lifestyle/articles/tiktok-great-lock-could-fuel-014600519.html",
+          "title": "How TikTok's 'Great Lock‑In' Could Fuel the Next Generation's Homebuying Hustle",
+          "publisher": "Yahoo Lifestyle",
+          "publishedAt": null,
+          "retrievedAt": "2026-10-04T20:59:17Z",
+          "accessMethod": "web_search_result",
+          "signalType": "press",
+          "intent": "curiosity",
+          "claim": "The trend has spread into personal-finance and homebuying framing.",
+          "kind": "observed",
+          "syndicationOf": null,
+          "excerpt": "Title only."
+        },
+        {
+          "id": "l13",
+          "url": "https://row.gymshark.com/blog/article/the-great-lock-in",
+          "title": "What is The Great Lock-In of 2025? TikTok's New Viral Trend Explained",
+          "publisher": "Gymshark",
+          "publishedAt": null,
+          "retrievedAt": "2026-10-04T20:59:17Z",
+          "accessMethod": "web_search_result",
+          "signalType": "creator",
+          "intent": "utility",
+          "claim": "A major fitness brand produced lock-in content in 2025.",
+          "kind": "observed",
+          "syndicationOf": null,
+          "excerpt": "Title only."
+        },
+        {
+          "id": "l14",
+          "url": "https://uk.johnsonfitness.com/blogs/fitness/the-great-lock-in-september-to-december",
+          "title": "The Great Lock-In: September to December",
+          "publisher": "Johnson Fitness UK",
+          "publishedAt": null,
+          "retrievedAt": "2026-10-04T20:59:17Z",
+          "accessMethod": "web_search_result",
+          "signalType": "creator",
+          "intent": "utility",
+          "claim": "Fitness retailers publish lock-in content.",
+          "kind": "observed",
+          "syndicationOf": null,
+          "excerpt": "Title only."
+        },
+        {
+          "id": "l15",
+          "url": "https://thebasedchad.gumroad.com/l/winterarc",
+          "title": "Winter Arc Ready - Journal (Gumroad)",
+          "publisher": "Gumroad seller",
+          "publishedAt": null,
+          "retrievedAt": "2026-10-04T20:59:17Z",
+          "accessMethod": "web_search_result",
+          "signalType": "marketplace",
+          "intent": "purchase",
+          "claim": "Paid digital journals exist for the sibling Winter Arc trend.",
+          "kind": "observed",
+          "syndicationOf": null,
+          "excerpt": "Summary: digital tracker with 30 weeks of self-development, daily quotes, daily tracker, accountability and goal setting. No sales data."
+        },
+        {
+          "id": "l16",
+          "url": "https://www.trillmag.com/lifestyle/new-years-healthier-me-how-gen-z-is-creating-a-holistic-plan-for-2026/",
+          "title": "'New Year's, Healthier Me': How Gen Z Is Creating A Holistic Plan For 2026",
+          "publisher": "Trill Mag",
+          "publishedAt": null,
+          "retrievedAt": "2026-10-04T20:59:17Z",
+          "accessMethod": "web_search_result",
+          "signalType": "press",
+          "intent": "curiosity",
+          "claim": "Gen Z is choosing New Year 'rebrands' and 'lock-ins' instead of resolutions, planned months ahead with vision boards.",
+          "kind": "observed",
+          "syndicationOf": null,
+          "excerpt": "Summary: young people replace resolutions with rebrands and lock-ins and plan their rebrand months before the holidays."
+        },
+        {
+          "id": "l17",
+          "url": "https://www.yahoo.com/lifestyle/gen-z-millennials-scrapping-resolutions-152048714.html",
+          "title": "Gen Z, Millennials scrapping New Year's resolutions for viral 'winter arcs': Why they may be more effective",
+          "publisher": "Yahoo Lifestyle",
+          "publishedAt": null,
+          "retrievedAt": "2026-10-04T20:59:17Z",
+          "accessMethod": "web_search_result",
+          "signalType": "press",
+          "intent": "curiosity",
+          "claim": "The sprint-instead-of-resolutions framing was covered earlier for Winter Arc (likely the 2024-25 season).",
+          "kind": "observed",
+          "syndicationOf": null,
+          "excerpt": "Summary mentions about 400,000 Instagram posts tagged #winterarc and nearly 600,000 on TikTok as of the article's (unknown) date."
+        },
+        {
+          "id": "l18",
+          "url": "https://amp.knowyourmeme.com/memes/the-great-lock-in-of-2025",
+          "title": "The Great Lock In of 2025",
+          "publisher": "Know Your Meme",
+          "publishedAt": null,
+          "retrievedAt": "2026-10-04T20:59:17Z",
+          "accessMethod": "web_search_result",
+          "signalType": "community",
+          "intent": "curiosity",
+          "claim": "The 2025 trend is documented as a meme entry.",
+          "kind": "observed",
+          "syndicationOf": null,
+          "excerpt": "Title only."
+        },
+        {
+          "id": "l19",
+          "url": "https://www.etsy.com/listing/1803405090",
+          "title": "Printable Bullet Journal Tracker Bundle, Undated Yearly Planner (PDF)",
+          "publisher": "Etsy",
+          "publishedAt": null,
+          "retrievedAt": "2026-10-04T20:59:17Z",
+          "accessMethod": "web_search_result",
+          "signalType": "marketplace",
+          "intent": "none",
+          "claim": "A search for lock-in trackers on Etsy returned only generic tracker bundles, which suggests generic supply is heavy and trend-named supply is limited.",
+          "kind": "inference",
+          "syndicationOf": null,
+          "excerpt": "Summary listed Year-in-Pixels ($1.70), a monthly tracker grid ($3.95) and a 40+ page tracker bundle; prices about $1-6."
+        },
+        {
+          "id": "l20",
+          "url": "https://iamtameradarden.substack.com/p/welcome-to-the-last-90-days-of-2026",
+          "title": "Welcome to the last 90 days of 2026 - by Tamera - SPARK",
+          "publisher": "Substack (SPARK)",
+          "publishedAt": null,
+          "retrievedAt": "2026-10-04T20:59:17Z",
+          "accessMethod": "web_search_result",
+          "signalType": "creator",
+          "intent": "curiosity",
+          "claim": "Creators frame early October as the start of a 'last 90 days of 2026' push.",
+          "kind": "observed",
+          "syndicationOf": null,
+          "excerpt": "Summary: October 3 marks the last 90 days and the last quarter of 2026."
+        },
+        {
+          "id": "l21",
+          "url": "https://medium.com/pen-with-paper/potential-maxxing-why-everyones-suddenly-proving-their-growth-with-numbers-10b30918b2db",
+          "title": "Potential-Maxxing: Why Everyone's Suddenly Proving Their Growth With Numbers",
+          "publisher": "Medium (Pen with Paper)",
+          "publishedAt": null,
+          "retrievedAt": "2026-10-04T20:59:17Z",
+          "accessMethod": "web_search_result",
+          "signalType": "creator",
+          "intent": "curiosity",
+          "claim": "A 2026 self-improvement format backs up growth claims with numbers (posts, hours, revenue). This supports the 'proof log' design feature.",
+          "kind": "observed",
+          "syndicationOf": null,
+          "excerpt": "Summary: potential-maxxing is everywhere on Instagram and TikTok; it pushes back on vague self-improvement messaging."
+        }
+      ],
+      "observations": [
+        {
+          "metric": "Peak worldwide Google search interest for 'winter arc', 2025 versus 2024",
+          "value": 0.25,
+          "unit": "ratio of 2025 peak to 2024 peak (relative index)",
+          "asOf": "2026-10-04",
+          "evidence": "l11",
+          "isAbsolute": false,
+          "note": "Reported by spiketoday.com describing Google Trends; not independently verified; relative, not volume. Article date unknown."
+        },
+        {
+          "metric": "Duration of the 2026 Great Lock-In window",
+          "value": 122,
+          "unit": "days (Sept 1 to Dec 31, 2026)",
+          "asOf": "2026-10-04",
+          "evidence": "l5",
+          "isAbsolute": true,
+          "note": "As stated by explainer pages. A calendar fact, not a demand measure."
+        }
+      ]
+    },
+    {
+      "name": "Gen Z & millennial Bible-reading revival",
+      "aliases": [
+        "quiet revival",
+        "Bible reading comeback",
+        "Gen Z Bible boom",
+        "young men returning to church"
+      ],
+      "category": "belief",
+      "summary": "Surveys and sales data report sharply more young US and UK adults reading and buying Bibles, with young men prominent. That creates new readers who need beginner-friendly structure, especially at New Year.",
+      "what": "Barna and Gloo's State of the Church research (released November 2025) reports US weekly Bible reading rebounding to 42% of adults, with Gen Z rising from 30% to 49% and young men leading. Physical Bible sales are reported at a 21-year US high in 2025 and record UK levels. Publishers have launched beginner guides for 'a new generation of readers'. This describes reported engagement data, not any particular teaching.",
+      "origin": {
+        "text": "UK reports of a 'quiet revival' and rising Bible sales date from 2024-2025. US data came from Barna/Gloo's State of the Church release in November 2025, and coverage continued into 2026 (Shoutout UK April 2026; a beginner guide launched for Easter 2026).",
+        "date": null,
+        "evidence": [
+          "b1",
+          "b2",
+          "b4",
+          "b8"
+        ]
+      },
+      "adopters": {
+        "text": "Gen Z and millennials, especially young men, according to Barna. Pastors report higher Gen Z engagement: 45% versus 12% reporting lower (Crosswalk). Press reports first-time Bible buyers, and Gen Z reportedly prefers 'aesthetic' editions and journaling Bibles. Motivations described in press include searching for meaning; this is a reported framing, not an inference about individuals.",
+        "evidence": [
+          "b1",
+          "b5",
+          "b8",
+          "b7"
+        ]
+      },
+      "spread": {
+        "text": "Reported by research firms (Barna/Gloo), denominational and Christian press (Baptist Press, Christian Post, Crosswalk, Christian Institute), UK youth media (Shoutout UK), retailers (Eden) and publishers (ilubra press release). Mainstream secular coverage was not checked in depth (search budget). Much of the US coverage traces back to one Barna/Gloo dataset, so it counts as one primary signal with many reports.",
+        "evidence": [
+          "b1",
+          "b2",
+          "b3",
+          "b4",
+          "b6",
+          "b8"
+        ]
+      },
+      "trajectory": {
+        "stage": "early_growth",
+        "text": "Measured growth from a 2024 low (Barna) and sales reported rising since 2019 (UK +106% per Christian Institute), with 2026 product launches responding to new readers. Inference: early growth within the youth segment of a large, established religious-publishing niche. Christian Post notes fewer respondents believe the Bible is fully accurate, so the picture is mixed rather than uniformly 'revival'.",
+        "evidence": [
+          "b1",
+          "b3",
+          "b4",
+          "b6"
+        ]
+      },
+      "productDemand": {
+        "text": "There is direct purchase evidence for Bibles themselves (record sales reported). Publishers launched beginner reference guides in 2026, which shows a perceived need for orientation tools. Etsy sells low-priced Bible reading trackers (e.g. a chronological plan at $1.87 from a Star Seller). Demand for printable reading plans for new young readers specifically is plausible but not measured. Free plans from churches and apps are a strong substitute.",
+        "evidence": [
+          "b4",
+          "b6",
+          "b9"
+        ]
+      },
+      "competition": {
+        "text": "High. Reading-plan printables and trackers are abundant and cheap on Etsy, free plans are widespread from churches and Bible apps, and journaling Bibles and devotionals are an established publishing category. Beginner orientation guides exist (ilubra). Less visible in results: plans explicitly designed for first-time young-adult readers, and styles aimed at the young-men segment Barna highlights.",
+        "level": "high",
+        "evidence": [
+          "b9",
+          "b6",
+          "b7"
+        ]
+      },
+      "gap": {
+        "text": "A 2027 'first-time reader' plan: references only, two styles (minimal for young men, soft aesthetic), plus factual orientation pages (how the Bible is organized: testaments, books, genres) and a simple tracker. Also a neutral reading-notes journal. Neither should present new teachings or promise outcomes. The opening is in beginner positioning and design rather than content novelty.",
+        "isInference": true
+      },
+      "window": {
+        "estimate": "List by about Dec 1, 2026 and sell through mid-January 2027 (New Year reading-plan season). The underlying trend looks multi-year.",
+        "reasoning": "Year-long reading plans conventionally start January 1 (inference; no search evidence gathered on seasonal spikes). The revival data covers multiple years (sales up since 2019 in the UK; US rebound 2024 to 2025), so the trend should outlast the launch window.",
+        "invalidators": [
+          "2026 State of the Church or other surveys show the rebound reversing or not replicating",
+          "Free app and church plans fully meet the need",
+          "Community reaction to commercial products seen as inauthentic",
+          "Translation-copyright problems if scripture text is included"
+        ],
+        "seasonality": "Peak late December to mid-January for year-long plans. Secondary peaks around Lent/Easter and back-to-school."
+      },
+      "rights": {
+        "risk": "medium",
+        "note": "Modern translations (NIV, ESV, NLT, CSB, etc.) are copyrighted and have quotation permissions. Use references only, or quote public-domain text (KJV, World English Bible). Do not use ministry or app brand names (YouVersion, She Reads Truth, BibleProject) or the names of published reading plans unless they are verified public domain. Have content checked for accuracy and denominational neutrality. Make no claims about spiritual or mental-health outcomes."
+      },
+      "scores": {
+        "timing": {
+          "score": 3,
+          "basis": "qualitative",
+          "rationale": "Ten weeks to prepare for the New Year reading-plan season; the trend is in growth."
+        },
+        "buyerIntent": {
+          "score": 3,
+          "basis": "reported",
+          "rationale": "Bible purchases are reported at record levels. Intent for printable plans is unmeasured and free substitutes are common."
+        },
+        "supplyGap": {
+          "score": 2,
+          "basis": "qualitative",
+          "rationale": "Crowded category. The opening is narrow positioning: first-time young adults, design for young men."
+        },
+        "productFit": {
+          "score": 4,
+          "basis": "qualitative",
+          "rationale": "Printables and KDP journals are easy to make, but accuracy and sensitivity review add effort."
+        },
+        "durability": {
+          "score": 4,
+          "basis": "reported",
+          "rationale": "Multi-year data (UK sales since 2019; US rebound 2024 to 2025) and continuing 2026 coverage."
+        },
+        "economics": {
+          "score": 3,
+          "basis": "qualitative",
+          "rationale": "Digital $4-9 and KDP journals; prices are pushed down by $2 trackers and free plans."
+        }
+      },
+      "recommendedAction": "prepare",
+      "actionRationale": "Durable, measured growth among exactly the young adults who buy printables. But competition is high and the seasonal window opens in late December, so build carefully, with accuracy review and references only, and list by about Dec 1 rather than rushing a test now.",
+      "products": [
+        {
+          "buyer": "Adults aged 18-35 who are new to reading the Bible, including first-time Bible buyers; separate design for the young-men segment",
+          "format": "printable",
+          "theme": "'2027 First-Time Reader Plan': a references-only, one-year reading schedule based on a standard, verifiable structure (e.g. the whole Bible in canonical or chronological order, or the New Testament in a year), plus orientation pages (how the Bible is organized: testaments, book list, genres), a check-off tracker and a notes page. Offered in two visual styles.",
+          "whyBuy": "Weekly Bible reading among Gen Z is reported up from 30% to 49%, and new readers want structure. Publishers launched beginner guides in 2026. January 1 is the natural start date.",
+          "evidence": [
+            "b1",
+            "b6",
+            "b8"
+          ],
+          "differentiation": "Built for beginners, with factual orientation pages. A minimal style for young men, unlike the mostly floral tracker designs. No copyrighted text.",
+          "channels": [
+            "Etsy",
+            "Pinterest",
+            "Gumroad",
+            "Instagram"
+          ],
+          "effort": "medium",
+          "effortHours": 10,
+          "leadTimeDays": 3,
+          "fulfillment": "digital",
+          "validationTest": "List both styles by Nov 20 and pin weekly. Watch which style earns more favorites and clicks by Dec 20.",
+          "continueIf": "Sales, or favorites growing week over week, during Dec 15 to Jan 10.",
+          "pivotIf": "Only one style moves: drop the other and add a matching journal or Bible-tab printable in the winning style.",
+          "stopIf": "No sales by Jan 15, 2027.",
+          "rightsNote": "References only. No translation text. Do not copy proprietary reading plans. Get an accuracy review."
+        },
+        {
+          "buyer": "The same new readers who prefer writing by hand",
+          "format": "journal",
+          "theme": "An undated 365-entry reading-notes journal with neutral fields (date, passage reference, what stood out, questions, notes or prayer) and orientation pages at the front, in the two matching styles.",
+          "whyBuy": "Journaling Bibles and handwritten notes are reported as Gen Z preferences, and this fits the analog/paper trend.",
+          "evidence": [
+            "b7",
+            "b1"
+          ],
+          "differentiation": "Matches the plan's design and beginner orientation, and pairs with it as a bundle.",
+          "channels": [
+            "Amazon KDP",
+            "Etsy"
+          ],
+          "effort": "medium",
+          "effortHours": 8,
+          "leadTimeDays": 5,
+          "fulfillment": "pod",
+          "validationTest": "Publish to KDP by Dec 1 (allowing for review time) and sell the digital interior on Etsy.",
+          "continueIf": "Any organic KDP sales in the first three weeks of January.",
+          "pivotIf": "KDP stalls but digital sells: keep digital only.",
+          "stopIf": "No sales in either channel by Jan 31, 2027.",
+          "rightsNote": "Do not present common journaling methods as new teachings. No scripture text unless public domain."
+        }
+      ],
+      "unresolved": [
+        "Do Barna's 2025 figures hold in 2026 data, and do other surveys (e.g. Pew, Gallup) agree? Not checked because the search budget ran out.",
+        "No direct evidence that New Year produces a spike in demand for printable reading plans; that is an inference.",
+        "How saturated are beginner and young-men-styled plans on Etsy? (Etsy blocked.)",
+        "The UK figures (37% of young people believing in God; church attendance among 18-24s quadrupled) come from the Bible Society 'Quiet Revival' report as summarized by others; methodology not reviewed."
+      ],
+      "evidence": [
+        {
+          "id": "b1",
+          "url": "https://www.barna.com/trends/bible-reading-trends/",
+          "title": "How Millennials and Gen Z Are Driving a Bible Reading Comeback",
+          "publisher": "Barna Group",
+          "publishedAt": null,
+          "retrievedAt": "2026-10-04T20:59:17Z",
+          "accessMethod": "web_search_result",
+          "signalType": "community",
+          "intent": "utility",
+          "claim": "Gen Z weekly Bible reading rose from 30% (2024) to 49% (2025); millennials rose 16 points to 50%; all US adults reached 42%; young men lead.",
+          "kind": "observed",
+          "syndicationOf": null,
+          "excerpt": "Summary from Barna and partner pages: weekly Bible reading rebounded 12 points from a 15-year low; younger men now outpace younger women."
+        },
+        {
+          "id": "b1b",
+          "url": "https://production.barna.com/articles/bible-reading-trends",
+          "title": "How Millennials and Gen Z Are Driving a Bible Reading Comeback",
+          "publisher": "Barna Group",
+          "publishedAt": null,
+          "retrievedAt": "2026-10-04T20:59:17Z",
+          "accessMethod": "web_search_result",
+          "signalType": "community",
+          "intent": "utility",
+          "claim": "Duplicate host of the same Barna article.",
+          "kind": "observed",
+          "syndicationOf": "b1",
+          "excerpt": "Same title on a production subdomain."
+        },
+        {
+          "id": "b1c",
+          "url": "https://www.gloo.com/press/releases/millenials-and-gen-z-are-driving-a-bible-reading-comeback",
+          "title": "Millenials and Gen Z are Driving a Bible Reading Comeback",
+          "publisher": "Gloo",
+          "publishedAt": null,
+          "retrievedAt": "2026-10-04T20:59:17Z",
+          "accessMethod": "web_search_result",
+          "signalType": "press",
+          "intent": "utility",
+          "claim": "Partner press release for the same dataset.",
+          "kind": "observed",
+          "syndicationOf": "b1",
+          "excerpt": "Press release title matching the Barna findings."
+        },
+        {
+          "id": "b2",
+          "url": "https://www.baptistpress.com/resource-library/news/state-of-the-church-bible-use-resurges-in-u-s-with-millennial-gen-z-men-in-front",
+          "title": "State of the Church: Bible use resurges in U.S. with Millennial, Gen Z men in front",
+          "publisher": "Baptist Press",
+          "publishedAt": null,
+          "retrievedAt": "2026-10-04T20:59:17Z",
+          "accessMethod": "web_search_result",
+          "signalType": "press",
+          "intent": "curiosity",
+          "claim": "Reports the same Barna/Gloo data as released in November 2025, based on interviews with more than 12,000 adults.",
+          "kind": "observed",
+          "syndicationOf": null,
+          "excerpt": "Summary: 'November 2025 release'; Gen Z 49% weekly is a 19-point climb; among self-identified Christians the rate is 50%. Same underlying dataset as b1, not an independent measurement."
+        },
+        {
+          "id": "b3",
+          "url": "https://christianpost.com/news/more-americans-are-now-reading-the-bible-study.html",
+          "title": "More Americans are now reading the Bible but fewer believe it's 100% accurate: study",
+          "publisher": "Christian Post",
+          "publishedAt": null,
+          "retrievedAt": "2026-10-04T20:59:17Z",
+          "accessMethod": "web_search_result",
+          "signalType": "press",
+          "intent": "curiosity",
+          "claim": "Adds nuance: reading is up while belief in full accuracy is down, so the revival picture is mixed.",
+          "kind": "observed",
+          "syndicationOf": null,
+          "excerpt": "Title seen in results."
+        },
+        {
+          "id": "b4",
+          "url": "https://www.christian.org.uk/news/bible-sales-reach-record-high-as-gen-z-shows-increasing-openness/",
+          "title": "Bible sales reach record high, as Gen Z shows increasing openness",
+          "publisher": "The Christian Institute",
+          "publishedAt": null,
+          "retrievedAt": "2026-10-04T20:59:17Z",
+          "accessMethod": "web_search_result",
+          "signalType": "press",
+          "intent": "purchase",
+          "claim": "Reports record UK Bible sales in 2025 and a 21-year US high in 2025 (up 12% from 2024), with Gen Z interest cited.",
+          "kind": "observed",
+          "syndicationOf": null,
+          "excerpt": "Summary: physical Bible sales up 27.7% last year (UK), up 106% since 2019; US sales at a 21-year high in 2025, +12%. Original data sources not identified in the summary."
+        },
+        {
+          "id": "b5",
+          "url": "https://www.crosswalk.com/headlines/contributors/michael-foust/gen-z-is-experiencing-rising-church-engagement-pastors-say-something-is-shifting.html",
+          "title": "Gen Z is experiencing rising church engagement; pastors say something is shifting",
+          "publisher": "Crosswalk",
+          "publishedAt": null,
+          "retrievedAt": "2026-10-04T20:59:17Z",
+          "accessMethod": "web_search_result",
+          "signalType": "press",
+          "intent": "curiosity",
+          "claim": "45% of Protestant senior pastors report higher Gen Z engagement, against 12% reporting lower.",
+          "kind": "observed",
+          "syndicationOf": null,
+          "excerpt": "Summary figures as stated. The underlying survey organization is not named in the summary."
+        },
+        {
+          "id": "b6",
+          "url": "https://stocks.observer-reporter.com/observerreporter/article/prlog-2026-3-17-ilubra-guides-unveils-bible-study-guides-for-a-new-generation-this-easter",
+          "title": "ilubra guides unveils Bible study guides for a new generation this Easter (PRLog)",
+          "publisher": "PRLog via Observer-Reporter",
+          "publishedAt": "2026-03-17",
+          "retrievedAt": "2026-10-04T20:59:17Z",
+          "accessMethod": "web_search_result",
+          "signalType": "marketplace",
+          "intent": "utility",
+          "claim": "A publisher launched at-a-glance New and Old Testament guides on April 5, 2026, explicitly responding to rising young-reader engagement.",
+          "kind": "observed",
+          "syndicationOf": null,
+          "excerpt": "Summary: 'Your Guide to 27 New Testament Books' and 'Your Guide to 39 Old Testament Books' to help a new generation navigate scripture."
+        },
+        {
+          "id": "b7",
+          "url": "https://www.eden.co.uk/blog/youth-bibles/",
+          "title": "Youth Bibles (Eden blog)",
+          "publisher": "Eden.co.uk",
+          "publishedAt": null,
+          "retrievedAt": "2026-10-04T20:59:17Z",
+          "accessMethod": "web_search_result",
+          "signalType": "marketplace",
+          "intent": "purchase",
+          "claim": "A UK Christian retailer's guidance indicates Gen Z prefers aesthetic editions, the NLT, and journaling Bibles with wide margins.",
+          "kind": "observed",
+          "syndicationOf": null,
+          "excerpt": "The search summary made these points across a result set that included this page; exact attribution to this page is not confirmed. It also mentioned UK 18-24 Bible sales up 134% since 2019."
+        },
+        {
+          "id": "b8",
+          "url": "https://www.shoutoutuk.org/2026/04/10/whats-driving-gen-z-towards-faith/",
+          "title": "'I bought my first Bible.' (What's driving Gen Z towards faith)",
+          "publisher": "Shoutout UK",
+          "publishedAt": "2026-04-10",
+          "retrievedAt": "2026-10-04T20:59:17Z",
+          "accessMethod": "web_search_result",
+          "signalType": "press",
+          "intent": "purchase",
+          "claim": "Youth media in April 2026 reported first-time Bible buying among Gen Z.",
+          "kind": "observed",
+          "syndicationOf": null,
+          "excerpt": "Title and date seen."
+        },
+        {
+          "id": "b9",
+          "url": "https://www.etsy.com/listing/1386389181",
+          "title": "Chronological Bible Reading Tracker (Etsy listing)",
+          "publisher": "Etsy",
+          "publishedAt": null,
+          "retrievedAt": "2026-10-04T20:59:17Z",
+          "accessMethod": "web_search_result",
+          "signalType": "marketplace",
+          "intent": "purchase",
+          "claim": "Cheap, well-reviewed reading-plan trackers already exist on Etsy, showing heavy competition at low prices.",
+          "kind": "observed",
+          "syndicationOf": null,
+          "excerpt": "Summary: $1.87 on sale from $2.50, Star Seller, 2-page PDF in US Letter, A4 and A5, read-the-Bible-in-a-year chronological plan."
+        }
+      ],
+      "observations": [
+        {
+          "metric": "Gen Z adults reading the Bible at least weekly",
+          "value": 49,
+          "unit": "percent (up from 30% in 2024)",
+          "asOf": "2026-10-04",
+          "evidence": "b1",
+          "isAbsolute": true,
+          "note": "2025 survey value reported by Barna/Gloo (released November 2025; more than 12,000 US adults per Baptist Press). The asOf date is the retrieval date because the exact release date was not seen."
+        },
+        {
+          "metric": "US adults reading the Bible at least weekly",
+          "value": 42,
+          "unit": "percent (up 12 points from 30% in 2024)",
+          "asOf": "2026-10-04",
+          "evidence": "b1",
+          "isAbsolute": true,
+          "note": "Reported by Barna/Gloo; not independently verified."
+        },
+        {
+          "metric": "US physical Bible sales growth, 2025 vs 2024",
+          "value": 12,
+          "unit": "percent increase",
+          "asOf": "2026-10-04",
+          "evidence": "b4",
+          "isAbsolute": false,
+          "note": "Reported by The Christian Institute (original data source not identified); 2025 described as a 21-year high."
+        },
+        {
+          "metric": "Protestant senior pastors reporting higher Gen Z engagement",
+          "value": 45,
+          "unit": "percent (12% report lower)",
+          "asOf": "2026-10-04",
+          "evidence": "b5",
+          "isAbsolute": true,
+          "note": "Reported by Crosswalk; survey organization and date not seen."
+        }
+      ]
+    }
+  ]
+}

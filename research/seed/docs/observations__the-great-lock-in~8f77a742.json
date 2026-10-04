@@ -1,0 +1,13 @@
+{
+  "id": "the-great-lock-in~8f77a742",
+  "candidateId": "the-great-lock-in",
+  "metric": "Peak worldwide Google search interest for 'winter arc', 2025 versus 2024",
+  "unit": "ratio of 2025 peak to 2024 peak (relativ",
+  "value": 0.25,
+  "asOf": "2026-10-04",
+  "evidenceId": "the-great-lock-in~93f3f582",
+  "isAbsolute": false,
+  "note": "Reported by spiketoday.com describing Google Trends; not independently verified; relative, not volume. Article date unknown.",
+  "runId": "run-2026-10-04-movements",
+  "recordedAt": "2026-10-04T21:02:03.000Z"
+}

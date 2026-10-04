@@ -1,0 +1,13 @@
+{
+  "id": "needlepoint-revival~ca226d3e",
+  "candidateId": "needlepoint-revival",
+  "metric": "YoY change in 'girls' night craft' searches",
+  "unit": "percent",
+  "value": 242,
+  "asOf": "2026-03-10",
+  "evidenceId": "needlepoint-revival~e6d55b38",
+  "isAbsolute": false,
+  "note": "reported by Michaels",
+  "runId": "run-2026-10-04-hobbies",
+  "recordedAt": "2026-10-04T21:01:01.000Z"
+}

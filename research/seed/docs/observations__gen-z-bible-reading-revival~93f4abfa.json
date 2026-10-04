@@ -1,0 +1,13 @@
+{
+  "id": "gen-z-bible-reading-revival~93f4abfa",
+  "candidateId": "gen-z-bible-reading-revival",
+  "metric": "Protestant senior pastors reporting higher Gen Z engagement",
+  "unit": "percent (12% report lower)",
+  "value": 45,
+  "asOf": "2026-10-04",
+  "evidenceId": "gen-z-bible-reading-revival~1cac4c91",
+  "isAbsolute": true,
+  "note": "Reported by Crosswalk; survey organization and date not seen.",
+  "runId": "run-2026-10-04-movements",
+  "recordedAt": "2026-10-04T21:02:03.000Z"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "analog-bag-screen-free-gifting~run-2026-10-04-movements",
+  "candidateId": "analog-bag-screen-free-gifting",
+  "runId": "run-2026-10-04-movements",
+  "takenAt": "2026-10-04T21:02:03Z",
+  "score": 68,
+  "confidence": 60,
+  "stage": "mainstream_surge",
+  "action": "test_now",
+  "analystAction": "test_now",
+  "competition": "moderate",
+  "independentSources": 17,
+  "purchaseSignals": 1,
+  "windowEstimate": "Now through Dec 24, 2026 for digital; POD orders by about Dec 8-10 for Christmas delivery; then January 2027 digital-detox season",
+  "weightsUsed": null
+}

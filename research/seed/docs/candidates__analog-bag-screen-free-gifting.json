@@ -1,0 +1,265 @@
+{
+  "id": "analog-bag-screen-free-gifting",
+  "name": "Analog bag & screen-free gifting",
+  "aliases": [
+    "analog bag",
+    "analog era",
+    "going analog",
+    "screen-free gifts",
+    "offline is the new flex",
+    "phone-free gatherings",
+    "Analog bag & screen-free holiday gifting"
+  ],
+  "topicKeys": [
+    "phrase:analog bag screen free gifting",
+    "phrase:analog bag",
+    "phrase:analog era",
+    "phrase:going analog",
+    "phrase:screen free gifts",
+    "phrase:offline is the new flex",
+    "phrase:phone free gatherings",
+    "phrase:analog bag screen free holiday gifting"
+  ],
+  "category": "movement",
+  "summary": "Young adults are filling a tote with screen-free activities (books, puzzles, crafts, a notebook) to avoid doomscrolling, and that preference is now shaping 2026 holiday gift lists.",
+  "what": "An 'analog bag' is a tote packed with non-digital activities (crosswords, sketchbook, crochet, a camera, a book) carried so people reach for it instead of their phone. It is the most visible object of a broader 2026 'analog' movement that also includes paper planners, phone-free events and dumbphones. For holiday 2026, PwC reports that most Gen Z shoppers are prioritizing screen-free gifts.",
+  "origin": {
+    "text": "Traced in press to TikTok creators in 2025. Axios covered the analog bag as a screen-free wellness trend in October 2025, and the search summary named micro-influencers including Siece Campbell. PureWow called it the hottest holiday gift of 2025.",
+    "evidence": [
+      "analog-bag-screen-free-gifting~66209b08",
+      "analog-bag-screen-free-gifting~468db1dc"
+    ],
+    "date": "2025-10-23"
+  },
+  "adopters": {
+    "text": "Mainly Gen Z and young millennial women, according to YPulse and Fast Company, who want to cut doomscrolling and reclaim attention. It has since spread to parents gifting teens and tweens (PureWow) and to faith and lifestyle bloggers (Karen Ehman). PwC's 2026 holiday survey finds 78% of Gen Z prioritizing screen-free gifts, against 64% of all consumers.",
+    "evidence": [
+      "analog-bag-screen-free-gifting~a92e27e4",
+      "analog-bag-screen-free-gifting~193ddd17",
+      "analog-bag-screen-free-gifting~468db1dc",
+      "analog-bag-screen-free-gifting~aa6c2d2b",
+      "analog-bag-screen-free-gifting~811522bc"
+    ]
+  },
+  "spread": {
+    "text": "Coverage has spread well beyond TikTok: trend trackers (YPulse, April 2026), business press (Fortune April and September 2026, Fast Company), fashion and general-interest titles (Marie Claire, Reader's Digest), a major craft retailer running a 'What's in your analog bag' class (Michaels), Eventbrite's own event data, and PwC's holiday survey. These are independent outlets, not reposts of one article.",
+    "evidence": [
+      "analog-bag-screen-free-gifting~a92e27e4",
+      "analog-bag-screen-free-gifting~f7776af1",
+      "analog-bag-screen-free-gifting~811522bc",
+      "analog-bag-screen-free-gifting~193ddd17",
+      "analog-bag-screen-free-gifting~51ee3e7b",
+      "analog-bag-screen-free-gifting~e6249a09",
+      "analog-bag-screen-free-gifting~29e6ac09",
+      "analog-bag-screen-free-gifting~ed7fe1ae"
+    ]
+  },
+  "trajectory": {
+    "text": "It has moved from a 2025 TikTok niche to mainstream coverage and survey-tracked behavior in 2026. Eventbrite reports phone-free events up 567% globally from 2024 to 2025. Holiday 2026 is the second gifting season for the trend, and PwC's September survey shows it shaping gift intent. Inference: interest is still rising heading into the holidays, but saturation (free printables, mass-retail kits) is the main risk.",
+    "evidence": [
+      "analog-bag-screen-free-gifting~ed7fe1ae",
+      "analog-bag-screen-free-gifting~811522bc",
+      "analog-bag-screen-free-gifting~05d328c9",
+      "analog-bag-screen-free-gifting~6b130c69"
+    ],
+    "stage": "mainstream_surge"
+  },
+  "productDemand": {
+    "text": "There is gift-purchase intent for the screen-free categories themselves: PwC lists puzzles, art supplies, board games and books, and 81% of Gen Z prioritize in-person holiday activities. Press frames the analog bag explicitly as a gift (PureWow 2025; Karen Ehman suggests stocking stuffers). There is no direct evidence that people buy printable analog-bag content as opposed to physical items. PwC also projects Gen Z gift spending down 9%, which favors low-price items.",
+    "evidence": [
+      "analog-bag-screen-free-gifting~811522bc",
+      "analog-bag-screen-free-gifting~b6565b2d",
+      "analog-bag-screen-free-gifting~468db1dc",
+      "analog-bag-screen-free-gifting~aa6c2d2b",
+      "analog-bag-screen-free-gifting~b1ccdc01"
+    ]
+  },
+  "competition": {
+    "text": "An Etsy market page for 'analog bag' exists, and search results show mostly kids' screen-free activity and coloring packs at about $0.99-$6.99. analogbag.net gives away free coloring pages and plans puzzles and journal templates. Generic journal-prompt printables are saturated and cheap. Mass retailers sell the physical fillers. No adult-focused, giftable printable 'refill pack' or phone-free gathering kit was seen in results, but listing counts could not be checked because Etsy was blocked.",
+    "evidence": [
+      "analog-bag-screen-free-gifting~f8b1e5ac",
+      "analog-bag-screen-free-gifting~23811362",
+      "analog-bag-screen-free-gifting~482c3630",
+      "analog-bag-screen-free-gifting~29e6ac09"
+    ],
+    "level": "moderate"
+  },
+  "gap": {
+    "text": "Missing: (1) an adult or teen-focused, gift-ready printable 'analog bag refill' with original puzzles and prompts, packaged to print and tuck into a tote or stocking at the last minute; (2) a 'phone-free table' kit for Friendsgiving and holiday dinners, tying the 81% in-person / 63% shared-meal preference to the growth in phone-free events; (3) a tote whose design is the analog bag itself, as an illustrated contents map with no brand marks. Existing printables skew toward kids and coloring.",
+    "isInference": true
+  },
+  "window": {
+    "estimate": "Now through Dec 24, 2026 for digital; POD orders by about Dec 8-10 for Christmas delivery; then January 2027 digital-detox season",
+    "reasoning": "PwC's gift intent applies to this holiday season. Digital delivers instantly, so it fits last-minute buyers (Basis reports 83% decide within days of discovering a gift; evidence a22). New listings need weeks to surface, so they should go up in October. The movement has run from 2025 through 2026 across independent outlets, so it will probably outlast the product cycle.",
+    "invalidators": [
+      "Free printable sites (e.g. analogbag.net) fill the adult segment",
+      "Etsy search does not surface new listings before mid-December",
+      "Backlash framing analog as aesthetic overconsumption",
+      "Physical kits from big retailers crowd out digital gift alternatives"
+    ],
+    "seasonality": "Peak gifting from mid-November to Dec 24; secondary peak in January (detox and New Year habits).",
+    "sellBy": "2026-12-24",
+    "endEstimate": null
+  },
+  "rights": {
+    "risk": "low",
+    "note": "'Analog bag' reads as a generic community term, but trademark filings were not checked (search budget ran out). Avoid brand names and trade dress: Polaroid, Instax/Fujifilm, Brick, Light Phone, The Offline Club, NYT Crossword/Wordle. Write all puzzles from scratch. Do not use creators' names or likenesses."
+  },
+  "scores": {
+    "timing": {
+      "score": 4,
+      "basis": "reported",
+      "rationale": "PwC (September 2026) shows screen-free gift intent for this holiday season. There are 10-11 weeks of selling time for digital."
+    },
+    "buyerIntent": {
+      "score": 3,
+      "basis": "reported",
+      "rationale": "Gift intent for screen-free categories is reported. Intent for printable (digital) versions specifically is unproven."
+    },
+    "supplyGap": {
+      "score": 2,
+      "basis": "qualitative",
+      "rationale": "An Etsy market exists, free printables are available, and generic prompts are saturated. The gap is narrow: adult and gift positioning, phone-free gathering kits."
+    },
+    "productFit": {
+      "score": 4,
+      "basis": "qualitative",
+      "rationale": "Printables and POD totes are easy for a solo AI-assisted creator. Original puzzles take care to get right."
+    },
+    "durability": {
+      "score": 4,
+      "basis": "qualitative",
+      "rationale": "Sustained from 2025 through 2026 across many independent sources and Eventbrite data. It is a movement, not a single meme."
+    },
+    "economics": {
+      "score": 3,
+      "basis": "qualitative",
+      "rationale": "Digital margins are high, but price points are low ($4-9). POD tote margins are thin after base cost and fees."
+    }
+  },
+  "recommendedAction": "test_now",
+  "actionRationale": "There is independent, multi-source evidence of a lasting movement, plus fresh survey evidence of screen-free gift intent for holiday 2026. Digital products can be built in 2-3 days and listed in October, leaving time for discovery. Test the gift-ready refill pack and the phone-free table kit first. Treat the tote as a secondary test with a hard POD cutoff in early December.",
+  "products": [
+    {
+      "buyer": "Gen Z/millennial women aged 18-34, and gift-givers (friends, parents of teens) looking for a screen-free gift or stocking stuffer",
+      "format": "printable",
+      "theme": "'Analog Bag Refill Pack': about 40 printable half-letter/A5 pages that fold into pocket booklets. Contents: original crosswords, word searches and logic grids; 30 sketch prompts; 52 journal prompts; an 'offline bingo' card; a cut-and-fold mini-zine; and a printable gift tag reading 'Your analog bag awaits'.",
+      "whyBuy": "Puzzles and art activities match the categories PwC says Gen Z wants as screen-free gifts. As a digital download it works as an instant last-minute gift or a tote/stocking filler.",
+      "evidence": [
+        "analog-bag-screen-free-gifting~811522bc",
+        "analog-bag-screen-free-gifting~b6565b2d",
+        "analog-bag-screen-free-gifting~a92e27e4",
+        "analog-bag-screen-free-gifting~468db1dc"
+      ],
+      "differentiation": "Designed for adults and teens, unlike the kids' activity packs and free coloring pages. Packaged as a gift (tag, booklet fold). All puzzles original. Coordinated aesthetic with the tote.",
+      "channels": [
+        "Etsy",
+        "Pinterest",
+        "TikTok",
+        "Gumroad"
+      ],
+      "effort": "medium",
+      "effortHours": 12,
+      "leadTimeDays": 3,
+      "fulfillment": "digital",
+      "validationTest": "List on Etsy and Gumroad by Oct 10. Post 10 Pinterest pins (keywords 'analog bag ideas', 'screen-free gift') and 3 short 'pack my analog bag' videos. Run $1-2/day Etsy ads for 14 days.",
+      "continueIf": "At least one sale, or a clearly rising favorites-to-views ratio, within 14 days of ads starting; pins getting saves.",
+      "pivotIf": "Views and favorites but no sales: reposition as a family/teen 'phone-free holiday' pack, or bundle it with the table kit.",
+      "stopIf": "Fewer than about 100 listing views after 21 days of ads, or no sales by Nov 20.",
+      "rightsNote": "Write every puzzle and prompt from scratch. Do not imitate NYT/Wordle branding. Use the word 'analog' generically."
+    },
+    {
+      "buyer": "Friendsgiving and holiday-dinner hosts aged 18-35",
+      "format": "printable",
+      "theme": "'Phone-Free Table Kit': a phone-basket sign ('Phones rest here tonight'), 60 conversation cards, 4 pen-and-paper party games, and place cards. Two editions: Friendsgiving (week of Nov 26) and Christmas/New Year's Eve.",
+      "whyBuy": "81% of Gen Z prioritize in-person holiday activities and 63% say a shared meal matters more than a present (PwC via Fortune). Phone-free events are surging (Eventbrite). Hosts want an easy, instantly downloadable way to make a dinner feel offline.",
+      "evidence": [
+        "analog-bag-screen-free-gifting~811522bc",
+        "analog-bag-screen-free-gifting~ed7fe1ae"
+      ],
+      "differentiation": "Uses phone-free as the hook, unlike generic Friendsgiving trivia and invitations. Works for several holidays from one design system.",
+      "channels": [
+        "Etsy",
+        "Pinterest",
+        "Instagram",
+        "TikTok"
+      ],
+      "effort": "medium",
+      "effortHours": 10,
+      "leadTimeDays": 2,
+      "fulfillment": "digital",
+      "validationTest": "Publish the Friendsgiving edition by Oct 20 with pins targeting 'Friendsgiving games' and 'phone-free party'. Track listing views and saves weekly.",
+      "continueIf": "Any sales or steady favorite growth by Nov 15. If so, launch the Christmas/NYE edition by Nov 25.",
+      "pivotIf": "Friendsgiving edition gets views but no sales: drop it and put effort into the NYE 'phone-free countdown' edition.",
+      "stopIf": "Under 50 views by Nov 10 despite pins and ads.",
+      "rightsNote": "Original game rules and text. Do not use trademarked game names (Pictionary, Scattergories, etc.)."
+    },
+    {
+      "buyer": "Analog-curious Gen Z/millennials, and people buying a tote to build an analog bag as a gift",
+      "format": "tote",
+      "theme": "An illustrated 'contents map' tote: line drawings of a paperback, unbranded film camera, crochet hook and yarn, pocket crossword and pencil, with a small original phrase (e.g. 'Gone analog').",
+      "whyBuy": "The bag is the object at the center of the trend, so the tote doubles as both gift and container. Press frames analog bags as a holiday gift.",
+      "evidence": [
+        "analog-bag-screen-free-gifting~a92e27e4",
+        "analog-bag-screen-free-gifting~193ddd17",
+        "analog-bag-screen-free-gifting~468db1dc",
+        "analog-bag-screen-free-gifting~29e6ac09"
+      ],
+      "differentiation": "Illustration-led rather than slogan-only. Pairs with the refill pack as a 'gift set' listing.",
+      "channels": [
+        "Etsy",
+        "Redbubble",
+        "Instagram"
+      ],
+      "effort": "low",
+      "effortHours": 6,
+      "leadTimeDays": 3,
+      "fulfillment": "pod",
+      "validationTest": "List from mockups by Oct 15 and order one sample to check print quality. Promote the gift-set pairing with the refill pack.",
+      "continueIf": "Any tote sales by Nov 20.",
+      "pivotIf": "Totes get views but no sales: offer the illustration as a sticker sheet or printable art instead.",
+      "stopIf": "No sales by Dec 5 (practical POD cutoff for Christmas delivery).",
+      "rightsNote": "Draw a generic camera, not a recognizable Polaroid/Instax shape. Run a trademark search on any phrase before use (not done here)."
+    }
+  ],
+  "unresolved": [
+    "How many Etsy listings target 'analog bag', and how many are adult-focused (Etsy blocked)?",
+    "Is there buyer demand for printable versions, or only for physical kits and items?",
+    "Are there any trademark filings on 'analog bag' (USPTO not checked; search budget ran out)?",
+    "Verify the Chicory 2026 Friendsgiving figures (30% of adults; 52% of 18-29s). The search summary cited them but the source page could not be pinned down.",
+    "Eventbrite US figures differ between summaries (one says listings +337%, another says event volume +388%). The primary report was not read."
+  ],
+  "formats": [
+    "printable",
+    "tote"
+  ],
+  "channels": [
+    "Etsy",
+    "Pinterest",
+    "TikTok",
+    "Gumroad",
+    "Instagram",
+    "Redbubble"
+  ],
+  "effortMin": "low",
+  "region": "US",
+  "language": "en",
+  "lens": "Discovery scan: movements & Q4 seasonal hooks",
+  "source": "research",
+  "researchedAt": "2026-10-04T21:02:03Z",
+  "lastRunId": "run-2026-10-04-movements",
+  "runIds": [
+    "run-2026-10-04-movements"
+  ],
+  "firstSeenAt": "2026-10-04T21:02:03.000Z",
+  "jobId": null,
+  "qualityFlags": [],
+  "editorialNotes": [
+    "Editorial review 2026-10-04: Counted \"Fortune\" with \"PwC\" as one signal: reports the PwC Holiday Outlook figure from the primary report.",
+    "Editorial review 2026-10-04: Relabeled \"PureWow\" from purchase intent to context only: editorial gift framing is supply-side, not buyer behavior.",
+    "Editorial review 2026-10-04: Relabeled \"AOL\" from purchase intent to context only: syndicated copy of a6.",
+    "Editorial review 2026-10-04: Relabeled \"Karen Ehman (blog)\" from purchase intent to context only: a creator's suggestion is not buyer behavior.",
+    "Editorial review 2026-10-04: Relabeled \"Basis\" from purchase intent to context only: general holiday shopping behavior, not specific to this trend.",
+    "Editorial review 2026-10-04: Fixed deadline set to Dec 24, 2026 (Christmas gifting). POD delivery time is already counted in each product's time-to-buyer."
+  ]
+}

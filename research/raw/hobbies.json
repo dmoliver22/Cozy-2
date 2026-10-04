@@ -1,0 +1,1825 @@
+{
+  "lens": "Hobbies, skills, practices and practical niches growing in 2026 with newcomers who want guides, trackers, logbooks, templates and checklists",
+  "researchedAt": "2026-10-04T21:01:01Z",
+  "sourcesTried": [
+    {
+      "source": "WebSearch (standard and extended)",
+      "method": "WebSearch",
+      "status": "ok",
+      "note": "About 53 successful searches run by this agent; the session-wide budget (200 calls shared with other agents) ran out at 20:58-21:00 UTC, so some planned checks (instructor-kit supply on Etsy, Evite attribution) were not done."
+    },
+    {
+      "source": "RankHero keyword page (mahjong-instructor)",
+      "method": "WebFetch",
+      "status": "blocked",
+      "note": "EGRESS_BLOCKED for www.rankhero.com; figures come only from search-result summaries."
+    },
+    {
+      "source": "Athletech News (Hyrox calendar article)",
+      "method": "WebFetch",
+      "status": "blocked",
+      "note": "EGRESS_BLOCKED for athletechnews.com."
+    },
+    {
+      "source": "Etsy listing pages and search",
+      "method": "WebFetch",
+      "status": "not_tried",
+      "note": "Blocked per brief; Etsy listing titles and URLs seen only in search results; no listing counts or sales observed."
+    },
+    {
+      "source": "Google Trends",
+      "method": "WebFetch",
+      "status": "not_tried",
+      "note": "Blocked per brief; no direct trend data. Search-change figures are as reported by Yelp, Pinterest, Michaels, YPulse or third-party SEO tools."
+    },
+    {
+      "source": "Reddit communities (r/Mahjong, r/hyrox, r/Needlepoint)",
+      "method": "WebFetch",
+      "status": "not_tried",
+      "note": "Blocked per brief."
+    },
+    {
+      "source": "Amazon / KDP search",
+      "method": "WebFetch",
+      "status": "not_tried",
+      "note": "Only book listings that surfaced in search results (IberLibro, ThriftBooks, AbeBooks) and one third-party sales estimate (ASINsight)."
+    }
+  ],
+  "discovered": [
+    {
+      "name": "American mahjong boom",
+      "whyConsidered": "Yelp club searches reported up ~4,500% YoY, plus Eventbrite and Evite event growth, many national stories in 2026, and a clear need for learning and organizing aids.",
+      "disposition": "deep_dived",
+      "rejectReason": ""
+    },
+    {
+      "name": "Hyrox / fitness racing",
+      "whyConsidered": "Reported 1.5M athletes in 2025/26 and 2M+ expected in 2026/27; training-log and race-day tracking needs line up with New Year.",
+      "disposition": "deep_dived",
+      "rejectReason": ""
+    },
+    {
+      "name": "Needlepoint revival (Gen Z stitch nights)",
+      "whyConsidered": "YPulse, Fortune and CBS coverage in 2026, kits selling out, Michaels trend report; stash and project tracking need.",
+      "disposition": "deep_dived",
+      "rejectReason": ""
+    },
+    {
+      "name": "Padel (US)",
+      "whyConsidered": "PadelUSA-reported 1.07M US players in 2025 and 1,000+ courts by April 2026 (padelusa.org, padelbrowser.com).",
+      "disposition": "rejected",
+      "rejectReason": "Small committed base (238K played 8+ times, reported), about 40% of courts in Florida; gift demand is gear-led (grips, balls, bags) and no evidence of printable or tracker demand was found. Watch for 2027."
+    },
+    {
+      "name": "App-driven birding (Merlin/eBird)",
+      "whyConsidered": "Merlin reported 16.3M active users in 2025 (+35%) and nearly 100% growth during the 2026 Great Backyard Bird Count (birdcount.org, charlottenewsvt.org).",
+      "disposition": "rejected",
+      "rejectReason": "Strong newcomer data, but life-list journals and logbooks are well supplied by established publishers and books (Insight Editions' 'The Bird Watcher's Journal'; 'The Birder's Logbook'; beginner field journals) and $0.99 printables; no clear gap for a new seller."
+    },
+    {
+      "name": "Backyard chickens",
+      "whyConsidered": "APPA-cited ~11M US households keeping chickens; surge tied to bird-flu egg prices (fortune.com 2025-02-13, abc7news).",
+      "disposition": "rejected",
+      "rejectReason": "Coverage of the newcomer surge is concentrated in Feb-Jun 2025 around the egg-price spike; no 2026 acceleration found. Chicken-keeping journals are a common KDP genre (not verified this session)."
+    },
+    {
+      "name": "Run clubs / social running",
+      "whyConsidered": "Strava reported new clubs nearly quadrupled in 2025 and run clubs are now the main entry point (sgieurope.com, athletechnews.com).",
+      "disposition": "rejected",
+      "rejectReason": "The growth is social, not about tracking (Strava itself is the log), and running logs and training journals are a long-saturated category (inference)."
+    },
+    {
+      "name": "Rucking",
+      "whyConsidered": "2026 NPR beginner's guide syndicated widely (wfae.org, tpr.org 2026-02-11).",
+      "disposition": "rejected",
+      "rejectReason": "Growth evidence is old (Strava 2021 +40%, Instagram 2023 +150%); 2026 coverage is one syndicated explainer, and the activity needs little tracking or content."
+    },
+    {
+      "name": "Smart telescopes (Seestar etc.) as a new consumer tech habit",
+      "whyConsidered": "Cheap app-controlled telescopes since 2023 (astrobackyard.com, digitalcameraworld.com); observing-log and target-list product idea.",
+      "disposition": "rejected",
+      "rejectReason": "Insufficient evidence: only buying guides and Black Friday deals found, with no participation or sales figures showing a newcomer influx."
+    },
+    {
+      "name": "Coin collecting: 2026 Semiquincentennial quarters + end of penny production",
+      "whyConsidered": "Five one-year-only 2026 quarter designs (Gettysburg Address quarter expected late Oct 2026), penny production halted in 2025, and dealers reporting new collectors (coinworld.com, numismaticnews.net, koamnewsnow.com).",
+      "disposition": "rejected",
+      "rejectReason": "Timely, but physical folders and rolls from the US Mint, Littleton and others cover the obvious need better than a printable; evidence of the newcomer surge comes mainly from industry press and dealers. Watch for a kids' 'coin hunt' logbook angle."
+    },
+    {
+      "name": "Kitchen witch / herbal apothecary (Pinterest 2026 Hobbies Report)",
+      "whyConsidered": "Pinterest reported 'herbal apothecary' searches up 595% (May 2025 vs May 2026), tied to Practical Magic 2.",
+      "disposition": "rejected",
+      "rejectReason": "Belief-adjacent with herbal-remedy health-claim risk; the obvious products (apothecary labels) overlap with saturated Halloween witchy decor; Practical Magic IP is off limits."
+    },
+    {
+      "name": "Fibermaxxing",
+      "whyConsidered": "TikTok nutrition trend; Whole Foods named it a 2026 trend; tracker need (2minutemedicine.com, gdruk.com).",
+      "disposition": "rejected",
+      "rejectReason": "Nutrition/health-claim risk; trackers and 30-day workbooks already sold (Gumroad 'Fiber Fix 30', Payhip playbook) plus apps; the trend has run since 2025 and may be peaking."
+    },
+    {
+      "name": "Dumbphones / digital detox",
+      "whyConsidered": "Fortune (2026-04-01) on a $5B Gen Z analog economy; Axios (2026-05-07) on Gen Z leaving social media.",
+      "disposition": "rejected",
+      "rejectReason": "A real behavior shift, but the purchase is the device or service; no evidence found that people want detox trackers or printables, and the theme is a broad category, not a specific hobby."
+    },
+    {
+      "name": "Adult Pokemon TCG collecting",
+      "whyConsidered": "Pokemon TCG estimated at $2.7B in annual sales; Circana: 19% of US adults bought cards for themselves (10news.com, vtmvending.com).",
+      "disposition": "rejected",
+      "rejectReason": "High IP risk (names, artwork, set data) and collection tracking is dominated by free apps and price trackers."
+    },
+    {
+      "name": "Birthday magazine templates",
+      "whyConsidered": "Pinterest 2026 Hobbies Report: 'making a birthday magazine' searches up 1,713%.",
+      "disposition": "rejected",
+      "rejectReason": "A one-off gift project rather than a hobby with a newcomer base, and editable templates are already widely sold (Gumroad, Getly)."
+    },
+    {
+      "name": "Junk journaling",
+      "whyConsidered": "Michaels reported junk-journaling searches up 63% YoY.",
+      "disposition": "rejected",
+      "rejectReason": "Mature, heavily supplied Etsy category (ephemera kits, printables); 63% growth on a large base gives a new seller little room (inference; not checked this session)."
+    },
+    {
+      "name": "E-ink tablet templates (reMarkable, Kindle Scribe, Boox)",
+      "whyConsidered": "A new consumer tech habit with demand for PDF planners and templates.",
+      "disposition": "rejected",
+      "rejectReason": "Market-size figures came only from low-reliability aggregator pages (alibaba.com, accio.com), and template sellers (e.g., templacity.com) already occupy the niche."
+    },
+    {
+      "name": "Tarot for beginners",
+      "whyConsidered": "Pinterest reported 'tarot cards for beginners' up 558%.",
+      "disposition": "rejected",
+      "rejectReason": "Belief-based, outside this lens, and tarot journals are a crowded genre (inference)."
+    }
+  ],
+  "candidates": [
+    {
+      "name": "American mahjong boom (clubs, classes, game nights)",
+      "aliases": [
+        "mahj",
+        "mah jongg",
+        "American mah jongg",
+        "mahjong night",
+        "mahjong club"
+      ],
+      "category": "hobby",
+      "summary": "A surge of mostly young adult and women newcomers learning mahjong (especially the American/NMJL style) through clubs, paid classes and hosted game nights.",
+      "what": "Mahjong is a tile game that originated in 19th-century China; the American variant uses an annual card of hands issued by the National Mah Jongg League. Since about 2023 it has become a social 'girls' night', bar-night and club activity across the US, with paid beginner classes, clubs and themed sets/merch. Newcomers need to learn tiles, the Charleston and scoring, and organizers need ways to run tables, leagues and classes.",
+      "origin": {
+        "text": "The game is centuries-old Chinese tradition; the current US wave shows up in Eventbrite data as a 179% rise in mahjong events from 2023 to 2024 and accelerated through 2025-2026.",
+        "date": null,
+        "evidence": [
+          "mj4",
+          "mj29"
+        ]
+      },
+      "adopters": {
+        "text": "Young adults and Gen Z, many women hosting 'girls' night' games, plus Asian-American players reconnecting with family tradition; club founders, bars and new independent instructors teaching paid classes.",
+        "evidence": [
+          "mj1",
+          "mj3",
+          "mj4",
+          "mj6",
+          "mj8"
+        ]
+      },
+      "spread": {
+        "text": "Independent coverage across national outlets (NPR via WBUR syndication, PBS NewsHour, NBC, Boston Globe), regional press in Utah, Colorado, Philadelphia, the tri-state area and the Southeast, plus wire coverage abroad. Event platforms (Eventbrite, Evite) and Yelp independently report growth.",
+        "evidence": [
+          "mj1",
+          "mj3",
+          "mj4",
+          "mj5",
+          "mj6",
+          "mj7",
+          "mj8",
+          "mj9",
+          "mj10"
+        ]
+      },
+      "trajectory": {
+        "stage": "mainstream_surge",
+        "text": "Still accelerating into fall 2026: Yelp club searches up ~4,500% YoY (reported April 2026), Evite events reported up 94% YoY, and August 2026 coverage still describes rapid expansion. No source found describing a decline; appropriation criticism is recurring but has not slowed adoption in the evidence seen.",
+        "evidence": [
+          "mj1",
+          "mj5",
+          "mj7",
+          "mj27",
+          "mj28"
+        ]
+      },
+      "productDemand": {
+        "text": "Purchase intent is visible for physical goods (official card bundles estimated ~6,000/month on Amazon in July 2026; gift guides and trade press on mahjong gifts) and for learning/organizing aids: third-party keyword estimates show 'mahjong pdf' +89%, 'mahjong group' +83% and 'mahjong instructor' +556%, and classes are oversubscribed. Etsy printables show view activity but sales were not observed.",
+        "evidence": [
+          "mj11",
+          "mj17",
+          "mj19",
+          "mj20",
+          "mj21",
+          "mj22",
+          "mj23",
+          "mj26",
+          "mj15"
+        ]
+      },
+      "competition": {
+        "text": "High for generic products: many Etsy beginner cheat sheets ($1-$12), 2026 score cards and hand trackers, suit-pun totes, plus mass-market advent calendars and gift-guide merch. Not checked (search budget ran out): how many listings target instructors or club/league organizers specifically.",
+        "level": "high",
+        "evidence": [
+          "mj12",
+          "mj13",
+          "mj14",
+          "mj16",
+          "mj18",
+          "mj25"
+        ]
+      },
+      "gap": {
+        "text": "Generic player cheat sheets are crowded, so the opening is likely the supply side of the boom: new instructors (searches rising fast) and club/league organizers need class handouts, sign-in and progress sheets, table-rotation charts, standings and kitty/payout ledgers, which player-focused printables do not cover. A beginner guide that credits the game's Chinese origins and covers several variants (Chinese/HK, American, Riichi) would also stand apart from card-centric sheets. Whether instructor kits are already crowded is unverified.",
+        "isInference": true
+      },
+      "window": {
+        "estimate": "Now through Dec 2026 for holiday hosting and gifting; organizer/instructor tools likely stay relevant through 2027.",
+        "reasoning": "Growth is multi-year and still accelerating; digital delivery is instant, so the November-December hosting/gift window is reachable even with slow listing discovery. Clubs and classes recruit again in January and around the new annual card.",
+        "invalidators": [
+          "Instructor/organizer kits turn out to be already saturated on Etsy",
+          "NMJL or tile-brand IP complaints against listings that reference the card",
+          "Appropriation backlash targeting non-Asian sellers of mahjong products",
+          "Etsy views fail to convert during a 3-week test"
+        ],
+        "seasonality": "Holiday hosting and Hanukkah/Christmas gifting Nov-Dec; New-Year club formation in January; a new card each year (spring release timing not verified in this session)."
+      },
+      "rights": {
+        "risk": "medium",
+        "note": "Do not reproduce the National Mah Jongg League card's hands or use NMJL names/logos beyond plain compatibility statements; write original example hands. Do not copy branded tile artwork (e.g., designer sets); draw original tiles. The Mahjong Line backlash shows the risk of 'refreshing' the game or stripping Chinese characters, so credit its Chinese origins and avoid exoticizing imagery."
+      },
+      "scores": {
+        "timing": {
+          "score": 4,
+          "basis": "qualitative",
+          "rationale": "Mainstream surge still accelerating, with the holiday hosting and gifting window open now and digital delivery instant; the generic printable niche already filled up in 2025-26."
+        },
+        "buyerIntent": {
+          "score": 4,
+          "basis": "reported",
+          "rationale": "Card-bundle sales estimate, gift guides, oversubscribed classes and rising 'pdf/instructor/group' keyword estimates show people paying to learn and organize."
+        },
+        "supplyGap": {
+          "score": 2,
+          "basis": "qualitative",
+          "rationale": "Player cheat sheets, score cards and merch are crowded; an instructor/organizer gap is plausible but unverified."
+        },
+        "productFit": {
+          "score": 4,
+          "basis": "qualitative",
+          "rationale": "Printables and spreadsheets are easy with AI and design tools; needs careful rules accuracy and original example hands."
+        },
+        "durability": {
+          "score": 4,
+          "basis": "qualitative",
+          "rationale": "Multi-year growth across clubs, venues and instructors; the annual card refreshes demand for organizing aids each year."
+        },
+        "economics": {
+          "score": 3,
+          "basis": "qualitative",
+          "rationale": "Digital margins are high, but player printables sell at $1-$12; organizer/instructor kits can plausibly price higher ($12-$29). No revenue forecast implied."
+        }
+      },
+      "recommendedAction": "test_now",
+      "actionRationale": "Independent, multi-source evidence of a newcomer surge with visible purchase intent, plus a cheap digital test that can reach buyers before the holidays. Test the less crowded organizer/instructor angle, not another generic cheat sheet, and stop quickly if it gets no views.",
+      "products": [
+        {
+          "buyer": "New independent mahjong instructors and club hosts running beginner classes",
+          "format": "bundle",
+          "theme": "Beginner class kit: editable 3-session lesson handouts (tile ID, Charleston walk-through, joker basics in original wording with original practice hands), class sign-in and student progress checklist, 'first game' certificate, class flyer and social templates, and a heritage page crediting Chinese origins",
+          "whyBuy": "Instructor searches are reported up sharply and classes are oversubscribed; a ready kit saves new teachers prep time and looks professional.",
+          "evidence": [
+            "mj19",
+            "mj26",
+            "mj1",
+            "mj5"
+          ],
+          "differentiation": "Built for teachers and hosts rather than players; Canva-editable for the host's own branding; respectful heritage framing.",
+          "channels": [
+            "Etsy",
+            "Gumroad",
+            "Instagram",
+            "Pinterest"
+          ],
+          "effort": "medium",
+          "effortHours": 16,
+          "leadTimeDays": 4,
+          "fulfillment": "digital",
+          "validationTest": "List one $19 kit on Etsy and Gumroad with a free one-page sample; DM 20-30 instructors/club accounts on Instagram; $1-2/day Etsy ads for 14 days.",
+          "continueIf": "At least 3 sales or at least 2% conversion on at least 300 listing views within 21 days.",
+          "pivotIf": "Views and favorites but no sales: split into a $7 student handout pack and a $12 admin pack.",
+          "stopIf": "Under 100 views after 3 weeks with ads, or instructor kits turn out to be abundant at lower prices.",
+          "rightsNote": "No reproduction of NMJL card hands or logos; original tile drawings; describe compatibility in plain words only."
+        },
+        {
+          "buyer": "People starting or running mahjong clubs, leagues and weekly open play",
+          "format": "template",
+          "theme": "Club organizer kit: Google Sheets season standings and kitty/payout ledger, round-robin table-rotation charts for 8-32 players, sign-up and waitlist sheets, a club 'house rules' template, and printable table numbers",
+          "whyBuy": "Club searches and attendance are reported to be exploding; organizers juggling 30-55 weekly players need rotation and record-keeping tools.",
+          "evidence": [
+            "mj1",
+            "mj5",
+            "mj6",
+            "mj21"
+          ],
+          "differentiation": "Solves multi-table logistics, not single-game scoring like existing score cards.",
+          "channels": [
+            "Etsy",
+            "Gumroad",
+            "Pinterest"
+          ],
+          "effort": "medium",
+          "effortHours": 12,
+          "leadTimeDays": 3,
+          "fulfillment": "digital",
+          "validationTest": "Publish at $12 with a short screen-recording demo; pin 5 Pinterest pins; track views, favorites and sales for 21 days alongside the instructor kit.",
+          "continueIf": "At least 3 sales in 21 days or buyer messages asking for added formats.",
+          "pivotIf": "Interest in only one piece (e.g., rotation charts): sell that piece alone at $5-7.",
+          "stopIf": "No sales after 30 days and under 150 views.",
+          "rightsNote": "Generic organizing tools; avoid NMJL marks in titles beyond plain description."
+        },
+        {
+          "buyer": "Hosts of holiday mahjong nights (Hanukkah, Christmas, New Year's Eve) and gift-givers",
+          "format": "printable",
+          "theme": "Holiday mahjong night kit: invitations, place cards, first-timer table tents ('how a turn works'), score pads and a cocoa or cocktail menu card in three original holiday designs",
+          "whyBuy": "Mahjong now appears in holiday gift guides and girls'-night hosting; a themed kit makes a game night feel like an event.",
+          "evidence": [
+            "mj23",
+            "mj24",
+            "mj8",
+            "mj13"
+          ],
+          "differentiation": "Seasonal party styling plus first-timer table tents; score pads alone are already common.",
+          "channels": [
+            "Etsy",
+            "Pinterest",
+            "Instagram"
+          ],
+          "effort": "low",
+          "effortHours": 8,
+          "leadTimeDays": 2,
+          "fulfillment": "digital",
+          "validationTest": "List by Nov 1 at $8; 10 Pinterest pins; watch favorites and sales through Dec 15.",
+          "continueIf": "At least 5 sales by Dec 10.",
+          "pivotIf": "Favorites but few sales: bundle it into the club kit as a bonus.",
+          "stopIf": "Under 50 views by Nov 25.",
+          "rightsNote": "Original illustrations only; avoid branded tile designs and NMJL card content."
+        }
+      ],
+      "unresolved": [
+        "How many Etsy/Gumroad listings already target mahjong instructors or club organizers (search budget exhausted before this check).",
+        "Actual sales of mahjong printables (only views and third-party estimates seen).",
+        "RankHero methodology (the page was blocked; volume source not stated).",
+        "Which outlet in the Boston Globe/6abc result set reported the Evite +94% figure.",
+        "Exact timing of the next annual card release and how much year-specific products depend on it."
+      ],
+      "evidence": [
+        {
+          "id": "mj1",
+          "url": "https://www.wusf.org/2026-04-29/why-mahjong-is-surging-in-popularity",
+          "title": "Why Mahjong is surging in popularity",
+          "publisher": "WUSF (NPR syndication of a WBUR story)",
+          "publishedAt": "2026-04-29",
+          "retrievedAt": "2026-10-04T20:53:53Z",
+          "accessMethod": "web_search_result",
+          "signalType": "press",
+          "intent": "curiosity",
+          "claim": "Reports Yelp data showing searches for mahjong clubs up almost 4,500% versus the prior year.",
+          "kind": "observed",
+          "syndicationOf": null,
+          "excerpt": "Search summary: Yelp data shows searches for Mahjong clubs up almost 4,500% since last year; story originally by WBUR, features Nicole Wong (author of 'Mahjong: House Rules from Across the Asian Diaspora', founder of The Mahjong Project)."
+        },
+        {
+          "id": "mj2",
+          "url": "https://www.whqr.org/2026-04-29/why-mahjong-is-surging-in-popularity",
+          "title": "Why mahjong is surging in popularity",
+          "publisher": "WHQR (NPR syndication)",
+          "publishedAt": "2026-04-29",
+          "retrievedAt": "2026-10-04T20:53:53Z",
+          "accessMethod": "web_search_result",
+          "signalType": "press",
+          "intent": "curiosity",
+          "claim": "Syndicated copy of the same NPR/WBUR story (one signal, not two).",
+          "kind": "observed",
+          "syndicationOf": "mj1",
+          "excerpt": "Same story carried by many NPR member stations (WHQR, WNIJ, WQLN, SC Public Radio, Wyoming Public Media, Iowa Public Radio, WSHU, WWNO, WSKG, WHRO)."
+        },
+        {
+          "id": "mj3",
+          "url": "https://pbs.org/newshour/show/mahjong-thriving-as-players-embrace-community-and-connection",
+          "title": "Mahjong thriving as players embrace community and connection",
+          "publisher": "PBS NewsHour",
+          "publishedAt": null,
+          "retrievedAt": "2026-10-04T20:53:53Z",
+          "accessMethod": "web_search_result",
+          "signalType": "press",
+          "intent": "curiosity",
+          "claim": "National TV segment describing a coast-to-coast mahjong resurgence and noting the 2021 cultural-appropriation controversy.",
+          "kind": "observed",
+          "syndicationOf": null,
+          "excerpt": "Search summary: players of all ages at tables coast to coast; features Lucky Danger's hidden parlor in DC Chinatown and Nicole Wong; mentions a Texas company accused of appropriation in 2021 for tiles without Chinese symbols (some sets >$400)."
+        },
+        {
+          "id": "mj4",
+          "url": "https://www.nbcnewyork.com/news/national-international/mahjong-nights-draw-young-crowds-san-francisco-bars-restaurants/6385972/",
+          "title": "Mahjong nights draw young crowds to San Francisco bars, restaurants",
+          "publisher": "NBC (syndicated across NBC O&O sites)",
+          "publishedAt": null,
+          "retrievedAt": "2026-10-04T20:53:53Z",
+          "accessMethod": "web_search_result",
+          "signalType": "press",
+          "intent": "curiosity",
+          "claim": "Reports Eventbrite data: US mahjong events on its platform rose 179% from 2023 to 2024.",
+          "kind": "observed",
+          "syndicationOf": null,
+          "excerpt": "Search summary: Eventbrite reports a 179% increase in US mahjong events 2023->2024; SF's YLL Mahjong Club hosts parties with up to 30 tables and 200 guests; Gen Z interest in other 'grannycore' activities like needlework circles."
+        },
+        {
+          "id": "mj5",
+          "url": "https://www.bostonglobe.com/2026/03/23/lifestyle/mahjong-new-card-games/",
+          "title": "mahjong new card games",
+          "publisher": "The Boston Globe",
+          "publishedAt": "2026-03-23",
+          "retrievedAt": "2026-10-04T20:58:18Z",
+          "accessMethod": "web_search_result",
+          "signalType": "press",
+          "intent": "curiosity",
+          "claim": "One of a result set whose summary stated Evite mahjong events were up 94% YoY and Yelp named mahjong a top 2026 trend (club searches +4,467% fall 2024 to fall 2025); which article in the set made each claim was not confirmed.",
+          "kind": "observed",
+          "syndicationOf": null,
+          "excerpt": "Search summary (multi-source, attribution not confirmed): mahjong events up 94% YoY per Evite; Yelp named mahjong a top trend of 2026 with club searches +4,467% YoY; a feedback loop of influencers, merch companies, instructors and event planners."
+        },
+        {
+          "id": "mj6",
+          "url": "https://6abc.com/post/mahjong-clubs-see-surge-popularity-among-younger-adults/19636787/",
+          "title": "Mahjong clubs see surge in popularity among younger adults",
+          "publisher": "6abc (WPVI Philadelphia)",
+          "publishedAt": null,
+          "retrievedAt": "2026-10-04T20:58:18Z",
+          "accessMethod": "web_search_result",
+          "signalType": "press",
+          "intent": "curiosity",
+          "claim": "Local report of club growth among younger adults; summary cited a Philadelphia club's weekly attendance rising from 20-25 to 50-55.",
+          "kind": "observed",
+          "syndicationOf": null,
+          "excerpt": "Search summary: Philly Mah-jawns club newcomers doubled over the past year, weekly attendance from 20-25 to regularly 50-55 (attribution to this article likely but not confirmed)."
+        },
+        {
+          "id": "mj7",
+          "url": "https://www.deseret.com/lifestyle/2026/08/15/women-are-obsessed-with-mahjong-america/",
+          "title": "women are obsessed with mahjong america",
+          "publisher": "Deseret News",
+          "publishedAt": "2026-08-15",
+          "retrievedAt": "2026-10-04T20:53:53Z",
+          "accessMethod": "web_search_result",
+          "signalType": "press",
+          "intent": "curiosity",
+          "claim": "August 2026 coverage that American mahjong is still expanding, especially among women.",
+          "kind": "observed",
+          "syndicationOf": null,
+          "excerpt": "Search summary: American mahjong expanding rapidly in 2026 with industry data pointing to thousands of clubs and sharp increases in searches for lessons and meetups."
+        },
+        {
+          "id": "mj8",
+          "url": "https://www.ksl.com:443/article/51494664/mahjong-mania-utahs-hottest-girls-night-trend",
+          "title": "Mahjong mania: Utah's hottest girls' night trend",
+          "publisher": "KSL",
+          "publishedAt": null,
+          "retrievedAt": "2026-10-04T20:53:53Z",
+          "accessMethod": "web_search_result",
+          "signalType": "press",
+          "intent": "curiosity",
+          "claim": "Mahjong positioned as a 'girls' night' social trend outside traditional hubs (Utah).",
+          "kind": "observed",
+          "syndicationOf": null,
+          "excerpt": "Search summary: mahjong is the newest 'girls' night' trend sweeping communities."
+        },
+        {
+          "id": "mj9",
+          "url": "https://www.nhpr.org/2026-01-24/how-people-are-finding-community-through-the-tile-game-mahjong",
+          "title": "How people are finding community through the tile game Mahjong",
+          "publisher": "NHPR (NPR syndication)",
+          "publishedAt": "2026-01-24",
+          "retrievedAt": "2026-10-04T20:53:53Z",
+          "accessMethod": "web_search_result",
+          "signalType": "press",
+          "intent": "curiosity",
+          "claim": "January 2026 national public radio story on community-building through mahjong (also carried by Michigan Public, KPCW).",
+          "kind": "observed",
+          "syndicationOf": null,
+          "excerpt": "Title/summary only; also syndicated by michiganpublic.org and kpcw.org."
+        },
+        {
+          "id": "mj10",
+          "url": "https://www.gulftoday.ae/lifestyle/2026/05/03/these-mahjong-sports-clubs-are-hot-young-and-play-by-different-rules",
+          "title": "These Mahjong sports clubs are hot, young — and play by different rules",
+          "publisher": "Gulf Today (wire)",
+          "publishedAt": "2026-05-03",
+          "retrievedAt": "2026-10-04T20:53:53Z",
+          "accessMethod": "web_search_result",
+          "signalType": "press",
+          "intent": "curiosity",
+          "claim": "Wire coverage of young mahjong clubs (May 2026) shows the story spreading beyond US local press.",
+          "kind": "observed",
+          "syndicationOf": null,
+          "excerpt": "Title only from search result."
+        },
+        {
+          "id": "mj11",
+          "url": "https://www.asinsight.com/report/US/mahjong-starter-kit",
+          "title": "Best Selling Mahjong Starter Kit: Top Product Rankings by Sales Volume",
+          "publisher": "ASINsight (third-party Amazon estimate)",
+          "publishedAt": null,
+          "retrievedAt": "2026-10-04T20:53:53Z",
+          "accessMethod": "web_search_result",
+          "signalType": "marketplace",
+          "intent": "purchase",
+          "claim": "Third-party estimate: the NMJL 2026 large-size card four-pack was the top product in Amazon's US mahjong starter kit category in July 2026 with about 6,000 monthly sales.",
+          "kind": "observed",
+          "syndicationOf": null,
+          "excerpt": "Search summary: NMJL 2026 Mahjong Large Size Cards Four-Pack Bundle top-performing in the category in July 2026 with 6,000 monthly sales (estimate; not verified)."
+        },
+        {
+          "id": "mj12",
+          "url": "https://www.etsy.com/listing/4483847819",
+          "title": "American Mahjong Quick Reference Printable Table Guide: Beginner's Cheat Sheet (PDF Download)",
+          "publisher": "Etsy listing",
+          "publishedAt": null,
+          "retrievedAt": "2026-10-04T20:53:53Z",
+          "accessMethod": "web_search_result",
+          "signalType": "marketplace",
+          "intent": "purchase",
+          "claim": "Beginner mahjong cheat-sheet printables already exist on Etsy, part of a result set priced roughly $1-$12.",
+          "kind": "observed",
+          "syndicationOf": null,
+          "excerpt": "Search summary: numerous cheat-sheet listings priced $1.00-$12.05; many 5x7 cards; some 2-player bundles; references to NMJL card formats. Listing IDs in the 43xxxxxxxx-45xxxxxxxx range (suggests recent listings; inference)."
+        },
+        {
+          "id": "mj13",
+          "url": "https://www.etsy.com/listing/4313636937",
+          "title": "Printable Mahjong Score Card 2026, NMJL Scoring Sheet, Beginner Score Tracker PDF",
+          "publisher": "Etsy listing",
+          "publishedAt": null,
+          "retrievedAt": "2026-10-04T20:53:53Z",
+          "accessMethod": "web_search_result",
+          "signalType": "marketplace",
+          "intent": "purchase",
+          "claim": "Score-card printables tied to the 2026 card year already exist.",
+          "kind": "observed",
+          "syndicationOf": null,
+          "excerpt": "Search summary: tracks scores for up to 4 players over 4 games."
+        },
+        {
+          "id": "mj14",
+          "url": "https://www.etsy.com/listing/4525961572",
+          "title": "2026 Mahjong Hand Tracker Printable, American Mahjong Scorecard, Game Night PDF",
+          "publisher": "Etsy listing",
+          "publishedAt": null,
+          "retrievedAt": "2026-10-04T20:53:53Z",
+          "accessMethod": "web_search_result",
+          "signalType": "marketplace",
+          "intent": "purchase",
+          "claim": "Hand-tracker printables for game-night groups already exist.",
+          "kind": "observed",
+          "syndicationOf": null,
+          "excerpt": "Search summary: helps track hands, compare patterns, record scores."
+        },
+        {
+          "id": "mj15",
+          "url": "https://www.etsy.com/listing/4515065496",
+          "title": "(Etsy mahjong score-sheet listing; title shown as '20+ views in the last 24 hours')",
+          "publisher": "Etsy listing",
+          "publishedAt": null,
+          "retrievedAt": "2026-10-04T20:53:53Z",
+          "accessMethod": "web_search_result",
+          "signalType": "marketplace",
+          "intent": "purchase",
+          "claim": "A mahjong scoring printable displayed '20+ views in the last 24 hours' (views, not sales).",
+          "kind": "observed",
+          "syndicationOf": null,
+          "excerpt": "Only the view badge appeared as the result title; views are not purchases."
+        },
+        {
+          "id": "mj16",
+          "url": "https://www.etsy.com/listing/4497643592",
+          "title": "Mahjong Zippered Tote Bag, Cracks Dots Bams Funny Mahj Lover Gift",
+          "publisher": "Etsy listing",
+          "publishedAt": null,
+          "retrievedAt": "2026-10-04T20:53:53Z",
+          "accessMethod": "web_search_result",
+          "signalType": "marketplace",
+          "intent": "purchase",
+          "claim": "Mahjong POD/merch (totes, slogans using suit names) is already offered.",
+          "kind": "observed",
+          "syndicationOf": null,
+          "excerpt": "Listing title only."
+        },
+        {
+          "id": "mj17",
+          "url": "https://www.giftsanddec.com/trending-gifts/product-trends/mahjong-mania-15-gifts-that-appeal-to-new-and-old-mahjong-players",
+          "title": "Mahjong mania: 15 gifts that appeal to new and old mahjong players",
+          "publisher": "Gifts & Decorative Accessories (trade press)",
+          "publishedAt": "2025-08-18",
+          "retrievedAt": "2026-10-04T20:53:53Z",
+          "accessMethod": "web_search_result",
+          "signalType": "press",
+          "intent": "purchase",
+          "claim": "Trade press reports manufacturers meeting rising demand for mahjong gifts (themed sets, pillows, ornaments) seen at summer markets.",
+          "kind": "observed",
+          "syndicationOf": null,
+          "excerpt": "Search summary: players requesting themed sets as gifts; manufacturers adding pillows, tile ornaments, decor; noticeable at summer markets."
+        },
+        {
+          "id": "mj18",
+          "url": "https://thenodmag.com/content/mahjong-accessories-tiles-bags-merch-shopping-guide",
+          "title": "Mahjong accessories, tiles, bags, merch shopping guide",
+          "publisher": "The Nod",
+          "publishedAt": "2026-07-31",
+          "retrievedAt": "2026-10-04T20:53:53Z",
+          "accessMethod": "web_search_result",
+          "signalType": "press",
+          "intent": "purchase",
+          "claim": "July 2026 shopping guide shows an established accessories/merch ecosystem.",
+          "kind": "observed",
+          "syndicationOf": null,
+          "excerpt": "Title/date only."
+        },
+        {
+          "id": "mj19",
+          "url": "https://www.rankhero.com/keywords/mahjong-instructor",
+          "title": "mahjong instructor (keyword page)",
+          "publisher": "RankHero (third-party SEO keyword tool)",
+          "publishedAt": null,
+          "retrievedAt": "2026-10-04T20:58:18Z",
+          "accessMethod": "web_search_result",
+          "signalType": "search",
+          "intent": "utility",
+          "claim": "Third-party estimate: 'mahjong instructor' search volume rose 556% between March 2025 and February 2026 (platform/source of volume not stated in the summary).",
+          "kind": "observed",
+          "syndicationOf": null,
+          "excerpt": "Search summary: 'Mahjong instructor' +556% (Mar 2025-Feb 2026); 'mahjong teacher' +175% (May 2025-Apr 2026). WebFetch of this page was blocked, so methodology unverified."
+        },
+        {
+          "id": "mj20",
+          "url": "https://www.rankhero.com/keywords/mahjong-pdf",
+          "title": "mahjong pdf (keyword page)",
+          "publisher": "RankHero (third-party SEO keyword tool)",
+          "publishedAt": null,
+          "retrievedAt": "2026-10-04T20:58:18Z",
+          "accessMethod": "web_search_result",
+          "signalType": "search",
+          "intent": "purchase",
+          "claim": "Third-party estimate: 'mahjong pdf' search volume rose 89% between June 2025 and May 2026.",
+          "kind": "observed",
+          "syndicationOf": null,
+          "excerpt": "Search summary only; source of volume data not stated."
+        },
+        {
+          "id": "mj21",
+          "url": "https://www.rankhero.com/keywords/mahjong-group",
+          "title": "mahjong group (keyword page)",
+          "publisher": "RankHero (third-party SEO keyword tool)",
+          "publishedAt": null,
+          "retrievedAt": "2026-10-04T20:58:18Z",
+          "accessMethod": "web_search_result",
+          "signalType": "search",
+          "intent": "utility",
+          "claim": "Third-party estimate: 'mahjong group' search volume rose 83% between May 2025 and April 2026.",
+          "kind": "observed",
+          "syndicationOf": null,
+          "excerpt": "Search summary only."
+        },
+        {
+          "id": "mj22",
+          "url": "https://www.rankhero.com/keywords/mahjong-2026",
+          "title": "mahjong 2026 (keyword page)",
+          "publisher": "RankHero (third-party SEO keyword tool)",
+          "publishedAt": null,
+          "retrievedAt": "2026-10-04T20:58:18Z",
+          "accessMethod": "web_search_result",
+          "signalType": "search",
+          "intent": "utility",
+          "claim": "Third-party estimate: 'mahjong 2026' rose from 0 to 3,600 monthly searches by May 2026 with a low (27/100) difficulty score.",
+          "kind": "observed",
+          "syndicationOf": null,
+          "excerpt": "Search summary: year-specific queries emerge each card year."
+        },
+        {
+          "id": "mj23",
+          "url": "https://www.papercitymag.com/culture/mahjong-gifts-best-presents-holidays-game/?series",
+          "title": "Mahjong gifts: best presents for the holidays",
+          "publisher": "PaperCity",
+          "publishedAt": null,
+          "retrievedAt": "2026-10-04T20:58:18Z",
+          "accessMethod": "web_search_result",
+          "signalType": "press",
+          "intent": "purchase",
+          "claim": "Holiday gift guides now feature a dedicated mahjong section.",
+          "kind": "observed",
+          "syndicationOf": null,
+          "excerpt": "Search summary: top gifts included glasses, a floating mahjong table and a mini set for teaching kids."
+        },
+        {
+          "id": "mj24",
+          "url": "https://www.heyalma.com/the-2025-ultimate-hey-alma-hanukkah-gift-guide/",
+          "title": "The 2025 Ultimate Hey Alma Hanukkah Gift Guide",
+          "publisher": "Hey Alma",
+          "publishedAt": null,
+          "retrievedAt": "2026-10-04T20:58:18Z",
+          "accessMethod": "web_search_result",
+          "signalType": "press",
+          "intent": "purchase",
+          "claim": "(2025 guide) Appeared in a Hanukkah-gifting result set that included a Jewish-themed mahjong set; which page featured the set was not confirmed.",
+          "kind": "observed",
+          "syndicationOf": null,
+          "excerpt": "Search summary mentioned the 'Menschie Mahjong' set with Jewish-themed tiles; attribution among results not confirmed."
+        },
+        {
+          "id": "mj25",
+          "url": "https://www.walmart.com/ip/18227052603",
+          "title": "2025 Mahjong Advent Calendar - 24 Days Countdown",
+          "publisher": "Walmart marketplace listing",
+          "publishedAt": null,
+          "retrievedAt": "2026-10-04T20:58:18Z",
+          "accessMethod": "web_search_result",
+          "signalType": "marketplace",
+          "intent": "purchase",
+          "claim": "Mass-market retailers carried seasonal mahjong novelty products for holiday 2025.",
+          "kind": "observed",
+          "syndicationOf": null,
+          "excerpt": "Listing title only."
+        },
+        {
+          "id": "mj26",
+          "url": "https://www.tickettailor.com/events/menageamahj/2238070",
+          "title": "Menage a Mahj class listing",
+          "publisher": "Ticket Tailor (event listing)",
+          "publishedAt": null,
+          "retrievedAt": "2026-10-04T20:58:18Z",
+          "accessMethod": "web_search_result",
+          "signalType": "community",
+          "intent": "purchase",
+          "claim": "At least one class provider's listings show classes oversubscribed and no waitlist kept (small groups, max 8 students).",
+          "kind": "observed",
+          "syndicationOf": null,
+          "excerpt": "Search summary: oversubscribed, not keeping a waitlist; classes throughout 2026."
+        },
+        {
+          "id": "mj27",
+          "url": "https://vmagazine.com/?p=155594",
+          "title": "'The Mahjong Line Company' Accused of Cultural Appropriation",
+          "publisher": "V Magazine",
+          "publishedAt": null,
+          "retrievedAt": "2026-10-04T20:53:53Z",
+          "accessMethod": "web_search_result",
+          "signalType": "press",
+          "intent": "criticism",
+          "claim": "Documents the 2021 backlash against a company that sold redesigned sets without Chinese symbols; a rights/sensitivity risk for any creator.",
+          "kind": "observed",
+          "syndicationOf": null,
+          "excerpt": "Search summary: Dallas company run by three non-Chinese women sold 'refreshed' sets for ~$300-$400; critics called it gentrifying; company apologized."
+        },
+        {
+          "id": "mj28",
+          "url": "https://title-mag.com/?p=19781",
+          "title": "Mahjong, Chinamaxxing & The Cultural Appropriation Comeback",
+          "publisher": "Title Magazine",
+          "publishedAt": null,
+          "retrievedAt": "2026-10-04T20:53:53Z",
+          "accessMethod": "web_search_result",
+          "signalType": "press",
+          "intent": "criticism",
+          "claim": "Appropriation criticism is resurfacing alongside the current boom.",
+          "kind": "observed",
+          "syndicationOf": null,
+          "excerpt": "Title only; date not visible."
+        },
+        {
+          "id": "mj29",
+          "url": "https://asiatimes.com/2026/08/the-global-revival-of-mahjong-a-centuries-old-chinese-tradition/",
+          "title": "The global revival of mahjong, a centuries-old Chinese tradition",
+          "publisher": "Asia Times",
+          "publishedAt": null,
+          "retrievedAt": "2026-10-04T20:53:53Z",
+          "accessMethod": "web_search_result",
+          "signalType": "press",
+          "intent": "curiosity",
+          "claim": "August 2026 commentary frames the revival as global and rooted in Chinese tradition.",
+          "kind": "observed",
+          "syndicationOf": null,
+          "excerpt": "Title only; URL path indicates August 2026."
+        }
+      ],
+      "observations": [
+        {
+          "metric": "YoY change in Yelp searches for mahjong clubs",
+          "value": 4500,
+          "unit": "percent (approx.)",
+          "asOf": "2026-04-29",
+          "evidence": "mj1",
+          "isAbsolute": false,
+          "note": "reported by WBUR/NPR citing Yelp ('almost 4,500%'); another summary gives 4,467% for fall 2024 to fall 2025; not independently verified"
+        },
+        {
+          "metric": "Change in US mahjong events on Eventbrite, 2023 to 2024",
+          "value": 179,
+          "unit": "percent",
+          "asOf": "2024-12-31",
+          "evidence": "mj4",
+          "isAbsolute": false,
+          "note": "reported by NBC citing Eventbrite; not independently verified"
+        },
+        {
+          "metric": "YoY change in mahjong events on Evite",
+          "value": 94,
+          "unit": "percent",
+          "asOf": "2026-03-23",
+          "evidence": "mj5",
+          "isAbsolute": false,
+          "note": "from a multi-source search summary; attribution to a specific article not confirmed"
+        },
+        {
+          "metric": "Estimated monthly Amazon sales, NMJL 2026 large card four-pack",
+          "value": 6000,
+          "unit": "units/month (estimate)",
+          "asOf": "2026-07-31",
+          "evidence": "mj11",
+          "isAbsolute": true,
+          "note": "third-party estimate by ASINsight; not verified"
+        },
+        {
+          "metric": "Change in 'mahjong instructor' search volume, Mar 2025 to Feb 2026",
+          "value": 556,
+          "unit": "percent",
+          "asOf": "2026-02-28",
+          "evidence": "mj19",
+          "isAbsolute": false,
+          "note": "third-party SEO estimate (RankHero); platform and method not stated"
+        },
+        {
+          "metric": "Change in 'mahjong pdf' search volume, Jun 2025 to May 2026",
+          "value": 89,
+          "unit": "percent",
+          "asOf": "2026-05-31",
+          "evidence": "mj20",
+          "isAbsolute": false,
+          "note": "third-party SEO estimate (RankHero)"
+        },
+        {
+          "metric": "Weekly attendance at a Philadelphia mahjong club (after; before was 20-25)",
+          "value": 55,
+          "unit": "people per week (upper bound of 50-55)",
+          "asOf": null,
+          "evidence": "mj6",
+          "isAbsolute": true,
+          "note": "reported in a search summary, likely 6abc; single club anecdote"
+        }
+      ]
+    },
+    {
+      "name": "Hyrox / indoor fitness racing (8 x 1 km runs + 8 stations)",
+      "aliases": [
+        "HYROX",
+        "fitness racing",
+        "hybrid fitness racing",
+        "hybrid training"
+      ],
+      "category": "hobby",
+      "summary": "A standardized indoor race (eight 1 km runs alternating with eight functional workout stations) that has turned gym-goers into first-time 'fitness racers' who train for months toward an event.",
+      "what": "Hyrox races use the same format everywhere: 1 km run, then a station (ski erg, sled push, sled pull, burpee broad jumps, row, farmers carry, sandbag lunges, wall balls), repeated eight times. That makes times comparable and gives newcomers a concrete training target. Participants track run splits and station times and follow 8-16 week plans.",
+      "origin": {
+        "text": "A branded race series whose 2025/26 season is reported at more than 1.5 million athletes, with the 2026/27 calendar expanding to 107 race weekends including new US host cities.",
+        "date": null,
+        "evidence": [
+          "hx1",
+          "hx2"
+        ]
+      },
+      "adopters": {
+        "text": "Gym members, runners and CrossFit-adjacent athletes looking for a goal race; gyms affiliating to offer training (UK affiliates 18 to 120 in a year).",
+        "evidence": [
+          "hx5",
+          "hx6"
+        ]
+      },
+      "spread": {
+        "text": "Global press (Malaysia, Thailand, Australia, UK trade press, US functional-fitness media) with record single-event turnouts in Asia. US-specific participation figures were not found; US growth is shown only by new host cities.",
+        "evidence": [
+          "hx1",
+          "hx3",
+          "hx4",
+          "hx6"
+        ]
+      },
+      "trajectory": {
+        "stage": "mainstream_surge",
+        "text": "Globally surging: reported participation of 1.5M in 2025/26 with more than 2M expected in 2026/27, plus multi-week residencies for demand. The US is a smaller, growing slice (new San Diego and Portland events), so the US trajectory is less certain.",
+        "evidence": [
+          "hx1",
+          "hx2",
+          "hx4"
+        ]
+      },
+      "productDemand": {
+        "text": "People pay for preparation: several independent training books, an official-partner ebook, Notion trackers and apps exist, and sellers bundle printable checklists and calendars. That is supply-side evidence; direct sales figures were not observed.",
+        "evidence": [
+          "hx7",
+          "hx9",
+          "hx10",
+          "hx11",
+          "hx12"
+        ]
+      },
+      "competition": {
+        "text": "Moderate to high for training plans (books, Rogue ebook, apps). Narrower for physical logbooks and printable split trackers, though a logbook seller already targets the race-day log. The trademark limits keyword use for unofficial products.",
+        "level": "moderate",
+        "evidence": [
+          "hx7",
+          "hx8",
+          "hx9",
+          "hx10",
+          "hx11",
+          "hx13",
+          "hx14",
+          "hx15"
+        ]
+      },
+      "gap": {
+        "text": "A paper or printable split-and-station logbook for first-time racers (16-week block, per-station PB tracker, compromised-run log, race-day checklist), sold as a January training gift, appears thinner than plans and apps. Training plans carry expertise and injury-liability expectations a solo creator should avoid.",
+        "isInference": true
+      },
+      "window": {
+        "estimate": "Mid-Nov 2026 to Mar 2027 (holiday gifts, then New-Year race sign-ups); the format looks durable for multiple seasons.",
+        "reasoning": "The 2026/27 season is underway and expanding; New-Year fitness goals line up with spring races. KDP paperbacks take days to go live and ship quickly, which fits a December listing.",
+        "invalidators": [
+          "Brand enforcement against unofficial products using the name",
+          "US participation stays small relative to Europe/Asia",
+          "Apps (including official ones) make paper logs irrelevant to this tech-forward audience"
+        ],
+        "seasonality": "January resolution peak; race-specific spikes near US event dates (not verified)."
+      },
+      "rights": {
+        "risk": "medium",
+        "note": "HYROX is a brand with official partners (PUMA, Rogue). Do not use the name or logo in product titles or designs. Describe the product generically ('for 8-station fitness races') and rely on descriptive keywords; any use of the name, even in tags, carries takedown risk. Avoid prescriptive training or medical claims."
+      },
+      "scores": {
+        "timing": {
+          "score": 3,
+          "basis": "qualitative",
+          "rationale": "Season expanding and the New-Year window is close, but US-specific growth evidence is thin."
+        },
+        "buyerIntent": {
+          "score": 3,
+          "basis": "reported",
+          "rationale": "Multiple paid training resources exist and participation is reported in the millions, but no direct sales data for logs."
+        },
+        "supplyGap": {
+          "score": 2,
+          "basis": "qualitative",
+          "rationale": "Plans, apps and Notion trackers are present; a paper-log niche may be open but is unverified."
+        },
+        "productFit": {
+          "score": 3,
+          "basis": "qualitative",
+          "rationale": "Logbooks are easy to make; the trademark limits discovery, and plans need expertise."
+        },
+        "durability": {
+          "score": 4,
+          "basis": "reported",
+          "rationale": "Participation reported growing season over season, with Olympic ambitions and gym affiliate growth."
+        },
+        "economics": {
+          "score": 3,
+          "basis": "qualitative",
+          "rationale": "KDP and printable margins are fine at $7-12; heavy competition from free apps caps pricing."
+        }
+      },
+      "recommendedAction": "prepare",
+      "actionRationale": "Real, durable participation growth, but US share, product-specific demand and how much the trademark limits keywords are unresolved. Build a generic fitness-race logbook in November for a mid-December KDP/Etsy launch aimed at New-Year racers rather than testing now.",
+      "products": [
+        {
+          "buyer": "First-time fitness racers training for a spring 2027 event, and gym partners buying them a gift",
+          "format": "journal",
+          "theme": "16-week fitness-race training log (KDP 6x9 paperback plus printable PDF): weekly plan grid, 8 run-split + 8 station time tracker per session, station PB pages, compromised-running log, race-day checklist and post-race reflection",
+          "whyBuy": "A standardized format makes split tracking central to training, and January brings new sign-ups.",
+          "evidence": [
+            "hx1",
+            "hx2",
+            "hx7",
+            "hx12",
+            "hx13"
+          ],
+          "differentiation": "Paper alternative to apps, focused on split and station tracking rather than prescribing workouts; no brand name used.",
+          "channels": [
+            "Amazon KDP",
+            "Etsy",
+            "Instagram",
+            "TikTok"
+          ],
+          "effort": "medium",
+          "effortHours": 12,
+          "leadTimeDays": 5,
+          "fulfillment": "pod",
+          "validationTest": "Publish the printable on Etsy first ($7) with generic keywords; post 3 short videos showing a filled-in split page; check views and sales over 14 days before ordering a KDP proof.",
+          "continueIf": "At least 3 printable sales or at least 300 views with 20+ favorites in 14 days.",
+          "pivotIf": "Interest only in race-day pages: sell a $4 race-day checklist and pacing card pack.",
+          "stopIf": "Under 100 views in 3 weeks, or any trademark complaint.",
+          "rightsNote": "Never use 'HYROX' or its logo in titles, tags or designs; use generic station names."
+        },
+        {
+          "buyer": "First-time racers 2-6 weeks out",
+          "format": "template",
+          "theme": "Race-day pacing kit: Google Sheets split calculator (target finish time to per-run and per-station targets), printable wrist/pace cards and a gear and fueling checklist",
+          "whyBuy": "Newcomers want a concrete pacing plan for a standardized course; sellers already bundle checklists and cue cards as book bonuses.",
+          "evidence": [
+            "hx7",
+            "hx12",
+            "hx1"
+          ],
+          "differentiation": "Cheap, single-purpose and race-week focused; complements apps rather than replacing them.",
+          "channels": [
+            "Etsy",
+            "Gumroad",
+            "Instagram"
+          ],
+          "effort": "low",
+          "effortHours": 6,
+          "leadTimeDays": 2,
+          "fulfillment": "digital",
+          "validationTest": "List at $5 alongside the log; measure views and sales over 21 days.",
+          "continueIf": "At least 5 sales in 21 days.",
+          "pivotIf": "Offer it as a free lead magnet for the logbook.",
+          "stopIf": "Under 75 views in 21 days.",
+          "rightsNote": "Generic language only; no brand marks; no medical or nutrition claims."
+        }
+      ],
+      "unresolved": [
+        "US share of the 1.5M participants and US race dates for Jan-Apr 2027.",
+        "How strictly the brand enforces its trademark against unofficial logbooks on Etsy and Amazon.",
+        "Search demand for generic terms ('fitness race training log') versus the brand term.",
+        "Whether an app-first audience buys paper logs.",
+        "What the PUMA collection controversy was about."
+      ],
+      "evidence": [
+        {
+          "id": "hx1",
+          "url": "https://athletechnews.com/hyrox-expands-global-race-calendar-plans-more-multi-week-events/",
+          "title": "Hyrox expands global race calendar, plans more multi-week events",
+          "publisher": "Athletech News",
+          "publishedAt": null,
+          "retrievedAt": "2026-10-04T20:53:53Z",
+          "accessMethod": "web_search_result",
+          "signalType": "press",
+          "intent": "curiosity",
+          "claim": "Reports the 2026/27 calendar of 107 race weekends on six continents, new hosts including San Diego and Portland, Oregon, and multi-day residencies to meet record demand.",
+          "kind": "observed",
+          "syndicationOf": null,
+          "excerpt": "Search summary: 107 race weekends; new host cities San Diego, Portland (Oregon), Bari, Nagoya; some events expand into residencies of up to 10 days. WebFetch of this page was blocked."
+        },
+        {
+          "id": "hx2",
+          "url": "https://www.thestar.com.my/sport/others/2026/08/19/as-hyrox039s-popularity-soars-fitness-racing-hybrid-chases-olympic-dream",
+          "title": "As Hyrox's popularity soars, fitness-racing hybrid chases Olympic dream",
+          "publisher": "The Star (wire)",
+          "publishedAt": "2026-08-19",
+          "retrievedAt": "2026-10-04T20:53:53Z",
+          "accessMethod": "web_search_result",
+          "signalType": "press",
+          "intent": "curiosity",
+          "claim": "In a result set reporting more than 1.5 million athletes in the 2025/26 season and over 2 million expected in 2026/27 (attribution between this article and hx1 not confirmed).",
+          "kind": "observed",
+          "syndicationOf": null,
+          "excerpt": "Search summary: >1.5M athletes in 2025/26 across >200 days of racing; >2M expected in 2026/27; Olympic ambitions."
+        },
+        {
+          "id": "hx3",
+          "url": "https://www.thestar.com.my/business/business-news/2026/07/04/the-rise-of-hyrox",
+          "title": "The rise of Hyrox",
+          "publisher": "The Star",
+          "publishedAt": "2026-07-04",
+          "retrievedAt": "2026-10-04T20:53:53Z",
+          "accessMethod": "web_search_result",
+          "signalType": "press",
+          "intent": "curiosity",
+          "claim": "Business coverage of Hyrox's rise (July 2026).",
+          "kind": "observed",
+          "syndicationOf": null,
+          "excerpt": "Title/date only."
+        },
+        {
+          "id": "hx4",
+          "url": "https://www.nationthailand.com/news/sport/40069918",
+          "title": "HYROX Bangkok sets Asian record with 20,000 athletes",
+          "publisher": "The Nation Thailand",
+          "publishedAt": null,
+          "retrievedAt": "2026-10-04T20:53:53Z",
+          "accessMethod": "web_search_result",
+          "signalType": "press",
+          "intent": "curiosity",
+          "claim": "A single 2026 event drew more than 20,000 athletes from 60+ countries.",
+          "kind": "observed",
+          "syndicationOf": null,
+          "excerpt": "Search summary: more than 20,000 athletes over four days, the largest Hyrox event in Asia."
+        },
+        {
+          "id": "hx5",
+          "url": "https://www.healthclubmanagement.co.uk/health-club-management-news/Fitness-racing-company-Hyrox-sees-UK-gym-affiliation-scheme-jump-from-18-to-120-in-one-year/350601",
+          "title": "Fitness racing company Hyrox sees UK gym affiliation scheme jump from 18 to 120 in one year",
+          "publisher": "Health Club Management",
+          "publishedAt": null,
+          "retrievedAt": "2026-10-04T20:53:53Z",
+          "accessMethod": "web_search_result",
+          "signalType": "press",
+          "intent": "utility",
+          "claim": "Gym affiliation growth (UK) shows training infrastructure growing around the race format.",
+          "kind": "observed",
+          "syndicationOf": null,
+          "excerpt": "Title only; also syndicated on leisureopportunities.co.uk."
+        },
+        {
+          "id": "hx6",
+          "url": "https://morningchalkup.com/2026/04/08/the-hyrox-effect-how-a-simple-formula-built-a-global-fitness-phenomenon/",
+          "title": "The Hyrox effect: how a simple formula built a global fitness phenomenon",
+          "publisher": "Morning Chalk Up",
+          "publishedAt": "2026-04-08",
+          "retrievedAt": "2026-10-04T20:53:53Z",
+          "accessMethod": "web_search_result",
+          "signalType": "press",
+          "intent": "curiosity",
+          "claim": "US functional-fitness trade media treats Hyrox as a global phenomenon (April 2026).",
+          "kind": "observed",
+          "syndicationOf": null,
+          "excerpt": "Title/date only."
+        },
+        {
+          "id": "hx7",
+          "url": "https://thenotionshark.gumroad.com/l/theultimateHYROXtracker",
+          "title": "The Ultimate HYROX Tracker (Notion)",
+          "publisher": "Gumroad seller",
+          "publishedAt": null,
+          "retrievedAt": "2026-10-04T20:53:53Z",
+          "accessMethod": "web_search_result",
+          "signalType": "marketplace",
+          "intent": "purchase",
+          "claim": "Digital trackers for race and training splits already exist.",
+          "kind": "observed",
+          "syndicationOf": null,
+          "excerpt": "Search summary: Notion planner to log time per station and per 1 km run, plus a training planner."
+        },
+        {
+          "id": "hx8",
+          "url": "https://apps.apple.com/app/id1590662196",
+          "title": "Haile Training - Workout Log",
+          "publisher": "Apple App Store",
+          "publishedAt": null,
+          "retrievedAt": "2026-10-04T20:53:53Z",
+          "accessMethod": "web_search_result",
+          "signalType": "marketplace",
+          "intent": "utility",
+          "claim": "Workout apps explicitly support HYROX planning and tracking.",
+          "kind": "observed",
+          "syndicationOf": null,
+          "excerpt": "Search summary: app covers strength, functional fitness, HYROX, running, timers, planning, progress tracking."
+        },
+        {
+          "id": "hx9",
+          "url": "https://www.iberlibro.com/9798342076647/Hyrox-Training-Mastery-Prepare-Perform/plp",
+          "title": "Hyrox Training Mastery: Prepare, Perform",
+          "publisher": "IberLibro (book listing)",
+          "publishedAt": null,
+          "retrievedAt": "2026-10-04T20:53:53Z",
+          "accessMethod": "web_search_result",
+          "signalType": "marketplace",
+          "intent": "purchase",
+          "claim": "Third-party Hyrox training paperbacks exist; the 979-8 ISBN prefix suggests independent (likely KDP) publishing.",
+          "kind": "observed",
+          "syndicationOf": null,
+          "excerpt": "Book listing; the self-publishing reading of the ISBN prefix is an inference."
+        },
+        {
+          "id": "hx10",
+          "url": "https://www.thriftbooks.com/w/over-1000-hyrox-workouts-the-complete-training-library-stations-compromised-running-strength-emoms-programmes-and-race-simulations-over-1000-workouts-series_ariel-wisherty/59177505/",
+          "title": "Over 1000 Hyrox Workouts: The Complete Training Library",
+          "publisher": "ThriftBooks (book listing)",
+          "publishedAt": null,
+          "retrievedAt": "2026-10-04T20:53:53Z",
+          "accessMethod": "web_search_result",
+          "signalType": "marketplace",
+          "intent": "purchase",
+          "claim": "Multiple workout-library books target first-time racers.",
+          "kind": "observed",
+          "syndicationOf": null,
+          "excerpt": "Search summary: aimed at athletes 12 weeks out from their first race or chasing a PB."
+        },
+        {
+          "id": "hx11",
+          "url": "https://www.roguefitness.com/apo/rogue-move-hyrox-ebook",
+          "title": "Rogue Move - HYROX (eBook)",
+          "publisher": "Rogue Fitness",
+          "publishedAt": null,
+          "retrievedAt": "2026-10-04T20:53:53Z",
+          "accessMethod": "web_search_result",
+          "signalType": "marketplace",
+          "intent": "purchase",
+          "claim": "An official-partner 8-week ebook program exists, so training-plan competition includes a major brand.",
+          "kind": "observed",
+          "syndicationOf": null,
+          "excerpt": "Search summary: 8-week program for a first or later race."
+        },
+        {
+          "id": "hx12",
+          "url": "https://www.jambon-de-bayonne.com/products/the-hyrox-method-a-16-week-system-for-race-day-performance/233623221/",
+          "title": "The Hyrox Method: A 16-Week System for Race-Day Performance",
+          "publisher": "Unrelated-domain storefront (low reliability)",
+          "publishedAt": null,
+          "retrievedAt": "2026-10-04T20:53:53Z",
+          "accessMethod": "web_search_result",
+          "signalType": "marketplace",
+          "intent": "purchase",
+          "claim": "Sellers bundle printable race-day checklists, wall calendars and station cue cards with Hyrox books.",
+          "kind": "observed",
+          "syndicationOf": null,
+          "excerpt": "Search summary: 5 printable bonuses (recovery tracker, race-day checklist, 16-week calendar, 8 station cue cards, assessment worksheet). Host domain looks like a scraped storefront; treat as weak."
+        },
+        {
+          "id": "hx13",
+          "url": "https://thebattlebunker.com/blogs/logbook/hyrox-race-day-preparation-log-your-ultimate-guide-to-peak-performance",
+          "title": "Hyrox Race Day Preparation Log",
+          "publisher": "The Battle Bunker (logbook seller blog)",
+          "publishedAt": null,
+          "retrievedAt": "2026-10-04T20:53:53Z",
+          "accessMethod": "web_search_result",
+          "signalType": "creator",
+          "intent": "utility",
+          "claim": "Logbook sellers already publish Hyrox race-day logging content.",
+          "kind": "observed",
+          "syndicationOf": null,
+          "excerpt": "Blog title and summary only."
+        },
+        {
+          "id": "hx14",
+          "url": "https://eu.puma.com/fi/en/sports/fitness-and-training/hyrox",
+          "title": "PUMA x HYROX",
+          "publisher": "PUMA",
+          "publishedAt": null,
+          "retrievedAt": "2026-10-04T20:53:53Z",
+          "accessMethod": "web_search_result",
+          "signalType": "marketplace",
+          "intent": "purchase",
+          "claim": "HYROX has an official apparel partner, which signals active brand management of the name.",
+          "kind": "observed",
+          "syndicationOf": null,
+          "excerpt": "Official partner storefront."
+        },
+        {
+          "id": "hx15",
+          "url": "https://www.marketing-interactive.com/puma-quietly-pulls-joanna-wietrzyk-collection-amid-hyrox-controversy",
+          "title": "Puma quietly pulls Joanna Wietrzyk collection amid Hyrox controversy",
+          "publisher": "Marketing-Interactive",
+          "publishedAt": null,
+          "retrievedAt": "2026-10-04T20:53:53Z",
+          "accessMethod": "web_search_result",
+          "signalType": "press",
+          "intent": "criticism",
+          "claim": "There was at least one brand controversy tied to Hyrox merchandise; details not visible.",
+          "kind": "observed",
+          "syndicationOf": null,
+          "excerpt": "Title only; nature of the controversy unknown."
+        }
+      ],
+      "observations": [
+        {
+          "metric": "Athletes in the 2025/26 season (global)",
+          "value": 1500000,
+          "unit": "athletes",
+          "asOf": "2026-08-19",
+          "evidence": "hx2",
+          "isAbsolute": true,
+          "note": "reported in search summary of The Star/Athletech News results; attribution between them not confirmed; not independently verified"
+        },
+        {
+          "metric": "Expected athletes in the 2026/27 season (global)",
+          "value": 2000000,
+          "unit": "athletes (projection, 'more than')",
+          "asOf": "2026-08-19",
+          "evidence": "hx2",
+          "isAbsolute": true,
+          "note": "organizer/press projection, not a measurement"
+        },
+        {
+          "metric": "Race weekends on the 2026/27 calendar",
+          "value": 107,
+          "unit": "race weekends",
+          "asOf": null,
+          "evidence": "hx1",
+          "isAbsolute": true,
+          "note": "reported by Athletech News"
+        },
+        {
+          "metric": "Athletes at the Bangkok 2026 event",
+          "value": 20000,
+          "unit": "athletes ('more than')",
+          "asOf": null,
+          "evidence": "hx4",
+          "isAbsolute": true,
+          "note": "reported by The Nation Thailand"
+        },
+        {
+          "metric": "UK gym affiliates, one year later (from 18)",
+          "value": 120,
+          "unit": "gyms",
+          "asOf": null,
+          "evidence": "hx5",
+          "isAbsolute": true,
+          "note": "from headline of Health Club Management"
+        }
+      ]
+    },
+    {
+      "name": "Needlepoint revival among Gen Z and millennials (stitch nights)",
+      "aliases": [
+        "needlepoint",
+        "stitch club",
+        "stitch night",
+        "grandma hobbies",
+        "canvas work"
+      ],
+      "category": "hobby",
+      "summary": "Young women are taking up needlepoint, stitching hand-painted canvases at home and at shop 'stitch nights', driven by TikTok and a wish to put phones down.",
+      "what": "Needlepoint is stitching wool or silk thread through a stiff mesh canvas, usually hand-painted by a designer. A 2024 TikTok wave pulled younger stitchers into local shops, and in 2026 beginner kits, stitch clubs and public beginner classes are spreading. Stitchers manage stashes of canvases and threads, track projects, and send finished pieces to 'finishers' (e.g., ornaments, pillows).",
+      "origin": {
+        "text": "A traditional craft; the youth wave is attributed by shop owners to needlepoint 'blowing up' on TikTok in 2024.",
+        "date": null,
+        "evidence": [
+          "np5",
+          "np1"
+        ]
+      },
+      "adopters": {
+        "text": "Gen Z and younger millennial women seeking a screen-free, social hobby; hosts of home stitch nights; shops running weekly clubs.",
+        "evidence": [
+          "np1",
+          "np4",
+          "np5",
+          "np6"
+        ]
+      },
+      "spread": {
+        "text": "From TikTok to national youth and business press (YPulse, Fortune, CBS) and regional outlets (News 12, D Magazine), and into municipal and museum beginner classes; Michaels' trend report also flags it.",
+        "evidence": [
+          "np1",
+          "np2",
+          "np4",
+          "np6",
+          "np7",
+          "np9",
+          "np10",
+          "np11"
+        ]
+      },
+      "trajectory": {
+        "stage": "early_growth",
+        "text": "Coverage continues from Jan to Aug 2026 and beginner programming is spreading, but hard participation numbers are lacking; reported search growth (needlepoint +251% YoY) has unconfirmed attribution.",
+        "evidence": [
+          "np1",
+          "np3",
+          "np7",
+          "np9"
+        ]
+      },
+      "productDemand": {
+        "text": "Strong spending on physical goods (kits selling out, a multimillion-dollar needlepoint business). New tracking apps and a published journal suggest an organizing need. Demand for paid digital trackers specifically was not observed.",
+        "evidence": [
+          "np1",
+          "np8",
+          "np12",
+          "np13",
+          "np14"
+        ]
+      },
+      "competition": {
+        "text": "Moderate: two apps (one free), a published journal and at least one Substack printable series target needlepoint organizing, plus many adjacent cross-stitch planners. The volume of needlepoint-specific printables on Etsy was not checked.",
+        "level": "moderate",
+        "evidence": [
+          "np12",
+          "np13",
+          "np14",
+          "np15",
+          "np16"
+        ]
+      },
+      "gap": {
+        "text": "A stylish paper/printable canvas-stash and project journal made for needlepoint workflows (mesh count, kitted status, thread by brand/number, finisher and finishing-deadline tracker for holiday ornaments and stockings) may be thinner than for cross-stitch, along with stitch-night hosting printables. Both are inference; the finishing-deadline need is an assumption about the hobby and was not checked in this session.",
+        "isInference": true
+      },
+      "window": {
+        "estimate": "Nov 2026 to Jan 2027 (gifts for stitchers, New-Year stitch goals), then evergreen.",
+        "reasoning": "Craft trackers sell around gifting and New-Year goals; the hobby wave has run since 2024 and still drew coverage in Aug 2026.",
+        "invalidators": [
+          "Free apps (Stitchpoint) absorb the organizing need",
+          "Etsy turns out to be saturated with needlepoint journals",
+          "The youth wave cools before January"
+        ],
+        "seasonality": "Holiday gifting and ornament/stocking stitching in Q4 (assumed); New-Year goal setting in January."
+      },
+      "rights": {
+        "risk": "low",
+        "note": "Do not reproduce designers' hand-painted canvas art or paid stitch guides; draw original motifs. Press ties the craft to celebrities, so avoid celebrity names or likenesses."
+      },
+      "scores": {
+        "timing": {
+          "score": 3,
+          "basis": "qualitative",
+          "rationale": "The wave is established among young stitchers and Q4/New Year suits trackers, but the growth phase started in 2024."
+        },
+        "buyerIntent": {
+          "score": 3,
+          "basis": "reported",
+          "rationale": "Physical kit sell-outs are reported; intent for digital trackers is unverified."
+        },
+        "supplyGap": {
+          "score": 3,
+          "basis": "qualitative",
+          "rationale": "Fewer needlepoint-specific trackers seen than for cross-stitch, but a free app competes and Etsy was not checked."
+        },
+        "productFit": {
+          "score": 4,
+          "basis": "qualitative",
+          "rationale": "Printable and KDP journals are straightforward; needs hobby-accurate fields."
+        },
+        "durability": {
+          "score": 4,
+          "basis": "qualitative",
+          "rationale": "Social stitch clubs and retail investment suggest staying power beyond a fad."
+        },
+        "economics": {
+          "score": 3,
+          "basis": "qualitative",
+          "rationale": "$6-13 printable/KDP price points; stitchers spend heavily on canvases, so price sensitivity may be low (inference)."
+        }
+      },
+      "recommendedAction": "prepare",
+      "actionRationale": "The newcomer wave is real and spreading, but the evidence shows demand for physical kits, not for digital trackers, and supply wasn't fully checked. Build the stash/project journal for a mid-November launch and treat it as a low-cost test.",
+      "products": [
+        {
+          "buyer": "Newer needlepoint stitchers with a growing canvas and thread stash; gift-givers for stitchers",
+          "format": "journal",
+          "theme": "Needlepoint project journal and canvas stash log (printable PDF plus KDP paperback): canvas inventory (designer, size, mesh, kitted Y/N, price), thread stash by brand/color number, per-project log with stitch notes, finisher tracker with due dates, and 2027 stitch goals",
+          "whyBuy": "Stitchers who buy many canvases need to track them; apps exist, which suggests the need, but some prefer paper.",
+          "evidence": [
+            "np1",
+            "np12",
+            "np13",
+            "np14",
+            "np15"
+          ],
+          "differentiation": "Needlepoint-specific fields (mesh, kitted status, finishing) instead of generic cross-stitch planners; preppy-modern styling suited to the younger audience.",
+          "channels": [
+            "Etsy",
+            "Amazon KDP",
+            "Pinterest",
+            "Instagram"
+          ],
+          "effort": "medium",
+          "effortHours": 12,
+          "leadTimeDays": 4,
+          "fulfillment": "digital",
+          "validationTest": "List the printable at $8 by Nov 10; 10 Pinterest pins plus 3 stitch-night Instagram posts; check views and sales by Dec 10 before doing the KDP version.",
+          "continueIf": "At least 5 sales or at least 400 views with 30+ favorites by Dec 10.",
+          "pivotIf": "Views without sales: drop to a $4 stash-tracker-only version or bundle with the stitch-night kit.",
+          "stopIf": "Under 100 views by Dec 10.",
+          "rightsNote": "Original decorative art only; no designer canvas images."
+        },
+        {
+          "buyer": "Hosts of home or shop stitch nights",
+          "format": "printable",
+          "theme": "Stitch-night host kit: invitation, sign-in sheet, name tags, 'what I'm stitching' cards, canvas-swap tickets, and a snack/drink menu card",
+          "whyBuy": "Craft-night and girls'-night-craft searches are reported up sharply, and stitch nights are the social core of the revival.",
+          "evidence": [
+            "np2",
+            "np4",
+            "np1"
+          ],
+          "differentiation": "Built for needlepoint gatherings specifically (swap tickets, project cards) rather than generic party printables.",
+          "channels": [
+            "Etsy",
+            "Pinterest",
+            "Instagram"
+          ],
+          "effort": "low",
+          "effortHours": 6,
+          "leadTimeDays": 2,
+          "fulfillment": "digital",
+          "validationTest": "List at $6; measure views and sales over 21 days alongside the journal.",
+          "continueIf": "At least 3 sales in 21 days.",
+          "pivotIf": "Generalize to a 'craft night' kit covering knitting and crochet groups.",
+          "stopIf": "Under 75 views in 21 days.",
+          "rightsNote": "Original illustrations."
+        }
+      ],
+      "unresolved": [
+        "Count and pricing of needlepoint-specific journals and printables on Etsy (not checked; search budget exhausted).",
+        "Hard participation or sales figures for the youth wave (beyond anecdotes and a multi-source +251% search figure with unconfirmed attribution).",
+        "Whether Q4 ornament and stocking finishing deadlines are a real pain point (assumed, not verified).",
+        "Unit of the 'eight-year projection in five' shop anecdote (summaries disagree)."
+      ],
+      "evidence": [
+        {
+          "id": "np1",
+          "url": "https://www.ypulse.com/newsfeed/2026/01/20/needlepoint-is-the-latest-granny-hobby-gen-z-cant-put-down/",
+          "title": "Needlepoint is the latest granny hobby Gen Z can't put down",
+          "publisher": "YPulse",
+          "publishedAt": "2026-01-20",
+          "retrievedAt": "2026-10-04T20:53:53Z",
+          "accessMethod": "web_search_result",
+          "signalType": "press",
+          "intent": "curiosity",
+          "claim": "Youth-research firm reports Gen Z adoption of needlepoint, #Needlepoint at 119K TikTok videos, and beginner kits selling out at New York shops.",
+          "kind": "observed",
+          "syndicationOf": null,
+          "excerpt": "Search summary: #Needlepoint 119K TikTok videos; 'analog hobbies' Google searches up 160% in the past month; NY shops' beginner kits selling out within days; one owner hit her eight-year sales projection in 'five' (unit differs between summaries; treat as unverified); home stitch nights and studios thriving as third spaces."
+        },
+        {
+          "id": "np2",
+          "url": "https://www.michaelspressroom.com/news/detail/5025/michaels-unveils-2026-creativity-trend-report-revealing",
+          "title": "Michaels Unveils 2026 Creativity Trend Report",
+          "publisher": "Michaels (press release)",
+          "publishedAt": "2026-03-10",
+          "retrievedAt": "2026-10-04T20:53:53Z",
+          "accessMethod": "web_search_result",
+          "signalType": "search",
+          "intent": "utility",
+          "claim": "Michaels reports 'craft night' searches up 103% YoY and 'girls' night craft' up 242%, and lists 'grandma' hobbies like needlepoint as returning.",
+          "kind": "observed",
+          "syndicationOf": null,
+          "excerpt": "Search summary: 2026 declared the Year of Creative Living; Crafting Chemistry trend; junk journaling +63%; knitting and needlepoint comeback."
+        },
+        {
+          "id": "np3",
+          "url": "https://www.aol.com/lifestyle/biggest-diy-projects-hobbies-2026-100000558.html",
+          "title": "The Biggest DIY Projects & Hobbies In 2026, According To Michaels' Creativity Trend Report",
+          "publisher": "AOL (republishing a lifestyle outlet)",
+          "publishedAt": null,
+          "retrievedAt": "2026-10-04T20:53:53Z",
+          "accessMethod": "web_search_result",
+          "signalType": "search",
+          "intent": "curiosity",
+          "claim": "In a result set whose summary stated needlepoint searches up 251% YoY and knitting/crochet/embroidery/painting searches up 136% over six months; exact source of each figure not confirmed.",
+          "kind": "observed",
+          "syndicationOf": null,
+          "excerpt": "Multi-source search summary (Michaels coverage and Glimpse trend pages); attribution not confirmed."
+        },
+        {
+          "id": "np4",
+          "url": "https://www.cbsnews.com/atlanta/news/in-atlanta-needlepoint-finds-new-life-and-a-new-generation-at-weekly-stitch-nights/",
+          "title": "In Atlanta, needlepoint finds new life and a new generation at weekly stitch nights",
+          "publisher": "CBS News Atlanta",
+          "publishedAt": null,
+          "retrievedAt": "2026-10-04T20:53:53Z",
+          "accessMethod": "web_search_result",
+          "signalType": "press",
+          "intent": "curiosity",
+          "claim": "Stitch clubs of millennials and Gen Z meet monthly and weekly in shops (Atlanta).",
+          "kind": "observed",
+          "syndicationOf": null,
+          "excerpt": "Search summary: dozens of women at Stitch Club Atlanta gatherings and weekly stitch nights at local stores."
+        },
+        {
+          "id": "np5",
+          "url": "https://newyork.news12.com/needlepoints-new-generation-stitches-community-together-in-rowayton-shop",
+          "title": "Needlepoint's new generation stitches community together in Rowayton shop",
+          "publisher": "News 12",
+          "publishedAt": null,
+          "retrievedAt": "2026-10-04T20:53:53Z",
+          "accessMethod": "web_search_result",
+          "signalType": "press",
+          "intent": "curiosity",
+          "claim": "Shop owners attribute growth to TikTok, with customers shifting younger.",
+          "kind": "observed",
+          "syndicationOf": null,
+          "excerpt": "Search summary: nearly every customer mentions discovering it on TikTok; shift from Gen X/older millennials to younger millennials and Gen Z after 2024 virality."
+        },
+        {
+          "id": "np6",
+          "url": "https://dc.fortune.com/2026/03/09/what-are-grandma-hobbies-gen-z-analog-bird-watching-needlepoint-like-video-games-real-life",
+          "title": "What are grandma hobbies? Gen Z, analog, bird watching, needlepoint",
+          "publisher": "Fortune",
+          "publishedAt": "2026-03-09",
+          "retrievedAt": "2026-10-04T20:53:53Z",
+          "accessMethod": "web_search_result",
+          "signalType": "press",
+          "intent": "curiosity",
+          "claim": "National business press groups needlepoint with Gen Z's 'grandma hobbies' (March 2026).",
+          "kind": "observed",
+          "syndicationOf": null,
+          "excerpt": "Title/URL only."
+        },
+        {
+          "id": "np7",
+          "url": "https://www.dmagazine.com/home-garden/2026/05/mimis-needlepoint-shodallas/",
+          "title": "Mimi's needlepoint shop (Dallas)",
+          "publisher": "D Magazine",
+          "publishedAt": null,
+          "retrievedAt": "2026-10-04T20:53:53Z",
+          "accessMethod": "web_search_result",
+          "signalType": "press",
+          "intent": "curiosity",
+          "claim": "Regional lifestyle press covers new or growing needlepoint retail (URL path dated May 2026).",
+          "kind": "observed",
+          "syndicationOf": null,
+          "excerpt": "Title/URL only."
+        },
+        {
+          "id": "np8",
+          "url": "https://uknow.uky.edu/professional-news/sew-old-sew-new-uk-alumnae-stitch-success-multimillion-dollar-needlepoint-empire",
+          "title": "Sew old, sew new: UK alumnae stitch success into multimillion-dollar needlepoint empire",
+          "publisher": "University of Kentucky UKNow",
+          "publishedAt": null,
+          "retrievedAt": "2026-10-04T20:53:53Z",
+          "accessMethod": "web_search_result",
+          "signalType": "press",
+          "intent": "purchase",
+          "claim": "A needlepoint business is described as multimillion-dollar, consistent with strong consumer spending in the category.",
+          "kind": "observed",
+          "syndicationOf": null,
+          "excerpt": "Title only."
+        },
+        {
+          "id": "np9",
+          "url": "https://www.mobilecountyal.gov/community_events/needlepoint-for-beginners-2026-02-12/",
+          "title": "Needlepoint for Beginners (2026-02-12)",
+          "publisher": "Mobile County, AL",
+          "publishedAt": "2026-02-12",
+          "retrievedAt": "2026-10-04T20:53:53Z",
+          "accessMethod": "web_search_result",
+          "signalType": "community",
+          "intent": "utility",
+          "claim": "Public beginner classes are scheduled outside big-city shop hubs.",
+          "kind": "observed",
+          "syndicationOf": null,
+          "excerpt": "Event listing title."
+        },
+        {
+          "id": "np10",
+          "url": "https://www.bownehouse.org/events/beginners-needlepoint-workshop-at-bowne-house",
+          "title": "Beginners Needlepoint Workshop at Bowne House",
+          "publisher": "Bowne House (NYC museum)",
+          "publishedAt": null,
+          "retrievedAt": "2026-10-04T20:53:53Z",
+          "accessMethod": "web_search_result",
+          "signalType": "community",
+          "intent": "utility",
+          "claim": "Cultural institutions run beginner needlepoint workshops.",
+          "kind": "observed",
+          "syndicationOf": null,
+          "excerpt": "Event listing title."
+        },
+        {
+          "id": "np11",
+          "url": "https://www.audible.fr/podcast/Oh-Stitch-A-Needlepoint-Podcast/episodes/B0H1T4MXDX",
+          "title": "Oh, Stitch: A Needlepoint Podcast",
+          "publisher": "Audible (podcast listing)",
+          "publishedAt": null,
+          "retrievedAt": "2026-10-04T20:53:53Z",
+          "accessMethod": "web_search_result",
+          "signalType": "creator",
+          "intent": "curiosity",
+          "claim": "A dedicated needlepoint podcast suggests a creator ecosystem forming around the hobby.",
+          "kind": "observed",
+          "syndicationOf": null,
+          "excerpt": "Listing only."
+        },
+        {
+          "id": "np12",
+          "url": "https://apps.apple.com/bm/app/needlepointer/id6757410129",
+          "title": "NeedlePointer",
+          "publisher": "Apple App Store",
+          "publishedAt": null,
+          "retrievedAt": "2026-10-04T20:53:53Z",
+          "accessMethod": "web_search_result",
+          "signalType": "marketplace",
+          "intent": "utility",
+          "claim": "An app now tracks needlepoint projects, canvases, thread stash and shopping lists.",
+          "kind": "observed",
+          "syndicationOf": null,
+          "excerpt": "Search summary: track active and finished projects, thread inventory by brand/color, mark canvases as kitted."
+        },
+        {
+          "id": "np13",
+          "url": "https://apps.apple.com/ca/app/stitchpoint/id6759072297",
+          "title": "Stitchpoint",
+          "publisher": "Apple App Store",
+          "publishedAt": null,
+          "retrievedAt": "2026-10-04T20:53:53Z",
+          "accessMethod": "web_search_result",
+          "signalType": "marketplace",
+          "intent": "utility",
+          "claim": "A free app catalogs canvases, threads and stitches, which competes with paid trackers.",
+          "kind": "observed",
+          "syndicationOf": null,
+          "excerpt": "Search summary: free; catalog unstarted canvases; build a searchable thread inventory."
+        },
+        {
+          "id": "np14",
+          "url": "https://www.abebooks.com/9781446315347/Needlepoint-Journal-Track-projects-record-1446315347/plp",
+          "title": "Needlepoint Journal: Track projects, record...",
+          "publisher": "AbeBooks (book listing)",
+          "publishedAt": null,
+          "retrievedAt": "2026-10-04T20:53:53Z",
+          "accessMethod": "web_search_result",
+          "signalType": "marketplace",
+          "intent": "purchase",
+          "claim": "A published needlepoint project journal (up to 75 projects) exists.",
+          "kind": "observed",
+          "syndicationOf": null,
+          "excerpt": "Search summary: by Emma Homent; canvas name, size, stitches used, notes."
+        },
+        {
+          "id": "np15",
+          "url": "https://hifimakes.substack.com/t/hifi-prints",
+          "title": "HiFi Prints",
+          "publisher": "HiFi Makes (Substack)",
+          "publishedAt": null,
+          "retrievedAt": "2026-10-04T20:53:53Z",
+          "accessMethod": "web_search_result",
+          "signalType": "creator",
+          "intent": "purchase",
+          "claim": "An independent creator sells printable needlepoint tools, including a stitch-planning template.",
+          "kind": "observed",
+          "syndicationOf": null,
+          "excerpt": "Search summary: series of printables for needlepointers to build their own needlepoint journal."
+        },
+        {
+          "id": "np16",
+          "url": "https://lostincrossstitch.gumroad.com/l/minimalplanner",
+          "title": "Minimalist Cross Stitch Planner & Tracker",
+          "publisher": "Gumroad seller",
+          "publishedAt": null,
+          "retrievedAt": "2026-10-04T20:53:53Z",
+          "accessMethod": "web_search_result",
+          "signalType": "marketplace",
+          "intent": "purchase",
+          "claim": "Adjacent cross-stitch printable planners (50+ pages) already sell, showing format precedent.",
+          "kind": "observed",
+          "syndicationOf": null,
+          "excerpt": "Search summary: projects, stash, goals, notes in one printable."
+        }
+      ],
+      "observations": [
+        {
+          "metric": "TikTok videos tagged #Needlepoint",
+          "value": 119000,
+          "unit": "videos ('over')",
+          "asOf": "2026-01-20",
+          "evidence": "np1",
+          "isAbsolute": true,
+          "note": "reported by YPulse; not independently verified"
+        },
+        {
+          "metric": "Month-over-month change in Google searches for 'analog hobbies'",
+          "value": 160,
+          "unit": "percent",
+          "asOf": "2026-01-20",
+          "evidence": "np1",
+          "isAbsolute": false,
+          "note": "reported by YPulse; relative search change, not volume"
+        },
+        {
+          "metric": "YoY change in 'craft night' searches",
+          "value": 103,
+          "unit": "percent",
+          "asOf": "2026-03-10",
+          "evidence": "np2",
+          "isAbsolute": false,
+          "note": "reported by Michaels (platform not stated)"
+        },
+        {
+          "metric": "YoY change in 'girls' night craft' searches",
+          "value": 242,
+          "unit": "percent",
+          "asOf": "2026-03-10",
+          "evidence": "np2",
+          "isAbsolute": false,
+          "note": "reported by Michaels"
+        },
+        {
+          "metric": "YoY change in needlepoint searches",
+          "value": 251,
+          "unit": "percent",
+          "asOf": null,
+          "evidence": "np3",
+          "isAbsolute": false,
+          "note": "multi-source search summary; attribution to Michaels or Glimpse not confirmed"
+        }
+      ]
+    }
+  ]
+}

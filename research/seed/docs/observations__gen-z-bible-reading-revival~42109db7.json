@@ -1,0 +1,13 @@
+{
+  "id": "gen-z-bible-reading-revival~42109db7",
+  "candidateId": "gen-z-bible-reading-revival",
+  "metric": "US adults reading the Bible at least weekly",
+  "unit": "percent (up 12 points from 30% in 2024)",
+  "value": 42,
+  "asOf": "2026-10-04",
+  "evidenceId": "gen-z-bible-reading-revival~fb50f53c",
+  "isAbsolute": true,
+  "note": "Reported by Barna/Gloo; not independently verified.",
+  "runId": "run-2026-10-04-movements",
+  "recordedAt": "2026-10-04T21:02:03.000Z"
+}

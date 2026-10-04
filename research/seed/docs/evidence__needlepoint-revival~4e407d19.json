@@ -1,0 +1,19 @@
+{
+  "id": "needlepoint-revival~4e407d19",
+  "candidateId": "needlepoint-revival",
+  "url": "https://www.bownehouse.org/events/beginners-needlepoint-workshop-at-bowne-house",
+  "title": "Beginners Needlepoint Workshop at Bowne House",
+  "publisher": "Bowne House (NYC museum)",
+  "publishedAt": null,
+  "retrievedAt": "2026-10-04T20:53:53Z",
+  "accessMethod": "web_search_result",
+  "signalType": "community",
+  "intent": "utility",
+  "claim": "Cultural institutions run beginner needlepoint workshops.",
+  "kind": "observed",
+  "syndicationOf": null,
+  "excerpt": "Event listing title.",
+  "firstSeenRunId": "run-2026-10-04-hobbies",
+  "lastSeenRunId": "run-2026-10-04-hobbies",
+  "firstRetrievedAt": "2026-10-04T20:53:53Z"
+}

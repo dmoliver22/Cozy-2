@@ -1,0 +1,13 @@
+{
+  "id": "needlepoint-revival~376b6347",
+  "candidateId": "needlepoint-revival",
+  "metric": "Month-over-month change in Google searches for 'analog hobbies'",
+  "unit": "percent",
+  "value": 160,
+  "asOf": "2026-01-20",
+  "evidenceId": "needlepoint-revival~18f0d86e",
+  "isAbsolute": false,
+  "note": "reported by YPulse; relative search change, not volume",
+  "runId": "run-2026-10-04-hobbies",
+  "recordedAt": "2026-10-04T21:01:01.000Z"
+}

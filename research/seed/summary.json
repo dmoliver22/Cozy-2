@@ -1,0 +1,166 @@
+[
+  {
+    "file": "aesthetics.json",
+    "id": "kitchen-witch-aesthetic",
+    "name": "Kitchen Witch aesthetic",
+    "status": "created",
+    "warnings": [],
+    "errors": [],
+    "evidence": 19,
+    "carried": 0,
+    "score": 56,
+    "confidence": 52,
+    "action": "prepare"
+  },
+  {
+    "file": "aesthetics.json",
+    "id": "cosmic-reset-beginner-astrology-tarot",
+    "name": "Cosmic Reset (beginner astrology & tarot)",
+    "status": "created",
+    "warnings": [],
+    "errors": [],
+    "evidence": 9,
+    "carried": 0,
+    "score": 47,
+    "confidence": 47,
+    "action": "prepare"
+  },
+  {
+    "file": "aesthetics.json",
+    "id": "poetcore",
+    "name": "Poetcore",
+    "status": "created",
+    "warnings": [],
+    "errors": [],
+    "evidence": 10,
+    "carried": 0,
+    "score": 48,
+    "confidence": 41,
+    "action": "watch"
+  },
+  {
+    "file": "hobbies.json",
+    "id": "american-mahjong-boom",
+    "name": "American mahjong boom",
+    "status": "created",
+    "warnings": [
+      "Dropped an observation without a value, date, metric or supporting evidence."
+    ],
+    "errors": [],
+    "evidence": 29,
+    "carried": 0,
+    "score": 72,
+    "confidence": 67,
+    "action": "test_now"
+  },
+  {
+    "file": "hobbies.json",
+    "id": "hyrox-style-fitness-racing",
+    "name": "Hyrox-style fitness racing",
+    "status": "created",
+    "warnings": [
+      "Dropped an observation without a value, date, metric or supporting evidence.",
+      "Dropped an observation without a value, date, metric or supporting evidence.",
+      "Dropped an observation without a value, date, metric or supporting evidence."
+    ],
+    "errors": [],
+    "evidence": 15,
+    "carried": 0,
+    "score": 60,
+    "confidence": 56,
+    "action": "prepare"
+  },
+  {
+    "file": "hobbies.json",
+    "id": "needlepoint-revival",
+    "name": "Needlepoint revival",
+    "status": "created",
+    "warnings": [
+      "Dropped an observation without a value, date, metric or supporting evidence."
+    ],
+    "errors": [],
+    "evidence": 16,
+    "carried": 0,
+    "score": 66,
+    "confidence": 67,
+    "action": "prepare"
+  },
+  {
+    "file": "memes.json",
+    "id": "remember-november-2026",
+    "name": "Remember November 2026",
+    "status": "created",
+    "warnings": [],
+    "errors": [],
+    "evidence": 18,
+    "carried": 0,
+    "score": 48,
+    "confidence": 50,
+    "action": "prepare"
+  },
+  {
+    "file": "memes.json",
+    "id": "kinda-chic-kinda-chic-to",
+    "name": "Kinda Chic (\"kinda chic to...\")",
+    "status": "created",
+    "warnings": [],
+    "errors": [],
+    "evidence": 19,
+    "carried": 0,
+    "score": 62,
+    "confidence": 47,
+    "action": "prepare"
+  },
+  {
+    "file": "memes.json",
+    "id": "jimothy-the-raccoon",
+    "name": "Jimothy the raccoon",
+    "status": "created",
+    "warnings": [],
+    "errors": [],
+    "evidence": 20,
+    "carried": 0,
+    "score": 39,
+    "confidence": 57,
+    "action": "pass"
+  },
+  {
+    "file": "movements.json",
+    "id": "analog-bag-screen-free-gifting",
+    "name": "Analog bag & screen-free gifting",
+    "status": "created",
+    "warnings": [],
+    "errors": [],
+    "evidence": 21,
+    "carried": 0,
+    "score": 68,
+    "confidence": 60,
+    "action": "test_now"
+  },
+  {
+    "file": "movements.json",
+    "id": "the-great-lock-in",
+    "name": "The Great Lock-In",
+    "status": "created",
+    "warnings": [],
+    "errors": [],
+    "evidence": 20,
+    "carried": 0,
+    "score": 57,
+    "confidence": 51,
+    "action": "prepare"
+  },
+  {
+    "file": "movements.json",
+    "id": "gen-z-bible-reading-revival",
+    "name": "Gen Z Bible-reading revival",
+    "status": "created",
+    "warnings": [],
+    "errors": [],
+    "evidence": 11,
+    "carried": 0,
+    "score": 63,
+    "confidence": 65,
+    "action": "prepare"
+  }
+]

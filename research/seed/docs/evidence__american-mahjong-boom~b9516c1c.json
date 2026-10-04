@@ -1,0 +1,19 @@
+{
+  "id": "american-mahjong-boom~b9516c1c",
+  "candidateId": "american-mahjong-boom",
+  "url": "https://www.etsy.com/listing/4515065496",
+  "title": "(Etsy mahjong score-sheet listing; title shown as '20+ views in the last 24 hours')",
+  "publisher": "Etsy listing",
+  "publishedAt": null,
+  "retrievedAt": "2026-10-04T20:53:53Z",
+  "accessMethod": "web_search_result",
+  "signalType": "marketplace",
+  "intent": "curiosity",
+  "claim": "A mahjong scoring printable displayed '20+ views in the last 24 hours' (views, not sales).",
+  "kind": "observed",
+  "syndicationOf": null,
+  "excerpt": "Only the view badge appeared as the result title; views are not purchases.",
+  "firstSeenRunId": "run-2026-10-04-hobbies",
+  "lastSeenRunId": "run-2026-10-04-hobbies",
+  "firstRetrievedAt": "2026-10-04T20:53:53Z"
+}

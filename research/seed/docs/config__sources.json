@@ -1,0 +1,78 @@
+{
+  "checkedAt": "2026-10-04T20:52:00Z",
+  "note": "Checked from the research environment. Container network access and the page-fetch tool were both tested; web search ran through the search tool.",
+  "sources": [
+    {
+      "source": "Web search (Claude search tool)",
+      "method": "search",
+      "status": "ok",
+      "note": "Returns current US results with links and summaries. The initial research used the full 200-search session budget."
+    },
+    {
+      "source": "Direct page fetch (articles)",
+      "method": "fetch",
+      "status": "blocked",
+      "note": "Blocked by the environment network policy for nearly every publisher tried (Fortune, Yahoo, Fast Company, The Verge, Pinterest newsroom, Gelato, others)."
+    },
+    {
+      "source": "Google Trends",
+      "method": "fetch + API",
+      "status": "blocked",
+      "note": "trends.google.com denied by network policy. No relative-interest series could be measured."
+    },
+    {
+      "source": "Reddit",
+      "method": "JSON API",
+      "status": "blocked",
+      "note": "reddit.com denied by network policy; Reddit evidence appears only via search results."
+    },
+    {
+      "source": "Etsy",
+      "method": "site + Open API v3",
+      "status": "blocked",
+      "note": "etsy.com and openapi.etsy.com denied. Listing counts, sales and bestseller badges could not be observed."
+    },
+    {
+      "source": "Pinterest",
+      "method": "site + Trends",
+      "status": "blocked",
+      "note": "pinterest.com denied. Pinterest figures come from its published reports as cited by search results."
+    },
+    {
+      "source": "TikTok",
+      "method": "site",
+      "status": "blocked",
+      "note": "tiktok.com denied. TikTok activity appears only via search results and press."
+    },
+    {
+      "source": "YouTube",
+      "method": "site + Data API",
+      "status": "blocked",
+      "note": "youtube.com denied; the Data API needs an API key that is not configured."
+    },
+    {
+      "source": "Wikipedia pageviews",
+      "method": "Wikimedia REST API",
+      "status": "blocked",
+      "note": "wikimedia.org denied. This would have provided absolute daily attention measurements for charts."
+    },
+    {
+      "source": "Know Your Meme",
+      "method": "site",
+      "status": "blocked",
+      "note": "Denied; entries appear via search results only."
+    },
+    {
+      "source": "Hacker News, Bluesky, Google News RSS, Google autocomplete",
+      "method": "public APIs",
+      "status": "blocked",
+      "note": "All denied by the environment network policy."
+    },
+    {
+      "source": "Amazon, Walmart (marketplace pages)",
+      "method": "site",
+      "status": "blocked",
+      "note": "Denied; marketplace facts come from third-party reports surfaced in search."
+    }
+  ]
+}

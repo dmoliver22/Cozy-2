@@ -1,0 +1,212 @@
+{
+  "id": "poetcore",
+  "name": "Poetcore",
+  "aliases": [
+    "the poet aesthetic",
+    "literary chic",
+    "poet core",
+    "literary aesthetic",
+    "Poetcore (the poet aesthetic)"
+  ],
+  "topicKeys": [
+    "phrase:poetcore",
+    "phrase:the poet aesthetic",
+    "phrase:literary chic",
+    "phrase:poet core",
+    "phrase:literary aesthetic",
+    "phrase:poetcore the poet aesthetic"
+  ],
+  "category": "aesthetic",
+  "summary": "A literary, romantic style - tweed and turtlenecks, satchels, notebooks and dog-eared poetry books - that Pinterest predicted for 2026 and fashion press now calls an autumn-2026 trend.",
+  "what": "Poetcore dresses like a 19th-century or bohemian poet: oversized turtlenecks, vintage blazers, messenger satchels, scarves, ink-stained notebooks and books carried as accessories. It is a softer, more romantic relative of dark academia and is marketed to both women and men. Its props (notebooks, poetry, handwriting) map naturally onto stationery and literary wall art.",
+  "origin": {
+    "text": "Grew out of dark/light academia and literary TikTok/Pinterest culture. Pinterest named it in Pinterest Predicts 2026 (released about Dec 9, 2025 per press dates; data Sept 2024-Aug 2025).",
+    "evidence": [
+      "poetcore~129dde2d",
+      "poetcore~96e6d123",
+      "poetcore~bccf93a3"
+    ],
+    "date": "2025-12-09"
+  },
+  "adopters": {
+    "text": "Gen Z and young millennial fashion followers of both genders; book lovers; fans of literary-heartthrob celebrity style (inferred). They care because it signals introspection, slowness and taste rather than logos.",
+    "evidence": [
+      "poetcore~129dde2d",
+      "poetcore~0ead978f",
+      "poetcore~b6dc028f"
+    ]
+  },
+  "spread": {
+    "text": "Has moved from Pinterest's prediction into international fashion press (FashionUnited editions, Soigne Middle East, nss g-club, LDN Fashion) and retailer merchandising blogs (US boutique, Tokyo Canvas). The FashionUnited regional editions are one syndicated signal.",
+    "evidence": [
+      "poetcore~129dde2d",
+      "poetcore~0cc6d57d",
+      "poetcore~0ead978f",
+      "poetcore~c07b99cc",
+      "poetcore~55967fc0",
+      "poetcore~b6dc028f"
+    ]
+  },
+  "trajectory": {
+    "text": "Coverage runs from the Dec 2025 prediction through spring 2026 merchandising to 'autumn 2026's most literary trend', which points to sustained growth in fashion. No 2026 search time-series or decor/stationery demand data was found, so the spread into paper goods is unproven.",
+    "evidence": [
+      "poetcore~129dde2d",
+      "poetcore~0cc6d57d",
+      "poetcore~55967fc0"
+    ],
+    "stage": "early_growth"
+  },
+  "productDemand": {
+    "text": "Commercial uptake is visible in apparel merchandising only. Demand for Poetcore stationery, journals or poetry prints is plausible (books and notebooks are core props) but not evidenced. Gifting for book lovers in Q4 is a reasonable channel (inference).",
+    "evidence": [
+      "poetcore~55967fc0",
+      "poetcore~b6dc028f"
+    ]
+  },
+  "competition": {
+    "text": "Not measured (search budget exhausted). Literary/dark-academia prints and journals are a long-established category (background knowledge, unverified), so generic designs would face competition.",
+    "evidence": [],
+    "level": "unknown"
+  },
+  "gap": {
+    "text": "Curated public-domain poetry broadsides typeset in letterpress style, plus a 'commonplace book' journal for copying and annotating lines, sold as a Poetcore set. This uses rights-free text and fits gifting, New-Year journaling, Valentine's and National Poetry Month (April).",
+    "isInference": true
+  },
+  "window": {
+    "estimate": "Autumn 2026 through spring 2027 (aesthetic likely outlasts the season).",
+    "reasoning": "Multi-source fashion adoption plus runway support suggests more than a single-season micro-trend; the paper-goods market is not time-critical, so creators can test without racing Halloween.",
+    "invalidators": [
+      "Poetcore fashion coverage drops off after autumn 2026",
+      "Marketplace check shows literary prints/journals are saturated with no premium for the Poetcore framing"
+    ],
+    "seasonality": "Autumn/winter look; poetry gifting peaks for Valentine's and April (National Poetry Month).",
+    "sellBy": null,
+    "endEstimate": null
+  },
+  "rights": {
+    "risk": "low",
+    "note": "Use only poems in the US public domain (published before 1931, e.g., Dickinson, Keats, Christina Rossetti, Whitman) and check each text and edition. Avoid modern poets and song lyrics. Don't use celebrity likenesses associated with the look."
+  },
+  "scores": {
+    "timing": {
+      "score": 2,
+      "basis": "qualitative",
+      "rationale": "Fashion momentum is real, but no evidence yet that it drives paper-goods buying this quarter; not time-critical."
+    },
+    "buyerIntent": {
+      "score": 2,
+      "basis": "qualitative",
+      "rationale": "Searches and press are style/curiosity; apparel merchandising exists; no stationery purchase evidence."
+    },
+    "supplyGap": {
+      "score": null,
+      "basis": "unknown",
+      "rationale": "Competition was not measured. Literary prints are probably an established category, but that was assumed, not checked."
+    },
+    "productFit": {
+      "score": 4,
+      "basis": "qualitative",
+      "rationale": "Typesetting public-domain poems and building KDP journals is fast and cheap."
+    },
+    "durability": {
+      "score": 4,
+      "basis": "qualitative",
+      "rationale": "Spread across many outlets and regions and adjacent to long-lived dark academia; runway support reported."
+    },
+    "economics": {
+      "score": 3,
+      "basis": "qualitative",
+      "rationale": "Digital prints and KDP journals have workable margins at low price points; POD posters thinner."
+    }
+  },
+  "recommendedAction": "watch",
+  "actionRationale": "The aesthetic is durable and suits paper goods, but there is no evidence of product demand and competition was not checked. Watch for Poetcore-specific stationery or print demand (Pinterest/Etsy signals). Optionally build a small public-domain poetry print set now at low cost for Valentine's and April tests.",
+  "products": [
+    {
+      "buyer": "Book lovers and Poetcore/dark-academia fans decorating reading nooks or dorms; gift buyers",
+      "format": "poster",
+      "theme": "Letterpress-style broadsides of public-domain poems (set of 4-6: Dickinson, Keats, Christina Rossetti, Whitman) on aged paper with ink-blot ornament",
+      "whyBuy": "Poems and books are core props of the look; a rights-free, giftable decor piece.",
+      "evidence": [
+        "poetcore~129dde2d",
+        "poetcore~0cc6d57d"
+      ],
+      "differentiation": "Curated, accurately transcribed texts with typographic craft instead of generic quote posters.",
+      "channels": [
+        "Etsy",
+        "Pinterest",
+        "Redbubble"
+      ],
+      "effort": "low",
+      "effortHours": 8,
+      "leadTimeDays": 3,
+      "fulfillment": "digital",
+      "validationTest": "List the set as a digital download plus 10 pins tagged poetcore/literary decor; compare saves against your other boards.",
+      "continueIf": "Saves and favorites are steady and a few sales come within 4 weeks.",
+      "pivotIf": "Saves but no sales: make one poem free as a pin magnet and sell the journal instead.",
+      "stopIf": "No traction after 4 weeks and 20 pins.",
+      "rightsNote": "Verify public-domain status and text accuracy for each poem."
+    },
+    {
+      "buyer": "Poetcore adopters who journal; New-Year journaling buyers",
+      "format": "journal",
+      "theme": "'Commonplace Book' journal: pages for copying lines, annotating poems, word lists and drafting, with a monthly 'poem to memorize' page (public-domain selections); KDP paperback + printable",
+      "whyBuy": "Notebooks are part of the look; commonplace books suit the slow, literary values the trend is described with.",
+      "evidence": [
+        "poetcore~0cc6d57d",
+        "poetcore~0ead978f"
+      ],
+      "differentiation": "Built for engaging with poetry, not a blank notebook.",
+      "channels": [
+        "Amazon KDP",
+        "Etsy",
+        "Gumroad"
+      ],
+      "effort": "medium",
+      "effortHours": 12,
+      "leadTimeDays": 5,
+      "fulfillment": "pod",
+      "validationTest": "Publish on KDP and as a PDF in December; promote around New Year.",
+      "continueIf": "Organic KDP sales in January.",
+      "pivotIf": "Re-theme for Valentine's (love poems) if January is flat.",
+      "stopIf": "No sales by end of February.",
+      "rightsNote": "Public-domain poems only; original layout."
+    }
+  ],
+  "unresolved": [
+    "Whether Poetcore interest translates into decor/stationery purchases (no evidence gathered).",
+    "Competition levels for literary prints and journals (not measured).",
+    "Any 2026 search-trend data after the Pinterest Predicts window (Sept 2024-Aug 2025)."
+  ],
+  "formats": [
+    "poster",
+    "journal"
+  ],
+  "channels": [
+    "Etsy",
+    "Pinterest",
+    "Redbubble",
+    "Amazon KDP",
+    "Gumroad"
+  ],
+  "effortMin": "low",
+  "region": "US",
+  "language": "en",
+  "lens": "Discovery scan: aesthetics & decor",
+  "source": "research",
+  "researchedAt": "2026-10-04T21:00:56Z",
+  "lastRunId": "run-2026-10-04-aesthetics",
+  "runIds": [
+    "run-2026-10-04-aesthetics"
+  ],
+  "firstSeenAt": "2026-10-04T21:00:56.000Z",
+  "jobId": null,
+  "qualityFlags": [],
+  "editorialNotes": [
+    "Editorial review 2026-10-04: Counted \"FashionUnited\" with \"Pinterest Business\" as one signal: reports the Pinterest Predicts figure from the primary report.",
+    "Editorial review 2026-10-04: Counted \"Axios\" with \"Pinterest Business\" as one signal: coverage of the same Pinterest Predicts release.",
+    "Editorial review 2026-10-04: Relabeled \"Current Boutique (retailer blog)\" from purchase intent to context only: retailers merchandising clothing is supply, and in apparel rather than paper goods.",
+    "Editorial review 2026-10-04: Relabeled \"Tokyo Canvas (retailer blog)\" from purchase intent to context only: retailer marketing is supply.",
+    "Editorial review 2026-10-04: Changed supplyGap from 2 (qualitative) to not assessed (unknown): Competition was not measured. Literary prints are probably an established category, but that was assumed, not checked."
+  ]
+}
