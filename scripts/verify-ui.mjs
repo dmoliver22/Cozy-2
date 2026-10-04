@@ -195,6 +195,14 @@ async function newPage(scenario, viewport = { width: 1440, height: 1000 }, color
   check('ranking puts Test now first', /Test now/.test(firstAction), firstAction);
   await page.screenshot({ path: `${shots}/feed.png`, fullPage: false });
 
+  await page.click('.preset:has-text("Early bets")');
+  const earlyRows = await page.locator('.row').count();
+  const earlyCount = Number((await page.locator('.preset:has-text("Early bets") .count').innerText()).trim());
+  check('Early bets preset filters to early-stage trends', earlyRows === earlyCount && earlyRows > 0 && earlyRows < 12, `${earlyRows} rows`);
+  await page.click('.preset:has-text("Strongly asymmetric")');
+  check('Strongly asymmetric preset works', (await page.locator('.row').count()) > 0);
+  await page.click('.preset:has-text("All")');
+  check('All preset restores the feed', (await page.locator('.row').count()) === 12);
   await page.selectOption('#f-action', 'prepare');
   const prepRows = await page.locator('.row').count();
   check('action filter narrows the feed', prepRows > 0 && prepRows < 12, `${prepRows} rows`);
