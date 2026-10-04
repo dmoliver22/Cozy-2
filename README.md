@@ -72,3 +72,31 @@ npm run seed                   # rebuild research/seed from raw + curation
 npm run build                  # dist/trendjack.html
 node scripts/verify-ui.mjs     # browser checks (needs Chromium)
 ```
+
+## Research worker
+
+Research runs in Claude Code Routines with web search, not in the page:
+
+| Routine | Trigger | Purpose |
+|---|---|---|
+| Trendjack research worker | `trig_01EGjcmjSKMe1QUixGLXKdyv` | Fired by the dashboard ("Discover trends", "Analyze a topic", "Refresh") with the job id |
+| Trendjack scheduled discovery | `trig_01GSzZJ4dR52xSx7YUT5Jsaz` | Optional timetable (off by default); turn on or change it in Settings → Research worker |
+
+Flow: the dashboard writes `jobs/{id}` (after duplicate, cache and limit checks) and calls `fire_trigger`
+through the viewer's Claude Code Remote connector. The worker claims the job with a version-pinned
+write, records progress, writes its raw result to `inbox/{id}`, and marks the job done, partial or
+failed with the sources it tried. Any open dashboard validates the inbox result with `ingest.js` and
+files it. If the connector is unavailable, jobs stay queued and say why; a scheduled run picks up
+queued jobs.
+
+Verified on 2026-10-04: an "Analyze a topic" job ("6-7 meme") was claimed, researched, filed and
+shown in the dashboard within about two minutes.
+
+## Known limits
+
+- This environment's network policy blocks direct access to Google Trends, Reddit, Etsy, Pinterest,
+  TikTok, YouTube, Wikipedia/Wikimedia and most publishers, so evidence comes from web-search results
+  and confidence is discounted for it. Allowing those hosts (environment settings → Network access)
+  and adding API credentials would let the worker fetch pages and real time series.
+- No charts appear until three or more comparable absolute measurements are stored for a trend.
+- Each Claude Code session has a web-search budget (200 by default); the initial research used it.
