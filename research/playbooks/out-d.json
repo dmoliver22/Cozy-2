@@ -1,0 +1,1213 @@
+{
+  "writtenAt": "2026-10-04T23:11:09Z",
+  "playbooks": [
+    {
+      "candidateId": "hyrox-style-fitness-racing",
+      "products": [
+        {
+          "index": 0,
+          "themeKey": "16-week fitness-race training log (KDP 6x9 paperback plus pr",
+          "productName": "Split & Station Log: 16-Week Fitness Race Training Journal",
+          "superPrompt": "You are a sports-stationery designer. Produce the complete interior of a paper training log for first-time racers of a standardized 8-station indoor fitness race (eight 1 km runs, each followed by one workout station). The log records training; it never prescribes it.\n\nBUYER AND JOB\nFirst-time fitness racers training toward a spring 2027 event, and gym partners buying them a January gift. The format never changes, so splits are comparable week to week. The log holds every split, station personal best (PB) and \"compromised run\" (a run straight after a station), plus a calm race-day plan.\n\nDELIVERABLES (same content, two builds)\nA) KDP paperback interior: 6 x 9 in, no bleed, exactly 120 pages, inside (gutter) margin 0.75 in, other margins 0.5 in, black ink only (grayscale).\nB) Printable PDF: US Letter 8.5 x 11 in and A4 210 x 297 mm, portrait, 0.5 in (13 mm) margins, plus a \"print as needed\" set (one week of pages, one station PB page, the race-day sheet).\n\nPAGE LIST (KDP numbering)\n1 Title: \"[YOUR BRAND] Split & Station Log\", subtitle \"16 weeks of runs, stations and race-day splits\", lines for name, race city, race date, target finish time.\n2 How to use (max 150 words) plus plain definitions: run split, station time, transition time, compromised run, PB.\n3 Disclaimer (verbatim, below).\n4 Why I signed up: 5 prompts, division entered (blank).\n5 Baseline: 1 km run plus each station with blank columns for distance/reps, load, time, date, notes.\n6-13 Station PB pages in race order: Ski machine, Sled push, Sled pull, Burpee broad jumps, Rowing machine, Farmers carry, Sandbag lunges, Wall balls. Each: blank \"my standard\" box, PB ladder (date | time | load | notes | effort 1-5) x 12 rows, lined box \"Cues in my own words\" (no cues printed).\n14-77 Sixteen weeks x 4 pages: (a) week grid, Mon-Sun rows; columns session type | planned | done (checkbox) | minutes | effort 1-10 | notes; week-focus box; 1-5 energy check. (b-d) three session pages: date, session type, warm-up notes, split table of 8 rows (run # | run time | station | station time | transition | running total), totals box, \"felt strong\" and \"change next time\" lines.\n78-83 Compromised running log: date | station before | fresh 1 km | post-station 1 km | difference | notes, 14 rows per page.\n84-86 Checkpoints for Weeks 0, 8 and 16 repeating page 5's grid plus a \"change since last checkpoint\" column.\n87-88 Race-week checklist: gear, ticket and ID, travel, sleep notes, \"my food and fluid plan\" (blank lines only), wave time, event rules to check.\n89-90 Race-day split sheet: target vs actual for 8 runs, 8 stations and transitions, running totals, large number boxes.\n91-92 Post-race reflection: finish time, strongest and hardest segment, what I'd change, next goal.\n93-94 Race history: date | city | division | finish time | notes, 10 rows each.\n95-120 Notes: 5 mm dot grid.\n\nDESIGN\nFonts: Oswald (headings, caps), Inter (body 10-11 pt), Space Mono (time fields). Palette \"Chalk & Signal\": Chalk #F7F7F5, Graphite #1E2328, Signal Orange #FF5A1F, Steel Blue #3A6EA5, Concrete #9AA3AB. KDP interior: Graphite and Concrete only; printable may use orange headers. Rules 0.5 pt, rows at least 0.3 in tall, time boxes pre-printed with \":\".\n\nCONTENT RULES\nOriginal wording, grade 7-8 reading level, encouraging, factual. Never prescribe workouts, paces, loads, nutrition or recovery. No promises of faster times, fitness, weight loss or injury prevention. Never name any race series, organizer, sponsor, venue, equipment maker or apparel brand; use only the generic station names above.\n\nDIFFERENTIATION\nPlans and apps exist. This is the paper companion: split and station tracking, compromised-run comparison and a race-day sheet in one book, with no plan to follow.\n\nDISCLAIMER (verbatim)\n\"This log is a record-keeping tool, not a training plan or medical advice. Talk to a qualified professional before starting or changing an exercise program. Not affiliated with or endorsed by any race organizer.\"\n\nOUTPUT FORMAT\n1) KDP table: page | title | elements | fields/columns | rows | layout notes. 2) Differences for the Letter/A4 printable. 3) Final text for pages 1-4, 87-88 and 91-92. 4) Repeat map of pages that duplicate one master.\nSelf-check, fixing failures before answering: [ ] exactly 120 KDP pages; [ ] grayscale interior; [ ] every split table has 8 runs and 8 stations in race order; [ ] no brand, organizer, sponsor or equipment names; [ ] no training, health or outcome claims; [ ] disclaimer verbatim.",
+          "imagePrompts": [
+            {
+              "tool": "Ideogram",
+              "purpose": "Front cover art for the KDP paperback and the Etsy thumbnail",
+              "prompt": "Minimalist bold sports-journal cover, portrait 2:3, at least 1800 x 2700 px. One curving running-track lane loops past eight simple geometric station icons (ski machine handles, sled, sled with rope, arc arrow with footprints, rowing machine, two carry handles, sandbag, medicine ball with target line) drawn as thick monoline shapes. Flat vector, high contrast, generous negative space, faint chalk-dust texture. Colors: Chalk #F7F7F5 solid background, Graphite #1E2328 lines, Signal Orange #FF5A1F lane, Steel Blue #3A6EA5 small accents. Render this text exactly in heavy condensed sans-serif capitals in the top third: \"SPLIT & STATION LOG\"; smaller beneath: \"16 weeks to race day\". No border. Negatives: no logos, no brand names, no real people, no trademarked characters, no watermarks, no other text. If any letter renders wrong, regenerate without text and set the title in Canva (Oswald)."
+            },
+            {
+              "tool": "ChatGPT images",
+              "purpose": "Station icon set for station PB pages and section headers",
+              "prompt": "A set of 8 matching monoline icons on a transparent background, 4 x 2 grid with even spacing, square 1:1, 2048 x 2048 px: ski machine, sled with push arrow, sled with pull rope, arc arrow with footprints (burpee broad jump), rowing machine, two farmer-carry handles, sandbag, medicine ball with a wall target line. 6 px stroke, rounded caps, Graphite #1E2328 with one Signal Orange #FF5A1F accent per icon. No people, no text, no logos, no brand-shaped equipment, no trademarked characters, no watermarks."
+            },
+            {
+              "tool": "ChatGPT images",
+              "purpose": "Listing mockup background (journal in a gym setting)",
+              "prompt": "Photorealistic flat-lay, 4:3 landscape: a closed 6x9 paperback with a blank light-gray cover and an open printed logbook with blank pages beside it, on a black rubber gym floor with a chalk smudge, a plain water bottle, a simple stopwatch and a resistance band. Soft daylight from top left, gentle shadows. Graphite floor, chalk-white pages, a hint of Signal Orange #FF5A1F on the band. Leave the cover and pages blank so the real artwork can be placed in Canva. No people, no hands, no logos or brand marks on any object, no text, no trademarked characters, no watermarks."
+            }
+          ],
+          "assembly": [
+            "Run the super prompt in Claude or ChatGPT. Paste the page table into a Google Doc as your build checklist and read pages 1-4 for any brand names or advice before you build.",
+            "Canva: Create design > Custom size 6 x 9 in (KDP interior) and a second design at 8.5 x 11 in (printable). Turn on View > Show rulers and guides and add margin guides (0.75 in gutter, 0.5 in other sides for KDP; 0.5 in all round for Letter).",
+            "Build one master of each repeating page (week grid, session page, station PB, compromised log, dot grid) with Canva tables or 0.5 pt lines, then duplicate to the counts in the repeat map until the KDP file is exactly 120 pages. Keep the KDP version grayscale (Graphite/Concrete only).",
+            "Place the transparent icon PNGs on the station pages. Fill one session page and the race-day sheet with clearly fake sample numbers in a copy of the file for listing photos only.",
+            "Export the KDP interior: Share > Download > PDF Print, no crop marks or bleed, Flatten PDF on. Export the Letter printable as PDF Print, duplicate and resize to A4 (210 x 297 mm), export again, and export the 'print as needed' masters as a third PDF. Keep each file under Etsy's 20 MB limit (verify).",
+            "Etsy: create a digital listing with the Letter, A4 and print-as-needed PDFs and 6-10 images at least 2000 px wide (cover mockup, filled split page, station PB page, compromised-run log, race-day sheet, 'what's inside' grid). Copy the listing to Gumroad or Payhip for a direct link.",
+            "Only after the Day 14 check passes: download KDP's paperback cover template for 6 x 9 in, 120 pages, white paper (spine roughly 0.27 in, full wrap roughly 12.52 x 9.25 in with bleed; estimates, use the template's numbers). Build the wrap in Canva at that size, keep the barcode area clear, add spine text, export PDF Print.",
+            "KDP: Paperback, 6 x 9 in trim, black & white interior on white paper, no bleed, matte cover. Upload both PDFs, check every page in the Previewer, set the price, and order one proof copy before promoting the paperback."
+          ],
+          "listingPrompt": "You are an Etsy SEO copywriter. Write the Etsy listing for a printable PDF training log for first-time racers of an 8-station indoor fitness race (eight 1 km runs, each followed by a workout station).\nProduct facts: [PASTE THE PAGE TABLE FROM THE SUPER PROMPT OUTPUT]. Files: US Letter PDF and A4 PDF (120 pages each) plus a print-as-needed PDF. Instant digital download; nothing is shipped.\nProduce:\n1. A title under 140 characters that starts with the buyer's search phrase (e.g. \"Fitness Race Training Log Printable\" or \"Hybrid Race Log\"), then split tracker, station PB, race day checklist. Show the character count.\n2. Exactly 13 tags, each 20 characters or fewer, all generic, no duplicates; show each count.\n3. A description: one-line hook; what's included (bulleted page list); file formats and sizes (PDF, US Letter 8.5x11 in and A4); how delivery works (download from your Etsy Purchases page after payment, print at home or at a print shop, reprint the weekly pages as often as you like); who it's for; a 5-question FAQ: Is this a training plan? (No, it's a log for recording your own or your coach's plan.) Which races does it fit? (Any race with eight 1 km runs and eight stations; not affiliated with any organizer.) Can I write on it digitally? (Yes, in a PDF annotation app.) Is there a paperback? [YES / COMING SOON]. Refunds? [YOUR DIGITAL-FILE POLICY].\n4. Alt text for 5 listing images.\n5. A KDP block for later: title plus subtitle under 200 characters, 7 backend keyword phrases, a 150-word description.\nRules: never use the name, logo or slogan of any race series, organizer, sponsor, equipment maker or apparel brand anywhere (title, tags, description, alt text, keywords). Do not write \"official\". No promises of faster times, fitness, weight loss, injury prevention or any health result. Plain, friendly US English.",
+          "pricing": {
+            "recommended": 7,
+            "low": 5,
+            "high": 10,
+            "currency": "USD",
+            "rationale": "The input's $7 test price: far below training books, ebooks and app subscriptions, impulse-level for a PDF. Paperback later at an estimated $11.99 (range $9.99-13.99) to sit near other paperback logs and stay at or above the price where KDP's paperback royalty rate may drop (verify on KDP's pricing page).",
+            "basis": "estimate; competitor prices were not measured in the research"
+          },
+          "costs": {
+            "provider": "Etsy (digital PDF) now; Amazon KDP paperback only after the test",
+            "item": "Printable PDF; later 6x9 in black-ink paperback, 120 pages",
+            "baseCost": 2.44,
+            "shipping": null,
+            "basis": "estimate: verify in the provider catalog. KDP print cost estimated as about $1.00 + $0.012 per page for a 120-page black-ink 6x9 paperback (about $2.44); confirm with KDP's printing cost calculator. Amazon ships customer orders; proof and author copies cost print plus shipping. Etsy fees (estimate): $0.20 listing, 6.5% transaction, about 3% + $0.25 payment processing.",
+            "testBudget": 14,
+            "testBudgetNote": "Optional Etsy Ads at $1/day for 14 days, started only once the listing has 6+ photos. $0 is fine if the three videos are getting views."
+          },
+          "platforms": [
+            {
+              "name": "Etsy",
+              "role": "primary",
+              "why": "Fastest test for a printable: the input's validation runs here at $7 with generic keywords before any paperback is made."
+            },
+            {
+              "name": "Amazon KDP",
+              "role": "secondary",
+              "why": "Paperback for January gift buyers after the test passes; print on demand, no inventory, live within days."
+            },
+            {
+              "name": "Gumroad or Payhip",
+              "role": "secondary",
+              "why": "Direct checkout link for TikTok and Instagram bios."
+            },
+            {
+              "name": "TikTok and Instagram Reels",
+              "role": "traffic",
+              "why": "Short videos of a filled-in split page match the input's test and this audience's habits."
+            },
+            {
+              "name": "Pinterest",
+              "role": "traffic",
+              "why": "Workout-log and training-printable pins drive slow but free search traffic to Etsy."
+            }
+          ],
+          "marketing": {
+            "positioning": "The paper split-and-station log for first-time 8-station racers: it records your training, it doesn't sell you another plan.",
+            "launchPlan": [
+              {
+                "day": "Day 0",
+                "action": "Suggested start Mon Oct 19, 2026. Run the super prompt, build the Letter and A4 printables in Canva, make one sample-filled copy for photos."
+              },
+              {
+                "day": "Day 1",
+                "action": "List the printable on Etsy at $7 using only generic keywords; mirror it on Gumroad or Payhip for a bio link."
+              },
+              {
+                "day": "Day 2",
+                "action": "Video 1 (TikTok + Reels): filling in a split page after a session. Pin 3 page previews to Pinterest."
+              },
+              {
+                "day": "Day 5",
+                "action": "Video 2: the compromised-run log, fresh 1 km vs the 1 km after a station. Pin 3 more."
+              },
+              {
+                "day": "Day 8",
+                "action": "Video 3: the race-day split sheet, target vs actual. Check Etsy stats; swap the first photo if views are low."
+              },
+              {
+                "day": "Day 10",
+                "action": "One helpful post in a fitness-racing subreddit or Facebook group that allows sharing resources (check the community rules first); answer questions, no hard sell."
+              },
+              {
+                "day": "Day 14",
+                "action": "Mon Nov 2 check: continue if at least 3 printable sales, or at least 300 views with 20+ favorites, and order the KDP proof. Pivot if interest is only in race-day pages: sell a $4 race-day checklist and pacing card pack. Stop on any trademark complaint."
+              },
+              {
+                "day": "Day 16",
+                "action": "If continuing: upload the KDP paperback and order one proof; start 'January gift for your gym partner' messaging."
+              },
+              {
+                "day": "Day 21",
+                "action": "Mon Nov 9: stop if under 100 views in 3 weeks or any trademark complaint; otherwise plan December gift posts and a January New-Year push."
+              }
+            ],
+            "channels": [
+              {
+                "channel": "TikTok",
+                "tactic": "Process videos: logging splits, compromised-run comparison, race-day sheet; text on screen uses generic race wording only",
+                "cadence": "3 videos in the first 8 days, then 2 per week"
+              },
+              {
+                "channel": "Instagram Reels and Stories",
+                "tactic": "Cross-post the same videos; Stories poll 'paper log or app?'",
+                "cadence": "Same as TikTok; Stories 2x per week"
+              },
+              {
+                "channel": "Pinterest",
+                "tactic": "Page-preview pins (split table, station PB ladder, race-day sheet) linking to the Etsy listing",
+                "cadence": "3 pins per week"
+              },
+              {
+                "channel": "Communities (subreddits, Facebook groups)",
+                "tactic": "Answer split-tracking questions; share the log only where resource posts are allowed; check the community rules",
+                "cadence": "At most 1 post per week"
+              },
+              {
+                "channel": "Etsy",
+                "tactic": "Update first photo and title based on stats; add the pacing kit as a cross-sell",
+                "cadence": "Weekly review"
+              }
+            ],
+            "keywords": [
+              "fitness race log",
+              "hybrid race log",
+              "race training log",
+              "workout log pdf",
+              "split tracker",
+              "station pb tracker",
+              "race day checklist",
+              "running log book",
+              "functional fitness",
+              "16 week training",
+              "gym journal gift",
+              "fitness race gift",
+              "indoor fitness race"
+            ],
+            "hooks": [
+              "You signed up for your first 8-station fitness race. Here's where every split goes.",
+              "Fresh 1 km vs the 1 km after the sled push: write both down.",
+              "Apps store your data. Paper makes you look at it.",
+              "Gift idea for the gym friend who just registered for their first fitness race.",
+              "Race morning: one sheet, 8 runs, 8 stations, target vs actual."
+            ]
+          },
+          "extensions": [
+            "$4 race-day checklist and pacing card pack (the input's pivot)",
+            "Bundle with the Race-Day Pacing Kit at about $10",
+            "Doubles/relay partner edition with two-column split tables",
+            "Undated 'season log' for repeat racers covering several events",
+            "Gym or coach multi-print license for training groups",
+            "Free race-day sheet as an email lead magnet on Gumroad or Payhip"
+          ],
+          "asymmetry": {
+            "downside": "About 12 hours of build time and $0-14 cash (optional ads); a KDP proof costs a few dollars plus shipping (estimate) and is only ordered after the test passes. The Etsy test answers in 14 days.",
+            "upside": "Zero marginal cost on the PDF and no inventory for the paperback; the same content sells on Etsy, Gumroad/Payhip and Amazon; the race format is standardized and looks durable for several seasons, so January and spring repeat; obvious spin-offs (race-day pack, doubles log, bundle).",
+            "badBetIf": "Generic search phrases (without the brand name) bring too little traffic, the audience stays app-first, or US participation stays small. Any trademark complaint ends it. Moderately asymmetric, not a sure thing."
+          },
+          "risks": [
+            "Brand enforcement against unofficial products if any brand wording slips into titles, tags, images or videos",
+            "Descriptive keywords may get little Etsy or Amazon traffic (search volumes not measured)",
+            "Tech-forward racers may prefer apps, including official ones",
+            "Copy that drifts into training or medical advice creates liability expectations",
+            "KDP low-content logs are crowded; the paperback needs outside traffic",
+            "Sales concentrated around January and spring race dates"
+          ]
+        },
+        {
+          "index": 1,
+          "themeKey": "Race-day pacing kit: Google Sheets split calculator (target ",
+          "productName": "Race-Day Pacing Kit: Split Calculator Sheet + Wrist Strips",
+          "superPrompt": "You are a spreadsheet designer and printable-stationery designer. Produce a complete race-day pacing kit for first-time racers of a standardized 8-station indoor fitness race (eight 1 km runs, each followed by one workout station). The kit does arithmetic on the racer's own numbers; it never tells them how fast to go.\n\nBUYER AND JOB\nFirst-time racers 2-6 weeks out. They have a target finish time and some practice times and want a concrete split plan, a card to carry and a checklist that keeps race week calm. Book bonuses and apps exist; this is a cheap, single-purpose, race-week kit that complements them.\n\nPART 1: GOOGLE SHEETS FILE (give every tab, cell, label, formula, number format, validation and protected range)\nTab \"Start Here\": title, 6-step instructions (make a copy, fill yellow cells, print the strip), the disclaimer.\nTab \"My Times\":\n- A2 \"Target finish time\", B2 input, format [h]:mm:ss. A3 \"Scale factor\", B3 =IF(D23=0,\"\",B2/D23), format 0.000. C2 =IF(B3=\"\",\"\",IF(ROUND((G21-B2)*86400,0)=0,\"Adds up\",\"Check inputs\")).\n- Row 5 headers: # | Segment | Type | My practice time | Share | Target time | Target clock at end | vs practice.\n- Rows 6-21, 16 segments in order: Run 1, Ski machine, Run 2, Sled push, Run 3, Sled pull, Run 4, Burpee broad jumps, Run 5, Rowing machine, Run 6, Farmers carry, Run 7, Sandbag lunges, Run 8, Wall balls. Row 22 \"Transitions (total)\". D23 =SUM(D6:D22).\n- E6 =IF($B$3=\"\",\"\",D6/$D$23) (percent); F6 =IF($B$3=\"\",\"\",D6*$B$3) (m:ss); G6 =IF($B$3=\"\",\"\",SUM($F$6:F6)+$F$22/16*(ROW()-5)) ([h]:mm:ss); H6 =IF($B$3=\"\",\"\",IF(F6>=D6,\"+\",\"-\")&TEXT(ABS(F6-D6),\"m:ss\")). Fill E6:H6 down to row 21. F22 =IF($B$3=\"\",\"\",D22*$B$3).\n- Validation on B2 and D6:D22: duration greater than 0:00:00. Inputs filled #FFF4C2. Grey italic example inputs labelled \"EXAMPLE: replace with your own times\".\nTab \"Wrist Card\": print-ready block pulling segment names, target times and clock from \"My Times\" (show formulas); two columns (runs | stations); Space Mono 12 pt; print setup landscape, fit to width, no gridlines.\nTab \"Race-Day Actuals\": same 16 segments plus transitions; target | actual (input) | difference (signed m:ss) | running total; total row.\nTab \"Checklist\": checkboxes; sections Clothing and shoes, Ticket/ID, Bag, Before the start, \"My food and drink plan (what / when)\" as blank rows only, After the finish, \"Event rules to check\" (gloves, headphones, bag drop).\n\nPART 2: PRINTABLE PDF (US Letter and A4 versions)\nPage 1 Wrist strips 10 x 2 in (A4: 265 x 48 mm), 4 per landscape page, two rows of 8 boxes (top Run 1-8, bottom the stations in order), blank time lines, dashed cut lines.\nPage 2 Mini pace cards 3.5 x 2 in (A4: 85 x 55 mm), 10 per portrait page, 16 segments with blank target lines.\nPage 3 One-page race-week checklist matching the tab.\nPage 4 \"How to fill in your strip\" with a worked example marked EXAMPLE, plus the disclaimer.\n\nDESIGN\nPalette \"Chalk & Signal\": Chalk #F7F7F5, Graphite #1E2328, Signal Orange #FF5A1F, Steel Blue #3A6EA5, Concrete #9AA3AB. Fonts: Oswald headings, Inter body, Space Mono for times. Header rows Graphite with Chalk text; only input cells yellow.\n\nCONTENT RULES\nOriginal wording, grade 7 reading level. No pacing, training, nutrition, hydration or medical advice; no promises about finish times. Never name any race series, organizer, sponsor, equipment maker or apparel brand; generic station names only.\n\nDISCLAIMER (verbatim): \"This kit only does arithmetic on the times you enter. It is not coaching, nutrition or medical advice. Not affiliated with or endorsed by any race organizer.\"\n\nOUTPUT FORMAT\nTab by tab, a cell table (cell | content or formula | format). Then the PDF page by page: dimensions, grid and every label.\nSelf-check, fixing failures before answering: [ ] with the example inputs, G21 equals B2 and C2 reads \"Adds up\"; [ ] every formula points at the right rows; [ ] 8 runs and 8 stations in race order everywhere; [ ] Letter and A4 sizes both given; [ ] no brand names; [ ] no advice or outcome claims.",
+          "imagePrompts": [
+            {
+              "tool": "Ideogram",
+              "purpose": "Listing thumbnail / title card",
+              "prompt": "Bold graphic title card, 4:3 landscape, 2400 x 1800 px. Render this text exactly: \"RACE-DAY PACING KIT\" in heavy condensed sans-serif capitals, and below it smaller: \"Split calculator · Wrist strips · Checklist\". Solid Chalk #F7F7F5 background with three Signal Orange #FF5A1F horizontal split lines and small Graphite #1E2328 tick marks like a timing strip, Steel Blue #3A6EA5 accent dot. Flat vector, clean. No people, no logos, no brand names, no trademarked characters, no watermarks, no other text."
+            },
+            {
+              "tool": "ChatGPT images",
+              "purpose": "Flat-lay mockup for the printable strips",
+              "prompt": "Photorealistic top-down flat-lay, 1:1, 2048 px: a printed paper wrist strip with blank boxes, a small blank pace card, two safety pins, small scissors and a roll of athletic tape on a light concrete surface. All paper blank for overlay in Canva. Soft daylight, crisp shadows, Signal Orange #FF5A1F tape as the only color accent. No people, no hands, no logos, no text, no trademarked characters, no watermarks."
+            }
+          ],
+          "assembly": [
+            "Create a new Google Sheet and build the tabs from the AI output. Type each row-6 formula once, then drag it down to row 21. Set formats with Format > Number > Custom number format: [h]:mm:ss for clock cells, m:ss for segment cells.",
+            "Test it: enter a 1:30:00 target and the example practice times; confirm C2 reads 'Adds up' and G21 equals B2. Clear B2 and confirm no error messages appear.",
+            "Protect formula ranges (Data > Protect sheets and ranges > Show a warning) and set the Wrist Card print setup to landscape, fit to width, gridlines off.",
+            "Share > General access: Anyone with the link, Viewer. Copy the link and replace everything from '/edit' onward with '/copy' so buyers get a 'Make a copy' screen; test it in a private browser window.",
+            "Canva: make a 1-page US Letter 'Your sheet link' PDF with the /copy link on a big button. Build the wrist strips at 11 x 8.5 in (Letter landscape) and 297 x 210 mm (A4 landscape), the mini cards and the checklist; export each set as PDF Print.",
+            "Prepare the Etsy files: link PDF, Letter printables PDF, A4 printables PDF, each under 20 MB (verify Etsy's limit).",
+            "Listing images (at least 2000 px wide): Sheet screenshot with EXAMPLE data, strip mockup, mini cards, checklist preview, 'what's included' graphic.",
+            "List on Etsy at $5, mirror on Gumroad, and add a cross-link in the training log listing."
+          ],
+          "listingPrompt": "You are an Etsy SEO copywriter. Write the Etsy listing for a digital race-day pacing kit for first-time racers of an 8-station indoor fitness race (eight 1 km runs plus eight workout stations).\nProduct facts: a Google Sheets split calculator delivered as a \"make a copy\" link inside a PDF (needs a free Google account); it scales the buyer's own practice times to their target finish time and shows a target time and race clock for every run and station; printable wrist strips and mini pace cards (US Letter and A4 PDFs); a race-week checklist. Instant download; nothing is shipped.\nProduce:\n1. A title under 140 characters starting with the buyer's phrase (e.g. \"Race Pace Calculator Google Sheets\" or \"Fitness Race Pacing Kit\"), then wrist pace strip, race day checklist. Show the count.\n2. Exactly 13 generic tags of 20 characters or fewer, with counts.\n3. A description: hook; what's included; file formats and sizes (Google Sheets link, PDF, Letter 8.5x11 in and A4); how delivery works (download the PDF from Etsy Purchases, click the link, choose Make a copy; print strips at 100% scale); a 5-question FAQ: Do I need Excel? (No, free Google Sheets.) Will it tell me what pace to run? (No, it only does arithmetic on the times you enter.) Which races does it fit? (Any race with eight 1 km runs and eight stations; not affiliated with any organizer.) Can I use it on my phone? (Yes, in the Google Sheets app; printing works best from a computer.) Refunds? [YOUR DIGITAL-FILE POLICY].\n4. Alt text for 4 images.\nRules: never use the name, logo or slogan of any race series, organizer, sponsor, equipment maker or apparel brand anywhere. Do not write \"official\". No pacing, nutrition or medical advice and no promises about finish times. Plain US English.",
+          "pricing": {
+            "recommended": 5,
+            "low": 4,
+            "high": 8,
+            "currency": "USD",
+            "rationale": "The input's $5 test price: a single-purpose impulse add-on below the $7 log; bundle both at about $10 so the kit lifts the order value. It competes with free calculators, so it must stay cheap.",
+            "basis": "estimate; competitor prices were not measured in the research"
+          },
+          "costs": {
+            "provider": null,
+            "item": null,
+            "baseCost": null,
+            "shipping": null,
+            "basis": "estimate: verify in the provider catalog. Digital product with no production cost; Etsy fees (estimate): $0.20 listing, 6.5% transaction, about 3% + $0.25 payment processing. Gumroad takes a per-sale fee (verify current rate).",
+            "testBudget": 0,
+            "testBudgetNote": "No ads. It rides on the log's traffic and videos; ads on a $5 item rarely pay back."
+          },
+          "platforms": [
+            {
+              "name": "Etsy",
+              "role": "primary",
+              "why": "Same shop and buyers as the log; cross-selling the two is the main lever."
+            },
+            {
+              "name": "Gumroad",
+              "role": "secondary",
+              "why": "Direct link for bios and the free lead-magnet pivot (pay-what-you-want with email capture)."
+            },
+            {
+              "name": "Instagram Reels",
+              "role": "traffic",
+              "why": "A screen recording of 'type goal time, get 16 splits' is a quick, visual demo."
+            },
+            {
+              "name": "Pinterest",
+              "role": "traffic",
+              "why": "Checklist and pace-strip pins pick up race-prep searches over time."
+            }
+          ],
+          "marketing": {
+            "positioning": "Type your goal time, get every split: a $5 race-week kit that turns your own practice times into a carry-on plan.",
+            "launchPlan": [
+              {
+                "day": "Day 0",
+                "action": "Suggested Wed Oct 21, 2026, the same week as the log. Build and test the Sheet; list on Etsy at $5 and cross-link with the log."
+              },
+              {
+                "day": "Day 1",
+                "action": "Gumroad listing; put the link in your bio."
+              },
+              {
+                "day": "Day 2",
+                "action": "Reel/TikTok: screen recording of entering a target time and watching the splits fill in."
+              },
+              {
+                "day": "Day 5",
+                "action": "3 Pinterest pins: Sheet screenshot, wrist strip sheet, checklist."
+              },
+              {
+                "day": "Day 8",
+                "action": "Video: printing, cutting and taping a wrist strip; no people on camera needed."
+              },
+              {
+                "day": "Day 11",
+                "action": "Create the log + kit bundle listing at about $10."
+              },
+              {
+                "day": "Day 14",
+                "action": "Review views and clicks; replace the first photo if views are coming but clicks are not."
+              },
+              {
+                "day": "Day 21",
+                "action": "Wed Nov 11 check: continue if at least 5 sales; pivot to a free lead magnet for the logbook (Gumroad, email capture) if views come without sales; stop if under 75 views in 21 days."
+              }
+            ],
+            "channels": [
+              {
+                "channel": "Instagram Reels",
+                "tactic": "Screen-recorded demos and the strip-cutting video",
+                "cadence": "1 per week, alternating with log videos"
+              },
+              {
+                "channel": "TikTok",
+                "tactic": "Same demos, captioned 'first 8-station race?'",
+                "cadence": "1 per week"
+              },
+              {
+                "channel": "Pinterest",
+                "tactic": "Checklist and strip pins linking to Etsy",
+                "cadence": "2 pins per week"
+              },
+              {
+                "channel": "Etsy",
+                "tactic": "Cross-link with the log; bundle listing",
+                "cadence": "Weekly stats check"
+              }
+            ],
+            "keywords": [
+              "race pace calculator",
+              "split calculator",
+              "pace band printable",
+              "race day checklist",
+              "wrist pace card",
+              "fitness race pacing",
+              "google sheets pace",
+              "race split planner",
+              "hybrid race pacing",
+              "race week planner"
+            ],
+            "hooks": [
+              "Type your goal time. Get all 16 splits.",
+              "The wrist strip you cut out the night before race day.",
+              "Race-week brain is real. Here's the checklist.",
+              "Your practice times, scaled to your goal: no guessing at math mid-race."
+            ]
+          },
+          "extensions": [
+            "Bundle with the Split & Station Log",
+            "Doubles/relay version that splits stations between partners",
+            "Generic version for other timed running races (5K/10K pace bands)",
+            "Free lite version (strip only) as an email lead magnet",
+            "Post-race 'actuals vs target' recap template for social sharing"
+          ],
+          "asymmetry": {
+            "downside": "About 6 hours and $0. The answer comes in 21 days.",
+            "upside": "Zero marginal cost; works as an upsell, a bundle sweetener or a free lead magnet, so it adds value even if it sells poorly alone; reusable every race season.",
+            "badBetIf": "Free calculators and official apps already cover pacing for this audience, or the log gets no traffic for it to ride on. On its own this is a small add-on, not a strong asymmetric bet."
+          },
+          "risks": [
+            "A formula error would damage trust; test before listing and after every edit",
+            "'Make a copy' links can be shared freely, so some piracy is likely",
+            "Copy or examples could read as pacing advice; keep everything arithmetic-only",
+            "Brand wording slipping into titles, tags or videos invites takedowns",
+            "Very low price means small dollars even if it converts"
+          ]
+        }
+      ]
+    },
+    {
+      "candidateId": "jimothy-the-raccoon",
+      "products": [
+        {
+          "index": 0,
+          "themeKey": "Original-art 'Saint Jimothy' round-raccoon ceramic ornament ",
+          "productName": "Season's Scurryings Round Raccoon Ornament + Card (pass idea)",
+          "superPrompt": "You are a holiday-stationery designer and gentle humor writer. Produce the complete design text and specs for a small holiday line built around an ORIGINAL cartoon of a very round, fluffy raccoon, for Seattle-area gift buyers. The character must be your own invention: never describe, trace or adapt a real photo or video frame, existing fan art, figurines or licensed merchandise.\n\nBUYER AND JOB\nSeattle-area gift buyers and fans of the round raccoon of Ballard who want a local-pride keepsake for holiday 2026. Job: a cheerful ornament and card that say \"local, wholesome, this year\" without any team, game, city-office or \"official\" association.\n\nNAMING (write both; the seller picks one after a trademark search)\nVersion A (name used): headline \"Saint Jimothy\", line \"Season's Scurryings from Ballard\".\nVersion B (no name): headline \"Ballard's Roundest Raccoon\", line \"Season's Scurryings from Ballard\".\n\nDELIVERABLES\n1. Ceramic ornament, 3 in round, double-sided, print on demand. Front: the round raccoon wearing a knitted scarf and a small gold halo, headline set in an arc above. Back: \"Season's Scurryings from Ballard · 2026\" with a tiny pine sprig. Give placement as % of the diameter, a 0.15 in safe zone from the edge, and a minimum text size equal to 9 pt at print size. Master art 3000 x 3000 px, transparent PNG.\n2. Holiday card, flat 5 x 7 in, printed 2-up on US Letter landscape and 2-up on A4 landscape (127 x 178 mm each), crop marks, 0.125 in bleed per card. Three front designs: halo raccoon in falling snow; raccoon carrying a tiny wrapped gift; raccoon curled under a pine bough. For each: front text and two back-side message options.\n3. Six original inside messages, warm and lightly punny (scurry, round, cozy, neighbors, snow). Do not use or paraphrase slogans already printed on this raccoon's merch, and avoid \"trash panda\" phrasing.\n4. A 60-word \"about this design\" note for the listing stating that it is original art, an unofficial tribute, not affiliated with any person, team, city office, game or licensed product, and printed and shipped by a print-on-demand partner.\n\nDESIGN\nPalette \"Ballard Winter\": Snow #FAF7F2, Cranberry #B23A48, Pine #3E6B48, Raccoon Grey #8A8D91, Mask Charcoal #2B2B2E, Halo Gold #E3B448. Avoid navy, teal and silver combinations or anything that reads as a sports uniform. Fonts: Fraunces (headlines), Nunito (small text). Style: soft flat vector, rounded shapes, thick friendly outline, simple snow dots.\n\nCONTENT RULES\nNo team names, logos, uniforms, caps or baseball imagery; no video-game characters or game styling; no bobblehead proportions; no city seals; never the words \"official\" or \"licensed\". Do not mention the real animal's health, spine or body condition; keep any roundness humor affectionate. No charity or donation claims. No celebrity names. No claim that the item is handmade or made in Seattle.\n\nDIFFERENTIATION\nExisting merch is mostly tees, mugs and stickers. This is a holiday keepsake with local framing and clearly original art. It is probably still contested; say nothing that overpromises.\n\nOUTPUT FORMAT\nSection 1: ornament spec (front and back layout, text for both naming versions, color callouts). Section 2: card specs and the three designs with all text. Section 3: the six messages. Section 4: the \"about this design\" note in both naming versions.\nSelf-check, fixing failures before answering: [ ] all art described is original and photo-free; [ ] no team, game, bobblehead, city-seal or \"official\" references; [ ] no existing slogans; [ ] both naming versions supplied; [ ] ornament and both card-sheet sizes given; [ ] no health, charity or handmade claims.",
+          "imagePrompts": [
+            {
+              "tool": "ChatGPT images",
+              "purpose": "Ornament front art (original round raccoon)",
+              "prompt": "Original cartoon character: a very round, fluffy raccoon shaped almost like a ball, tiny paws, small rounded ears, dark eye mask, striped tail curled around its body, wearing a Cranberry #B23A48 knitted scarf and a thin Halo Gold #E3B448 halo, sitting in soft snow with a small Pine #3E6B48 sprig. Soft flat vector, thick friendly Mask Charcoal #2B2B2E outline, simple shapes, centered for a round 3 in ornament, square 1:1, 3000 x 3000 px, transparent background. Fur in Raccoon Grey #8A8D91 with Snow #FAF7F2 highlights. No text. Do not upload or reference any photo. Negatives: no sports logos, uniforms, caps or baseball items, no video-game style, no bobblehead proportions, no logos, no real people, no trademarked characters, no watermarks."
+            },
+            {
+              "tool": "Ideogram",
+              "purpose": "Holiday card front with title text",
+              "prompt": "Holiday card front, portrait 5:7, 1500 x 2100 px, solid Snow #FAF7F2 background with sparse Raccoon Grey #8A8D91 snow dots. An original round, fluffy cartoon raccoon with a dark eye mask and striped tail carries a tiny Cranberry #B23A48 wrapped gift under a Pine #3E6B48 bough; soft flat vector with thick Mask Charcoal #2B2B2E outline. Render this text exactly, in a friendly rounded serif arched across the top: \"Season's Scurryings\". No other text. Negatives: no logos, no sports teams or uniforms, no video-game style, no real people, no trademarked characters, no watermarks."
+            },
+            {
+              "tool": "ChatGPT images",
+              "purpose": "Ornament mockup until the sample arrives",
+              "prompt": "Photorealistic close-up, 4:5 portrait: a white round glossy ceramic ornament with a blank face hanging by a red ribbon on a pine branch, warm bokeh lights behind. Leave the ornament face completely blank for overlay in Canva. No logos, no text, no people, no trademarked characters, no watermarks."
+            }
+          ],
+          "assembly": [
+            "Day 0 gate, 30 minutes: search Etsy and Amazon for the raccoon's name plus 'ornament', 'Christmas' and 'card', and search the USPTO trademark database for the name. If holiday items already fill the first page of results, stop here. If any live filing covers ornaments, cards or decorations, use only Version B (no name).",
+            "Generate the raccoon art (image prompt 1); keep the most original-looking result, clean edges with Canva's background remover, and export PNG with transparent background at 3000 x 3000 px.",
+            "Printify: create a round ceramic ornament from a US print provider, check the template's print area and safe zone, place the front art and back text, and preview both sides.",
+            "Order one sample to yourself before any promotion; check color, text sharpness and the halo edge.",
+            "Connect Printify to Etsy and publish. On Etsy, list the print provider as a production partner, set processing times to the provider's, and add a holiday order-by date taken from Printify's published cutoffs (verify).",
+            "Card printable: in Canva, make an 11 x 8.5 in design and a 297 x 210 mm design, each holding two 5 x 7 in cards with crop marks; export PDF Print and list as a separate $4 digital download.",
+            "Photograph the sample on a tree and replace the mockups as soon as it arrives."
+          ],
+          "listingPrompt": "You are an Etsy copywriter. Write the Etsy listing for a print-on-demand 3 in round ceramic Christmas ornament featuring an ORIGINAL cartoon of a round raccoon with a halo and scarf, captioned \"Season's Scurryings from Ballard\". Naming version: [A: uses the name \"Saint Jimothy\" / B: no name, \"Ballard's Roundest Raccoon\"].\nProduce:\n1. A title under 140 characters starting with \"Round Raccoon Christmas Ornament\", then Seattle, Ballard, 2026 (add the name only for Version A). Show the count.\n2. Exactly 13 tags of 20 characters or fewer with counts (ideas: raccoon ornament, seattle ornament, ballard gift, round raccoon, pnw ornament, seattle gift, raccoon gift, 2026 ornament; add the name as a tag only for Version A).\n3. A description: hook; what you get (ceramic, 3 in, double-sided, ribbon); size; that it is printed and shipped by a print-on-demand production partner; production and shipping times [FROM YOUR PROVIDER]; holiday order-by date [FROM PRINTIFY'S CUTOFFS]; a clear line \"Original art. Unofficial tribute; not affiliated with any person, team, city office, game or licensed product.\"; a 4-question FAQ (Is it handmade? Can I return it? When will it arrive? Is it double-sided?).\n4. Alt text for 4 images.\nRules: never use sports team names, logos or uniforms, video-game names, \"bobblehead\", \"official\", \"licensed\" or \"authentic\"; no slogans already used on this raccoon's merch; no charity claims; no claim of handmade or locally made production; no comments on the real animal's health.",
+          "pricing": {
+            "recommended": 20,
+            "low": 16,
+            "high": 24,
+            "currency": "USD",
+            "rationale": "Bootleg tees, mugs and stickers already flood the market; an ornament can carry a small holiday premium, but above about $24 with shipping it loses to entrenched sellers. Card PDF at $4 as an add-on.",
+            "basis": "estimate; competitor prices were not measured in the research"
+          },
+          "costs": {
+            "provider": "Printify (connected to Etsy)",
+            "item": "3 in round ceramic ornament, double-sided",
+            "baseCost": 6.5,
+            "shipping": 4.75,
+            "basis": "estimate: verify in the provider catalog. Base cost and US first-item shipping vary by print provider. Etsy fees (estimate) of about $2.50 on a $20 + shipping order leave roughly $6-8 profit per ornament before any ads.",
+            "testBudget": 0,
+            "testBudgetNote": "No ads on a pass idea. Spend only on one sample ornament (roughly $11-13 including shipping, estimate), and only if the Day 0 gate passes."
+          },
+          "platforms": [
+            {
+              "name": "Etsy (with Printify fulfillment)",
+              "role": "primary",
+              "why": "Where the input saw the raccoon merch flood; POD means no inventory, but it also means every competitor can copy you in a day."
+            },
+            {
+              "name": "Instagram",
+              "role": "traffic",
+              "why": "Art-process Reels and local holiday posts; the only free channel likely to reach Seattle buyers quickly."
+            },
+            {
+              "name": "Local Seattle and Ballard community groups",
+              "role": "traffic",
+              "why": "Neighborhood groups are where a local keepsake could find buyers; only where selling posts are allowed (check the community rules)."
+            }
+          ],
+          "marketing": {
+            "positioning": "Honest verdict: pass. Not asymmetric: saturated market, hard holiday deadline, rising takedown risk and capped upside. If you do it anyway, it is a 4-hour, one-season experiment: an original-art local holiday keepsake, clearly unofficial.",
+            "launchPlan": [
+              {
+                "day": "Day 0",
+                "action": "Suggested Mon Oct 12, 2026. Run the 30-minute search and trademark gate. Stop here if holiday raccoon items are already abundant (the input expects this)."
+              },
+              {
+                "day": "Day 1",
+                "action": "Only if the gate passes: generate the art, run the super prompt, build the ornament in Printify and order one sample."
+              },
+              {
+                "day": "Day 2",
+                "action": "Publish the ornament to Etsy with mockups; list the $4 card PDF."
+              },
+              {
+                "day": "Day 3",
+                "action": "Instagram post and Reel of the drawing process; one post in a local group that allows sellers (check the community rules)."
+              },
+              {
+                "day": "Day 10",
+                "action": "Sample should have arrived (POD timing varies): swap in real photos; second Reel with the ornament on a tree."
+              },
+              {
+                "day": "Day 21",
+                "action": "Mon Nov 2: stop if there has been no sale within 3 weeks."
+              },
+              {
+                "day": "Day 35",
+                "action": "Mon Nov 16: check Printify's holiday shipping cutoffs and put the order-by date in the title photo and description."
+              },
+              {
+                "day": "Day 50",
+                "action": "Tue Dec 1 final check: continue through the holidays only if search still shows few holiday-specific raccoon items AND the listing has 5+ sales; otherwise deactivate and move on. No pivot planned."
+              }
+            ],
+            "channels": [
+              {
+                "channel": "Instagram",
+                "tactic": "Process Reel, ornament-on-tree photos, local holiday framing",
+                "cadence": "2 posts per week until Dec 10, then stop"
+              },
+              {
+                "channel": "Local community groups",
+                "tactic": "One seller post where allowed; check the community rules",
+                "cadence": "Once, plus one reminder before the shipping cutoff"
+              },
+              {
+                "channel": "Etsy",
+                "tactic": "Holiday order-by date in photos and description",
+                "cadence": "Check stats twice a week"
+              }
+            ],
+            "keywords": [
+              "raccoon ornament",
+              "round raccoon",
+              "seattle ornament",
+              "ballard gift",
+              "pnw christmas",
+              "seattle christmas",
+              "raccoon christmas",
+              "2026 ornament",
+              "local seattle gift"
+            ],
+            "hooks": [
+              "Season's Scurryings from Ballard.",
+              "An original round raccoon for your 2026 tree.",
+              "Drawing a very round raccoon for the holidays: process video.",
+              "For the Seattle friend who had the best raccoon summer."
+            ]
+          },
+          "extensions": [
+            "Not recommended. If it somehow sells, the only path with a tail is to drop the viral reference and build an original round-raccoon character you own (evergreen woodland stickers, cards, ornaments) that does not depend on one news cycle.",
+            "$4 printable card pack as a zero-cost add-on"
+          ],
+          "asymmetry": {
+            "downside": "About 4 hours, a $11-13 sample (estimate) and listing fees; little cash at risk, but the real cost is a season of effort spent where a new seller with no audience starts months behind entrenched shops. The answer comes in 3 weeks.",
+            "upside": "Capped: one holiday season, roughly $6-8 profit per ornament (estimate), no evergreen tail, and any good design can be copied by competitors overnight. The card PDF is zero marginal cost but only $4.",
+            "badBetIf": "Almost certainly now: search is saturated with raccoon merch, takedown risk is growing around 'official' licensing activity, the holiday shipping deadline is hard, and news about the animal could change the tone overnight. This is NOT asymmetric. Pass unless you live in Seattle, can sell locally, and accept it as a 4-hour experiment."
+          },
+          "risks": [
+            "Saturated: bootleg tees, mugs, stickers, an 'official' store and a licensed bobblehead already exist",
+            "Trademark or copyright claims (the original videographer or licensees) could trigger marketplace takedowns",
+            "News about the raccoon's health or death would change the tone instantly; pause listings if that happens",
+            "Hard deadline: POD holiday shipping cutoffs in early to mid December (verify), plus late or damaged ceramic deliveries",
+            "Humor that seems to mock the animal's condition would backfire; keep it affectionate",
+            "Accidental team colors, uniforms or game styling in AI art would create IP problems; reject any such output",
+            "Etsy requires disclosing POD production partners; never claim handmade"
+          ]
+        }
+      ]
+    },
+    {
+      "candidateId": "needlepoint-revival",
+      "products": [
+        {
+          "index": 0,
+          "themeKey": "Needlepoint project journal and canvas stash log (printable ",
+          "productName": "Stitch Log: Needlepoint Project Journal & Canvas Stash Tracker",
+          "superPrompt": "You are a stationery designer who understands needlepoint. Produce the complete interior for a stylish needlepoint project journal and canvas stash log.\n\nBUYER AND JOB\nNewer needlepoint stitchers (mostly Gen Z and younger millennial women) whose canvas and thread stash is outgrowing their memory, plus friends buying them a gift. Job: one place for every canvas (designer, size, mesh, kitted, price), every thread by brand and color number, project notes, what is at the finisher and when it's due back, and 2027 goals. Apps exist; this is for stitchers who prefer paper.\n\nDELIVERABLES (same content, two builds)\nA) KDP paperback interior: 6 x 9 in, no bleed, exactly 120 pages, inside margin 0.75 in, other margins 0.5 in, black ink only (patterns rendered in grays).\nB) Printable PDF: US Letter and A4, portrait, 0.5 in (13 mm) margins, full color, plus a \"print extra\" pack (one inventory page, one thread page, one 3-page project set, one finisher page).\n\nPAGE LIST (KDP numbering)\n1 Title: \"[YOUR SHOP NAME] Stitch Log: Needlepoint Project Journal & Canvas Stash Tracker\", \"This stash belongs to ____\".\n2 How to use (max 120 words) and a glossary: mesh count, kitted, stitch guide, tent stitch (continental, basketweave), finisher, self-finishing, stash. One accurate sentence each; no invented history or statistics.\n3 2027 stitch goals: goal lines, \"canvases I will finish\", \"techniques I want to try\" (blank), Jan-Dec finish boxes to color in.\n4-5 Year at a glance: month | started | finished | sent to finisher | back from finisher.\n6-17 Canvas inventory as 6 two-page spreads, 12 rows each (72 canvases). Left page: # | canvas name | designer | size (in) | mesh. Right page: kitted Y/N | stitch guide Y/N | price | where/when bought | status (stash / WIP / done / at finisher).\n18-27 Thread stash, 18 rows per page: fiber (wool, cotton, silk, metallic, blend) | brand | color number | color name | qty | for which canvas | reorder checkbox.\n28-29 Wish list (canvas, designer, shop, price, priority) and shopping list.\n30-89 Twenty project sets x 3 pages: (a) overview: canvas, designer, size, mesh, start, target finish, finishing-plan checkboxes (ornament, pillow, stocking, framed, insert, self-finish, undecided), thread table (color number | fiber | used for | qty) x 14 rows; (b) stitch notes: area | stitch | thread | notes x 12 rows, 2 x 2 in sketch box; (c) progress: date | time | area worked x 12 rows, \"finished on\", \"what I learned\".\n90-93 Finisher tracker, 12 rows per page: piece | finisher | finishing type | date sent | finisher's cutoff or quote date | quoted cost | expected back | received checkbox.\n94-95 Holiday finishing planner: piece | stitching done by | send-by date (from my finisher) | gift for | status; note \"Ask your finisher for their holiday cutoff.\"\n96-99 Stitch-night and shop log: date | where / with whom | worked on | notes.\n100-101 Chart-your-own grids at true scale: 13 squares per inch and 18 squares per inch.\n102-103 Year-in-review prompts.\n104-120 Dot-grid notes.\n\nDESIGN\nPreppy-modern. Palette \"Stitch Club\": Cream #FBF6EE, Bow Pink #F4B6C2, Kelly #2F8F5B, Cobalt #2E4F9E, Ink #2A2A33. Fonts: DM Serif Display (headings), Montserrat (body 9.5-10.5 pt, table labels 8 pt caps). Motifs: original gingham borders, bows, scissors, needle and thread, scalloped headers. KDP interior converts the palette to grays. Rows at least 0.28 in tall.\n\nCONTENT RULES\nOriginal wording, warm and a little witty, grade 7 reading level. Leave brand, designer and color columns blank: print no thread-brand names, color charts, designer names or shop names. No reproductions of hand-painted canvas designs or paid stitch guides. No claims about stress, anxiety, mental health or other benefits. No celebrity names.\n\nDIFFERENTIATION\nCross-stitch planners track fabric count and floss. This journal follows the needlepoint workflow (mesh, kitted status, stitch guides, finishers, holiday finishing dates), styled for a younger, preppy audience.\n\nOUTPUT FORMAT\n1) KDP page table: page | title | elements | columns | rows | layout notes. 2) Printable differences (orientation, color, print-extra pack). 3) Final text for pages 1-3, 94-95 and 102-103, plus a 120-word back-cover blurb with no claims. 4) Repeat map of master pages.\nSelf-check, fixing failures before answering: [ ] exactly 120 KDP pages; [ ] inventory spreads hold 72 canvases; [ ] all brand, designer and color fields blank; [ ] glossary accurate and simple; [ ] no benefit claims; [ ] Letter and A4 both specified.",
+          "imagePrompts": [
+            {
+              "tool": "Ideogram",
+              "purpose": "Front cover for the KDP paperback and Etsy thumbnail",
+              "prompt": "Preppy-modern journal cover, portrait 2:3, at least 1800 x 2700 px. Bow Pink #F4B6C2 and Cream #FBF6EE gingham background; a centered Cream scalloped label framed in Kelly #2F8F5B, topped with an original illustrated Cobalt #2E4F9E bow; a threaded needle draws a looping thread around the label. Flat vector, crisp edges. Render this text exactly in an elegant high-contrast serif: \"Stitch Log\"; beneath it in small caps sans-serif: \"NEEDLEPOINT PROJECT JOURNAL & CANVAS STASH TRACKER\". Negatives: no painted canvas designs, no designer artwork, no brand names, no logos, no real people, no trademarked characters, no watermarks, no other text. If letters render wrong, regenerate without text and set type in Canva (DM Serif Display + Montserrat)."
+            },
+            {
+              "tool": "Midjourney",
+              "purpose": "Seamless gingham pattern tile for borders and backgrounds",
+              "prompt": "seamless repeating gingham pattern, bow pink #F4B6C2 and cream #FBF6EE checks, tiny kelly green #2F8F5B bows scattered every few squares, flat vector, crisp edges, even spacing --tile --ar 1:1 --no text, letters, logos, watermark, people, trademarked characters"
+            },
+            {
+              "tool": "ChatGPT images",
+              "purpose": "Decorative motif set for page headers",
+              "prompt": "Set of 12 small original decorative motifs on a transparent background, 1:1, 2048 x 2048 px, even grid: bow, embroidery scissors, threaded needle, thread skein with a blank band, pincushion, a square of blank needlepoint mesh, small stocking outline, round ornament outline, heart, scallop border piece, thimble, star. Flat vector, consistent 4 px Ink #2A2A33 outline, fills in Bow Pink #F4B6C2, Kelly #2F8F5B and Cobalt #2E4F9E. No text, no brand labels, no painted canvas designs, no logos, no real people, no trademarked characters, no watermarks."
+            },
+            {
+              "tool": "ChatGPT images",
+              "purpose": "Lifestyle mockup for listing photos",
+              "prompt": "Photorealistic flat-lay, 4:5 portrait, on a cream linen tablecloth: an open printed journal with blank pages, a blank unpainted needlepoint canvas on stretcher bars, three unlabeled thread skeins in pink, green and blue, small gold scissors and a cup of tea. Soft morning light. Leave the journal pages blank for overlay in Canva. No painted designs on the canvas, no brand labels, no people, no hands, no text, no logos, no trademarked characters, no watermarks."
+            }
+          ],
+          "assembly": [
+            "Before building (15 minutes): search Etsy for 'needlepoint journal' and 'needlepoint stash tracker' and note how many needlepoint-specific (not cross-stitch) results appear and their price range. Proceed unless the first pages are full of near-identical products.",
+            "Run the super prompt. In Canva create a 6 x 9 in design (KDP) and an 8.5 x 11 in design (printable); add margin guides (0.75 in gutter and 0.5 in elsewhere for KDP; 0.5 in all round for Letter).",
+            "Build one master of each repeating page (inventory spread, thread page, 3-page project set, finisher page, dot grid) using Canva tables, the gingham tile and motifs; duplicate per the repeat map until KDP has exactly 120 pages. Keep the KDP file grayscale.",
+            "Build the 13- and 18-squares-per-inch chart grids at true scale, print one test page at 100% and measure with a ruler.",
+            "Export PDF Print (Flatten PDF on, no crop marks). Duplicate and resize the printable to A4 (210 x 297 mm) and export, then export the print-extra pack. Keep each file under Etsy's 20 MB limit (verify).",
+            "Etsy listing images at least 2000 px wide: cover mockup, inventory spread, thread stash page, project set, finisher tracker, 'what's inside' grid and a sizes/formats graphic. No designer canvases may appear in any photo.",
+            "List the printable at $8. Only after the Dec 10 check passes: download KDP's cover template for 6 x 9 in, 120 pages, white paper, build the wrap in Canva, export PDF Print, upload as a paperback (black & white interior, no bleed) and order a proof."
+          ],
+          "listingPrompt": "You are an Etsy SEO copywriter. Write the Etsy listing for a printable needlepoint project journal and canvas stash tracker.\nProduct facts: [PASTE THE PAGE TABLE FROM THE SUPER PROMPT OUTPUT]. Files: US Letter and A4 PDFs (120 pages each) plus a print-extra pack. Instant digital download; nothing is shipped. Preppy pink, green and cobalt design.\nProduce:\n1. A title under 140 characters starting with \"Needlepoint Journal Printable\" or \"Needlepoint Stash Tracker\", then canvas inventory, thread log, finisher tracker, gift for stitchers. Show the count.\n2. Exactly 13 tags of 20 characters or fewer, with counts (ideas: needlepoint journal, needlepoint gift, canvas stash log, stitch tracker, needlepoint planner, thread inventory, finishing tracker, stitching gift, craft journal, project tracker, preppy printable, hobby planner, stitch log).\n3. A description: hook; what's included (bulleted page list); file formats and sizes (PDF, Letter 8.5x11 in and A4); how delivery works (download from Etsy Purchases after payment, print at home or at a print shop, reprint the extra pages any time); who it's for (stitchers and gift-givers); a 5-question FAQ: Is this a physical journal? (No, a printable PDF; a paperback may follow.) Does it work for cross-stitch? (It's built for needlepoint fields like mesh and kitted status.) Can I use it digitally? (Yes, in a PDF annotation app.) Can I print it more than once for myself? (Yes, personal use.) Refunds? [YOUR DIGITAL-FILE POLICY].\n4. Alt text for 5 images.\nRules: no thread, canvas or tool brand names; no designer or shop names; no celebrity names; nothing implying it reduces stress or improves health; plain, warm US English.",
+          "pricing": {
+            "recommended": 8,
+            "low": 6,
+            "high": 12,
+            "currency": "USD",
+            "rationale": "The input's $8 test price: above generic cross-stitch printables because of needlepoint-specific fields, well below a paperback journal. Paperback later at an estimated $12.99 (range $10.99-14.99).",
+            "basis": "estimate; competitor prices and Etsy volume were not measured in the research"
+          },
+          "costs": {
+            "provider": "Etsy (digital PDF) now; Amazon KDP paperback after the Dec 10 check",
+            "item": "Printable PDF; later 6x9 in black-ink paperback, 120 pages",
+            "baseCost": 2.44,
+            "shipping": null,
+            "basis": "estimate: verify in the provider catalog. KDP print cost estimated at about $1.00 + $0.012 per page for 120 black-ink pages (about $2.44); confirm with KDP's printing cost calculator. Amazon ships customer orders. Etsy fees (estimate): $0.20 listing, 6.5% transaction, about 3% + $0.25 payment processing.",
+            "testBudget": 14,
+            "testBudgetNote": "Optional Etsy Ads at $1/day for 14 days from Day 14, only if organic views are arriving but slowly. Pinterest is the main free test."
+          },
+          "platforms": [
+            {
+              "name": "Etsy",
+              "role": "primary",
+              "why": "Craft printables and stitcher gifts are bought here; the input's test runs at $8."
+            },
+            {
+              "name": "Amazon KDP",
+              "role": "secondary",
+              "why": "Paperback for gift buyers and January goals once the printable shows demand."
+            },
+            {
+              "name": "Pinterest",
+              "role": "traffic",
+              "why": "Strongest free source for printables with no audience; organization and craft-room pins fit."
+            },
+            {
+              "name": "Instagram",
+              "role": "traffic",
+              "why": "Stitch-night flat-lays and 'filling in my stash log' Reels reach the younger stitchers driving the revival."
+            }
+          ],
+          "marketing": {
+            "positioning": "The stash log made for needlepoint, not cross-stitch: mesh, kitted status, stitch guides and finisher dates in one preppy journal.",
+            "launchPlan": [
+              {
+                "day": "Day 0",
+                "action": "Mon Nov 9, 2026 (no later than the input's Nov 10). List the printable on Etsy at $8 with 6+ photos; list the stitch-night kit the same day and cross-link."
+              },
+              {
+                "day": "Day 1",
+                "action": "Set up a Pinterest business account with 3 boards (needlepoint organization, stitch night ideas, gifts for stitchers); publish pins 1-3."
+              },
+              {
+                "day": "Day 2",
+                "action": "Instagram post 1: stitch-night flat-lay with the journal open at the inventory spread (blank canvas or your own work only)."
+              },
+              {
+                "day": "Day 5",
+                "action": "Pins 4-7; Instagram post 2: Reel filling in the thread stash page."
+              },
+              {
+                "day": "Day 9",
+                "action": "Pins 8-10; Instagram post 3: finisher tracker and holiday finishing planner."
+              },
+              {
+                "day": "Day 14",
+                "action": "Review Etsy stats: if views but few favorites, change the first photo; optionally start Etsy Ads at $1/day for 14 days."
+              },
+              {
+                "day": "Day 21",
+                "action": "Mon Nov 30 early read alongside the stitch-night kit check; draft KDP files only if trending toward the target."
+              },
+              {
+                "day": "Day 31",
+                "action": "Thu Dec 10 check: continue if at least 5 sales or at least 400 views with 30+ favorites, then publish the KDP paperback for January goals. Pivot if views without sales: a $4 stash-tracker-only version or a bundle with the stitch-night kit. Stop if under 100 views."
+              }
+            ],
+            "channels": [
+              {
+                "channel": "Pinterest",
+                "tactic": "Page-preview and flat-lay pins linking to Etsy; holiday 'gift for stitchers' angle",
+                "cadence": "10 pins in the first 10 days, then 3 per week"
+              },
+              {
+                "channel": "Instagram",
+                "tactic": "Flat-lays and short Reels of filling in pages; never show designer canvases",
+                "cadence": "2 posts per week plus Stories"
+              },
+              {
+                "channel": "Needlepoint subreddits and Facebook groups",
+                "tactic": "Join stash-organization conversations; share only where allowed (check the community rules)",
+                "cadence": "At most 1 post per week"
+              },
+              {
+                "channel": "Etsy",
+                "tactic": "Photo and title tweaks from stats; cross-link with the stitch-night kit",
+                "cadence": "Weekly"
+              }
+            ],
+            "keywords": [
+              "needlepoint journal",
+              "needlepoint stash",
+              "canvas inventory",
+              "needlepoint gift",
+              "stitch log printable",
+              "thread inventory",
+              "needlepoint planner",
+              "finishing tracker",
+              "craft project log",
+              "stitcher gift"
+            ],
+            "hooks": [
+              "Where do you track 40 canvases? Not in your camera roll.",
+              "Mesh, kitted, stitch guide, finisher: the four columns every stash log needs.",
+              "POV: you finally know which canvases are at the finisher.",
+              "Gift idea for the friend who keeps buying canvases.",
+              "Holiday ornaments to finish? Here's the send-by planner."
+            ]
+          },
+          "extensions": [
+            "$4 stash-tracker-only printable (the input's pivot)",
+            "Bundle with the Stitch Night Host Kit",
+            "KDP paperback in January, then an undated version",
+            "Hyperlinked digital-planner PDF for tablet users",
+            "Holiday ornament-season planner insert sold separately each autumn",
+            "Stitch-club multi-copy license for shops running weekly clubs"
+          ],
+          "asymmetry": {
+            "downside": "About 12 hours and $0-14 (optional ads). The answer arrives by Dec 10, about 4 weeks after listing.",
+            "upside": "Zero marginal cost on the PDF; no-inventory paperback later; the hobby wave has run since 2024 and the product is evergreen after the holidays; repeat gift seasons and New-Year goals; easy bundles and inserts.",
+            "badBetIf": "Etsy is already full of needlepoint journals (not checked; do the 15-minute search first), free apps absorb the organizing need, or the youth wave cools before January. A fair asymmetric bet if the search shows room."
+          },
+          "risks": [
+            "Etsy saturation with needlepoint journals was not measured",
+            "Free tracking apps may cover the need for younger, phone-first stitchers",
+            "The finishing-deadline need is an unverified assumption about the hobby",
+            "Listing photos showing designers' painted canvases would infringe their art",
+            "Thread-brand names or color charts creeping into pages create trademark/copyright issues",
+            "Holiday gift timing is tight for a Nov 9 listing; Pinterest pins take weeks to gain traction"
+          ]
+        },
+        {
+          "index": 1,
+          "themeKey": "Stitch-night host kit: invitation, sign-in sheet, name tags,",
+          "productName": "Stitch Night Host Kit: Printable Needlepoint Party Set",
+          "superPrompt": "You are a party-printables designer and playful copywriter. Produce a complete, print-ready stitch-night host kit for needlepoint gatherings.\n\nBUYER AND JOB\nHosts of home or shop stitch nights: friends who meet to stitch canvases, show their projects, swap canvases and snack. Job: make inviting, welcoming and swapping easy so the night feels like a club. Built for needlepoint specifically (canvas swaps, project cards with mesh and finishing plans), not a generic party set.\n\nDELIVERABLES (each piece in a US Letter 8.5 x 11 in and an A4 210 x 297 mm layout, 0.25 in / 6 mm printer-safe margin, light dashed 0.5 pt cut lines)\n1. Invitation, 5 x 7 in (127 x 178 mm), 2 per landscape page. Three wording versions: cozy, preppy-witty, holiday canvas swap. Fields: date, time, place, host, RSVP, \"bring\" line.\n2. Sign-in sheet, full portrait page: name | contact or handle | what I'm stitching | open to swaps? Y/N, 20 rows.\n3. Name tags, 3.375 x 2.333 in (86 x 59 mm), 8 per portrait page: \"Hello, I'm ____ / Currently stitching ____\". Two designs.\n4. \"What I'm stitching\" cards, 3.5 x 5 in (89 x 127 mm), 4 per portrait page: canvas name, designer, mesh, stitches I'm trying, finishing plan, \"ask me about\".\n5. Canvas-swap tickets, 1.75 x 5 in (44 x 127 mm) including a 1.25 in (32 mm) stub, 8 per landscape page: \"No. ____\", canvas size and mesh lines on the ticket, name and number on the stub.\n6. Swap rules card, 5 x 7 in, 2 per landscape page: 6 original, fair, friendly rules (how tickets are drawn, label size and mesh, trade one for one, leave with what you brought if there's no match).\n7. Snack and drink menu, 3.75 x 9 in (95 x 229 mm), 2 per portrait page: 4 snack and 4 drink lines with original stitching-pun names (no brand names), plus a blank version.\n8. Host checklist page: before, during, after (good lighting, scissors, magnifier, spare needles, a bag for thread ends, music), all generic.\n9. Table sign, 5 x 7 in: \"Stitch Night\", plus a \"Swap Table\" variant.\n\nDESIGN\nPalette \"Stitch Club\": Cream #FBF6EE, Bow Pink #F4B6C2, Kelly #2F8F5B, Cobalt #2E4F9E, Ink #2A2A33. Fonts: DM Serif Display headings, Montserrat body, Dancing Script for at most one accent word per piece. Motifs: original gingham borders, bows, scissors, needle and thread, scalloped edges. Every piece must also read well printed in black and white.\n\nCONTENT RULES\nOriginal copy, playful but not cheesy, grade 6-7 reading level. No designer canvas art or paid stitch-guide content, no thread, snack or drink brand names, no celebrity names, no song lyrics. Leave designer fields blank. Any alcohol mention stays generic (\"something bubbly\").\n\nDIFFERENTIATION\nGeneric party printables have no swap tickets, project cards or fair swap system. This kit follows how stitch nights actually run: bring a project, show it off, trade canvases.\n\nOUTPUT FORMAT\nFor each piece: name | finished size | per-page layout for Letter and for A4 | exact text for every line (all versions) | layout and motif notes | color callouts. Then a short Canva build note listing which pieces share a master.\nSelf-check, fixing failures before answering: [ ] 9 pieces, each with Letter and A4 layouts that fit inside the margins; [ ] all text original; [ ] no brand, designer or celebrity names; [ ] swap rules clear and fair; [ ] cut lines specified.",
+          "imagePrompts": [
+            {
+              "tool": "Ideogram",
+              "purpose": "\"Stitch Night\" header wordmark used across all pieces",
+              "prompt": "Playful wordmark on a transparent background, wide 3:1, 3000 x 1000 px. Render this text exactly: \"Stitch Night\" in a high-contrast serif in Cobalt #2E4F9E, with a looping Kelly #2F8F5B thread underline that ends in a small needle and a tiny Bow Pink #F4B6C2 bow at the end of the thread. Flat vector, clean edges. No other text, no logos, no brand names, no real people, no trademarked characters, no watermarks."
+            },
+            {
+              "tool": "ChatGPT images",
+              "purpose": "Hero listing mockup (party table)",
+              "prompt": "Photorealistic overhead view, 4:3 landscape, of a cozy coffee table set for a craft night: blank printed cards and name tags (leave blank for overlay), a bowl of popcorn, a small cheese board, a plain teapot, unlabeled thread skeins in pink, green and blue, two blank unpainted needlepoint canvases, a vase of tulips. Warm evening lamp light, Cream #FBF6EE and Bow Pink #F4B6C2 tones. No people, no hands, no painted canvas designs, no text, no brand labels, no logos, no trademarked characters, no watermarks."
+            }
+          ],
+          "assembly": [
+            "Reuse the journal's gingham tile, motif set and palette so both products look like one shop.",
+            "Run the super prompt. In Canva create US Letter portrait and landscape designs plus A4 portrait and landscape designs; add 0.25 in (6 mm) margin guides.",
+            "Build each piece once at its finished size, then tile it on the page per the AI layout with 0.5 pt dashed cut lines. Print one test page of each at 100% scale and check sizes with a ruler.",
+            "Make the invitation, menu and table sign editable: Share > Template link (check that your Canva plan offers it and that every element is licensed for sharing), and paste the links into a 1-page 'Edit your kit' PDF.",
+            "Export two PDF Print files (Letter set, A4 set) plus the template-link PDF; keep each under 20 MB.",
+            "Listing images at least 2000 px wide: hero mockup with your pieces placed on the blank cards, swap tickets close-up, name tags, a 'what's included' grid with sizes.",
+            "List on Etsy at $6 and cross-link with the needlepoint journal."
+          ],
+          "listingPrompt": "You are an Etsy SEO copywriter. Write the Etsy listing for a printable stitch-night host kit for needlepoint gatherings.\nProduct facts: [PASTE THE PIECE LIST FROM THE SUPER PROMPT OUTPUT]: invitation (3 wordings), sign-in sheet, name tags, \"what I'm stitching\" cards, canvas-swap tickets, swap rules card, snack and drink menu, host checklist, table signs. Files: US Letter PDF, A4 PDF and a PDF with Canva template links for the editable pieces. Instant digital download; nothing is shipped.\nProduce:\n1. A title under 140 characters starting with \"Stitch Night Printable Kit\" or \"Needlepoint Party Printables\", then canvas swap tickets, craft night invitation. Show the count.\n2. Exactly 13 tags of 20 characters or fewer, with counts (ideas: stitch night, needlepoint party, craft night, canvas swap, stitch club, craft party invite, needlepoint gift, girls night craft, swap tickets, party printable).\n3. A description: hook; what's included with finished sizes; file formats (PDF, Letter 8.5x11 in and A4, Canva template links for editable pieces; a free Canva account is enough to edit); how delivery works (download from Etsy Purchases, print at 100% scale, cut on the dashed lines); a 4-question FAQ (Can I edit the text? Which paper should I use? Can I print it for every stitch night? Refunds? [YOUR DIGITAL-FILE POLICY]).\n4. Alt text for 4 images.\nRules: no thread, canvas, snack or drink brand names; no designer, shop or celebrity names; no song lyrics; plain, cheerful US English.",
+          "pricing": {
+            "recommended": 6,
+            "low": 5,
+            "high": 9,
+            "currency": "USD",
+            "rationale": "The input's $6 test price: in line with small party-printable sets; the needlepoint-specific swap and project pieces justify the top of a low range. Bundle with the journal at about $12.",
+            "basis": "estimate; competitor prices were not measured in the research"
+          },
+          "costs": {
+            "provider": null,
+            "item": null,
+            "baseCost": null,
+            "shipping": null,
+            "basis": "estimate: verify in the provider catalog. Digital product with no production cost; Etsy fees (estimate): $0.20 listing, 6.5% transaction, about 3% + $0.25 payment processing.",
+            "testBudget": 0,
+            "testBudgetNote": "No ads; Pinterest and cross-selling with the journal carry the test."
+          },
+          "platforms": [
+            {
+              "name": "Etsy",
+              "role": "primary",
+              "why": "Party printables and craft gifts are bought here; same shop as the journal."
+            },
+            {
+              "name": "Pinterest",
+              "role": "traffic",
+              "why": "Hosts plan parties on Pinterest; invitations and swap tickets make strong pins."
+            },
+            {
+              "name": "Instagram",
+              "role": "traffic",
+              "why": "Stitch-night setup Reels fit the social core of the revival."
+            }
+          ],
+          "marketing": {
+            "positioning": "Everything a needlepoint stitch night needs, from invitations to canvas-swap tickets, in one printable kit.",
+            "launchPlan": [
+              {
+                "day": "Day 0",
+                "action": "Mon Nov 9, 2026, the same day as the journal. List the kit on Etsy at $6 and cross-link both listings."
+              },
+              {
+                "day": "Day 1",
+                "action": "3 pins: invitation, swap tickets, name tags."
+              },
+              {
+                "day": "Day 3",
+                "action": "Instagram Reel: setting up a stitch night in 30 seconds with the printed pieces (no people needed)."
+              },
+              {
+                "day": "Day 6",
+                "action": "3 more pins with a holiday angle: holiday stitch night, ornament swap."
+              },
+              {
+                "day": "Day 10",
+                "action": "Share the free swap-rules idea in a stitching community where resource posts are allowed (check the community rules)."
+              },
+              {
+                "day": "Day 14",
+                "action": "Review stats; swap the thumbnail if views are coming without clicks; create a journal + kit bundle listing."
+              },
+              {
+                "day": "Day 21",
+                "action": "Mon Nov 30 check: continue if at least 3 sales; pivot to a general 'craft night' kit for knitting and crochet groups if needlepoint is too narrow; stop if under 75 views in 21 days."
+              }
+            ],
+            "channels": [
+              {
+                "channel": "Pinterest",
+                "tactic": "Invitation, swap-ticket and table-setup pins; holiday party angle",
+                "cadence": "3 pins per week"
+              },
+              {
+                "channel": "Instagram",
+                "tactic": "Setup Reels and close-ups of the swap tickets",
+                "cadence": "1 Reel per week plus Stories"
+              },
+              {
+                "channel": "Stitching communities",
+                "tactic": "Hosting tips; share only where allowed (check the community rules)",
+                "cadence": "At most 1 post per week"
+              }
+            ],
+            "keywords": [
+              "stitch night",
+              "needlepoint party",
+              "craft night kit",
+              "canvas swap",
+              "stitch club",
+              "craft party invite",
+              "girls night craft",
+              "swap tickets",
+              "holiday craft party",
+              "needlepoint gift"
+            ],
+            "hooks": [
+              "Hosting stitch night? Steal this setup.",
+              "Canvas-swap tickets so nobody fights over the cute one.",
+              "Name tags that say what you're stitching: instant icebreaker.",
+              "Holiday stitch night, sorted: invites, swap rules and a menu."
+            ]
+          },
+          "extensions": [
+            "General 'craft night' kit for knitting and crochet groups (the input's pivot)",
+            "Holiday ornament-swap edition",
+            "Shop edition for weekly clubs with a punch card and class sign-up sheet",
+            "Bundle with the needlepoint journal",
+            "Birthday or bridal-shower stitch party edition"
+          ],
+          "asymmetry": {
+            "downside": "About 6 hours and $0. The answer comes in 21 days.",
+            "upside": "Zero marginal cost; holiday party season right now; the format generalizes to bigger craft-night audiences; bundles with the journal raise order value.",
+            "badBetIf": "Hosts are happy with group texts and generic party printables, or needlepoint-specific search is too small. Low cost, but small upside at $6 unless the craft-night pivot opens a bigger market."
+          },
+          "risks": [
+            "Narrow niche; generic party printables are plentiful",
+            "Canva template links must only contain elements you are licensed to share",
+            "Name tags and cards printed at the wrong scale lead to complaints; say 'print at 100%'",
+            "Holiday demand window is short for a Nov 9 launch"
+          ]
+        }
+      ]
+    },
+    {
+      "candidateId": "poetcore",
+      "products": [
+        {
+          "index": 0,
+          "themeKey": "Letterpress-style broadsides of public-domain poems (set of ",
+          "productName": "Six Poems Broadside Set: Letterpress-Style Public-Domain Poetry Prints",
+          "superPrompt": "You are a typographer and literary editor who designs letterpress-style broadsides. Produce a curated set of six public-domain poem broadsides for a Poetcore audience.\n\nBUYER AND JOB\nBook lovers and Poetcore / dark-academia fans decorating reading nooks, desks and dorms, plus gift buyers. Poems and books are core props of the look; they want wall art that feels like a sheet from an old printing house, not a generic quote poster.\n\nTHE SIX POEMS (each first published in English before 1930 and in the US public domain)\n1. Emily Dickinson, \"Hope is the thing with feathers\": the text as printed in Poems, Second Series (1891), titled \"Hope\". Do not use later scholarly editions; their edited texts may still be under copyright.\n2. John Keats, \"Bright Star\" (\"Bright star, would I were stedfast as thou art\"), a 19th-century printed text (first published 1838).\n3. Christina Rossetti, \"Remember\", from Goblin Market and Other Poems (1862).\n4. Walt Whitman, \"A Noiseless Patient Spider\", Leaves of Grass text (1881-82 edition).\n5. Elizabeth Barrett Browning, Sonnet 43 (\"How do I love thee? Let me count the ways\"), Sonnets from the Portuguese (1850).\n6. W. B. Yeats, \"He Wishes for the Cloths of Heaven\", The Wind Among the Reeds (1899).\n\nACCURACY\nReproduce every word, line break, stanza break, capital and punctuation mark from the named edition. Give the line count. If you are not certain of any word or mark, put [VERIFY] at the end of that line instead of guessing; the seller will check against a scan. Do not modernize spelling (\"stedfast\" stays). Never add, merge, trim or \"improve\" lines.\n\nDELIVERABLE SPEC\nMaster layout per poem at 18 x 24 in (3:4), then specs for 24 x 36 in (2:3), 16 x 20 in (4:5), 11 x 14 in and ISO A2 (420 x 594 mm), all at 300 DPI. Layout: aged-paper background; ornamental rule at top; title in letter-spaced small caps; poem set flush left in a centered text block no wider than 60% of the sheet; poet name and life dates below; one original ink-blot ornament; a small colophon at the foot, e.g. \"Text from Poems, Second Series, 1891. Public domain.\" Margins at least 9% of the short side. Give point sizes per ratio so the longest poem fits without crowding and no line wraps.\nFonts: Cormorant Garamond (poem), Cormorant SC or Playfair Display SC (titles), IM Fell English if available. Palette \"Iron Gall\": Aged Paper #F3EBDD, Iron Gall Ink #1F1B16, Oxblood #6B1E1E, Faded Ink Blue #2F3E57, Sepia #8A6F4D. Text in Iron Gall Ink; one accent color per sheet. Optional subtle letterpress impression (inner shadow under 10% opacity).\n\nCONTENT REQUIREMENTS\nAlso write: a set title; a 40-word original note per poem for the listing (facts only if certain: publication year and collection; no invented biography or interpretation presented as fact); a pin headline per poem under 60 characters. Tone: quiet, literary, plain English.\n\nDIFFERENTIATION\nCurated, accurately transcribed texts with real typographic craft and a printed source line, versus generic quote posters with misattributed or altered lines.\n\nCONSTRAINTS\nPublic-domain texts only; original layout and ornaments; no poet portraits or likenesses; no modern poets, translations, song lyrics, film, TV or celebrity references.\n\nOUTPUT FORMAT\nFor each poem: (a) title, poet, life dates, source edition and year; (b) the full text in a code block exactly as it should be typeset; (c) line count; (d) layout notes per ratio with point sizes; (e) colophon line; (f) listing note and pin headline. Then describe a 2 x 3 grid \"set preview\" image.\nSelf-check, fixing failures before answering: [ ] six poems, each first published before 1930; [ ] Dickinson text from the 1891 printing; [ ] line counts match the texts; [ ] uncertain words marked [VERIFY]; [ ] no portraits, translations or modern references; [ ] five ratios specified.",
+          "imagePrompts": [
+            {
+              "tool": "Midjourney",
+              "purpose": "Aged paper background texture for all six broadsides",
+              "prompt": "antique laid paper texture, warm cream #F3EBDD with faint chain lines, gentle foxing spots near the edges, soft uneven deckled edges, flat even scan lighting, clean center area, no folds --ar 3:4 --style raw --no text, letters, logos, watermark, people, trademarked characters (upscale to at least 5400 px on the long side; crop for the other ratios)"
+            },
+            {
+              "tool": "ChatGPT images",
+              "purpose": "Original ink-blot and ornament set",
+              "prompt": "Set of 6 original ink ornaments on a transparent background, 1:1, 2048 x 2048 px, even grid: a small symmetrical ink blot, a splatter with three droplets, a quill-stroke flourish, a simple fleuron, a horizontal ornamental rule, a tiny ink drip. Iron Gall Ink #1F1B16 with slightly translucent edges, hand-printed feel. No text, no letters, no logos, no real people, no trademarked characters, no watermarks."
+            },
+            {
+              "tool": "ChatGPT images",
+              "purpose": "Room mockup for a single framed broadside",
+              "prompt": "Photorealistic interior, 4:5 portrait: a warm off-white plaster wall above an old wooden desk with stacked cloth-bound books with blank spines, a brass candle holder, a folded tweed scarf on a chair and a leather satchel. On the wall, a thin dark wood frame (3:4) with a cream mat and blank paper inside for overlay. Soft afternoon window light, Oxblood #6B1E1E and Sepia #8A6F4D tones. No people, no readable text, no book titles, no logos, no trademarked characters, no watermarks."
+            },
+            {
+              "tool": "ChatGPT images",
+              "purpose": "Gallery-wall mockup for the set of six",
+              "prompt": "Photorealistic reading nook, 4:3 landscape: six matching thin black frames (3:4) hung in a 2 x 3 grid above a worn leather armchair with a wool throw and a stack of old books with blank spines; each frame holds blank cream paper for overlay. Soft lamp light. No people, no readable text, no logos, no trademarked characters, no watermarks."
+            }
+          ],
+          "assembly": [
+            "Verify each poem word for word against a scan of the named edition (Internet Archive, HathiTrust or Project Gutenberg); resolve every [VERIFY]; record the edition, year and scan URL for each poem in a Google Sheet as your rights log.",
+            "Canva: create a custom 18 x 24 in master; place the upscaled paper texture, set the type per the AI spec, add the ornament and colophon; duplicate for all six poems so the set matches.",
+            "Make the other ratios (24 x 36 in, 16 x 20 in, 11 x 14 in, A2 420 x 594 mm) with Resize (Canva Pro) or by duplicating into new custom sizes; recheck margins and confirm no poem line wraps.",
+            "Export each ratio as one 6-page PDF Print file (one poem per page, 300 DPI). If you also offer JPGs, check their pixel dimensions and state the honest maximum print size in the listing.",
+            "Package five files for Etsy (one per ratio), each under the 20 MB limit (verify). If any is too large, deliver a 1-page PDF with a cloud-folder link instead.",
+            "Mockups: place the finished art into the frame mockups in Canva; make a 2 x 3 set image, one close-up per poem and a size-guide image (at least 2000 px wide).",
+            "Pinterest: make one 1000 x 1500 px pin per poem plus one set pin, each linking to the Etsy listing.",
+            "Redbubble (secondary): upload each poem as its own work at the highest resolution you have; enable posters, art prints and greeting cards; set your markup."
+          ],
+          "listingPrompt": "You are an Etsy SEO copywriter. Write the Etsy listing for a printable set of six letterpress-style poetry broadsides.\nProduct facts: poems by Emily Dickinson (\"Hope is the thing with feathers\", 1891 text), John Keats (\"Bright Star\"), Christina Rossetti (\"Remember\"), Walt Whitman (\"A Noiseless Patient Spider\"), Elizabeth Barrett Browning (Sonnet 43) and W. B. Yeats (\"He Wishes for the Cloths of Heaven\"); every poem first published before 1930 and in the US public domain, transcribed from early printed editions with a source line on each print. Files: five PDFs, one per ratio (2:3 up to 24x36 in, 3:4 up to 18x24 in, 4:5 up to 16x20 in, 11x14 in, ISO A-series up to A2), 300 DPI. Instant download; no physical item.\nProduce:\n1. A title under 140 characters starting with \"Poetry Print Set of 6\" or \"Literary Wall Art Printable\", then poetcore, dark academia decor, book lover gift. Show the count.\n2. Exactly 13 tags of 20 characters or fewer, with counts (ideas: poetcore, poetry print, literary wall art, dark academia, poem print set, book lover gift, reading nook decor, emily dickinson, keats poem, vintage poem print).\n3. A description: hook; the six poems with poets and years; sizes and formats; how delivery works (download from Etsy Purchases; print at home or at a print shop; frame not included); printing tips (matte or textured paper, print at 100%); a 5-question FAQ: Are the poems public domain? (Yes, all first published before 1930; each print shows its source edition.) Can I buy one poem? [YES/NO]. Will colors match my screen? (Close; paper and printer vary.) Personal or commercial use? (Personal use only.) Refunds? [YOUR DIGITAL-FILE POLICY].\n4. Alt text for 6 images.\nRules: no modern poets, song lyrics, film, TV or celebrity references; no brand names (frame, paper or print-shop brands); no claims about mood or wellbeing; poet names only as accurate attribution.",
+          "pricing": {
+            "recommended": 9,
+            "low": 6,
+            "high": 14,
+            "currency": "USD",
+            "rationale": "Digital literary print sets commonly sit in the single digits to low teens (background knowledge, unverified); $9 for six curated, source-checked prints undercuts physical prints while signaling more craft than single quote posters.",
+            "basis": "estimate; competition was not measured in the research"
+          },
+          "costs": {
+            "provider": null,
+            "item": null,
+            "baseCost": null,
+            "shipping": null,
+            "basis": "estimate: verify in the provider catalog. Digital product with no production cost. Etsy fees (estimate): $0.20 listing, 6.5% transaction, about 3% + $0.25 payment processing. Redbubble sets the base price and you earn the markup you choose (verify).",
+            "testBudget": 0,
+            "testBudgetNote": "No ads; the input's test is 20 Pinterest pins over 4 weeks. Consider Etsy Ads only after saves show interest."
+          },
+          "platforms": [
+            {
+              "name": "Etsy",
+              "role": "primary",
+              "why": "Printable wall art and book-lover gifts are bought here; zero marginal cost."
+            },
+            {
+              "name": "Pinterest",
+              "role": "traffic",
+              "why": "Poetcore and literary-decor are visual, saveable searches; the input's test is built on pins."
+            },
+            {
+              "name": "Redbubble",
+              "role": "secondary",
+              "why": "Physical posters and art prints for buyers who don't want to print, with no inventory."
+            },
+            {
+              "name": "TikTok and Instagram Reels",
+              "role": "traffic",
+              "why": "Slideshow 'poems for your poetcore nook' posts suit the fashion-driven audience."
+            }
+          ],
+          "marketing": {
+            "positioning": "Poetcore is a look; these are the poems that go with it: six public-domain classics, source-checked and typeset like a 19th-century broadside.",
+            "launchPlan": [
+              {
+                "day": "Day 0",
+                "action": "Suggested Mon Oct 12, 2026. Run the super prompt and verify all six poems against scans; start the rights log."
+              },
+              {
+                "day": "Day 2",
+                "action": "Build all ratios, export, make mockups; list the set on Etsy at $9 and upload to Redbubble."
+              },
+              {
+                "day": "Day 3",
+                "action": "Create a Pinterest board ('Poetcore Reading Nook') and publish pins 1-5 (set pin plus four poems)."
+              },
+              {
+                "day": "Day 7",
+                "action": "Pins 6-10; first TikTok/Reel slideshow: '6 public-domain poems for your poetcore reading nook'."
+              },
+              {
+                "day": "Day 14",
+                "action": "Pins 11-15; compare saves per pin and note which poem leads."
+              },
+              {
+                "day": "Day 21",
+                "action": "Pins 16-20 focused on the leading poem; second Reel."
+              },
+              {
+                "day": "Day 30",
+                "action": "Wed Nov 11, 4 weeks after listing: continue if saves and favorites are steady and a few sales have come; pivot if saves but no sales (make one poem a free pin download and push the commonplace book instead); stop if no traction after 4 weeks and 20 pins."
+              }
+            ],
+            "channels": [
+              {
+                "channel": "Pinterest",
+                "tactic": "One pin per poem plus set and mockup pins, tagged with poetcore and literary-decor phrases",
+                "cadence": "5 pins per week (20 in 4 weeks)"
+              },
+              {
+                "channel": "TikTok / Instagram Reels",
+                "tactic": "Slideshows of the prints in a styled nook; caption with the poem's first line",
+                "cadence": "1 per week"
+              },
+              {
+                "channel": "Etsy",
+                "tactic": "Swap the thumbnail to the best-saved poem",
+                "cadence": "Weekly"
+              },
+              {
+                "channel": "Redbubble",
+                "tactic": "Passive; tag each work accurately",
+                "cadence": "Set up once"
+              }
+            ],
+            "keywords": [
+              "poetcore",
+              "poetry wall art",
+              "literary print set",
+              "dark academia decor",
+              "poem print",
+              "book lover gift",
+              "reading nook decor",
+              "vintage poem print",
+              "public domain poetry",
+              "romantic poem print"
+            ],
+            "hooks": [
+              "Poetcore is a look. These are the poems that go with it.",
+              "Six poems old enough to be free, typeset like 1890.",
+              "Your reading nook needs a broadside, not a quote poster.",
+              "Dickinson as first printed in 1891, checked line by line."
+            ]
+          },
+          "extensions": [
+            "'Ink Night' dark colorway of the same six",
+            "Single-poem listings at a lower price",
+            "Seasonal sets: autumn (Keats, 'To Autumn'), winter, Valentine's love poems, April for National Poetry Month",
+            "Greeting-card versions of each broadside",
+            "Bundle with the Commonplace Book journal",
+            "'Pick your poem' from a pre-verified public-domain list"
+          ],
+          "asymmetry": {
+            "downside": "About 8 hours and $0 cash. The answer comes in about 4 weeks.",
+            "upside": "Zero marginal cost and rights-free text; thousands of public-domain poems make an endless series; sells on Etsy and Redbubble with Pinterest traffic; evergreen with seasonal peaks (Valentine's, April).",
+            "badBetIf": "Literary prints turn out saturated with no premium for the Poetcore framing (competition was not measured), Pinterest traffic is too slow to show signal in 4 weeks, or transcription errors slip through and earn bad reviews."
+          },
+          "risks": [
+            "Transcription errors from the AI; every poem must be checked against a scan",
+            "Edition rights: later scholarly editions (notably of Dickinson) can still be under copyright; use only the named early printings",
+            "Competition in literary wall art was not measured and is likely heavy",
+            "Poetcore fashion coverage may drop after autumn 2026",
+            "Canva image exports may not reach 300 DPI at the largest sizes; state the true maximum size",
+            "AI textures can carry artifacts or fake letters; inspect at 100% zoom"
+          ]
+        },
+        {
+          "index": 1,
+          "themeKey": "'Commonplace Book' journal: pages for copying lines, annotat",
+          "productName": "The Commonplace Book: A Poetry Journal for Copying, Annotating & Keeping Lines",
+          "superPrompt": "You are a book designer and literary editor. Produce the complete interior of \"The Commonplace Book\", a poetry journal for copying, annotating and keeping lines.\n\nBUYER AND JOB\nPoetcore adopters who journal, and New-Year journaling buyers. Notebooks are part of the look, and a commonplace book suits the trend's slow, literary habits. Job: a notebook for engaging with poetry (copy, annotate, collect words, draft, learn one poem a month), not a blank notebook.\n\nDELIVERABLES\nA) KDP paperback interior: 6 x 9 in, no bleed, exactly 140 pages, inside margin 0.75 in, other margins 0.5 in, black ink, suits cream paper.\nB) Printable PDF: US Letter and A4, same pages with 0.5 in margins.\n\nPAGE LIST (KDP numbering)\n1 Half-title. 2 Ownership: \"This commonplace book belongs to\", \"begun on\", \"if found, please return to\".\n3 \"What is a commonplace book?\": original 200-word essay (readers have long copied passages into notebooks arranged by topic; the name comes from the Latin loci communes). Keep every factual claim general and certain.\n4 How to use this book: copy, annotate, collect words, draft, learn by heart (one short paragraph each).\n5-6 Index spread inspired by the topic index John Locke described (English edition 1706): letters A-Z down the side, each row split into five columns a, e, i, o, u. Instructions: file a topic under its first letter and first vowel (\"Love\" goes under L, column o) and write the page number.\n7-8 \"My headings\": 40 numbered lines.\n9-32 Twelve months x 2 pages. Left: \"Poem to learn by heart\": month, poem, poet, life dates, source and year, 31 small \"days I read it aloud\" boxes. Right: \"Annotations\": lined prompts (an image, a sound, where it turns, a word to look up, a line to borrow).\n33-112 Copying pages: header \"Heading ____ Source ____ p. ____\", 7 mm ruled lines, a 1.6 in outer \"marginalia\" column; mirrored left and right.\n113-124 Six annotation spreads: double-spaced copying lines left, close-reading prompts right.\n125-128 Word hoard: word | meaning | where I found it | my sentence, 16 rows per page.\n129-136 Drafting pages, line numbers every 5 lines.\n137-138 Reading log: date | title | poet or author | favorite line.\n139 Sources: each monthly poem with first publication and the edition used.\n140 Notes.\n\nMONTHLY POEMS (all first published before 1930; use these texts)\nJan: Alfred, Lord Tennyson, \"Ring Out, Wild Bells\", first three stanzas (In Memoriam A. H. H., 1850).\nFeb: Elizabeth Barrett Browning, Sonnet 43 (Sonnets from the Portuguese, 1850).\nMar: Christina Rossetti, \"Who Has Seen the Wind?\" (Sing-Song, 1872).\nApr: William Wordsworth, \"I Wandered Lonely as a Cloud\" (1815 text).\nMay: Walt Whitman, \"When I Heard the Learn'd Astronomer\" (1865).\nJun: William Shakespeare, Sonnet 18 (1609, standard modern spelling).\nJul: Emily Dickinson, \"I'm Nobody! Who are you?\" (as printed in Poems, Second Series, 1891; not later scholarly editions).\nAug: Robert Frost, \"Nothing Gold Can Stay\" (New Hampshire, 1923).\nSep: John Keats, \"To Autumn\", first stanza (1820).\nOct: Paul Laurence Dunbar, \"We Wear the Mask\" (Majors and Minors, 1895).\nNov: Sara Teasdale, \"There Will Come Soft Rains\" (Flame and Shadow, 1920).\nDec: W. B. Yeats, \"When You Are Old\" (first published 1892).\nReproduce each text exactly, every word, line break and mark. If unsure of a word, add [VERIFY] at the end of that line instead of guessing. Give line counts. No references to films, novels, songs or celebrities.\n\nDESIGN\nFonts: Cormorant Garamond (body 10.5 pt), IM Fell English or Cormorant SC (headings, small-caps running heads). Interior grayscale: text Iron Gall Ink #1F1B16, rules 40% gray. Cover and printable palette \"Iron Gall\": Aged Paper #F3EBDD, Iron Gall Ink #1F1B16, Oxblood #6B1E1E, Faded Ink Blue #2F3E57, Sepia #8A6F4D. A small original fleuron opens each section.\n\nCONTENT RULES\nOriginal wording, quietly literary, grade 8-9 reading level. Public-domain poems only; no modern poets or translations. No promises about memory, wellbeing or creativity.\n\nDIFFERENTIATION\nBlank notebooks have no structure; this has a working index, an annotation margin, a word hoard and twelve accurately sourced poems.\n\nOUTPUT FORMAT\n1) Page table: page | title | elements | layout notes. 2) Final text of pages 1-8, all twelve poem pages (poem, credit line, line count) and page 139. 3) A 150-word back-cover blurb with no claims. 4) Repeat map of master pages.\nSelf-check, fixing failures first: [ ] exactly 140 pages; [ ] 12 poems, each first published before 1930, with source and year; [ ] Dickinson from the 1891 printing; [ ] [VERIFY] used wherever unsure; [ ] index instructions match the grid; [ ] no claims or modern references.",
+          "imagePrompts": [
+            {
+              "tool": "Midjourney",
+              "purpose": "Front cover art (cloth-bound book look; title set in Canva)",
+              "prompt": "flat front view of a 19th-century cloth-bound book cover, deep oxblood #6B1E1E bookcloth texture, thin flat antique-gold #B08D57 double-rule border, small centered fleuron, empty aged-paper #F3EBDD rectangular label area in the upper center, even studio lighting, no perspective --ar 2:3 --style raw --no text, letters, logos, watermark, people, trademarked characters"
+            },
+            {
+              "tool": "ChatGPT images",
+              "purpose": "Section fleurons for the interior (grayscale)",
+              "prompt": "Set of 4 original small fleurons and dividers on a transparent background, 1:1, 2048 x 2048 px: a leaf fleuron, a quill-and-ink flourish, a short ornamental rule, a tiny open-book ornament. Solid Iron Gall Ink #1F1B16 only, crisp edges suitable for black-ink printing. No text, no letters, no logos, no real people, no trademarked characters, no watermarks."
+            },
+            {
+              "tool": "ChatGPT images",
+              "purpose": "Lifestyle mockup for listing images and pins",
+              "prompt": "Photorealistic, 4:5 portrait: an open 6x9 paperback journal with blank cream pages on a dark wooden desk, a fountain pen, a cup of tea, a stack of old books with blank spines, a sprig of dried lavender, soft window light, Oxblood #6B1E1E and Sepia #8A6F4D tones. Leave the pages blank for overlay. No people, no hands, no readable text, no logos, no trademarked characters, no watermarks."
+            }
+          ],
+          "assembly": [
+            "Verify all twelve poems word for word against scans of the named editions (Internet Archive, HathiTrust or Project Gutenberg); resolve every [VERIFY]; record edition, year and scan URL in a rights-log sheet, which also feeds page 139.",
+            "Canva: create a 6 x 9 in design with guides at 0.75 in (gutter) and 0.5 in. Build masters for the left and right copying pages, the monthly spread, the annotation spread, word hoard, drafting page and the index grid; duplicate per the repeat map to exactly 140 pages.",
+            "Export the interior as PDF Print, no bleed or crop marks, Flatten PDF on; confirm 140 pages.",
+            "Cover: download KDP's paperback cover template for 6 x 9 in, 140 pages, cream paper (spine roughly 0.35 in; estimate, use the template's numbers). Build the wrap in Canva at that size: cover art, title and subtitle in IM Fell English or Cormorant, spine text, back blurb, barcode area clear. Export PDF Print.",
+            "KDP: Paperback, 6 x 9 in, black & white interior on cream paper, no bleed, matte cover; upload both PDFs, review every page in the Previewer, price $10.99, choose up to 3 categories (journals / poetry-related writing), order one proof.",
+            "Printable: resize copies to US Letter and A4 (or rebuild key masters at those sizes), export PDF Print, and list on Etsy and Gumroad at $6.",
+            "When the proof arrives, film a 20-second flip-through and photograph the index, a monthly poem spread and the marginalia pages for listings and pins."
+          ],
+          "listingPrompt": "You are an Amazon KDP listing copywriter. Write the KDP listing for a 6 x 9 in, 140-page paperback poetry journal, \"The Commonplace Book\".\nProduct facts: [PASTE THE PAGE TABLE FROM THE SUPER PROMPT OUTPUT]; includes a Locke-inspired topic index, 12 monthly public-domain poems to learn by heart (first published before 1930), 80 copying pages with a marginalia column, annotation spreads, word hoard, drafting pages and a reading log; cream paper; matte cover.\nProduce:\n1. Title plus subtitle, combined under 200 characters, front-loading \"Commonplace Book\" and \"Poetry Journal\" (e.g. \"The Commonplace Book: A Poetry Journal for Copying, Annotating and Keeping Lines\"). Also give a version under 140 characters.\n2. Seven backend keyword phrases (each under 50 characters), generic only: no poet names, no other authors, brands or \"bestseller\".\n3. A description under 1,500 characters using simple HTML (<b>, <br>, <ul><li>): what it is, what's inside, the twelve poems listed by poet and title, size and page count, who it suits; no claims about memory, wellbeing or creativity.\n4. Three suggested KDP categories.\n5. An Etsy version for the printable PDF (US Letter and A4, instant download from Etsy Purchases, print at home): title under 140 characters, exactly 13 tags of 20 characters or fewer with counts (ideas: commonplace book, poetry journal, reading journal, poetcore, dark academia, book lover gift, literary journal, quote journal), a description with a 4-question FAQ (Is it a physical book? Can I print it more than once for myself? Are the poems public domain? Refunds? [YOUR POLICY]).\nRules: never use trademarked notebook or brand names, film, TV or celebrity references, or modern poets; poet names appear only as accurate attribution in the description.",
+          "pricing": {
+            "recommended": 10.99,
+            "low": 9.99,
+            "high": 13.99,
+            "currency": "USD",
+            "rationale": "Positions above bare lined notebooks because of the structured content and sourced poems, below gift-shop literary journals; staying at $9.99 or above avoids KDP's possible lower royalty rate on cheaper paperbacks (verify). Printable PDF at $6 on Etsy and Gumroad.",
+            "basis": "estimate; competitor prices were not measured in the research"
+          },
+          "costs": {
+            "provider": "Amazon KDP",
+            "item": "6x9 in black-ink paperback, 140 pages, cream paper",
+            "baseCost": 2.68,
+            "shipping": null,
+            "basis": "estimate: verify in the provider catalog. KDP print cost estimated at about $1.00 + $0.012 per page for 140 black-ink pages (about $2.68); at $10.99 and a 60% royalty rate that leaves roughly $3.90 per copy (estimate; confirm with KDP's royalty calculator). Amazon ships customer orders; proofs cost print plus shipping.",
+            "testBudget": 28,
+            "testBudgetNote": "Optional Amazon Sponsored Products at $2/day for 14 days around New Year (Dec 26 to Jan 8); stop after 7 days if there are no clicks."
+          },
+          "platforms": [
+            {
+              "name": "Amazon KDP",
+              "role": "primary",
+              "why": "A journal is a paperback purchase; print on demand, no inventory, Amazon handles shipping."
+            },
+            {
+              "name": "Etsy",
+              "role": "secondary",
+              "why": "Printable PDF for journalers who print or use tablets; cross-sells the broadside set."
+            },
+            {
+              "name": "Gumroad",
+              "role": "secondary",
+              "why": "Direct link for social bios and an email list."
+            },
+            {
+              "name": "Pinterest",
+              "role": "traffic",
+              "why": "Commonplace-book and reading-journal ideas are saved on Pinterest; New-Year journaling pins."
+            },
+            {
+              "name": "TikTok and Instagram Reels",
+              "role": "traffic",
+              "why": "Flip-throughs and 'copying a Keats stanza' videos suit book and journaling audiences."
+            }
+          ],
+          "marketing": {
+            "positioning": "A commonplace book built for poetry: a working index, a margin for annotations and one sourced public-domain poem to learn each month.",
+            "launchPlan": [
+              {
+                "day": "Day 0",
+                "action": "Mon Nov 30, 2026. Run the super prompt, verify the 12 poems, build and export the interior."
+              },
+              {
+                "day": "Day 1",
+                "action": "Build the cover from KDP's template, upload the paperback, order a proof."
+              },
+              {
+                "day": "Day 2",
+                "action": "List the printable PDF on Etsy and Gumroad at $6."
+              },
+              {
+                "day": "Day 4",
+                "action": "Paperback live on Amazon (KDP review usually takes up to 72 hours); add the link to the Etsy listing and your bio."
+              },
+              {
+                "day": "Day 7",
+                "action": "5 Pinterest pins (index spread, monthly poem page, marginalia page, mockup, 'what is a commonplace book'); first flip-through Reel/TikTok from digital pages."
+              },
+              {
+                "day": "Day 14",
+                "action": "Proof arrives: real photos, a second video copying a stanza into the margin column."
+              },
+              {
+                "day": "Day 26",
+                "action": "Sat Dec 26: New-Year push, 'start a commonplace book in 2027' pins and videos 3 times this week; optional Amazon ads at $2/day for 14 days."
+              },
+              {
+                "day": "Day 32",
+                "action": "Fri Jan 1, 2027: New-Year post featuring January's poem."
+              },
+              {
+                "day": "Day 62",
+                "action": "Sun Jan 31 check: continue if there were organic KDP sales in January. If January is flat, pivot: re-theme for Valentine's with a love-poems edition, live by about Feb 5."
+              },
+              {
+                "day": "Day 90",
+                "action": "Sun Feb 28: stop if there are still no sales by the end of February."
+              }
+            ],
+            "channels": [
+              {
+                "channel": "Pinterest",
+                "tactic": "Interior page pins and journaling-idea pins linking to Amazon and Etsy",
+                "cadence": "3 pins per week, 6 in the New-Year week"
+              },
+              {
+                "channel": "TikTok / Instagram Reels",
+                "tactic": "Flip-throughs, copying a stanza, the Locke index explained",
+                "cadence": "1-2 per week; 3 in the New-Year week"
+              },
+              {
+                "channel": "Book and journaling communities",
+                "tactic": "Share how to keep a commonplace book; link only where allowed (check the community rules)",
+                "cadence": "At most 1 post per week"
+              },
+              {
+                "channel": "Amazon",
+                "tactic": "Optional small Sponsored Products test",
+                "cadence": "14 days around New Year"
+              }
+            ],
+            "keywords": [
+              "commonplace book",
+              "poetry journal",
+              "reading journal",
+              "book lover gift",
+              "poetcore",
+              "dark academia gift",
+              "literary journal",
+              "quote journal",
+              "new year journal",
+              "poetry notebook"
+            ],
+            "hooks": [
+              "A notebook for the lines you can't stop thinking about.",
+              "The 300-year-old way to index a notebook, built in.",
+              "One poem a month to learn by heart.",
+              "Poetcore, but make it a habit."
+            ]
+          },
+          "extensions": [
+            "Valentine's love-poems edition (the input's pivot)",
+            "Cover colorways (oxblood, forest, ink blue) as separate listings",
+            "Hardcover edition through KDP",
+            "April National Poetry Month edition with a poem a week",
+            "Bundle the printable with the broadside set",
+            "Student edition with study prompts for literature classes"
+          ],
+          "asymmetry": {
+            "downside": "About 12 hours, a proof copy (a few dollars plus shipping, estimate) and an optional $28 ad test. The signal is slow: real data only arrives in January, with a final call by end of February.",
+            "upside": "No inventory; rights-free content; sells on Amazon, Etsy and Gumroad; evergreen with yearly New-Year, Valentine's and April peaks; easy editions and colorways from one master.",
+            "badBetIf": "KDP journals are crowded and Amazon rarely surfaces a new journal with no reviews or outside traffic, so if you cannot drive Pinterest or video traffic it may sit unseen. Low cash risk, but slow feedback; moderately asymmetric."
+          },
+          "risks": [
+            "Poem transcription errors; verify every line against a scan",
+            "Later scholarly editions (e.g., of Dickinson) may be under copyright; use only the named early printings",
+            "KDP low-content saturation and slow organic discovery",
+            "KDP royalty rules and print costs change; recheck before pricing",
+            "Poetcore may fade before the New-Year window",
+            "Cover text rendered by AI can contain errors; set all type in Canva"
+          ]
+        }
+      ]
+    }
+  ]
+}

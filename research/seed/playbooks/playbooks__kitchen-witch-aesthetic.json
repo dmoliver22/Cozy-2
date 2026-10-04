@@ -1,0 +1,538 @@
+{
+  "id": "kitchen-witch-aesthetic",
+  "candidateId": "kitchen-witch-aesthetic",
+  "products": [
+    {
+      "index": 0,
+      "themeKey": "'Kitchen Witch Pantry' apothecary label system: 60+ labels f",
+      "productName": "Kitchen Witch Pantry: 64+ Editable Apothecary Jar Labels",
+      "superPrompt": "You are a product designer and culinary editor who makes printable pantry label systems. Produce the complete content and layout spec for \"Kitchen Witch Pantry\", an apothecary-style label set for real culinary herbs, spices, teas and homemade blends, which I will build in Canva and sell as a digital download.\n\nBUYER AND JOB\nThe buyer is a home cook or herbal hobbyist (mostly US women 25-45) restyling open shelves or a spice cabinet in a cozy, old-world \"kitchen witch\" look: labeled glass jars, dried herbs, candles, moons. The set's job: make her real pantry look like a vintage apothecary while staying useful every day of the year, not just at Halloween.\n\nDELIVERABLE SPEC\n1. Label list, at least 64 named labels, grouped:\n- Culinary herbs (20), e.g. rosemary, sage, thyme, basil, oregano, bay leaf, dill, mint.\n- Spices (20), e.g. cinnamon, nutmeg, cumin, paprika, cardamom, cloves, ginger, black pepper.\n- Teas and tisanes (10), e.g. chamomile, peppermint, black tea, rooibos, hibiscus, culinary lavender.\n- Pantry basics (6), e.g. flour, sugar, sea salt, oats, honey, rice.\n- Homemade blends (8) with original names, including \"Hearth Blend\". For each blend give ingredients with ratios in teaspoons or tablespoons, a one-line culinary use and a storage note.\nFor every label give: display name, current accepted botanical name where one applies, and a short category line (\"culinary herb\", \"whole spice\", \"loose tea\", \"house blend\").\n2. Editable blanks: 12 per shape with placeholder text \"your blend here\".\n3. Shapes and sizes: round 2 in (spice-jar lids), round 1.5 in (small jars), rectangle 3 x 2 in (mason jars), rectangle 4 x 2.5 in (canisters). For each shape propose a grid for US Letter (8.5 x 11 in) and A4 (210 x 297 mm) and prove it fits: columns x size plus gaps must leave margins of at least 0.25 in.\n4. Two colorways: Parchment (light labels for home printing) and Nightshade (dark labels with gold text).\n5. A one-page \"How to use\" insert: print at 100% scale, paper suggestions (matte sticker paper or kraft), how to edit the template, care tips.\n6. An 8-card blend recipe page, 4 cards per US Letter or A4 page.\n\nSTYLE\nTypography: IM Fell English for herb names, Cormorant Garamond italic for botanical names and small lines, Cinzel for category caps (all free for commercial use). Ornament: thin double-rule frames, a small crescent moon or moon-phase strip, one botanical sprig per label family. Palette: Parchment #F3E9D2, Ink Black #2B2622, Oxblood #6E1F1F, Forest #2F4A3A, Antique Gold #B08D57, Dusty Plum #5B4A6B. Minimum text size 7 pt on the 1.5 in round.\n\nCONTENT REQUIREMENTS\n- Original wording only; write the blend names yourself.\n- Accuracy: use current accepted botanical names (rosemary is now Salvia rosmarinus); if unsure, omit the botanical name rather than guess. Include only common, food-safe culinary items sold in grocery stores; leave out anything with known toxicity concerns. Check that every blend ratio is sensible for home cooking.\n- Tone: cozy, old-world, matter-of-fact. Reading level: grade 6-8.\n\nDIFFERENTIATION\nExisting sellers offer Halloween novelty potion labels (\"eye of newt\" style) and film-inspired signs. This set is functional and year-round (real ingredients, editable blanks, several jar sizes) and keeps the witchy look through typography and moons, not gimmicks.\n\nCONSTRAINTS\n- No film, TV or book titles, character or family names, or quotes; no trademarks or brand names.\n- Frame everything as culinary use or traditional folklore. No medicinal, health, magical or spell-effect claims (nothing like \"for protection\" or \"for sleep\").\n- No copied artwork; ornaments must be original or public domain.\n\nOUTPUT FORMAT\nReturn tab by tab: (1) a table per group with Display name | Botanical name | Category line | Shapes; (2) blend recipes; (3) blank-label text; (4) grid math per shape for Letter and A4; (5) colorway specs; (6) How-to-use insert text; (7) recipe card text. Also give one CSV block (columns: group, name, botanical, category) for Canva Bulk Create. Finish with a ticked self-check: at least 64 labels; botanical names verified or omitted; no non-food or unsafe items; no claims of effects; no film or brand references; grids fit Letter and A4 with 0.25 in margins; Hearth Blend included.",
+      "imagePrompts": [
+        {
+          "tool": "Midjourney or Ideogram",
+          "purpose": "Botanical sprig ornaments for the label families",
+          "prompt": "Set of 12 vintage engraving-style botanical line illustrations of culinary herbs and spices in a 4 x 3 grid with generous spacing: rosemary sprig, sage leaves, thyme sprig, lavender stem, chamomile flower, bay leaf, mint sprig, basil leaves, cinnamon sticks, star anise, peppercorns, dill frond. Fine Ink Black #2B2622 cross-hatched linework, 19th-century herbal-plate style, each drawing isolated. Square 1:1, solid white #FFFFFF background. No text, no labels, no letters. No logos, no real people, no trademarked characters, no watermarks. Check each drawing actually looks like its herb before using it."
+        },
+        {
+          "tool": "Ideogram or Midjourney",
+          "purpose": "Label frame with crescent-moon ornament (rectangle; repeat with 'circular frame, 1:1' for the round labels)",
+          "prompt": "Delicate apothecary label frame: thin double-rule rounded rectangle with a small crescent moon and a tiny three-phase moon strip centered at the top, small leaf flourishes at the corners, Antique Gold #B08D57 linework, perfectly symmetrical, flat vector engraving style, completely blank center. Horizontal 3:2. Transparent background, or solid white #FFFFFF if transparency is not available. No text, no letters. No logos, no real people, no trademarked characters, no watermarks."
+        },
+        {
+          "tool": "Midjourney or ChatGPT images",
+          "purpose": "Styled shelf scene for Pinterest pins and listing photos (your printed labels are placed on the blank jars in Canva)",
+          "prompt": "Open dark-wood kitchen shelf styled as an old-world apothecary: rows of clear glass jars and small spice jars with plain blank cream labels, bundles of dried herbs hanging from a rail, a beeswax candle, a small copper pot, a mortar and pestle, soft autumn window light, warm moody tones of Forest #2F4A3A and Antique Gold #B08D57, photographic, straight-on view. Vertical 2:3, solid scene background. Labels must be completely blank. No text, no brand packaging. No logos, no real people, no trademarked characters, no watermarks."
+        }
+      ],
+      "assembly": [
+        "Run the super prompt; check every botanical name against a reliable reference, delete any item that is not a common food-safe ingredient, and remove any wording that implies an effect.",
+        "In Canva create a US Letter (8.5 x 11 in) design; build one master label per shape (2 in round, 1.5 in round, 3 x 2 in, 4 x 2.5 in) from the frame and sprig art, with IM Fell English and Cormorant Garamond text, laid out on the grid the AI calculated.",
+        "Fill the labels group by group (Canva Pro Bulk Create from the AI's CSV is fastest; otherwise duplicate and type). Make the Parchment colorway first, then duplicate the pages and recolor for Nightshade.",
+        "Duplicate the finished design and set it to A4 (210 x 297 mm), then re-space the grids so nothing falls inside the 0.25 in margin.",
+        "Export PDF Print (300 DPI) for Letter and A4 in both colorways. Print one sheet at 100% scale on plain paper and measure a round label with a ruler: it must be exactly 2 in.",
+        "Create a separate Canva design with the editable blanks, use Share > Template link, and paste that link into a one-page 'Access your editable template' PDF. Use only your own art and Canva elements that Canva's license allows in shared templates.",
+        "Photograph real jars with printed labels if you can (best listing photo); otherwise place label PNGs on the AI shelf scene. Make 10 Pinterest pins (1000 x 1500 px) and 5+ listing images.",
+        "Zip the files by format (each zip under Etsy's 20 MB per-file limit, 5 files maximum), then publish the Etsy listing and a Gumroad page with the same files."
+      ],
+      "listingPrompt": "You are an Etsy SEO copywriter for printable home-organization products. Write the Etsy listing for my digital download \"Kitchen Witch Pantry\", an apothecary-style jar label set.\nProduct facts (use only these; mark anything missing as [CHECK]): 64+ labels for real culinary herbs, spices, teas, pantry basics and 8 original house blends (including Hearth Blend); 4 shapes and sizes (2 in round, 1.5 in round, 3 x 2 in and 4 x 2.5 in rectangles); two colorways (light Parchment and dark Nightshade); 12 editable blanks per shape through a Canva template link (free Canva account needed); 8 blend recipe cards; printable PDFs in US Letter and A4; instant download; nothing physical ships.\nBuyer: home cooks and herbal hobbyists styling open shelves or spice cabinets in a cozy, witchy, old-world look.\n\nWrite:\n1. Title under 140 characters starting with the buyer's search phrase, such as \"Apothecary Spice Jar Labels\" or \"Kitchen Witch Pantry Labels\" (choose and explain), then printable, editable, herb and tea labels. No ALL CAPS.\n2. Exactly 13 Etsy tags, each 20 characters or fewer including spaces, character count shown after each.\n3. Description: two opening lines; \"What's included\" bullets with label counts per group; sizes; file formats; \"How delivery works\" (download from your Etsy Purchases page; the editable link is inside the PDF); printing tips (print at 100% / actual size, suggested paper types); a 6-question FAQ (Is anything mailed? Can I edit the text? Which paper should I use? Are they waterproof? Will they fit my jars? Can I sell the printed labels? - answer: personal use only).\n4. One line stating that the illustrations were created with the help of AI tools and finished by [YOUR SHOP NAME].\nRules: never use the title of any film, TV show or book (especially the 1998 witch-sisters film or its 2026 sequel), character or family names from them, film quotes or studio names; no trademarked terms or brand names in the title, tags or description (do not name label-paper, printer or jar brands; you may say \"editable in Canva\" only in the description); no medicinal, health, magical or spell-effect claims; no Halloween novelty ingredients; do not invent reviews, sales or search data.",
+      "pricing": {
+        "recommended": 9,
+        "low": 6,
+        "high": 14,
+        "currency": "USD",
+        "rationale": "The input saw fan digital prints around $8 on Etsy; a 64+ label system with blanks, two colorways and an editable template justifies a little more, while staying an impulse-level price against Halloween label downloads. Bundle with the journal or the prints at $14-16.",
+        "basis": "estimate"
+      },
+      "costs": {
+        "provider": null,
+        "item": null,
+        "baseCost": null,
+        "shipping": null,
+        "pages": null,
+        "basis": "estimate: digital product, no production or shipping cost. Etsy charges a $0.20 listing fee plus a transaction fee and payment-processing fee on each sale (about 6.5% and about 3% + $0.25 in the US at",
+        "testBudget": 14,
+        "testBudgetNote": "Etsy Ads at $1/day for 14 days from Day 7 to speed discovery inside the short autumn window; skip it if pins are already bringing clicks."
+      },
+      "platforms": [
+        {
+          "name": "Etsy",
+          "role": "primary",
+          "why": "Biggest marketplace for printable labels; buyers search there for spice and pantry labels year-round."
+        },
+        {
+          "name": "Gumroad",
+          "role": "secondary",
+          "why": "Direct link for pins and videos, plus a place to host a free 12-label sampler with email capture if the pivot is needed."
+        },
+        {
+          "name": "Pinterest",
+          "role": "traffic",
+          "why": "The input's demand signal is Pinterest hobby searches (herbal apothecary, spice blends); styled-shelf pins match that intent."
+        },
+        {
+          "name": "TikTok",
+          "role": "traffic",
+          "why": "Kitchen makeover and jar-labeling videos are a natural format for this look; show the transformation, not the film."
+        }
+      ],
+      "marketing": {
+        "positioning": "A real, working kitchen apothecary: 64+ labels for the herbs, spices and teas you actually cook with, in an old-world witchy style that still makes sense in January. No potions, no film quotes.",
+        "launchPlan": [
+          {
+            "day": "Day 0 (Mon Oct 5)",
+            "action": "Run the super prompt; verify botanical names and remove any non-culinary item or effect wording."
+          },
+          {
+            "day": "Day 1-2 (Oct 6-7)",
+            "action": "Build the Letter and A4 PDFs in both colorways plus the editable template link; print a test sheet at 100% and measure it."
+          },
+          {
+            "day": "Day 3 (Thu Oct 8)",
+            "action": "Publish the Etsy listing and Gumroad page; post the first 3 pins to a new 'Kitchen apothecary' board."
+          },
+          {
+            "day": "Day 4-9 (Oct 9-14)",
+            "action": "Pin 1-2 styled-shelf or close-up pins a day until at least 10 are live, each linking to the listing."
+          },
+          {
+            "day": "Day 7 (Mon Oct 12)",
+            "action": "Post a TikTok/Reel 'labeling my spice cabinet' (before/after, own voice); start Etsy Ads at $1/day for 14 days."
+          },
+          {
+            "day": "Day 14 (Mon Oct 19)",
+            "action": "Read stats: impressions, saves, outbound clicks, listing views. If clicks but no sales, change the first photo or price (change 1 of 2)."
+          },
+          {
+            "day": "Day 21 (Mon Oct 26)",
+            "action": "Go/pivot/stop: continue if pin saves and clicks beat your account baseline and the listing has favorites and a few sales. If saves but no sales, offer a free 12-label sampler as a lead magnet, bundle with the journal, or reposition as 'apothecary spice labels' without the witch framing. Stop if there are almost no impressions or saves after 21 days and 20+ pins, or clicks without sales after two price or thumbnail changes."
+          },
+          {
+            "day": "Day 28 (Mon Nov 2)",
+            "action": "Post-Halloween check: shift new pins to 'winter pantry' and 'mulling spice gift jar' angles to test whether interest survives Oct 31."
+          }
+        ],
+        "channels": [
+          {
+            "channel": "Pinterest",
+            "tactic": "Styled-shelf mockups, label close-ups, 'spice cabinet makeover' before/after pins; boards for kitchen apothecary, spice organization and herb garden.",
+            "cadence": "1-2 new pins a day for 3 weeks (20+ total), then 5 a week through December."
+          },
+          {
+            "channel": "TikTok / Instagram Reels",
+            "tactic": "Jar-labeling and shelf-makeover clips with your own voiceover or a commercial-library sound; renter-friendly framing.",
+            "cadence": "2 a week."
+          },
+          {
+            "channel": "Etsy",
+            "tactic": "Ads for 14 days; real-jar photo first; cross-link the journal and print set.",
+            "cadence": "Stats twice a week; at most two price or thumbnail changes during the test."
+          },
+          {
+            "channel": "Herb-gardening and pantry-organization communities (subreddi",
+            "tactic": "Share the free sampler only where self-promotion is allowed; check the community rules first.",
+            "cadence": "At most 1 post a week per community."
+          }
+        ],
+        "keywords": [
+          "kitchen witch labels",
+          "apothecary labels",
+          "spice jar labels",
+          "herb jar labels",
+          "pantry labels",
+          "printable labels",
+          "tea jar labels",
+          "editable labels",
+          "herbal apothecary",
+          "spice blend labels",
+          "witchy kitchen",
+          "vintage labels",
+          "cottagecore kitchen"
+        ],
+        "hooks": [
+          "My spice cabinet, but make it an old-world apothecary.",
+          "64 labels for the herbs you actually cook with. No eye of newt.",
+          "Renter-friendly kitchen witch makeover: just labels and jars.",
+          "Real herbs, real labels, still witchy."
+        ]
+      },
+      "extensions": [
+        "'Kitchen Witch Pantry' bundle with the Kitchen Grimoire journal and the herb chart print set.",
+        "Holiday gift-jar labels and tags for homemade mulling spice, cocoa and herb-salt jars (December).",
+        "Matching canister labels for flour, sugar and coffee in larger sizes.",
+        "The same content restyled as a minimal farmhouse or modern set, if the witch framing fades.",
+        "Free 12-label sampler on Gumroad to build an email list."
+      ],
+      "asymmetry": {
+        "downside": "About 8 hours and $0-14 cash (optional ads).",
+        "upside": "Zero marginal cost, useful all year, sells on Etsy and Gumroad at once, anchors a bundle (journal, prints, gift tags) and can be repositioned as plain 'apothecary spice labels' if the aesthetic cools. The test gives an answer within 21 days.",
+        "badBetIf": "Interest collapses after Oct 31, or generic spice labels (a big, crowded Etsy category) bury the listing. A single film reference in a title or tag also turns this into a takedown risk."
+      },
+      "risks": [
+        "IP: the studio is actively licensing film-branded goods to big retailers, so any film name, family name or line in a listing invites a takedown.",
+        "Crowded generic spice-label market; the witchy styling and real-ingredient system must show in the first photo.",
+        "Canva template-link licensing: deliver the editable version only as a template link and avoid elements Canva does not allow in shared templates.",
+        "Print-scale complaints if buyers print with 'fit to page'; state '100% / actual size' clearly.",
+        "Botanical-name errors undermine trust with hobbyists; verify or omit.",
+        "New Etsy listings take weeks to be found; Halloween demand is mostly out of reach."
+      ],
+      "source": "written"
+    },
+    {
+      "index": 1,
+      "themeKey": "'Kitchen Grimoire' herb and recipe journal: herb profile pag",
+      "productName": "Kitchen Grimoire: Herb & Recipe Journal (Printable PDF + 6x9 Paperback)",
+      "superPrompt": "You are a cookbook editor and journal designer. Produce the complete interior content and layout spec for \"Kitchen Grimoire\", an herb and recipe journal with an old-world look, sold as a printable PDF and as a 6 x 9 in Amazon KDP paperback.\n\nBUYER AND JOB\nBuyers are gift shoppers looking for something for a witchy, cottagecore or herb-loving friend (winter solstice and holiday gifts), plus hobbyists buying for themselves. The journal's job: give the hobbyist one beautiful place to record herbs she grows or buys, spice blends she makes, seasonal kitchen traditions and pressed flowers.\n\nDELIVERABLE SPEC (120 pages, page by page)\n- p1 title page; p2 \"this grimoire belongs to\"; p3 how to use (150-200 words); p4 a short framing note: culinary reference and traditional folklore only, not medical advice.\n- p5-6 Seasonal kitchen calendar (\"wheel of the year\"): 8 seasonal points in order (winter solstice, early February, spring equinox, early May, summer solstice, early August, autumn equinox, late October). For each: approximate Northern Hemisphere date (\"around December 21\"), the traditional festival name or names it is commonly known by, 2-3 seasonal foods or kitchen activities, and one folklore line clearly labeled as folklore. Note that dates shift by a day or so each year and are reversed in the Southern Hemisphere.\n- p7-30 24 pre-filled herb profiles, one per page: name, botanical name, flavor in 3-5 words, culinary uses, pairs with (4 foods), growing and harvest tips, drying and storage, one line starting \"In folklore,\" and lines for notes.\n- p31-70 40 blank herb profiles (same fields, empty).\n- p71-110 blend recipes, 2 recipe cards per page (80 cards): name, ingredients and ratios, method, uses, date made, rating. Pre-fill 6 original blends.\n- p111-118 pressed-flower pages: a frame plus lines for plant, date, place, notes.\n- p119-120 index and notes.\n\nFormats: KDP interior 6 x 9 in, no bleed, black and white; margins 0.625 in on both sides (safe for the gutter at this page count), 0.5 in top and bottom; body text at least 10 pt. Printable: US Letter (8.5 x 11 in) and A4 (210 x 297 mm), same pages, 0.5 in margins, color accents allowed.\nTypography: IM Fell English (headings), Cormorant Garamond (body), Cinzel (small caps labels), all free for commercial use. Palette for cover and printable: Forest #2F4A3A, Antique Gold #B08D57, Parchment #F3E9D2, Ink Black #2B2622, Oxblood #6E1F1F, Dusty Plum #5B4A6B. Interior art: black line engravings only.\nCover text: title, a subtitle of 10 words or fewer, and a back-cover blurb of 100-130 words.\n\nCONTENT REQUIREMENTS\n- Original wording only. Tone: warm, old-world, practical. Reading level: grade 7-9.\n- Accuracy: current accepted botanical names (rosemary is Salvia rosmarinus); only common, food-safe culinary herbs; conservative, widely accepted growing and drying guidance; every blend ratio sensible for home cooking. If unsure of a fact, leave it out.\n- Folklore is presented as what people traditionally believed, never as fact or as something that works.\n- Respectful: treat kitchen witchery as a hobby and a tradition some people hold as a spiritual path; no mockery and no spells promising outcomes.\n\nDIFFERENTIATION\nMost \"grimoire\" journals are blank spell books or film tie-ins. This is a practical herb and recipe log with real pre-filled culinary profiles and a seasonal kitchen calendar, which makes it a better gift and useful all year.\n\nCONSTRAINTS\n- No film, TV or book titles, character or family names, or quotes; no trademarks.\n- No medicinal uses, dosages, remedies, or health, magical or spell-effect claims.\n\nOUTPUT FORMAT\nReturn page by page (\"Page 7 - Rosemary\") with exact text and a one-line layout note. Give each blank page type once as a template and say how many copies to make. Then the cover text. End with a ticked self-check: 120 pages accounted for; 24 profiles complete; botanical names verified or omitted; no medicinal or effect claims; folklore labeled; no film or brand references; KDP margins stated.",
+      "imagePrompts": [
+        {
+          "tool": "Midjourney or ChatGPT images",
+          "purpose": "Front cover art for the KDP paperback and printable cover (title set in Canva)",
+          "prompt": "Old-world book cover illustration: an ornate botanical frame of rosemary, sage and lavender sprigs with a crescent moon at the top center, fine Antique Gold #B08D57 linework on a solid deep Forest #2F4A3A background, subtle aged-leather texture, large empty space in the center for a title. Vertical 2:3 (front cover only). Solid background. No text, no letters. No logos, no real people, no trademarked characters, no watermarks."
+        },
+        {
+          "tool": "Midjourney or Ideogram",
+          "purpose": "Interior herb engravings (run once per pre-filled herb, swapping [HERB])",
+          "prompt": "Single vintage engraving-style botanical illustration of [HERB] (stem, leaves and flowers or seeds), fine black #000000 cross-hatched ink lines, 19th-century herbal-plate style, centered with generous padding. Square 1:1, solid white #FFFFFF background, pure black and white for grayscale printing. No text, no labels, no letters. No logos, no real people, no trademarked characters, no watermarks."
+        },
+        {
+          "tool": "Ideogram",
+          "purpose": "Wheel-of-the-year ornament for the seasonal kitchen calendar spread",
+          "prompt": "Circular ornament divided into 8 equal segments, each with a small seasonal kitchen motif: evergreen bough, candle, budding branch, flower garland, sun, wheat sheaf, apples, gourds. Thin black #000000 line art, engraving style, symmetrical, center circle left blank. Square 1:1, solid white #FFFFFF background. No text, no letters, no symbols of any real organization. No logos, no real people, no trademarked characters, no watermarks."
+        },
+        {
+          "tool": "Midjourney or ChatGPT images",
+          "purpose": "Flat-lay background for listing photos and pins until the KDP proof copy arrives (cover placed on the blank book in Canv",
+          "prompt": "Cozy flat lay on a dark wooden table: a closed plain journal with a blank deep-green cover, dried herb bundles, a stone mortar and pestle, a beeswax candle, a few pressed flowers, warm low candlelight, top-down, photographic. Vertical 4:5, solid scene background. Book cover must be completely blank. No text. No logos, no real people, no trademarked characters, no watermarks."
+        }
+      ],
+      "assembly": [
+        "Run the super prompt; fact-check every botanical name and growing tip against a reliable reference and delete anything medicinal or effect-based.",
+        "In Canva create a 6 x 9 in design with guides at 0.625 in left and right and 0.5 in top and bottom (Canva cannot mirror gutters, so equal side margins keep the gutter safe); build the page templates and paste the text until there are exactly 120 pages.",
+        "Export the interior as PDF Print, black and white artwork only; check that no element sits outside the margins and the page count is 120.",
+        "Download KDP's paperback cover template for 6 x 9 in, 120 pages, white paper (the spine width comes from the template); build the full wrap in Canva at the template's size, leave the barcode area blank, and export PDF Print.",
+        "In KDP create the paperback: title, subtitle, description, 7 keywords and categories; take the free KDP ISBN; answer the AI-generated content questions truthfully; upload both PDFs; fix any issues the online previewer flags; set the price; order one proof copy.",
+        "Duplicate the Canva interior, resize to US Letter and to A4 (210 x 297 mm), add color accents, re-check margins and export PDF Print (300 DPI) for the printable version.",
+        "List the printable PDF on Etsy and Gumroad (zip under 20 MB); add a 'Pantry + Grimoire' bundle listing with the label set.",
+        "Make 5 listing images and 5 pins from page previews on the flat-lay background; once KDP is live, add pins linking to the Amazon page and replace the mockups with photos of the proof copy."
+      ],
+      "listingPrompt": "You are an Etsy and Amazon KDP copywriter. Write two listings for my journal \"Kitchen Grimoire\".\nProduct facts (use only these; mark anything missing as [CHECK]): 120-page herb and recipe journal with an old-world look; 24 pre-filled culinary herb profiles (flavor, uses, pairings, growing, drying and storage, a labeled folklore line); 40 blank herb profiles; 80 blend recipe cards (6 pre-filled); a seasonal kitchen calendar (wheel of the year) with approximate dates; 8 pressed-flower pages; index and notes. Printable PDF in US Letter and A4 (instant download), and a 6 x 9 in paperback on Amazon with a black-and-white interior.\nBuyers: gift shoppers for witchy, cottagecore or herb-loving friends (winter solstice and holiday gifts) and hobbyists themselves.\n\nPart A - Etsy (printable PDF):\n1. Title under 140 characters starting with the buyer's search phrase, such as \"Herb Journal Printable\" or \"Kitchen Witch Recipe Journal\" (choose and explain).\n2. Exactly 13 Etsy tags, each 20 characters or fewer including spaces, character count after each.\n3. Description: what it is and who it's for; \"What's inside\" bullets with page counts; file formats and sizes; \"How delivery works\" (download from your Etsy Purchases page; nothing ships); printing tips; a 5-question FAQ (Is it a physical book? Is a paperback available? Can I print it more than once? Is this medical advice? - answer no, culinary and folklore only; Can I print single pages?).\n4. One line stating it was written and illustrated with the help of AI tools and edited by [YOUR SHOP NAME].\nPart B - Amazon KDP (paperback): a subtitle (title plus subtitle under 200 characters), a 150-250 word description with short paragraphs and a bullet list, 7 keyword phrases (each under 50 characters, no words already in the title), and 3 suggested browse categories in plain words.\nRules for both: never use the title of any film, TV show or book (especially the 1998 witch-sisters film or its 2026 sequel), character or family names from them, film quotes or studio names; no trademarked terms or brand names; no medicinal, health, magical or spell-effect claims (no \"remedies\", \"healing\" or \"spells that work\"); do not invent reviews, rankings or sales.",
+      "pricing": {
+        "recommended": 7,
+        "low": 5,
+        "high": 12,
+        "currency": "USD",
+        "rationale": "Recommended price is for the printable PDF, in line with printable herb and recipe journals (estimate; check comparables). The KDP paperback is the holiday-gift format: list it at about $12.99 (range $9.99-14.99) to keep a healthy royalty over an estimated print cost of about $2.45.",
+        "basis": "estimate: KDP royalty is about 60% of list price minus print cost at $9.99 and above (paperbacks priced lower have earne"
+      },
+      "costs": {
+        "provider": "Amazon KDP",
+        "item": "6 x 9 in paperback, black-and-white interior, 120 pages, white paper",
+        "baseCost": 2.44,
+        "shipping": null,
+        "pages": null,
+        "basis": "estimate: verify in the provider catalog (KDP's printing-cost calculator). Assumes KDP's published US formula for 110+ page black-and-white paperbacks of about $1.00 fixed plus $0.012 per page. Amazon",
+        "testBudget": 0,
+        "testBudgetNote": "No ads during the test. Budget roughly $5-8 (estimate) for one KDP proof copy with shipping, so you can photograph the real book."
+      },
+      "platforms": [
+        {
+          "name": "Etsy",
+          "role": "primary",
+          "why": "Instant-download PDF sells from day one while the paperback is in review; it is the input's first test."
+        },
+        {
+          "name": "Amazon KDP",
+          "role": "primary",
+          "why": "The paperback is the gift format for holiday and winter-solstice shoppers, printed and shipped by Amazon with no inventory."
+        },
+        {
+          "name": "Gumroad",
+          "role": "secondary",
+          "why": "Direct link for the PDF and bundles from pins and videos."
+        },
+        {
+          "name": "Pinterest",
+          "role": "traffic",
+          "why": "Herb, spice-blend and gift-idea pins match the hobby searches in the input and can link to both Etsy and Amazon."
+        }
+      ],
+      "marketing": {
+        "positioning": "A grimoire that is mostly recipes: a practical, old-world herb and spice-blend journal with real culinary profiles and a seasonal kitchen calendar, made as a gift for the friend who dries herbs on every surface.",
+        "launchPlan": [
+          {
+            "day": "Day 0 (Thu Oct 8)",
+            "action": "Run the super prompt (start right after the label set is live); fact-check names and remove any medicinal wording."
+          },
+          {
+            "day": "Day 1-3 (Oct 9-11)",
+            "action": "Build the 120-page 6 x 9 interior and the full cover wrap in Canva."
+          },
+          {
+            "day": "Day 4 (Mon Oct 12)",
+            "action": "Upload to KDP (review can take up to about 72 hours) and order a proof; resize to Letter and A4 and list the printable PDF on Etsy and Gumroad; add the label-plus-journal bundle."
+          },
+          {
+            "day": "Day 5 (Tue Oct 13)",
+            "action": "Publish 5 pins (flip-through mockups, profile-page close-ups) linking to Etsy."
+          },
+          {
+            "day": "Day 7 (Thu Oct 15)",
+            "action": "Target date for the paperback to be live (mid-October): add Amazon-linked pins and post a 'flip through my kitchen grimoire' TikTok/Reel."
+          },
+          {
+            "day": "Day 8-20 (Oct 16-28)",
+            "action": "1 pin a day; 1 short video a week (pressing flowers, writing a blend recipe)."
+          },
+          {
+            "day": "Day 14 (Thu Oct 22)",
+            "action": "Two-week PDF check: compare its conversion with the label set's."
+          },
+          {
+            "day": "Day 21 (Thu Oct 29)",
+            "action": "Shift pins and video angles to winter solstice and holiday gifting ('gift for herb lovers', 'stocking stuffer for gardeners')."
+          },
+          {
+            "day": "Day 38 (Sun Nov 15)",
+            "action": "Go/pivot check (mid-November): continue if the PDF converts at least as well as the labels or KDP shows organic sales. If buyers prefer the labels, fold the journal pages into a larger 'Kitchen Witch Pantry' bundle."
+          },
+          {
+            "day": "Day 56 (Thu Dec 3)",
+            "action": "Stop check (early December): no sales from either format means stop promoting; leave the listings up passively."
+          }
+        ],
+        "channels": [
+          {
+            "channel": "Pinterest",
+            "tactic": "Page-preview and gift-idea pins; one board for herb and spice-blend recipes and one for gifts for gardeners; link to Etsy and, once live, Amazon.",
+            "cadence": "1 pin a day for 3 weeks, then 3-5 a week through Dec 21."
+          },
+          {
+            "channel": "TikTok / Instagram Reels",
+            "tactic": "Flip-throughs, writing a blend recipe, pressing flowers into the journal; own voice or commercial-library sound.",
+            "cadence": "1 a week."
+          },
+          {
+            "channel": "Amazon",
+            "tactic": "Strong subtitle and 7 keywords; real proof-copy photos in your Author Central or listing images where allowed.",
+            "cadence": "Review the KDP dashboard weekly."
+          },
+          {
+            "channel": "Herb-gardening communities",
+            "tactic": "Share a free printable blank herb-profile page where self-promotion is allowed; check the community rules first.",
+            "cadence": "At most 1 post a week per community."
+          }
+        ],
+        "keywords": [
+          "herb journal",
+          "kitchen grimoire",
+          "recipe journal",
+          "spice blend recipes",
+          "herb garden journal",
+          "gift for herb lover",
+          "witchy journal",
+          "grimoire journal",
+          "printable journal",
+          "cottagecore journal",
+          "pressed flower book",
+          "yule gift"
+        ],
+        "hooks": [
+          "A grimoire, but it's mostly recipes.",
+          "Where my homemade spice blends finally live.",
+          "Gift idea for the friend who dries herbs on every surface.",
+          "24 herb profiles, 80 blend cards, one old-world journal."
+        ]
+      },
+      "extensions": [
+        "Hardcover KDP edition from the same interior.",
+        "Printable blend recipe cards and a garden planner as separate small listings.",
+        "Tea-blend journal variant with the same layout.",
+        "'Kitchen Witch Pantry' bundle: labels plus journal plus herb chart prints.",
+        "Holiday gift-jar tags to sell next to the journal in December."
+      ],
+      "asymmetry": {
+        "downside": "About 16 hours and roughly $5-8 for a proof copy (estimate).",
+        "upside": "KDP keeps selling with no inventory and reaches Amazon search; the PDF has zero marginal cost; the journal anchors bundles with the label set, and the content is evergreen beyond the 2026 trend.",
+        "badBetIf": "KDP discovery without ads is slow and herb or grimoire journals already exist on Amazon, so the paperback may need months to show sales. If there are no sales from either format by early December, the holiday window has been missed."
+      },
+      "risks": [
+        "KDP review rejections for margin or text-outside-trim issues; use the previewer before submitting.",
+        "KDP requires disclosure of AI-generated text and images; answer truthfully.",
+        "Medicinal language can creep into herb profiles; review every page.",
+        "Botanical or growing-tip errors undermine credibility with hobbyists.",
+        "Seasonal festival names matter to people who practice; keep the framing respectful and the dates approximate.",
+        "Public-domain botanical art must be verified (published before 1931) if used instead of your own art."
+      ],
+      "source": "written"
+    },
+    {
+      "index": 2,
+      "themeKey": "Vintage herbarium-style culinary herb chart and moon-phase a",
+      "productName": "Kitchen Apothecary Print Set of 3: Herb Chart, Moon Phases, Drying Guide",
+      "superPrompt": "You are a botanical illustrator and print designer who makes vintage herbarium-style wall art. Produce the complete content and layout spec for a set of 3 \"kitchen apothecary\" prints in deep jewel tones, sold as digital downloads with an optional print-on-demand poster.\n\nBUYER AND JOB\nRenters and homeowners styling a kitchen or coffee nook in the whimsigoth / kitchen-witch look (botanicals, apothecary jars, moons, candlelight). The set's job: decorate without remodeling, with wall art that is also genuinely useful while cooking.\n\nDELIVERABLE SPEC\nPrint 1 - \"Culinary Herb Chart\": 12 herbs in a 3 x 4 grid. For each: common name, botanical name, flavor in 3 words, pairs with (3 foods), typical harvest season for temperate North American gardens. Background: Emerald.\nPrint 2 - \"Phases of the Moon\": the 8 phases in correct order in an arc or vertical column: New Moon, Waxing Crescent, First Quarter, Waxing Gibbous, Full Moon, Waning Gibbous, Last Quarter (Third Quarter), Waning Crescent. Add one accurate line: the full cycle takes about 29.5 days. Background: Sapphire.\nPrint 3 - \"Herb Harvest & Drying Guide\": 5 numbered steps (when to harvest, how to cut, how to bundle or tray-dry, how to tell herbs are dry, how to store) plus a small table of 8 herbs with \"air-dry or tray-dry\" and \"strip leaves before storing: yes/no\". Background: Garnet.\nEach print: an ornamental gold border, one title in caps, illustrations as fine engraving-style line art and a small \"No. I / II / III\" set mark.\nSizes (portrait): master at 24 x 36 in (2:3); also 18 x 24 in (3:4), 16 x 20 in (4:5), 11 x 14 in, US Letter (8.5 x 11 in) for home printing, and A1 (594 x 841 mm, ISO ratio, scales down to A4). Give a layout note per ratio (what moves, what shrinks). All text must stay legible at 8 x 10 in (about 9 pt or larger at that size).\n\nSTYLE\nPalette: Emerald #1F4D3A, Sapphire #1F3A5F, Garnet #7A1E2C, Antique Gold #B08D57 (borders, linework), Parchment #F3E9D2 (text), Ink #2B2622 (shadows). Fonts: Cinzel (titles), Cormorant Garamond (body), IM Fell English (accent captions), all free for commercial use. Also describe a light Parchment-background colorway as a bonus.\n\nCONTENT REQUIREMENTS\n- Original wording only. Tone: calm, old-world, factual. Reading level: grade 6-8.\n- Accuracy checks: current accepted botanical names (rosemary is Salvia rosmarinus) or omit if unsure; standard culinary pairings; harvest seasons marked \"typical; varies by climate\"; moon phases in the right order; for Northern Hemisphere art, the lit side is on the right while waxing and on the left while waning (state this so I can check my art); conservative, widely accepted drying guidance.\n\nDIFFERENTIATION\nMost kitchen-witch wall art is a film-quote sign or a Halloween novelty. This set is functional (pairings, phases, drying steps), matches the \"Kitchen Witch Pantry\" label set for bundling and works all year.\n\nCONSTRAINTS\n- No film, TV or book titles, character names or quotes; no trademarks or brand names.\n- No medicinal, magical or effect claims; the moon print is astronomy plus decoration only.\n- Artwork must be original or verified public domain (published before 1931); no copied illustrations.\n\nOUTPUT FORMAT\nFor each print: title, all text exactly as it should appear, an element-by-element layout from top to bottom with approximate positions as a percentage of height, and an illustration list with one-line descriptions I can use as image prompts. Then the per-ratio notes and the bonus colorway. End with a ticked self-check: 12 herbs complete; 8 phases in order; waxing lit on the right stated; harvest seasons marked typical; no claims, film or brand references; minimum text size met at 8 x 10 in.",
+      "imagePrompts": [
+        {
+          "tool": "Midjourney or Ideogram",
+          "purpose": "Ornamental border, one per print (swap the background hex for Sapphire #1F3A5F and Garnet #7A1E2C)",
+          "prompt": "Ornamental apothecary border for a vintage botanical poster: fine botanical vines, small leaves and tiny crescent moons running around all four edges, corner flourishes, Antique Gold #B08D57 linework on a solid deep Emerald #1F4D3A background, subtle paper texture, completely empty center. Vertical 2:3. Solid background. No text, no letters. No logos, no real people, no trademarked characters, no watermarks."
+        },
+        {
+          "tool": "Midjourney or Ideogram",
+          "purpose": "Herb illustrations for the chart (run per herb, swapping [HERB]; recolor to gold in Canva with the Duotone effect if nee",
+          "prompt": "Single vintage herbarium-style illustration of [HERB], fine engraving line art in Parchment #F3E9D2 and Antique Gold #B08D57 on solid black #000000, 19th-century botanical-plate style, centered with generous padding. Square 1:1, solid background. No text, no labels, no letters. No logos, no real people, no trademarked characters, no watermarks."
+        },
+        {
+          "tool": "Midjourney or ChatGPT images",
+          "purpose": "One full-moon disc; build all 8 phases in Canva with shape masks so the lit side is correct",
+          "prompt": "A single detailed full moon disc with realistic craters and maria, softly tinted Parchment #F3E9D2, perfectly round and centered, evenly lit with no shadow, solid black #000000 background. Square 1:1. No stars, no text, no letters, no other objects. No logos, no real people, no trademarked characters, no watermarks."
+        },
+        {
+          "tool": "Midjourney or ChatGPT images",
+          "purpose": "Room mockup with three blank frames for listing photos and pins",
+          "prompt": "Cozy whimsigoth kitchen nook: three identical thin black frames hung in a row on a dark green painted wall, open shelf below with glass apothecary jars, candles, dried flowers and copper pans, warm evening light, photographic, straight-on. The frames are empty with plain light grey insides. Horizontal 3:2, solid scene background. No text, no brand packaging. No logos, no real people, no trademarked characters, no watermarks."
+        }
+      ],
+      "assembly": [
+        "Run the super prompt; check the herb pairings, the moon-phase order and the waxing-on-the-right rule against a reliable reference.",
+        "In Canva create a 24 x 36 in design; build the three prints from the border, herb illustrations and text. For the moon print, duplicate the moon disc 8 times and mask each with a dark circle or ellipse to make the phases, lit on the right while waxing.",
+        "Duplicate and adapt each print to 18 x 24 in, 16 x 20 in, 11 x 14 in, US Letter (8.5 x 11 in) and A1 (594 x 841 mm); fix the layout per ratio (Canva Pro Resize speeds this up).",
+        "Export each print and ratio as PDF Print and high-quality JPG; zip by ratio (5 zips, with the 11 x 14 in and US Letter files sharing one zip; each under Etsy's 20 MB limit, which also fits Etsy's 5-file maximum).",
+        "Print one print at 8 x 10 in on a home printer to confirm the smallest text is legible and the dark backgrounds are not muddy.",
+        "Place the prints in the room mockup; make 5 listing images (set view, each print close up, size guide, what's included) and 5 pins.",
+        "Publish the digital set on Etsy and a labels-plus-prints bundle listing at about $14-16; upload each print to Redbubble at the highest resolution as a secondary channel.",
+        "Optional: only if the digital set sells, create Printify matte poster products (12 x 18 in from the 2:3 file) as a separate print-on-demand listing."
+      ],
+      "listingPrompt": "You are an Etsy SEO copywriter for printable wall art. Write the Etsy listing for my digital download \"Kitchen Apothecary Print Set of 3\".\nProduct facts (use only these; mark anything missing as [CHECK]): 3 vintage herbarium-style prints in deep jewel tones with gold borders: (1) Culinary Herb Chart, 12 herbs with flavor, pairings and typical harvest season; (2) Phases of the Moon, 8 phases in order; (3) Herb Harvest & Drying Guide. Delivered as 5 zip files by ratio: 2:3 (prints up to 24 x 36 in), 3:4 (up to 18 x 24 in), 4:5 (up to 16 x 20 in), 11 x 14 in plus US Letter (8.5 x 11 in), and ISO A-series (A1 down to A4); PDF and JPG; instant download; frames not included; nothing ships.\nBuyer: renters and homeowners styling a kitchen or coffee nook in a whimsigoth / kitchen-witch look.\n\nWrite:\n1. Title under 140 characters starting with the buyer's search phrase, such as \"Herb Chart Print Set of 3\" or \"Kitchen Witch Wall Art\" (choose and explain), then moon phase print, apothecary, printable. No ALL CAPS.\n2. Exactly 13 Etsy tags, each 20 characters or fewer including spaces, character count after each.\n3. Description: two opening lines; \"What's included\" bullets; a size guide by ratio; \"How delivery works\" (download from your Etsy Purchases page); printing tips (home printer vs. local or online print shop, matte paper); a 5-question FAQ (Is a frame included? Will colors match my screen? Can I print it more than once? Which size should I pick? Is a physical print available? - answer [CHECK]).\n4. One line stating the artwork was created with the help of AI tools and finished by [YOUR SHOP NAME].\nRules: never use the title of any film, TV show or book (especially the 1998 witch-sisters film or its 2026 sequel), character or family names from them, film quotes or studio names; no trademarked terms or brand names in the title, tags or description; no medicinal, magical or effect claims; do not invent reviews, sales or search data.",
+      "pricing": {
+        "recommended": 9,
+        "low": 6,
+        "high": 14,
+        "currency": "USD",
+        "rationale": "The input saw fan digital prints around $8 on Etsy; a coordinated set of 3 with functional content supports about $9 standalone, while the main job is lifting the label set to a $14-16 bundle.",
+        "basis": "estimate"
+      },
+      "costs": {
+        "provider": "Printify (optional print-on-demand version only)",
+        "item": "Matte vertical poster, 12 x 18 in",
+        "baseCost": 9,
+        "shipping": 6,
+        "pages": null,
+        "basis": "estimate: verify in the provider catalog. A 12 x 18 in matte poster is assumed at roughly $8-10 base and $5-7 first-item US shipping. The core product is digital with no production cost; Etsy charges ",
+        "testBudget": 0,
+        "testBudgetNote": "No ads: the input's test is the attach rate in the label bundle."
+      },
+      "platforms": [
+        {
+          "name": "Etsy",
+          "role": "primary",
+          "why": "Digital wall-art buyers shop on Etsy, and the set can be bundled with the label listing in the same shop."
+        },
+        {
+          "name": "Redbubble",
+          "role": "secondary",
+          "why": "Passive posters and art prints from the same files, with no setup beyond uploading."
+        },
+        {
+          "name": "Pinterest",
+          "role": "traffic",
+          "why": "Kitchen-decor and whimsigoth room pins are classic Pinterest content and lead back to the bundle."
+        }
+      ],
+      "marketing": {
+        "positioning": "Wall art you can actually cook from: a jewel-toned herb chart, moon-phase chart and drying guide that turn a rental kitchen into an old-world apothecary and match the Kitchen Witch Pantry labels.",
+        "launchPlan": [
+          {
+            "day": "Day 0 (Mon Oct 12)",
+            "action": "Run the super prompt; fact-check pairings, phase order and the waxing-lit-on-the-right rule."
+          },
+          {
+            "day": "Day 1-2 (Oct 13-14)",
+            "action": "Build the three prints at 24 x 36 in, adapt to all 5 ratios, export and zip."
+          },
+          {
+            "day": "Day 3 (Thu Oct 15)",
+            "action": "List the digital set on Etsy, create the labels-plus-prints bundle listing, cross-link both from the label listing, and upload the three prints to Redbubble."
+          },
+          {
+            "day": "Day 4-17 (Oct 16-29)",
+            "action": "Pinterest: 1 pin a day (room mockups, moon-phase close-ups, herb chart details)."
+          },
+          {
+            "day": "Day 7 (Mon Oct 19)",
+            "action": "Post one Reel/TikTok: 'renter-friendly witchy kitchen nook in 3 prints'."
+          },
+          {
+            "day": "Day 14 (Mon Oct 26)",
+            "action": "Compare bundle sales with labels-only sales (attach rate)."
+          },
+          {
+            "day": "Day 21 (Mon Nov 2)",
+            "action": "Go/pivot/stop: continue if the bundle with prints sells as well as or better than the labels alone; if prints don't attach, offer them free as Pinterest-traffic bait that points to the label listing; stop with zero standalone sales and no bundle lift after 3 weeks."
+          },
+          {
+            "day": "Day 28 (Mon Nov 9)",
+            "action": "If continuing, add a winter-herbs variant and refresh pins for winter solstice and holiday gifting."
+          }
+        ],
+        "channels": [
+          {
+            "channel": "Pinterest",
+            "tactic": "Room-mockup pins and detail close-ups on boards for whimsigoth decor, kitchen wall art and moon decor; link to the bundle.",
+            "cadence": "1 pin a day for 2 weeks, then 3 a week."
+          },
+          {
+            "channel": "Instagram Reels / TikTok",
+            "tactic": "Renter-friendly nook makeover featuring the prints and labeled jars together.",
+            "cadence": "1 a week."
+          },
+          {
+            "channel": "Redbubble",
+            "tactic": "Upload once, tag well, leave passive.",
+            "cadence": "One-time setup."
+          }
+        ],
+        "keywords": [
+          "herb chart print",
+          "moon phase print",
+          "kitchen wall art",
+          "witchy wall art",
+          "apothecary print",
+          "botanical print set",
+          "whimsigoth decor",
+          "kitchen witch decor",
+          "herbarium print",
+          "printable wall art",
+          "moody kitchen art",
+          "set of 3 prints"
+        ],
+        "hooks": [
+          "Renter-friendly whimsigoth kitchen: just add three prints.",
+          "Wall art you can actually cook from.",
+          "In the Northern Hemisphere a waxing moon is lit on the right. Now your wall knows it too.",
+          "Herb chart, moon phases, drying guide: the kitchen apothecary set."
+        ]
+      },
+      "extensions": [
+        "Winter-herbs and spice-chart prints for the holiday season.",
+        "Tea-blend chart print.",
+        "Southern Hemisphere version of the moon-phase print.",
+        "Print-on-demand posters or canvas once the digital set proves demand.",
+        "Matching recipe cards in the same jewel palette."
+      ],
+      "asymmetry": {
+        "downside": "About 6 hours; $0 cash.",
+        "upside": "Zero marginal cost, raises the label set's order value through the bundle, evergreen decor content, and passive Redbubble listings from the same files.",
+        "badBetIf": "Sold standalone: digital wall art is one of Etsy's most crowded categories, so discovery on its own is hard. Its value is as a bundle add-on and Pinterest bait; if it doesn't lift the bundle in 3 weeks, give it away as traffic bait."
+      },
+      "risks": [
+        "Crowded digital wall-art category.",
+        "Moon art drawn by an image model is often wrong (lit side, phase order); build phases with masks and check them.",
+        "Dark jewel backgrounds can print muddy at home; recommend a print shop and matte paper in the listing.",
+        "Large files can exceed Etsy's 20 MB per-file limit; compress the JPGs or split the zips.",
+        "Public-domain illustrations must be verified as published before 1931; otherwise use original art."
+      ],
+      "source": "written"
+    }
+  ],
+  "writtenAt": "2026-10-04T23:10:37Z",
+  "source": "written"
+}

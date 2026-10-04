@@ -1,0 +1,342 @@
+{
+  "id": "remember-november-2026",
+  "candidateId": "remember-november-2026",
+  "products": [
+    {
+      "index": 0,
+      "themeKey": "'November 2026: Do You Understand Yet?' phone wallpaper and",
+      "productName": "November 2026: Do You Understand Yet? Lock-Screen Calendar Pack",
+      "superPrompt": "You are a meme-literate designer and comedy writer who makes phone wallpapers and printable calendars. Produce the complete content and design spec for \"November 2026: Do You Understand Yet?\", a pack of daily lock-screen calendar wallpapers starring an original cartoon polar bear, plus a printable desk calendar.\n\nBUYER AND JOB\nTeens and young adults in the US who follow the \"Remember November 2026\" meme on TikTok and Reels: a \"meme from the future\" whose joke is anticipation with no event at the end. The pack's job: let them be in on the joke on their lock screen every day of the month the meme points to, with a fresh deadpan line each day.\n\nVERIFIED CALENDAR FACTS (use exactly)\nNovember 2026 has 30 days. Nov 1 is a Sunday; Nov 30 is a Monday. Sunday-first grid: row 1 = 1-7, row 2 = 8-14, row 3 = 15-21, row 4 = 22-28, row 5 = 29-30. Thanksgiving is Thursday, Nov 26.\n\nDELIVERABLE SPEC\n1. 30 daily captions, one per date, each 40 characters or fewer, deadpan and escalating: early days \"it's here, act normal\", mid-month confusion, late-month acceptance, a shrug on Nov 30. Add 10 spare captions.\n2. 30 daily lock screens. Master canvas 1290 x 2796 px; also 1179 x 2556 px and 1080 x 2400 px versions. Safe zones: keep the top 30% clear for the clock and the bottom 12% clear for buttons. Layout between 32% and 86% of the height: title \"NOVEMBER 2026\", the full month grid with that day circled, the day's caption, the bear in a corner pose.\n3. 3 bonus wallpapers (no grid): bear balanced on its front paws (\"do you understand yet?\"), bear holding a wall calendar (\"it's november.\"), bear shrugging next to a \"30\" page (\"i still don't get it\").\n4. Printable desk calendar: US Letter landscape (11 x 8.5 in) and A4 landscape (297 x 210 mm), month grid with every caption in its date cell, bear at the top, 0.4 in margins.\n5. A short \"how to set your wallpaper\" note (generic phone steps, no brand names).\n\nBear character (original; must look nothing like the viral AI image): flat 2D cartoon, round chunky body, thick rounded outlines, small dot eyes, tiny mint scarf, never photorealistic.\nFonts: Fredoka (headings) and Nunito (captions), free for commercial use. Palette: Arctic Night #0E1A2B (background), Snow #F4F7FA (text, bear), Ice Blue #A9D6E5 (grid lines), Glacier #5FA8D3 (accents), Signal Yellow #FFD23F (today circle), Scarf Mint #7ED3B2.\n\nCONTENT REQUIREMENTS\n- Original wording only. Deadpan, absurd, teen-safe: no profanity, no insults, no references to real people, news, tragedies or politics. Nov 3, 2026 is a US election day: write nothing political for any date. Keep Nov 11 respectful (no veterans jokes). Reading level: grade 5-7.\n- Accuracy: every caption's weekday matches the facts above; every caption fits in 40 characters; nothing claims a real event will happen.\n\nDIFFERENTIATION\nCompetitors print copies of the AI bear on shirts with the \"is coming\" framing that goes stale on Nov 1. This pack uses the calendar payoff, gives a new joke every day of November, uses original art and is instant digital, so there is no shipping lag on a hard-dated joke.\n\nCONSTRAINTS\n- Do not describe, trace or recreate the viral AI polar-bear image or video frames.\n- No musician names, song titles, lyrics or melodies; do not use the phrase \"life goes on\" anywhere.\n- No brand names or trademarks.\n\nOUTPUT FORMAT\n1. Caption table: Date | Weekday | Caption | Character count, then the 10 spares.\n2. A CSV block for Canva Bulk Create (columns: date, weekday, caption, grid_row, grid_col), with grid_col 1 = Sunday.\n3. Lock-screen layout spec with pixel positions for the 1290 x 2796 master.\n4. Bonus wallpaper text and poses.\n5. Desk calendar layout for Letter and A4.\n6. How-to note.\n7. A ticked self-check: 30 captions, all 40 characters or fewer; weekdays and grid positions match (Nov 1 = Sunday, row 1 col 1; Nov 30 = Monday, row 5 col 2); nothing political or about real people; no song, musician or \"life goes on\"; bear described as an original flat cartoon.",
+      "imagePrompts": [
+        {
+          "tool": "ChatGPT images or Midjourney (keep the same chat, or use a character reference, ",
+          "purpose": "Bear pose 1: balanced on front paws (bonus wallpaper and sticker art)",
+          "prompt": "Original cartoon mascot: a round, chunky polar bear drawn as flat 2D vector art with thick rounded Arctic Night #0E1A2B outlines, body Snow #F4F7FA, tiny dot eyes, soft Ice Blue #A9D6E5 shading, a small Scarf Mint #7ED3B2 scarf. Pose: a wobbly handstand balanced on its front paws, back legs in the air, deadpan expression. Full body, centered, plenty of padding. Square 1:1. Transparent background, or solid pure white #FFFFFF if transparency is not available. Simple sticker-style cartoon; not photorealistic, no fur texture, no realistic animal. No text, no letters. No logos, no real people, no trademarked characters, no watermarks."
+        },
+        {
+          "tool": "ChatGPT images or Midjourney (same character)",
+          "purpose": "Bear pose 2: holding a blank wall calendar (calendar text added in Canva)",
+          "prompt": "The same original cartoon polar bear (flat 2D vector, thick rounded Arctic Night #0E1A2B outlines, Snow #F4F7FA body, dot eyes, Scarf Mint #7ED3B2 scarf) standing upright and holding up a blank wall-calendar page with nothing written on it, flat deadpan stare at the viewer. Full body, centered. Square 1:1, transparent background or solid white #FFFFFF. Not photorealistic. No text, no numbers, no letters. No logos, no real people, no trademarked characters, no watermarks."
+        },
+        {
+          "tool": "ChatGPT images or Midjourney (same character)",
+          "purpose": "Bear pose 3: shrugging next to a blank tear-off page (the '30' is added in Canva)",
+          "prompt": "The same original cartoon polar bear (flat 2D vector, thick rounded Arctic Night #0E1A2B outlines, Snow #F4F7FA body, dot eyes, Scarf Mint #7ED3B2 scarf) shrugging with both paws raised and a confused half-smile, standing next to a large blank tear-off calendar page. Full body, centered. Square 1:1, transparent background or solid white #FFFFFF. Not photorealistic. No text, no numbers, no letters. No logos, no real people, no trademarked characters, no watermarks."
+        },
+        {
+          "tool": "Ideogram or Midjourney",
+          "purpose": "Lock-screen background texture",
+          "prompt": "Minimal night-sky background for a phone lock screen: solid Arctic Night #0E1A2B with sparse tiny snowflakes and dots in Ice Blue #A9D6E5 and Snow #F4F7FA, slightly denser near the bottom, flat vector, calm and uncluttered. Vertical, aspect ratio about 9:19.5. Solid background. No text, no moon, no animals. No logos, no real people, no trademarked characters, no watermarks."
+        }
+      ],
+      "assembly": [
+        "Generate the three bear poses in one chat or with a character reference so they match; compare them side by side with the viral image's general look and redraw anything that looks close (it must read as an original flat cartoon).",
+        "Remove backgrounds if needed (Canva Pro background remover, or the image tool's transparent output) and save each pose as a PNG.",
+        "In Canva create a 1290 x 2796 px design; build the master lock screen: background texture, 'NOVEMBER 2026' title, the month grid (Sunday first, Nov 1 in the first cell), caption box and bear, all between about 32% and 86% of the height.",
+        "Create the 30 daily versions with Bulk Create from the AI's CSV (Canva Pro), or duplicate the page 30 times on the free plan; move the yellow 'today' circle and swap the caption on each page.",
+        "Add the 3 bonus pose wallpapers; make copies resized to 1179 x 2556 px and 1080 x 2400 px; export all as PNG and zip into two folders by size.",
+        "Build the desk calendar on US Letter landscape and A4 landscape with every caption in its date cell; export PDF Print (300 DPI). Add a one-page 'how to set your wallpaper' PDF.",
+        "Set three of the wallpapers on your own phone and screenshot them to confirm the clock and buttons don't cover the grid; use those screenshots as listing images and in videos.",
+        "Publish on Etsy (5 files maximum, 20 MB each) at $3 and on Gumroad with the same files; put the Gumroad link in your Instagram bio."
+      ],
+      "listingPrompt": "You are an Etsy SEO copywriter for digital downloads aimed at teens and young adults. Write the Etsy listing for my instant-download phone wallpaper pack \"November 2026: Do You Understand Yet?\".\nProduct facts (use only these; mark anything missing as [CHECK]): 30 daily lock-screen calendar wallpapers for November 2026, each with the month grid, that day circled and a deadpan caption; 3 bonus wallpapers of an original cartoon polar bear; sizes 1290 x 2796, 1179 x 2556 and 1080 x 2400 px (PNG); a printable desk calendar PDF in US Letter and A4 landscape; instant download; nothing ships. The art is original and not the viral image.\nBuyer: US teens and young adults who follow the \"Remember November 2026\" meme.\n\nWrite:\n1. Title under 140 characters starting with the buyer's search phrase \"Remember November 2026\", then lock screen calendar, wallpaper pack, polar bear, digital download. No ALL CAPS.\n2. Exactly 13 Etsy tags, each 20 characters or fewer including spaces, character count after each.\n3. Description: two deadpan opening lines; \"What's inside\" bullets; sizes in pixels and \"fits most modern phones\"; \"How delivery works\" (download from your Etsy Purchases page, unzip on your phone or computer, set as wallpaper); a 5-question FAQ (Will it fit my phone? Do I get all 30 days at once? Can I print the calendar? Is this the original viral bear? - answer: no, it's an original illustration; What happens after November? - answer: it's a November 2026 joke, enjoy it while it lasts).\n4. One line stating the artwork was created with the help of AI tools and finished by [YOUR SHOP NAME].\nRules: never mention any musician, song title, lyrics or the audio used in the viral bear video, and never use the phrase 'life goes on'; never describe the product as the viral or AI bear; no trademarked terms or brand names in the title, tags or description (no phone or operating-system brand names; use pixel sizes); no political references; do not invent reviews, sales or claims about how popular the meme is.",
+      "pricing": {
+        "recommended": 3,
+        "low": 2,
+        "high": 5,
+        "currency": "USD",
+        "rationale": "About $3, per the input's test: an impulse price for a joke that expires on Nov 30, far below the $20+ apparel competitors sell. Gumroad can be set to $3+ pay-what-you-want.",
+        "basis": "estimate: after Etsy's listing, transaction and payment-processing fees, a $3 sale nets roughly $2.20-2.30 (verify curre"
+      },
+      "costs": {
+        "provider": null,
+        "item": null,
+        "baseCost": null,
+        "shipping": null,
+        "pages": null,
+        "basis": "estimate: digital product, no production or shipping cost. Etsy charges a $0.20 listing fee plus a transaction fee and payment-processing fee on each sale (about 6.5% and about 3% + $0.25 in the US at",
+        "testBudget": 0,
+        "testBudgetNote": "No ads: a $3 product cannot earn back ad spend inside a few weeks. Traffic has to come from meme-format videos and Etsy search for the phrase."
+      },
+      "platforms": [
+        {
+          "name": "Etsy",
+          "role": "primary",
+          "why": "Etsy already has search pages for 'Remember November 2026' products, so buyers searching the phrase can find the listing without an audience."
+        },
+        {
+          "name": "Gumroad",
+          "role": "secondary",
+          "why": "Fast checkout and a clean direct link for bio links and video comments; can switch to free if the pivot is needed."
+        },
+        {
+          "name": "TikTok",
+          "role": "traffic",
+          "why": "The meme lives on TikTok; bear-reacting-to-the-calendar skits are the native format. Bio links may need a follower threshold or a business account, so you may have to point viewers to the Etsy shop name instead."
+        },
+        {
+          "name": "Instagram",
+          "role": "traffic",
+          "why": "Reels carry the same meme, and a bio link works without a follower minimum."
+        }
+      ],
+      "marketing": {
+        "positioning": "The meme's own month, on your lock screen: 30 days of deadpan 'do you understand yet?' calendar wallpapers with an original polar bear, instant download, for less than a coffee.",
+        "launchPlan": [
+          {
+            "day": "Day 0 (Mon Oct 12)",
+            "action": "Run the super prompt; generate and check the three original bear poses."
+          },
+          {
+            "day": "Day 1 (Tue Oct 13)",
+            "action": "Build the 30 daily lock screens, bonus wallpapers and desk calendar; test on your own phone."
+          },
+          {
+            "day": "Day 2 (Wed Oct 14)",
+            "action": "Publish on Etsy at $3 and on Gumroad; add the Gumroad link to your Instagram bio."
+          },
+          {
+            "day": "Day 3-12 (Oct 15-24)",
+            "action": "Film and bank 5 short videos (bear reacting to the calendar, 'day 1 of November 2026' skits) using your own voice or on-screen text, never the viral audio. Post one teaser every 3 days ('20 days until November. Do you understand yet?')."
+          },
+          {
+            "day": "Day 13 (Sun Oct 25)",
+            "action": "Main push starts: post 3-5 TikToks/Reels between Oct 25 and Nov 3, each pointing to the product."
+          },
+          {
+            "day": "Day 20 (Sun Nov 1)",
+            "action": "Nov 1: the biggest moment. Post 'It's November 2026. Did you understand?' and pin a comment saying where to find the pack."
+          },
+          {
+            "day": "Day 23 (Wed Nov 4)",
+            "action": "Go/pivot check (Nov 4): continue if there are 10+ paid downloads or clear 'where do I get this' comments. If videos get views but no sales, make the pack free (Gumroad $0+) as a lead magnet and push the sticker instead."
+          },
+          {
+            "day": "Day 29 (Tue Nov 10)",
+            "action": "Stop check (Nov 10): fewer than 3 sales, or meme content visibly dead after Nov 1, means stop posting."
+          },
+          {
+            "day": "Day 49 (Mon Nov 30)",
+            "action": "Nov 30: deactivate the listings; keep the bear and template for any future 'meme from the future' product (a different product)."
+          }
+        ],
+        "channels": [
+          {
+            "channel": "TikTok",
+            "tactic": "Meme-format skits: the original bear reacting to the calendar, daily 'still don't get it' updates. Own voice or commercial-library sound only.",
+            "cadence": "1 teaser every 3 days Oct 15-24, then 3-5 posts Oct 25-Nov 3, one on Nov 1."
+          },
+          {
+            "channel": "Instagram Reels",
+            "tactic": "Cross-post every TikTok; Gumroad link in bio; a 'which day are you on?' story with three wallpaper previews.",
+            "cadence": "Same as TikTok."
+          },
+          {
+            "channel": "Etsy",
+            "tactic": "Phrase-led title and tags so the listing appears in searches for the meme; real phone screenshots as photos.",
+            "cadence": "Check stats every 2-3 days during Oct 25-Nov 10."
+          }
+        ],
+        "keywords": [
+          "remember november",
+          "november 2026",
+          "polar bear meme",
+          "lock screen calendar",
+          "phone wallpaper",
+          "november wallpaper",
+          "meme wallpaper",
+          "funny lock screen",
+          "november calendar",
+          "2026 meme",
+          "polar bear wallpaper",
+          "digital wallpaper"
+        ],
+        "hooks": [
+          "It's November 2026. Do you understand yet?",
+          "I made a lock screen that counts down to... nothing.",
+          "Day 4 of November 2026 and I still don't get it.",
+          "Your phone, but it's from the future (it's November)."
+        ]
+      },
+      "extensions": [
+        "Bundle with the 'I remembered. November 2026.' sticker, or give the sticker art away as a free digital bonus.",
+        "Free version as a lead magnet if paid sales stall (the input's pivot).",
+        "Desktop wallpaper size from the same files.",
+        "Reuse the bear character and calendar template for future monthly or 'meme from the future' wallpaper packs (a different product, judged on its own)."
+      ],
+      "asymmetry": {
+        "downside": "About 5 hours and $0 cash. The answer comes by Nov 4, roughly 3 weeks after launch.",
+        "upside": "Zero marginal cost and instant delivery during the one month the joke pays off; Etsy search for the phrase brings some traffic without an audience; one video that takes off can carry the whole test. The bear and template are reusable.",
+        "badBetIf": "Attention already peaked in September and November passes quietly, or you cannot post consistently from Oct 25 to Nov 3. The upside is capped by a $3 price and a hard Nov 30 end, so this is a cheap lottery ticket, asymmetric only because the cost is a few hours."
+      },
+      "risks": [
+        "Takedowns if the bear looks like the viral AI image or if listings or videos reference the song or musician.",
+        "Using the viral audio in your own videos invites muting or takedowns; use your own voice or commercial-library sounds.",
+        "Nov 3, 2026 is a US election day; any political joke can make the product feel sensitive.",
+        "TikTok bio links may be restricted for small personal accounts; plan to send viewers to the Etsy shop name or your Instagram bio.",
+        "Hard deadline: anything not sold by Nov 30 is worthless.",
+        "A larger seller or brand could flood the November moment."
+      ],
+      "source": "written"
+    },
+    {
+      "index": 1,
+      "themeKey": "Die-cut sticker of an original polar bear balancing on its f",
+      "productName": "'I Remembered. November 2026.' Original Polar Bear Sticker",
+      "superPrompt": "You are a sticker designer and meme copywriter. Produce the complete, print-ready design spec for a die-cut sticker of an original cartoon polar bear balanced on its front paws, captioned \"I remembered. November 2026.\", plus one alternate caption version, for print-on-demand sale.\n\nBUYER AND JOB\nMeme-literate US teens and young adults who know the \"Remember November 2026\" meme (a \"meme from the future\" that points at a month with nothing in it). They decorate laptops, water bottles and phone cases. The sticker's job: a cheap, giftable in-joke that stays funny all through November because it is the post-payoff punchline, not the \"coming\" framing that expires on Nov 1.\n\nDELIVERABLE SPEC\n- Version A caption: \"I remembered. November 2026.\"\n- Version B caption: \"Remember November 2026 - I still don't get it\"\n- Also write 10 alternate captions of 6 words or fewer that work after Nov 1, ranked by how quickly they read on a laptop lid.\n- Composition: bear doing a handstand on its front paws, centered; caption on two lines, either arched above or in a speech-bubble banner beneath; the whole design inside one closed silhouette for die cutting.\n- Bear (original; must look nothing like the viral AI image): flat 2D cartoon, round chunky body, thick rounded outlines, dot eyes, tiny mint scarf; no photorealism, no fur texture.\n- Cut border: a solid Snow white offset of 0.125 in (about 38 px at 300 DPI) around the whole silhouette, with no thin spikes or gaps narrower than 0.0625 in.\n- Sizes and files: 3 x 3 in (900 x 900 px), 4 x 4 in (1200 x 1200 px), 5.5 x 5.5 in (1650 x 1650 px) at 300 DPI, transparent PNG; plus a 3000 x 3000 px transparent master for single-sticker marketplaces.\n- Readability: caption readable at the 3 in size from about 1 m; minimum cap height 0.15 in at 3 in.\n\nSTYLE\nPalette: Snow #F4F7FA (bear body, border), Arctic Night #0E1A2B (outlines, caption text), Ice Blue #A9D6E5 (shading), Signal Yellow #FFD23F (banner fill), Scarf Mint #7ED3B2. Font: Fredoka Bold for the caption (free for commercial use), with Nunito ExtraBold as a fallback. Give exact sizes, line breaks, letter case and stroke weights.\n\nCONTENT REQUIREMENTS\n- Original wording; deadpan tone; no profanity; nothing political (Nov 3, 2026 is a US election day) and no references to real people or events. Reading level: grade 3-5.\n- Accuracy: spell \"November 2026\" identically in both versions; confirm all files are square, 300 DPI and transparent, and the border is continuous.\n\nDIFFERENTIATION\nCompetitors copy the AI bear onto apparel with \"is coming\" text. This uses original art and the after-the-fact punchline, and it matches the \"Do You Understand Yet?\" wallpaper bear so the two can be bundled.\n\nCONSTRAINTS\n- Do not describe, trace or recreate the viral AI polar-bear image or video frames.\n- No musician names, song titles, lyrics or melodies; never use the phrase \"life goes on\".\n- No trademarks or brand names.\n\nOUTPUT FORMAT\n1. Layer-by-layer spec for Version A and Version B (bear, banner, text, border) with sizes and hex colors.\n2. Export list (file names and pixel sizes).\n3. The 10 ranked alternates.\n4. Canva build steps (7 or fewer), including how to add the white offset border.\n5. A ticked self-check: both captions exact; bear is an original flat cartoon; continuous 0.125 in border; files square, 300 DPI, transparent; nothing political; no song, musician or brand.",
+      "imagePrompts": [
+        {
+          "tool": "ChatGPT images or Midjourney (reuse the wallpaper pack's handstand pose if you a",
+          "purpose": "Sticker bear art: handstand on front paws",
+          "prompt": "Original cartoon mascot: a round, chunky polar bear drawn as flat 2D vector art with thick rounded Arctic Night #0E1A2B outlines, body Snow #F4F7FA, tiny dot eyes, soft Ice Blue #A9D6E5 shading, a small Scarf Mint #7ED3B2 scarf. Pose: a wobbly handstand on its front paws, back legs in the air, deadpan expression. Full body, centered, wide padding so a caption fits above or below. Square 1:1. Transparent background, or solid pure white #FFFFFF if transparency is not available. Simple sticker style; not photorealistic, no fur texture. No text, no letters. No logos, no real people, no trademarked characters, no watermarks."
+        },
+        {
+          "tool": "Midjourney or ChatGPT images",
+          "purpose": "Laptop mockup background for listing photos (sticker placed in Canva)",
+          "prompt": "Closed plain matte grey laptop lid on a light wooden desk, top-down view, a reusable water bottle and a phone beside it, soft daylight, photographic. Empty area in the center-right of the lid for placing a sticker later. Vertical 4:5, solid scene background. No device logos (lid completely plain), no existing stickers, no text, no hands. No logos, no real people, no trademarked characters, no watermarks."
+        }
+      ],
+      "assembly": [
+        "Run the super prompt; generate (or reuse) the handstand bear and check it reads as an original flat cartoon, not the viral image.",
+        "In Canva create a 3000 x 3000 px design; place the bear, the yellow banner and the caption in Fredoka Bold for Version A; duplicate for Version B.",
+        "Group everything, then add the white cut border: export the group as a transparent PNG, re-upload it, and apply Edit > Shadows > Outline in Snow white at a size equal to about 0.125 in (Canva Pro needed for transparent PNG export). Check that the outline is continuous with no thin gaps.",
+        "Export transparent PNGs at 3000 x 3000 px (master) plus 900, 1200 and 1650 px squares.",
+        "In Printify (connected to Etsy) create kiss-cut sticker products in 3 x 3 in and 4 x 4 in for both versions; publish to Etsy and confirm the print provider is listed as a production partner; state clear production and delivery times and an 'order by' date for delivery in November.",
+        "Upload both versions to Redbubble as stickers from the 3000 px master (by Oct 15, per the input's test).",
+        "Place the sticker on the laptop mockup for listing photos; order one sample only if it can arrive before Oct 25."
+      ],
+      "listingPrompt": "You are an Etsy SEO copywriter for meme stickers. Write the Etsy listing for my print-on-demand kiss-cut sticker \"I remembered. November 2026.\" (I will reuse it for Version B: \"Remember November 2026 - I still don't get it\").\nProduct facts (use only these; mark anything missing as [CHECK]): original cartoon polar bear doing a handstand, deadpan caption, white border; sizes 3 x 3 in and 4 x 4 in; [PASTE PROVIDER SPECS: material, finish, indoor/outdoor use]; made to order by my print partner; production [PROCESSING DAYS]; US delivery [SHIPPING DAYS]; order-by date for November delivery [ORDER BY DATE]. The art is original and not the viral image.\nBuyer: US teens and young adults who follow the \"Remember November 2026\" meme and decorate laptops and water bottles.\n\nWrite:\n1. Title under 140 characters starting with the buyer's search phrase \"Remember November 2026\", then sticker, polar bear, meme, laptop sticker. No ALL CAPS.\n2. Exactly 13 Etsy tags, each 20 characters or fewer including spaces, character count after each.\n3. Description: two deadpan opening lines; \"What you get\" bullets; sizes; material and care (from specs only); production and shipping with the order-by date in bold; a 4-question FAQ (Will it arrive in November? Is this the viral bear? - no, original art; Is it waterproof? - from specs only or [CHECK]; Is there a wallpaper to match?).\n4. One line stating the illustration was created with the help of AI tools and finished by [YOUR SHOP NAME].\nRules: never mention any musician, song title, lyrics or the audio used in the viral bear video, and never use the phrase 'life goes on'; never describe the product as the viral or AI bear; no trademarked terms or brand names (no laptop, bottle or phone brands) in the title, tags or description; nothing political; do not invent reviews, sales or claims about how popular the meme is.",
+      "pricing": {
+        "recommended": 4.5,
+        "low": 3.5,
+        "high": 6,
+        "currency": "USD",
+        "rationale": "Meme stickers sell as cheap impulse buys; $4.50 plus buyer-paid shipping keeps it near what the competitors' stickers likely charge (estimate; check comparables). Free shipping is not viable at this price because print-on-demand shipping alone costs about as much as the sticker.",
+        "basis": "estimate: at $4.50 plus shipping charged at roughly cost, margin is roughly $1.50-2 per sticker after an estimated $2 ba"
+      },
+      "costs": {
+        "provider": "Printify (US print provider connected to Etsy)",
+        "item": "Kiss-cut sticker, 3 x 3 in (4 x 4 in variant)",
+        "baseCost": 2,
+        "shipping": 4,
+        "pages": null,
+        "basis": "estimate: verify in the provider catalog. A 3 x 3 in kiss-cut sticker is assumed at roughly $1.70-2.50 base and roughly $4 first-item US shipping (additional items cheaper). Etsy charges a $0.20 listi",
+        "testBudget": 0,
+        "testBudgetNote": "No ads: with a Nov 12 stop date and about $2 margin, ads cannot pay back. A sample (roughly $6 with shipping, estimate) is optional and only worth ordering if it arrives before the Oct 25 push."
+      },
+      "platforms": [
+        {
+          "name": "Etsy",
+          "role": "primary",
+          "why": "Etsy shows searches for 'Remember November 2026' products and Printify handles printing and shipping."
+        },
+        {
+          "name": "Redbubble",
+          "role": "secondary",
+          "why": "Zero-admin sticker marketplace already carrying some 2026 polar-bear designs; upload once and let it sit."
+        },
+        {
+          "name": "TikTok",
+          "role": "traffic",
+          "why": "Show the sticker inside the wallpaper pack's meme videos rather than making separate posts."
+        }
+      ],
+      "marketing": {
+        "positioning": "The punchline after the countdown: an original polar bear sticker for people who were warned about November 2026 and showed up anyway.",
+        "launchPlan": [
+          {
+            "day": "Day 0 (Mon Oct 12)",
+            "action": "Run the super prompt; generate or reuse the handstand bear; build Versions A and B."
+          },
+          {
+            "day": "Day 1 (Tue Oct 13)",
+            "action": "Create Printify kiss-cut sticker products for both versions and publish to Etsy with a clear order-by date; upload both to Redbubble."
+          },
+          {
+            "day": "Day 2 (Wed Oct 14)",
+            "action": "Order one sample only if it can arrive before Oct 25; otherwise rely on mockups."
+          },
+          {
+            "day": "Day 3-12 (Oct 15-24)",
+            "action": "Add the sticker to the wallpaper pack's teaser videos (sticker on a laptop lid in the final shot)."
+          },
+          {
+            "day": "Day 13 (Sun Oct 25)",
+            "action": "Main push with the meme videos (Oct 25-Nov 3); mention 'order by [date] to get it in November'."
+          },
+          {
+            "day": "Day 20 (Sun Nov 1)",
+            "action": "Nov 1 post: 'I remembered.' with the sticker as the payoff."
+          },
+          {
+            "day": "Day 24 (Thu Nov 5)",
+            "action": "Go/pivot check (Nov 5): continue if either version has 5+ sales; if favorites but no sales, give the sticker art away as a free digital bonus with the wallpaper pack."
+          },
+          {
+            "day": "Day 31 (Thu Nov 12)",
+            "action": "Stop check (Nov 12): no sales means deactivate the Etsy listing, because print-on-demand delivery would now land after the joke expires."
+          },
+          {
+            "day": "Day 49 (Mon Nov 30)",
+            "action": "Nov 30: deactivate everything; remove or leave Redbubble listings as you prefer."
+          }
+        ],
+        "channels": [
+          {
+            "channel": "TikTok / Instagram Reels",
+            "tactic": "Sticker as the closing shot of the wallpaper pack's meme videos; 'order by' date in the caption.",
+            "cadence": "In every main-push video, Oct 25-Nov 3."
+          },
+          {
+            "channel": "Etsy",
+            "tactic": "Phrase-led title and tags; one listing per version to compare favorites and sales.",
+            "cadence": "Check stats every 2-3 days until Nov 12."
+          },
+          {
+            "channel": "Redbubble",
+            "tactic": "Upload once with phrase-led tags.",
+            "cadence": "One-time setup."
+          }
+        ],
+        "keywords": [
+          "remember november",
+          "polar bear sticker",
+          "november 2026",
+          "meme sticker",
+          "laptop sticker",
+          "funny sticker",
+          "i remembered",
+          "polar bear meme",
+          "water bottle sticker",
+          "2026 sticker",
+          "die cut sticker"
+        ],
+        "hooks": [
+          "It's November 2026. I remembered. Did you?",
+          "A sticker for people who were warned.",
+          "POV: you've been waiting since 2023 and it's just... November."
+        ]
+      },
+      "extensions": [
+        "Free digital version of the sticker as a bonus with the wallpaper pack.",
+        "Wallpaper-plus-sticker bundle photo on both listings.",
+        "Reuse the bear for a future 'meme from the future' product only if a new year's version catches on (a different product, judged on its own)."
+      ],
+      "asymmetry": {
+        "downside": "About 3 hours, plus an optional sample of roughly $6 (estimate). No inventory.",
+        "upside": "Small and capped: roughly $1.50-2 margin per Etsy sticker and cents on Redbubble (estimates), with sales possible only until about mid-November because of delivery times.",
+        "badBetIf": "You make it as a standalone bet. Thin margins, a hard deadline and print-on-demand shipping lag mean it is not asymmetric on its own; it is worth 3 hours only because it reuses the wallpaper bear and rides the same videos. No sales by Nov 5 is the signal to stop."
+      },
+      "risks": [
+        "Print-on-demand delivery can push orders past Nov 30, leading to complaints and refunds; show an order-by date.",
+        "Takedowns if the bear resembles the viral image or listings reference the song or musician.",
+        "Thin margin: shipping costs about as much as the sticker.",
+        "Competitors with apparel already rank for the phrase.",
+        "Political sensitivity around the Nov 3 election; keep the caption apolitical."
+      ],
+      "source": "written"
+    }
+  ],
+  "writtenAt": "2026-10-04T23:10:37Z",
+  "source": "written"
+}

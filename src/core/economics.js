@@ -148,16 +148,22 @@ export function productEconomics(product, playbook, table, priceOverride) {
   let keys = [...new Set(named.map((x) => channelKey(x.name)).filter(Boolean))];
   if (!keys.length) keys = product?.fulfillment === 'pod' ? ['etsy'] : ['etsy', 'gumroad'];
   const pages = Number(playbook?.costs?.pages) || 120;
-  const rows = price ? keys.map((k) => channelEconomics(k, { price, cost, table, pages })).filter(Boolean) : [];
+  // Journals, planners and ebooks sell as a printable/digital file everywhere except KDP,
+  // where Amazon prints the paperback and deducts its own print cost.
+  const paper = ['journal', 'planner', 'ebook'].includes(product?.format);
+  const DIGITAL = { base: 0, shipping: 0, basis: 'digital', item: null };
+  const costFor = (k) => (paper && k !== 'kdp' ? DIGITAL : cost);
+  const rows = price ? keys.map((k) => channelEconomics(k, { price, cost: costFor(k), table, pages })).filter(Boolean) : [];
   const notModeled = keys.includes('marketplace_pod');
   const primaryName = named.find((x) => x.role === 'primary')?.name;
   const primary = rows.find((r) => r.channel === channelKey(primaryName)) || rows[0] || null;
   const testBudget = Math.max(0, Number(playbook?.costs?.testBudget) || 0);
-  const sample = cost.basis === 'digital' ? 0 : (cost.base || 0) + (cost.shipping || 0);
+  const primaryCost = costFor(primary?.channel || keys[0]);
+  const sample = primaryCost.basis === 'digital' || primary?.channel === 'kdp' ? 0 : (primaryCost.base || 0) + (primaryCost.shipping || 0);
   const listing = keys.includes('etsy') ? fee(table, 'etsy_listing_fee') : 0;
   const cashAtRisk = round2(testBudget + sample + listing);
   const breakEven = primary && primary.net != null && primary.net > 0 ? Math.max(1, Math.ceil(cashAtRisk / primary.net)) : null;
-  return { price, cost, rows, primary, notModeled, cashAtRisk, testBudget, sample: round2(sample), listing, breakEven, pages };
+  return { price, cost: primaryCost, podCost: cost, rows, primary, notModeled, cashAtRisk, testBudget, sample: round2(sample), listing, breakEven, pages, paper };
 }
 
 const HOURS_BY_EFFORT = { low: 6, medium: 14, high: 30 };

@@ -11,7 +11,14 @@ const files = (await readdir(`${root}research/playbooks`)).filter((f) => /^out-.
 const outDir = `${root}research/seed/playbooks`;
 await rm(outDir, { recursive: true, force: true });
 await mkdir(outDir, { recursive: true });
-const table = feeTable(null, {});
+let verifiedFees = null;
+try {
+  const f = JSON.parse(await readFile(`${root}research/live/config/fees.json`, 'utf8'));
+  verifiedFees = f.data || f;
+} catch {
+  /* no verification run saved locally */
+}
+const table = feeTable(verifiedFees, {});
 const writes = [];
 const problems = [];
 let count = 0;
@@ -38,7 +45,7 @@ for (const f of files) {
       }
       if (clean.superPrompt.split(/\s+/).length < 200) problems.push(`${pbDoc.candidateId}#${p.index}: super prompt is short (${clean.superPrompt.split(/\s+/).length} words)`);
       if (clean.pricing.recommended == null) problems.push(`${pbDoc.candidateId}#${p.index}: no recommended price`);
-      if (product.fulfillment === 'pod' && (clean.costs.baseCost == null || clean.costs.shipping == null)) problems.push(`${pbDoc.candidateId}#${p.index}: POD product without base cost or shipping`);
+      if (product.fulfillment === 'pod' && !['journal', 'planner', 'ebook'].includes(product.format) && (clean.costs.baseCost == null || clean.costs.shipping == null)) problems.push(`${pbDoc.candidateId}#${p.index}: POD product without base cost or shipping`);
       products.push(clean);
       const candDoc = { scores: { durability: { score: cand.durabilityScore } }, window: cand.window };
       const econ = productEconomics(product, clean, table);

@@ -127,3 +127,16 @@ test('ingest files worker-written playbooks next to the candidate', () => {
   assert.equal(pb.data.products[0].superPrompt, 'Make it');
   assert.equal(pb.data.products[0].themeKey, 'A printable');
 });
+
+test('journals: digital on Etsy/Gumroad, paperback on KDP', () => {
+  const product = { format: 'journal', fulfillment: 'pod', effortHours: 10 };
+  const pb = cleanPlaybookProduct({ superPrompt: 'x', pricing: { recommended: 10.99 }, platforms: [{ name: 'Amazon KDP', role: 'primary' }, { name: 'Etsy', role: 'secondary' }] });
+  const e = productEconomics(product, pb, table);
+  const kdp = e.rows.find((r) => r.channel === 'kdp');
+  const etsy = e.rows.find((r) => r.channel === 'etsy');
+  assert.equal(e.primary.channel, 'kdp');
+  assert.ok(kdp.net > 0 && kdp.cost > 0);
+  assert.equal(etsy.unknownCost, false);
+  assert.equal(etsy.cost, 0);
+  assert.equal(e.sample, 0);
+});

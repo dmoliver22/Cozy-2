@@ -1,0 +1,336 @@
+{
+  "id": "needlepoint-revival",
+  "candidateId": "needlepoint-revival",
+  "products": [
+    {
+      "index": 0,
+      "themeKey": "Needlepoint project journal and canvas stash log (printable",
+      "productName": "Stitch Log: Needlepoint Project Journal & Canvas Stash Tracker",
+      "superPrompt": "You are a stationery designer who understands needlepoint. Produce the complete interior for a stylish needlepoint project journal and canvas stash log.\n\nBUYER AND JOB\nNewer needlepoint stitchers (mostly Gen Z and younger millennial women) whose canvas and thread stash is outgrowing their memory, plus friends buying them a gift. Job: one place for every canvas (designer, size, mesh, kitted, price), every thread by brand and color number, project notes, what is at the finisher and when it's due back, and 2027 goals. Apps exist; this is for stitchers who prefer paper.\n\nDELIVERABLES (same content, two builds)\nA) KDP paperback interior: 6 x 9 in, no bleed, exactly 120 pages, inside margin 0.75 in, other margins 0.5 in, black ink only (patterns rendered in grays).\nB) Printable PDF: US Letter and A4, portrait, 0.5 in (13 mm) margins, full color, plus a \"print extra\" pack (one inventory page, one thread page, one 3-page project set, one finisher page).\n\nPAGE LIST (KDP numbering)\n1 Title: \"[YOUR SHOP NAME] Stitch Log: Needlepoint Project Journal & Canvas Stash Tracker\", \"This stash belongs to ____\".\n2 How to use (max 120 words) and a glossary: mesh count, kitted, stitch guide, tent stitch (continental, basketweave), finisher, self-finishing, stash. One accurate sentence each; no invented history or statistics.\n3 2027 stitch goals: goal lines, \"canvases I will finish\", \"techniques I want to try\" (blank), Jan-Dec finish boxes to color in.\n4-5 Year at a glance: month | started | finished | sent to finisher | back from finisher.\n6-17 Canvas inventory as 6 two-page spreads, 12 rows each (72 canvases). Left page: # | canvas name | designer | size (in) | mesh. Right page: kitted Y/N | stitch guide Y/N | price | where/when bought | status (stash / WIP / done / at finisher).\n18-27 Thread stash, 18 rows per page: fiber (wool, cotton, silk, metallic, blend) | brand | color number | color name | qty | for which canvas | reorder checkbox.\n28-29 Wish list (canvas, designer, shop, price, priority) and shopping list.\n30-89 Twenty project sets x 3 pages: (a) overview: canvas, designer, size, mesh, start, target finish, finishing-plan checkboxes (ornament, pillow, stocking, framed, insert, self-finish, undecided), thread table (color number | fiber | used for | qty) x 14 rows; (b) stitch notes: area | stitch | thread | notes x 12 rows, 2 x 2 in sketch box; (c) progress: date | time | area worked x 12 rows, \"finished on\", \"what I learned\".\n90-93 Finisher tracker, 12 rows per page: piece | finisher | finishing type | date sent | finisher's cutoff or quote date | quoted cost | expected back | received checkbox.\n94-95 Holiday finishing planner: piece | stitching done by | send-by date (from my finisher) | gift for | status; note \"Ask your finisher for their holiday cutoff.\"\n96-99 Stitch-night and shop log: date | where / with whom | worked on | notes.\n100-101 Chart-your-own grids at true scale: 13 squares per inch and 18 squares per inch.\n102-103 Year-in-review prompts.\n104-120 Dot-grid notes.\n\nDESIGN\nPreppy-modern. Palette \"Stitch Club\": Cream #FBF6EE, Bow Pink #F4B6C2, Kelly #2F8F5B, Cobalt #2E4F9E, Ink #2A2A33. Fonts: DM Serif Display (headings), Montserrat (body 9.5-10.5 pt, table labels 8 pt caps). Motifs: original gingham borders, bows, scissors, needle and thread, scalloped headers. KDP interior converts the palette to grays. Rows at least 0.28 in tall.\n\nCONTENT RULES\nOriginal wording, warm and a little witty, grade 7 reading level. Leave brand, designer and color columns blank: print no thread-brand names, color charts, designer names or shop names. No reproductions of hand-painted canvas designs or paid stitch guides. No claims about stress, anxiety, mental health or other benefits. No celebrity names.\n\nDIFFERENTIATION\nCross-stitch planners track fabric count and floss. This journal follows the needlepoint workflow (mesh, kitted status, stitch guides, finishers, holiday finishing dates), styled for a younger, preppy audience.\n\nOUTPUT FORMAT\n1) KDP page table: page | title | elements | columns | rows | layout notes. 2) Printable differences (orientation, color, print-extra pack). 3) Final text for pages 1-3, 94-95 and 102-103, plus a 120-word back-cover blurb with no claims. 4) Repeat map of master pages.\nSelf-check, fixing failures before answering: [ ] exactly 120 KDP pages; [ ] inventory spreads hold 72 canvases; [ ] all brand, designer and color fields blank; [ ] glossary accurate and simple; [ ] no benefit claims; [ ] Letter and A4 both specified.",
+      "imagePrompts": [
+        {
+          "tool": "Ideogram",
+          "purpose": "Front cover for the KDP paperback and Etsy thumbnail",
+          "prompt": "Preppy-modern journal cover, portrait 2:3, at least 1800 x 2700 px. Bow Pink #F4B6C2 and Cream #FBF6EE gingham background; a centered Cream scalloped label framed in Kelly #2F8F5B, topped with an original illustrated Cobalt #2E4F9E bow; a threaded needle draws a looping thread around the label. Flat vector, crisp edges. Render this text exactly in an elegant high-contrast serif: \"Stitch Log\"; beneath it in small caps sans-serif: \"NEEDLEPOINT PROJECT JOURNAL & CANVAS STASH TRACKER\". Negatives: no painted canvas designs, no designer artwork, no brand names, no logos, no real people, no trademarked characters, no watermarks, no other text. If letters render wrong, regenerate without text and set type in Canva (DM Serif Display + Montserrat)."
+        },
+        {
+          "tool": "Midjourney",
+          "purpose": "Seamless gingham pattern tile for borders and backgrounds",
+          "prompt": "seamless repeating gingham pattern, bow pink #F4B6C2 and cream #FBF6EE checks, tiny kelly green #2F8F5B bows scattered every few squares, flat vector, crisp edges, even spacing --tile --ar 1:1 --no text, letters, logos, watermark, people, trademarked characters"
+        },
+        {
+          "tool": "ChatGPT images",
+          "purpose": "Decorative motif set for page headers",
+          "prompt": "Set of 12 small original decorative motifs on a transparent background, 1:1, 2048 x 2048 px, even grid: bow, embroidery scissors, threaded needle, thread skein with a blank band, pincushion, a square of blank needlepoint mesh, small stocking outline, round ornament outline, heart, scallop border piece, thimble, star. Flat vector, consistent 4 px Ink #2A2A33 outline, fills in Bow Pink #F4B6C2, Kelly #2F8F5B and Cobalt #2E4F9E. No text, no brand labels, no painted canvas designs, no logos, no real people, no trademarked characters, no watermarks."
+        },
+        {
+          "tool": "ChatGPT images",
+          "purpose": "Lifestyle mockup for listing photos",
+          "prompt": "Photorealistic flat-lay, 4:5 portrait, on a cream linen tablecloth: an open printed journal with blank pages, a blank unpainted needlepoint canvas on stretcher bars, three unlabeled thread skeins in pink, green and blue, small gold scissors and a cup of tea. Soft morning light. Leave the journal pages blank for overlay in Canva. No painted designs on the canvas, no brand labels, no people, no hands, no text, no logos, no trademarked characters, no watermarks."
+        }
+      ],
+      "assembly": [
+        "Before building (15 minutes): search Etsy for 'needlepoint journal' and 'needlepoint stash tracker' and note how many needlepoint-specific (not cross-stitch) results appear and their price range. Proceed unless the first pages are full of near-identical products.",
+        "Run the super prompt. In Canva create a 6 x 9 in design (KDP) and an 8.5 x 11 in design (printable); add margin guides (0.75 in gutter and 0.5 in elsewhere for KDP; 0.5 in all round for Letter).",
+        "Build one master of each repeating page (inventory spread, thread page, 3-page project set, finisher page, dot grid) using Canva tables, the gingham tile and motifs; duplicate per the repeat map until KDP has exactly 120 pages. Keep the KDP file grayscale.",
+        "Build the 13- and 18-squares-per-inch chart grids at true scale, print one test page at 100% and measure with a ruler.",
+        "Export PDF Print (Flatten PDF on, no crop marks). Duplicate and resize the printable to A4 (210 x 297 mm) and export, then export the print-extra pack. Keep each file under Etsy's 20 MB limit (verify).",
+        "Etsy listing images at least 2000 px wide: cover mockup, inventory spread, thread stash page, project set, finisher tracker, 'what's inside' grid and a sizes/formats graphic. No designer canvases may appear in any photo.",
+        "List the printable at $8. Only after the Dec 10 check passes: download KDP's cover template for 6 x 9 in, 120 pages, white paper, build the wrap in Canva, export PDF Print, upload as a paperback (black & white interior, no bleed) and order a proof."
+      ],
+      "listingPrompt": "You are an Etsy SEO copywriter. Write the Etsy listing for a printable needlepoint project journal and canvas stash tracker.\nProduct facts: [PASTE THE PAGE TABLE FROM THE SUPER PROMPT OUTPUT]. Files: US Letter and A4 PDFs (120 pages each) plus a print-extra pack. Instant digital download; nothing is shipped. Preppy pink, green and cobalt design.\nProduce:\n1. A title under 140 characters starting with \"Needlepoint Journal Printable\" or \"Needlepoint Stash Tracker\", then canvas inventory, thread log, finisher tracker, gift for stitchers. Show the count.\n2. Exactly 13 tags of 20 characters or fewer, with counts (ideas: needlepoint journal, needlepoint gift, canvas stash log, stitch tracker, needlepoint planner, thread inventory, finishing tracker, stitching gift, craft journal, project tracker, preppy printable, hobby planner, stitch log).\n3. A description: hook; what's included (bulleted page list); file formats and sizes (PDF, Letter 8.5x11 in and A4); how delivery works (download from Etsy Purchases after payment, print at home or at a print shop, reprint the extra pages any time); who it's for (stitchers and gift-givers); a 5-question FAQ: Is this a physical journal? (No, a printable PDF; a paperback may follow.) Does it work for cross-stitch? (It's built for needlepoint fields like mesh and kitted status.) Can I use it digitally? (Yes, in a PDF annotation app.) Can I print it more than once for myself? (Yes, personal use.) Refunds? [YOUR DIGITAL-FILE POLICY].\n4. Alt text for 5 images.\nRules: no thread, canvas or tool brand names; no designer or shop names; no celebrity names; nothing implying it reduces stress or improves health; plain, warm US English.",
+      "pricing": {
+        "recommended": 8,
+        "low": 6,
+        "high": 12,
+        "currency": "USD",
+        "rationale": "The input's $8 test price: above generic cross-stitch printables because of needlepoint-specific fields, well below a paperback journal. Paperback later at an estimated $12.99 (range $10.99-14.99).",
+        "basis": "estimate; competitor prices and Etsy volume were not measured in the research"
+      },
+      "costs": {
+        "provider": "Etsy (digital PDF) now; Amazon KDP paperback after the Dec 1",
+        "item": "Printable PDF; later 6x9 in black-ink paperback, 120 pages",
+        "baseCost": 2.44,
+        "shipping": null,
+        "pages": null,
+        "basis": "estimate: verify in the provider catalog. KDP print cost estimated at about $1.00 + $0.012 per page for 120 black-ink pages (about $2.44); confirm with KDP's printing cost calculator. Amazon ships cus",
+        "testBudget": 14,
+        "testBudgetNote": "Optional Etsy Ads at $1/day for 14 days from Day 14, only if organic views are arriving but slowly. Pinterest is the main free test."
+      },
+      "platforms": [
+        {
+          "name": "Etsy",
+          "role": "primary",
+          "why": "Craft printables and stitcher gifts are bought here; the input's test runs at $8."
+        },
+        {
+          "name": "Amazon KDP",
+          "role": "secondary",
+          "why": "Paperback for gift buyers and January goals once the printable shows demand."
+        },
+        {
+          "name": "Pinterest",
+          "role": "traffic",
+          "why": "Strongest free source for printables with no audience; organization and craft-room pins fit."
+        },
+        {
+          "name": "Instagram",
+          "role": "traffic",
+          "why": "Stitch-night flat-lays and 'filling in my stash log' Reels reach the younger stitchers driving the revival."
+        }
+      ],
+      "marketing": {
+        "positioning": "The stash log made for needlepoint, not cross-stitch: mesh, kitted status, stitch guides and finisher dates in one preppy journal.",
+        "launchPlan": [
+          {
+            "day": "Day 0",
+            "action": "Mon Nov 9, 2026 (no later than the input's Nov 10). List the printable on Etsy at $8 with 6+ photos; list the stitch-night kit the same day and cross-link."
+          },
+          {
+            "day": "Day 1",
+            "action": "Set up a Pinterest business account with 3 boards (needlepoint organization, stitch night ideas, gifts for stitchers); publish pins 1-3."
+          },
+          {
+            "day": "Day 2",
+            "action": "Instagram post 1: stitch-night flat-lay with the journal open at the inventory spread (blank canvas or your own work only)."
+          },
+          {
+            "day": "Day 5",
+            "action": "Pins 4-7; Instagram post 2: Reel filling in the thread stash page."
+          },
+          {
+            "day": "Day 9",
+            "action": "Pins 8-10; Instagram post 3: finisher tracker and holiday finishing planner."
+          },
+          {
+            "day": "Day 14",
+            "action": "Review Etsy stats: if views but few favorites, change the first photo; optionally start Etsy Ads at $1/day for 14 days."
+          },
+          {
+            "day": "Day 21",
+            "action": "Mon Nov 30 early read alongside the stitch-night kit check; draft KDP files only if trending toward the target."
+          },
+          {
+            "day": "Day 31",
+            "action": "Thu Dec 10 check: continue if at least 5 sales or at least 400 views with 30+ favorites, then publish the KDP paperback for January goals. Pivot if views without sales: a $4 stash-tracker-only version or a bundle with the stitch-night kit. Stop if under 100 views."
+          }
+        ],
+        "channels": [
+          {
+            "channel": "Pinterest",
+            "tactic": "Page-preview and flat-lay pins linking to Etsy; holiday 'gift for stitchers' angle",
+            "cadence": "10 pins in the first 10 days, then 3 per week"
+          },
+          {
+            "channel": "Instagram",
+            "tactic": "Flat-lays and short Reels of filling in pages; never show designer canvases",
+            "cadence": "2 posts per week plus Stories"
+          },
+          {
+            "channel": "Needlepoint subreddits and Facebook groups",
+            "tactic": "Join stash-organization conversations; share only where allowed (check the community rules)",
+            "cadence": "At most 1 post per week"
+          },
+          {
+            "channel": "Etsy",
+            "tactic": "Photo and title tweaks from stats; cross-link with the stitch-night kit",
+            "cadence": "Weekly"
+          }
+        ],
+        "keywords": [
+          "needlepoint journal",
+          "needlepoint stash",
+          "canvas inventory",
+          "needlepoint gift",
+          "stitch log printable",
+          "thread inventory",
+          "needlepoint planner",
+          "finishing tracker",
+          "craft project log",
+          "stitcher gift"
+        ],
+        "hooks": [
+          "Where do you track 40 canvases? Not in your camera roll.",
+          "Mesh, kitted, stitch guide, finisher: the four columns every stash log needs.",
+          "POV: you finally know which canvases are at the finisher.",
+          "Gift idea for the friend who keeps buying canvases.",
+          "Holiday ornaments to finish? Here's the send-by planner."
+        ]
+      },
+      "extensions": [
+        "$4 stash-tracker-only printable (the input's pivot)",
+        "Bundle with the Stitch Night Host Kit",
+        "KDP paperback in January, then an undated version",
+        "Hyperlinked digital-planner PDF for tablet users",
+        "Holiday ornament-season planner insert sold separately each autumn",
+        "Stitch-club multi-copy license for shops running weekly clubs"
+      ],
+      "asymmetry": {
+        "downside": "About 12 hours and $0-14 (optional ads). The answer arrives by Dec 10, about 4 weeks after listing.",
+        "upside": "Zero marginal cost on the PDF; no-inventory paperback later; the hobby wave has run since 2024 and the product is evergreen after the holidays; repeat gift seasons and New-Year goals; easy bundles and inserts.",
+        "badBetIf": "Etsy is already full of needlepoint journals (not checked; do the 15-minute search first), free apps absorb the organizing need, or the youth wave cools before January. A fair asymmetric bet if the search shows room."
+      },
+      "risks": [
+        "Etsy saturation with needlepoint journals was not measured",
+        "Free tracking apps may cover the need for younger, phone-first stitchers",
+        "The finishing-deadline need is an unverified assumption about the hobby",
+        "Listing photos showing designers' painted canvases would infringe their art",
+        "Thread-brand names or color charts creeping into pages create trademark/copyright issues",
+        "Holiday gift timing is tight for a Nov 9 listing; Pinterest pins take weeks to gain traction"
+      ],
+      "source": "written"
+    },
+    {
+      "index": 1,
+      "themeKey": "Stitch-night host kit: invitation, sign-in sheet, name tags,",
+      "productName": "Stitch Night Host Kit: Printable Needlepoint Party Set",
+      "superPrompt": "You are a party-printables designer and playful copywriter. Produce a complete, print-ready stitch-night host kit for needlepoint gatherings.\n\nBUYER AND JOB\nHosts of home or shop stitch nights: friends who meet to stitch canvases, show their projects, swap canvases and snack. Job: make inviting, welcoming and swapping easy so the night feels like a club. Built for needlepoint specifically (canvas swaps, project cards with mesh and finishing plans), not a generic party set.\n\nDELIVERABLES (each piece in a US Letter 8.5 x 11 in and an A4 210 x 297 mm layout, 0.25 in / 6 mm printer-safe margin, light dashed 0.5 pt cut lines)\n1. Invitation, 5 x 7 in (127 x 178 mm), 2 per landscape page. Three wording versions: cozy, preppy-witty, holiday canvas swap. Fields: date, time, place, host, RSVP, \"bring\" line.\n2. Sign-in sheet, full portrait page: name | contact or handle | what I'm stitching | open to swaps? Y/N, 20 rows.\n3. Name tags, 3.375 x 2.333 in (86 x 59 mm), 8 per portrait page: \"Hello, I'm ____ / Currently stitching ____\". Two designs.\n4. \"What I'm stitching\" cards, 3.5 x 5 in (89 x 127 mm), 4 per portrait page: canvas name, designer, mesh, stitches I'm trying, finishing plan, \"ask me about\".\n5. Canvas-swap tickets, 1.75 x 5 in (44 x 127 mm) including a 1.25 in (32 mm) stub, 8 per landscape page: \"No. ____\", canvas size and mesh lines on the ticket, name and number on the stub.\n6. Swap rules card, 5 x 7 in, 2 per landscape page: 6 original, fair, friendly rules (how tickets are drawn, label size and mesh, trade one for one, leave with what you brought if there's no match).\n7. Snack and drink menu, 3.75 x 9 in (95 x 229 mm), 2 per portrait page: 4 snack and 4 drink lines with original stitching-pun names (no brand names), plus a blank version.\n8. Host checklist page: before, during, after (good lighting, scissors, magnifier, spare needles, a bag for thread ends, music), all generic.\n9. Table sign, 5 x 7 in: \"Stitch Night\", plus a \"Swap Table\" variant.\n\nDESIGN\nPalette \"Stitch Club\": Cream #FBF6EE, Bow Pink #F4B6C2, Kelly #2F8F5B, Cobalt #2E4F9E, Ink #2A2A33. Fonts: DM Serif Display headings, Montserrat body, Dancing Script for at most one accent word per piece. Motifs: original gingham borders, bows, scissors, needle and thread, scalloped edges. Every piece must also read well printed in black and white.\n\nCONTENT RULES\nOriginal copy, playful but not cheesy, grade 6-7 reading level. No designer canvas art or paid stitch-guide content, no thread, snack or drink brand names, no celebrity names, no song lyrics. Leave designer fields blank. Any alcohol mention stays generic (\"something bubbly\").\n\nDIFFERENTIATION\nGeneric party printables have no swap tickets, project cards or fair swap system. This kit follows how stitch nights actually run: bring a project, show it off, trade canvases.\n\nOUTPUT FORMAT\nFor each piece: name | finished size | per-page layout for Letter and for A4 | exact text for every line (all versions) | layout and motif notes | color callouts. Then a short Canva build note listing which pieces share a master.\nSelf-check, fixing failures before answering: [ ] 9 pieces, each with Letter and A4 layouts that fit inside the margins; [ ] all text original; [ ] no brand, designer or celebrity names; [ ] swap rules clear and fair; [ ] cut lines specified.",
+      "imagePrompts": [
+        {
+          "tool": "Ideogram",
+          "purpose": "\"Stitch Night\" header wordmark used across all pieces",
+          "prompt": "Playful wordmark on a transparent background, wide 3:1, 3000 x 1000 px. Render this text exactly: \"Stitch Night\" in a high-contrast serif in Cobalt #2E4F9E, with a looping Kelly #2F8F5B thread underline that ends in a small needle and a tiny Bow Pink #F4B6C2 bow at the end of the thread. Flat vector, clean edges. No other text, no logos, no brand names, no real people, no trademarked characters, no watermarks."
+        },
+        {
+          "tool": "ChatGPT images",
+          "purpose": "Hero listing mockup (party table)",
+          "prompt": "Photorealistic overhead view, 4:3 landscape, of a cozy coffee table set for a craft night: blank printed cards and name tags (leave blank for overlay), a bowl of popcorn, a small cheese board, a plain teapot, unlabeled thread skeins in pink, green and blue, two blank unpainted needlepoint canvases, a vase of tulips. Warm evening lamp light, Cream #FBF6EE and Bow Pink #F4B6C2 tones. No people, no hands, no painted canvas designs, no text, no brand labels, no logos, no trademarked characters, no watermarks."
+        }
+      ],
+      "assembly": [
+        "Reuse the journal's gingham tile, motif set and palette so both products look like one shop.",
+        "Run the super prompt. In Canva create US Letter portrait and landscape designs plus A4 portrait and landscape designs; add 0.25 in (6 mm) margin guides.",
+        "Build each piece once at its finished size, then tile it on the page per the AI layout with 0.5 pt dashed cut lines. Print one test page of each at 100% scale and check sizes with a ruler.",
+        "Make the invitation, menu and table sign editable: Share > Template link (check that your Canva plan offers it and that every element is licensed for sharing), and paste the links into a 1-page 'Edit your kit' PDF.",
+        "Export two PDF Print files (Letter set, A4 set) plus the template-link PDF; keep each under 20 MB.",
+        "Listing images at least 2000 px wide: hero mockup with your pieces placed on the blank cards, swap tickets close-up, name tags, a 'what's included' grid with sizes.",
+        "List on Etsy at $6 and cross-link with the needlepoint journal."
+      ],
+      "listingPrompt": "You are an Etsy SEO copywriter. Write the Etsy listing for a printable stitch-night host kit for needlepoint gatherings.\nProduct facts: [PASTE THE PIECE LIST FROM THE SUPER PROMPT OUTPUT]: invitation (3 wordings), sign-in sheet, name tags, \"what I'm stitching\" cards, canvas-swap tickets, swap rules card, snack and drink menu, host checklist, table signs. Files: US Letter PDF, A4 PDF and a PDF with Canva template links for the editable pieces. Instant digital download; nothing is shipped.\nProduce:\n1. A title under 140 characters starting with \"Stitch Night Printable Kit\" or \"Needlepoint Party Printables\", then canvas swap tickets, craft night invitation. Show the count.\n2. Exactly 13 tags of 20 characters or fewer, with counts (ideas: stitch night, needlepoint party, craft night, canvas swap, stitch club, craft party invite, needlepoint gift, girls night craft, swap tickets, party printable).\n3. A description: hook; what's included with finished sizes; file formats (PDF, Letter 8.5x11 in and A4, Canva template links for editable pieces; a free Canva account is enough to edit); how delivery works (download from Etsy Purchases, print at 100% scale, cut on the dashed lines); a 4-question FAQ (Can I edit the text? Which paper should I use? Can I print it for every stitch night? Refunds? [YOUR DIGITAL-FILE POLICY]).\n4. Alt text for 4 images.\nRules: no thread, canvas, snack or drink brand names; no designer, shop or celebrity names; no song lyrics; plain, cheerful US English.",
+      "pricing": {
+        "recommended": 6,
+        "low": 5,
+        "high": 9,
+        "currency": "USD",
+        "rationale": "The input's $6 test price: in line with small party-printable sets; the needlepoint-specific swap and project pieces justify the top of a low range. Bundle with the journal at about $12.",
+        "basis": "estimate; competitor prices were not measured in the research"
+      },
+      "costs": {
+        "provider": null,
+        "item": null,
+        "baseCost": null,
+        "shipping": null,
+        "pages": null,
+        "basis": "estimate: verify in the provider catalog. Digital product with no production cost; Etsy fees (estimate): $0.20 listing, 6.5% transaction, about 3% + $0.25 payment processing.",
+        "testBudget": 0,
+        "testBudgetNote": "No ads; Pinterest and cross-selling with the journal carry the test."
+      },
+      "platforms": [
+        {
+          "name": "Etsy",
+          "role": "primary",
+          "why": "Party printables and craft gifts are bought here; same shop as the journal."
+        },
+        {
+          "name": "Pinterest",
+          "role": "traffic",
+          "why": "Hosts plan parties on Pinterest; invitations and swap tickets make strong pins."
+        },
+        {
+          "name": "Instagram",
+          "role": "traffic",
+          "why": "Stitch-night setup Reels fit the social core of the revival."
+        }
+      ],
+      "marketing": {
+        "positioning": "Everything a needlepoint stitch night needs, from invitations to canvas-swap tickets, in one printable kit.",
+        "launchPlan": [
+          {
+            "day": "Day 0",
+            "action": "Mon Nov 9, 2026, the same day as the journal. List the kit on Etsy at $6 and cross-link both listings."
+          },
+          {
+            "day": "Day 1",
+            "action": "3 pins: invitation, swap tickets, name tags."
+          },
+          {
+            "day": "Day 3",
+            "action": "Instagram Reel: setting up a stitch night in 30 seconds with the printed pieces (no people needed)."
+          },
+          {
+            "day": "Day 6",
+            "action": "3 more pins with a holiday angle: holiday stitch night, ornament swap."
+          },
+          {
+            "day": "Day 10",
+            "action": "Share the free swap-rules idea in a stitching community where resource posts are allowed (check the community rules)."
+          },
+          {
+            "day": "Day 14",
+            "action": "Review stats; swap the thumbnail if views are coming without clicks; create a journal + kit bundle listing."
+          },
+          {
+            "day": "Day 21",
+            "action": "Mon Nov 30 check: continue if at least 3 sales; pivot to a general 'craft night' kit for knitting and crochet groups if needlepoint is too narrow; stop if under 75 views in 21 days."
+          }
+        ],
+        "channels": [
+          {
+            "channel": "Pinterest",
+            "tactic": "Invitation, swap-ticket and table-setup pins; holiday party angle",
+            "cadence": "3 pins per week"
+          },
+          {
+            "channel": "Instagram",
+            "tactic": "Setup Reels and close-ups of the swap tickets",
+            "cadence": "1 Reel per week plus Stories"
+          },
+          {
+            "channel": "Stitching communities",
+            "tactic": "Hosting tips; share only where allowed (check the community rules)",
+            "cadence": "At most 1 post per week"
+          }
+        ],
+        "keywords": [
+          "stitch night",
+          "needlepoint party",
+          "craft night kit",
+          "canvas swap",
+          "stitch club",
+          "craft party invite",
+          "girls night craft",
+          "swap tickets",
+          "holiday craft party",
+          "needlepoint gift"
+        ],
+        "hooks": [
+          "Hosting stitch night? Steal this setup.",
+          "Canvas-swap tickets so nobody fights over the cute one.",
+          "Name tags that say what you're stitching: instant icebreaker.",
+          "Holiday stitch night, sorted: invites, swap rules and a menu."
+        ]
+      },
+      "extensions": [
+        "General 'craft night' kit for knitting and crochet groups (the input's pivot)",
+        "Holiday ornament-swap edition",
+        "Shop edition for weekly clubs with a punch card and class sign-up sheet",
+        "Bundle with the needlepoint journal",
+        "Birthday or bridal-shower stitch party edition"
+      ],
+      "asymmetry": {
+        "downside": "About 6 hours and $0. The answer comes in 21 days.",
+        "upside": "Zero marginal cost; holiday party season right now; the format generalizes to bigger craft-night audiences; bundles with the journal raise order value.",
+        "badBetIf": "Hosts are happy with group texts and generic party printables, or needlepoint-specific search is too small. Low cost, but small upside at $6 unless the craft-night pivot opens a bigger market."
+      },
+      "risks": [
+        "Narrow niche; generic party printables are plentiful",
+        "Canva template links must only contain elements you are licensed to share",
+        "Name tags and cards printed at the wrong scale lead to complaints; say 'print at 100%'",
+        "Holiday demand window is short for a Nov 9 launch"
+      ],
+      "source": "written"
+    }
+  ],
+  "writtenAt": "2026-10-04T23:11:09Z",
+  "source": "written"
+}

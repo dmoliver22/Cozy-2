@@ -1,0 +1,1382 @@
+{
+  "writtenAt": "2026-10-04T23:10:37Z",
+  "playbooks": [
+    {
+      "candidateId": "kinda-chic-kinda-chic-to",
+      "products": [
+        {
+          "index": 0,
+          "themeKey": "'kinda chic to be 50' (series: 30/40/50/60/70) in butter-yel",
+          "productName": "Kinda Chic Milestone Birthday Mug + Card Series (30-70)",
+          "superPrompt": "You are a senior gift-product designer and copywriter who builds print-on-demand mug designs and matching printable greeting cards for Etsy. Produce the complete, ready-to-build design kit for a milestone-birthday mug series and its matching printable card, so I can set everything up in Canva in one sitting.\n\nBUYER AND JOB\nThe buyer is an adult (mostly women 30-60) buying a birthday gift for a friend, sister or mother who is turning 30, 40, 50, 60 or 70. The product's job: turn a dreaded milestone into a warm compliment using the popular caption \"kinda chic to...\" that the recipient has seen everywhere this year. It must read as a ready-made, thoughtful gift, never a joke at the recipient's expense.\n\nDELIVERABLE SPEC\nA. Mug designs, one per age (30, 40, 50, 60, 70) plus one blank version (\"kinda chic to be ___\").\n- Front line, all lowercase, numerals: \"kinda chic to be 50\".\n- One small sparkle detail (a four-point star or a cluster of three) just after the last word.\n- Back of mug: write 3 original sub-line options per age, 6 words or fewer each (lowercase, warm, slightly cheeky).\n- Print file: 11 oz white mug, full-wrap landscape canvas of about 2475 x 1155 px at 300 DPI (I will match my provider's exact template). Cream background across the full wrap. Center the front line on the right-hand-drinker side and place a second copy on the left-hand side, 0.25 in safe margin top and bottom, nothing in the handle zone. Give a 15 oz variant (same layout, type about 10% larger).\nB. Matching printable card, one per age plus blank. Folded A2 card (4.25 x 5.5 in folded), two per US Letter sheet (8.5 x 11 in) with a dashed fold line; plus an A4 version using A6 cards (105 x 148 mm folded), two per A4 sheet. Front: the same line and sparkle. Inside: 3 original messages per age, 25-40 words each.\n\nSTYLE\nPalette (use these names): Butter #F2D46B (text), Butter Deep #E3B93C (alternative text), Cream #FBF6EA (background), Espresso #5A4632 (outline, small text), Blush #F3D3CC (optional accent), Gold Leaf #C9A227 (sparkle). Fonts: Fraunces (soft lowercase serif) for the main line, DM Sans for small text; both are free for commercial use. Give point or pixel sizes for every text element.\nContrast rule: butter yellow on cream is nearly invisible. Choose and justify one fix: a 2-3 px Espresso outline, a soft Espresso drop shadow, or Butter Deep text. Also specify an alternate dark colorway: Butter text on a full Espresso wrap.\n\nCONTENT REQUIREMENTS\n- All wording original. Tone: warm, confident, lightly funny. Reading level: grade 5-7.\n- No jokes about decline, wrinkles, weight, memory or health. Aging is something to celebrate, not fix.\n- Accuracy checks: every numeral matches its age file and card; every sub-line is 6 words or fewer; spelling and lowercase style are consistent across the series.\n\nDIFFERENTIATION\nCompeting \"kinda chic\" products target moms and sports parents on apparel. This series owns the milestone-birthday angle. All ages must look like one cohesive collection (identical layout, only the number changes) so each age can be its own listing.\n\nCONSTRAINTS\n- No celebrity or influencer names, photos, quotes or references; no brand names or trademarks; no song lyrics.\n- No health, body, anti-aging or \"look younger\" claims.\n- Do not imitate any existing design; the sparkle and layout must be original.\n\nOUTPUT FORMAT\n1. Design system: palette with hex, fonts and sizes, the contrast fix you chose and why.\n2. Mug table: Age | Front line | Back sub-line options (3) | Placement notes (11 oz and 15 oz).\n3. Card section, one block per age: Front text | Inside messages (3) | Layout notes for Letter and A4.\n4. Canva build checklist, 10 steps or fewer.\n5. Before answering, run this self-check and show it as a ticked list: all 5 ages plus blank present; sub-lines 6 words or fewer; no celebrity, brand or lyric; no health, body or anti-aging claims; contrast fix stated; card sizes correct for Letter and A4.",
+          "imagePrompts": [
+            {
+              "tool": "Ideogram or Midjourney",
+              "purpose": "Sparkle detail for the mug and card (transparent PNG)",
+              "prompt": "Minimal hand-drawn sparkle cluster: one four-point star and two smaller four-point stars, flat vector style with slightly rounded tips, fill Gold Leaf #C9A227 with a thin Espresso #5A4632 outline, centered with wide padding. Square 1:1. Transparent background; if the tool cannot do transparency, solid pure white #FFFFFF so the background can be removed. No text, no letters. No logos, no real people, no trademarked characters, no watermarks."
+            },
+            {
+              "tool": "Midjourney or ChatGPT images",
+              "purpose": "Lifestyle background for Pinterest pins and listing photos (the Printify mug mockup is placed on top in Canva)",
+              "prompt": "Bright birthday brunch table seen from a three-quarter overhead angle: cream linen tablecloth, a small vase of pale yellow ranunculus, a slice of vanilla layer cake with one lit candle, scattered confetti in Butter #F2D46B and Blush #F3D3CC, soft morning window light, airy editorial photography, shallow depth of field. Leave a clear empty area in the lower center where a mug will be added later. Vertical 2:3. Solid scene background (no transparency). No mugs, no cups, no text, no brand packaging, no hands. No logos, no real people, no trademarked characters, no watermarks."
+            },
+            {
+              "tool": "Ideogram",
+              "purpose": "Card inside and envelope-liner pattern",
+              "prompt": "Subtle seamless pattern of tiny scattered four-point sparkles and dots in Butter #F2D46B and Gold Leaf #C9A227 on solid Cream #FBF6EA, very low density, flat vector, tileable, square 1:1, solid background. No text, no letters. No logos, no real people, no trademarked characters, no watermarks."
+            }
+          ],
+          "assembly": [
+            "Run the super prompt, then read every line yourself: ages match, no celebrity or brand mentions, no body or anti-aging jokes.",
+            "In Printify (connected to your Etsy shop) pick an 11 oz white ceramic mug from a US print provider; open its design template and note the exact print-area pixel size (about 2475 x 1155 px is typical for an 11 oz full wrap; use whatever the template says). Add the 15 oz version from the same provider.",
+            "In Canva create a custom design at that pixel size: full-bleed Cream #FBF6EA background, the main line in Fraunces with the contrast fix the AI chose, the sparkle PNG. Duplicate the page for 30, 40, 50, 60, 70 and blank; only the number changes. Export each as PNG (Canva's PNG export at the design's pixel size is print-ready at that template size).",
+            "Upload each PNG to its own Printify mug product (one product per age, so each age gets its own Etsy listing and search entry), check the preview for the handle gap, then publish 40, 50 and 60 first. In Etsy, confirm the print provider is listed as a production partner (Etsy requires this for print-on-demand).",
+            "Order one sample of the 50 mug to check that the butter yellow prints legibly; if it looks washed out, switch to Butter Deep or thicken the outline before scaling.",
+            "Build the cards in Canva: US Letter landscape (11 x 8.5 in) with two A2 card fronts and insides per sheet and a dashed fold line, then an A4 landscape copy with two A6 cards. Export PDF Print (300 DPI); one PDF per age plus one combined file.",
+            "Zip the card PDFs (keep each file under Etsy's 20 MB per-file limit) and list them as one $4 instant-download bundle with all ages.",
+            "Make 6 Pinterest pins (1000 x 1500 px, 2 per age) by placing Printify mockups on the AI background, with the line 'kinda chic to be 50' in Fraunces as the pin headline."
+          ],
+          "listingPrompt": "You are an Etsy SEO copywriter. Write the Etsy listing for my print-on-demand mug \"kinda chic to be [AGE]\" (I will run this once per age: 30, 40, 50, 60, 70).\nProduct facts (use only these; where a fact is missing write [CHECK]): 11 oz white ceramic mug, also offered in 15 oz; full-wrap design with lowercase butter-yellow text on a cream background and a small gold sparkle; design printed on both sides; [PASTE PROVIDER SPECS: material, dishwasher and microwave guidance]; made to order by my print partner; production time [PROCESSING DAYS]; ships within the US [SHIPPING DAYS]. A matching printable card bundle is sold separately.\nBuyer: adults (mostly women 30-60) shopping for a milestone birthday gift for a friend, sister or mother.\n\nWrite:\n1. Title under 140 characters that starts with the buyer's search phrase, for example \"[AGE]th Birthday Gift for Her\" or \"Kinda Chic to Be [AGE] Mug\" (pick the one you judge stronger and say why). Readable, no ALL CAPS, no keyword stuffing.\n2. Exactly 13 Etsy tags, each 20 characters or fewer including spaces; show the character count after each. Mix the age, the occasion (milestone birthday, birthday gift for women), the recipient (friend, sister, mom) and the phrase \"kinda chic\".\n3. Description: two opening lines saying what it is and who it is for; \"What you get\" bullets; sizes; care (from the provider specs only); production and shipping; a note that colors can vary slightly between screens and print; a 5-question FAQ (Can I get another age? Is there a matching card? When will it arrive? Can I add a name? Is it dishwasher safe? - answer the last only from the specs or write [CHECK]).\n4. One line stating the design was made with the help of digital and AI tools and finished by [YOUR SHOP NAME].\nRules: never use trademarked terms or brand names (no mug or font brands, no store names) in the title, tags or description; never mention any celebrity, influencer or public figure; no song lyrics; no health, body or anti-aging claims; do not invent reviews, sales numbers or specs.",
+          "pricing": {
+            "recommended": 22,
+            "low": 18,
+            "high": 26,
+            "currency": "USD",
+            "rationale": "Priced in the middle of what Etsy print-on-demand gift mugs typically ask (estimate; check 5 comparable milestone-birthday mug listings before publishing), with US shipping built in so the listing can show free shipping. The printable card bundle sits separately at $4, as the input suggests, as the low-cost entry point.",
+            "basis": "estimate: margin at $22 is roughly $6-8 after an estimated $12-13 mug-plus-shipping cost and Etsy fees; verify with your provider's real numbers."
+          },
+          "costs": {
+            "provider": "Printify (US print provider connected to Etsy)",
+            "item": "11 oz white ceramic mug, full-wrap print (15 oz as an upsell variant)",
+            "baseCost": 5.5,
+            "shipping": 7.0,
+            "basis": "estimate: verify in the provider catalog. Printify 11 oz mug base costs vary by provider (roughly $4.50-7) and first-item US shipping for a mug is roughly $6-8. Etsy charges a $0.20 listing fee plus a transaction fee and payment-processing fee on each sale (about 6.5% and about 3% + $0.25 in the US at the time of writing; verify current rates).",
+            "testBudget": 14,
+            "testBudgetNote": "Etsy Ads at $1/day for 14 days, starting in week 2 on whichever age listing has the most views or favorites. Separately budget roughly $12-15 (estimate) for one sample mug to check how the yellow prints."
+          },
+          "platforms": [
+            {
+              "name": "Etsy",
+              "role": "primary",
+              "why": "Where milestone-birthday gift buyers search, with native Printify integration for print-on-demand mugs and instant-download listings for the card bundle."
+            },
+            {
+              "name": "Pinterest",
+              "role": "traffic",
+              "why": "Birthday-gift and party-idea searches happen on Pinterest weeks ahead of the date; pins keep sending traffic long after posting, which suits a shop with no audience."
+            },
+            {
+              "name": "Instagram",
+              "role": "traffic",
+              "why": "The 'kinda chic to...' caption format lives on Instagram; a short gift-reveal Reel using the same butter-yellow text overlay speaks the trend's own language."
+            }
+          ],
+          "marketing": {
+            "positioning": "The milestone-birthday gift that makes the number sound like a compliment: a cohesive 'kinda chic to be [age]' mug and card series for the friend who has been dreading 40, 50 or 60.",
+            "launchPlan": [
+              {
+                "day": "Day 0 (Mon Oct 5)",
+                "action": "Run the super prompt and build the 40, 50 and 60 mug files plus all card PDFs in Canva."
+              },
+              {
+                "day": "Day 1 (Tue Oct 6)",
+                "action": "Create the three Printify mug products, order a sample of the 50, publish the three Etsy listings and the $4 card bundle."
+              },
+              {
+                "day": "Day 2 (Wed Oct 7)",
+                "action": "Publish 6 Pinterest pins (2 per age) to boards such as '50th birthday gift ideas' and 'milestone birthday ideas', each linking to its listing."
+              },
+              {
+                "day": "Day 3-7 (Oct 8-12)",
+                "action": "Add 1-2 fresh pins a day (new backgrounds, mug-plus-card combos) and post one Instagram Reel: gift-wrapping the mug with the caption 'kinda chic to be 50' in butter-yellow text."
+              },
+              {
+                "day": "Day 8 (Tue Oct 13)",
+                "action": "Read Etsy stats (views, favorites per age). Start Etsy Ads at $1/day for 14 days on the strongest listing."
+              },
+              {
+                "day": "Day 11 (Fri Oct 16)",
+                "action": "When the sample arrives, check legibility; photograph the real mug in daylight and make it the first listing photo. Fix the outline or color if the yellow is weak."
+              },
+              {
+                "day": "Day 14 (Mon Oct 19)",
+                "action": "If any age has favorites, add the 30 and 70 listings and the 15 oz variant; post a second Reel."
+              },
+              {
+                "day": "Day 21 (Mon Oct 26)",
+                "action": "Go/pivot check: continue if any age version has 3+ sales or 30+ favorites. If favorites but no sales, pivot: push the cheaper printable card bundle and test a sticker of the same line."
+              },
+              {
+                "day": "Day 28 (Mon Nov 2)",
+                "action": "Stop check: fewer than 10 favorites and no sales by early November means stop promoting and leave the card bundle up as a passive listing; otherwise prepare holiday photos for late November."
+              }
+            ],
+            "channels": [
+              {
+                "channel": "Pinterest",
+                "tactic": "Mockup pins and 'birthday gift ideas for her 50th' style pins, one board per milestone age, each pin linking to the matching listing.",
+                "cadence": "1-2 new pins a day for 3 weeks, then 3-5 a week."
+              },
+              {
+                "channel": "Instagram Reels",
+                "tactic": "Gift-reveal and gift-wrap clips with the trend's butter-yellow 'kinda chic to be 50' text overlay; product link in bio.",
+                "cadence": "2 Reels a week during the test."
+              },
+              {
+                "channel": "Etsy",
+                "tactic": "One listing per age for more search entry points; Etsy Ads on the leading age; refresh the first photo with the real sample.",
+                "cadence": "Check stats twice a week; one title or photo change per listing per week at most."
+              }
+            ],
+            "keywords": [
+              "kinda chic to be 50",
+              "50th birthday mug",
+              "50th birthday gift",
+              "40th birthday mug",
+              "60th birthday gift",
+              "milestone birthday",
+              "birthday gift women",
+              "kinda chic mug",
+              "gift for best friend",
+              "birthday mug for mom",
+              "70th birthday gift",
+              "30th birthday mug"
+            ],
+            "hooks": [
+              "POV: your best friend is dreading 50, so you made it chic.",
+              "kinda chic to be 50. The mug says what the card can't.",
+              "The birthday gift that turns the number into a compliment.",
+              "Stop buying 'over the hill' gifts. Try this instead."
+            ]
+          },
+          "extensions": [
+            "More ages (21, 35, 45, 65, 80) and a 'kinda chic to be retired' retirement version.",
+            "Printable 'kinda chic to be [age]' party pack (banner, cupcake toppers, table signs) as a zero-marginal-cost digital listing.",
+            "Same design on a tote bag or crewneck sweatshirt through the same print provider.",
+            "Matching sticker of the line as a low-price add-on.",
+            "Holiday-season photos and a 'gift for her' bundle listing (mug plus card) for late November."
+          ],
+          "asymmetry": {
+            "downside": "About 6 hours, roughly $12-15 for a sample mug, $14 of ads and $0.20 per listing (estimates). No inventory: print-on-demand only charges when a buyer orders.",
+            "upside": "Milestone birthdays happen every day, so the series does not need the meme to stay viral, only the phrase to stay recognizable. Each age is its own listing (more search entry points), the card bundle has zero marginal cost, and the design extends to totes, sweatshirts and a party pack.",
+            "badBetIf": "The phrase turns cringe from brand overuse before the holidays, the Etsy niche fills with milestone variants, or a 'kinda chic' trademark filing appears. Margins are thin (roughly $6-8 a mug, estimate), so this is a moderate bet, not a strongly asymmetric one; the zero-cost card and party pack carry the real upside."
+          },
+          "risks": [
+            "Trend fatigue: critics already call the format a humblebrag, and heavy brand use can make it feel dated by December.",
+            "Trademark not cleared: no filing was found, but that is not a clearance; search the USPTO trademark database before scaling.",
+            "Butter yellow can print pale on white ceramic; the sample check is not optional.",
+            "Print-on-demand holiday delays: late-December orders may miss birthdays or holidays; set realistic processing times.",
+            "Etsy Offsite Ads fees on attributed sales cut an already thin margin.",
+            "Copycats can clone a text-only design quickly; speed and the age series are the main defense."
+          ]
+        },
+        {
+          "index": 1,
+          "themeKey": "'Kinda Chic 2027: a year of small wins'. 52 weekly 'kinda ch",
+          "productName": "Kinda Chic 2027: A Year of Small Wins (Digital + Printable Journal)",
+          "superPrompt": "You are an experienced guided-journal writer and digital planner designer. Produce the complete content and layout spec for \"Kinda Chic 2027: A Year of Small Wins\", a guided journal sold as a hyperlinked digital PDF and a printable PDF.\n\nBUYER AND JOB\nThe buyer is a woman aged 25-45 into self-improvement, body neutrality and journaling, shopping for a 2027 planner. She already uses the phrase \"kinda chic to...\" to celebrate non-luxury wins (resting, boundaries, rewearing outfits, trying new things). The journal's job: give her one gentle, specific prompt each week that helps her notice and record small wins, in a format she can start in any week.\n\nDELIVERABLE SPEC (page by page)\n1. Cover: title, subtitle \"a year of small wins\", space for a name.\n2. How to use (120-160 words).\n3. 2027 year at a glance. Do not draw the calendar from memory. Use these verified facts and tell me to paste a checked calendar: 2027 is not a leap year; months start on Jan Fri, Feb Mon, Mar Mon, Apr Thu, May Sat, Jun Tue, Jul Thu, Aug Sun, Sep Wed, Oct Fri, Nov Mon, Dec Wed.\n4. 12 monthly \"kinda chic wins\" logs (January-December 2027): a one-line monthly theme, a 31-line wins log, \"best small win this month\", \"one thing I'm letting go of\".\n5. 52 weekly pages, undated (\"Week __ of 52, week of ______\"). Each has: a \"kinda chic to...\" prompt (12 words or fewer), 3 short follow-up questions, a \"3 small wins\" box and a one-line \"next week, it would be kinda chic to...\" Group the weeks into 4 seasonal themes of 13 (for example rest, boundaries, style and self-expression, trying new things) and vary topics so no two prompts repeat.\n6. Year-end review: 12 reflection questions, a \"top 10 kinda chic moments of 2027\" list and a letter to 2028 me.\n7. Notes pages (4).\n8. Separately, list the pages that make the free 4-week sample: cover, how to use, January log, weeks 1-4.\n\nFormats and sizes: printable US Letter (8.5 x 11 in) and A4 (210 x 297 mm), portrait, 0.5 in margins, writing lines 9 mm apart. Digital: 1620 x 2160 px portrait with a right-edge tab strip (Index plus Jan-Dec); every tab links to its month and every weekly page links back to the index.\nFonts: Fraunces (headings, lowercase style) and DM Sans (body, at least 11 pt). Palette: Butter #F2D46B (highlights and tabs), Cream #FBF6EA (page background), Espresso #5A4632 (headings), Ink #2F2A26 (body text), Blush #F3D3CC (boxes), Sage #A8B89A (alternate tabs). Use butter yellow for fills only; never set text in butter yellow on cream.\n\nCONTENT REQUIREMENTS\n- Original wording throughout. Tone: warm, wry, encouraging, never preachy. Reading level: grade 6-8.\n- Prompts are reflective and practical: rest, saying no, rewearing outfits, asking for help, trying something new, being a beginner, small kindnesses.\n- No diet, weight, body-shape or exercise-goal prompts. No claims that journaling improves mental health, confidence or anything else. No therapy language presented as treatment.\n- Accuracy: exactly 52 weekly prompts and 12 monthly logs, no duplicate prompts, every prompt starts with \"kinda chic to\".\n\nDIFFERENTIATION\nNo \"kinda chic\" journal or planner appeared in the market results seen, and most planners chase productivity or glow-ups. This one celebrates small, unglamorous wins, is undated by week so it can start any time, and works both on a tablet and on paper.\n\nCONSTRAINTS\nNo celebrity, influencer or brand names or references; no quotes from anyone; no song lyrics; no health, weight or mental-health outcome claims.\n\nOUTPUT FORMAT\nReturn page by page, with a heading for each page (\"Page 12 - Week 3\") followed by its exact text and a one-line layout note. Then give a CSV block (columns: week, season_theme, prompt, q1, q2, q3) for Canva Bulk Create. Then list the free-sample pages. End with a self-check shown as a ticked list: 52 unique weekly prompts; 12 monthly logs; month start days match the facts above; no body, weight or health claims; no names or quotes; no butter-yellow text on cream; sample page list included.",
+          "imagePrompts": [
+            {
+              "tool": "Ideogram or Midjourney",
+              "purpose": "Journal cover art (title added in Canva)",
+              "prompt": "Airy abstract cover art for a journal: soft organic blob shapes and a few hand-drawn four-point sparkles in Butter #F2D46B, Blush #F3D3CC and Sage #A8B89A on solid Cream #FBF6EA, generous empty space in the upper-middle third for a title, flat modern illustration with gentle paper grain. Portrait 3:4. Solid background. No text, no letters, no faces. No logos, no real people, no trademarked characters, no watermarks."
+            },
+            {
+              "tool": "Ideogram or ChatGPT images",
+              "purpose": "Matching line-icon set for section dividers and weekly pages",
+              "prompt": "Set of 8 simple matching line icons in a 4 x 2 grid with even spacing: teacup, open door, folded sweater, crescent moon, sneaker, potted plant, open book, speech bubble with a small heart. Single-weight 3 px lines in Espresso #5A4632 with small Butter #F2D46B fill accents, flat vector. Square 1:1, solid white #FFFFFF background. No text, no letters. No logos, no real people, no trademarked characters, no watermarks."
+            },
+            {
+              "tool": "Midjourney or ChatGPT images",
+              "purpose": "Tablet mockup background for listing photos and pins (journal pages placed on the blank screen in Canva)",
+              "prompt": "Cozy minimalist desk seen from directly above: a tablet with a plain, evenly lit blank light screen, a ceramic mug of coffee, a stylus, a sprig of eucalyptus, the edge of a cream knit blanket, warm soft daylight, cream and butter tones, photographic. Horizontal 4:3, solid scene background. Screen must be completely blank. No text, no brand marks on devices, no hands. No logos, no real people, no trademarked characters, no watermarks."
+            }
+          ],
+          "assembly": [
+            "Run the super prompt; read all 52 prompts and delete or rewrite any that mention bodies, food rules, weight, exercise goals or promised results.",
+            "In Canva create a US Letter (8.5 x 11 in) design and build 5 master pages (cover, how-to, monthly log, weekly page, review) with the palette and fonts. Paste the 52 weekly prompts with Bulk Create from the AI's CSV (Canva Pro), or duplicate the weekly master 52 times on the free plan.",
+            "Paste a verified 2027 calendar for the year-at-a-glance page (from Canva's calendar elements or a calendar you have checked against the month-start days in the prompt).",
+            "Make the A4 copy (Canva Pro Resize, or duplicate the design and set 210 x 297 mm) and a digital copy at 1620 x 2160 px. On the digital copy add a right-edge tab strip and link each tab to its page (select element > Link > choose the page); link each weekly page back to the index.",
+            "Export the printables as PDF Print (300 DPI) and the digital version as PDF Standard; open the digital PDF in a PDF reader and a note-taking app and tap every tab to confirm the links work.",
+            "Export the free sample (cover, how-to, January log, weeks 1-4) as its own PDF and publish it on Gumroad as a $0+ pay-what-you-want product so downloaders join your email list.",
+            "Zip the full product (Letter PDF, A4 PDF, digital PDF and a one-page 'how to import into your note app' guide), keeping each file under Etsy's 20 MB limit; list it on Etsy and Gumroad.",
+            "Export 6 page previews as PNG, place them in the tablet mockup and a printed-page flat lay; make 5 listing images plus a 10-second flip-through video for the Etsy listing."
+          ],
+          "listingPrompt": "You are an Etsy SEO copywriter for digital planners and journals. Write the Etsy listing for my instant-download journal \"Kinda Chic 2027: A Year of Small Wins\".\nProduct facts (use only these; mark anything missing as [CHECK]): 52 undated weekly \"kinda chic to...\" reflection prompts with 3 follow-up questions each; 12 monthly small-wins logs for 2027; a 2027 year-at-a-glance page; a year-end review; notes pages. Files: printable PDF in US Letter and A4 (portrait), plus a hyperlinked digital PDF (1620 x 2160 px, tabbed by month) for tablet note-taking apps. Delivered as instant download. No physical item is shipped.\nBuyer: women 25-45 into journaling and self-acceptance, shopping for a 2027 planner.\n\nWrite:\n1. Title under 140 characters starting with the buyer's search phrase, such as \"2027 Guided Journal\" or \"2027 Digital Journal\" (choose and explain), then the small-wins angle, \"printable\" and \"weekly prompts\". No ALL CAPS, no keyword stuffing.\n2. Exactly 13 Etsy tags, each 20 characters or fewer including spaces, with the character count shown after each.\n3. Description: two opening lines on what it is and who it's for; \"What's inside\" bullets with page counts; file formats and sizes; \"How delivery works\" (download from your Etsy Purchases page after payment; nothing ships); \"How to use it\" for printing and for tablet apps; a 5-question FAQ (Is it dated? Which apps does it work with? Can I print it at home? Can I get a refund on a digital file? Is there a free sample?).\n4. One line stating the journal was created with the help of AI writing and design tools and edited by [YOUR SHOP NAME].\n5. One line: \"This journal is for personal reflection; it is not therapy or medical advice.\"\nRules: never use trademarked terms or brand names in the title or tags (you may say \"works in most PDF and note-taking apps\"); no celebrity, influencer or public-figure names; no quotes or lyrics; no promises about mental health, confidence, weight, happiness or any other outcome; do not invent reviews or sales.",
+          "pricing": {
+            "recommended": 8,
+            "low": 6,
+            "high": 14,
+            "currency": "USD",
+            "rationale": "About $8, as the input's validation test suggests: below premium digital planners, above bare-bones printables, justified by 52 written prompts plus the hyperlinked digital version. Use a launch discount code for sample downloaders rather than a permanently lower price.",
+            "basis": "estimate"
+          },
+          "costs": {
+            "provider": null,
+            "item": null,
+            "baseCost": null,
+            "shipping": null,
+            "basis": "estimate: digital product, no production or shipping cost. Etsy charges a $0.20 listing fee plus a transaction fee and payment-processing fee on each sale (about 6.5% and about 3% + $0.25 in the US at the time of writing; verify current rates); Gumroad also takes a per-sale fee (verify its current rate).",
+            "testBudget": 0,
+            "testBudgetNote": "The input's test is organic: a free 4-week sample plus 3 short videos. Consider Etsy Ads at $1/day only after the go signal, in December when planner buying peaks."
+          },
+          "platforms": [
+            {
+              "name": "Etsy",
+              "role": "primary",
+              "why": "Biggest marketplace for digital planners and journals, with buyers actively searching for 2027 planners from late autumn."
+            },
+            {
+              "name": "Gumroad",
+              "role": "secondary",
+              "why": "Hosts the free sample with email capture and gives a clean direct link for videos and bio links; the full journal sells there too."
+            },
+            {
+              "name": "Pinterest",
+              "role": "traffic",
+              "why": "Planner and journal-prompt pins are long-lived and need no existing audience."
+            },
+            {
+              "name": "TikTok",
+              "role": "traffic",
+              "why": "'kinda chic to...' text-overlay videos are the trend's native format; 'what's inside' flip-throughs suit journals."
+            },
+            {
+              "name": "Instagram",
+              "role": "traffic",
+              "why": "Cross-post the same Reels; the trend is strongest among the target buyers there, and bio links work without a follower minimum."
+            }
+          ],
+          "marketing": {
+            "positioning": "Not a glow-up planner: a 2027 journal that treats resting, saying no and rewearing outfits as wins worth writing down, one 'kinda chic to...' prompt a week.",
+            "launchPlan": [
+              {
+                "day": "Day 0 (Mon Oct 12)",
+                "action": "Run the super prompt; edit all 52 prompts for tone and remove anything about bodies, food or promised outcomes."
+              },
+              {
+                "day": "Day 1-3 (Oct 13-15)",
+                "action": "Build the printable (Letter and A4) and the hyperlinked digital versions in Canva; test every link."
+              },
+              {
+                "day": "Day 4 (Fri Oct 16)",
+                "action": "Publish the free 4-week sample on Gumroad ($0+, email required)."
+              },
+              {
+                "day": "Day 5 (Sat Oct 17)",
+                "action": "Video 1 on TikTok and Reels: butter-yellow 'kinda chic to...' text over clips of writing four sample prompts; sample link in bio."
+              },
+              {
+                "day": "Day 8 (Tue Oct 20)",
+                "action": "Video 2: 'what's inside' flip-through of the full journal."
+              },
+              {
+                "day": "Day 11 (Fri Oct 23)",
+                "action": "Video 3: filling in one weekly page with a real small win."
+              },
+              {
+                "day": "Day 12 (Sat Oct 24)",
+                "action": "Stop check: fewer than 50 sample downloads after 3 posts means stop, or retitle as a plain 'small wins journal' before investing more."
+              },
+              {
+                "day": "Day 13 (Sun Oct 25)",
+                "action": "List the full journal on Etsy at about $8 and on Gumroad; email sample downloaders a 72-hour launch code."
+              },
+              {
+                "day": "Day 14-34 (Oct 26-Nov 15)",
+                "action": "Pinterest: 1 pin a day (prompt quotes, page previews); 2 short videos a week reusing the prompts."
+              },
+              {
+                "day": "Day 35 (Mon Nov 16)",
+                "action": "Go/pivot check (mid-November): continue if 150+ sample downloads or 5+ paid sales. If samples are popular but paid sales weak, bundle with the sticker sheet or drop the price."
+              }
+            ],
+            "channels": [
+              {
+                "channel": "TikTok",
+                "tactic": "Trend-native 'kinda chic to...' text-overlay videos using journal prompts; flip-throughs; one real page filled in. Use your own voice or a commercial-library sound.",
+                "cadence": "3 posts in the first 8 days, then 2 a week."
+              },
+              {
+                "channel": "Instagram Reels",
+                "tactic": "Cross-post every TikTok; carousel of 5 prompts with a 'free sample' call to action; Gumroad link in bio.",
+                "cadence": "2 a week."
+              },
+              {
+                "channel": "Pinterest",
+                "tactic": "Prompt-quote pins and page-preview pins linking to Etsy, on boards like '2027 planner' and 'journal prompts'.",
+                "cadence": "1 a day for 3 weeks, then 3-5 a week through January."
+              },
+              {
+                "channel": "Email (Gumroad audience)",
+                "tactic": "Launch code to sample downloaders, then one 'start your year' email in late December.",
+                "cadence": "2 emails before January."
+              }
+            ],
+            "keywords": [
+              "2027 journal",
+              "2027 digital planner",
+              "small wins journal",
+              "guided journal",
+              "weekly journal",
+              "journal prompts",
+              "kinda chic journal",
+              "printable journal",
+              "new year journal",
+              "reflection journal",
+              "undated journal",
+              "digital journal"
+            ],
+            "hooks": [
+              "kinda chic to have a journal that counts rewearing outfits as a win.",
+              "52 weeks of 'kinda chic to...' prompts. Here's week 1.",
+              "Not a glow-up planner. A small-wins journal.",
+              "What if your 2027 goals were just... kinda chic?"
+            ]
+          },
+          "extensions": [
+            "Bundle with the 'kinda chic' everyday-wins sticker sheet.",
+            "Undated edition so it sells after January, and a 2028 edition next autumn with the same files.",
+            "Printable prompt cards (52 cards, 8 per sheet) as a cheaper or giftable spin-off.",
+            "Google Sheets 'small wins tracker' with a monthly chart as an add-on.",
+            "Milestone-year edition ('kinda chic at 50') that cross-sells with the birthday mug series."
+          ],
+          "asymmetry": {
+            "downside": "About 14 hours of building and editing; $0 cash.",
+            "upside": "Zero marginal cost, sells on Etsy, Gumroad and Payhip at once, the free sample builds an email list you keep, and New Year planner season repeats every year; the files can be re-dated for 2028.",
+            "badBetIf": "Planners and journals are one of Etsy's most crowded digital categories, so the 'kinda chic' hook is the main differentiator and it is perishable. If the phrase fades before December, the journal has to stand as a plain small-wins journal. Under 50 sample downloads after 3 videos is a clear no."
+          },
+          "risks": [
+            "Crowded category: generic 2027 planners dominate Etsy search.",
+            "Meme fatigue may make the title feel dated by January; keep a neutral 'small wins journal' title ready.",
+            "Health or body language can creep into prompts; review every page.",
+            "Broken hyperlinks lead to refund requests and bad reviews; test the digital PDF on a phone and a tablet.",
+            "Digital refunds and file-sharing cannot be fully prevented; state the policy clearly."
+          ]
+        },
+        {
+          "index": 2,
+          "themeKey": "Sticker sheet of 12 everyday 'kinda chic to...' wins (drink ",
+          "productName": "Kinda Chic Everyday Wins Planner Sticker Sheet",
+          "superPrompt": "You are a planner-sticker designer who builds print-ready kiss-cut sticker sheets. Produce the full design spec and copy for a \"kinda chic everyday wins\" planner sticker sheet that I will build in Canva and sell through print on demand.\n\nBUYER AND JOB\nThe buyer decorates planner and journal spreads with stickers and likes the \"kinda chic to...\" caption trend, which treats ordinary, hard-won things as chic. The sheet's job: give her 12 cheerful, affirming stickers for everyday small wins that drop into a weekly spread, and work as a cheap, giftable add-on to a small-wins journal.\n\nDELIVERABLE SPEC\n- 12 phrase stickers. Six fixed phrases: \"kinda chic to drink the water\", \"kinda chic to leave early\", \"kinda chic to go to therapy\", \"kinda chic to rewear it\", \"kinda chic to say no\", \"kinda chic to rest\". Write 12 original candidates for the other six (everyday, non-luxury wins such as asking for help or logging off) and mark your top 6.\n- 6 tiny filler stickers: 3 sparkles, a small heart, a check mark and a mini \"kinda chic\" word sticker.\n- Each phrase sticker: rounded pill, cloud or scalloped badge shape, 1.5-2.25 in wide, with a matching simple line icon (glass of water, door, two armchairs, folded sweater, speech bubble, crescent moon and so on). Describe each icon in one line so I can generate or draw it.\n- Sheet: portrait kiss-cut sticker sheet of about 5.83 x 8.27 in (A5), 1749 x 2481 px at 300 DPI; I will match my provider's exact template. Grid of 3 columns x 4 rows for phrase stickers, fillers in the gaps. Keep 0.125 in between stickers and 0.125 in from the sheet edge; minimum text size 8 pt; minimum line weight 1 pt.\n- Singles: each phrase sticker also on its own 3 x 3 in canvas (900 x 900 px at 300 DPI, transparent background) for single-sticker sites.\n- Print-at-home version: the same 12 stickers laid out on US Letter (8.5 x 11 in) and A4 (210 x 297 mm) sheets with cut lines.\n\nSTYLE\nPalette: Butter #F2D46B (shape fill), Cream #FBF6EA (sheet background and border), Espresso #5A4632 (text and icon lines), Blush #F3D3CC and Sage #A8B89A (alternate shape fills, used sparingly), Gold Leaf #C9A227 (sparkles). Fonts: Fraunces for the phrases (lowercase), DM Sans for tiny filler text; both free for commercial use. Text is Espresso on Butter, Blush or Sage shapes, never butter yellow on cream.\n\nCONTENT REQUIREMENTS\n- Original wording; all lowercase; 6 words or fewer after \"kinda chic to\"; the set reads gentle and wry, not preachy. Reading level: grade 3-5.\n- Accuracy: confirm the grid fits the sheet with the stated gaps, count exactly 12 phrase stickers and 6 fillers, and check spelling.\n\nDIFFERENTIATION\nExisting \"kinda chic\" products are identity tees and mom or sports-parent slogans. This sheet is about everyday wins, sized for planner boxes, and matches the \"Kinda Chic 2027\" journal palette so the two can be bundled.\n\nCONSTRAINTS\nNo celebrity, influencer or brand names; no quotes from anyone; no song lyrics. \"go to therapy\" stays a neutral everyday phrase; add no wording that promises health, weight, mood or mental-health results.\n\nOUTPUT FORMAT\n1. Final 12 phrases with shape, fill color, icon description and approximate size.\n2. Sheet layout map (row by row, left to right, fillers placed).\n3. Single-sticker export list and the Letter and A4 print-at-home layouts.\n4. Canva build steps (8 or fewer).\n5. Before answering, show a ticked self-check: 12 phrases plus 6 fillers; 6 words or fewer after \"kinda chic to\"; grid fits with 0.125 in gaps; no butter-yellow text on cream; no names, lyrics or health claims.",
+          "imagePrompts": [
+            {
+              "tool": "Ideogram or ChatGPT images",
+              "purpose": "12 matching sticker icons (cropped one by one in Canva)",
+              "prompt": "Set of 12 tiny matching sticker icons in a 4 x 3 grid with generous even spacing: glass of water, door with a small arrow, two armchairs facing each other, folded sweater, empty speech bubble with a small x mark, crescent moon over a pillow, closed laptop, small houseplant, alarm clock, envelope, coffee cup, sneaker. Flat line art with 3 px rounded Espresso #5A4632 lines and small Butter #F2D46B fill accents. Square 1:1, solid white #FFFFFF background. No text, no letters. No logos, no real people, no trademarked characters, no watermarks."
+            },
+            {
+              "tool": "Ideogram",
+              "purpose": "Filler stickers (sparkles, heart, check mark)",
+              "prompt": "Six small cute filler sticker shapes in a 3 x 2 grid: three four-point sparkles of different sizes in Gold Leaf #C9A227, a rounded heart in Blush #F3D3CC, a chunky check mark in Sage #A8B89A, a small blank pill-shaped badge in Butter #F2D46B; each with a 2 px Espresso #5A4632 outline, flat vector. Square 1:1, solid white #FFFFFF background. No text, no letters. No logos, no real people, no trademarked characters, no watermarks."
+            },
+            {
+              "tool": "Midjourney or ChatGPT images",
+              "purpose": "Planner-spread mockup background for listing photos (sticker sheet placed in Canva)",
+              "prompt": "Open weekly planner spread on a cream desk, top-down view, pale washi tape, a pen, a small vase with one dried flower, soft daylight from the left, photographic. One empty rectangular area on the right-hand page, about a third of the frame, for placing a sticker sheet image later. Vertical 4:5, solid scene background. No writing on the pages, no text, no brands, no hands. No logos, no real people, no trademarked characters, no watermarks."
+            }
+          ],
+          "assembly": [
+            "Run the super prompt and pick the final 12 phrases; cut any that read as a health promise.",
+            "In Printful (or Printify, whichever offers a kiss-cut sticker sheet in your Etsy-connected account) open the sticker-sheet product and download its template; note the exact sheet size and pixel dimensions (about A5 / 1749 x 2481 px is typical; use the template).",
+            "In Canva create a design at the template size; build each sticker as a group (shape + phrase + icon), keep 0.125 in gaps and a cream border; export PNG with transparent background at full size (transparent export needs Canva Pro).",
+            "Upload to the sticker-sheet product, check the cut-line preview, order one sample, then publish to Etsy and confirm the production partner is listed.",
+            "Export each phrase sticker alone at 900 x 900 px (3 x 3 in at 300 DPI), transparent, and upload the 12 singles to Redbubble as separate stickers.",
+            "Make the print-at-home version: lay the 12 stickers on US Letter and A4 pages with thin cut lines and export PDF Print (300 DPI); keep it as a free bonus for journal buyers or a $3 digital listing.",
+            "Photograph the sample on a real planner spread when it arrives and swap it in as the first listing photo; until then use the AI mockup background."
+          ],
+          "listingPrompt": "You are an Etsy SEO copywriter for planner stickers. Write the Etsy listing for my print-on-demand kiss-cut sticker sheet \"kinda chic everyday wins\".\nProduct facts (use only these; mark anything missing as [CHECK]): one sticker sheet of about [SHEET SIZE FROM PROVIDER] with 12 lowercase \"kinda chic to...\" everyday-win stickers ([PASTE THE 12 PHRASES]) plus 6 small fillers; butter-yellow, blush and sage shapes with espresso-brown text on cream; [PASTE PROVIDER SPECS: material, finish, water resistance]; made to order by my print partner; production [PROCESSING DAYS]; US shipping [SHIPPING DAYS]. Matches my \"Kinda Chic 2027\" journal.\nBuyer: planner and journal users who decorate weekly spreads.\n\nWrite:\n1. Title under 140 characters starting with the buyer's search phrase, such as \"Planner Stickers\" or \"Journal Sticker Sheet\" (choose and explain), then \"kinda chic\", \"everyday wins\" and \"small wins\". No ALL CAPS.\n2. Exactly 13 Etsy tags, each 20 characters or fewer including spaces, with the character count shown after each.\n3. Description: two opening lines; \"What you get\" bullets listing every phrase; sheet size and finish (from specs only); production and shipping; a \"pairs with\" line about the journal; a 4-question FAQ (Are these waterproof? Is this a physical item? Can I get a digital version? When will it arrive?).\n4. One line saying the icons were made with the help of AI tools and finished by [YOUR SHOP NAME].\nRules: never use trademarked terms or brand names (no planner, pen or tape brands) in the title, tags or description; no celebrity or influencer names; no quotes or lyrics; no claims that the stickers improve health, mood or wellbeing; do not invent reviews, sales or specs.",
+          "pricing": {
+            "recommended": 12,
+            "low": 9,
+            "high": 15,
+            "currency": "USD",
+            "rationale": "Sticker sheets on Etsy commonly sit in the high single digits to mid-teens (estimate; check comparables). Below about $9 the print-on-demand base cost and fees leave almost nothing, so charge US shipping at roughly cost rather than discounting the sheet.",
+            "basis": "estimate: at $12 plus buyer-paid shipping, margin is roughly $2.50-3.50 per sheet after an estimated $7-8 base cost and Etsy fees."
+          },
+          "costs": {
+            "provider": "Printful (or Printify if it offers a sticker sheet in your account)",
+            "item": "Kiss-cut sticker sheet, about A5 (5.83 x 8.27 in)",
+            "baseCost": 7.5,
+            "shipping": 4.5,
+            "basis": "estimate: verify in the provider catalog. Sticker-sheet base cost assumed roughly $6-8 and first-item US shipping roughly $4-5. Etsy charges a $0.20 listing fee plus a transaction fee and payment-processing fee on each sale (about 6.5% and about 3% + $0.25 in the US at the time of writing; verify current rates). Redbubble singles pay only the artist margin you set, typically cents per sticker.",
+            "testBudget": 0,
+            "testBudgetNote": "No ads: the margin cannot pay back ad spend. Budget roughly $12 (estimate) for one sample sheet, which is worth it for real photos."
+          },
+          "platforms": [
+            {
+              "name": "Etsy",
+              "role": "primary",
+              "why": "Planner-sticker buyers shop on Etsy, it can sit next to the journal listing, and Printful or Printify sync handles fulfillment."
+            },
+            {
+              "name": "Redbubble",
+              "role": "secondary",
+              "why": "Zero-admin marketplace for the 12 phrases as single stickers; small earnings but extra discovery."
+            },
+            {
+              "name": "Pinterest",
+              "role": "traffic",
+              "why": "Planner-spread pins are a staple of planner Pinterest and keep sending traffic."
+            }
+          ],
+          "marketing": {
+            "positioning": "Twelve tiny 'kinda chic to...' wins for your planner: drink the water, leave early, rest. The everyday-wins companion to the Kinda Chic 2027 journal.",
+            "launchPlan": [
+              {
+                "day": "Day 0 (Mon Oct 12)",
+                "action": "Run the super prompt; choose the final 12 phrases."
+              },
+              {
+                "day": "Day 1 (Tue Oct 13)",
+                "action": "Generate the icon and filler art; build the sheet in Canva at the provider's template size."
+              },
+              {
+                "day": "Day 2 (Wed Oct 14)",
+                "action": "Create the print-on-demand sticker-sheet product, order a sample and publish the Etsy listing; upload the 12 singles to Redbubble."
+              },
+              {
+                "day": "Day 4 (Fri Oct 16)",
+                "action": "Link the sticker listing from the journal's free-sample thank-you page and listing description."
+              },
+              {
+                "day": "Day 5-19 (Oct 17-31)",
+                "action": "Pinterest: 3 pins a week (planner spreads with the stickers, close-ups of single phrases)."
+              },
+              {
+                "day": "Day 12 (Sat Oct 24)",
+                "action": "Sample arrives (approximately): photograph it on a real planner spread and make it the first listing photo."
+              },
+              {
+                "day": "Day 21 (Mon Nov 2)",
+                "action": "Mid-check: if views but no favorites, change the first photo and title lead; if no views at all, add more pins."
+              },
+              {
+                "day": "Day 28 (Mon Nov 9)",
+                "action": "Go/pivot/stop: continue (and design a second sheet) with 5+ sales in 4 weeks; if it sells only bundled, keep it as a journal bonus; with no sales in 4 weeks, deactivate the print-on-demand listing and keep the print-at-home PDF as a free bonus."
+              }
+            ],
+            "channels": [
+              {
+                "channel": "Pinterest",
+                "tactic": "Planner-spread pins showing stickers in use; single-phrase close-ups linking to Etsy.",
+                "cadence": "3 pins a week for 4 weeks."
+              },
+              {
+                "channel": "Etsy",
+                "tactic": "Cross-link with the journal listing; add a bundle photo; real sample photo first.",
+                "cadence": "Check stats weekly."
+              },
+              {
+                "channel": "TikTok / Instagram Reels",
+                "tactic": "Include the stickers in the journal's 'filling in my week' videos instead of separate posts.",
+                "cadence": "1 appearance a week inside journal videos."
+              }
+            ],
+            "keywords": [
+              "planner stickers",
+              "kinda chic sticker",
+              "small wins stickers",
+              "journal stickers",
+              "sticker sheet",
+              "everyday wins",
+              "butter yellow",
+              "cute planner sticker",
+              "kiss cut stickers",
+              "weekly planner",
+              "gift for journaler",
+              "stationery gift"
+            ],
+            "hooks": [
+              "kinda chic to drink the water. There's a sticker for that.",
+              "12 tiny wins, now in sticker form.",
+              "My planner, but make it 'kinda chic'."
+            ]
+          },
+          "extensions": [
+            "Digital sticker pack (transparent PNGs) for tablet journaling apps at about $3, zero marginal cost.",
+            "Second sheet with work-week wins or holiday-season wins ('kinda chic to skip the party').",
+            "Journal plus sticker bundle listing.",
+            "Single die-cut laptop stickers of the top 3 phrases."
+          ],
+          "asymmetry": {
+            "downside": "About 4 hours plus roughly $12 for a sample (estimate); no inventory.",
+            "upside": "Small on its own: an add-on that raises order value for the journal and gives a cheap entry point; Redbubble singles run passively.",
+            "badBetIf": "Treated as a standalone product. Margins are roughly $2.50-3.50 a sheet (estimate), the phrase is fading, and planner stickers are a crowded category. This is not asymmetric by itself; it is worth doing only as a bundle add-on and traffic hook."
+          },
+          "risks": [
+            "Provider sticker-sheet sizes, prices and cut options vary; the template governs the layout.",
+            "Small text can blur on a kiss-cut sheet; keep at least 8 pt and check the sample.",
+            "'go to therapy' may read as sensitive to some buyers; keep it as a phrase with no claims, or swap it out.",
+            "Redbubble earnings per sticker are low and its search is crowded.",
+            "Easy for others to copy a text-based design."
+          ]
+        }
+      ]
+    },
+    {
+      "candidateId": "kitchen-witch-aesthetic",
+      "products": [
+        {
+          "index": 0,
+          "themeKey": "'Kitchen Witch Pantry' apothecary label system: 60+ labels f",
+          "productName": "Kitchen Witch Pantry: 64+ Editable Apothecary Jar Labels",
+          "superPrompt": "You are a product designer and culinary editor who makes printable pantry label systems. Produce the complete content and layout spec for \"Kitchen Witch Pantry\", an apothecary-style label set for real culinary herbs, spices, teas and homemade blends, which I will build in Canva and sell as a digital download.\n\nBUYER AND JOB\nThe buyer is a home cook or herbal hobbyist (mostly US women 25-45) restyling open shelves or a spice cabinet in a cozy, old-world \"kitchen witch\" look: labeled glass jars, dried herbs, candles, moons. The set's job: make her real pantry look like a vintage apothecary while staying useful every day of the year, not just at Halloween.\n\nDELIVERABLE SPEC\n1. Label list, at least 64 named labels, grouped:\n- Culinary herbs (20), e.g. rosemary, sage, thyme, basil, oregano, bay leaf, dill, mint.\n- Spices (20), e.g. cinnamon, nutmeg, cumin, paprika, cardamom, cloves, ginger, black pepper.\n- Teas and tisanes (10), e.g. chamomile, peppermint, black tea, rooibos, hibiscus, culinary lavender.\n- Pantry basics (6), e.g. flour, sugar, sea salt, oats, honey, rice.\n- Homemade blends (8) with original names, including \"Hearth Blend\". For each blend give ingredients with ratios in teaspoons or tablespoons, a one-line culinary use and a storage note.\nFor every label give: display name, current accepted botanical name where one applies, and a short category line (\"culinary herb\", \"whole spice\", \"loose tea\", \"house blend\").\n2. Editable blanks: 12 per shape with placeholder text \"your blend here\".\n3. Shapes and sizes: round 2 in (spice-jar lids), round 1.5 in (small jars), rectangle 3 x 2 in (mason jars), rectangle 4 x 2.5 in (canisters). For each shape propose a grid for US Letter (8.5 x 11 in) and A4 (210 x 297 mm) and prove it fits: columns x size plus gaps must leave margins of at least 0.25 in.\n4. Two colorways: Parchment (light labels for home printing) and Nightshade (dark labels with gold text).\n5. A one-page \"How to use\" insert: print at 100% scale, paper suggestions (matte sticker paper or kraft), how to edit the template, care tips.\n6. An 8-card blend recipe page, 4 cards per US Letter or A4 page.\n\nSTYLE\nTypography: IM Fell English for herb names, Cormorant Garamond italic for botanical names and small lines, Cinzel for category caps (all free for commercial use). Ornament: thin double-rule frames, a small crescent moon or moon-phase strip, one botanical sprig per label family. Palette: Parchment #F3E9D2, Ink Black #2B2622, Oxblood #6E1F1F, Forest #2F4A3A, Antique Gold #B08D57, Dusty Plum #5B4A6B. Minimum text size 7 pt on the 1.5 in round.\n\nCONTENT REQUIREMENTS\n- Original wording only; write the blend names yourself.\n- Accuracy: use current accepted botanical names (rosemary is now Salvia rosmarinus); if unsure, omit the botanical name rather than guess. Include only common, food-safe culinary items sold in grocery stores; leave out anything with known toxicity concerns. Check that every blend ratio is sensible for home cooking.\n- Tone: cozy, old-world, matter-of-fact. Reading level: grade 6-8.\n\nDIFFERENTIATION\nExisting sellers offer Halloween novelty potion labels (\"eye of newt\" style) and film-inspired signs. This set is functional and year-round (real ingredients, editable blanks, several jar sizes) and keeps the witchy look through typography and moons, not gimmicks.\n\nCONSTRAINTS\n- No film, TV or book titles, character or family names, or quotes; no trademarks or brand names.\n- Frame everything as culinary use or traditional folklore. No medicinal, health, magical or spell-effect claims (nothing like \"for protection\" or \"for sleep\").\n- No copied artwork; ornaments must be original or public domain.\n\nOUTPUT FORMAT\nReturn tab by tab: (1) a table per group with Display name | Botanical name | Category line | Shapes; (2) blend recipes; (3) blank-label text; (4) grid math per shape for Letter and A4; (5) colorway specs; (6) How-to-use insert text; (7) recipe card text. Also give one CSV block (columns: group, name, botanical, category) for Canva Bulk Create. Finish with a ticked self-check: at least 64 labels; botanical names verified or omitted; no non-food or unsafe items; no claims of effects; no film or brand references; grids fit Letter and A4 with 0.25 in margins; Hearth Blend included.",
+          "imagePrompts": [
+            {
+              "tool": "Midjourney or Ideogram",
+              "purpose": "Botanical sprig ornaments for the label families",
+              "prompt": "Set of 12 vintage engraving-style botanical line illustrations of culinary herbs and spices in a 4 x 3 grid with generous spacing: rosemary sprig, sage leaves, thyme sprig, lavender stem, chamomile flower, bay leaf, mint sprig, basil leaves, cinnamon sticks, star anise, peppercorns, dill frond. Fine Ink Black #2B2622 cross-hatched linework, 19th-century herbal-plate style, each drawing isolated. Square 1:1, solid white #FFFFFF background. No text, no labels, no letters. No logos, no real people, no trademarked characters, no watermarks. Check each drawing actually looks like its herb before using it."
+            },
+            {
+              "tool": "Ideogram or Midjourney",
+              "purpose": "Label frame with crescent-moon ornament (rectangle; repeat with 'circular frame, 1:1' for the round labels)",
+              "prompt": "Delicate apothecary label frame: thin double-rule rounded rectangle with a small crescent moon and a tiny three-phase moon strip centered at the top, small leaf flourishes at the corners, Antique Gold #B08D57 linework, perfectly symmetrical, flat vector engraving style, completely blank center. Horizontal 3:2. Transparent background, or solid white #FFFFFF if transparency is not available. No text, no letters. No logos, no real people, no trademarked characters, no watermarks."
+            },
+            {
+              "tool": "Midjourney or ChatGPT images",
+              "purpose": "Styled shelf scene for Pinterest pins and listing photos (your printed labels are placed on the blank jars in Canva)",
+              "prompt": "Open dark-wood kitchen shelf styled as an old-world apothecary: rows of clear glass jars and small spice jars with plain blank cream labels, bundles of dried herbs hanging from a rail, a beeswax candle, a small copper pot, a mortar and pestle, soft autumn window light, warm moody tones of Forest #2F4A3A and Antique Gold #B08D57, photographic, straight-on view. Vertical 2:3, solid scene background. Labels must be completely blank. No text, no brand packaging. No logos, no real people, no trademarked characters, no watermarks."
+            }
+          ],
+          "assembly": [
+            "Run the super prompt; check every botanical name against a reliable reference, delete any item that is not a common food-safe ingredient, and remove any wording that implies an effect.",
+            "In Canva create a US Letter (8.5 x 11 in) design; build one master label per shape (2 in round, 1.5 in round, 3 x 2 in, 4 x 2.5 in) from the frame and sprig art, with IM Fell English and Cormorant Garamond text, laid out on the grid the AI calculated.",
+            "Fill the labels group by group (Canva Pro Bulk Create from the AI's CSV is fastest; otherwise duplicate and type). Make the Parchment colorway first, then duplicate the pages and recolor for Nightshade.",
+            "Duplicate the finished design and set it to A4 (210 x 297 mm), then re-space the grids so nothing falls inside the 0.25 in margin.",
+            "Export PDF Print (300 DPI) for Letter and A4 in both colorways. Print one sheet at 100% scale on plain paper and measure a round label with a ruler: it must be exactly 2 in.",
+            "Create a separate Canva design with the editable blanks, use Share > Template link, and paste that link into a one-page 'Access your editable template' PDF. Use only your own art and Canva elements that Canva's license allows in shared templates.",
+            "Photograph real jars with printed labels if you can (best listing photo); otherwise place label PNGs on the AI shelf scene. Make 10 Pinterest pins (1000 x 1500 px) and 5+ listing images.",
+            "Zip the files by format (each zip under Etsy's 20 MB per-file limit, 5 files maximum), then publish the Etsy listing and a Gumroad page with the same files."
+          ],
+          "listingPrompt": "You are an Etsy SEO copywriter for printable home-organization products. Write the Etsy listing for my digital download \"Kitchen Witch Pantry\", an apothecary-style jar label set.\nProduct facts (use only these; mark anything missing as [CHECK]): 64+ labels for real culinary herbs, spices, teas, pantry basics and 8 original house blends (including Hearth Blend); 4 shapes and sizes (2 in round, 1.5 in round, 3 x 2 in and 4 x 2.5 in rectangles); two colorways (light Parchment and dark Nightshade); 12 editable blanks per shape through a Canva template link (free Canva account needed); 8 blend recipe cards; printable PDFs in US Letter and A4; instant download; nothing physical ships.\nBuyer: home cooks and herbal hobbyists styling open shelves or spice cabinets in a cozy, witchy, old-world look.\n\nWrite:\n1. Title under 140 characters starting with the buyer's search phrase, such as \"Apothecary Spice Jar Labels\" or \"Kitchen Witch Pantry Labels\" (choose and explain), then printable, editable, herb and tea labels. No ALL CAPS.\n2. Exactly 13 Etsy tags, each 20 characters or fewer including spaces, character count shown after each.\n3. Description: two opening lines; \"What's included\" bullets with label counts per group; sizes; file formats; \"How delivery works\" (download from your Etsy Purchases page; the editable link is inside the PDF); printing tips (print at 100% / actual size, suggested paper types); a 6-question FAQ (Is anything mailed? Can I edit the text? Which paper should I use? Are they waterproof? Will they fit my jars? Can I sell the printed labels? - answer: personal use only).\n4. One line stating that the illustrations were created with the help of AI tools and finished by [YOUR SHOP NAME].\nRules: never use the title of any film, TV show or book (especially the 1998 witch-sisters film or its 2026 sequel), character or family names from them, film quotes or studio names; no trademarked terms or brand names in the title, tags or description (do not name label-paper, printer or jar brands; you may say \"editable in Canva\" only in the description); no medicinal, health, magical or spell-effect claims; no Halloween novelty ingredients; do not invent reviews, sales or search data.",
+          "pricing": {
+            "recommended": 9,
+            "low": 6,
+            "high": 14,
+            "currency": "USD",
+            "rationale": "The input saw fan digital prints around $8 on Etsy; a 64+ label system with blanks, two colorways and an editable template justifies a little more, while staying an impulse-level price against Halloween label downloads. Bundle with the journal or the prints at $14-16.",
+            "basis": "estimate"
+          },
+          "costs": {
+            "provider": null,
+            "item": null,
+            "baseCost": null,
+            "shipping": null,
+            "basis": "estimate: digital product, no production or shipping cost. Etsy charges a $0.20 listing fee plus a transaction fee and payment-processing fee on each sale (about 6.5% and about 3% + $0.25 in the US at the time of writing; verify current rates); Gumroad takes a per-sale fee (verify).",
+            "testBudget": 14,
+            "testBudgetNote": "Etsy Ads at $1/day for 14 days from Day 7 to speed discovery inside the short autumn window; skip it if pins are already bringing clicks."
+          },
+          "platforms": [
+            {
+              "name": "Etsy",
+              "role": "primary",
+              "why": "Biggest marketplace for printable labels; buyers search there for spice and pantry labels year-round."
+            },
+            {
+              "name": "Gumroad",
+              "role": "secondary",
+              "why": "Direct link for pins and videos, plus a place to host a free 12-label sampler with email capture if the pivot is needed."
+            },
+            {
+              "name": "Pinterest",
+              "role": "traffic",
+              "why": "The input's demand signal is Pinterest hobby searches (herbal apothecary, spice blends); styled-shelf pins match that intent."
+            },
+            {
+              "name": "TikTok",
+              "role": "traffic",
+              "why": "Kitchen makeover and jar-labeling videos are a natural format for this look; show the transformation, not the film."
+            }
+          ],
+          "marketing": {
+            "positioning": "A real, working kitchen apothecary: 64+ labels for the herbs, spices and teas you actually cook with, in an old-world witchy style that still makes sense in January. No potions, no film quotes.",
+            "launchPlan": [
+              {
+                "day": "Day 0 (Mon Oct 5)",
+                "action": "Run the super prompt; verify botanical names and remove any non-culinary item or effect wording."
+              },
+              {
+                "day": "Day 1-2 (Oct 6-7)",
+                "action": "Build the Letter and A4 PDFs in both colorways plus the editable template link; print a test sheet at 100% and measure it."
+              },
+              {
+                "day": "Day 3 (Thu Oct 8)",
+                "action": "Publish the Etsy listing and Gumroad page; post the first 3 pins to a new 'Kitchen apothecary' board."
+              },
+              {
+                "day": "Day 4-9 (Oct 9-14)",
+                "action": "Pin 1-2 styled-shelf or close-up pins a day until at least 10 are live, each linking to the listing."
+              },
+              {
+                "day": "Day 7 (Mon Oct 12)",
+                "action": "Post a TikTok/Reel 'labeling my spice cabinet' (before/after, own voice); start Etsy Ads at $1/day for 14 days."
+              },
+              {
+                "day": "Day 14 (Mon Oct 19)",
+                "action": "Read stats: impressions, saves, outbound clicks, listing views. If clicks but no sales, change the first photo or price (change 1 of 2)."
+              },
+              {
+                "day": "Day 21 (Mon Oct 26)",
+                "action": "Go/pivot/stop: continue if pin saves and clicks beat your account baseline and the listing has favorites and a few sales. If saves but no sales, offer a free 12-label sampler as a lead magnet, bundle with the journal, or reposition as 'apothecary spice labels' without the witch framing. Stop if there are almost no impressions or saves after 21 days and 20+ pins, or clicks without sales after two price or thumbnail changes."
+              },
+              {
+                "day": "Day 28 (Mon Nov 2)",
+                "action": "Post-Halloween check: shift new pins to 'winter pantry' and 'mulling spice gift jar' angles to test whether interest survives Oct 31."
+              }
+            ],
+            "channels": [
+              {
+                "channel": "Pinterest",
+                "tactic": "Styled-shelf mockups, label close-ups, 'spice cabinet makeover' before/after pins; boards for kitchen apothecary, spice organization and herb garden.",
+                "cadence": "1-2 new pins a day for 3 weeks (20+ total), then 5 a week through December."
+              },
+              {
+                "channel": "TikTok / Instagram Reels",
+                "tactic": "Jar-labeling and shelf-makeover clips with your own voiceover or a commercial-library sound; renter-friendly framing.",
+                "cadence": "2 a week."
+              },
+              {
+                "channel": "Etsy",
+                "tactic": "Ads for 14 days; real-jar photo first; cross-link the journal and print set.",
+                "cadence": "Stats twice a week; at most two price or thumbnail changes during the test."
+              },
+              {
+                "channel": "Herb-gardening and pantry-organization communities (subreddits, Facebook groups)",
+                "tactic": "Share the free sampler only where self-promotion is allowed; check the community rules first.",
+                "cadence": "At most 1 post a week per community."
+              }
+            ],
+            "keywords": [
+              "kitchen witch labels",
+              "apothecary labels",
+              "spice jar labels",
+              "herb jar labels",
+              "pantry labels",
+              "printable labels",
+              "tea jar labels",
+              "editable labels",
+              "herbal apothecary",
+              "spice blend labels",
+              "witchy kitchen",
+              "vintage labels",
+              "cottagecore kitchen"
+            ],
+            "hooks": [
+              "My spice cabinet, but make it an old-world apothecary.",
+              "64 labels for the herbs you actually cook with. No eye of newt.",
+              "Renter-friendly kitchen witch makeover: just labels and jars.",
+              "Real herbs, real labels, still witchy."
+            ]
+          },
+          "extensions": [
+            "'Kitchen Witch Pantry' bundle with the Kitchen Grimoire journal and the herb chart print set.",
+            "Holiday gift-jar labels and tags for homemade mulling spice, cocoa and herb-salt jars (December).",
+            "Matching canister labels for flour, sugar and coffee in larger sizes.",
+            "The same content restyled as a minimal farmhouse or modern set, if the witch framing fades.",
+            "Free 12-label sampler on Gumroad to build an email list."
+          ],
+          "asymmetry": {
+            "downside": "About 8 hours and $0-14 cash (optional ads).",
+            "upside": "Zero marginal cost, useful all year, sells on Etsy and Gumroad at once, anchors a bundle (journal, prints, gift tags) and can be repositioned as plain 'apothecary spice labels' if the aesthetic cools. The test gives an answer within 21 days.",
+            "badBetIf": "Interest collapses after Oct 31, or generic spice labels (a big, crowded Etsy category) bury the listing. A single film reference in a title or tag also turns this into a takedown risk."
+          },
+          "risks": [
+            "IP: the studio is actively licensing film-branded goods to big retailers, so any film name, family name or line in a listing invites a takedown.",
+            "Crowded generic spice-label market; the witchy styling and real-ingredient system must show in the first photo.",
+            "Canva template-link licensing: deliver the editable version only as a template link and avoid elements Canva does not allow in shared templates.",
+            "Print-scale complaints if buyers print with 'fit to page'; state '100% / actual size' clearly.",
+            "Botanical-name errors undermine trust with hobbyists; verify or omit.",
+            "New Etsy listings take weeks to be found; Halloween demand is mostly out of reach."
+          ]
+        },
+        {
+          "index": 1,
+          "themeKey": "'Kitchen Grimoire' herb and recipe journal: herb profile pag",
+          "productName": "Kitchen Grimoire: Herb & Recipe Journal (Printable PDF + 6x9 Paperback)",
+          "superPrompt": "You are a cookbook editor and journal designer. Produce the complete interior content and layout spec for \"Kitchen Grimoire\", an herb and recipe journal with an old-world look, sold as a printable PDF and as a 6 x 9 in Amazon KDP paperback.\n\nBUYER AND JOB\nBuyers are gift shoppers looking for something for a witchy, cottagecore or herb-loving friend (winter solstice and holiday gifts), plus hobbyists buying for themselves. The journal's job: give the hobbyist one beautiful place to record herbs she grows or buys, spice blends she makes, seasonal kitchen traditions and pressed flowers.\n\nDELIVERABLE SPEC (120 pages, page by page)\n- p1 title page; p2 \"this grimoire belongs to\"; p3 how to use (150-200 words); p4 a short framing note: culinary reference and traditional folklore only, not medical advice.\n- p5-6 Seasonal kitchen calendar (\"wheel of the year\"): 8 seasonal points in order (winter solstice, early February, spring equinox, early May, summer solstice, early August, autumn equinox, late October). For each: approximate Northern Hemisphere date (\"around December 21\"), the traditional festival name or names it is commonly known by, 2-3 seasonal foods or kitchen activities, and one folklore line clearly labeled as folklore. Note that dates shift by a day or so each year and are reversed in the Southern Hemisphere.\n- p7-30 24 pre-filled herb profiles, one per page: name, botanical name, flavor in 3-5 words, culinary uses, pairs with (4 foods), growing and harvest tips, drying and storage, one line starting \"In folklore,\" and lines for notes.\n- p31-70 40 blank herb profiles (same fields, empty).\n- p71-110 blend recipes, 2 recipe cards per page (80 cards): name, ingredients and ratios, method, uses, date made, rating. Pre-fill 6 original blends.\n- p111-118 pressed-flower pages: a frame plus lines for plant, date, place, notes.\n- p119-120 index and notes.\n\nFormats: KDP interior 6 x 9 in, no bleed, black and white; margins 0.625 in on both sides (safe for the gutter at this page count), 0.5 in top and bottom; body text at least 10 pt. Printable: US Letter (8.5 x 11 in) and A4 (210 x 297 mm), same pages, 0.5 in margins, color accents allowed.\nTypography: IM Fell English (headings), Cormorant Garamond (body), Cinzel (small caps labels), all free for commercial use. Palette for cover and printable: Forest #2F4A3A, Antique Gold #B08D57, Parchment #F3E9D2, Ink Black #2B2622, Oxblood #6E1F1F, Dusty Plum #5B4A6B. Interior art: black line engravings only.\nCover text: title, a subtitle of 10 words or fewer, and a back-cover blurb of 100-130 words.\n\nCONTENT REQUIREMENTS\n- Original wording only. Tone: warm, old-world, practical. Reading level: grade 7-9.\n- Accuracy: current accepted botanical names (rosemary is Salvia rosmarinus); only common, food-safe culinary herbs; conservative, widely accepted growing and drying guidance; every blend ratio sensible for home cooking. If unsure of a fact, leave it out.\n- Folklore is presented as what people traditionally believed, never as fact or as something that works.\n- Respectful: treat kitchen witchery as a hobby and a tradition some people hold as a spiritual path; no mockery and no spells promising outcomes.\n\nDIFFERENTIATION\nMost \"grimoire\" journals are blank spell books or film tie-ins. This is a practical herb and recipe log with real pre-filled culinary profiles and a seasonal kitchen calendar, which makes it a better gift and useful all year.\n\nCONSTRAINTS\n- No film, TV or book titles, character or family names, or quotes; no trademarks.\n- No medicinal uses, dosages, remedies, or health, magical or spell-effect claims.\n\nOUTPUT FORMAT\nReturn page by page (\"Page 7 - Rosemary\") with exact text and a one-line layout note. Give each blank page type once as a template and say how many copies to make. Then the cover text. End with a ticked self-check: 120 pages accounted for; 24 profiles complete; botanical names verified or omitted; no medicinal or effect claims; folklore labeled; no film or brand references; KDP margins stated.",
+          "imagePrompts": [
+            {
+              "tool": "Midjourney or ChatGPT images",
+              "purpose": "Front cover art for the KDP paperback and printable cover (title set in Canva)",
+              "prompt": "Old-world book cover illustration: an ornate botanical frame of rosemary, sage and lavender sprigs with a crescent moon at the top center, fine Antique Gold #B08D57 linework on a solid deep Forest #2F4A3A background, subtle aged-leather texture, large empty space in the center for a title. Vertical 2:3 (front cover only). Solid background. No text, no letters. No logos, no real people, no trademarked characters, no watermarks."
+            },
+            {
+              "tool": "Midjourney or Ideogram",
+              "purpose": "Interior herb engravings (run once per pre-filled herb, swapping [HERB])",
+              "prompt": "Single vintage engraving-style botanical illustration of [HERB] (stem, leaves and flowers or seeds), fine black #000000 cross-hatched ink lines, 19th-century herbal-plate style, centered with generous padding. Square 1:1, solid white #FFFFFF background, pure black and white for grayscale printing. No text, no labels, no letters. No logos, no real people, no trademarked characters, no watermarks."
+            },
+            {
+              "tool": "Ideogram",
+              "purpose": "Wheel-of-the-year ornament for the seasonal kitchen calendar spread",
+              "prompt": "Circular ornament divided into 8 equal segments, each with a small seasonal kitchen motif: evergreen bough, candle, budding branch, flower garland, sun, wheat sheaf, apples, gourds. Thin black #000000 line art, engraving style, symmetrical, center circle left blank. Square 1:1, solid white #FFFFFF background. No text, no letters, no symbols of any real organization. No logos, no real people, no trademarked characters, no watermarks."
+            },
+            {
+              "tool": "Midjourney or ChatGPT images",
+              "purpose": "Flat-lay background for listing photos and pins until the KDP proof copy arrives (cover placed on the blank book in Canva)",
+              "prompt": "Cozy flat lay on a dark wooden table: a closed plain journal with a blank deep-green cover, dried herb bundles, a stone mortar and pestle, a beeswax candle, a few pressed flowers, warm low candlelight, top-down, photographic. Vertical 4:5, solid scene background. Book cover must be completely blank. No text. No logos, no real people, no trademarked characters, no watermarks."
+            }
+          ],
+          "assembly": [
+            "Run the super prompt; fact-check every botanical name and growing tip against a reliable reference and delete anything medicinal or effect-based.",
+            "In Canva create a 6 x 9 in design with guides at 0.625 in left and right and 0.5 in top and bottom (Canva cannot mirror gutters, so equal side margins keep the gutter safe); build the page templates and paste the text until there are exactly 120 pages.",
+            "Export the interior as PDF Print, black and white artwork only; check that no element sits outside the margins and the page count is 120.",
+            "Download KDP's paperback cover template for 6 x 9 in, 120 pages, white paper (the spine width comes from the template); build the full wrap in Canva at the template's size, leave the barcode area blank, and export PDF Print.",
+            "In KDP create the paperback: title, subtitle, description, 7 keywords and categories; take the free KDP ISBN; answer the AI-generated content questions truthfully; upload both PDFs; fix any issues the online previewer flags; set the price; order one proof copy.",
+            "Duplicate the Canva interior, resize to US Letter and to A4 (210 x 297 mm), add color accents, re-check margins and export PDF Print (300 DPI) for the printable version.",
+            "List the printable PDF on Etsy and Gumroad (zip under 20 MB); add a 'Pantry + Grimoire' bundle listing with the label set.",
+            "Make 5 listing images and 5 pins from page previews on the flat-lay background; once KDP is live, add pins linking to the Amazon page and replace the mockups with photos of the proof copy."
+          ],
+          "listingPrompt": "You are an Etsy and Amazon KDP copywriter. Write two listings for my journal \"Kitchen Grimoire\".\nProduct facts (use only these; mark anything missing as [CHECK]): 120-page herb and recipe journal with an old-world look; 24 pre-filled culinary herb profiles (flavor, uses, pairings, growing, drying and storage, a labeled folklore line); 40 blank herb profiles; 80 blend recipe cards (6 pre-filled); a seasonal kitchen calendar (wheel of the year) with approximate dates; 8 pressed-flower pages; index and notes. Printable PDF in US Letter and A4 (instant download), and a 6 x 9 in paperback on Amazon with a black-and-white interior.\nBuyers: gift shoppers for witchy, cottagecore or herb-loving friends (winter solstice and holiday gifts) and hobbyists themselves.\n\nPart A - Etsy (printable PDF):\n1. Title under 140 characters starting with the buyer's search phrase, such as \"Herb Journal Printable\" or \"Kitchen Witch Recipe Journal\" (choose and explain).\n2. Exactly 13 Etsy tags, each 20 characters or fewer including spaces, character count after each.\n3. Description: what it is and who it's for; \"What's inside\" bullets with page counts; file formats and sizes; \"How delivery works\" (download from your Etsy Purchases page; nothing ships); printing tips; a 5-question FAQ (Is it a physical book? Is a paperback available? Can I print it more than once? Is this medical advice? - answer no, culinary and folklore only; Can I print single pages?).\n4. One line stating it was written and illustrated with the help of AI tools and edited by [YOUR SHOP NAME].\nPart B - Amazon KDP (paperback): a subtitle (title plus subtitle under 200 characters), a 150-250 word description with short paragraphs and a bullet list, 7 keyword phrases (each under 50 characters, no words already in the title), and 3 suggested browse categories in plain words.\nRules for both: never use the title of any film, TV show or book (especially the 1998 witch-sisters film or its 2026 sequel), character or family names from them, film quotes or studio names; no trademarked terms or brand names; no medicinal, health, magical or spell-effect claims (no \"remedies\", \"healing\" or \"spells that work\"); do not invent reviews, rankings or sales.",
+          "pricing": {
+            "recommended": 7,
+            "low": 5,
+            "high": 12,
+            "currency": "USD",
+            "rationale": "Recommended price is for the printable PDF, in line with printable herb and recipe journals (estimate; check comparables). The KDP paperback is the holiday-gift format: list it at about $12.99 (range $9.99-14.99) to keep a healthy royalty over an estimated print cost of about $2.45.",
+            "basis": "estimate: KDP royalty is about 60% of list price minus print cost at $9.99 and above (paperbacks priced lower have earned a lower rate; verify current KDP terms). At $12.99 that is roughly $5.30 per copy."
+          },
+          "costs": {
+            "provider": "Amazon KDP",
+            "item": "6 x 9 in paperback, black-and-white interior, 120 pages, white paper",
+            "baseCost": 2.44,
+            "shipping": null,
+            "basis": "estimate: verify in the provider catalog (KDP's printing-cost calculator). Assumes KDP's published US formula for 110+ page black-and-white paperbacks of about $1.00 fixed plus $0.012 per page. Amazon charges buyers for shipping, so you pay shipping only on proof and author copies. The printable PDF has no production cost; Etsy charges a $0.20 listing fee plus a transaction fee and payment-processing fee on each sale (about 6.5% and about 3% + $0.25 in the US at the time of writing; verify current rates).",
+            "testBudget": 0,
+            "testBudgetNote": "No ads during the test. Budget roughly $5-8 (estimate) for one KDP proof copy with shipping, so you can photograph the real book."
+          },
+          "platforms": [
+            {
+              "name": "Etsy",
+              "role": "primary",
+              "why": "Instant-download PDF sells from day one while the paperback is in review; it is the input's first test."
+            },
+            {
+              "name": "Amazon KDP",
+              "role": "primary",
+              "why": "The paperback is the gift format for holiday and winter-solstice shoppers, printed and shipped by Amazon with no inventory."
+            },
+            {
+              "name": "Gumroad",
+              "role": "secondary",
+              "why": "Direct link for the PDF and bundles from pins and videos."
+            },
+            {
+              "name": "Pinterest",
+              "role": "traffic",
+              "why": "Herb, spice-blend and gift-idea pins match the hobby searches in the input and can link to both Etsy and Amazon."
+            }
+          ],
+          "marketing": {
+            "positioning": "A grimoire that is mostly recipes: a practical, old-world herb and spice-blend journal with real culinary profiles and a seasonal kitchen calendar, made as a gift for the friend who dries herbs on every surface.",
+            "launchPlan": [
+              {
+                "day": "Day 0 (Thu Oct 8)",
+                "action": "Run the super prompt (start right after the label set is live); fact-check names and remove any medicinal wording."
+              },
+              {
+                "day": "Day 1-3 (Oct 9-11)",
+                "action": "Build the 120-page 6 x 9 interior and the full cover wrap in Canva."
+              },
+              {
+                "day": "Day 4 (Mon Oct 12)",
+                "action": "Upload to KDP (review can take up to about 72 hours) and order a proof; resize to Letter and A4 and list the printable PDF on Etsy and Gumroad; add the label-plus-journal bundle."
+              },
+              {
+                "day": "Day 5 (Tue Oct 13)",
+                "action": "Publish 5 pins (flip-through mockups, profile-page close-ups) linking to Etsy."
+              },
+              {
+                "day": "Day 7 (Thu Oct 15)",
+                "action": "Target date for the paperback to be live (mid-October): add Amazon-linked pins and post a 'flip through my kitchen grimoire' TikTok/Reel."
+              },
+              {
+                "day": "Day 8-20 (Oct 16-28)",
+                "action": "1 pin a day; 1 short video a week (pressing flowers, writing a blend recipe)."
+              },
+              {
+                "day": "Day 14 (Thu Oct 22)",
+                "action": "Two-week PDF check: compare its conversion with the label set's."
+              },
+              {
+                "day": "Day 21 (Thu Oct 29)",
+                "action": "Shift pins and video angles to winter solstice and holiday gifting ('gift for herb lovers', 'stocking stuffer for gardeners')."
+              },
+              {
+                "day": "Day 38 (Sun Nov 15)",
+                "action": "Go/pivot check (mid-November): continue if the PDF converts at least as well as the labels or KDP shows organic sales. If buyers prefer the labels, fold the journal pages into a larger 'Kitchen Witch Pantry' bundle."
+              },
+              {
+                "day": "Day 56 (Thu Dec 3)",
+                "action": "Stop check (early December): no sales from either format means stop promoting; leave the listings up passively."
+              }
+            ],
+            "channels": [
+              {
+                "channel": "Pinterest",
+                "tactic": "Page-preview and gift-idea pins; one board for herb and spice-blend recipes and one for gifts for gardeners; link to Etsy and, once live, Amazon.",
+                "cadence": "1 pin a day for 3 weeks, then 3-5 a week through Dec 21."
+              },
+              {
+                "channel": "TikTok / Instagram Reels",
+                "tactic": "Flip-throughs, writing a blend recipe, pressing flowers into the journal; own voice or commercial-library sound.",
+                "cadence": "1 a week."
+              },
+              {
+                "channel": "Amazon",
+                "tactic": "Strong subtitle and 7 keywords; real proof-copy photos in your Author Central or listing images where allowed.",
+                "cadence": "Review the KDP dashboard weekly."
+              },
+              {
+                "channel": "Herb-gardening communities",
+                "tactic": "Share a free printable blank herb-profile page where self-promotion is allowed; check the community rules first.",
+                "cadence": "At most 1 post a week per community."
+              }
+            ],
+            "keywords": [
+              "herb journal",
+              "kitchen grimoire",
+              "recipe journal",
+              "spice blend recipes",
+              "herb garden journal",
+              "gift for herb lover",
+              "witchy journal",
+              "grimoire journal",
+              "printable journal",
+              "cottagecore journal",
+              "pressed flower book",
+              "yule gift"
+            ],
+            "hooks": [
+              "A grimoire, but it's mostly recipes.",
+              "Where my homemade spice blends finally live.",
+              "Gift idea for the friend who dries herbs on every surface.",
+              "24 herb profiles, 80 blend cards, one old-world journal."
+            ]
+          },
+          "extensions": [
+            "Hardcover KDP edition from the same interior.",
+            "Printable blend recipe cards and a garden planner as separate small listings.",
+            "Tea-blend journal variant with the same layout.",
+            "'Kitchen Witch Pantry' bundle: labels plus journal plus herb chart prints.",
+            "Holiday gift-jar tags to sell next to the journal in December."
+          ],
+          "asymmetry": {
+            "downside": "About 16 hours and roughly $5-8 for a proof copy (estimate).",
+            "upside": "KDP keeps selling with no inventory and reaches Amazon search; the PDF has zero marginal cost; the journal anchors bundles with the label set, and the content is evergreen beyond the 2026 trend.",
+            "badBetIf": "KDP discovery without ads is slow and herb or grimoire journals already exist on Amazon, so the paperback may need months to show sales. If there are no sales from either format by early December, the holiday window has been missed."
+          },
+          "risks": [
+            "KDP review rejections for margin or text-outside-trim issues; use the previewer before submitting.",
+            "KDP requires disclosure of AI-generated text and images; answer truthfully.",
+            "Medicinal language can creep into herb profiles; review every page.",
+            "Botanical or growing-tip errors undermine credibility with hobbyists.",
+            "Seasonal festival names matter to people who practice; keep the framing respectful and the dates approximate.",
+            "Public-domain botanical art must be verified (published before 1931) if used instead of your own art."
+          ]
+        },
+        {
+          "index": 2,
+          "themeKey": "Vintage herbarium-style culinary herb chart and moon-phase a",
+          "productName": "Kitchen Apothecary Print Set of 3: Herb Chart, Moon Phases, Drying Guide",
+          "superPrompt": "You are a botanical illustrator and print designer who makes vintage herbarium-style wall art. Produce the complete content and layout spec for a set of 3 \"kitchen apothecary\" prints in deep jewel tones, sold as digital downloads with an optional print-on-demand poster.\n\nBUYER AND JOB\nRenters and homeowners styling a kitchen or coffee nook in the whimsigoth / kitchen-witch look (botanicals, apothecary jars, moons, candlelight). The set's job: decorate without remodeling, with wall art that is also genuinely useful while cooking.\n\nDELIVERABLE SPEC\nPrint 1 - \"Culinary Herb Chart\": 12 herbs in a 3 x 4 grid. For each: common name, botanical name, flavor in 3 words, pairs with (3 foods), typical harvest season for temperate North American gardens. Background: Emerald.\nPrint 2 - \"Phases of the Moon\": the 8 phases in correct order in an arc or vertical column: New Moon, Waxing Crescent, First Quarter, Waxing Gibbous, Full Moon, Waning Gibbous, Last Quarter (Third Quarter), Waning Crescent. Add one accurate line: the full cycle takes about 29.5 days. Background: Sapphire.\nPrint 3 - \"Herb Harvest & Drying Guide\": 5 numbered steps (when to harvest, how to cut, how to bundle or tray-dry, how to tell herbs are dry, how to store) plus a small table of 8 herbs with \"air-dry or tray-dry\" and \"strip leaves before storing: yes/no\". Background: Garnet.\nEach print: an ornamental gold border, one title in caps, illustrations as fine engraving-style line art and a small \"No. I / II / III\" set mark.\nSizes (portrait): master at 24 x 36 in (2:3); also 18 x 24 in (3:4), 16 x 20 in (4:5), 11 x 14 in, US Letter (8.5 x 11 in) for home printing, and A1 (594 x 841 mm, ISO ratio, scales down to A4). Give a layout note per ratio (what moves, what shrinks). All text must stay legible at 8 x 10 in (about 9 pt or larger at that size).\n\nSTYLE\nPalette: Emerald #1F4D3A, Sapphire #1F3A5F, Garnet #7A1E2C, Antique Gold #B08D57 (borders, linework), Parchment #F3E9D2 (text), Ink #2B2622 (shadows). Fonts: Cinzel (titles), Cormorant Garamond (body), IM Fell English (accent captions), all free for commercial use. Also describe a light Parchment-background colorway as a bonus.\n\nCONTENT REQUIREMENTS\n- Original wording only. Tone: calm, old-world, factual. Reading level: grade 6-8.\n- Accuracy checks: current accepted botanical names (rosemary is Salvia rosmarinus) or omit if unsure; standard culinary pairings; harvest seasons marked \"typical; varies by climate\"; moon phases in the right order; for Northern Hemisphere art, the lit side is on the right while waxing and on the left while waning (state this so I can check my art); conservative, widely accepted drying guidance.\n\nDIFFERENTIATION\nMost kitchen-witch wall art is a film-quote sign or a Halloween novelty. This set is functional (pairings, phases, drying steps), matches the \"Kitchen Witch Pantry\" label set for bundling and works all year.\n\nCONSTRAINTS\n- No film, TV or book titles, character names or quotes; no trademarks or brand names.\n- No medicinal, magical or effect claims; the moon print is astronomy plus decoration only.\n- Artwork must be original or verified public domain (published before 1931); no copied illustrations.\n\nOUTPUT FORMAT\nFor each print: title, all text exactly as it should appear, an element-by-element layout from top to bottom with approximate positions as a percentage of height, and an illustration list with one-line descriptions I can use as image prompts. Then the per-ratio notes and the bonus colorway. End with a ticked self-check: 12 herbs complete; 8 phases in order; waxing lit on the right stated; harvest seasons marked typical; no claims, film or brand references; minimum text size met at 8 x 10 in.",
+          "imagePrompts": [
+            {
+              "tool": "Midjourney or Ideogram",
+              "purpose": "Ornamental border, one per print (swap the background hex for Sapphire #1F3A5F and Garnet #7A1E2C)",
+              "prompt": "Ornamental apothecary border for a vintage botanical poster: fine botanical vines, small leaves and tiny crescent moons running around all four edges, corner flourishes, Antique Gold #B08D57 linework on a solid deep Emerald #1F4D3A background, subtle paper texture, completely empty center. Vertical 2:3. Solid background. No text, no letters. No logos, no real people, no trademarked characters, no watermarks."
+            },
+            {
+              "tool": "Midjourney or Ideogram",
+              "purpose": "Herb illustrations for the chart (run per herb, swapping [HERB]; recolor to gold in Canva with the Duotone effect if needed)",
+              "prompt": "Single vintage herbarium-style illustration of [HERB], fine engraving line art in Parchment #F3E9D2 and Antique Gold #B08D57 on solid black #000000, 19th-century botanical-plate style, centered with generous padding. Square 1:1, solid background. No text, no labels, no letters. No logos, no real people, no trademarked characters, no watermarks."
+            },
+            {
+              "tool": "Midjourney or ChatGPT images",
+              "purpose": "One full-moon disc; build all 8 phases in Canva with shape masks so the lit side is correct",
+              "prompt": "A single detailed full moon disc with realistic craters and maria, softly tinted Parchment #F3E9D2, perfectly round and centered, evenly lit with no shadow, solid black #000000 background. Square 1:1. No stars, no text, no letters, no other objects. No logos, no real people, no trademarked characters, no watermarks."
+            },
+            {
+              "tool": "Midjourney or ChatGPT images",
+              "purpose": "Room mockup with three blank frames for listing photos and pins",
+              "prompt": "Cozy whimsigoth kitchen nook: three identical thin black frames hung in a row on a dark green painted wall, open shelf below with glass apothecary jars, candles, dried flowers and copper pans, warm evening light, photographic, straight-on. The frames are empty with plain light grey insides. Horizontal 3:2, solid scene background. No text, no brand packaging. No logos, no real people, no trademarked characters, no watermarks."
+            }
+          ],
+          "assembly": [
+            "Run the super prompt; check the herb pairings, the moon-phase order and the waxing-on-the-right rule against a reliable reference.",
+            "In Canva create a 24 x 36 in design; build the three prints from the border, herb illustrations and text. For the moon print, duplicate the moon disc 8 times and mask each with a dark circle or ellipse to make the phases, lit on the right while waxing.",
+            "Duplicate and adapt each print to 18 x 24 in, 16 x 20 in, 11 x 14 in, US Letter (8.5 x 11 in) and A1 (594 x 841 mm); fix the layout per ratio (Canva Pro Resize speeds this up).",
+            "Export each print and ratio as PDF Print and high-quality JPG; zip by ratio (5 zips, with the 11 x 14 in and US Letter files sharing one zip; each under Etsy's 20 MB limit, which also fits Etsy's 5-file maximum).",
+            "Print one print at 8 x 10 in on a home printer to confirm the smallest text is legible and the dark backgrounds are not muddy.",
+            "Place the prints in the room mockup; make 5 listing images (set view, each print close up, size guide, what's included) and 5 pins.",
+            "Publish the digital set on Etsy and a labels-plus-prints bundle listing at about $14-16; upload each print to Redbubble at the highest resolution as a secondary channel.",
+            "Optional: only if the digital set sells, create Printify matte poster products (12 x 18 in from the 2:3 file) as a separate print-on-demand listing."
+          ],
+          "listingPrompt": "You are an Etsy SEO copywriter for printable wall art. Write the Etsy listing for my digital download \"Kitchen Apothecary Print Set of 3\".\nProduct facts (use only these; mark anything missing as [CHECK]): 3 vintage herbarium-style prints in deep jewel tones with gold borders: (1) Culinary Herb Chart, 12 herbs with flavor, pairings and typical harvest season; (2) Phases of the Moon, 8 phases in order; (3) Herb Harvest & Drying Guide. Delivered as 5 zip files by ratio: 2:3 (prints up to 24 x 36 in), 3:4 (up to 18 x 24 in), 4:5 (up to 16 x 20 in), 11 x 14 in plus US Letter (8.5 x 11 in), and ISO A-series (A1 down to A4); PDF and JPG; instant download; frames not included; nothing ships.\nBuyer: renters and homeowners styling a kitchen or coffee nook in a whimsigoth / kitchen-witch look.\n\nWrite:\n1. Title under 140 characters starting with the buyer's search phrase, such as \"Herb Chart Print Set of 3\" or \"Kitchen Witch Wall Art\" (choose and explain), then moon phase print, apothecary, printable. No ALL CAPS.\n2. Exactly 13 Etsy tags, each 20 characters or fewer including spaces, character count after each.\n3. Description: two opening lines; \"What's included\" bullets; a size guide by ratio; \"How delivery works\" (download from your Etsy Purchases page); printing tips (home printer vs. local or online print shop, matte paper); a 5-question FAQ (Is a frame included? Will colors match my screen? Can I print it more than once? Which size should I pick? Is a physical print available? - answer [CHECK]).\n4. One line stating the artwork was created with the help of AI tools and finished by [YOUR SHOP NAME].\nRules: never use the title of any film, TV show or book (especially the 1998 witch-sisters film or its 2026 sequel), character or family names from them, film quotes or studio names; no trademarked terms or brand names in the title, tags or description; no medicinal, magical or effect claims; do not invent reviews, sales or search data.",
+          "pricing": {
+            "recommended": 9,
+            "low": 6,
+            "high": 14,
+            "currency": "USD",
+            "rationale": "The input saw fan digital prints around $8 on Etsy; a coordinated set of 3 with functional content supports about $9 standalone, while the main job is lifting the label set to a $14-16 bundle.",
+            "basis": "estimate"
+          },
+          "costs": {
+            "provider": "Printify (optional print-on-demand version only)",
+            "item": "Matte vertical poster, 12 x 18 in",
+            "baseCost": 9.0,
+            "shipping": 6.0,
+            "basis": "estimate: verify in the provider catalog. A 12 x 18 in matte poster is assumed at roughly $8-10 base and $5-7 first-item US shipping. The core product is digital with no production cost; Etsy charges a $0.20 listing fee plus a transaction fee and payment-processing fee on each sale (about 6.5% and about 3% + $0.25 in the US at the time of writing; verify current rates).",
+            "testBudget": 0,
+            "testBudgetNote": "No ads: the input's test is the attach rate in the label bundle."
+          },
+          "platforms": [
+            {
+              "name": "Etsy",
+              "role": "primary",
+              "why": "Digital wall-art buyers shop on Etsy, and the set can be bundled with the label listing in the same shop."
+            },
+            {
+              "name": "Redbubble",
+              "role": "secondary",
+              "why": "Passive posters and art prints from the same files, with no setup beyond uploading."
+            },
+            {
+              "name": "Pinterest",
+              "role": "traffic",
+              "why": "Kitchen-decor and whimsigoth room pins are classic Pinterest content and lead back to the bundle."
+            }
+          ],
+          "marketing": {
+            "positioning": "Wall art you can actually cook from: a jewel-toned herb chart, moon-phase chart and drying guide that turn a rental kitchen into an old-world apothecary and match the Kitchen Witch Pantry labels.",
+            "launchPlan": [
+              {
+                "day": "Day 0 (Mon Oct 12)",
+                "action": "Run the super prompt; fact-check pairings, phase order and the waxing-lit-on-the-right rule."
+              },
+              {
+                "day": "Day 1-2 (Oct 13-14)",
+                "action": "Build the three prints at 24 x 36 in, adapt to all 5 ratios, export and zip."
+              },
+              {
+                "day": "Day 3 (Thu Oct 15)",
+                "action": "List the digital set on Etsy, create the labels-plus-prints bundle listing, cross-link both from the label listing, and upload the three prints to Redbubble."
+              },
+              {
+                "day": "Day 4-17 (Oct 16-29)",
+                "action": "Pinterest: 1 pin a day (room mockups, moon-phase close-ups, herb chart details)."
+              },
+              {
+                "day": "Day 7 (Mon Oct 19)",
+                "action": "Post one Reel/TikTok: 'renter-friendly witchy kitchen nook in 3 prints'."
+              },
+              {
+                "day": "Day 14 (Mon Oct 26)",
+                "action": "Compare bundle sales with labels-only sales (attach rate)."
+              },
+              {
+                "day": "Day 21 (Mon Nov 2)",
+                "action": "Go/pivot/stop: continue if the bundle with prints sells as well as or better than the labels alone; if prints don't attach, offer them free as Pinterest-traffic bait that points to the label listing; stop with zero standalone sales and no bundle lift after 3 weeks."
+              },
+              {
+                "day": "Day 28 (Mon Nov 9)",
+                "action": "If continuing, add a winter-herbs variant and refresh pins for winter solstice and holiday gifting."
+              }
+            ],
+            "channels": [
+              {
+                "channel": "Pinterest",
+                "tactic": "Room-mockup pins and detail close-ups on boards for whimsigoth decor, kitchen wall art and moon decor; link to the bundle.",
+                "cadence": "1 pin a day for 2 weeks, then 3 a week."
+              },
+              {
+                "channel": "Instagram Reels / TikTok",
+                "tactic": "Renter-friendly nook makeover featuring the prints and labeled jars together.",
+                "cadence": "1 a week."
+              },
+              {
+                "channel": "Redbubble",
+                "tactic": "Upload once, tag well, leave passive.",
+                "cadence": "One-time setup."
+              }
+            ],
+            "keywords": [
+              "herb chart print",
+              "moon phase print",
+              "kitchen wall art",
+              "witchy wall art",
+              "apothecary print",
+              "botanical print set",
+              "whimsigoth decor",
+              "kitchen witch decor",
+              "herbarium print",
+              "printable wall art",
+              "moody kitchen art",
+              "set of 3 prints"
+            ],
+            "hooks": [
+              "Renter-friendly whimsigoth kitchen: just add three prints.",
+              "Wall art you can actually cook from.",
+              "In the Northern Hemisphere a waxing moon is lit on the right. Now your wall knows it too.",
+              "Herb chart, moon phases, drying guide: the kitchen apothecary set."
+            ]
+          },
+          "extensions": [
+            "Winter-herbs and spice-chart prints for the holiday season.",
+            "Tea-blend chart print.",
+            "Southern Hemisphere version of the moon-phase print.",
+            "Print-on-demand posters or canvas once the digital set proves demand.",
+            "Matching recipe cards in the same jewel palette."
+          ],
+          "asymmetry": {
+            "downside": "About 6 hours; $0 cash.",
+            "upside": "Zero marginal cost, raises the label set's order value through the bundle, evergreen decor content, and passive Redbubble listings from the same files.",
+            "badBetIf": "Sold standalone: digital wall art is one of Etsy's most crowded categories, so discovery on its own is hard. Its value is as a bundle add-on and Pinterest bait; if it doesn't lift the bundle in 3 weeks, give it away as traffic bait."
+          },
+          "risks": [
+            "Crowded digital wall-art category.",
+            "Moon art drawn by an image model is often wrong (lit side, phase order); build phases with masks and check them.",
+            "Dark jewel backgrounds can print muddy at home; recommend a print shop and matte paper in the listing.",
+            "Large files can exceed Etsy's 20 MB per-file limit; compress the JPGs or split the zips.",
+            "Public-domain illustrations must be verified as published before 1931; otherwise use original art."
+          ]
+        }
+      ]
+    },
+    {
+      "candidateId": "remember-november-2026",
+      "products": [
+        {
+          "index": 0,
+          "themeKey": "'November 2026: Do You Understand Yet?' phone wallpaper and ",
+          "productName": "November 2026: Do You Understand Yet? Lock-Screen Calendar Pack",
+          "superPrompt": "You are a meme-literate designer and comedy writer who makes phone wallpapers and printable calendars. Produce the complete content and design spec for \"November 2026: Do You Understand Yet?\", a pack of daily lock-screen calendar wallpapers starring an original cartoon polar bear, plus a printable desk calendar.\n\nBUYER AND JOB\nTeens and young adults in the US who follow the \"Remember November 2026\" meme on TikTok and Reels: a \"meme from the future\" whose joke is anticipation with no event at the end. The pack's job: let them be in on the joke on their lock screen every day of the month the meme points to, with a fresh deadpan line each day.\n\nVERIFIED CALENDAR FACTS (use exactly)\nNovember 2026 has 30 days. Nov 1 is a Sunday; Nov 30 is a Monday. Sunday-first grid: row 1 = 1-7, row 2 = 8-14, row 3 = 15-21, row 4 = 22-28, row 5 = 29-30. Thanksgiving is Thursday, Nov 26.\n\nDELIVERABLE SPEC\n1. 30 daily captions, one per date, each 40 characters or fewer, deadpan and escalating: early days \"it's here, act normal\", mid-month confusion, late-month acceptance, a shrug on Nov 30. Add 10 spare captions.\n2. 30 daily lock screens. Master canvas 1290 x 2796 px; also 1179 x 2556 px and 1080 x 2400 px versions. Safe zones: keep the top 30% clear for the clock and the bottom 12% clear for buttons. Layout between 32% and 86% of the height: title \"NOVEMBER 2026\", the full month grid with that day circled, the day's caption, the bear in a corner pose.\n3. 3 bonus wallpapers (no grid): bear balanced on its front paws (\"do you understand yet?\"), bear holding a wall calendar (\"it's november.\"), bear shrugging next to a \"30\" page (\"i still don't get it\").\n4. Printable desk calendar: US Letter landscape (11 x 8.5 in) and A4 landscape (297 x 210 mm), month grid with every caption in its date cell, bear at the top, 0.4 in margins.\n5. A short \"how to set your wallpaper\" note (generic phone steps, no brand names).\n\nBear character (original; must look nothing like the viral AI image): flat 2D cartoon, round chunky body, thick rounded outlines, small dot eyes, tiny mint scarf, never photorealistic.\nFonts: Fredoka (headings) and Nunito (captions), free for commercial use. Palette: Arctic Night #0E1A2B (background), Snow #F4F7FA (text, bear), Ice Blue #A9D6E5 (grid lines), Glacier #5FA8D3 (accents), Signal Yellow #FFD23F (today circle), Scarf Mint #7ED3B2.\n\nCONTENT REQUIREMENTS\n- Original wording only. Deadpan, absurd, teen-safe: no profanity, no insults, no references to real people, news, tragedies or politics. Nov 3, 2026 is a US election day: write nothing political for any date. Keep Nov 11 respectful (no veterans jokes). Reading level: grade 5-7.\n- Accuracy: every caption's weekday matches the facts above; every caption fits in 40 characters; nothing claims a real event will happen.\n\nDIFFERENTIATION\nCompetitors print copies of the AI bear on shirts with the \"is coming\" framing that goes stale on Nov 1. This pack uses the calendar payoff, gives a new joke every day of November, uses original art and is instant digital, so there is no shipping lag on a hard-dated joke.\n\nCONSTRAINTS\n- Do not describe, trace or recreate the viral AI polar-bear image or video frames.\n- No musician names, song titles, lyrics or melodies; do not use the phrase \"life goes on\" anywhere.\n- No brand names or trademarks.\n\nOUTPUT FORMAT\n1. Caption table: Date | Weekday | Caption | Character count, then the 10 spares.\n2. A CSV block for Canva Bulk Create (columns: date, weekday, caption, grid_row, grid_col), with grid_col 1 = Sunday.\n3. Lock-screen layout spec with pixel positions for the 1290 x 2796 master.\n4. Bonus wallpaper text and poses.\n5. Desk calendar layout for Letter and A4.\n6. How-to note.\n7. A ticked self-check: 30 captions, all 40 characters or fewer; weekdays and grid positions match (Nov 1 = Sunday, row 1 col 1; Nov 30 = Monday, row 5 col 2); nothing political or about real people; no song, musician or \"life goes on\"; bear described as an original flat cartoon.",
+          "imagePrompts": [
+            {
+              "tool": "ChatGPT images or Midjourney (keep the same chat, or use a character reference, so all poses match)",
+              "purpose": "Bear pose 1: balanced on front paws (bonus wallpaper and sticker art)",
+              "prompt": "Original cartoon mascot: a round, chunky polar bear drawn as flat 2D vector art with thick rounded Arctic Night #0E1A2B outlines, body Snow #F4F7FA, tiny dot eyes, soft Ice Blue #A9D6E5 shading, a small Scarf Mint #7ED3B2 scarf. Pose: a wobbly handstand balanced on its front paws, back legs in the air, deadpan expression. Full body, centered, plenty of padding. Square 1:1. Transparent background, or solid pure white #FFFFFF if transparency is not available. Simple sticker-style cartoon; not photorealistic, no fur texture, no realistic animal. No text, no letters. No logos, no real people, no trademarked characters, no watermarks."
+            },
+            {
+              "tool": "ChatGPT images or Midjourney (same character)",
+              "purpose": "Bear pose 2: holding a blank wall calendar (calendar text added in Canva)",
+              "prompt": "The same original cartoon polar bear (flat 2D vector, thick rounded Arctic Night #0E1A2B outlines, Snow #F4F7FA body, dot eyes, Scarf Mint #7ED3B2 scarf) standing upright and holding up a blank wall-calendar page with nothing written on it, flat deadpan stare at the viewer. Full body, centered. Square 1:1, transparent background or solid white #FFFFFF. Not photorealistic. No text, no numbers, no letters. No logos, no real people, no trademarked characters, no watermarks."
+            },
+            {
+              "tool": "ChatGPT images or Midjourney (same character)",
+              "purpose": "Bear pose 3: shrugging next to a blank tear-off page (the '30' is added in Canva)",
+              "prompt": "The same original cartoon polar bear (flat 2D vector, thick rounded Arctic Night #0E1A2B outlines, Snow #F4F7FA body, dot eyes, Scarf Mint #7ED3B2 scarf) shrugging with both paws raised and a confused half-smile, standing next to a large blank tear-off calendar page. Full body, centered. Square 1:1, transparent background or solid white #FFFFFF. Not photorealistic. No text, no numbers, no letters. No logos, no real people, no trademarked characters, no watermarks."
+            },
+            {
+              "tool": "Ideogram or Midjourney",
+              "purpose": "Lock-screen background texture",
+              "prompt": "Minimal night-sky background for a phone lock screen: solid Arctic Night #0E1A2B with sparse tiny snowflakes and dots in Ice Blue #A9D6E5 and Snow #F4F7FA, slightly denser near the bottom, flat vector, calm and uncluttered. Vertical, aspect ratio about 9:19.5. Solid background. No text, no moon, no animals. No logos, no real people, no trademarked characters, no watermarks."
+            }
+          ],
+          "assembly": [
+            "Generate the three bear poses in one chat or with a character reference so they match; compare them side by side with the viral image's general look and redraw anything that looks close (it must read as an original flat cartoon).",
+            "Remove backgrounds if needed (Canva Pro background remover, or the image tool's transparent output) and save each pose as a PNG.",
+            "In Canva create a 1290 x 2796 px design; build the master lock screen: background texture, 'NOVEMBER 2026' title, the month grid (Sunday first, Nov 1 in the first cell), caption box and bear, all between about 32% and 86% of the height.",
+            "Create the 30 daily versions with Bulk Create from the AI's CSV (Canva Pro), or duplicate the page 30 times on the free plan; move the yellow 'today' circle and swap the caption on each page.",
+            "Add the 3 bonus pose wallpapers; make copies resized to 1179 x 2556 px and 1080 x 2400 px; export all as PNG and zip into two folders by size.",
+            "Build the desk calendar on US Letter landscape and A4 landscape with every caption in its date cell; export PDF Print (300 DPI). Add a one-page 'how to set your wallpaper' PDF.",
+            "Set three of the wallpapers on your own phone and screenshot them to confirm the clock and buttons don't cover the grid; use those screenshots as listing images and in videos.",
+            "Publish on Etsy (5 files maximum, 20 MB each) at $3 and on Gumroad with the same files; put the Gumroad link in your Instagram bio."
+          ],
+          "listingPrompt": "You are an Etsy SEO copywriter for digital downloads aimed at teens and young adults. Write the Etsy listing for my instant-download phone wallpaper pack \"November 2026: Do You Understand Yet?\".\nProduct facts (use only these; mark anything missing as [CHECK]): 30 daily lock-screen calendar wallpapers for November 2026, each with the month grid, that day circled and a deadpan caption; 3 bonus wallpapers of an original cartoon polar bear; sizes 1290 x 2796, 1179 x 2556 and 1080 x 2400 px (PNG); a printable desk calendar PDF in US Letter and A4 landscape; instant download; nothing ships. The art is original and not the viral image.\nBuyer: US teens and young adults who follow the \"Remember November 2026\" meme.\n\nWrite:\n1. Title under 140 characters starting with the buyer's search phrase \"Remember November 2026\", then lock screen calendar, wallpaper pack, polar bear, digital download. No ALL CAPS.\n2. Exactly 13 Etsy tags, each 20 characters or fewer including spaces, character count after each.\n3. Description: two deadpan opening lines; \"What's inside\" bullets; sizes in pixels and \"fits most modern phones\"; \"How delivery works\" (download from your Etsy Purchases page, unzip on your phone or computer, set as wallpaper); a 5-question FAQ (Will it fit my phone? Do I get all 30 days at once? Can I print the calendar? Is this the original viral bear? - answer: no, it's an original illustration; What happens after November? - answer: it's a November 2026 joke, enjoy it while it lasts).\n4. One line stating the artwork was created with the help of AI tools and finished by [YOUR SHOP NAME].\nRules: never mention any musician, song title, lyrics or the audio used in the viral bear video, and never use the phrase 'life goes on'; never describe the product as the viral or AI bear; no trademarked terms or brand names in the title, tags or description (no phone or operating-system brand names; use pixel sizes); no political references; do not invent reviews, sales or claims about how popular the meme is.",
+          "pricing": {
+            "recommended": 3,
+            "low": 2,
+            "high": 5,
+            "currency": "USD",
+            "rationale": "About $3, per the input's test: an impulse price for a joke that expires on Nov 30, far below the $20+ apparel competitors sell. Gumroad can be set to $3+ pay-what-you-want.",
+            "basis": "estimate: after Etsy's listing, transaction and payment-processing fees, a $3 sale nets roughly $2.20-2.30 (verify current rates)."
+          },
+          "costs": {
+            "provider": null,
+            "item": null,
+            "baseCost": null,
+            "shipping": null,
+            "basis": "estimate: digital product, no production or shipping cost. Etsy charges a $0.20 listing fee plus a transaction fee and payment-processing fee on each sale (about 6.5% and about 3% + $0.25 in the US at the time of writing; verify current rates); Gumroad takes a per-sale fee (verify).",
+            "testBudget": 0,
+            "testBudgetNote": "No ads: a $3 product cannot earn back ad spend inside a few weeks. Traffic has to come from meme-format videos and Etsy search for the phrase."
+          },
+          "platforms": [
+            {
+              "name": "Etsy",
+              "role": "primary",
+              "why": "Etsy already has search pages for 'Remember November 2026' products, so buyers searching the phrase can find the listing without an audience."
+            },
+            {
+              "name": "Gumroad",
+              "role": "secondary",
+              "why": "Fast checkout and a clean direct link for bio links and video comments; can switch to free if the pivot is needed."
+            },
+            {
+              "name": "TikTok",
+              "role": "traffic",
+              "why": "The meme lives on TikTok; bear-reacting-to-the-calendar skits are the native format. Bio links may need a follower threshold or a business account, so you may have to point viewers to the Etsy shop name instead."
+            },
+            {
+              "name": "Instagram",
+              "role": "traffic",
+              "why": "Reels carry the same meme, and a bio link works without a follower minimum."
+            }
+          ],
+          "marketing": {
+            "positioning": "The meme's own month, on your lock screen: 30 days of deadpan 'do you understand yet?' calendar wallpapers with an original polar bear, instant download, for less than a coffee.",
+            "launchPlan": [
+              {
+                "day": "Day 0 (Mon Oct 12)",
+                "action": "Run the super prompt; generate and check the three original bear poses."
+              },
+              {
+                "day": "Day 1 (Tue Oct 13)",
+                "action": "Build the 30 daily lock screens, bonus wallpapers and desk calendar; test on your own phone."
+              },
+              {
+                "day": "Day 2 (Wed Oct 14)",
+                "action": "Publish on Etsy at $3 and on Gumroad; add the Gumroad link to your Instagram bio."
+              },
+              {
+                "day": "Day 3-12 (Oct 15-24)",
+                "action": "Film and bank 5 short videos (bear reacting to the calendar, 'day 1 of November 2026' skits) using your own voice or on-screen text, never the viral audio. Post one teaser every 3 days ('20 days until November. Do you understand yet?')."
+              },
+              {
+                "day": "Day 13 (Sun Oct 25)",
+                "action": "Main push starts: post 3-5 TikToks/Reels between Oct 25 and Nov 3, each pointing to the product."
+              },
+              {
+                "day": "Day 20 (Sun Nov 1)",
+                "action": "Nov 1: the biggest moment. Post 'It's November 2026. Did you understand?' and pin a comment saying where to find the pack."
+              },
+              {
+                "day": "Day 23 (Wed Nov 4)",
+                "action": "Go/pivot check (Nov 4): continue if there are 10+ paid downloads or clear 'where do I get this' comments. If videos get views but no sales, make the pack free (Gumroad $0+) as a lead magnet and push the sticker instead."
+              },
+              {
+                "day": "Day 29 (Tue Nov 10)",
+                "action": "Stop check (Nov 10): fewer than 3 sales, or meme content visibly dead after Nov 1, means stop posting."
+              },
+              {
+                "day": "Day 49 (Mon Nov 30)",
+                "action": "Nov 30: deactivate the listings; keep the bear and template for any future 'meme from the future' product (a different product)."
+              }
+            ],
+            "channels": [
+              {
+                "channel": "TikTok",
+                "tactic": "Meme-format skits: the original bear reacting to the calendar, daily 'still don't get it' updates. Own voice or commercial-library sound only.",
+                "cadence": "1 teaser every 3 days Oct 15-24, then 3-5 posts Oct 25-Nov 3, one on Nov 1."
+              },
+              {
+                "channel": "Instagram Reels",
+                "tactic": "Cross-post every TikTok; Gumroad link in bio; a 'which day are you on?' story with three wallpaper previews.",
+                "cadence": "Same as TikTok."
+              },
+              {
+                "channel": "Etsy",
+                "tactic": "Phrase-led title and tags so the listing appears in searches for the meme; real phone screenshots as photos.",
+                "cadence": "Check stats every 2-3 days during Oct 25-Nov 10."
+              }
+            ],
+            "keywords": [
+              "remember november",
+              "november 2026",
+              "polar bear meme",
+              "lock screen calendar",
+              "phone wallpaper",
+              "november wallpaper",
+              "meme wallpaper",
+              "funny lock screen",
+              "november calendar",
+              "2026 meme",
+              "polar bear wallpaper",
+              "digital wallpaper"
+            ],
+            "hooks": [
+              "It's November 2026. Do you understand yet?",
+              "I made a lock screen that counts down to... nothing.",
+              "Day 4 of November 2026 and I still don't get it.",
+              "Your phone, but it's from the future (it's November)."
+            ]
+          },
+          "extensions": [
+            "Bundle with the 'I remembered. November 2026.' sticker, or give the sticker art away as a free digital bonus.",
+            "Free version as a lead magnet if paid sales stall (the input's pivot).",
+            "Desktop wallpaper size from the same files.",
+            "Reuse the bear character and calendar template for future monthly or 'meme from the future' wallpaper packs (a different product, judged on its own)."
+          ],
+          "asymmetry": {
+            "downside": "About 5 hours and $0 cash. The answer comes by Nov 4, roughly 3 weeks after launch.",
+            "upside": "Zero marginal cost and instant delivery during the one month the joke pays off; Etsy search for the phrase brings some traffic without an audience; one video that takes off can carry the whole test. The bear and template are reusable.",
+            "badBetIf": "Attention already peaked in September and November passes quietly, or you cannot post consistently from Oct 25 to Nov 3. The upside is capped by a $3 price and a hard Nov 30 end, so this is a cheap lottery ticket, asymmetric only because the cost is a few hours."
+          },
+          "risks": [
+            "Takedowns if the bear looks like the viral AI image or if listings or videos reference the song or musician.",
+            "Using the viral audio in your own videos invites muting or takedowns; use your own voice or commercial-library sounds.",
+            "Nov 3, 2026 is a US election day; any political joke can make the product feel sensitive.",
+            "TikTok bio links may be restricted for small personal accounts; plan to send viewers to the Etsy shop name or your Instagram bio.",
+            "Hard deadline: anything not sold by Nov 30 is worthless.",
+            "A larger seller or brand could flood the November moment."
+          ]
+        },
+        {
+          "index": 1,
+          "themeKey": "Die-cut sticker of an original polar bear balancing on its f",
+          "productName": "'I Remembered. November 2026.' Original Polar Bear Sticker",
+          "superPrompt": "You are a sticker designer and meme copywriter. Produce the complete, print-ready design spec for a die-cut sticker of an original cartoon polar bear balanced on its front paws, captioned \"I remembered. November 2026.\", plus one alternate caption version, for print-on-demand sale.\n\nBUYER AND JOB\nMeme-literate US teens and young adults who know the \"Remember November 2026\" meme (a \"meme from the future\" that points at a month with nothing in it). They decorate laptops, water bottles and phone cases. The sticker's job: a cheap, giftable in-joke that stays funny all through November because it is the post-payoff punchline, not the \"coming\" framing that expires on Nov 1.\n\nDELIVERABLE SPEC\n- Version A caption: \"I remembered. November 2026.\"\n- Version B caption: \"Remember November 2026 - I still don't get it\"\n- Also write 10 alternate captions of 6 words or fewer that work after Nov 1, ranked by how quickly they read on a laptop lid.\n- Composition: bear doing a handstand on its front paws, centered; caption on two lines, either arched above or in a speech-bubble banner beneath; the whole design inside one closed silhouette for die cutting.\n- Bear (original; must look nothing like the viral AI image): flat 2D cartoon, round chunky body, thick rounded outlines, dot eyes, tiny mint scarf; no photorealism, no fur texture.\n- Cut border: a solid Snow white offset of 0.125 in (about 38 px at 300 DPI) around the whole silhouette, with no thin spikes or gaps narrower than 0.0625 in.\n- Sizes and files: 3 x 3 in (900 x 900 px), 4 x 4 in (1200 x 1200 px), 5.5 x 5.5 in (1650 x 1650 px) at 300 DPI, transparent PNG; plus a 3000 x 3000 px transparent master for single-sticker marketplaces.\n- Readability: caption readable at the 3 in size from about 1 m; minimum cap height 0.15 in at 3 in.\n\nSTYLE\nPalette: Snow #F4F7FA (bear body, border), Arctic Night #0E1A2B (outlines, caption text), Ice Blue #A9D6E5 (shading), Signal Yellow #FFD23F (banner fill), Scarf Mint #7ED3B2. Font: Fredoka Bold for the caption (free for commercial use), with Nunito ExtraBold as a fallback. Give exact sizes, line breaks, letter case and stroke weights.\n\nCONTENT REQUIREMENTS\n- Original wording; deadpan tone; no profanity; nothing political (Nov 3, 2026 is a US election day) and no references to real people or events. Reading level: grade 3-5.\n- Accuracy: spell \"November 2026\" identically in both versions; confirm all files are square, 300 DPI and transparent, and the border is continuous.\n\nDIFFERENTIATION\nCompetitors copy the AI bear onto apparel with \"is coming\" text. This uses original art and the after-the-fact punchline, and it matches the \"Do You Understand Yet?\" wallpaper bear so the two can be bundled.\n\nCONSTRAINTS\n- Do not describe, trace or recreate the viral AI polar-bear image or video frames.\n- No musician names, song titles, lyrics or melodies; never use the phrase \"life goes on\".\n- No trademarks or brand names.\n\nOUTPUT FORMAT\n1. Layer-by-layer spec for Version A and Version B (bear, banner, text, border) with sizes and hex colors.\n2. Export list (file names and pixel sizes).\n3. The 10 ranked alternates.\n4. Canva build steps (7 or fewer), including how to add the white offset border.\n5. A ticked self-check: both captions exact; bear is an original flat cartoon; continuous 0.125 in border; files square, 300 DPI, transparent; nothing political; no song, musician or brand.",
+          "imagePrompts": [
+            {
+              "tool": "ChatGPT images or Midjourney (reuse the wallpaper pack's handstand pose if you already made it)",
+              "purpose": "Sticker bear art: handstand on front paws",
+              "prompt": "Original cartoon mascot: a round, chunky polar bear drawn as flat 2D vector art with thick rounded Arctic Night #0E1A2B outlines, body Snow #F4F7FA, tiny dot eyes, soft Ice Blue #A9D6E5 shading, a small Scarf Mint #7ED3B2 scarf. Pose: a wobbly handstand on its front paws, back legs in the air, deadpan expression. Full body, centered, wide padding so a caption fits above or below. Square 1:1. Transparent background, or solid pure white #FFFFFF if transparency is not available. Simple sticker style; not photorealistic, no fur texture. No text, no letters. No logos, no real people, no trademarked characters, no watermarks."
+            },
+            {
+              "tool": "Midjourney or ChatGPT images",
+              "purpose": "Laptop mockup background for listing photos (sticker placed in Canva)",
+              "prompt": "Closed plain matte grey laptop lid on a light wooden desk, top-down view, a reusable water bottle and a phone beside it, soft daylight, photographic. Empty area in the center-right of the lid for placing a sticker later. Vertical 4:5, solid scene background. No device logos (lid completely plain), no existing stickers, no text, no hands. No logos, no real people, no trademarked characters, no watermarks."
+            }
+          ],
+          "assembly": [
+            "Run the super prompt; generate (or reuse) the handstand bear and check it reads as an original flat cartoon, not the viral image.",
+            "In Canva create a 3000 x 3000 px design; place the bear, the yellow banner and the caption in Fredoka Bold for Version A; duplicate for Version B.",
+            "Group everything, then add the white cut border: export the group as a transparent PNG, re-upload it, and apply Edit > Shadows > Outline in Snow white at a size equal to about 0.125 in (Canva Pro needed for transparent PNG export). Check that the outline is continuous with no thin gaps.",
+            "Export transparent PNGs at 3000 x 3000 px (master) plus 900, 1200 and 1650 px squares.",
+            "In Printify (connected to Etsy) create kiss-cut sticker products in 3 x 3 in and 4 x 4 in for both versions; publish to Etsy and confirm the print provider is listed as a production partner; state clear production and delivery times and an 'order by' date for delivery in November.",
+            "Upload both versions to Redbubble as stickers from the 3000 px master (by Oct 15, per the input's test).",
+            "Place the sticker on the laptop mockup for listing photos; order one sample only if it can arrive before Oct 25."
+          ],
+          "listingPrompt": "You are an Etsy SEO copywriter for meme stickers. Write the Etsy listing for my print-on-demand kiss-cut sticker \"I remembered. November 2026.\" (I will reuse it for Version B: \"Remember November 2026 - I still don't get it\").\nProduct facts (use only these; mark anything missing as [CHECK]): original cartoon polar bear doing a handstand, deadpan caption, white border; sizes 3 x 3 in and 4 x 4 in; [PASTE PROVIDER SPECS: material, finish, indoor/outdoor use]; made to order by my print partner; production [PROCESSING DAYS]; US delivery [SHIPPING DAYS]; order-by date for November delivery [ORDER BY DATE]. The art is original and not the viral image.\nBuyer: US teens and young adults who follow the \"Remember November 2026\" meme and decorate laptops and water bottles.\n\nWrite:\n1. Title under 140 characters starting with the buyer's search phrase \"Remember November 2026\", then sticker, polar bear, meme, laptop sticker. No ALL CAPS.\n2. Exactly 13 Etsy tags, each 20 characters or fewer including spaces, character count after each.\n3. Description: two deadpan opening lines; \"What you get\" bullets; sizes; material and care (from specs only); production and shipping with the order-by date in bold; a 4-question FAQ (Will it arrive in November? Is this the viral bear? - no, original art; Is it waterproof? - from specs only or [CHECK]; Is there a wallpaper to match?).\n4. One line stating the illustration was created with the help of AI tools and finished by [YOUR SHOP NAME].\nRules: never mention any musician, song title, lyrics or the audio used in the viral bear video, and never use the phrase 'life goes on'; never describe the product as the viral or AI bear; no trademarked terms or brand names (no laptop, bottle or phone brands) in the title, tags or description; nothing political; do not invent reviews, sales or claims about how popular the meme is.",
+          "pricing": {
+            "recommended": 4.5,
+            "low": 3.5,
+            "high": 6,
+            "currency": "USD",
+            "rationale": "Meme stickers sell as cheap impulse buys; $4.50 plus buyer-paid shipping keeps it near what the competitors' stickers likely charge (estimate; check comparables). Free shipping is not viable at this price because print-on-demand shipping alone costs about as much as the sticker.",
+            "basis": "estimate: at $4.50 plus shipping charged at roughly cost, margin is roughly $1.50-2 per sticker after an estimated $2 base cost and Etsy fees. Redbubble pays only the artist margin you set."
+          },
+          "costs": {
+            "provider": "Printify (US print provider connected to Etsy)",
+            "item": "Kiss-cut sticker, 3 x 3 in (4 x 4 in variant)",
+            "baseCost": 2.0,
+            "shipping": 4.0,
+            "basis": "estimate: verify in the provider catalog. A 3 x 3 in kiss-cut sticker is assumed at roughly $1.70-2.50 base and roughly $4 first-item US shipping (additional items cheaper). Etsy charges a $0.20 listing fee plus a transaction fee and payment-processing fee on each sale (about 6.5% and about 3% + $0.25 in the US at the time of writing; verify current rates).",
+            "testBudget": 0,
+            "testBudgetNote": "No ads: with a Nov 12 stop date and about $2 margin, ads cannot pay back. A sample (roughly $6 with shipping, estimate) is optional and only worth ordering if it arrives before the Oct 25 push."
+          },
+          "platforms": [
+            {
+              "name": "Etsy",
+              "role": "primary",
+              "why": "Etsy shows searches for 'Remember November 2026' products and Printify handles printing and shipping."
+            },
+            {
+              "name": "Redbubble",
+              "role": "secondary",
+              "why": "Zero-admin sticker marketplace already carrying some 2026 polar-bear designs; upload once and let it sit."
+            },
+            {
+              "name": "TikTok",
+              "role": "traffic",
+              "why": "Show the sticker inside the wallpaper pack's meme videos rather than making separate posts."
+            }
+          ],
+          "marketing": {
+            "positioning": "The punchline after the countdown: an original polar bear sticker for people who were warned about November 2026 and showed up anyway.",
+            "launchPlan": [
+              {
+                "day": "Day 0 (Mon Oct 12)",
+                "action": "Run the super prompt; generate or reuse the handstand bear; build Versions A and B."
+              },
+              {
+                "day": "Day 1 (Tue Oct 13)",
+                "action": "Create Printify kiss-cut sticker products for both versions and publish to Etsy with a clear order-by date; upload both to Redbubble."
+              },
+              {
+                "day": "Day 2 (Wed Oct 14)",
+                "action": "Order one sample only if it can arrive before Oct 25; otherwise rely on mockups."
+              },
+              {
+                "day": "Day 3-12 (Oct 15-24)",
+                "action": "Add the sticker to the wallpaper pack's teaser videos (sticker on a laptop lid in the final shot)."
+              },
+              {
+                "day": "Day 13 (Sun Oct 25)",
+                "action": "Main push with the meme videos (Oct 25-Nov 3); mention 'order by [date] to get it in November'."
+              },
+              {
+                "day": "Day 20 (Sun Nov 1)",
+                "action": "Nov 1 post: 'I remembered.' with the sticker as the payoff."
+              },
+              {
+                "day": "Day 24 (Thu Nov 5)",
+                "action": "Go/pivot check (Nov 5): continue if either version has 5+ sales; if favorites but no sales, give the sticker art away as a free digital bonus with the wallpaper pack."
+              },
+              {
+                "day": "Day 31 (Thu Nov 12)",
+                "action": "Stop check (Nov 12): no sales means deactivate the Etsy listing, because print-on-demand delivery would now land after the joke expires."
+              },
+              {
+                "day": "Day 49 (Mon Nov 30)",
+                "action": "Nov 30: deactivate everything; remove or leave Redbubble listings as you prefer."
+              }
+            ],
+            "channels": [
+              {
+                "channel": "TikTok / Instagram Reels",
+                "tactic": "Sticker as the closing shot of the wallpaper pack's meme videos; 'order by' date in the caption.",
+                "cadence": "In every main-push video, Oct 25-Nov 3."
+              },
+              {
+                "channel": "Etsy",
+                "tactic": "Phrase-led title and tags; one listing per version to compare favorites and sales.",
+                "cadence": "Check stats every 2-3 days until Nov 12."
+              },
+              {
+                "channel": "Redbubble",
+                "tactic": "Upload once with phrase-led tags.",
+                "cadence": "One-time setup."
+              }
+            ],
+            "keywords": [
+              "remember november",
+              "polar bear sticker",
+              "november 2026",
+              "meme sticker",
+              "laptop sticker",
+              "funny sticker",
+              "i remembered",
+              "polar bear meme",
+              "water bottle sticker",
+              "2026 sticker",
+              "die cut sticker"
+            ],
+            "hooks": [
+              "It's November 2026. I remembered. Did you?",
+              "A sticker for people who were warned.",
+              "POV: you've been waiting since 2023 and it's just... November."
+            ]
+          },
+          "extensions": [
+            "Free digital version of the sticker as a bonus with the wallpaper pack.",
+            "Wallpaper-plus-sticker bundle photo on both listings.",
+            "Reuse the bear for a future 'meme from the future' product only if a new year's version catches on (a different product, judged on its own)."
+          ],
+          "asymmetry": {
+            "downside": "About 3 hours, plus an optional sample of roughly $6 (estimate). No inventory.",
+            "upside": "Small and capped: roughly $1.50-2 margin per Etsy sticker and cents on Redbubble (estimates), with sales possible only until about mid-November because of delivery times.",
+            "badBetIf": "You make it as a standalone bet. Thin margins, a hard deadline and print-on-demand shipping lag mean it is not asymmetric on its own; it is worth 3 hours only because it reuses the wallpaper bear and rides the same videos. No sales by Nov 5 is the signal to stop."
+          },
+          "risks": [
+            "Print-on-demand delivery can push orders past Nov 30, leading to complaints and refunds; show an order-by date.",
+            "Takedowns if the bear resembles the viral image or listings reference the song or musician.",
+            "Thin margin: shipping costs about as much as the sticker.",
+            "Competitors with apparel already rank for the phrase.",
+            "Political sensitivity around the Nov 3 election; keep the caption apolitical."
+          ]
+        }
+      ]
+    }
+  ]
+}
