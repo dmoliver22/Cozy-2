@@ -1,0 +1,365 @@
+{
+  "id": "gen-z-bible-reading-revival",
+  "candidateId": "gen-z-bible-reading-revival",
+  "products": [
+    {
+      "index": 0,
+      "themeKey": "'2027 First-Time Reader Plan': a references-only, one-year r",
+      "productName": "2027 First-Time Reader Plan: New Testament, One Chapter a Weekday (Minimal + Soft)",
+      "superPrompt": "You are an editor of beginner reference material who is precise with Bible references and neutral across Christian traditions. Your goal: write the complete content for \"2027 First-Time Reader Plan\", a references-only plan for reading the New Testament in 2027, in two visual editions.\n\nBUYER AND JOB\nThe buyer is 18-35 and new to reading the Bible, often a first-time Bible owner. They want a simple schedule and plain facts about how the Bible is organized, without being told what to believe. One edition is minimal (designed with young men in mind), one is soft.\n\nPLAN STRUCTURE (standard, verifiable)\nThe 27 New Testament books in canonical order, 260 chapters, one chapter each weekday (Monday-Friday) from Monday January 4 to Friday December 31, 2027: exactly 260 weekdays. Weekends are open for catch-up. Friday January 1 is \"Orientation day\" (read pages 2-6). Chapter counts: Matthew 28, Mark 16, Luke 24, John 21, Acts 28, Romans 16, 1 Corinthians 16, 2 Corinthians 13, Galatians 6, Ephesians 6, Philippians 4, Colossians 4, 1 Thessalonians 5, 2 Thessalonians 3, 1 Timothy 6, 2 Timothy 4, Titus 3, Philemon 1, Hebrews 13, James 5, 1 Peter 5, 2 Peter 3, 1 John 5, 2 John 1, 3 John 1, Jude 1, Revelation 22.\nAnchors: Matthew 1 = Mon Jan 4; Mark 1 = Thu Feb 11; Acts 1 = Fri May 7; Romans 1 = Wed Jun 16; Revelation 1 = Thu Dec 2; Revelation 22 = Fri Dec 31.\n\nDELIVERABLE (US Letter 8.5x11 in and A4)\n1 Cover: \"2027 First-Time Reader Plan\" / \"The New Testament, one chapter a weekday\" / \"[YOUR SHOP NAME]\".\n2 How This Plan Works: one chapter a weekday; weekends free; missed a day? pick up at today's reading or use the weekend; works with any translation; references only.\n3 How the Bible Is Organized: two main parts, the Old Testament and the New Testament; traditions differ in which books they include (most Protestant Bibles have 66 books, Catholic Bibles 73, Eastern Orthodox Bibles more), while the 27-book New Testament is shared by all three; Jewish scripture (the Tanakh) contains the same books as the Protestant Old Testament, arranged differently.\n4 How to Read a Reference: book, chapter, verse (\"John 3:16\"); ranges (\"Mark 1:1-8\"); numbered books (\"1 John\" is not \"John\"); chapter and verse numbers were added long after the books were written, to help readers find passages.\n5 The New Testament by Type: Gospels (Matthew, Mark, Luke, John); History (Acts); Letters (21: thirteen open with Paul's name; the others are Hebrews, James, 1-2 Peter, 1-3 John, Jude); Apocalyptic (Revelation). Table: book | chapters | one neutral, factual line.\n6 Old Testament at a Glance: genre groups (Law, History, Poetry and Wisdom, Prophets) in the 66-book Protestant order, labeled as such, noting that other traditions include and order books differently.\n7 Year Tracker: 27 books with one box per chapter (260 boxes).\n8-19 Monthly pages, January-December: table Date | Day | Reading | check box; weekend rows shaded \"Open / catch-up\".\n20 Notes: date | reference | notes.\n21-22 Undated Version for late starters: Weeks 1-52 x Mon-Fri readings.\n\nEDITIONS (same text)\nMinimal: Bone #EDEBE6, Charcoal #232323, Olive #5E6B4E, Slate #6B7A89, Rust #A0522D; Oswald headings, Inter body; square grids, no florals.\nSoft: Cream #FBF7F0, Dusty Rose #D8A7A0, Sage #A8B5A0, Warm Taupe #8C7B6B, Ink #3A3A3A; Cormorant Garamond headings, Lato body; thin botanical line accents.\n\nCONTENT RULES\nReferences only: no verse text from any translation. Original, plain, descriptive wording at about an 8th-grade level. Say \"traditionally\" or \"many readers\" where traditions differ; never explain what a passage means or take sides on doctrine or authorship.\n\nWHY THIS IS BETTER\nBuilt for a first-time reader: a pace that fits real weeks, orientation pages most trackers skip, and a minimal edition for buyers who don't want floral designs.\n\nCONSTRAINTS\nNo ministry, church, app, publisher or translation brand names; no names of published reading plans; no claims about spiritual, emotional or mental-health outcomes.\n\nOUTPUT FORMAT\nPage by page: \"=== PAGE [n]: [title] ===\", \"Layout:\" (one line), exact text, monthly tables as pipe tables. End with:\nSELF-CHECK (fix any \"no\"): 260 dated readings; each book's chapters consecutive and in canonical order; all six anchors match; no weekend readings; no verse text; no brand names; no outcome claims; wording neutral and original.",
+      "imagePrompts": [
+        {
+          "tool": "Midjourney or ChatGPT images",
+          "purpose": "Minimal edition cover and pin background",
+          "prompt": "Minimal geometric composition: a simple line drawing of an open book seen from above, drawn with single charcoal #232323 lines, and a thin olive #5E6B4E horizontal rule beneath it. Bone background #EDEBE6. Lots of empty space at the top for a title added in Canva. Flat, clean, masculine-minimal, no florals. Aspect ratio 3:4 (at least 2550x3400 px). Text: none. No readable writing on the pages, no crosses or other religious symbols (keeps it neutral). No logos, no real people, no trademarked characters, no watermarks."
+        },
+        {
+          "tool": "Midjourney or ChatGPT images",
+          "purpose": "Soft edition cover and pin background",
+          "prompt": "Loose watercolor sage leaves #A8B5A0 and small dusty-rose blossoms #D8A7A0 forming a soft arch around an empty center, with warm taupe #8C7B6B stems, on a cream background #FBF7F0. Airy and light. Aspect ratio 3:4 (at least 2550x3400 px). Text: none. No religious symbols. No logos, no real people, no trademarked characters, no watermarks."
+        },
+        {
+          "tool": "Midjourney or ChatGPT images",
+          "purpose": "Mockup background for listing photos",
+          "prompt": "Overhead photo of a blank printed page (white, nothing printed) on a wooden table beside a closed plain hardcover book with a blank cover, a pencil and a cup of coffee. Soft daylight; the page flat and square to the camera so the real plan can be placed over it in Canva. Aspect ratio 4:5. Text: none, no title on the book. No logos, no real people, no trademarked characters, no watermarks."
+        }
+      ],
+      "assembly": [
+        "Run the super prompt. If any self-check item fails, ask the AI to regenerate the monthly tables.",
+        "Verify the schedule yourself: 260 readings in total; the six anchors (Matthew 1 Mon Jan 4, Mark 1 Thu Feb 11, Acts 1 Fri May 7, Romans 1 Wed Jun 16, Revelation 1 Thu Dec 2, Revelation 22 Fri Dec 31); chapter counts per book against any printed Bible's table of contents; no weekend readings.",
+        "Accuracy and neutrality review (the rights note asks for one): have one or two people who read the Bible, ideally from different traditions, read pages 2-6 and flag anything inaccurate or one-sided. Fix it before designing.",
+        "In Canva, create a US Letter design (8.5 x 11 in) for the Minimal edition (Oswald/Inter, Minimal palette) and build the monthly page with Elements > Table (Date | Day | Reading | check). Paste in the content.",
+        "Duplicate the design for the Soft edition: swap to Cormorant Garamond/Lato, the Soft palette and thin botanical accents.",
+        "Export each edition as PDF Print (300 DPI) in Letter, then Resize (paid plan) or copy into A4 designs and export: 4 PDFs in total.",
+        "Create two separate Etsy listings (Minimal, Soft) at the same price with the same number of photos for the style test; on Gumroad, sell one product with both editions.",
+        "Make 3 pins per edition with Canva's Pinterest Pin template (1000x1500) and export as PNG."
+      ],
+      "listingPrompt": "You are an Etsy SEO copywriter. Write the Etsy listing for my printable \"2027 First-Time Reader Plan - [MINIMAL or SOFT] Edition\": a references-only plan to read the New Testament in 2027 at one chapter per weekday (Monday Jan 4 to Friday Dec 31, 2027; weekends open for catch-up), with orientation pages (how the Bible is organized, how to read a reference, the New Testament by type, Old Testament at a glance), a 260-box year tracker, 12 monthly checklists, a notes page and an undated weekly version for late starters. 22 pages; US Letter and A4 PDFs. Buyer: adults 18-35 who are new to reading the Bible. [For the Minimal edition add: clean design, no florals.]\n\nProduce:\n1. TITLE under 140 characters starting with the buyer's search phrase (for example \"Bible Reading Plan 2027\" or \"New Testament Reading Plan 2027\"), then key features. Give 3 options and mark your pick.\n2. 13 TAGS, each 20 characters or fewer (show each count), no repeats, covering bible reading plan, 2027, new testament, bible tracker, beginner, printable, and minimalist or aesthetic (match the edition).\n3. DESCRIPTION: two-line opener; \"What's inside\" bullets; \"Files and sizes\"; \"How delivery works\" (instant download from Etsy Purchases; nothing ships; print at home); \"Good to know\" (references only, no scripture text; works with any translation; the 27-book New Testament is shared by Catholic, Orthodox and Protestant Bibles); one line saying AI tools helped draft it and the orientation pages were checked for accuracy; usage terms ([YOUR CHOICE: personal use only, or small groups may print copies]).\n4. FAQ with 5 Q&As: Which translation do I need? Is any Bible text included? What if I start late or miss days? Can I print copies for my study group? Refunds (answer: [YOUR REFUND POLICY]).\n\nRules: no ministry, church, app, publisher, translation or reading-plan brand names (for example, never the names of Bible apps or devotional brands, and never the phrase \"One Year Bible\"); no claims about spiritual growth, peace, healing or mental health; neutral across Christian traditions; original wording; plain US English.",
+      "pricing": {
+        "recommended": 5,
+        "low": 3,
+        "high": 8,
+        "currency": "USD",
+        "rationale": "Trackers sell as low as $1.87 and free plans are everywhere, so stay under the impulse line; the orientation pages, 2027 dating and undated backup justify a small premium over bare trackers.",
+        "basis": "estimate: anchored on the $1.87 Etsy tracker example in the research; no broader price survey"
+      },
+      "costs": {
+        "provider": null,
+        "item": null,
+        "baseCost": null,
+        "shipping": null,
+        "pages": null,
+        "basis": "estimate: digital download, no production or shipping cost. Etsy fees (estimate, verify on Etsy's fee page): $0.20 listing fee, 6.5% transaction fee, about 3% + $0.25 payment processing per US sale. O",
+        "testBudget": 0,
+        "testBudgetNote": "$0: the input's test compares organic favorites and clicks between the two styles, and ads would skew it."
+      },
+      "platforms": [
+        {
+          "name": "Etsy",
+          "role": "primary",
+          "why": "Bible reading trackers already sell there, and two listings make the style test easy to read in Etsy Stats."
+        },
+        {
+          "name": "Gumroad",
+          "role": "secondary",
+          "why": "Direct link for Instagram and Pinterest with both editions in one download."
+        },
+        {
+          "name": "Pinterest",
+          "role": "traffic",
+          "why": "Faith printables and reading plans are popular pins, and January-start plans are searched ahead of time."
+        },
+        {
+          "name": "Instagram",
+          "role": "traffic",
+          "why": "Factual carousels (how the Bible is organized) suit the young-adult buyer named in the research."
+        }
+      ],
+      "marketing": {
+        "positioning": "A first-time reader's plan for 2027: the New Testament at one chapter a weekday, plain orientation pages, and a minimal edition for people who don't want florals.",
+        "launchPlan": [
+          {
+            "day": "Day 0 (Mon Nov 16, 2026)",
+            "action": "Run the super prompt; verify the 260 readings and the six anchors."
+          },
+          {
+            "day": "Day 2 (Wed Nov 18)",
+            "action": "Send pages 2-6 to your reviewers for accuracy and neutrality, and fix what they flag."
+          },
+          {
+            "day": "Day 3 (Thu Nov 19)",
+            "action": "Build both editions in Canva, export 4 PDFs, and make the mockups and 6 pins."
+          },
+          {
+            "day": "Day 4 (Fri Nov 20)",
+            "action": "List both editions as separate Etsy listings (same price, same photo count); publish one Gumroad product with both."
+          },
+          {
+            "day": "Day 7 (Mon Nov 23)",
+            "action": "Instagram carousel \"How the Bible is organized, in 5 slides\" built from pages 3-5, link in bio to Gumroad."
+          },
+          {
+            "day": "Day 29 (Tue Dec 15)",
+            "action": "Continue window opens: every Monday until Jan 10, record favorites, visits and sales per edition."
+          },
+          {
+            "day": "Day 34 (Sun Dec 20)",
+            "action": "Style read: compare favorites and clicks by edition."
+          },
+          {
+            "day": "Day 49 (Mon Jan 4, 2027)",
+            "action": "\"Day 1 is today\" pin and post; point late starters to the undated weekly pages."
+          },
+          {
+            "day": "Day 55 (Sun Jan 10, 2027)",
+            "action": "CONTINUE if there were sales, or favorites grew week over week, between Dec 15 and Jan 10. PIVOT if only one style moves: drop the other and add the matching journal or a Bible-tab printable in the winning style."
+          },
+          {
+            "day": "Day 60 (Fri Jan 15, 2027)",
+            "action": "STOP if there are no sales."
+          }
+        ],
+        "channels": [
+          {
+            "channel": "Pinterest",
+            "tactic": "Plan and orientation-page pins, split evenly between editions, linking to each edition's Etsy listing.",
+            "cadence": "5 pins at launch, then 3 a week"
+          },
+          {
+            "channel": "Instagram",
+            "tactic": "Factual carousels (how the Bible is organized, how to read a reference, New Testament by type) and a plan flip-through.",
+            "cadence": "2 posts a week"
+          },
+          {
+            "channel": "TikTok (optional)",
+            "tactic": "\"260 chapters, 260 weekdays\" explainer and a printed-plan setup video.",
+            "cadence": "1-2 a week if you have time"
+          },
+          {
+            "channel": "Christian subreddits and Facebook groups",
+            "tactic": "Many ban selling; offer the free orientation page only where allowed. Check the community rules.",
+            "cadence": "Occasional, only where allowed"
+          }
+        ],
+        "keywords": [
+          "bible reading plan",
+          "2027 bible plan",
+          "new testament plan",
+          "bible tracker",
+          "bible reading chart",
+          "bible plan for men",
+          "minimalist bible",
+          "first time bible",
+          "bible study printable",
+          "bible plan printable"
+        ],
+        "hooks": [
+          "Never read the Bible before? Start with one chapter a weekday.",
+          "260 chapters, 260 weekdays: the New Testament fits exactly into 2027.",
+          "Weekends off for catch-up.",
+          "How the Bible is organized, on one page.",
+          "A reading plan without the florals."
+        ]
+      },
+      "extensions": [
+        "Matching undated reading-notes journal (the next product)",
+        "Bible book tabs printable (book names only)",
+        "Psalms and Proverbs add-on plan (references only)",
+        "Undated evergreen version as its own listing",
+        "2028 edition (same chapters, new dates)",
+        "40-day Lent and Easter plan for the secondary peak",
+        "Small-group leader pack with neutral discussion templates"
+      ],
+      "asymmetry": {
+        "downside": "About 10 hours plus a reviewer's time, and $0.40 in listing fees. Style answer by Dec 20; continue or stop by Jan 10-15.",
+        "upside": "Zero marginal cost. The structure rebuilds for 2028 in about an hour (same chapters, new dates), the undated version sells in any month including Lent/Easter and back-to-school, and a matching journal and tabs make a series. The revival data covers several years, so the trend should outlast this launch.",
+        "badBetIf": "The price ceiling is low ($2 trackers and free church or app plans are everywhere), so it only matters at volume. If reviewers find neutrality problems you can't fix, or the community reacts badly to commercial products, stop. Honestly: cheap to try, modest upside."
+      },
+      "risks": [
+        "Free plans from churches and apps are a strong substitute.",
+        "Accuracy and neutrality: one wrong reference or one-sided sentence costs trust; the review step is not optional.",
+        "Some buyers may see commercial faith products as inauthentic; keep the copy plain and practical.",
+        "Never add verse text from modern translations; if a verse is ever quoted, use World English Bible text (KJV is public domain in the US but under Crown rights in the UK).",
+        "Keep app, ministry and published-plan names out of tags and titles.",
+        "At $5, Etsy fees take about a fifth of each sale (estimate)."
+      ],
+      "source": "written"
+    },
+    {
+      "index": 1,
+      "themeKey": "An undated 365-entry reading-notes journal with neutral fiel",
+      "productName": "Reading Notes: 365-Entry Bible Reading Journal (Minimal + Soft Editions)",
+      "superPrompt": "You are a journal designer and a neutral, careful editor. Your goal: write the complete interior content for an undated, 365-entry Bible reading-notes journal, published as a 6x9 in paperback and sold as a printable PDF, in two matching editions (Minimal and Soft).\n\nBUYER AND JOB\nThe buyer is a new Bible reader aged 18-35 who prefers writing by hand. They need a simple, neutral place to record what they read, what stood out and their questions, with short orientation pages at the front. It must work with any reading plan, any translation and any pace.\n\nDELIVERABLE: 384 pages, number every page\n1 Title: \"Reading Notes\" / \"A 365-entry journal for reading the Bible\" / \"[YOUR SHOP NAME]\".\n2 This Journal Belongs To (name, start date).\n3 How to Use: one entry per reading; entries are undated, so skipped days don't matter; use any plan or translation; write as much or as little as you like.\n4 How the Bible Is Organized: Old and New Testaments; traditions include different books (most Protestant Bibles 66, Catholic Bibles 73, Eastern Orthodox Bibles more); the 27-book New Testament is shared by all three.\n5 How to Read a Reference: book, chapter, verse (\"John 3:16\"), ranges, numbered books.\n6 Kinds of Writing You'll Meet: law, history, poetry and wisdom, prophecy, gospels, letters, apocalyptic; one neutral, factual line each.\n7-8 Books I've Read: the 66 books in Protestant order with a box each, labeled as that order, plus 7 blank lines headed \"Other books in my Bible\" (for readers of Catholic or Orthodox Bibles).\n9-10 Passages I Want to Return To: reference | entry number | why.\n11-12 Questions to Bring to a Study Group, Mentor or Friend: question | reference | answered?\n13-14 My Reading Log: date started | plan or approach | date finished.\n15 Tips for Writing Notes (neutral and practical: write the reference first, note who is speaking and to whom, mark words to look up, keep questions short).\n16 Blank.\n17-381 Entry pages, one per page: \"No. ____\" | \"Date ____\" | \"Passage ____\" | \"What stood out\" (8 lines) | \"Questions I have\" (5 lines) | \"Notes or prayer (optional)\" (8 lines) | \"Read again? [ ]\".\n382-384 Notes (lined).\n\nDESIGN\nPaperback interior: 6x9 in, no bleed, black ink; 0.75 in margin on both left and right (covers the inside-margin minimum for this page count), 0.5 in top and bottom; writing lines 50% gray, about 0.3 in apart. Printable: US Letter 8.5x11 in and A4, same content. Make the two interiors visibly different, not just the covers: Minimal uses Oswald headings, Inter labels and dot-grid writing areas; Soft uses Cormorant Garamond headings, Lato labels, ruled lines and a small leaf divider. Cover palettes: Minimal Bone #EDEBE6, Charcoal #232323, Olive #5E6B4E, Slate #6B7A89; Soft Cream #FBF7F0, Dusty Rose #D8A7A0, Sage #A8B5A0, Warm Taupe #8C7B6B. Interiors stay grayscale.\n\nCONTENT RULES\nOriginal, plain, warm wording at about an 8th-grade level. No scripture text at all. Prompts must not assume an experience or belief (write \"What stood out\", not \"What did God tell you\"). Do not present any journaling method as new, and do not name branded methods.\n\nWHY THIS IS BETTER\nIt matches the 2027 First-Time Reader Plan in both styles, it is undated so it never expires, and its front pages orient a first-time reader without teaching doctrine.\n\nCONSTRAINTS\nNo ministry, church, app, publisher, translation or reading-plan brand names. No claims about spiritual, emotional or mental-health outcomes. Neutral across Christian traditions.\n\nOUTPUT FORMAT\nPages 1-16 one by one: \"=== PAGE [n]: [title] ===\", \"Layout:\" (one line), exact text. Then ONE entry-page template per edition with exact labels and line counts, then the back pages. End with:\nSELF-CHECK (fix any \"no\"): page total 384 (16 + 365 + 3); no scripture text; no brand names; no outcome claims; prompts neutral; the two interiors differ in typography and writing-area style but share the same wording.",
+      "imagePrompts": [
+        {
+          "tool": "Midjourney or ChatGPT images",
+          "purpose": "Minimal edition front cover art (KDP and printable)",
+          "prompt": "Book cover texture: charcoal #232323 linen bookcloth with a thin olive #5E6B4E vertical rule near the right edge and a small debossed-look open-book line icon in slate #6B7A89 at lower center. Lots of empty space in the upper half for a title added in Canva. Aspect ratio 2:3 portrait (at least 1800x2700 px). Text: none. No religious symbols. No logos, no real people, no trademarked characters, no watermarks."
+        },
+        {
+          "tool": "Midjourney or ChatGPT images",
+          "purpose": "Soft edition front cover art (KDP and printable)",
+          "prompt": "Cream #FBF7F0 background with one delicate watercolor sprig of sage leaves #A8B5A0 and tiny dusty-rose #D8A7A0 buds in the lower right, warm taupe #8C7B6B stem. Empty space in the upper half for a title added in Canva. Aspect ratio 2:3 portrait (at least 1800x2700 px). Text: none. No religious symbols. No logos, no real people, no trademarked characters, no watermarks."
+        },
+        {
+          "tool": "Midjourney or ChatGPT images",
+          "purpose": "Mockup background for listing photos",
+          "prompt": "Overhead photo of an open 6x9 journal with blank lined pages (nothing written) on a light wooden desk beside a pen and a closed plain hardcover book with a blank cover. Soft daylight; the journal flat and centered so real pages can be placed over it in Canva. Aspect ratio 4:5. Text: none. No hands. No logos, no real people, no trademarked characters, no watermarks."
+        }
+      ],
+      "assembly": [
+        "Run the super prompt, then have the same reviewer who checked the plan read pages 3-8 for accuracy and neutrality.",
+        "In Canva, create a 6 x 9 in design. Canva doesn't mirror margins for left and right pages, so keep 0.75 in clear on both sides (0.5 in top and bottom).",
+        "Build the 16 front pages, then one entry master; leave \"No. ____\" blank so a single master can be duplicated 365 times. If Canva stops you adding pages, split the interior into two designs and merge the PDFs with a free PDF tool.",
+        "Export the interior with Download > PDF Print, no crop marks, and confirm 384 pages.",
+        "KDP cover: in KDP's cover calculator choose paperback, 6x9, 384 pages, white paper, black ink; build a Canva design at the full-wrap size (bleed included) with spine text and an empty barcode area; export PDF Print.",
+        "KDP setup: title, subtitle, description, 7 keywords and categories from the listing prompt; declare AI-generated content; choose a free KDP ISBN; set the price; order a proof copy.",
+        "Repeat for the Soft edition with its own interior styling (ruled lines, Cormorant Garamond) so the two books are not near-duplicates.",
+        "Etsy: list the printable interiors (Letter and A4 PDFs) for each edition, plus a plan + journal bundle in each style."
+      ],
+      "listingPrompt": "You are an Amazon KDP listing copywriter. Write the KDP details for my paperback \"Reading Notes: A 365-Entry Bible Reading Journal - [MINIMAL or SOFT] Edition\": undated, 384 pages, 6x9 in, one entry per page with fields for date, passage reference, what stood out, questions, and notes or prayer; front pages explain how the Bible is organized and how to read a reference; a books-read checklist with space for the additional books in Catholic and Orthodox Bibles; no scripture text.\n\nProduce:\n1. TITLE and SUBTITLE (together under 200 characters), with the subtitle starting with the buyer's search phrase (for example \"Bible Reading Journal for ...\"). Give 3 options and mark your pick.\n2. DESCRIPTION under 2,000 characters using simple HTML (<b>, <ul>, <li>): opener, what's inside, size and page count, who it's for, a neutral line that it works with any translation or reading plan.\n3. 7 KEYWORD phrases for the KDP keyword boxes (each under 50 characters, not repeating title words, no brand names).\n4. 3 suggested Amazon category paths that fit a Bible reading journal; I will pick the closest available ones.\n5. A short Etsy listing for the printable PDF version: title under 140 characters front-loading \"Bible Reading Journal\", 13 tags of 20 characters or fewer (show each count), and a description with what's included, files (US Letter and A4 PDFs), how delivery works (instant download, nothing ships), one line saying AI tools helped draft it and I checked it, and a 3-question FAQ.\n\nRules: no ministry, church, app, publisher, translation or reading-plan brand names; no claims about spiritual, emotional or mental-health outcomes; no \"bestseller\" claims; neutral across Christian traditions; original wording; plain US English.",
+      "pricing": {
+        "recommended": 14.99,
+        "low": 12.99,
+        "high": 16.99,
+        "currency": "USD",
+        "rationale": "A 384-page paperback costs about $5.60+ to print, so list at $14.99 for a roughly $2.20-$3.40 royalty; sell the printable on Etsy at about $6 and the plan + journal bundle at about $9.",
+        "basis": "estimate: KDP royalty taken as 60% of list price minus printing cost; verify current rates and competitor prices on Amaz"
+      },
+      "costs": {
+        "provider": "Amazon KDP",
+        "item": "6x9 in black-ink paperback, 384 pages, white paper",
+        "baseCost": 5.6,
+        "shipping": null,
+        "pages": null,
+        "basis": "estimate: about $5.60-$6.80 printing cost per copy (verify in KDP's printing-cost calculator). Amazon prints and ships customer orders, so there is no shipping cost to you; proof and author copies cos",
+        "testBudget": 0,
+        "testBudgetNote": "$0 in ads: a $2-$3 royalty can't support paid tests. Budget roughly $10-$15 per proof copy including shipping (estimate)."
+      },
+      "platforms": [
+        {
+          "name": "Amazon KDP",
+          "role": "primary",
+          "why": "Amazon brings journal buyers without an audience, and print-on-demand means no inventory."
+        },
+        {
+          "name": "Etsy",
+          "role": "secondary",
+          "why": "Sells the printable interior and a matching plan + journal bundle."
+        },
+        {
+          "name": "Pinterest",
+          "role": "traffic",
+          "why": "Pins can link straight to the Amazon page and the Etsy bundle."
+        },
+        {
+          "name": "Instagram",
+          "role": "traffic",
+          "why": "Flip-through Reels of the journal and plan suit the young-adult buyer."
+        }
+      ],
+      "marketing": {
+        "positioning": "A simple, neutral notebook for first-time Bible readers: one page per reading, undated, in the same two styles as the 2027 plan.",
+        "launchPlan": [
+          {
+            "day": "Day 0 (Mon Nov 16, 2026)",
+            "action": "Run the super prompt and build the Minimal interior."
+          },
+          {
+            "day": "Day 2 (Wed Nov 18)",
+            "action": "Reviewer checks the front pages for accuracy and neutrality."
+          },
+          {
+            "day": "Day 4 (Fri Nov 20)",
+            "action": "Export the interior and cover; upload the Minimal edition to KDP, declare AI content, and order a proof."
+          },
+          {
+            "day": "Day 5 (Sat Nov 21)",
+            "action": "Upload the Soft edition to KDP."
+          },
+          {
+            "day": "Day 7 (Mon Nov 23)",
+            "action": "List the printable interiors on Etsy, plus a plan + journal bundle in each style."
+          },
+          {
+            "day": "Day 15 (Tue Dec 1)",
+            "action": "Both paperbacks should be live (the research's deadline). When the proof arrives, fix margins or text and re-upload if needed."
+          },
+          {
+            "day": "Days 15-45 (Dec 1-31)",
+            "action": "Publish 3 pins a week linking to the Amazon pages; post a flip-through Reel."
+          },
+          {
+            "day": "Day 35 (Mon Dec 21)",
+            "action": "\"Get ready for January\" content featuring the plan + journal set."
+          },
+          {
+            "day": "Day 66 (Thu Jan 21, 2027)",
+            "action": "CONTINUE if there were any organic KDP sales in the first three weeks of January. PIVOT if KDP stalls but the digital version sells: keep digital only."
+          },
+          {
+            "day": "Day 76 (Sun Jan 31, 2027)",
+            "action": "STOP if there are no sales in either channel."
+          }
+        ],
+        "channels": [
+          {
+            "channel": "Pinterest",
+            "tactic": "Journal page pins and plan + journal set pins linking to Amazon and Etsy.",
+            "cadence": "3 pins a week through January, then 1 a week"
+          },
+          {
+            "channel": "Instagram",
+            "tactic": "Flip-through Reels and a carousel of the front orientation pages.",
+            "cadence": "1-2 posts a week"
+          },
+          {
+            "channel": "Christian subreddits and Facebook groups",
+            "tactic": "Selling is often banned; share only where allowed. Check the community rules.",
+            "cadence": "Occasional, only where allowed"
+          }
+        ],
+        "keywords": [
+          "bible journal",
+          "bible reading journal",
+          "bible notes journal",
+          "bible study notebook",
+          "scripture notes",
+          "undated journal",
+          "journal for men",
+          "bible journaling",
+          "reading notes"
+        ],
+        "hooks": [
+          "One page per reading, undated, so missed days don't matter.",
+          "Matches the 2027 First-Time Reader Plan.",
+          "What stood out, questions, notes: that's the whole page.",
+          "A plain notebook for your first year of reading the Bible."
+        ]
+      },
+      "extensions": [
+        "Half-page edition (2 entries per page) at a lower price and print cost",
+        "8.5x11 large-format edition",
+        "Plan + journal bundles in each style",
+        "Hardcover edition through KDP",
+        "Study-group notes insert (neutral fields)"
+      ],
+      "asymmetry": {
+        "downside": "About 8 hours, roughly $10-$15 per proof copy (estimate) and $0 in ads. The royalty per paperback is thin (about $2.20-$3.40, estimate).",
+        "upside": "Undated, so it never expires and can sell during the Lent/Easter and back-to-school peaks too. KDP brings Amazon's buyers without an audience, with two editions, a bundle with the plan, the printable on Etsy, and no inventory.",
+        "badBetIf": "Bible journals are an established KDP category, and at a $2-$3 royalty you need steady organic sales and can't afford ads. If no organic KDP sales appear in the first three weeks of January, the paperback isn't worth more time."
+      },
+      "risks": [
+        "Thin royalty; a 2-entry-per-page edition would cut print cost if margins prove too low.",
+        "KDP review (up to 72 hours) plus proof shipping makes the Dec 1 deadline tight; upload by Nov 20.",
+        "Two editions with near-identical interiors can be flagged as duplicate content; keep the interior styling different.",
+        "Neutrality: prompts must not assume a belief or experience; no branded journaling methods.",
+        "No scripture text; any later addition must be World English Bible or KJV wording only.",
+        "Crowded category; it depends on the matching plan for differentiation."
+      ],
+      "source": "written"
+    }
+  ],
+  "writtenAt": "2026-10-04T23:12:10Z",
+  "source": "written"
+}

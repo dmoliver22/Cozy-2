@@ -5,7 +5,7 @@
     {
       "index": 0,
       "themeKey": "Original-art 'Saint Jimothy' round-raccoon ceramic ornament",
-      "productName": "Season's Scurryings Round Raccoon Ornament + Card (pass idea)",
+      "productName": "Season's Scurryings Round Raccoon Ornament + Card",
       "superPrompt": "You are a holiday-stationery designer and gentle humor writer. Produce the complete design text and specs for a small holiday line built around an ORIGINAL cartoon of a very round, fluffy raccoon, for Seattle-area gift buyers. The character must be your own invention: never describe, trace or adapt a real photo or video frame, existing fan art, figurines or licensed merchandise.\n\nBUYER AND JOB\nSeattle-area gift buyers and fans of the round raccoon of Ballard who want a local-pride keepsake for holiday 2026. Job: a cheerful ornament and card that say \"local, wholesome, this year\" without any team, game, city-office or \"official\" association.\n\nNAMING (write both; the seller picks one after a trademark search)\nVersion A (name used): headline \"Saint Jimothy\", line \"Season's Scurryings from Ballard\".\nVersion B (no name): headline \"Ballard's Roundest Raccoon\", line \"Season's Scurryings from Ballard\".\n\nDELIVERABLES\n1. Ceramic ornament, 3 in round, double-sided, print on demand. Front: the round raccoon wearing a knitted scarf and a small gold halo, headline set in an arc above. Back: \"Season's Scurryings from Ballard · 2026\" with a tiny pine sprig. Give placement as % of the diameter, a 0.15 in safe zone from the edge, and a minimum text size equal to 9 pt at print size. Master art 3000 x 3000 px, transparent PNG.\n2. Holiday card, flat 5 x 7 in, printed 2-up on US Letter landscape and 2-up on A4 landscape (127 x 178 mm each), crop marks, 0.125 in bleed per card. Three front designs: halo raccoon in falling snow; raccoon carrying a tiny wrapped gift; raccoon curled under a pine bough. For each: front text and two back-side message options.\n3. Six original inside messages, warm and lightly punny (scurry, round, cozy, neighbors, snow). Do not use or paraphrase slogans already printed on this raccoon's merch, and avoid \"trash panda\" phrasing.\n4. A 60-word \"about this design\" note for the listing stating that it is original art, an unofficial tribute, not affiliated with any person, team, city office, game or licensed product, and printed and shipped by a print-on-demand partner.\n\nDESIGN\nPalette \"Ballard Winter\": Snow #FAF7F2, Cranberry #B23A48, Pine #3E6B48, Raccoon Grey #8A8D91, Mask Charcoal #2B2B2E, Halo Gold #E3B448. Avoid navy, teal and silver combinations or anything that reads as a sports uniform. Fonts: Fraunces (headlines), Nunito (small text). Style: soft flat vector, rounded shapes, thick friendly outline, simple snow dots.\n\nCONTENT RULES\nNo team names, logos, uniforms, caps or baseball imagery; no video-game characters or game styling; no bobblehead proportions; no city seals; never the words \"official\" or \"licensed\". Do not mention the real animal's health, spine or body condition; keep any roundness humor affectionate. No charity or donation claims. No celebrity names. No claim that the item is handmade or made in Seattle.\n\nDIFFERENTIATION\nExisting merch is mostly tees, mugs and stickers. This is a holiday keepsake with local framing and clearly original art. It is probably still contested; say nothing that overpromises.\n\nOUTPUT FORMAT\nSection 1: ornament spec (front and back layout, text for both naming versions, color callouts). Section 2: card specs and the three designs with all text. Section 3: the six messages. Section 4: the \"about this design\" note in both naming versions.\nSelf-check, fixing failures before answering: [ ] all art described is original and photo-free; [ ] no team, game, bobblehead, city-seal or \"official\" references; [ ] no existing slogans; [ ] both naming versions supplied; [ ] ornament and both card-sheet sizes given; [ ] no health, charity or handmade claims.",
       "imagePrompts": [
         {
@@ -21,7 +21,7 @@
         {
           "tool": "ChatGPT images",
           "purpose": "Ornament mockup until the sample arrives",
-          "prompt": "Photorealistic close-up, 4:5 portrait: a white round glossy ceramic ornament with a blank face hanging by a red ribbon on a pine branch, warm bokeh lights behind. Leave the ornament face completely blank for overlay in Canva. No logos, no text, no people, no trademarked characters, no watermarks."
+          "prompt": "Photorealistic close-up, 4:5 portrait: a white round glossy ceramic ornament with a blank face hanging by a Cranberry #B23A48 ribbon on a Pine #3E6B48 branch, warm Halo Gold #E3B448 bokeh lights behind. Leave the ornament face completely blank for overlay in Canva. No logos, no text, no people, no trademarked characters, no watermarks."
         }
       ],
       "assembly": [
@@ -161,6 +161,6 @@
       "source": "written"
     }
   ],
-  "writtenAt": "2026-10-04T23:11:09Z",
+  "writtenAt": "2026-10-04T23:12:02Z",
   "source": "written"
 }

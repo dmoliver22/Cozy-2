@@ -26,7 +26,7 @@
         {
           "tool": "ChatGPT images",
           "purpose": "Lifestyle mockup for listing photos",
-          "prompt": "Photorealistic flat-lay, 4:5 portrait, on a cream linen tablecloth: an open printed journal with blank pages, a blank unpainted needlepoint canvas on stretcher bars, three unlabeled thread skeins in pink, green and blue, small gold scissors and a cup of tea. Soft morning light. Leave the journal pages blank for overlay in Canva. No painted designs on the canvas, no brand labels, no people, no hands, no text, no logos, no trademarked characters, no watermarks."
+          "prompt": "Photorealistic flat-lay, 4:5 portrait, on a cream linen tablecloth: an open printed journal with blank pages, a blank unpainted needlepoint canvas on stretcher bars, three unlabeled thread skeins in pink, green and blue, small gold scissors and a cup of tea. Palette Cream #FBF6EE, Bow Pink #F4B6C2, Kelly #2F8F5B, Cobalt #2E4F9E. Soft morning light. Leave the journal pages blank for overlay in Canva. No painted designs on the canvas, no brand labels, no people, no hands, no text, no logos, no trademarked characters, no watermarks."
         }
       ],
       "assembly": [
@@ -331,6 +331,6 @@
       "source": "written"
     }
   ],
-  "writtenAt": "2026-10-04T23:11:09Z",
+  "writtenAt": "2026-10-04T23:12:02Z",
   "source": "written"
 }

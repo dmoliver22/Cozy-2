@@ -26,7 +26,7 @@
         {
           "tool": "ChatGPT images",
           "purpose": "Gallery-wall mockup for the set of six",
-          "prompt": "Photorealistic reading nook, 4:3 landscape: six matching thin black frames (3:4) hung in a 2 x 3 grid above a worn leather armchair with a wool throw and a stack of old books with blank spines; each frame holds blank cream paper for overlay. Soft lamp light. No people, no readable text, no logos, no trademarked characters, no watermarks."
+          "prompt": "Photorealistic reading nook, 4:3 landscape: six matching thin black frames (3:4) hung in a 2 x 3 grid above a worn leather armchair with a wool throw and a stack of old books with blank spines; each frame holds blank Aged Paper #F3EBDD paper for overlay; wall in warm off-white, chair in Oxblood #6B1E1E. Soft lamp light. No people, no readable text, no logos, no trademarked characters, no watermarks."
         }
       ],
       "assembly": [
@@ -362,6 +362,6 @@
       "source": "written"
     }
   ],
-  "writtenAt": "2026-10-04T23:11:09Z",
+  "writtenAt": "2026-10-04T23:12:02Z",
   "source": "written"
 }
