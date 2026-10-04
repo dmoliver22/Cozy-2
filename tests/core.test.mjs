@@ -115,11 +115,12 @@ test('test-now requires purchase intent evidence', () => {
   assert.ok(r.reasons.some((x) => x.reason.includes('purchase')));
 });
 
-test('high rights risk and first-spark cap at watch; analyst pass is respected', () => {
+test('high rights risk caps at watch, first spark at prepare; analyst pass is respected', () => {
   const base = { scores: allScores(5), recommendedAction: 'test_now', products: [{ theme: 't' }] };
   const evs = [1, 2, 3, 4, 5, 6].map((i) => ev(i, { intent: 'purchase' }));
   assert.equal(actionGate({ ...base, trajectory: { stage: 'early_growth' }, rights: { risk: 'high' } }, evs, { now: NOW }).action, 'watch');
-  assert.equal(actionGate({ ...base, trajectory: { stage: 'first_spark' }, rights: { risk: 'low' } }, evs, { now: NOW }).action, 'watch');
+  assert.equal(actionGate({ ...base, trajectory: { stage: 'first_spark' }, rights: { risk: 'low' } }, evs, { now: NOW }).action, 'prepare');
+  assert.equal(actionGate({ ...base, trajectory: { stage: 'insufficient_evidence' }, rights: { risk: 'low' } }, evs, { now: NOW }).action, 'watch');
   assert.equal(actionGate({ ...base, recommendedAction: 'pass', trajectory: { stage: 'early_growth' }, rights: { risk: 'low' } }, evs, { now: NOW }).action, 'pass');
 });
 

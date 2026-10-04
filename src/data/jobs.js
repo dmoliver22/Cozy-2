@@ -128,9 +128,13 @@ export async function ingestInboxItem(store, item, ix, settings, holder) {
   const summary = result.report.candidates.map(({ id, name, status, errors, warnings }) => ({ id, name, status, errors, warnings: warnings.length }));
   await store.update(path, { status: 'ingested', processedAt: new Date().toISOString(), report: summary });
   if (fresh.jobId) {
+    // A job may file several inbox documents (one per candidate); accumulate their results.
+    const job = store.get().jobs.find((j) => j.id === fresh.jobId);
+    const prevCands = (job?.ingest?.candidates || []).filter((c) => !summary.some((x) => x.id === c.id));
+    const prevIds = (job?.resultCandidateIds || []).filter((id) => !result.report.run.candidateIds.includes(id));
     await safeUpdate(store, `jobs/${fresh.jobId}`, {
-      ingest: { status: 'ingested', at: new Date().toISOString(), candidates: summary },
-      resultCandidateIds: result.report.run.candidateIds,
+      ingest: { status: 'ingested', at: new Date().toISOString(), candidates: [...prevCands, ...summary] },
+      resultCandidateIds: [...prevIds, ...result.report.run.candidateIds],
     });
   }
   return result;

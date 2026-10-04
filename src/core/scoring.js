@@ -203,7 +203,8 @@ export function actionGate(candidate, evidence, opts = {}) {
     capAt('prepare', 'No suggested product can reach buyers before the window closes.');
 
   // Harder caps.
-  if (stage === 'first_spark' || stage === 'insufficient_evidence') capAt('watch', 'Not enough validation to commit effort.');
+  if (stage === 'insufficient_evidence') capAt('watch', 'Not enough validation to commit effort.');
+  if (stage === 'first_spark') capAt('prepare', 'First spark: build cheap assets now, but hold paid promotion until it spreads.');
   if (conf.score < 25) capAt('watch', 'Evidence confidence is very low.');
   if (candidate?.rights?.risk === 'high') capAt('watch', 'High rights risk on names, likenesses or slogans.');
   if (stage === 'declining' && !(v('timing') >= 2)) capAt('pass', 'Declining and the entry window has largely passed.');

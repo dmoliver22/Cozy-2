@@ -3,12 +3,22 @@ import { ACTIONS, CATEGORIES, FORMATS, STAGES, EFFORT } from '../core/constants.
 import { ActionChip, ConfidenceMark, StageTrack, ScoreMeter, Icon, relTime, catLabel, fmtLabel, shortTheme, Empty } from './bits.jsx';
 import { AsymmetryChip } from './playbook.jsx';
 
-export const EMPTY_FILTERS = { q: '', action: '', format: '', category: '', stage: '', confidence: '', effort: '', region: '', channel: '', sort: 'rank' };
+export const EMPTY_FILTERS = { preset: '', q: '', action: '', format: '', category: '', stage: '', confidence: '', effort: '', region: '', channel: '', sort: 'rank' };
 const EFFORT_RANK = { low: 0, medium: 1, high: 2 };
+
+export const PRESETS = [
+  { id: 'early', label: 'Early bets', help: 'First spark and early growth: get in before the market fills', test: ({ c }) => ['first_spark', 'early_growth'].includes(c.trajectory?.stage) },
+  { id: 'spark', label: 'First spark', help: 'Newest trends with thin but real evidence', test: ({ c }) => c.trajectory?.stage === 'first_spark' },
+  { id: 'test', label: 'Test now', help: 'Cleared every evidence gate', test: ({ a }) => a.gate.action === 'test_now' },
+  { id: 'asym', label: 'Strongly asymmetric', help: 'Best bet risks little with an open upside', test: (it) => (bestBet(it)?.asym.score ?? 0) >= 70 },
+  { id: 'quick', label: 'Quick wins', help: 'A digital, low-effort product with a written playbook', test: ({ c, bets }) => (c.products || []).some((p, i) => p.fulfillment === 'digital' && p.effort === 'low' && bets?.[i] && !bets[i].fallback) },
+];
 
 export function applyFilters(items, f) {
   const q = f.q.trim().toLowerCase();
-  const out = items.filter(({ c, a }) => {
+  const out = items.filter((item) => {
+    const { c, a } = item;
+    if (f.preset && !PRESETS.find((p) => p.id === f.preset)?.test(item)) return false;
     if (f.action && a.gate.action !== f.action) return false;
     if (f.format && !(c.formats || []).includes(f.format)) return false;
     if (f.category && c.category !== f.category) return false;
@@ -118,9 +128,20 @@ export function Filters({ filters, setFilters, items, shown }) {
   const regions = [...new Set(items.map((i) => i.c.region || 'US'))].map((r) => [r, r]);
   const channels = [...new Set(items.flatMap((i) => i.c.channels || []))].sort().map((c) => [c, c]);
   const formats = Object.entries(FORMATS).filter(([k]) => items.some((i) => (i.c.formats || []).includes(k)));
-  const active = Object.entries(filters).filter(([k, v]) => k !== 'sort' && v).length;
+  const active = Object.entries(filters).filter(([k, v]) => k !== 'sort' && k !== 'preset' && v).length;
+  const counts = Object.fromEntries(PRESETS.map((p) => [p.id, items.filter(p.test).length]));
   return (
     <div>
+      <div class="presets" role="group" aria-label="Quick views">
+        <button class={`preset${!filters.preset ? ' on' : ''}`} aria-pressed={!filters.preset ? 'true' : 'false'} onClick={() => set('preset')('')}>
+          All <span class="count">{items.length}</span>
+        </button>
+        {PRESETS.map((p) => (
+          <button class={`preset${filters.preset === p.id ? ' on' : ''}`} aria-pressed={filters.preset === p.id ? 'true' : 'false'} title={p.help} onClick={() => set('preset')(filters.preset === p.id ? '' : p.id)}>
+            {p.label} <span class="count">{counts[p.id]}</span>
+          </button>
+        ))}
+      </div>
       <div class="filters" role="search">
         <label class="search">
           <span class="sr">Search opportunities</span>

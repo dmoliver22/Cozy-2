@@ -424,3 +424,10 @@ pre.prompt { margin: 0; font-family: var(--font-mono); font-size: 0.78rem; line-
 .asym-score.bad { background: var(--bad-soft); color: var(--bad); }
 .bet { display: inline-flex; align-items: center; gap: 4px; }
 @media (max-width: 760px) { .timeline li { grid-template-columns: minmax(0, 1fr); gap: 2px; } }
+
+/* Quick-view presets */
+.presets { display: flex; gap: 6px; flex-wrap: wrap; margin-top: 16px; }
+.preset { border: 1px solid var(--line-strong); background: var(--panel); border-radius: 999px; padding: 6px 12px; font-size: var(--step--1); font-weight: 500; cursor: pointer; display: inline-flex; gap: 6px; align-items: center; color: var(--ink-2); }
+.preset:hover { border-color: var(--ink-2); color: var(--ink); }
+.preset.on { background: var(--accent); border-color: var(--accent); color: var(--accent-ink); }
+.preset.on .count { background: color-mix(in srgb, var(--accent-ink) 25%, transparent); color: var(--accent-ink); }
