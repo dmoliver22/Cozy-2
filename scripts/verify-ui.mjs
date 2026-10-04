@@ -14,6 +14,16 @@ for (const f of await readdir(seedDir)) {
   const [col, id] = f.replace('.json', '').split('__');
   seed[`${col}/${id}`] = JSON.parse(await readFile(`${seedDir}/${f}`, 'utf8'));
 }
+const pbDir = `${root}research/seed/playbooks`;
+for (const f of await readdir(pbDir).catch(() => [])) {
+  if (!f.startsWith('playbooks__')) continue;
+  const doc = JSON.parse(await readFile(`${pbDir}/${f}`, 'utf8'));
+  seed[`playbooks/${doc.candidateId}`] = doc;
+}
+try {
+  const fees = JSON.parse(await readFile(`${root}research/live/config/fees.json`, 'utf8'));
+  seed['config/fees'] = fees.data || fees;
+} catch {}
 // Sample worker output used to simulate a finished "Analyze a topic" job.
 const workerRaw = {
   lens: 'analyze: test topic',
@@ -223,7 +233,7 @@ async function newPage(scenario, viewport = { width: 1440, height: 1000 }, color
   await page.locator('.dossier .pb').first().locator('.pb-tab:has-text("Asymmetry")').click();
   const asymText = await page.locator('.dossier .pb').first().innerText();
   check('asymmetry tab shows rating, downside and factors', /asymmetric|Roughly even|Unfavorable/i.test(asymText) && /Risk \$/.test(asymText) && /Zero marginal cost/.test(asymText));
-  check('products without a written playbook get a template prompt', (await page.locator('.dossier .tag:has-text("Template")').count()) >= 1);
+  check('every mahjong product shows a playbook', (await page.locator('.dossier .pb').count()) === 3);
   check('ledger rows show the best bet asymmetry', (await page.locator('.row .bet').count()) > 0);
 
   // Gate explanation on a downgraded candidate
@@ -233,6 +243,15 @@ async function newPage(scenario, viewport = { width: 1440, height: 1000 }, color
   const kw = await page.locator('.dossier').innerText();
   check('gate explains a downgraded Test now', /evidence gates cap it/i.test(kw) && /purchase intent/i.test(kw));
   check('editorial review notes are visible', /editorial review changes/i.test(kw));
+  check('real written playbook loads for Kitchen Witch', /Kitchen Witch Pantry/i.test(kw) && /Written playbook/i.test(kw));
+  await page.locator('.dossier .pb').first().scrollIntoViewIfNeeded();
+  await page.locator('.dossier .pb').first().screenshot({ path: `${shots}/playbook-make.png` });
+  await page.locator('.dossier .pb').first().locator('.pb-tab:has-text("Sell it")').click();
+  await page.locator('.dossier .pb').first().screenshot({ path: `${shots}/playbook-sell.png` });
+  await page.locator('.dossier .pb').first().locator('.pb-tab:has-text("Profit")').click();
+  await page.locator('.dossier .pb').first().screenshot({ path: `${shots}/playbook-profit.png` });
+  await page.locator('.dossier .pb').first().locator('.pb-tab:has-text("Asymmetry")').click();
+  await page.locator('.dossier .pb').first().screenshot({ path: `${shots}/playbook-asym.png` });
   await page.click('text=Back to list');
   await page.fill('#f-q', '');
 
