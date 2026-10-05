@@ -1,0 +1,19 @@
+{
+  "accessMethod": "web_search_result",
+  "candidateId": "jimothy-the-raccoon",
+  "claim": "National opinion coverage of Jimothy's virality.",
+  "excerpt": "URL indicates a Washington Post opinion piece on the viral Seattle raccoon.",
+  "firstRetrievedAt": "2026-10-04T20:57:55Z",
+  "firstSeenRunId": "run-2026-10-04-memes",
+  "id": "jimothy-the-raccoon~2ec295e9",
+  "intent": "curiosity",
+  "kind": "observed",
+  "lastSeenRunId": "run-2026-10-04-memes",
+  "publishedAt": "2026-07-30",
+  "publisher": "The Washington Post",
+  "retrievedAt": "2026-10-04T20:57:55Z",
+  "signalType": "press",
+  "syndicationOf": null,
+  "title": "Opinion",
+  "url": "https://www.washingtonpost.com/opinions/2026/07/30/seattle-raccoon-jimothy-goes-viral/"
+}

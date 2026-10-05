@@ -1,0 +1,19 @@
+{
+  "accessMethod": "web_search_result",
+  "candidateId": "hyrox-style-fitness-racing",
+  "claim": "Reports the 2026/27 calendar of 107 race weekends on six continents, new hosts including San Diego and Portland, Oregon, and multi-day residencies to meet record demand.",
+  "excerpt": "Search summary: 107 race weekends; new host cities San Diego, Portland (Oregon), Bari, Nagoya; some events expand into residencies of up to 10 days. WebFetch of this page was blocked.",
+  "firstRetrievedAt": "2026-10-04T20:53:53Z",
+  "firstSeenRunId": "run-2026-10-04-hobbies",
+  "id": "hyrox-style-fitness-racing~9f2cd823",
+  "intent": "curiosity",
+  "kind": "observed",
+  "lastSeenRunId": "run-2026-10-04-hobbies",
+  "publishedAt": null,
+  "publisher": "Athletech News",
+  "retrievedAt": "2026-10-04T20:53:53Z",
+  "signalType": "press",
+  "syndicationOf": null,
+  "title": "Hyrox expands global race calendar, plans more multi-week events",
+  "url": "https://athletechnews.com/hyrox-expands-global-race-calendar-plans-more-multi-week-events/"
+}

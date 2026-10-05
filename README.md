@@ -41,12 +41,12 @@ tests/               unit tests for the analysis core and job planning
 
 | Collection | Contents |
 |---|---|
-| `candidates/{slug}` | One analyzed trend: explanation, timing, demand, competition, window, rights, 0–5 criterion scores with basis, up to three products, open questions |
+| `candidates/{slug}` | One analyzed trend: explanation, timing, demand, competition, window, rights, 0–5 criterion scores with basis, up to three products, open questions, editorial notes. An editor can set `duplicateOf` to fold a duplicate into another candidate: it leaves the feed and its sources count toward the survivor (shared URLs count once) |
 | `evidence/{candidate~hash}` | One source: URL, publisher, publication date, retrieval time, access method, signal type, intent, claim, observed/inference, syndication link, first/last run seen |
 | `observations/{id}` | Numeric figures as reported by a source (charted only when 3+ comparable absolute points exist) |
 | `snapshots/{candidate~run}` | The assessment at each research run; the watchlist compares the last two |
 | `jobs/{id}` | Research requests and their progress, sources tried, errors |
-| `inbox/{jobId}` | Raw research results from the worker, filed by the dashboard through `ingest.js` |
+| `inbox/{jobId}` or `inbox/{jobId}-{n}` | Raw research results from the worker (discovery writes one document per candidate), filed by the dashboard through `ingest.js` |
 | `runs/{id}` | What each run screened, rejected and could reach |
 | `watchlist/{candidate}` | Saved candidates and the snapshot they were saved at |
 | `config/settings`, `config/worker`, `config/sources` | Preferences and weights, routine IDs, source availability |
@@ -111,7 +111,15 @@ through the viewer's Claude Code Remote connector. The worker claims the job wit
 write, records progress, writes its raw result to `inbox/{id}`, and marks the job done, partial or
 failed with the sources it tried. Any open dashboard validates the inbox result with `ingest.js` and
 files it. If the connector is unavailable, jobs stay queued and say why; a scheduled run picks up
-queued jobs.
+queued jobs. A temporary connector error (claude.ai still confirming access) is retried once
+automatically after a short wait; anything else is shown on the job with a Try again button.
+
+"Discover trends" is tuned for first-spark and early-growth finds: it screens at least 15 items
+across memes, aesthetics, hobbies, beliefs, tech habits, communities and dated moments, files the
+best 3–4, and labels stages from the dates it actually found. `research/FIRST_SPARK_HUNT.md` is the
+brief for larger parallel hunts (one session per lens); `scripts/ingest-inbox.mjs <snapshotDir>`
+files their results from a downloaded database snapshot without waiting for a dashboard to be open,
+and `scripts/export-playbooks.mjs` regenerates `PLAYBOOKS.md` from the same snapshot.
 
 Verified on 2026-10-04: an "Analyze a topic" job ("6-7 meme") was claimed, researched, filed and
 shown in the dashboard within about two minutes.

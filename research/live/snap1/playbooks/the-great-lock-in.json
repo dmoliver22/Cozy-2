@@ -1,0 +1,370 @@
+{
+  "candidateId": "the-great-lock-in",
+  "id": "the-great-lock-in",
+  "products": [
+    {
+      "assembly": [
+        "Before naming the listing, search USPTO's free Trademark Search for \"LOCK IN\", \"LOCK-IN\" and \"GREAT LOCK-IN\". If a live mark covers paper goods or downloadable printables, retitle around \"Final 12 Weeks\".",
+        "Paste the super prompt into Claude or ChatGPT and check that the 12 week dates match exactly (Monday Oct 5 to Sunday Dec 27, 2026).",
+        "In Canva, create a US Letter design (8.5 x 11 in) using Anton and Inter and the Locked Charcoal palette. Build the weekly page with Elements > Table (4 rows x 8 columns: label column plus Mon-Sun), duplicate it 12 times and edit the headers.",
+        "Build the remaining pages (rules, joining late, starting numbers, overview, proof log, final review, close-out) and add the cover from the image prompt or Canva text.",
+        "Export PDF Print (300 DPI). For A4, use Resize (paid plan) or copy the pages into an A4 design and export again. Save an ink-saver version with outlines instead of fills if you have time.",
+        "List on Etsy (Letter and A4 PDFs) and on Gumroad at the same price.",
+        "Prepare an undated \"any 12 weeks\" copy (remove the dates) so you can switch to the free lead-magnet pivot in minutes.",
+        "Make 5 pins (1000x1500) and film 3 vertical videos (1080x1920) using printed pages."
+      ],
+      "asymmetry": {
+        "badBetIf": "You can't list by Oct 6, you would spend more than about 5 hours, or the USPTO search shows a live \"Lock In\" mark on paper goods. Plainly: this is a low-cost, low-upside feeder, not an asymmetric bet on its own.",
+        "downside": "About 5 hours and $0.20-$0.40 in listing fees. You get an answer in 2-3 weeks (Oct 18-25).",
+        "upside": "Small. The selling window closes around mid-November, so the real upside is reuse: the design feeds the 2027 planner, and a free version can build a waitlist."
+      },
+      "costs": {
+        "baseCost": null,
+        "basis": "estimate: digital download, no production or shipping cost. Etsy fees (estimate, verify on Etsy's fee page): $0.20 listing fee, 6.5% transaction fee, about 3% + $0.25 payment processing per US sale.",
+        "item": null,
+        "pages": null,
+        "provider": null,
+        "shipping": null,
+        "testBudget": 0,
+        "testBudgetNote": "$0: the window is too short for Etsy Ads to learn anything useful; spend the effort on TikTok videos."
+      },
+      "extensions": [
+        "Undated 'any 12 weeks' version",
+        "Free version as the lead magnet for Lock In 2027",
+        "Google Sheets proof log with an automatic chart",
+        "September 2027 lock-in edition"
+      ],
+      "imagePrompts": [
+        {
+          "prompt": "Bold minimalist typographic poster. Render exactly this text and nothing else: \"LOCK-IN\" (huge, heavy condensed sans-serif, all caps) and below it \"FINAL 12 WEEKS OF 2026\" (smaller, same font). Off-white #F5F5F0 letters on a charcoal #1C1C1E background, one thick signal-lime #C6F432 bar under \"LOCK-IN\", and a simple outline padlock icon in lime at the top right. Flat graphic design, grid-aligned, lots of negative space. Aspect ratio 2:3 (1000x1500 px). No logos, no real people, no trademarked characters, no watermarks. If any letter is misspelled, regenerate with no text and set the words in Canva in Anton.",
+          "purpose": "Cover and Pinterest pin graphic",
+          "tool": "Ideogram (best for rendered text)"
+        },
+        {
+          "prompt": "Top-down photo of blank printed tracker pages (white, nothing printed) on a light oak desk with a lime highlighter, a black pen and a phone lying face down. Crisp morning light; pages flat and centered so real pages can be placed over them in Canva. Aspect ratio 4:5. Text: none. No hands, no brand marks. No logos, no real people, no trademarked characters, no watermarks.",
+          "purpose": "Mockup background for listing photos",
+          "tool": "Midjourney or ChatGPT images"
+        },
+        {
+          "prompt": "Set of five simple line icons in one row: closed padlock, open padlock, check mark in a square, calendar page, upward bar chart. Single-weight charcoal #1C1C1E lines with one signal-lime #C6F432 accent per icon, flat. Transparent background (or white to remove in Canva). Aspect ratio 5:1. Text: none. No logos, no real people, no trademarked characters, no watermarks.",
+          "purpose": "Small icon set for page headers",
+          "tool": "ChatGPT images"
+        }
+      ],
+      "index": 0,
+      "listingPrompt": "You are an Etsy SEO copywriter. Write the Etsy listing for my printable \"Lock-In: The Final 12 Weeks of 2026\" tracker: dated Monday Oct 5 to Sunday Dec 27, 2026, with a rules page for 3 non-negotiables, a \"joining late\" page, starting numbers, a 12-week overview, 12 weekly check-grid pages, a proof log for recording your own numbers, a final review and a Dec 28-31 close-out page. 21 pages; US Letter and A4 PDFs. Buyer: 18-30-year-olds doing a late-2026 lock-in they saw on TikTok.\n\nProduce:\n1. TITLE under 140 characters starting with the buyer's search phrase (for example \"Lock In Tracker 2026\" or \"Last 12 Weeks of 2026 Tracker\"), then key features. Give 3 options and mark your pick.\n2. 13 TAGS, each 20 characters or fewer (show each count), no repeats, covering lock in tracker, 12 week tracker, habit tracker 2026, goal tracker, last 12 weeks, proof log, accountability and printable.\n3. DESCRIPTION: two-line opener; \"What's inside\" bullets; \"Files and sizes\"; \"How delivery works\" (instant download from Etsy Purchases; nothing ships; print at home); \"Joining late?\" (start at the current week); one line saying AI tools helped create it and I edited and checked it; personal-use terms.\n4. FAQ with 5 Q&As: Can I start partway through? Is it dated? Can I print extra copies for myself? Is there a tablet version? Refunds (answer: [YOUR REFUND POLICY]).\n\nRules: original wording; no brand, app, gym, creator or influencer names; do not use \"Winter Arc\" or \"12 Week Year\" in the title; no health, fitness, weight, money or success promises; plain US English.",
+      "marketing": {
+        "channels": [
+          {
+            "cadence": "3 videos in week 1, then 2 a week until mid-November",
+            "channel": "TikTok",
+            "tactic": "Setup, proof-log and weekly check-in videos filmed over the printed pages; link in bio to Gumroad."
+          },
+          {
+            "cadence": "1 a day for 5 days, then 2 a week",
+            "channel": "Pinterest",
+            "tactic": "Tracker page pins titled with \"last 12 weeks of 2026\" and \"lock in tracker\"."
+          },
+          {
+            "cadence": "Same as TikTok",
+            "channel": "Instagram Reels",
+            "tactic": "Repost the TikTok videos."
+          },
+          {
+            "cadence": "1 post a week at most",
+            "channel": "Accountability subreddits and Discords",
+            "tactic": "Share your own setup and offer the free version only where self-promotion is allowed. Check the community rules."
+          }
+        ],
+        "hooks": [
+          "There are 12 weeks left in 2026. Here's my lock-in setup.",
+          "Don't wait for January.",
+          "Proof, not vibes: I log the numbers every week.",
+          "3 non-negotiables, 1 rest day, 12 weeks.",
+          "Joining late? Start this week. The proof log still counts."
+        ],
+        "keywords": [
+          "lock in tracker",
+          "habit tracker 2026",
+          "12 week challenge",
+          "last 12 weeks",
+          "goal tracker",
+          "lock in challenge",
+          "proof log",
+          "accountability",
+          "progress tracker",
+          "winter arc tracker"
+        ],
+        "launchPlan": [
+          {
+            "action": "Run the USPTO search, run the super prompt and build the tracker in Canva (about 5 hours).",
+            "day": "Day 0 (Sun Oct 4, 2026)"
+          },
+          {
+            "action": "Export the Letter and A4 PDFs; list on Etsy and Gumroad.",
+            "day": "Day 1 (Mon Oct 5)"
+          },
+          {
+            "action": "Post video 1, \"my last-12-weeks lock-in setup\": print it, write your 3 non-negotiables, show the proof log. Publish pin 1.",
+            "day": "Day 2 (Tue Oct 6)"
+          },
+          {
+            "action": "Publish pins 2-5, one a day.",
+            "day": "Days 3-6 (Oct 7-10)"
+          },
+          {
+            "action": "Post video 2: \"the proof log: numbers, not vibes\".",
+            "day": "Day 4 (Thu Oct 8)"
+          },
+          {
+            "action": "Post video 3: \"Week 1 done, my real numbers\" (your own numbers, no claims).",
+            "day": "Day 7 (Sun Oct 11)"
+          },
+          {
+            "action": "CONTINUE check: any sales or 20+ favorites in 14 days means keep posting 2 videos and 2 pins a week until mid-November.",
+            "day": "Day 14 (Sun Oct 18)"
+          },
+          {
+            "action": "PIVOT if there are views but no sales: set the Gumroad version to $0+ and use it as the lead magnet and waitlist for Lock In 2027.",
+            "day": "Day 16 (Tue Oct 20)"
+          },
+          {
+            "action": "STOP if the listing has fewer than about 50 views; fold the design into the 2027 planner.",
+            "day": "Day 21 (Sun Oct 25)"
+          }
+        ],
+        "positioning": "The dated tracker for the last 12 weeks of 2026: three non-negotiables, a proof log for your numbers, and a rest day built in."
+      },
+      "platforms": [
+        {
+          "name": "Etsy",
+          "role": "primary",
+          "why": "Where people already buy printable habit trackers."
+        },
+        {
+          "name": "Gumroad",
+          "role": "secondary",
+          "why": "Link-in-bio checkout for TikTok traffic, and an easy switch to $0+ if you pivot to a lead magnet."
+        },
+        {
+          "name": "TikTok",
+          "role": "traffic",
+          "why": "The lock-in started and lives on TikTok; setup videos are native content there."
+        },
+        {
+          "name": "Pinterest",
+          "role": "traffic",
+          "why": "Tracker printables do well on Pinterest, though pins take weeks to gain reach, so they matter more for the 2027 product."
+        }
+      ],
+      "pricing": {
+        "basis": "estimate: based on the $1-6 range for generic trackers reported in the research",
+        "currency": "USD",
+        "high": 6,
+        "low": 3,
+        "rationale": "The research found generic trackers at $1-6 on Etsy; the dated lock-in framing and proof log justify the upper middle, but the short window keeps it an impulse price.",
+        "recommended": 4
+      },
+      "productName": "Lock-In: Final 12 Weeks of 2026 Tracker (with Proof Log)",
+      "risks": [
+        "The window is nearly closed: the 2026 lock-in started Sept 1 and a new Etsy listing takes weeks to surface.",
+        "Trademark filings for 'Great Lock-In', 'lock in' and 'winter arc' were not checked in the research; run the USPTO search before using any of them, including the 'winter arc tracker' keyword.",
+        "Generic habit trackers are saturated on Etsy.",
+        "Burnout or grind-culture backlash could cool interest; the rest day and minimum version are there to answer it.",
+        "The research's Oct 6 start leaves a 6-day first week; the prompt uses Mon Oct 5 to Sun Dec 27, which is exactly 12 weeks."
+      ],
+      "source": "written",
+      "superPrompt": "You are a habit-tracker designer who writes in a direct, Gen Z-friendly voice. Your goal: write the complete content for a dated printable tracker called \"Lock-In: The Final 12 Weeks of 2026\".\n\nBUYER AND JOB\nThe buyer is 18-30 and doing a late-year \"lock-in\" they saw on TikTok. There are no official rules, so they want structure: three non-negotiables, a daily check grid, a weekly reflection, and a proof log where they write real numbers (pages read, workouts done, dollars saved) to show progress.\n\nDATES (use exactly; every week runs Monday-Sunday, 2026)\nWeek 1 Oct 5-11, Week 2 Oct 12-18, Week 3 Oct 19-25, Week 4 Oct 26-Nov 1, Week 5 Nov 2-8, Week 6 Nov 9-15, Week 7 Nov 16-22, Week 8 Nov 23-29, Week 9 Nov 30-Dec 6, Week 10 Dec 7-13, Week 11 Dec 14-20, Week 12 Dec 21-27. Close-out: Dec 28-31.\n\nDELIVERABLE: 21 pages, US Letter 8.5x11 in and A4\n1 Cover: \"LOCK-IN\" / \"The Final 12 Weeks of 2026\" / \"Oct 5 - Dec 27\" / \"[YOUR SHOP NAME]\".\n2 My Lock-In Rules: three non-negotiables, each with the habit, the minimum version for a bad day, how I'll measure it, and when and where. Two printed rules: \"One planned rest day a week is part of the plan.\" \"Missed a day? Restart the next day.\"\n3 Joining Late?: start at the current week, cross out the weeks already gone, start the proof log today.\n4 Starting Numbers: three metrics, each with unit and starting value; \"Why this matters to me\" line.\n5 12-Week Overview: 12 rows (week number + dates) x 7 day columns, one box per day.\n6-17 Weekly pages, one per week: header \"WEEK [n] | [dates]\"; check grid of 3 rows (non-negotiables) plus a rest-day row x 7 columns (Mon-Sun); \"One line a day\" (7 short lines); \"This week's numbers\" (3 metrics); Reflection: what worked, what got in the way, one adjustment for next week; \"Energy this week\" 1-5 circles. Week 6 adds a \"Halfway check\" box.\n18-19 Proof Log: table of Weeks 1-12 x Metrics 1-3 with a running-total column, then a bar grid (12 columns x 20 rows) to shade by hand.\n20 Final Review (Dec 27): totals, proudest moment, what I learned, keep / drop for 2027.\n21 Close-Out Dec 28-31: four-day mini grid and \"Carry it into 2027\" (three habits I'm keeping, one I'm adding), with the line \"Continue in [YOUR 2027 PLANNER NAME]\".\n\nDESIGN\nBold, grid-based, plenty of white space. Headings Anton, all caps; body Inter. Palette \"Locked Charcoal\": Charcoal #1C1C1E, Off-White #F5F5F0, Signal Lime #C6F432 (accents only), Steel Gray #8A8F98, Warm Sand #E8DCC8. Add an ink-saver note: outlines instead of solid fills. Give rows, columns and labels for every grid.\n\nCONTENT RULES\nOriginal wording; short sentences; about a 6th-grade reading level; confident and encouraging, never shaming. Metrics belong to the buyer; use only neutral examples (pages read, sessions completed, dollars set aside, minutes practiced).\n\nWHY THIS IS BETTER\nGeneric undated trackers don't know about the 2026 lock-in. This one is dated to it, adds a proof log for numbers, and builds in a minimum version and a rest day, which answers the \"grind culture\" burnout criticism.\n\nCONSTRAINTS\nNo health, fitness, weight, money or success promises. No brand, app, creator or influencer names. Do not use \"Winter Arc\" or \"12 Week Year\" as titles. Generic slang only.\n\nOUTPUT FORMAT\nPage by page: \"=== PAGE [n]: [title] ===\", \"Layout:\" (one line), then exact text, fill-in lines \"______\", and grids written as \"Grid: [rows] x [columns]; row labels ...; column labels ...\". Write the weekly page once as a template, then list the 12 header lines. End with:\nSELF-CHECK (fix any \"no\"): 21 pages; the 12 weeks match the date list exactly; every weekly page has 3 non-negotiable rows plus a rest row; no outcome promises; no brand or person names; wording original.",
+      "themeKey": "'Lock-In: The Final 12 Weeks of 2026' (Oct 6 to Dec 27): pic"
+    },
+    {
+      "assembly": [
+        "Search USPTO's free Trademark Search for \"LOCK IN\" in paper goods and downloadable printables; never use the trademarked \"12 Week Year\" title.",
+        "Run the super prompt and check every week's dates against a 2027 calendar (Week 1 starts Mon Jan 4; Week 12 ends Sun Mar 28).",
+        "In Canva, create a custom 1620 x 2160 px design in the Fresh Start Graphite palette with Montserrat ExtraBold and Inter. Build masters for the weekly spread (2 pages), monthly habit tracker and proof log, add the right-edge tab strip, then duplicate and paste the content.",
+        "Link every tab (select > Link > page in this document), export PDF Standard, and test every link in a PDF annotation app.",
+        "Printable: copy the pages into US Letter and A4 designs without tabs (0.5 in margins) and export PDF Print (300 DPI).",
+        "List on Etsy (tablet, Letter and A4 PDFs) and Gumroad; create a discount code for anyone on the Final 12 Weeks list.",
+        "Save an undated \"any 12 weeks\" version (dates removed) to list after mid-January.",
+        "Only after a Dec 20 continue signal: make an 8.5x11 KDP interior from the Letter file (PDF Print), build the cover from KDP's cover calculator, declare AI-generated content, and order a proof copy."
+      ],
+      "asymmetry": {
+        "badBetIf": "The lock-in name fades the way 'Winter Arc' did, free app templates satisfy buyers, or a trademark search finds a conflicting mark. December planner competition is heavy; without steady TikTok effort, a new listing may never surface.",
+        "downside": "About 14 hours, $0.40 in listing fees and an optional $14 Etsy Ads test. Signal by Dec 20; stop or go by Jan 10.",
+        "upside": "Zero marginal cost on the digital files. New Year is the strongest window for this trend, and the undated version plus Q2-Q4 refills extend sales through 2027. A KDP paperback adds Amazon traffic, and the email list carries into the next September lock-in."
+      },
+      "costs": {
+        "baseCost": 2.9,
+        "basis": "estimate: roughly $2.30-$3.50 printing cost per copy (verify in KDP's printing-cost calculator); Amazon ships customer orders. The main product is a digital download with no production cost (Etsy fees",
+        "item": "8.5x11 in black-ink paperback, about 44 pages",
+        "pages": null,
+        "provider": "Amazon KDP (optional paperback only)",
+        "shipping": null,
+        "testBudget": 14,
+        "testBudgetNote": "Etsy Ads at $1/day for 14 days (Dec 15-28), during resolution-season search."
+      },
+      "extensions": [
+        "Q2, Q3 and Q4 refill packs (sprints starting Apr 5, Jul 5 and Oct 4, 2027)",
+        "KDP paperback edition (8.5x11)",
+        "Undated 'Any 12 Weeks' sprint planner for year-round sales",
+        "Standalone low-buy tracker",
+        "Google Sheets proof-log dashboard",
+        "September 2027 lock-in edition"
+      ],
+      "imagePrompts": [
+        {
+          "prompt": "Bold, modern planner cover. Render exactly this text and nothing else: \"LOCK IN 2027\" (very large, heavy geometric sans-serif, all caps) and \"12-WEEK SPRINT PLANNER\" (small, letter-spaced, below). Paper-white #FAF8F3 letters on graphite #22252A, with an electric cobalt #2F5BEA block behind \"2027\" and a thin mint #9ED8C3 line. Flat, grid-aligned, high contrast. Aspect ratio 3:4 (1620x2160 px). No logos, no real people, no trademarked characters, no watermarks. If any letter is wrong, regenerate with no text and set the words in Canva in Montserrat ExtraBold.",
+          "purpose": "Cover art",
+          "tool": "Ideogram (best for rendered text)"
+        },
+        {
+          "prompt": "A generic, unbranded tablet and stylus on a clean pale-gray desk #D9DCE1 next to a graphite mug and a small cobalt notebook, overhead view, bright even light. The tablet screen is solid pure white so a planner screenshot can be placed on it in Canva. Aspect ratio 4:3. Text: none. No brand marks on the device. No logos, no real people, no trademarked characters, no watermarks.",
+          "purpose": "Tablet mockup for listing photos",
+          "tool": "Midjourney or ChatGPT images"
+        },
+        {
+          "prompt": "Minimal abstract background: paper-white #FAF8F3 with a few large overlapping geometric shapes in electric cobalt #2F5BEA and mint #9ED8C3 along the bottom edge, and a big empty area at the top for a text overlay. Flat vector. Aspect ratio 2:3 (1000x1500 px). Text: none. No logos, no real people, no trademarked characters, no watermarks.",
+          "purpose": "Pinterest pin background",
+          "tool": "Midjourney or ChatGPT images"
+        }
+      ],
+      "index": 1,
+      "listingPrompt": "You are an Etsy SEO copywriter. Write the Etsy listing for my digital \"Lock In 2027\" planner: a 12-week Q1 sprint planner (Week 1 starts Monday Jan 4, 2027; Week 12 ends Sunday Mar 28) with a setup week, a 2027 rebrand page, Q1 goal breakdown, weekly non-negotiables, weekly spreads, monthly habit trackers, proof logs, an optional low-buy tracker and a Week 13 review. Files: hyperlinked tablet PDF (1620x2160 px), printable US Letter PDF and A4 PDF; 44 pages. Buyer: 18-35-year-olds who skip resolutions and prefer short sprints and a \"rebrand\".\n\nProduce:\n1. TITLE under 140 characters starting with the buyer's search phrase (for example \"Lock In 2027 Planner\" or \"2027 12 Week Planner\"), then key features. Give 3 options and mark your pick.\n2. 13 TAGS, each 20 characters or fewer (show each count), no repeats, covering lock in 2027, 12 week planner, Q1 planner, goal planner, habit tracker 2027, new year planner, low buy tracker, digital planner and printable.\n3. DESCRIPTION: two-line opener; \"What's inside\" bullets; \"Files and sizes\"; \"How delivery works\" (instant download from Etsy Purchases; nothing ships; tabs are clickable in PDF annotation apps; the printable prints at home); one line saying AI tools helped create it and I edited and checked it; personal-use terms.\n4. FAQ with 5 Q&As: When do I start? Is it dated? Does it work on a tablet? Can I print it? Refunds (answer: [YOUR REFUND POLICY]).\n\nRules: original wording; never use \"12 Week Year\", commercial planner brands, app or device brands (in the title and tags), creator names, or \"Winter Arc\"; no promises about health, fitness, weight, income, savings or success; plain US English.",
+      "marketing": {
+        "channels": [
+          {
+            "cadence": "Daily Dec 15-Jan 4, then 3 a week through January",
+            "channel": "TikTok",
+            "tactic": "\"Plan my 2027 lock-in\" series: rebrand page, goal breakdown, proof log, low-buy rules, filmed on the tablet or printed pages."
+          },
+          {
+            "cadence": "3 pins a week from Nov 14",
+            "channel": "Pinterest",
+            "tactic": "Planner page pins with \"2027\" and \"12 week planner\" in titles, linking to Etsy."
+          },
+          {
+            "cadence": "2-3 a week",
+            "channel": "Instagram Reels",
+            "tactic": "Repost the TikTok videos; carousel of the 44 pages."
+          },
+          {
+            "cadence": "About 2 a month",
+            "channel": "Email (Gumroad)",
+            "tactic": "Early-bird code, setup-week reminder, Week 6 midpoint nudge, Q2 refill announcement."
+          }
+        ],
+        "hooks": [
+          "I'm not making resolutions. I'm locking in for 12 weeks.",
+          "Plan my 2027 lock-in with me.",
+          "One quarter, three goals, real numbers.",
+          "My 2027 rebrand page, filled in.",
+          "Week 1 starts Monday, January 4."
+        ],
+        "keywords": [
+          "lock in 2027",
+          "2027 planner",
+          "12 week planner",
+          "q1 planner",
+          "goal planner 2027",
+          "sprint planner",
+          "habit tracker 2027",
+          "new year planner",
+          "low buy tracker",
+          "rebrand planner"
+        ],
+        "launchPlan": [
+          {
+            "action": "Run the USPTO search and the super prompt; start building in Canva.",
+            "day": "Day 0 (Mon Nov 9, 2026)"
+          },
+          {
+            "action": "Finish the tablet and printable versions, the mockups and 5 pins.",
+            "day": "Days 1-4 (Nov 10-13)"
+          },
+          {
+            "action": "Pre-list on Etsy and Gumroad (before Nov 15, so the listing ages). Email anyone on the Final 12 Weeks list an early-bird code.",
+            "day": "Day 5 (Sat Nov 14)"
+          },
+          {
+            "action": "Publish 3 pins a week: Q1 2027 sprint, rebrand page, proof log, low-buy page.",
+            "day": "Days 6-41 (Nov 15-Dec 20)"
+          },
+          {
+            "action": "Holiday sale, 20-25% off.",
+            "day": "Days 17-21 (Thu Nov 26-Mon Nov"
+          },
+          {
+            "action": "Start daily TikTok \"plan my 2027 lock-in\" videos through Jan 4, and start Etsy Ads at $1/day for 14 days.",
+            "day": "Day 36 (Tue Dec 15)"
+          },
+          {
+            "action": "CONTINUE check: sales or rising favorites means prepare the KDP paperback and a Q2 refill (Q2 sprint starting Mon Apr 5, 2027).",
+            "day": "Day 41 (Sun Dec 20)"
+          },
+          {
+            "action": "Post \"setup week starts today\": fill in the rebrand page on camera.",
+            "day": "Day 49 (Mon Dec 28)"
+          },
+          {
+            "action": "Post \"Week 1 starts today\"; list the undated version for late starters.",
+            "day": "Day 56 (Mon Jan 4, 2027)"
+          },
+          {
+            "action": "STOP if there are no sales. PIVOT if videos get views but the lock-in name doesn't convert: retitle around \"Q1 sprint\" or \"12-week planner\" wording (never \"12 Week Year\").",
+            "day": "Day 62 (Sun Jan 10, 2027)"
+          }
+        ],
+        "positioning": "Skip the resolutions: one 12-week sprint for Q1 2027, with a rebrand page, proof logs and an optional low-buy tracker."
+      },
+      "platforms": [
+        {
+          "name": "Etsy",
+          "role": "primary",
+          "why": "Peak planner-buying marketplace from mid-December to January."
+        },
+        {
+          "name": "Gumroad",
+          "role": "secondary",
+          "why": "Link-in-bio checkout for TikTok and a home for the email list and Q2 refills."
+        },
+        {
+          "name": "TikTok",
+          "role": "traffic",
+          "why": "The lock-in framing lives on TikTok, and \"plan my 2027 lock-in\" content fits late December."
+        },
+        {
+          "name": "Pinterest",
+          "role": "traffic",
+          "why": "New Year planner pins need lead time; pinning from mid-November ages them before the peak."
+        },
+        {
+          "name": "Amazon KDP",
+          "role": "secondary",
+          "why": "Optional paperback once the digital version shows demand (per the research's continue rule)."
+        }
+      ],
+      "pricing": {
+        "basis": "estimate: planner prices were not measured in the research",
+        "currency": "USD",
+        "high": 14,
+        "low": 6,
+        "rationale": "More than a tracker (a full Q1 system with tablet and print files), but a single quarter, so it sits below year-long digital planners; holiday sale instead of a low base price. An optional KDP paperback could list at about $12.99.",
+        "recommended": 9
+      },
+      "productName": "Lock In 2027: 12-Week Q1 Sprint Planner",
+      "risks": [
+        "The 'Great Lock-In' name could fade or TikTok could move to a new name for the January reset (both are invalidators in the research).",
+        "'12 Week Year' is a trademarked title; use generic sprint wording only.",
+        "Free app templates and guides may meet the need.",
+        "Burnout and grind-culture backlash; keep the copy sustainable, not hustle-heavy.",
+        "Low-buy pages must stay a personal log; no savings or financial claims.",
+        "Check Q2-Q4 refill dates in a calendar before building them."
+      ],
+      "source": "written",
+      "superPrompt": "You are a planner designer and a plain-spoken productivity writer. Your goal: write the complete content for \"Lock In 2027\", a 12-week Q1 sprint planner sold as a printable PDF and a hyperlinked tablet PDF, with an optional paperback interior later.\n\nBUYER AND JOB\nThe buyer is an 18-35-year-old resolution skeptic who prefers short sprints and a \"rebrand\" to January resolutions. The planner carries the lock-in identity into the New Year: a vision page, up to three measurable goals, 12 dated weeks, proof logs and an optional low-buy tracker.\n\nDATES (use exactly)\n2027 starts on Friday, January 1. Setup week: Mon Dec 28, 2026 to Sun Jan 3, 2027. Week 1 Jan 4-10, Week 2 Jan 11-17, Week 3 Jan 18-24, Week 4 Jan 25-31, Week 5 Feb 1-7, Week 6 Feb 8-14, Week 7 Feb 15-21, Week 8 Feb 22-28, Week 9 Mar 1-7, Week 10 Mar 8-14, Week 11 Mar 15-21, Week 12 Mar 22-28. Review week: Mar 29 to Apr 4. February 2027 has 28 days.\n\nDELIVERABLE: 44 pages\n1 Cover: \"LOCK IN 2027\" / \"12-Week Sprint Planner\" / \"[YOUR SHOP NAME]\".\n2 How It Works: why one 12-week sprint, how to use setup week, how proof logs work.\n3 My 2027 Rebrand: \"Who I'm becoming\" (three \"I'm someone who...\" lines), Keep / Drop / Start lists, three words for my year.\n4 2027 at a Glance: 12 mini-calendars, Monday start.\n5 Four Sprints Map: Q1 dated; Q2, Q3 and Q4 blank with date lines.\n6 Q1 Goals: up to 3 goals, each with Why, Finish line (a number), January / February / March milestones, weekly actions, minimum version.\n7 Non-Negotiables and Rules: 3 daily non-negotiables, 1 weekly one, one planned rest day.\n8 Starting Numbers: metric, unit, starting value, finish line.\n9-32 Weekly spreads, 2 pages per week for 12 weeks. Left: \"WEEK [n] | [dates]\", top 3 outcomes, check grid (3 non-negotiables x Mon-Sun), simple day blocks Mon-Sun. Right: this week's numbers, wins, misses, one adjustment, \"Locked-in score\" 1-10. Week 6 adds a midpoint review.\n33-35 Monthly Habit Trackers: January (31 days), February (28), March (31); 8 habit rows each.\n36-37 Proof Log: Weeks 1-12 x 3 metrics with running totals, then a 12-column bar grid to shade.\n38-39 Low-Buy Tracker (optional): my rules (always OK / not this sprint / wait 48 hours), January-March no-spend-day calendars, \"Skipped purchases\" log (item, amount, date).\n40 Week 13 Review (Mar 29-Apr 4): finish line vs result, what worked, keep / drop, next sprint focus.\n41-44 Notes.\n\nDESIGN\nTablet: 1620x2160 px portrait with a right-edge tab strip (Rebrand, Goals, W1-W12, Habits, Proof, Low-Buy, Review). Printable: US Letter 8.5x11 in and A4, 0.5 in margins, no tabs. Headings Montserrat ExtraBold, all caps; body Inter. Palette \"Fresh Start Graphite\": Graphite #22252A, Paper #FAF8F3, Electric Cobalt #2F5BEA, Mint #9ED8C3, Pale Gray #D9DCE1. Clean grids, high contrast, no florals.\n\nCONTENT RULES\nOriginal, direct, second-person copy at about a 7th-grade level; motivating without hype or shame. Example metrics stay neutral (pages read, sessions done, dollars set aside, hours practiced).\n\nWHY THIS IS BETTER\nInstead of a year-long planner that is easy to drop, it is one focused quarter with lock-in framing, proof logs that show progress in numbers, and the rebrand and low-buy rituals in one place. Minimum versions and a rest day keep it sustainable.\n\nCONSTRAINTS\nDo not use the phrase \"12 Week Year\", commercial planner or app names, creator names, or \"Winter Arc\" as a title. No promises about health, fitness, weight, income, savings or success. The low-buy pages are a personal log, not financial advice.\n\nOUTPUT FORMAT\nPage by page: \"=== PAGE [n]: [title] ===\", \"Layout:\" (one line), exact text, fill-in lines \"______\", grids as rows x columns with labels. Write the weekly spread once as a template, then list the 12 header lines. Then a HYPERLINK MAP (tab or index item -> page number). End with:\nSELF-CHECK (fix any \"no\"): 44 pages; Week 1 starts Monday Jan 4 and Week 12 ends Sunday Mar 28; February shows 28 days; no outcome promises; no trademarked titles or brand names; wording original.",
+      "themeKey": "'Lock In 2027': a 12-week Q1 sprint planner with a yearly vi"
+    }
+  ],
+  "source": "written",
+  "writtenAt": "2026-10-04T23:13:02Z"
+}

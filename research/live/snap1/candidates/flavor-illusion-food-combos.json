@@ -1,0 +1,174 @@
+{
+  "actionRationale": "First spark with no purchase evidence. Build the cheap kit now so it is listed before Halloween and Friendsgiving; hold off on ad spend until the first organic sales or a second wave of creator videos.",
+  "adopters": {
+    "evidence": [
+      "flavor-illusion-food-combos~a39389d4",
+      "flavor-illusion-food-combos~7733b762"
+    ],
+    "text": "Lifestyle creators and friend groups filming reaction-style taste tests; other creators (Social Sami, a smaller account) copied the format."
+  },
+  "aliases": [
+    "food combos that taste like something else",
+    "taste bud hacks",
+    "lemon and cinnamon tastes like cola",
+    "my brain is baffled food trend"
+  ],
+  "category": "hobby",
+  "channels": [
+    "Etsy",
+    "Pinterest",
+    "TikTok"
+  ],
+  "competition": {
+    "evidence": [
+      "flavor-illusion-food-combos~5b4a5e67",
+      "flavor-illusion-food-combos~39e2dca7"
+    ],
+    "level": "low",
+    "text": "Search found only generic tasting-party kits and a culinary prompt deck on Etsy. We found no kit built specifically around flavor illusions. We did not count listings."
+  },
+  "editorialNotes": [],
+  "effortMin": "low",
+  "firstSeenAt": "2026-10-05T00:01:10.739Z",
+  "formats": [
+    "printable"
+  ],
+  "gap": {
+    "isInference": true,
+    "text": "A ready-to-run flavor-illusion party game with combo cards, guess sheets and scoring, timed for Halloween, Friendsgiving and holiday parties."
+  },
+  "id": "flavor-illusion-food-combos",
+  "jobId": "hunt-foodhome-20261004",
+  "language": "en",
+  "lastRunId": "run-hunt-foodhome-20261004-1",
+  "lens": "First-spark hunt: food, home, pets and household micro-trend",
+  "name": "Flavor-Illusion Food Combos",
+  "origin": {
+    "date": null,
+    "evidence": [
+      "flavor-illusion-food-combos~ffba1d71",
+      "flavor-illusion-food-combos~853439c4"
+    ],
+    "text": "TODAY credits UK-based account Eat with GG with sparking the recent wave, noting such combos have circulated for years. A video by Australian creator Jaz Hand Made and friends then went viral, which Know Your Meme says happened in late September 2026 (we saw this only in a search summary)."
+  },
+  "productDemand": {
+    "evidence": [],
+    "text": "No purchase evidence found. Interest is curiosity and entertainment. The party-game angle is our inference based on the group format of the videos."
+  },
+  "products": [
+    {
+      "buyer": "US adults hosting Halloween, Friendsgiving or holiday game nights for friends or family",
+      "channels": [
+        "Etsy",
+        "Pinterest",
+        "TikTok"
+      ],
+      "continueIf": "At least 1 sale or 15 favorites within 21 days, or a reaction video over 5,000 views",
+      "differentiation": "Existing tasting-party printables are blind taste tests of known foods; this one is built around flavor illusions with a guess-vs-reality score mechanic",
+      "effort": "low",
+      "effortHours": 8,
+      "evidence": [
+        "flavor-illusion-food-combos~ffba1d71",
+        "flavor-illusion-food-combos~853439c4",
+        "flavor-illusion-food-combos~5b4a5e67",
+        "flavor-illusion-food-combos~39e2dca7"
+      ],
+      "format": "printable",
+      "fulfillment": "digital",
+      "leadTimeDays": 2,
+      "pivotIf": "Views but no favorites: reposition as a general 'guess the flavor' party game bundle",
+      "rightsNote": "Use generic food names only; never name soft-drink or snack brands or the creators who popularized the combos",
+      "stopIf": "Under 100 listing views after 21 days with active pinning",
+      "theme": "Flavor-illusion tasting party game built on the viral 'tastes like something else' food combos",
+      "validationTest": "List on Etsy and pin 10 pins in 7 days; post 2 reaction videos",
+      "whyBuy": "Turns the viral videos into a ready-to-run party activity with cards, guess sheets and scoring, saving the host planning time"
+    }
+  ],
+  "qualityFlags": [],
+  "recommendedAction": "prepare",
+  "region": "US",
+  "researchedAt": "2026-10-05T00:01:02Z",
+  "rights": {
+    "note": "Combos are generic foods. Do not use soft-drink or snack brand names (sources say 'Coca-Cola'; write 'cola'), creator names or video clips.",
+    "risk": "low"
+  },
+  "runIds": [
+    "run-hunt-foodhome-20261004-1"
+  ],
+  "scores": {
+    "buyerIntent": {
+      "basis": "unknown",
+      "rationale": "No purchase evidence; curiosity only",
+      "score": null
+    },
+    "durability": {
+      "basis": "qualitative",
+      "rationale": "The viral moment is likely short; the game works year-round",
+      "score": 2
+    },
+    "economics": {
+      "basis": "qualitative",
+      "rationale": "Digital, zero marginal cost, cheap to build",
+      "score": 4
+    },
+    "productFit": {
+      "basis": "qualitative",
+      "rationale": "The group taste-test format maps directly to a printable party game",
+      "score": 4
+    },
+    "supplyGap": {
+      "basis": "qualitative",
+      "rationale": "Found no flavor-illusion-specific kit; generic taste tests exist",
+      "score": 4
+    },
+    "timing": {
+      "basis": "reported",
+      "rationale": "Coverage clusters in late September 2026, just before the party season",
+      "score": 4
+    }
+  },
+  "source": "research",
+  "spread": {
+    "evidence": [
+      "flavor-illusion-food-combos~ffba1d71",
+      "flavor-illusion-food-combos~853439c4",
+      "flavor-illusion-food-combos~a39389d4",
+      "flavor-illusion-food-combos~ee30b347",
+      "flavor-illusion-food-combos~936cacb6"
+    ],
+    "text": "Coverage from at least four independent outlets (Know Your Meme, TODAY, Upworthy, Spoon University) plus Yahoo syndication, and a TikTok discover page for the phrase. We could not verify article dates directly because every page was blocked."
+  },
+  "summary": "TikTok and Instagram creators taste-test pairs of foods said to mimic a third food (cucumber + sugar as watermelon, lemon + cinnamon as cola), and outlets covered it in late September 2026.",
+  "topicKeys": [
+    "phrase:flavor illusion food combos",
+    "phrase:food combos that taste like something else",
+    "phrase:taste bud hacks",
+    "phrase:lemon and cinnamon tastes like cola",
+    "phrase:my brain is baffled food trend"
+  ],
+  "trajectory": {
+    "evidence": [
+      "flavor-illusion-food-combos~ffba1d71",
+      "flavor-illusion-food-combos~ee30b347"
+    ],
+    "stage": "first_spark",
+    "text": "Recent and spreading across outlets, but evidence is thin: one big video (reported nearly 2M TikTok views) and a handful of copycats. Too early to say whether it grows or fades in a few weeks."
+  },
+  "unresolved": [
+    "Do new US creators (not just the original 2-3) post combo taste tests in October?",
+    "Do searches or pins for 'taste illusion party' or 'food combo challenge' appear on Pinterest/Etsy?",
+    "Does a brand, restaurant or TV segment pick up the format (confirms spread, may add competition)?"
+  ],
+  "what": "Creators and groups of friends try simple two-ingredient combos that people say taste like something else, filming their reactions. Commonly cited pairs are cucumber with sugar (watermelon), tomato with chips (pizza) or sugar (strawberry), banana with avocado (ice cream) and lemon with cinnamon (cola). It works as a group activity, which is what makes a party format possible.",
+  "window": {
+    "endEstimate": null,
+    "estimate": "4-8 weeks of relevance as a viral reference; the party-game use stays seasonal",
+    "invalidators": [
+      "No new creator videos or articles after mid-October",
+      "A major party-supply brand releases a similar game"
+    ],
+    "reasoning": "Food-video curiosities usually fade within weeks, but the product works as a general party game through the November-December hosting season even after the trend fades.",
+    "seasonality": "Halloween through New Year party season",
+    "sellBy": null
+  }
+}

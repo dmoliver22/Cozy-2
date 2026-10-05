@@ -1,0 +1,19 @@
+{
+  "accessMethod": "web_search_result",
+  "candidateId": "i-can-t-do-nathan",
+  "claim": "A web search for 'can't do nathan' shirts/stickers returned unrelated shops; no meme-specific products surfaced (search-engine check, not a marketplace count)",
+  "excerpt": "the specific \"can't do nathan\" products aren't directly visible in these top results",
+  "firstRetrievedAt": "2026-10-05T00:00:47Z",
+  "firstSeenRunId": "run-hunt-memes-20261004-4",
+  "id": "i-can-t-do-nathan~22941ebc",
+  "intent": "none",
+  "kind": "inference",
+  "lastSeenRunId": "run-hunt-memes-20261004-4",
+  "publishedAt": null,
+  "publisher": "web search (Etsy shop results)",
+  "retrievedAt": "2026-10-05T00:00:47Z",
+  "signalType": "marketplace",
+  "syndicationOf": null,
+  "title": "Search: 'can't do nathan' merch",
+  "url": "https://www.etsy.com/shop/TheStickerFairy"
+}

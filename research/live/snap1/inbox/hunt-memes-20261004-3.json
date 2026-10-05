@@ -1,0 +1,638 @@
+{
+  "createdAt": "2026-10-05T00:00:47Z",
+  "jobId": "hunt-memes-20261004",
+  "processedAt": "2026-10-05T00:01:10.130Z",
+  "raw": {
+    "candidates": [
+      {
+        "actionRationale": "Proven spread (monthly award, many creators, cross-platform) and a utility signal for templates, but no purchase evidence and the meme is maturing. Build the template pack now; the party game is a lower-risk holiday play.",
+        "adopters": {
+          "evidence": [
+            "e2",
+            "e6",
+            "e7"
+          ],
+          "text": "Many separate TikTok creators making situation variants; Instagram Reels meme pages; people searching for templates to make their own."
+        },
+        "aliases": [
+          "Things to Say meme",
+          "Things to say when meeting her dad"
+        ],
+        "category": "meme",
+        "competition": {
+          "evidence": [
+            "e8"
+          ],
+          "level": "low",
+          "text": "Generic meme-template packs exist on Gumroad; none found for this format by web search. Marketplaces were not checked directly."
+        },
+        "evidence": [
+          {
+            "accessMethod": "web_search_result",
+            "claim": "Origin: ironic hustle-culture lists by TikToker @cawkringinvestor, Aug 17 2026, 1.7M views in a month",
+            "excerpt": "On August 17th, 2026, TikToker @cawkringinvestor posted a meme that ironically lists things that you should say to your partner... The post gained over 1.7 million views in a month.",
+            "id": "e1",
+            "intent": "curiosity",
+            "kind": "observed",
+            "publishedAt": null,
+            "publisher": "Know Your Meme",
+            "retrievedAt": "2026-10-05T00:00:47Z",
+            "signalType": "community",
+            "syndicationOf": null,
+            "title": "Things To Say",
+            "url": "https://knowyourmeme.com/memes/things-to-say"
+          },
+          {
+            "accessMethod": "web_search_result",
+            "claim": "Variants by other creators: meeting a partner's dad (1.1M views in a week), job interview (2.2M in a week)",
+            "excerpt": "On August 31st, TikToker @richhomiethugger2867 posted a version about the things you should say in a job interview, garnering over 2.2 million views in a week.",
+            "id": "e2",
+            "intent": "curiosity",
+            "kind": "observed",
+            "publishedAt": null,
+            "publisher": "Know Your Meme",
+            "retrievedAt": "2026-10-05T00:00:47Z",
+            "signalType": "social",
+            "syndicationOf": null,
+            "title": "Things To Say (variants)",
+            "url": "https://knowyourmeme.com/memes/things-to-say"
+          },
+          {
+            "accessMethod": "web_search_result",
+            "claim": "Won KYM's September 2026 Meme of the Month with 11.6% of votes",
+            "excerpt": "\"Things to Say\" meme won September's Meme of the Month award with 11.6 percent of the total votes.",
+            "id": "e3",
+            "intent": "curiosity",
+            "kind": "observed",
+            "publishedAt": null,
+            "publisher": "Know Your Meme",
+            "retrievedAt": "2026-10-05T00:00:47Z",
+            "signalType": "community",
+            "syndicationOf": null,
+            "title": "See The Winner Of September 2026's Meme Of The Month!",
+            "url": "https://knowyourmeme.com/editorials/poll/see-the-winner-of-september-2026s-meme-of-the-month"
+          },
+          {
+            "accessMethod": "web_search_result",
+            "claim": "Featured in the Sept 11 weekly roundup",
+            "excerpt": "TikTokers told us the best things to say in any situation",
+            "id": "e4",
+            "intent": "curiosity",
+            "kind": "observed",
+            "publishedAt": "2026-09-11",
+            "publisher": "Know Your Meme",
+            "retrievedAt": "2026-10-05T00:00:47Z",
+            "signalType": "community",
+            "syndicationOf": null,
+            "title": "The Weekly Meme Roundup: Can't Do Nathan, Elizabeth Holmes, Things To Say And More",
+            "url": "https://trending.knowyourmeme.com/editorials/meme-review/the-weekly-meme-roundup-cant-do-nathan-elizabeth-holmes-things-to-say-and-more"
+          },
+          {
+            "accessMethod": "web_search_result",
+            "claim": "Explainer syndicated to Yahoo",
+            "excerpt": "The Viral Hustle Culture Memes On TikTok And Reels Explained",
+            "id": "e5",
+            "intent": "curiosity",
+            "kind": "observed",
+            "publishedAt": null,
+            "publisher": "Yahoo Entertainment (KYM syndication)",
+            "retrievedAt": "2026-10-05T00:00:47Z",
+            "signalType": "press",
+            "syndicationOf": "e1",
+            "title": "What Is The 'Things To Say' Meme? The Viral Hustle Culture Memes On TikTok And Reels Explained",
+            "url": "https://www.yahoo.com/entertainment/articles/things-meme-viral-hustle-culture-213000546.html"
+          },
+          {
+            "accessMethod": "web_search_result",
+            "claim": "Independent explainer: format jumped to Instagram Reels in early September; poster-style list over a headshot",
+            "excerpt": "The trend jumped to Instagram Reels in early September.",
+            "id": "e6",
+            "intent": "curiosity",
+            "kind": "observed",
+            "publishedAt": null,
+            "publisher": "meme.com",
+            "retrievedAt": "2026-10-05T00:00:47Z",
+            "signalType": "community",
+            "syndicationOf": null,
+            "title": "Things To Say Meme: Ironic Advice TikTok Format Explained",
+            "url": "https://meme.com/memes/things-to-say"
+          },
+          {
+            "accessMethod": "web_search_result",
+            "claim": "TikTok discover pages for 'Things to Say Meme Template' and 'What to Say When Meeting Her Dad Template' suggest people looking to make their own",
+            "excerpt": "Things to Say Meme Template; What to Say When Meeting Her Dad Template; 10 Things to Say to Meme",
+            "id": "e7",
+            "intent": "utility",
+            "kind": "observed",
+            "publishedAt": null,
+            "publisher": "TikTok",
+            "retrievedAt": "2026-10-05T00:00:47Z",
+            "signalType": "social",
+            "syndicationOf": null,
+            "title": "Things to Say Meme Template",
+            "url": "https://www.tiktok.com/discover/things-to-say-meme-template"
+          },
+          {
+            "accessMethod": "web_search_result",
+            "claim": "Generic meme template packs exist on Gumroad; none found specific to this format (search-engine check)",
+            "excerpt": "viral meme templates pack",
+            "id": "e8",
+            "intent": "none",
+            "kind": "inference",
+            "publishedAt": null,
+            "publisher": "Gumroad",
+            "retrievedAt": "2026-10-05T00:00:47Z",
+            "signalType": "marketplace",
+            "syndicationOf": null,
+            "title": "viral meme templates pack",
+            "url": "https://automemesai.gumroad.com/l/viral-meme-templates-pack"
+          }
+        ],
+        "gap": {
+          "isInference": true,
+          "text": "Brand-safe, celebrity-free templates (the viral versions rely on celebrity headshots) and an evergreen 'terrible advice' party game that carries the format into the holiday season."
+        },
+        "name": "Things To Say (ironic advice lists)",
+        "observations": [
+          {
+            "asOf": "2026-09-17",
+            "evidence": "e1",
+            "isAbsolute": true,
+            "metric": "Views of Aug 17 origin post (1 month)",
+            "note": "reported by Know Your Meme; not independently verified",
+            "unit": "views",
+            "value": 1700000
+          },
+          {
+            "asOf": "2026-10-01",
+            "evidence": "e3",
+            "isAbsolute": false,
+            "metric": "Share of KYM Sept 2026 Meme of the Month vote",
+            "note": "reader poll, not reach",
+            "unit": "percent",
+            "value": 11.6
+          }
+        ],
+        "origin": {
+          "date": "2026-08-17",
+          "evidence": [
+            "e1",
+            "e2"
+          ],
+          "text": "TikToker @cawkringinvestor, Aug 17, 2026; breakout variants Aug 30-31 and into September."
+        },
+        "productDemand": {
+          "evidence": [
+            "e7"
+          ],
+          "text": "Help-seeking (utility) for templates is visible through TikTok template discover pages; no purchase evidence."
+        },
+        "products": [
+          {
+            "buyer": "Small businesses, social media managers and creators",
+            "channels": [
+              "Etsy",
+              "Gumroad",
+              "TikTok",
+              "Instagram"
+            ],
+            "continueIf": "5+ sales in 14 days",
+            "differentiation": "Brand-safe placeholder character, 20 situations x 3 sizes, small-business angles",
+            "effort": "medium",
+            "effortHours": 11,
+            "evidence": [
+              "e7"
+            ],
+            "format": "template",
+            "fulfillment": "digital",
+            "leadTimeDays": 3,
+            "pivotIf": "Views on demos but no sales: make niche packs (realtors, salons)",
+            "playbook": {
+              "assembly": [
+                "Generate copy with the super prompt and the character art.",
+                "Build template 1 in Canva at 1080x1350; set brand styles (fonts, palette).",
+                "Duplicate and fill templates 2-20; resize copies to 1080x1920 and 1080x1080 (Canva Pro resize or manual).",
+                "Lock background elements; leave text and photo frames editable.",
+                "Create Canva template share links ('use as template') and paste them into a 2-page PDF with instructions.",
+                "Make 3 preview images and a 15-second flip-through video.",
+                "List on Etsy and Gumroad as a digital download (PDF with links)."
+              ],
+              "asymmetry": {
+                "badBetIf": "The format fades before Etsy indexes the listing (it started in mid-August).",
+                "downside": "About 10-12 hours; under $5.",
+                "upside": "Digital, zero marginal cost; niche spin-offs reuse the same layouts."
+              },
+              "costs": {
+                "baseCost": null,
+                "basis": "digital; Etsy listing/transaction fees; Canva Pro optional",
+                "item": null,
+                "provider": null,
+                "shipping": null,
+                "testBudget": 0,
+                "testBudgetNote": "Organic; the product demonstrates itself in posts."
+              },
+              "extensions": [
+                "Niche packs: realtors, hair salons, fitness coaches",
+                "Seasonal: things to say at Thanksgiving dinner"
+              ],
+              "imagePrompts": [
+                {
+                  "prompt": "Flat vector illustration of an original fictional confident businessman character in a too-big pinstripe suit and sunglasses, arms crossed, smug grin, money green #2E6B45 suit, gold #C9A24A tie, cream #F5EFE3 background, chest-up portrait, 4:5. No logos, no real people, no trademarked characters, no watermarks.",
+                  "purpose": "Original placeholder character",
+                  "tool": "Ideogram or ChatGPT images"
+                },
+                {
+                  "prompt": "Mockup of three phone screens showing poster-style slides with the bold headline \"THINGS TO SAY\" in white condensed type on espresso #2B211C with gold #C9A24A bullets, 4:5 composition, light cream background. No logos, no real people, no trademarked characters, no watermarks.",
+                  "purpose": "Pack cover mockup",
+                  "tool": "Canva"
+                }
+              ],
+              "listingPrompt": "Write an Etsy listing for an editable Canva template pack of 20 'Things To Say' meme posters with original starter copy for small businesses and creators. Title under 140 characters front-loading \"Things To Say Meme Template\". 13 tags of 20 characters or fewer. Description: what's included (20 templates x 3 sizes, starter lines), Canva free account works, delivered as a PDF with template links, no physical item. 5-question FAQ including 'Can I use celebrity photos?' (answer: no, use your own photos). Do not use trademarks, celebrity names or the original creators' handles.",
+              "marketing": {
+                "channels": [
+                  {
+                    "cadence": "4/week",
+                    "channel": "TikTok",
+                    "tactic": "Post templates as native memes; 'link in bio' for the pack"
+                  },
+                  {
+                    "cadence": "3/week",
+                    "channel": "Instagram",
+                    "tactic": "Carousels using the templates"
+                  },
+                  {
+                    "cadence": "5/week",
+                    "channel": "Pinterest",
+                    "tactic": "Template preview pins"
+                  }
+                ],
+                "hooks": [
+                  "Things to say to a customer who wants a discount:",
+                  "Your brand can do this trend in 5 minutes"
+                ],
+                "keywords": [
+                  "things to say meme",
+                  "meme template canva",
+                  "instagram meme template",
+                  "small business meme"
+                ],
+                "launchPlan": [
+                  {
+                    "action": "List on Etsy + Gumroad.",
+                    "day": "Day 0"
+                  },
+                  {
+                    "action": "Post 3 templates as your own meme posts on TikTok and Instagram.",
+                    "day": "Day 1"
+                  },
+                  {
+                    "action": "Post 'Things to say to a customer who wants a discount' aimed at small-business owners.",
+                    "day": "Day 3"
+                  },
+                  {
+                    "action": "Pinterest pins for 'social media templates'.",
+                    "day": "Day 5"
+                  },
+                  {
+                    "action": "Share in small-business groups only where promotion is allowed (check the community rules).",
+                    "day": "Day 7"
+                  },
+                  {
+                    "action": "Go/pivot/stop check.",
+                    "day": "Day 14"
+                  },
+                  {
+                    "action": "If selling, add a niche pack (realtors, salons).",
+                    "day": "Day 21"
+                  }
+                ],
+                "positioning": "Join the Things To Say trend in five minutes, without borrowing a celebrity's face."
+              },
+              "platforms": [
+                {
+                  "name": "Etsy",
+                  "role": "primary",
+                  "why": "Canva-template buyers search Etsy"
+                },
+                {
+                  "name": "Gumroad",
+                  "role": "secondary",
+                  "why": "Direct link in bio from demo posts"
+                },
+                {
+                  "name": "TikTok / Instagram",
+                  "role": "traffic",
+                  "why": "Post the templates themselves as meme content"
+                }
+              ],
+              "pricing": {
+                "basis": "estimate",
+                "currency": "USD",
+                "high": 15,
+                "low": 6,
+                "rationale": "Social template packs commonly sell in single digits to mid-teens; keep it an impulse buy while the trend is hot.",
+                "recommended": 9
+              },
+              "productName": "Things To Say: Editable Meme Poster Template Pack",
+              "risks": [
+                "Format already about 7 weeks old; could fade in October",
+                "Buyers may swap in celebrity photos themselves; warn them clearly",
+                "Free DIY alternatives"
+              ],
+              "superPrompt": "You are a social media designer and comedy writer building an original, editable Canva template pack for the 'Things To Say' meme format: a poster-style slide with a bold headline (\"THINGS TO SAY WHEN ...\") and a bulleted list of confidently terrible advice.\n\nBUYER AND JOB: Small-business owners, social media managers and creators who want to join the trend fast with on-brand posts for TikTok carousels, Instagram posts and Reels covers. They need ready layouts and starter copy they can edit in minutes.\n\nDELIVERABLE SPEC: 20 templates in three sizes each: 1080x1350 (IG portrait), 1080x1920 (Story/Reel/TikTok), 1080x1080 (square). For each template give: headline, 6-8 list items (each under 12 words), layout notes (where the image placeholder sits, bullet style), and which palette colors to use.\nHeadlines must cover generic, brand-safe situations: meeting your partner's parents; job interview; first day at a new job; at the dentist; to your barista; to your landlord; at a family reunion; at the gym; to your group project; at a wedding; to your plumber; at parent-teacher night; to your hairstylist; at the DMV; on a first date; to your neighbor; at a job you're quitting; to customer support; to your accountant; for small-business owners: to a customer who says \"I can get it cheaper\".\nThe humor: deadpan, absurd, over-confident hustle-bro energy (e.g. \"Ask if they've considered investing in rare fish\"). Clean, no sexual content, no slurs, no insults about groups.\nImage placeholder: a generic frame labeled \"your photo here\" or an original illustrated suited character (no celebrity).\n\nFONTS (two Canva pairings): A) \"Anton\" + \"Inter\"; B) \"Archivo Black\" + \"IBM Plex Sans\".\nPALETTE: espresso #2B211C, cream #F5EFE3, money green #2E6B45, gold #C9A24A, alert red #C8402F.\n\nRIGHTS RULES: No celebrity photos, movie stills or real people's names; never tell buyers to use celebrity images. Do not use the original creators' handles or their exact lines. All lines must be newly written.\n\nDIFFERENTIATION: The viral posts use celebrity headshots that brands can't legally use. This pack gives brand-safe layouts, an original placeholder character and 140+ fresh lines.\n\nOUTPUT FORMAT: Template 1-20, each with headline, list items, layout, colors. Then a 'how to customize' section (5 steps) and 10 extra blank-situation headline ideas.\n\nSELF-CHECK: 20 templates; every line original and clean; no celebrities or brands; item length under 12 words; palette hex codes valid."
+            },
+            "rightsNote": "No celebrity images, creator handles or copied lines",
+            "stopIf": "No sales in 14 days and new variants have stopped",
+            "theme": "Editable Canva 'Things To Say' poster templates with brand-safe original starter lines and no celebrity images",
+            "validationTest": "List and post 6 template demos as native memes over 2 weeks",
+            "whyBuy": "Join the trend quickly without legal risk from celebrity photos"
+          },
+          {
+            "buyer": "Adults hosting game nights and holiday gatherings",
+            "channels": [
+              "Etsy",
+              "Gumroad",
+              "Pinterest"
+            ],
+            "continueIf": "5+ sales by Nov 20",
+            "differentiation": "Ironic hustle-advice voice plus Hustle Mode; ready to print tonight",
+            "effort": "medium",
+            "effortHours": 10,
+            "evidence": [
+              "e3"
+            ],
+            "format": "printable",
+            "fulfillment": "digital",
+            "leadTimeDays": 3,
+            "pivotIf": "Favorites but few sales: price at $5 and add a holiday expansion",
+            "playbook": {
+              "assembly": [
+                "Generate all card text with the super prompt; proofread counts.",
+                "In Canva create a US Letter document; build a 3x6 card grid with crop marks; duplicate for A4.",
+                "Paste situations, wild cards and blanks; add card backs page.",
+                "Export PDF Print, 300 DPI, both sizes; test-print one page.",
+                "Make 3 mockups (cards on a party table, rules page, cover).",
+                "ZIP files with a printing-tips PDF; list on Etsy and Gumroad."
+              ],
+              "asymmetry": {
+                "badBetIf": "Saturated party-printable searches bury a new listing and the meme hook adds nothing.",
+                "downside": "About 10 hours; $0.20 listing fee.",
+                "upside": "Works even after the meme fades as an evergreen party printable; holiday season ahead."
+              },
+              "costs": {
+                "baseCost": null,
+                "basis": "digital; Etsy fees only",
+                "item": null,
+                "provider": null,
+                "shipping": null,
+                "testBudget": 14,
+                "testBudgetNote": "Optional Etsy ads $1/day for 14 days from mid-November for Friendsgiving/holiday parties, only if organic favorites appear."
+              },
+              "extensions": [
+                "Holiday expansion pack",
+                "Office-safe edition",
+                "Bachelorette edition"
+              ],
+              "imagePrompts": [
+                {
+                  "prompt": "Bold retro game-box style cover, the exact text \"THINGS TO SAY\" in huge condensed cream #F5EFE3 letters on espresso #2B211C, subtitle \"the party game of terrible advice\" in gold #C9A24A, scattered illustrated cash bills and speech bubbles in money green #2E6B45, 4:3 landscape. No logos, no real people, no trademarked characters, no watermarks.",
+                  "purpose": "Cover art",
+                  "tool": "Ideogram"
+                },
+                {
+                  "prompt": "Repeating pattern of small speech bubbles and dollar signs in gold #C9A24A on espresso #2B211C, 2.5x3.5 in poker card ratio, centered small text \"THINGS TO SAY\". No logos, no real people, no trademarked characters, no watermarks.",
+                  "purpose": "Card back pattern",
+                  "tool": "Canva"
+                }
+              ],
+              "listingPrompt": "Write an Etsy listing for a printable adult party card game of 'terrible advice' inspired by the Things To Say meme. Title under 140 characters front-loading \"Printable Party Game\". 13 tags of 20 characters or fewer (e.g. printable party game, game night printable, friendsgiving game). Description: contents (108 situation cards, 24 wild, blanks, rules, scorecard), US Letter and A4 PDFs, instant download, printing tips, no physical item. 5-question FAQ. No trademarks or other game names, no celebrity names.",
+              "marketing": {
+                "channels": [
+                  {
+                    "cadence": "5/week",
+                    "channel": "Pinterest",
+                    "tactic": "Party printable pins"
+                  },
+                  {
+                    "cadence": "3/week",
+                    "channel": "TikTok",
+                    "tactic": "Card-reading videos"
+                  }
+                ],
+                "hooks": [
+                  "Things to say when grandma asks why you're single:",
+                  "We played this at Friendsgiving and nobody recovered"
+                ],
+                "keywords": [
+                  "printable party game",
+                  "adult game night",
+                  "friendsgiving game",
+                  "funny card game printable"
+                ],
+                "launchPlan": [
+                  {
+                    "action": "List on Etsy + Gumroad.",
+                    "day": "Day 0"
+                  },
+                  {
+                    "action": "TikTok: friends playing (or a voiceover reading 5 cards with funny answers).",
+                    "day": "Day 2"
+                  },
+                  {
+                    "action": "Pinterest pins: 'Friendsgiving games', 'game night printables'.",
+                    "day": "Day 4"
+                  },
+                  {
+                    "action": "Post a 'things to say at Thanksgiving dinner' meme slide linking the game.",
+                    "day": "Day 7"
+                  },
+                  {
+                    "action": "Go/pivot/stop check.",
+                    "day": "Day 14"
+                  },
+                  {
+                    "action": "Add Christmas-party situations as an expansion if selling.",
+                    "day": "Day 21"
+                  }
+                ],
+                "positioning": "The meme's terrible-advice energy, as an instant printable game for holiday gatherings."
+              },
+              "platforms": [
+                {
+                  "name": "Etsy",
+                  "role": "primary",
+                  "why": "Printable party game buyers search there, especially before holidays"
+                },
+                {
+                  "name": "Gumroad",
+                  "role": "secondary",
+                  "why": "Direct link"
+                },
+                {
+                  "name": "Pinterest",
+                  "role": "traffic",
+                  "why": "Party-planning searches"
+                }
+              ],
+              "pricing": {
+                "basis": "estimate",
+                "currency": "USD",
+                "high": 10,
+                "low": 5,
+                "rationale": "Printable party games commonly sell in the mid single digits; holiday-season gatherings support this range.",
+                "recommended": 7
+              },
+              "productName": "Things To Say: Printable Party Game",
+              "risks": [
+                "Party-printable category is crowded",
+                "Meme reference may confuse non-meme buyers; lead with 'terrible advice'"
+              ],
+              "superPrompt": "You are a party-game designer writing an original printable card game inspired by the 'Things To Say' meme, in which players compete to give the most confidently terrible advice for an awkward situation.\n\nBUYER AND JOB: Adults 21-40 hosting game nights, Friendsgiving, bachelor/bachelorette parties or office socials who want a cheap, instant, funny game they can print tonight.\n\nDELIVERABLE SPEC (printable PDF, US Letter 8.5x11 in and A4 versions):\n- Page 1: Cover \"THINGS TO SAY - the party game of terrible advice\".\n- Page 2: Rules (3-8 players, 20-40 minutes). Each round a 'Situation' card is read; players write one line on a blank 'Advice' card; the reader picks the best; first to 5 wins. Include a 'Hustle Mode' variant (every line must mention an investment) and a 'Speed Round'.\n- Pages 3-8: 108 Situation cards (18 per page, 3x6 grid, 2.5x3.5 in poker size on A4/Letter with crop marks). Write all 108 situations, each under 14 words, clean and brand-safe (e.g. \"Things to say when your boss joins the group chat\").\n- Pages 9-10: 36 blank Advice cards with a light ruled line.\n- Page 11: 24 'Wild' cards with pre-written absurd advice lines (under 12 words each).\n- Page 12: scorecard for 8 players.\n- Card backs page for double-sided printing.\n\nFONTS (two Canva pairings): A) \"Anton\" + \"Inter\"; B) \"Bebas Neue\" + \"Lora\".\nPALETTE: espresso #2B211C, cream #F5EFE3, money green #2E6B45, gold #C9A24A, alert red #C8402F.\n\nCONTENT RULES: Original writing only; no celebrity names, brands or copyrighted characters; no sexual content or slurs; humor punches at situations, not groups of people. Provide a separate 'spicy' add-on list of 24 situations clearly labeled 18+ but still without explicit content.\n\nDIFFERENTIATION: Unlike generic party prompts, every card is built on the trend's ironic hustle-advice voice, and the game includes Hustle Mode. It's instant and costs under $10.\n\nOUTPUT FORMAT: Page-by-page content in order with exact card text numbered, then printing tips (cardstock 65-110 lb, double-sided, cut along crop marks).\n\nSELF-CHECK: exactly 108 situations, 24 wild cards, 24 spicy; all under word limits; no names/brands; Letter and A4 layout notes included."
+            },
+            "rightsNote": "Original text; no other game names or celebrities",
+            "stopIf": "No sales by Nov 20",
+            "theme": "Printable 'terrible advice' party card game inspired by the Things To Say format",
+            "validationTest": "List by late October; Pinterest pins for Friendsgiving",
+            "whyBuy": "Instant, cheap, funny game for Friendsgiving and holiday parties"
+          }
+        ],
+        "recommendedAction": "prepare",
+        "rights": {
+          "note": "The list format is not protectable. Viral posts use celebrity headshots; products must not, and must not copy the original creators' lines or handles.",
+          "risk": "low"
+        },
+        "scores": {
+          "buyerIntent": {
+            "basis": "qualitative",
+            "rationale": "Template help-seeking visible; no purchases",
+            "score": 2
+          },
+          "durability": {
+            "basis": "qualitative",
+            "rationale": "Advice-list humor is evergreen; meme itself may fade",
+            "score": 3
+          },
+          "economics": {
+            "basis": "qualitative",
+            "rationale": "Digital products, zero marginal cost",
+            "score": 4
+          },
+          "productFit": {
+            "basis": "qualitative",
+            "rationale": "Text-list format maps directly onto templates and a card game",
+            "score": 4
+          },
+          "supplyGap": {
+            "basis": "qualitative",
+            "rationale": "No format-specific products found; generic templates exist",
+            "score": 3
+          },
+          "timing": {
+            "basis": "reported",
+            "rationale": "About 7 weeks old; recent award but possibly plateauing",
+            "score": 3
+          }
+        },
+        "spread": {
+          "evidence": [
+            "e3",
+            "e4",
+            "e5",
+            "e6"
+          ],
+          "text": "TikTok to Instagram Reels in early September; KYM weekly roundup (Sept 11), Meme of the Month win, Yahoo syndication and a separate meme.com explainer."
+        },
+        "summary": "An ironic hustle-culture meme format of poster-style lists of terrible things to say in awkward situations; Know Your Meme's September 2026 Meme of the Month.",
+        "trajectory": {
+          "evidence": [
+            "e3",
+            "e7"
+          ],
+          "stage": "early_growth",
+          "text": "Started mid-August and grew through September into a monthly-award winner; now about 7 weeks old, so it may plateau in October. Template searches suggest people are still making new ones."
+        },
+        "unresolved": [
+          "Are new 'Things to Say' variants still appearing daily in mid-October?",
+          "Do brand accounts adopt the format (would boost template demand)?",
+          "Any template packs for this format appearing on Etsy?"
+        ],
+        "what": "Each post has a bold headline ('Things to say when meeting her dad', 'in a job interview') over a reference image and a bulleted list of confidently bad advice, in the voice of rare-fish hustle memes. It began on TikTok in mid-August 2026, spread to Reels in early September and was voted September's Meme of the Month.",
+        "window": {
+          "endEstimate": null,
+          "estimate": "3-6 weeks for template demand; party game evergreen through the holidays",
+          "invalidators": [
+            "Sharp drop in new variants in October",
+            "Platforms flood with free templates"
+          ],
+          "reasoning": "The format is about 7 weeks old and peaked around the September award; template utility persists while creators keep posting. The party game hooks into Friendsgiving and holiday gatherings.",
+          "seasonality": "Holiday party season (Nov-Dec) for the game",
+          "sellBy": null
+        }
+      }
+    ],
+    "kind": "discover",
+    "lens": "First-spark hunt: memes, catchphrases, slang",
+    "researchedAt": "2026-10-05T00:00:47Z",
+    "sourcesTried": [
+      {
+        "method": "WebFetch + WebSearch",
+        "note": "knowyourmeme.com blocked by egress proxy; used search-result snippets only",
+        "source": "Know Your Meme (entries, weekly roundups, Meme of the Month)",
+        "status": "blocked"
+      },
+      {
+        "method": "WebFetch",
+        "note": "egress blocked; snippets only",
+        "source": "meme.com explainers",
+        "status": "blocked"
+      },
+      {
+        "method": "WebFetch",
+        "note": "egress blocked; snippets only",
+        "source": "newengen.com TikTok/Instagram trend pages",
+        "status": "blocked"
+      },
+      {
+        "method": "WebFetch",
+        "note": "egress blocked",
+        "source": "pepperagency.com October 2026 trends",
+        "status": "blocked"
+      },
+      {
+        "method": "WebFetch",
+        "note": "egress blocked; snippets only",
+        "source": "thunderdungeon.com, thebrewnews.com (Chile memes)",
+        "status": "blocked"
+      },
+      {
+        "method": "WebSearch",
+        "note": "about 45 queries; primary evidence channel",
+        "source": "WebSearch (extended/standard) across trend roundups, slang explainers, KYM, Yahoo syndications, Euronews, Daily Dot",
+        "status": "ok"
+      },
+      {
+        "method": "WebSearch for merch terms",
+        "note": "no direct marketplace access; searched for listings via web search only, so supply counts are not measured",
+        "source": "Etsy / Redbubble / TikTok Shop supply checks",
+        "status": "ok"
+      },
+      {
+        "method": "not fetched",
+        "note": "typically blocked; only TikTok discover-page titles seen in search results",
+        "source": "TikTok, Reddit, X, Google Trends",
+        "status": "not_tried"
+      }
+    ]
+  },
+  "report": [
+    {
+      "errors": [],
+      "id": "things-to-say-ironic-advice-lists",
+      "name": "Things To Say (ironic advice lists)",
+      "status": "created",
+      "warnings": 0
+    }
+  ],
+  "runId": "run-hunt-memes-20261004-3",
+  "status": "ingested"
+}

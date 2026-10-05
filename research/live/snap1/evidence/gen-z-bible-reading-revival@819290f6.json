@@ -1,0 +1,19 @@
+{
+  "accessMethod": "web_search_result",
+  "candidateId": "gen-z-bible-reading-revival",
+  "claim": "Adds nuance: reading is up while belief in full accuracy is down, so the revival picture is mixed.",
+  "excerpt": "Title seen in results.",
+  "firstRetrievedAt": "2026-10-04T20:59:17Z",
+  "firstSeenRunId": "run-2026-10-04-movements",
+  "id": "gen-z-bible-reading-revival~819290f6",
+  "intent": "curiosity",
+  "kind": "observed",
+  "lastSeenRunId": "run-2026-10-04-movements",
+  "publishedAt": null,
+  "publisher": "Christian Post",
+  "retrievedAt": "2026-10-04T20:59:17Z",
+  "signalType": "press",
+  "syndicationOf": null,
+  "title": "More Americans are now reading the Bible but fewer believe it's 100% accurate: study",
+  "url": "https://christianpost.com/news/more-americans-are-now-reading-the-bible-study.html"
+}

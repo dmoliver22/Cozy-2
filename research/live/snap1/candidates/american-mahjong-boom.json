@@ -1,0 +1,275 @@
+{
+  "actionRationale": "Independent, multi-source evidence of a newcomer surge with visible purchase intent, plus a cheap digital test that can reach buyers before the holidays. Test the less crowded organizer/instructor angle, not another generic cheat sheet, and stop quickly if it gets no views.",
+  "adopters": {
+    "evidence": [
+      "american-mahjong-boom~4555b985",
+      "american-mahjong-boom~93eb4090",
+      "american-mahjong-boom~ddd80de3",
+      "american-mahjong-boom~73a1e9ce",
+      "american-mahjong-boom~1a4126ae"
+    ],
+    "text": "Young adults and Gen Z, many women hosting 'girls' night' games, plus Asian-American players reconnecting with family tradition; club founders, bars and new independent instructors teaching paid classes."
+  },
+  "aliases": [
+    "mahj",
+    "mah jongg",
+    "American mah jongg",
+    "mahjong night",
+    "mahjong club",
+    "American mahjong boom (clubs, classes, game nights)"
+  ],
+  "category": "hobby",
+  "channels": [
+    "Etsy",
+    "Gumroad",
+    "Instagram",
+    "Pinterest"
+  ],
+  "competition": {
+    "evidence": [
+      "american-mahjong-boom~06c1b329",
+      "american-mahjong-boom~392ca73c",
+      "american-mahjong-boom~33663273",
+      "american-mahjong-boom~58437d68",
+      "american-mahjong-boom~a68ff073",
+      "american-mahjong-boom~a3a8bf63"
+    ],
+    "level": "high",
+    "text": "High for generic products: many Etsy beginner cheat sheets ($1-$12), 2026 score cards and hand trackers, suit-pun totes, plus mass-market advent calendars and gift-guide merch. Not checked (search budget ran out): how many listings target instructors or club/league organizers specifically."
+  },
+  "editorialNotes": [
+    "Editorial review 2026-10-04: Relabeled \"Etsy listing\" from purchase intent to context only: existing listings are supply.",
+    "Editorial review 2026-10-04: Relabeled \"Etsy listing\" from purchase intent to context only: existing listings are supply.",
+    "Editorial review 2026-10-04: Relabeled \"Etsy listing\" from purchase intent to context only: existing listings are supply.",
+    "Editorial review 2026-10-04: Relabeled \"Etsy listing\" from purchase intent to curiosity: listing views are attention, not purchases.",
+    "Editorial review 2026-10-04: Relabeled \"Etsy listing\" from purchase intent to context only: existing merch is supply.",
+    "Editorial review 2026-10-04: Relabeled \"The Nod\" from purchase intent to context only: a shopping guide is editorial supply.",
+    "Editorial review 2026-10-04: Relabeled \"RankHero (third-party SEO keyword tool)\" from purchase intent to help-seeking: 'mahjong pdf' searches may be for free rules; this is help-seeking, not buying.",
+    "Editorial review 2026-10-04: Relabeled \"PaperCity\" from purchase intent to context only: a gift guide is editorial supply.",
+    "Editorial review 2026-10-04: Relabeled \"Hey Alma\" from purchase intent to context only: a gift guide is editorial supply.",
+    "Editorial review 2026-10-04: Relabeled \"Walmart marketplace listing\" from purchase intent to context only: retail novelty products are supply."
+  ],
+  "effortMin": "low",
+  "firstSeenAt": "2026-10-04T21:01:01.000Z",
+  "formats": [
+    "bundle",
+    "template",
+    "printable"
+  ],
+  "gap": {
+    "isInference": true,
+    "text": "Generic player cheat sheets are crowded, so the opening is likely the supply side of the boom: new instructors (searches rising fast) and club/league organizers need class handouts, sign-in and progress sheets, table-rotation charts, standings and kitty/payout ledgers, which player-focused printables do not cover. A beginner guide that credits the game's Chinese origins and covers several variants (Chinese/HK, American, Riichi) would also stand apart from card-centric sheets. Whether instructor kits are already crowded is unverified."
+  },
+  "id": "american-mahjong-boom",
+  "jobId": null,
+  "language": "en",
+  "lastRunId": "run-2026-10-04-hobbies",
+  "lens": "Discovery scan: hobbies & practical niches",
+  "name": "American mahjong boom",
+  "origin": {
+    "date": null,
+    "evidence": [
+      "american-mahjong-boom~ddd80de3",
+      "american-mahjong-boom~df9a4767"
+    ],
+    "text": "The game is centuries-old Chinese tradition; the current US wave shows up in Eventbrite data as a 179% rise in mahjong events from 2023 to 2024 and accelerated through 2025-2026."
+  },
+  "productDemand": {
+    "evidence": [
+      "american-mahjong-boom~db54c50e",
+      "american-mahjong-boom~4c771941",
+      "american-mahjong-boom~370e4560",
+      "american-mahjong-boom~616d9083",
+      "american-mahjong-boom~9fe9743a",
+      "american-mahjong-boom~b01e0d75",
+      "american-mahjong-boom~c66e9094",
+      "american-mahjong-boom~abfa2287",
+      "american-mahjong-boom~b9516c1c"
+    ],
+    "text": "Purchase intent is visible for physical goods (official card bundles estimated ~6,000/month on Amazon in July 2026; gift guides and trade press on mahjong gifts) and for learning/organizing aids: third-party keyword estimates show 'mahjong pdf' +89%, 'mahjong group' +83% and 'mahjong instructor' +556%, and classes are oversubscribed. Etsy printables show view activity but sales were not observed."
+  },
+  "products": [
+    {
+      "buyer": "New independent mahjong instructors and club hosts running beginner classes",
+      "channels": [
+        "Etsy",
+        "Gumroad",
+        "Instagram",
+        "Pinterest"
+      ],
+      "continueIf": "At least 3 sales or at least 2% conversion on at least 300 listing views within 21 days.",
+      "differentiation": "Built for teachers and hosts rather than players; Canva-editable for the host's own branding; respectful heritage framing.",
+      "effort": "medium",
+      "effortHours": 16,
+      "evidence": [
+        "american-mahjong-boom~370e4560",
+        "american-mahjong-boom~abfa2287",
+        "american-mahjong-boom~4555b985",
+        "american-mahjong-boom~57562c4c"
+      ],
+      "format": "bundle",
+      "fulfillment": "digital",
+      "leadTimeDays": 4,
+      "pivotIf": "Views and favorites but no sales: split into a $7 student handout pack and a $12 admin pack.",
+      "rightsNote": "No reproduction of NMJL card hands or logos; original tile drawings; describe compatibility in plain words only.",
+      "stopIf": "Under 100 views after 3 weeks with ads, or instructor kits turn out to be abundant at lower prices.",
+      "theme": "Beginner class kit: editable 3-session lesson handouts (tile ID, Charleston walk-through, joker basics in original wording with original practice hands), class sign-in and student progress checklist, 'first game' certificate, class flyer and social templates, and a heritage page crediting Chinese origins",
+      "validationTest": "List one $19 kit on Etsy and Gumroad with a free one-page sample; DM 20-30 instructors/club accounts on Instagram; $1-2/day Etsy ads for 14 days.",
+      "whyBuy": "Instructor searches are reported up sharply and classes are oversubscribed; a ready kit saves new teachers prep time and looks professional."
+    },
+    {
+      "buyer": "People starting or running mahjong clubs, leagues and weekly open play",
+      "channels": [
+        "Etsy",
+        "Gumroad",
+        "Pinterest"
+      ],
+      "continueIf": "At least 3 sales in 21 days or buyer messages asking for added formats.",
+      "differentiation": "Solves multi-table logistics, not single-game scoring like existing score cards.",
+      "effort": "medium",
+      "effortHours": 12,
+      "evidence": [
+        "american-mahjong-boom~4555b985",
+        "american-mahjong-boom~57562c4c",
+        "american-mahjong-boom~73a1e9ce",
+        "american-mahjong-boom~9fe9743a"
+      ],
+      "format": "template",
+      "fulfillment": "digital",
+      "leadTimeDays": 3,
+      "pivotIf": "Interest in only one piece (e.g., rotation charts): sell that piece alone at $5-7.",
+      "rightsNote": "Generic organizing tools; avoid NMJL marks in titles beyond plain description.",
+      "stopIf": "No sales after 30 days and under 150 views.",
+      "theme": "Club organizer kit: Google Sheets season standings and kitty/payout ledger, round-robin table-rotation charts for 8-32 players, sign-up and waitlist sheets, a club 'house rules' template, and printable table numbers",
+      "validationTest": "Publish at $12 with a short screen-recording demo; pin 5 Pinterest pins; track views, favorites and sales for 21 days alongside the instructor kit.",
+      "whyBuy": "Club searches and attendance are reported to be exploding; organizers juggling 30-55 weekly players need rotation and record-keeping tools."
+    },
+    {
+      "buyer": "Hosts of holiday mahjong nights (Hanukkah, Christmas, New Year's Eve) and gift-givers",
+      "channels": [
+        "Etsy",
+        "Pinterest",
+        "Instagram"
+      ],
+      "continueIf": "At least 5 sales by Dec 10.",
+      "differentiation": "Seasonal party styling plus first-timer table tents; score pads alone are already common.",
+      "effort": "low",
+      "effortHours": 8,
+      "evidence": [
+        "american-mahjong-boom~c66e9094",
+        "american-mahjong-boom~1b72d068",
+        "american-mahjong-boom~1a4126ae",
+        "american-mahjong-boom~392ca73c"
+      ],
+      "format": "printable",
+      "fulfillment": "digital",
+      "leadTimeDays": 2,
+      "pivotIf": "Favorites but few sales: bundle it into the club kit as a bonus.",
+      "rightsNote": "Original illustrations only; avoid branded tile designs and NMJL card content.",
+      "stopIf": "Under 50 views by Nov 25.",
+      "theme": "Holiday mahjong night kit: invitations, place cards, first-timer table tents ('how a turn works'), score pads and a cocoa or cocktail menu card in three original holiday designs",
+      "validationTest": "List by Nov 1 at $8; 10 Pinterest pins; watch favorites and sales through Dec 15.",
+      "whyBuy": "Mahjong now appears in holiday gift guides and girls'-night hosting; a themed kit makes a game night feel like an event."
+    }
+  ],
+  "qualityFlags": [],
+  "recommendedAction": "test_now",
+  "region": "US",
+  "researchedAt": "2026-10-04T21:01:01Z",
+  "rights": {
+    "note": "Do not reproduce the National Mah Jongg League card's hands or use NMJL names/logos beyond plain compatibility statements; write original example hands. Do not copy branded tile artwork (e.g., designer sets); draw original tiles. The Mahjong Line backlash shows the risk of 'refreshing' the game or stripping Chinese characters, so credit its Chinese origins and avoid exoticizing imagery.",
+    "risk": "medium"
+  },
+  "runIds": [
+    "run-2026-10-04-hobbies"
+  ],
+  "scores": {
+    "buyerIntent": {
+      "basis": "reported",
+      "rationale": "Three independent purchase signals: an estimated ~6,000 monthly Amazon sales of the official card pack (third-party estimate), trade press on manufacturers meeting rising gift demand, and oversubscribed paid beginner classes. Rising 'instructor' searches add help-seeking intent.",
+      "score": 4
+    },
+    "durability": {
+      "basis": "qualitative",
+      "rationale": "Multi-year growth across clubs, venues and instructors; the annual card refreshes demand for organizing aids each year.",
+      "score": 4
+    },
+    "economics": {
+      "basis": "qualitative",
+      "rationale": "Digital margins are high, but player printables sell at $1-$12; organizer/instructor kits can plausibly price higher ($12-$29). No revenue forecast implied.",
+      "score": 3
+    },
+    "productFit": {
+      "basis": "qualitative",
+      "rationale": "Printables and spreadsheets are easy with AI and design tools; needs careful rules accuracy and original example hands.",
+      "score": 4
+    },
+    "supplyGap": {
+      "basis": "qualitative",
+      "rationale": "Player cheat sheets, score cards and merch are crowded; an instructor/organizer gap is plausible but unverified.",
+      "score": 2
+    },
+    "timing": {
+      "basis": "qualitative",
+      "rationale": "Mainstream surge still accelerating, with the holiday hosting and gifting window open now and digital delivery instant; the generic printable niche already filled up in 2025-26.",
+      "score": 4
+    }
+  },
+  "source": "research",
+  "spread": {
+    "evidence": [
+      "american-mahjong-boom~4555b985",
+      "american-mahjong-boom~93eb4090",
+      "american-mahjong-boom~ddd80de3",
+      "american-mahjong-boom~57562c4c",
+      "american-mahjong-boom~73a1e9ce",
+      "american-mahjong-boom~0418a721",
+      "american-mahjong-boom~1a4126ae",
+      "american-mahjong-boom~06fa6e1a",
+      "american-mahjong-boom~01f09ae1"
+    ],
+    "text": "Independent coverage across national outlets (NPR via WBUR syndication, PBS NewsHour, NBC, Boston Globe), regional press in Utah, Colorado, Philadelphia, the tri-state area and the Southeast, plus wire coverage abroad. Event platforms (Eventbrite, Evite) and Yelp independently report growth."
+  },
+  "summary": "A surge of mostly young adult and women newcomers learning mahjong (especially the American/NMJL style) through clubs, paid classes and hosted game nights.",
+  "topicKeys": [
+    "phrase:american mahjong boom",
+    "phrase:mahj",
+    "phrase:mah jongg",
+    "phrase:american mah jongg",
+    "phrase:mahjong night",
+    "phrase:mahjong club",
+    "phrase:american mahjong boom clubs classes game nights"
+  ],
+  "trajectory": {
+    "evidence": [
+      "american-mahjong-boom~4555b985",
+      "american-mahjong-boom~57562c4c",
+      "american-mahjong-boom~0418a721",
+      "american-mahjong-boom~c566a4b8",
+      "american-mahjong-boom~69ca2b8f"
+    ],
+    "stage": "mainstream_surge",
+    "text": "Still accelerating into fall 2026: Yelp club searches up ~4,500% YoY (reported April 2026), Evite events reported up 94% YoY, and August 2026 coverage still describes rapid expansion. No source found describing a decline; appropriation criticism is recurring but has not slowed adoption in the evidence seen."
+  },
+  "unresolved": [
+    "How many Etsy/Gumroad listings already target mahjong instructors or club organizers (search budget exhausted before this check).",
+    "Actual sales of mahjong printables (only views and third-party estimates seen).",
+    "RankHero methodology (the page was blocked; volume source not stated).",
+    "Which outlet in the Boston Globe/6abc result set reported the Evite +94% figure.",
+    "Exact timing of the next annual card release and how much year-specific products depend on it."
+  ],
+  "what": "Mahjong is a tile game that originated in 19th-century China; the American variant uses an annual card of hands issued by the National Mah Jongg League. Since about 2023 it has become a social 'girls' night', bar-night and club activity across the US, with paid beginner classes, clubs and themed sets/merch. Newcomers need to learn tiles, the Charleston and scoring, and organizers need ways to run tables, leagues and classes.",
+  "window": {
+    "endEstimate": null,
+    "estimate": "Now through Dec 2026 for holiday hosting and gifting; organizer/instructor tools likely stay relevant through 2027.",
+    "invalidators": [
+      "Instructor/organizer kits turn out to be already saturated on Etsy",
+      "NMJL or tile-brand IP complaints against listings that reference the card",
+      "Appropriation backlash targeting non-Asian sellers of mahjong products",
+      "Etsy views fail to convert during a 3-week test"
+    ],
+    "reasoning": "Growth is multi-year and still accelerating; digital delivery is instant, so the November-December hosting/gift window is reachable even with slow listing discovery. Clubs and classes recruit again in January and around the new annual card.",
+    "seasonality": "Holiday hosting and Hanukkah/Christmas gifting Nov-Dec; New-Year club formation in January; a new card each year (spring release timing not verified in this session).",
+    "sellBy": null
+  }
+}

@@ -1,0 +1,174 @@
+{
+  "actionRationale": "A cheap digital test with a timing edge while people update. The format is crowded and the angle may be thin, so build one fall pack now and spend nothing on ads.",
+  "adopters": {
+    "evidence": [
+      "wallpapers-made-for-the-new-movable-lock-screen-clock-ios-27~e680c5a2",
+      "wallpapers-made-for-the-new-movable-lock-screen-clock-ios-27~bf3280a9",
+      "wallpapers-made-for-the-new-movable-lock-screen-clock-ios-27~32f64635"
+    ],
+    "text": "iPhone users who customize their home and lock screens, a group that is heavily Gen Z and young millennial (inference). Apple-focused outlets are writing how-tos."
+  },
+  "aliases": [
+    "iOS 27 wallpapers",
+    "small clock lock screen",
+    "lock screen redesign wallpapers"
+  ],
+  "category": "aesthetic",
+  "channels": [
+    "Etsy",
+    "TikTok",
+    "Pinterest",
+    "Payhip"
+  ],
+  "competition": {
+    "evidence": [
+      "wallpapers-made-for-the-new-movable-lock-screen-clock-ios-27~607ca94a"
+    ],
+    "level": "moderate",
+    "text": "Phone wallpaper packs are heavily supplied on Etsy. Packs made specifically for the small or moved clock were not seen, but Etsy was not fetched."
+  },
+  "editorialNotes": [],
+  "effortMin": "low",
+  "firstSeenAt": "2026-10-05T00:00:22.104Z",
+  "formats": [
+    "other"
+  ],
+  "gap": {
+    "isInference": true,
+    "text": "Wallpaper sets composed for the new layout: subject in the upper or central field, no art hidden behind a big clock, matched lock and home pairs, and dark-mode variants. Most existing packs were composed for the old big-clock layout."
+  },
+  "id": "wallpapers-made-for-the-new-movable-lock-screen-clock-ios-27",
+  "jobId": "hunt-aesthetics-20261004",
+  "language": "en",
+  "lastRunId": "run-hunt-aesthetics-20261004-2",
+  "lens": "First-spark hunt: new aesthetics and visual micro-trends",
+  "name": "Wallpapers made for the new movable lock-screen clock (iOS 27)",
+  "origin": {
+    "date": "2026-09-15",
+    "evidence": [
+      "wallpapers-made-for-the-new-movable-lock-screen-clock-ios-27~e680c5a2",
+      "wallpapers-made-for-the-new-movable-lock-screen-clock-ios-27~260d5450"
+    ],
+    "text": "The features were previewed in summer betas and shipped with iOS 27 around mid-September 2026. MacRumors covered the Lock Screen features on 2026-09-15."
+  },
+  "productDemand": {
+    "evidence": [
+      "wallpapers-made-for-the-new-movable-lock-screen-clock-ios-27~acf78e8a",
+      "wallpapers-made-for-the-new-movable-lock-screen-clock-ios-27~607ca94a"
+    ],
+    "text": "Interest is how-to and ideas (utility). There is no purchase evidence for wallpapers made for the new layout. Paid lock-screen wallpaper packs already exist on Etsy, which shows the format sells in general, not that this angle does."
+  },
+  "products": [
+    {
+      "buyer": "Gen Z and millennial iPhone users who restyle their lock and home screens each season",
+      "channels": [
+        "Etsy",
+        "TikTok",
+        "Pinterest",
+        "Payhip"
+      ],
+      "continueIf": "At least 5 sales in 21 days or one video over 10k views",
+      "differentiation": "Each design leaves a clean top band for the compact clock and widgets, puts the focal subject in the newly visible middle, and comes as a lock/home pair with light and dark versions.",
+      "effort": "low",
+      "effortHours": 6,
+      "evidence": [
+        "wallpapers-made-for-the-new-movable-lock-screen-clock-ios-27~e680c5a2",
+        "wallpapers-made-for-the-new-movable-lock-screen-clock-ios-27~bf3280a9",
+        "wallpapers-made-for-the-new-movable-lock-screen-clock-ios-27~acf78e8a"
+      ],
+      "format": "other",
+      "fulfillment": "digital",
+      "leadTimeDays": 2,
+      "pivotIf": "Videos get views but no sales: offer a free 1-wallpaper lead magnet and a holiday pack",
+      "rightsNote": "Say 'for iPhone' only as compatibility; no Apple logos, UI screenshots of Apple wallpapers, or 'iOS' in the art",
+      "stopIf": "Fewer than 2 sales and no video over 2k views by Day 21",
+      "theme": "Fall 'open sky' phone wallpaper pack composed for the small or moved lock-screen clock, with matched lock and home pairs",
+      "validationTest": "Post 3 TikToks showing the before/after layout swap with a link to a 12-wallpaper pack. List on Etsy.",
+      "whyBuy": "Their old wallpapers look off with the new layout, and they want a cohesive seasonal set that shows off the extra space"
+    }
+  ],
+  "qualityFlags": [],
+  "recommendedAction": "prepare",
+  "region": "US",
+  "researchedAt": "2026-10-04T23:58:00Z",
+  "rights": {
+    "note": "'iPhone' and 'iOS' are Apple trademarks. Use them only to describe compatibility ('for iPhone lock screens'), never as a brand or in art, and never copy Apple's official wallpapers (such as 'Celosia'). Art must be original.",
+    "risk": "medium"
+  },
+  "runIds": [
+    "run-hunt-aesthetics-20261004-2"
+  ],
+  "scores": {
+    "buyerIntent": {
+      "basis": "qualitative",
+      "rationale": "A proven paid format, but no evidence of buying for this angle",
+      "score": 2
+    },
+    "durability": {
+      "basis": "qualitative",
+      "rationale": "Novelty fades within months; evergreen afterwards",
+      "score": 2
+    },
+    "economics": {
+      "basis": "qualitative",
+      "rationale": "Zero marginal cost, low price point",
+      "score": 4
+    },
+    "productFit": {
+      "basis": "qualitative",
+      "rationale": "Digital wallpapers are the native product",
+      "score": 5
+    },
+    "supplyGap": {
+      "basis": "qualitative",
+      "rationale": "Crowded format; only the layout angle is open",
+      "score": 2
+    },
+    "timing": {
+      "basis": "reported",
+      "rationale": "Shipped mid-Sept; coverage ongoing into October",
+      "score": 4
+    }
+  },
+  "source": "research",
+  "spread": {
+    "evidence": [
+      "wallpapers-made-for-the-new-movable-lock-screen-clock-ios-27~bf3280a9",
+      "wallpapers-made-for-the-new-movable-lock-screen-clock-ios-27~c338b99b",
+      "wallpapers-made-for-the-new-movable-lock-screen-clock-ios-27~acf78e8a"
+    ],
+    "text": "Covered by MacRumors, 9to5Mac (Oct 2), Cult of Mac, Trend Hunter and a TikTok discover page. The coverage is still mostly tech how-tos, with only early signs of a creator aesthetic forming around it."
+  },
+  "summary": "iOS 27 (mid-September 2026) lets iPhone users shrink and move the lock-screen clock, opening demand for wallpapers composed for the new layout.",
+  "topicKeys": [
+    "phrase:wallpapers made for the new movable lock screen clock ios 27",
+    "phrase:ios 27 wallpapers",
+    "phrase:small clock lock screen",
+    "phrase:lock screen redesign wallpapers"
+  ],
+  "trajectory": {
+    "evidence": [
+      "wallpapers-made-for-the-new-movable-lock-screen-clock-ios-27~e680c5a2",
+      "wallpapers-made-for-the-new-movable-lock-screen-clock-ios-27~bf3280a9"
+    ],
+    "stage": "first_spark",
+    "text": "The feature has shipped and coverage is still arriving (Oct 2). Adoption of OS updates grows over weeks, so the number of potential buyers should keep rising through the fall."
+  },
+  "unresolved": [
+    "Do 'iOS 27 wallpaper' TikTok videos get high views and show creators selling packs?",
+    "Do Etsy listings start using 'small clock' or 'new lock screen' phrasing (a sign of demand)?",
+    "What share of users actually move or shrink the clock?"
+  ],
+  "what": "iOS 27 lets users shrink the Lock Screen clock or move it into the widget row, hide Now Playing, and fill photo edges with AI. Much more of the wallpaper is now visible, so art composed around the old large central clock looks wrong. TikTok has started collecting 'iOS 27 wallpaper ideas' videos.",
+  "window": {
+    "endEstimate": null,
+    "estimate": "2-4 months for the 'new layout' hook; wallpapers in general are evergreen",
+    "invalidators": [
+      "Apple's own AI wallpaper tools (Image Playground, Extend) satisfy most users for free",
+      "Few users actually move the clock"
+    ],
+    "reasoning": "The novelty peaks as people update over Oct-Dec 2026. After that the layout is just the default and the angle becomes ordinary SEO.",
+    "seasonality": "Fall/Halloween and holiday wallpaper demand in Oct-Dec overlaps with the update",
+    "sellBy": null
+  }
+}

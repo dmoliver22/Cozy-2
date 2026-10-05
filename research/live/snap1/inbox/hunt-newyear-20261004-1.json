@@ -1,0 +1,719 @@
+{
+  "createdAt": "2026-10-05T00:00:00Z",
+  "jobId": "hunt-newyear-20261004",
+  "raw": {
+    "candidates": [
+      {
+        "actionRationale": "It is a first spark with real multi-country press but no demand evidence. Build the low-cost digital planner now so it can be indexed before the late-November planner rush, and spend on ads only if organic favorites appear.",
+        "adopters": {
+          "evidence": [
+            "e3",
+            "e8",
+            "e9"
+          ],
+          "text": "Gen Z and young millennials who already follow the granny-hobby and analog revival (crochet, puzzles, running, instruments), and who log activity in tracking apps. One widely cited example is an 18-year-old who rotates through more than a dozen hobbies."
+        },
+        "aliases": [
+          "hobby-maxxing",
+          "hobby maxxing",
+          "three-hobby rotation",
+          "#hobbymaxxing"
+        ],
+        "category": "hobby",
+        "competition": {
+          "evidence": [
+            "e11",
+            "e12"
+          ],
+          "level": "low",
+          "text": "Generic hobby and craft project planners exist (e.g. an ADHD new-hobby planner on Etsy, craft project planners). No rotation-based or trend-named hobby planner surfaced in search, but Etsy could not be searched directly."
+        },
+        "evidence": [
+          {
+            "accessMethod": "web_search_result",
+            "claim": "Major US outlet covered Gen Z's hobby obsession, framed as turning leisure into work, in mid-September 2026.",
+            "excerpt": "Gen Z is turning hobbies into work — and missing the point",
+            "id": "e1",
+            "intent": "criticism",
+            "kind": "observed",
+            "publishedAt": "2026-09-13",
+            "publisher": "The Washington Post",
+            "retrievedAt": "2026-10-05T00:00:00Z",
+            "signalType": "press",
+            "syndicationOf": null,
+            "title": "Gen Z is turning hobbies into work — and missing the point",
+            "url": "https://www.washingtonpost.com/style/2026/09/13/gen-z-hobby-obsession-ruins-point-leisure/"
+          },
+          {
+            "accessMethod": "web_search_result",
+            "claim": "Korean business press named the 'hobbymaxxing' trend on 2026-09-27, showing international pickup.",
+            "excerpt": "Young People Turn Hobbies Into Work in 'Hobbymaxxing' Trend",
+            "id": "e2",
+            "intent": "curiosity",
+            "kind": "observed",
+            "publishedAt": "2026-09-27",
+            "publisher": "Seoul Economic Daily",
+            "retrievedAt": "2026-10-05T00:00:00Z",
+            "signalType": "press",
+            "syndicationOf": null,
+            "title": "Young People Turn Hobbies Into Work in 'Hobbymaxxing' Trend",
+            "url": "https://en.sedaily.com/international/2026/09/27/young-people-turn-hobbies-into-work-in-hobbymaxxing-trend"
+          },
+          {
+            "accessMethod": "web_search_result",
+            "claim": "Describes the method: track hobbies with numbers, prioritize three at a time daily, then rotate to the next three; example of an 18-year-old with many hobbies.",
+            "excerpt": "She picks three hobbies at a time to prioritize and practices them daily, then rotates to the next three after a set period.",
+            "id": "e3",
+            "intent": "curiosity",
+            "kind": "observed",
+            "publishedAt": null,
+            "publisher": "The Herald Business (Korea)",
+            "retrievedAt": "2026-10-05T00:00:00Z",
+            "signalType": "press",
+            "syndicationOf": null,
+            "title": "'Hobbymaxxing' reveals the anxiety behind treating leisure as a performance metric",
+            "url": "https://biz.heraldcorp.com/article/10873561"
+          },
+          {
+            "accessMethod": "web_search_result",
+            "claim": "German network coverage of hobbymaxxing as leisure turned into performance pressure; uses the same example as e3, so likely restates the same original reporting.",
+            "excerpt": "Dauerstress durch Hobbys: Warum junge Menschen sogar ihre Freizeit optimieren",
+            "id": "e4",
+            "intent": "criticism",
+            "kind": "observed",
+            "publishedAt": null,
+            "publisher": "echo24 (Ippen Media, Germany)",
+            "retrievedAt": "2026-10-05T00:00:00Z",
+            "signalType": "press",
+            "syndicationOf": "e3",
+            "title": "Dauerstress durch Hobbys: Warum junge Menschen sogar ihre Freizeit optimieren",
+            "url": "https://www.echo24.de/welt/gen-und-hobbymaxxing-wenn-freizeit-zum-leistungsdruck-wird-zr-94491316.html"
+          },
+          {
+            "accessMethod": "web_search_result",
+            "claim": "US explainer frames hobby-maxxing positively, as replacing doomscrolling.",
+            "excerpt": "Hobby-Maxxing Explained: The 2026 Trend Replacing Doomscrolling With Real Life",
+            "id": "e5",
+            "intent": "curiosity",
+            "kind": "observed",
+            "publishedAt": null,
+            "publisher": "Yahoo Lifestyle",
+            "retrievedAt": "2026-10-05T00:00:00Z",
+            "signalType": "press",
+            "syndicationOf": null,
+            "title": "Hobby-Maxxing Explained: The 2026 Trend Replacing Doomscrolling With Real Life",
+            "url": "https://www.yahoo.com/lifestyle/articles/hobby-maxxing-explained-2026-trend-143834038.html"
+          },
+          {
+            "accessMethod": "web_search_result",
+            "claim": "Independent newsletter writer argues in favor of hobbymaxxing, showing creator adoption beyond news outlets.",
+            "excerpt": "You're Not Taking Your Hobbies Seriously Enough",
+            "id": "e6",
+            "intent": "utility",
+            "kind": "observed",
+            "publishedAt": null,
+            "publisher": "On Fire (Substack)",
+            "retrievedAt": "2026-10-05T00:00:00Z",
+            "signalType": "creator",
+            "syndicationOf": null,
+            "title": "You're Not Taking Your Hobbies Seriously Enough",
+            "url": "https://onfire.substack.com/p/hobbymaxxing-take-hobbies-seriously"
+          },
+          {
+            "accessMethod": "web_search_result",
+            "claim": "TikTok has a discover page for the term, so creators are posting under it; volume not verifiable.",
+            "excerpt": "Hobbymaxxing (TikTok discover page)",
+            "id": "e7",
+            "intent": "curiosity",
+            "kind": "observed",
+            "publishedAt": null,
+            "publisher": "TikTok",
+            "retrievedAt": "2026-10-05T00:00:00Z",
+            "signalType": "social",
+            "syndicationOf": null,
+            "title": "Hobbymaxxing",
+            "url": "https://www.tiktok.com/discover/hobbymaxxing"
+          },
+          {
+            "accessMethod": "web_search_result",
+            "claim": "Youth-research firm reports Gen Z hobbies are tied to productivity and goal tracking (Goodreads counts, Strava miles).",
+            "excerpt": "Gen Z's hobbies are increasingly being linked to productivity and goal setting—like how many books they've read on Goodreads or how many miles they've run on Strava.",
+            "id": "e8",
+            "intent": "none",
+            "kind": "observed",
+            "publishedAt": null,
+            "publisher": "YPulse",
+            "retrievedAt": "2026-10-05T00:00:00Z",
+            "signalType": "press",
+            "syndicationOf": null,
+            "title": "YPulse newsfeed item on Gen Z hobbymaxxing",
+            "url": "https://www.ypulse.com/?p=188173"
+          },
+          {
+            "accessMethod": "web_search_result",
+            "claim": "Context: young adults are adopting 'granny hobbies' (puzzles, crochet, mahjong), the base the hobbymaxxing trend builds on.",
+            "excerpt": "18-34-year-olds are now the most likely group to do a jigsaw puzzle on a monthly basis, and 73% of crocheters are 18-34-year-olds.",
+            "id": "e9",
+            "intent": "none",
+            "kind": "observed",
+            "publishedAt": "2026-07-30",
+            "publisher": "YPulse",
+            "retrievedAt": "2026-10-05T00:00:00Z",
+            "signalType": "press",
+            "syndicationOf": null,
+            "title": "Gen Z is leading old-school hobbies",
+            "url": "https://www.ypulse.com/newsfeed/2026/07/30/gen-z-is-leading-old-school-hobbies/"
+          },
+          {
+            "accessMethod": "web_search_result",
+            "claim": "Social listening firm reports the '-maxxing' suffix nearly doubled across platforms from January to May 2026, the language wave hobbymaxxing rides.",
+            "excerpt": "Usage of 'maxxing' words increased by 96% between January and May 2026.",
+            "id": "e10",
+            "intent": "none",
+            "kind": "observed",
+            "publishedAt": null,
+            "publisher": "Meltwater",
+            "retrievedAt": "2026-10-05T00:00:00Z",
+            "signalType": "search",
+            "syndicationOf": null,
+            "title": "What 'Maxxing' Trends Reveal About Social Media Culture in 2026",
+            "url": "https://www.meltwater.com/en/blog/maxxing-trend-analysis"
+          },
+          {
+            "accessMethod": "web_search_result",
+            "claim": "Supply: a printable hobby planner exists (supply tracker, budget, pause/finish/release page), but it is not framed around rotation or the trend name.",
+            "excerpt": "8-page printable PDF ... supply tracker, hobby budget page, project status tracker, storage map, and pause/finish/release page.",
+            "id": "e11",
+            "intent": "none",
+            "kind": "observed",
+            "publishedAt": null,
+            "publisher": "Etsy",
+            "retrievedAt": "2026-10-05T00:00:00Z",
+            "signalType": "marketplace",
+            "syndicationOf": null,
+            "title": "ADHD New Hobby Planner (printable)",
+            "url": "https://www.etsy.com/listing/4533103757"
+          },
+          {
+            "accessMethod": "web_search_result",
+            "claim": "Supply: generic craft/hobby project planners exist.",
+            "excerpt": "craft hobbies printable project planner",
+            "id": "e12",
+            "intent": "none",
+            "kind": "observed",
+            "publishedAt": null,
+            "publisher": "All About Planners",
+            "retrievedAt": "2026-10-05T00:00:00Z",
+            "signalType": "marketplace",
+            "syndicationOf": null,
+            "title": "Craft Hobbies Printable Project Planner",
+            "url": "https://allaboutplanners.com.au/craft-hobbies-printable-project-planner"
+          },
+          {
+            "accessMethod": "web_search_result",
+            "claim": "Category demand: stationery brand Papier reported sales rising to about $50M on analog demand, with Gen Z a large share of customers. This is evidence for paper planners in general, not for hobbymaxxing products.",
+            "excerpt": "Papier's sales swell to $50M this year fueled by a desire for analog products",
+            "id": "e13",
+            "intent": "purchase",
+            "kind": "observed",
+            "publishedAt": "2025-12-09",
+            "publisher": "Modern Retail",
+            "retrievedAt": "2026-10-05T00:00:00Z",
+            "signalType": "press",
+            "syndicationOf": null,
+            "title": "Papier's sales swell to $50M this year, fueled by a desire for analog products",
+            "url": "https://www.modernretail.co/marketing/brands-briefing-papiers-sales-swell-to-50m-this-year-fueled-by-a-desire-for-analog-products/"
+          },
+          {
+            "accessMethod": "web_search_result",
+            "claim": "Adjacent: NYT-coined 'hobbyamory' (hobbies instead of dating) shows the same calendar-packing hobby behavior spreading in August 2026.",
+            "excerpt": "picking up a range of calendar-packing activities and interests to fill their cup instead of spending time on dates or hookups",
+            "id": "e14",
+            "intent": "none",
+            "kind": "observed",
+            "publishedAt": "2026-08-12",
+            "publisher": "YPulse",
+            "retrievedAt": "2026-10-05T00:00:00Z",
+            "signalType": "press",
+            "syndicationOf": null,
+            "title": "For some young singles, hobbies replace dating",
+            "url": "https://www.ypulse.com/newsfeed/2026/08/12/for-some-young-singles-hobbies-replace-dating/"
+          }
+        ],
+        "gap": {
+          "isInference": true,
+          "text": "A 2027 planner that applies the three-at-a-time rotation with 6-week seasons, logs joy instead of minutes, and lets people park or quit hobbies without guilt. It answers both the method and the 'hobbies became work' backlash."
+        },
+        "name": "Hobbymaxxing",
+        "observations": [
+          {
+            "asOf": "2026-05-31",
+            "evidence": "e10",
+            "isAbsolute": false,
+            "metric": "Growth in '-maxxing' word usage, Jan–May 2026",
+            "note": "reported by Meltwater; not independently verified; covers the whole suffix, not hobbymaxxing specifically",
+            "unit": "percent",
+            "value": 96
+          }
+        ],
+        "origin": {
+          "date": null,
+          "evidence": [
+            "e7",
+            "e1",
+            "e2",
+            "e10"
+          ],
+          "text": "Grew out of the 2026 '-maxxing' slang wave and the Gen Z 'granny hobbies' revival. TikTok has a #hobbymaxxing discover page. Press naming the trend appears from mid-September 2026 (Washington Post 2026-09-13, Seoul Economic Daily 2026-09-27). The exact first post was not found."
+        },
+        "productDemand": {
+          "evidence": [
+            "e13",
+            "e8"
+          ],
+          "text": "No purchase evidence for hobbymaxxing products. Adjacent category evidence: analog stationery demand from Gen Z (Papier's sales growth). Hobby tracking is already a behavior (Goodreads, Strava), which means people want structure. The criticism suggests buyers want a calmer version."
+        },
+        "products": [
+          {
+            "buyer": "US 18–34-year-olds with many hobbies (crafts, fitness, music) who feel scattered and want structure without turning leisure into work",
+            "channels": [
+              "Etsy",
+              "Gumroad",
+              "Pinterest",
+              "TikTok"
+            ],
+            "continueIf": "At least 1 sale or 25+ favorites within 21 days, or saves on pins rising week over week.",
+            "differentiation": "Built around three-at-a-time seasonal rotation with joy logging and permission to park or quit; existing hobby planners track supplies, budgets and projects.",
+            "effort": "low",
+            "effortHours": 12,
+            "evidence": [
+              "e3",
+              "e1",
+              "e8",
+              "e11",
+              "e13"
+            ],
+            "format": "planner",
+            "fulfillment": "digital",
+            "leadTimeDays": 3,
+            "pivotIf": "Visits but no sales: retitle as a 'hobby journal 2027' and drop to $6, or add a free one-page sampler.",
+            "playbook": {
+              "assembly": [
+                "Run the super prompt; save the output as a doc and fix any date errors in the rotation map.",
+                "In Canva create a US Letter design (8.5x11 in); build one master for each page type: cover, inventory, season opener, weekly log, season closer.",
+                "Duplicate the masters to reach the full page count (about 70 pages) and paste in the content and prompts.",
+                "Resize a copy to A4 with Canva's Resize tool and fix any overflow.",
+                "Export both as PDF Print with crop marks off; also export a hyperlinked PDF version (tabs for the 8 seasons) for GoodNotes users.",
+                "Make 5 listing images: cover, how it works, rotation map, weekly joy log, and a 'what's inside' grid.",
+                "Zip the files as Letter, A4 and Digital, and upload to Etsy as an instant download."
+              ],
+              "asymmetry": {
+                "badBetIf": "The term fades and buyers only search generic 'habit tracker', where it competes with thousands of cheap listings.",
+                "downside": "About 12 hours of build time and up to $20 in ads; nothing to ship.",
+                "upside": "Zero marginal cost, sellable from October through January and then as an undated evergreen version; works across Etsy, Gumroad and GoodNotes marketplaces."
+              },
+              "costs": {
+                "baseCost": null,
+                "basis": "estimate: verify in the provider catalog",
+                "item": null,
+                "provider": null,
+                "shipping": null,
+                "testBudget": 20,
+                "testBudgetNote": "Optional: Etsy Ads at $1/day for about 14 days after organic favorites appear; otherwise $0."
+              },
+              "extensions": [
+                "Hobby rotation sticker sheet (POD via Printify)",
+                "Single-hobby add-on inserts (crochet, running, reading logs)",
+                "Notion or Google Sheets version",
+                "Undated version to sell after January"
+              ],
+              "imagePrompts": [
+                {
+                  "prompt": "Flat hand-drawn illustration of three hobby objects in a gentle circle with curved arrows: a ball of yarn, a paintbrush and a running shoe, warm clay #C8643B, sage #8FA382 and butter #F3D98B on paper background #FBF6EE, ink lines #2E2A26, generous white space at top for title text 'The Hobby Rotation Planner 2027' in a soft serif, portrait 8.5x11 ratio, solid background, no logos, no real people, no trademarked characters, no watermarks",
+                  "purpose": "Cover art",
+                  "tool": "Ideogram or ChatGPT images"
+                },
+                {
+                  "prompt": "Top-down photo-style scene of a printed planner page on a wooden desk with crochet hook, watercolor set and a small potted plant, soft morning light, muted clay #C8643B and sage #8FA382 accents, empty page area for overlaying a real page screenshot, 4:3 landscape, no text, no logos, no real people, no trademarked characters, no watermarks",
+                  "purpose": "Etsy mockup background",
+                  "tool": "Midjourney or Ideogram"
+                }
+              ],
+              "listingPrompt": "Write an Etsy listing for a printable and digital 'Hobby Rotation Planner 2027' (undated weekly joy logs, three hobbies per 6-week season, US Letter, A4 and hyperlinked PDF). Title under 140 characters front-loading 'hobby planner 2027' and 'hobby tracker printable'. 13 tags of 20 characters or fewer (e.g. hobby planner, hobby tracker, 2027 planner, crochet planner, new hobby journal). Description: who it is for (people with too many hobbies who want fun, not pressure), what is included with page counts, file formats and sizes, how instant download works, printing tips. Add a 5-question FAQ (digital only, which apps work, can I print at home, is it dated, refunds on digital items). Do not use trademarked terms, app names, brand names or the word 'maxxing'; make no health or productivity promises.",
+              "marketing": {
+                "channels": [
+                  {
+                    "cadence": "1–2 pins daily",
+                    "channel": "Pinterest",
+                    "tactic": "Fresh pins of single pages plus the 'too many hobbies' hook"
+                  },
+                  {
+                    "cadence": "3 per week",
+                    "channel": "TikTok/Instagram Reels",
+                    "tactic": "Flip-throughs and 'season opener' setups; reply to hobbymaxxing videos with the calm-rotation angle"
+                  },
+                  {
+                    "cadence": "weekly",
+                    "channel": "Etsy",
+                    "tactic": "Renew and adjust tags weekly in November and December"
+                  }
+                ],
+                "hooks": [
+                  "I have 14 hobbies so I made a rotation system",
+                  "Three hobbies at a time. Rotate every 6 weeks.",
+                  "Hobbies are for fun, not points",
+                  "Guilt-free parking lot for the hobbies you abandoned"
+                ],
+                "keywords": [
+                  "hobby planner 2027",
+                  "hobby tracker printable",
+                  "new hobby journal",
+                  "crochet project planner",
+                  "2027 goal planner",
+                  "hobby rotation"
+                ],
+                "launchPlan": [
+                  {
+                    "action": "Publish the Etsy listing with 5 images and the Gumroad mirror.",
+                    "day": "Day 0"
+                  },
+                  {
+                    "action": "Post 5 Pinterest pins (rotation map, joy log, 'too many hobbies?') linking to the listing.",
+                    "day": "Day 1"
+                  },
+                  {
+                    "action": "TikTok or Reel: 'I have 14 hobbies so I made a rotation system' flip-through, 20 s.",
+                    "day": "Day 2"
+                  },
+                  {
+                    "action": "Post a free one-page 'hobby inventory' printable on Pinterest as a lead magnet linking to the full planner.",
+                    "day": "Day 4"
+                  },
+                  {
+                    "action": "Second short video: 'Season 1 of 2027: my three hobbies' with stickers and supplies.",
+                    "day": "Day 7"
+                  },
+                  {
+                    "action": "Share in hobby communities that allow self-promo threads (check the community rules).",
+                    "day": "Day 10"
+                  },
+                  {
+                    "action": "Review favorites, visits and sales; refresh the title and first image if visits are under 100.",
+                    "day": "Day 14"
+                  },
+                  {
+                    "action": "Go/pivot/stop check against continueIf/pivotIf/stopIf.",
+                    "day": "Day 21"
+                  }
+                ],
+                "positioning": "The calm way to have lots of hobbies: three at a time, rotating, for fun, not points."
+              },
+              "platforms": [
+                {
+                  "name": "Etsy",
+                  "role": "primary",
+                  "why": "Buyers already search for printable planners there in Q4."
+                },
+                {
+                  "name": "Gumroad or Payhip",
+                  "role": "secondary",
+                  "why": "Direct link for TikTok and Pinterest traffic, with no marketplace fees on direct sales."
+                },
+                {
+                  "name": "Pinterest",
+                  "role": "traffic",
+                  "why": "Planner and hobby pins send traffic for months with no audience needed."
+                }
+              ],
+              "pricing": {
+                "basis": "estimate",
+                "currency": "USD",
+                "high": 14,
+                "low": 6,
+                "rationale": "Priced above $3–6 generic trackers because it is a full 70-page system with a digital version, and below premium dated planners.",
+                "recommended": 9
+              },
+              "productName": "The Hobby Rotation Planner 2027",
+              "risks": [
+                "Trend term may not reach US search volume; rely on the generic 'hobby planner' search.",
+                "Criticism framing (hobbies as work) could make 'tracking' feel uncool, so keep the joy/no-scoreboard angle.",
+                "Generic hobby planners already exist on Etsy."
+              ],
+              "superPrompt": "You are a planner designer and gentle habit coach. Produce the complete content for a printable product called \"The Hobby Rotation Planner 2027\" for [YOUR SHOP NAME].\n\nBUYER AND JOB: 18–34-year-olds who have too many hobbies (crochet, running, piano, painting, climbing, reading, puzzles) and feel scattered or guilty about the ones they neglect. They have seen the \"hobbymaxxing\" idea of focusing on three hobbies at a time and rotating, but they do not want leisure to turn into a second job. The planner gives them a rotation system that keeps hobbies fun: three hobbies per season, a joy log instead of a scoreboard, and a guilt-free \"parked\" list.\n\nDELIVERABLE SPEC (US Letter 8.5x11 in and A4 versions, portrait, 0.5 in margins, undated weeks plus a 2027 overview):\n1. Cover: \"The Hobby Rotation Planner 2027\", subtitle \"Three at a time. For fun, not for points.\"\n2. How it works (1 page): the rule of three, rotation seasons of about six weeks (8 seasons across 2027), and the three rules: no streak shaming, quitting is allowed, and a rotation ends when the season ends, not when you \"master\" something.\n3. Hobby inventory (2 pages): 30 rows with hobby, why I love it, supplies I already own, cost to restart, and a \"spark\" rating out of 3 hearts.\n4. Parked hobbies (1 page): a guilt-free waiting list with \"will revisit in season ___\".\n5. 2027 rotation map (1 page): 8 seasons of six or seven weeks that together cover January 1 to December 31, 2027 (Season 1 starts Friday, January 1). Calculate the dates correctly.\n6. Season opener (repeat 8 times, 1 page each): my three hobbies, one tiny goal each (phrased as an experience, not a number), supplies to gather, and the time each one fits into.\n7. Weekly joy log (one per week, 52 in total, 1 page each): a 7-day grid with three rows, where each cell takes a mood doodle, not minutes. Add one prompt per week (\"What surprised me?\") and write 52 original prompts in total, none repeated.\n8. Season closer (8): keep, rotate out, or retire for each hobby; favorite moment; what I made.\n9. Year-end page: a \"hobby museum\" collage frame and a gratitude list.\n10. Sticker-style icons: list 20 simple line icons to draw (yarn, paintbrush, sneaker, book, puzzle piece).\n\nDESIGN: Canva font pairings (1) \"Fraunces\" headings + \"DM Sans\" body; (2) \"Recoleta\" headings + \"Nunito\" body. Palette: Clay #C8643B, Sage #8FA382, Butter #F3D98B, Ink #2E2A26, Paper #FBF6EE. Lots of white space and rounded boxes.\n\nCONTENT RULES: All wording must be original. Use a warm, non-judgmental tone at a 7th-grade reading level. Never promise health, mental-health or productivity outcomes. Do not use the words \"maxxing\", \"grind\" or \"optimize\" in the product pages; the product positions itself as the calm answer to them. Make no reference to any app, brand, influencer, celebrity, film or trademarked character.\n\nDIFFERENTIATION: Existing hobby planners track projects, supplies and budgets. This one is the only one built around three-at-a-time seasonal rotation with joy tracking and permission to park or quit.\n\nOUTPUT FORMAT: Return the content page by page in order (\"PAGE 1 — Cover\", ...), with exact headings, field labels, row counts and all 52 prompts written out, ready to paste into Canva. Then give a short Canva layout note for each page type.\n\nSELF-CHECK before answering: (a) the rotation dates cover all of 2027 with no gaps or overlaps; (b) there are 52 unique prompts; (c) there are no outcome claims, brands or banned words; (d) both page sizes are noted; (e) the tone is playful, not productive."
+            },
+            "rightsNote": "The term 'hobbymaxxing' is generic slang; avoid app names (Strava, Goodreads) and any creator names in the listing.",
+            "stopIf": "Under 50 listing visits after 21 days with active promotion.",
+            "theme": "Hobby rotation planner for 2027: three hobbies at a time, 6-week seasons, joy log instead of metrics",
+            "validationTest": "List by Oct 20 and post 10 pins and 3 short videos in 14 days.",
+            "whyBuy": "The hobbymaxxing method (three at a time, then rotate) is being discussed, along with the backlash that hobbies are becoming work. A planner that applies the method but removes the pressure fits New Year planning season."
+          }
+        ],
+        "recommendedAction": "prepare",
+        "rights": {
+          "note": "Generic slang. Avoid naming apps, creators or the cited teenager. Keep all art original.",
+          "risk": "low"
+        },
+        "scores": {
+          "buyerIntent": {
+            "basis": "qualitative",
+            "rationale": "No purchase signals for the trend; only adjacent analog-stationery demand.",
+            "score": 1
+          },
+          "durability": {
+            "basis": "qualitative",
+            "rationale": "The term may fade, but the hobby revival and New Year planning are durable.",
+            "score": 3
+          },
+          "economics": {
+            "basis": "qualitative",
+            "rationale": "A digital download with zero marginal cost and a low build effort.",
+            "score": 4
+          },
+          "productFit": {
+            "basis": "qualitative",
+            "rationale": "The method (three at a time, rotate) maps directly onto a planner layout.",
+            "score": 4
+          },
+          "supplyGap": {
+            "basis": "qualitative",
+            "rationale": "Generic hobby planners exist, but none surfaced that is rotation-based or trend-named; Etsy not checked directly.",
+            "score": 3
+          },
+          "timing": {
+            "basis": "reported",
+            "rationale": "Press named it in the last 3 weeks, ahead of New Year planning season.",
+            "score": 4
+          }
+        },
+        "spread": {
+          "evidence": [
+            "e1",
+            "e2",
+            "e3",
+            "e4",
+            "e5",
+            "e6"
+          ],
+          "text": "Independent coverage in the US (Washington Post, Yahoo), Korea (Seoul Economic Daily, Herald Business) and Germany (Ippen network). The Korean and German pieces may restate the same original reporting. There is also a pro-hobbymaxxing Substack and a TikTok discover page. That is 3–4 independent signals in about 3 weeks."
+        },
+        "summary": "A September 2026 press wave names 'hobbymaxxing': young people pack in many hobbies, focus on three at a time and rotate. A backlash says it turns leisure into work.",
+        "trajectory": {
+          "evidence": [
+            "e1",
+            "e2",
+            "e10",
+            "e9"
+          ],
+          "stage": "first_spark",
+          "text": "Named in the press only in the last 3 weeks, and the coverage is still explanatory ('what is'). That fits a first spark. It is attached to the large and growing '-maxxing' language and hobby-revival trends, which supports staying power into the New Year planning season, but there is no measured search data."
+        },
+        "unresolved": [
+          "Confirm spread: US lifestyle outlets (beyond the Washington Post and Yahoo) or TikTok creators posting '2027 hobby rotation' content in October–November.",
+          "Check whether Etsy or Pinterest searches for 'hobby planner' or 'hobby tracker' rise in November.",
+          "Watch whether the criticism framing overtakes the positive one, and tilt marketing to 'calm rotation' if it does."
+        ],
+        "what": "Hobbymaxxing means deliberately filling your life with many hobbies and treating them seriously. A common method is to track progress, prioritize three hobbies daily for a set period, then rotate to the next three. Coverage mixes admiration (it replaces doomscrolling) with criticism (leisure becomes a performance metric).",
+        "window": {
+          "endEstimate": null,
+          "estimate": "Oct 2026 – Jan 2027 for the dated version; the undated version is evergreen",
+          "invalidators": [
+            "Coverage stops after September with no TikTok growth",
+            "The backlash framing dominates and 'tracking hobbies' becomes uncool"
+          ],
+          "reasoning": "New Year planner demand peaks from late November to mid-January. The hobby revival is a multi-year trend, so an undated version can keep selling after the trend term fades.",
+          "seasonality": "Q4 planning season and January resets",
+          "sellBy": "2026-12-15"
+        }
+      }
+    ],
+    "discovered": [
+      {
+        "disposition": "deep_dived",
+        "name": "Hobbymaxxing",
+        "rejectReason": "",
+        "whyConsidered": "Press wave mid/late Sept 2026 (WaPo, Seoul Economic Daily, Herald, echo24); 3-at-a-time rotation is a planning method."
+      },
+      {
+        "disposition": "deep_dived",
+        "name": "Hobbyamory",
+        "rejectReason": "",
+        "whyConsidered": "NYT-coined Aug 2026; YPulse, Il Foglio, Dayton Daily News, newsletters; hobbies instead of dating, a New Year 'single-life' planning angle."
+      },
+      {
+        "disposition": "deep_dived",
+        "name": "Counter-maxxing / 'good enough' / half-assing",
+        "rejectReason": "",
+        "whyConsidered": "Pulsar data reports anti-maxxing talk up fifteenfold in six months; Newsweek and German network coverage; a natural anti-resolution format."
+      },
+      {
+        "disposition": "deep_dived",
+        "name": "Goal punch cards (2027 cycle)",
+        "rejectReason": "",
+        "whyConsidered": "Jan 2026 TikTok goal-tracking format with press (Fast Company, People/Yahoo, Daily Dot) and campus and retailer workshops; likely to return for 2027."
+      },
+      {
+        "disposition": "rejected",
+        "name": "Sprint Month / 30-day sprint method",
+        "rejectReason": "Started May 2025; not new, and largely covered by the existing Great Lock-In candidate.",
+        "whyConsidered": "Viral goal-setting format (Upworthy, Bustle)."
+      },
+      {
+        "disposition": "rejected",
+        "name": "October Theory",
+        "rejectReason": "Recurring since 2023–2024 (Fortune, Dexerto); overlaps the Great Lock-In; not a first spark.",
+        "whyConsidered": "'Second New Year' reset framing resurfacing in October."
+      },
+      {
+        "disposition": "rejected",
+        "name": "'2027 is the new 2017' nostalgia",
+        "rejectReason": "Only TikTok discover pages; no independent spread. Watch in December.",
+        "whyConsidered": "Follow-on to the 2026/2016 nostalgia wave; a TikTok discover page exists."
+      },
+      {
+        "disposition": "rejected",
+        "name": "365 Buttons",
+        "rejectReason": "A one-off January 2026 meme; faded and tied to one creator's comment exchange.",
+        "whyConsidered": "January 2026 New Year motto meme."
+      },
+      {
+        "disposition": "rejected",
+        "name": "Goal bingo cards",
+        "rejectReason": "Established since 2023; saturated supply.",
+        "whyConsidered": "Popular resolution alternative."
+      },
+      {
+        "disposition": "rejected",
+        "name": "Friction-maxxing",
+        "rejectReason": "Coined in January 2026 and already widely covered; overlaps the existing analog-bag candidate.",
+        "whyConsidered": "Anti-convenience trend that could become a January challenge."
+      },
+      {
+        "disposition": "rejected",
+        "name": "2027 numerology Universal Year 11/2",
+        "rejectReason": "Evergreen annual SEO content; no spread signal.",
+        "whyConsidered": "Belief-based theme-of-the-year hook for spiritual planners."
+      },
+      {
+        "disposition": "rejected",
+        "name": "Year of the Fire Goat 2027",
+        "rejectReason": "A fixed calendar hook, not an emerging trend; generic supply already exists.",
+        "whyConsidered": "Calendar theme starting Feb 6, 2027."
+      },
+      {
+        "disposition": "rejected",
+        "name": "No-buy / low-buy year 2027",
+        "rejectReason": "Established since 2024–25 with many trackers; no 2027-specific new signal.",
+        "whyConsidered": "Anti-consumption resolution format."
+      },
+      {
+        "disposition": "rejected",
+        "name": "December / life audit",
+        "rejectReason": "Recurring seasonal format; no new 2026 signal yet.",
+        "whyConsidered": "December 2025 TikTok year-end reflection trend."
+      },
+      {
+        "disposition": "rejected",
+        "name": "Word of the year 2027",
+        "rejectReason": "Perennial and established; heavy supply.",
+        "whyConsidered": "Theme-of-the-year practice."
+      },
+      {
+        "disposition": "rejected",
+        "name": "2027 vision boards (incl. AI vision boards)",
+        "rejectReason": "Established and saturated.",
+        "whyConsidered": "Annual TikTok New Year format."
+      },
+      {
+        "disposition": "rejected",
+        "name": "'27 goals for 2027' list format",
+        "rejectReason": "A predictable format with no current signal; low product differentiation.",
+        "whyConsidered": "Follow-on to January 2026's '26 goals for 2026'."
+      },
+      {
+        "disposition": "rejected",
+        "name": "Goals list / Life Mission carousels",
+        "rejectReason": "Content formats with no product angle.",
+        "whyConsidered": "March 2026 goal-content formats."
+      },
+      {
+        "disposition": "rejected",
+        "name": "Analog January",
+        "rejectReason": "A 2019 concept (Cal Newport) with no fresh spread found; overlaps the analog-bag candidate.",
+        "whyConsidered": "Screen-free January challenge."
+      },
+      {
+        "disposition": "rejected",
+        "name": "Ta-da / done lists",
+        "rejectReason": "No evidence of current spread.",
+        "whyConsidered": "Anti-to-do-list productivity format."
+      },
+      {
+        "disposition": "rejected",
+        "name": "Nonnamaxxing / cosymaxxing",
+        "rejectReason": "Folded into the counter-maxxing candidate; nonnamaxxing dates from March 2026.",
+        "whyConsidered": "Counter-maxxing sub-trends."
+      },
+      {
+        "disposition": "rejected",
+        "name": "The Great Lock-In",
+        "rejectReason": "Already an existing candidate (skipped per instructions).",
+        "whyConsidered": "End-of-year sprint."
+      }
+    ],
+    "kind": "discover",
+    "lens": "First-spark hunt: New Year 2027 planning, goals and reset formats",
+    "researchedAt": "2026-10-05T00:00:00Z",
+    "sourcesTried": [
+      {
+        "method": "web search",
+        "note": "About 45 queries; all evidence comes from search-result snippets.",
+        "source": "WebSearch (standard and extended)",
+        "status": "ok"
+      },
+      {
+        "method": "fetch",
+        "note": "Network egress proxy blocked every fetch attempted, so no page was read in full.",
+        "source": "WebFetch: upworthy.com, clothandpaper.com, fastcompany.com, napoleoncat.com, later.com, newengen.com, socialbee.com, select.keenable.ai, newsweek.com, mein-mmo.de, en.sedaily.com",
+        "status": "blocked"
+      },
+      {
+        "method": "curl",
+        "note": "CONNECT tunnel 403 from the environment proxy.",
+        "source": "washingtonpost.com",
+        "status": "blocked"
+      },
+      {
+        "method": "web search results only (discover/tag pages)",
+        "note": "Only search snippets of TikTok discover pages; view counts not verifiable.",
+        "source": "TikTok",
+        "status": "ok"
+      },
+      {
+        "method": "web search results only",
+        "note": "Two Etsy listing URLs surfaced in results; Etsy search and sales counts not checked directly.",
+        "source": "Etsy",
+        "status": "ok"
+      },
+      {
+        "method": "none",
+        "note": "Fetching is blocked in this environment.",
+        "source": "Google Trends",
+        "status": "not_tried"
+      },
+      {
+        "method": "none",
+        "note": "Fetching is blocked in this environment.",
+        "source": "Reddit",
+        "status": "not_tried"
+      },
+      {
+        "method": "web search results only",
+        "note": "No Pinterest 2027 Predicts report exists yet (usually released in December).",
+        "source": "Pinterest",
+        "status": "ok"
+      }
+    ]
+  },
+  "runId": "run-hunt-newyear-20261004-1",
+  "status": "new"
+}

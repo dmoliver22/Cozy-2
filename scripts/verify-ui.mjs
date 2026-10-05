@@ -115,6 +115,11 @@ const init = ({ seed, scenario, workerRaw }) => {
     callTool: async (server, tool, input) => {
       window.__mock.calls.push([tool, input]);
       if (scenario.mcp === 'not_connected') throw { code: 'server_not_connected', message: 'no connector' };
+      // The first start fails the way claude.ai does while it confirms connector access.
+      if (scenario.mcp === 'upstream_once' && tool === 'fire_trigger' && !window.__mock.failedOnce) {
+        window.__mock.failedOnce = true;
+        throw { code: 'upstream_error', message: "connector access isn't confirmed for this artifact right now", retryable: true, retryAfterMs: 1000 };
+      }
       if (tool === 'fire_trigger') {
         const jobId = String(input.text).split(': ').pop();
         // Simulated worker: claim, progress, then hand results to the inbox.
@@ -356,6 +361,38 @@ async function newPage(scenario, viewport = { width: 1440, height: 1000 }, color
   const txt = await page.locator('.view').innerText();
   check('dispatch failure is explained on the job', /Claude Code Remote connector/.test(txt), txt.match(/Add the.*$/m)?.[0] || '');
   check('no runtime errors (no connector)', errors.length === 0, errors.join(' | '));
+  await ctx.close();
+}
+
+// ---- Scenario 2b: a temporary connector error is retried once automatically ----
+{
+  const { ctx, page, errors } = await newPage({ mcp: 'upstream_once' });
+  await page.evaluate((s) => localStorage.setItem('mockdb.v1', JSON.stringify({ ...s, 'config/worker': { triggerId: 'trig_test' } })), seed);
+  await page.reload();
+  await page.waitForSelector('.row');
+  await page.click('.top-actions >> text=Discover trends');
+  await page.waitForFunction(() => window.__mock.calls.filter(([t]) => t === 'fire_trigger').length >= 2, null, { timeout: 8000 }).catch(() => {});
+  const fires = await page.evaluate(() => window.__mock.calls.filter(([t]) => t === 'fire_trigger').length);
+  await page.waitForTimeout(300);
+  const toastTxt = await page.locator('body').innerText();
+  check('temporary connector error is retried once and the worker starts', fires === 2 && /Discovery started/.test(toastTxt), `${fires} start attempts`);
+  check('no runtime errors (connector retry)', errors.length === 0, errors.join(' | '));
+  await ctx.close();
+}
+
+// ---- Scenario 2c: a duplicate marked by an editor folds into its survivor ----
+{
+  const dupe = { ...seed['candidates/american-mahjong-boom'], id: 'mahjong-night-dupe', name: 'Mahjong night craze', topicKeys: ['phrase:mahjong night craze'], duplicateOf: 'american-mahjong-boom' };
+  const withDupe = { ...seed, 'candidates/mahjong-night-dupe': dupe };
+  const { ctx, page, errors } = await newPage({ mcp: 'ok' });
+  await page.evaluate((s) => localStorage.setItem('mockdb.v1', JSON.stringify(s)), withDupe);
+  await page.reload();
+  await page.waitForSelector('.row');
+  check('merged duplicate stays out of the feed', (await page.locator('.row').count()) === 12, `${await page.locator('.row').count()} rows`);
+  await page.locator('.row:has-text("American mahjong boom") .stretch').first().click();
+  await page.waitForSelector('.dossier');
+  check('survivor names the merged duplicate', /Merged duplicate research: Mahjong night craze/.test(await page.locator('.dossier').innerText()));
+  check('no runtime errors (duplicates)', errors.length === 0, errors.join(' | '));
   await ctx.close();
 }
 

@@ -1,0 +1,19 @@
+{
+  "accessMethod": "web_search_result",
+  "candidateId": "once-a-day-once-a-week-once-a-month-routine-format",
+  "claim": "Free daily/weekly/monthly cleaning printables are widely available",
+  "excerpt": "Kitchen Cleaning Checklist - Daily, Weekly And Monthly Chores + Printable",
+  "firstRetrievedAt": "2026-10-05T00:01:02Z",
+  "firstSeenRunId": "run-hunt-foodhome-20261004-2",
+  "id": "once-a-day-once-a-week-once-a-month-routine-format~868b7378",
+  "intent": "none",
+  "kind": "observed",
+  "lastSeenRunId": "run-hunt-foodhome-20261004-2",
+  "publishedAt": null,
+  "publisher": "Household Management 101",
+  "retrievedAt": "2026-10-05T00:01:02Z",
+  "signalType": "marketplace",
+  "syndicationOf": null,
+  "title": "Kitchen Cleaning Checklist - Daily, Weekly And Monthly Chores + Printable",
+  "url": "https://www.household-management-101.com/kitchen-cleaning.html"
+}

@@ -1,0 +1,19 @@
+{
+  "accessMethod": "web_search_result",
+  "candidateId": "the-great-lock-in",
+  "claim": "Adoption was covered in Black online communities.",
+  "excerpt": "Title only; year not shown.",
+  "firstRetrievedAt": "2026-10-04T20:59:17Z",
+  "firstSeenRunId": "run-2026-10-04-movements",
+  "id": "the-great-lock-in~903e591e",
+  "intent": "curiosity",
+  "kind": "observed",
+  "lastSeenRunId": "run-2026-10-04-movements",
+  "publishedAt": null,
+  "publisher": "The Root",
+  "retrievedAt": "2026-10-04T20:59:17Z",
+  "signalType": "press",
+  "syndicationOf": null,
+  "title": "Black Folks Online Are Getting Ready for 'The Great Lock In'",
+  "url": "https://www.theroot.com/black-folks-online-are-doing-the-great-lock-in-heres-h-2000123734"
+}

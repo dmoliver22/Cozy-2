@@ -1,0 +1,149 @@
+{
+  "candidateId": "whimsymaxxing-bedazzle-everything-diy",
+  "id": "whimsymaxxing-bedazzle-everything-diy",
+  "products": [
+    {
+      "assembly": [
+        "Run the super prompt and rebuild each pattern in Canva (or Illustrator) using circle elements on a snapped grid at the stated spacing.",
+        "Add a 1-inch test square to every pattern page and verify it measures 1 in when printed.",
+        "Set the palette and font pairing as a brand kit; keep pattern dots light gray so stones cover them.",
+        "Duplicate to A4 with patterns kept at true physical size (do not scale patterns).",
+        "Export PDF Print at 300 DPI, flattened, and remind buyers in the guide to print at 'Actual size'.",
+        "Test-print 3 pages and try one pattern under a clear case to confirm spacing.",
+        "Record 15-second process clips of the test for listing videos."
+      ],
+      "asymmetry": {
+        "badBetIf": "The bedazzling wave fades before the listing is indexed, and evergreen rhinestone-template searches are already saturated",
+        "downside": "About 14 hours plus $25 of supplies",
+        "upside": "Evergreen craft-template demand, easy seasonal add-on packs"
+      },
+      "costs": {
+        "baseCost": null,
+        "basis": "estimate: digital product; about $15-25 of stones and a clear case for demo videos",
+        "item": null,
+        "pages": null,
+        "provider": null,
+        "shipping": null,
+        "testBudget": 25,
+        "testBudgetNote": "Craft supplies for process videos; no ads at first"
+      },
+      "extensions": [
+        "Holiday motif pack",
+        "Hotfix designs for apparel (iron-on layout guides)",
+        "Kids' sticker-gem version with chunky patterns"
+      ],
+      "imagePrompts": [
+        {
+          "prompt": "Top-down craft table with a clear phone case half-covered in pastel rhinestones in a heart pattern, a printed dot-grid template visible underneath, small trays of gems in #FF8FC7 #C9A7FF #7FE0E8 #FFE36E, tweezers and a wax pick, bright soft lighting, 4:3 aspect ratio, white background, no text. No logos, no real people, no trademarked characters, no watermarks.",
+          "purpose": "Listing hero image",
+          "tool": "Midjourney or ChatGPT images"
+        },
+        {
+          "prompt": "Vertical graphic showing three printed rhinestone pattern sheets (heart cluster, honeycomb band, monogram letter dot grid) fanned out, headline text 'Bedazzle Anything: 25 printable patterns' in rounded bold font in charcoal #2B2B33, sparkle accents in #FF8FC7 and #7FE0E8, 2:3 aspect ratio, white background. No logos, no real people, no trademarked characters, no watermarks.",
+          "purpose": "Pinterest pin",
+          "tool": "Ideogram"
+        }
+      ],
+      "index": 0,
+      "listingPrompt": "Write an Etsy listing for a digital download 'Bedazzle Anything Pattern Pack'. Title under 140 characters starting with 'Rhinestone Pattern Template Printable'. Exactly 13 tags of 20 characters or fewer (e.g. rhinestone pattern, bedazzle template, gem art template, phone case diy, rhinestone tumbler). Description: 25 pages, true-scale templates with test squares, US Letter and A4 PDFs, instant download, no physical items or stones included, beginner guide and safety notes. FAQ: printing at actual size, sizing to your object, which stone sizes, can I sell items I make (yes, finished handmade items; not the templates), refunds. Never use any phone, tumbler, cup or celebrity brand names or other trademarks.",
+      "marketing": {
+        "channels": [
+          {
+            "cadence": "4 per week",
+            "channel": "TikTok",
+            "tactic": "Satisfying placement timelapses with the template visible"
+          },
+          {
+            "cadence": "3 pins every 2 days",
+            "channel": "Pinterest",
+            "tactic": "Pattern previews"
+          }
+        ],
+        "hooks": [
+          "Your bedazzle, but neat",
+          "Print it, place it, sparkle",
+          "The template under my case"
+        ],
+        "keywords": [
+          "rhinestone pattern template",
+          "bedazzle phone case",
+          "rhinestone tumbler pattern",
+          "gem art template",
+          "monogram rhinestone"
+        ],
+        "launchPlan": [
+          {
+            "action": "Publish the listing with a process video",
+            "day": "Day 0"
+          },
+          {
+            "action": "TikTok: bedazzle a phone case over the template, timelapse",
+            "day": "Day 1"
+          },
+          {
+            "action": "Post 4 Pinterest pins (pack overview, monogram, tumbler wrap, size chart)",
+            "day": "Day 2"
+          },
+          {
+            "action": "TikTok: 'beginner mistakes' video showing spacing with vs without the template",
+            "day": "Day 4"
+          },
+          {
+            "action": "Reel: cup band pattern",
+            "day": "Day 7"
+          },
+          {
+            "action": "Offer a free single-heart pattern as a pin and a link-in-bio freebie",
+            "day": "Day 10"
+          },
+          {
+            "action": "Review views and sales; make the most-viewed object a standalone pack",
+            "day": "Day 14"
+          },
+          {
+            "action": "Go/pivot/stop check",
+            "day": "Day 21"
+          }
+        ],
+        "positioning": "Neat bedazzling for first-timers: print, place, sparkle."
+      },
+      "platforms": [
+        {
+          "name": "Etsy",
+          "role": "primary",
+          "why": "Craft templates sell there"
+        },
+        {
+          "name": "TikTok",
+          "role": "traffic",
+          "why": "Bedazzling is a process-video trend"
+        },
+        {
+          "name": "Pinterest",
+          "role": "traffic",
+          "why": "DIY pattern pins"
+        }
+      ],
+      "pricing": {
+        "basis": "estimate",
+        "currency": "USD",
+        "high": 9,
+        "low": 4,
+        "rationale": "Mid-priced craft pattern pack; impulse level for teen and young-adult buyers.",
+        "recommended": 6
+      },
+      "productName": "Bedazzle Anything Pattern Pack",
+      "risks": [
+        "Physical rhinestone supply is huge and free tutorials exist",
+        "Peak may already have passed with the late-August spike",
+        "Template sizing must be accurate or reviews suffer"
+      ],
+      "source": "worker",
+      "superPrompt": "You are a craft-pattern designer and patient beginner teacher. Write the full content and layout specification for a printable digital product called 'Bedazzle Anything Pattern Pack'. BUYER AND JOB: teens and young women trying rhinestone DIY for the first time on phone cases, cups, tumblers, notebooks, compacts and hair clips. They need layouts that keep stones evenly spaced and patterns that look neat, plus clear first-timer guidance. DELIVERABLE SPEC (US Letter 8.5x11 in and A4 PDFs; all patterns printed at 100% scale; include a 1-inch test square on every pattern page): Page 1 Cover. Page 2 How to use: print at 100%, check the test square, place the pattern under a clear case or inside a clear cup, or tape it beside the object, then place stones dot by dot. Page 3 Stone size chart: circles for SS6, SS10, SS16, SS20 and SS30 at true size, with a 'how many stones per square inch' table worked out geometrically (state it as approximate). Page 4 Safety and care basics: ventilation and following the adhesive maker's label; keep small stones away from young children and pets; never decorate anything that goes in the mouth or on the lip area of a cup; hand-wash only. No medical claims. Pages 5-12 Phone-case patterns on a generic rounded-rectangle outline sized 3x6 in, with 'trace your own case' instructions: full ombre, border only, heart cluster, star scatter, checkerboard, flower, wavy stripes, initial monogram frame. Pages 13-18 Monogram alphabet A-Z as dot grids, 5 letters per page, 1.5 in tall, at SS10 spacing. Pages 19-22 Cup and tumbler wraps: honeycomb dot grid, gradient band, scattered sparkle, and checker band, each as a rectangle 9x8 in with a 'measure your cup' formula (circumference = diameter x 3.14). Pages 23-24 Small-object motifs: 12 motifs for compacts, clips and notebook corners (heart, star, bow, cherry, moon, sparkle, flower, butterfly, initial circle, smile, lightning bolt, shell). Page 25 Project planner: object, pattern, stone sizes, color plan, stone count, date, photo box. Pattern drawing rules: describe each pattern precisely as dot positions or grid rules (e.g. 'offset rows, 3 mm center-to-center') so a designer can rebuild it in Canva or Illustrator. STYLE: playful maximalist on clean white. Canva font pairings: (1) Fredoka headings + Nunito body; (2) Bagel Fat One + Poppins. Palette: Bubblegum #FF8FC7, Lilac #C9A7FF, Aqua #7FE0E8, Lemon #FFE36E, Charcoal #2B2B33. CONTENT RULES: original patterns only; no logos, brand-shaped silhouettes, characters, sports-team marks or celebrity references; do not name any drinkware or phone brand; no claims that adhesives are food-safe. DIFFERENTIATION: one pack covering many object types with true-scale templates and a beginner stone-size chart, rather than single-project tutorials. OUTPUT FORMAT: page by page, headed 'PAGE n - name', with all text and a precise pattern specification in brackets. SELF-CHECK before answering: every page listed is present; every pattern page has a test square; the safety page warns against decorating lip areas and keeps stones away from small children; no brands or characters named; both font pairings and all 5 hex colors used.",
+      "themeKey": "Bedazzle pattern templates: printable rhinestone layout guid"
+    }
+  ],
+  "runId": "run-hunt-hobbies-20261004-3",
+  "source": "worker",
+  "writtenAt": "2026-10-05T00:00:55Z"
+}

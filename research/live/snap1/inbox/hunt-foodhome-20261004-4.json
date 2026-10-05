@@ -1,0 +1,483 @@
+{
+  "createdAt": "2026-10-05T00:01:02Z",
+  "jobId": "hunt-foodhome-20261004",
+  "processedAt": "2026-10-05T00:01:30.981Z",
+  "raw": {
+    "candidates": [
+      {
+        "actionRationale": "Evidence of spread is thin (one syndicated listicle), but the format is gift-shaped and the holiday window is close. Build the listing now and only add ads or POD after real orders.",
+        "adopters": {
+          "evidence": [
+            "e1",
+            "e2"
+          ],
+          "text": "Long-time dog and cat owners, including people remembering pets that have died."
+        },
+        "aliases": [
+          "pets have been there for trend",
+          "life stories alongside pets",
+          "9 years 3 houses 2 break ups"
+        ],
+        "category": "other",
+        "competition": {
+          "evidence": [
+            "e6",
+            "e7"
+          ],
+          "level": "moderate",
+          "text": "Pet memory books, record books and 'life of pets' posters appear in Etsy search results. We found none using the tally format."
+        },
+        "evidence": [
+          {
+            "accessMethod": "web_search_result",
+            "claim": "A viral TikTok post prompted people to list the life events their pets were there for",
+            "excerpt": "A viral TikTok post inspired people to share the milestones, memories, and difficult moments they've experienced alongside their pets.",
+            "id": "e1",
+            "intent": "curiosity",
+            "kind": "observed",
+            "publishedAt": null,
+            "publisher": "Bored Panda",
+            "retrievedAt": "2026-10-05T00:01:02Z",
+            "signalType": "press",
+            "syndicationOf": null,
+            "title": "This Viral TikTok Trend Has People Sharing The Life Stories They've Lived Alongside Their Pets (100 Pics)",
+            "url": "https://www.boredpanda.com/viral-thread-pets-life-story-anyazaszy/"
+          },
+          {
+            "accessMethod": "web_search_result",
+            "claim": "Syndicated version of the Bored Panda piece; includes the tally-style comment example",
+            "excerpt": "9 years, 3 houses, 2 break ups, 3 jobs, and every single tear",
+            "id": "e2",
+            "intent": "curiosity",
+            "kind": "observed",
+            "publishedAt": null,
+            "publisher": "AOL",
+            "retrievedAt": "2026-10-05T00:01:02Z",
+            "signalType": "press",
+            "syndicationOf": "e1",
+            "title": "A Viral TikTok Thread Has People Opening Up About Everything Their Pets Have Been There For (100 Pics)",
+            "url": "https://www.aol.com/articles/viral-tiktok-trend-people-sharing-122621000.html"
+          },
+          {
+            "accessMethod": "web_search_result",
+            "claim": "Further syndication of the same Bored Panda piece",
+            "excerpt": "This TikTok Comment Thread Became An Emotional Collection Of Stories About Life With Pets",
+            "id": "e3",
+            "intent": "curiosity",
+            "kind": "observed",
+            "publishedAt": null,
+            "publisher": "inkl",
+            "retrievedAt": "2026-10-05T00:01:02Z",
+            "signalType": "press",
+            "syndicationOf": "e1",
+            "title": "This TikTok Comment Thread Became An Emotional Collection Of Stories About Life With Pets (100 Pics)",
+            "url": "https://www.inkl.com/news/this-viral-tiktok-trend-has-people-sharing-the-life-stories-theyve-lived-alongside-their-pets-100-pics"
+          },
+          {
+            "accessMethod": "web_search_result",
+            "claim": "Related pet life-memory slideshow trend on TikTok (built on a commercial song, so not usable in products)",
+            "excerpt": "TikTok discover page title: I Remember Everything Pet.",
+            "id": "e4",
+            "intent": "curiosity",
+            "kind": "observed",
+            "publishedAt": null,
+            "publisher": "TikTok",
+            "retrievedAt": "2026-10-05T00:01:02Z",
+            "signalType": "social",
+            "syndicationOf": null,
+            "title": "I Remember Everything Pet",
+            "url": "https://www.tiktok.com/discover/i-remember-everything-pet"
+          },
+          {
+            "accessMethod": "web_search_result",
+            "claim": "Search summary attributes to this report a note that relationship-story pet posts performed strongly in August 2026 (context only)",
+            "excerpt": "The strongest pet posts gave animals a social role and the relationship story made the pet's behavior meaningful.",
+            "id": "e5",
+            "intent": "none",
+            "kind": "inference",
+            "publishedAt": null,
+            "publisher": "Lightreel",
+            "retrievedAt": "2026-10-05T00:01:02Z",
+            "signalType": "creator",
+            "syndicationOf": null,
+            "title": "What Is Trending on TikTok — August 2026 Weekly Report",
+            "url": "https://lightreel.ai/blogs/whats-trending-on-tiktok"
+          },
+          {
+            "accessMethod": "web_search_result",
+            "claim": "Pet memory books and life trackers exist on Etsy (adjacent supply)",
+            "excerpt": "Pet Record Book Printable - Etsy",
+            "id": "e6",
+            "intent": "none",
+            "kind": "observed",
+            "publishedAt": null,
+            "publisher": "Etsy",
+            "retrievedAt": "2026-10-05T00:01:02Z",
+            "signalType": "marketplace",
+            "syndicationOf": null,
+            "title": "Pet Record Book Printable - Etsy",
+            "url": "https://www.etsy.com/market/pet_record_book_printable"
+          },
+          {
+            "accessMethod": "web_search_result",
+            "claim": "Pet-life posters exist; none found using the tally format",
+            "excerpt": "Life of Pets Poster - Etsy",
+            "id": "e7",
+            "intent": "none",
+            "kind": "observed",
+            "publishedAt": null,
+            "publisher": "Etsy",
+            "retrievedAt": "2026-10-05T00:01:02Z",
+            "signalType": "marketplace",
+            "syndicationOf": null,
+            "title": "Life of Pets Poster - Etsy",
+            "url": "https://www.etsy.com/market/life_of_pets_poster"
+          }
+        ],
+        "gap": {
+          "isInference": true,
+          "text": "A personalized tally print matching the thread's format, timed for holiday gifting and also usable as a memorial or adoption-anniversary gift."
+        },
+        "name": "Pet Life Tally ('Everything My Pet Was There For')",
+        "observations": [],
+        "origin": {
+          "date": null,
+          "evidence": [
+            "e1"
+          ],
+          "text": "Bored Panda credits a viral TikTok post whose comments filled with these life tallies. We could not establish the original post date or creator."
+        },
+        "productDemand": {
+          "evidence": [],
+          "text": "No purchase evidence for the tally format itself. Personalized pet gifts are a known Etsy category, but we have no sales data, so this is context, not proof."
+        },
+        "products": [
+          {
+            "buyer": "US dog and cat owners, and gift-buyers for them, around holidays, adoption anniversaries and memorials",
+            "channels": [
+              "Etsy",
+              "Pinterest",
+              "TikTok"
+            ],
+            "continueIf": "2+ personalized orders within 21 days",
+            "differentiation": "Personalized tally format instead of generic pet quotes or portraits",
+            "effort": "medium",
+            "effortHours": 8,
+            "evidence": [
+              "e1",
+              "e2",
+              "e6",
+              "e7"
+            ],
+            "format": "poster",
+            "fulfillment": "digital",
+            "leadTimeDays": 3,
+            "pivotIf": "Favorites but no orders: drop price or add a non-personalized 'fill it yourself' printable version",
+            "playbook": {
+              "assembly": [
+                "Run the prompt; pick 3 layouts to launch with.",
+                "Build each layout in Canva at 8x10 in with text styles saved, then resize copies to 11x14 in, A4 and 16x20 in.",
+                "Create the Etsy personalization box text from the intake form (character limit 1024).",
+                "Make 3 sample listings images from the fictional samples plus a frame mockup.",
+                "Per order: paste answers, apply tally rules, export PDF Print 300 DPI, proof by message, deliver via Etsy file delivery within 48 hours.",
+                "Optional POD: upload a 4800x6000 px PNG to Printify or Printful poster product only after 3 digital sales.",
+                "Save a reusable order checklist to keep turnaround under 30 minutes per order."
+              ],
+              "asymmetry": {
+                "badBetIf": "Custom-order labor eats your time at a low price, or the tally framing never gets traction beyond the one listicle.",
+                "downside": "About 8 hours to set up plus about 20-30 minutes per order; up to $20 in ads.",
+                "upside": "Higher price point, giftable before the holidays, evergreen for adoption anniversaries and memorials."
+              },
+              "costs": {
+                "baseCost": null,
+                "basis": "estimate: verify in the provider catalog before adding a POD version",
+                "item": "Matte poster 16x20 in",
+                "provider": "Printify (optional, later)",
+                "shipping": null,
+                "testBudget": 20,
+                "testBudgetNote": "Etsy Ads about $1/day for 20 days in November, only if organic views are coming in."
+              },
+              "extensions": [
+                "POD poster and canvas versions",
+                "Matching mug with the short tally",
+                "Cat-specific and memorial-specific listings"
+              ],
+              "imagePrompts": [
+                {
+                  "prompt": "Typographic poster on warm paper texture #F7F1E8, centered stacked lines in navy #1F2A44 with oversized numerals in clay #C9774E, text rendered exactly: \"MAPLE / 7 years / 4 apartments / 2 cross-country moves / 1 very long winter / 312 stolen socks / and every walk home\", small sage #A3B18A paw outline at bottom, portrait 4:5, solid background. No logos, no real people, no trademarked characters, no watermarks.",
+                  "purpose": "Listing sample print (dog)",
+                  "tool": "Ideogram"
+                },
+                {
+                  "prompt": "Photo-style mockup of a simple light-wood frame on a cream wall above a dog bed, soft daylight, blank print area for overlay, portrait 4:5, accents #E8C4B8. No logos, no real people, no trademarked characters, no watermarks.",
+                  "purpose": "Framed wall mockup",
+                  "tool": "Canva mockup"
+                }
+              ],
+              "listingPrompt": "Write an Etsy listing for a personalized digital pet print: \"Our Life Together\" pet tally. Title under 140 characters starting with \"Personalized Pet Print\" and including dog/cat, gift and memorial uses. 13 tags of 20 characters or fewer. Description: how it works (fill the personalization box, proof within 48 hours, digital file delivered, print at home or a print shop), sizes, examples of what to include, turnaround before holidays. FAQ: can I get a memorial version (yes), can I edit after the proof (one revision), is anything shipped (no). Do not use song lyrics, song or artist names, brand names or claims about pet health.",
+              "marketing": {
+                "channels": [
+                  {
+                    "cadence": "1-2 per day through mid-December",
+                    "channel": "Pinterest",
+                    "tactic": "Gift-for-pet-owner pins"
+                  },
+                  {
+                    "cadence": "2-3 per week",
+                    "channel": "TikTok/Reels",
+                    "tactic": "Tally-reveal videos for real pets (with permission)"
+                  },
+                  {
+                    "cadence": "Once",
+                    "channel": "Local pet rescue groups",
+                    "tactic": "Offer adoption-anniversary prints only where allowed; check the community rules"
+                  }
+                ],
+                "hooks": [
+                  "9 years. 3 houses. 1 dog who was there for all of it.",
+                  "Count the years with your pet.",
+                  "The gift that makes pet people cry (the good kind)."
+                ],
+                "keywords": [
+                  "personalized pet print",
+                  "dog mom gift",
+                  "cat dad gift",
+                  "pet memorial print",
+                  "adoption anniversary"
+                ],
+                "launchPlan": [
+                  {
+                    "action": "Publish the listing with 3 fictional samples and a framed mockup.",
+                    "day": "Day 0"
+                  },
+                  {
+                    "action": "Post a video building a tally for your own or a friend's pet (original audio or licensed library audio, no hit songs).",
+                    "day": "Day 1"
+                  },
+                  {
+                    "action": "Pin 5 gift-focused pins (dog dad, cat mom, memorial, adoption anniversary, holiday).",
+                    "day": "Day 2"
+                  },
+                  {
+                    "action": "Offer 3 free tallies to friends in exchange for photos of the printed result.",
+                    "day": "Day 5"
+                  },
+                  {
+                    "action": "Add the photos to the listing; post them as a carousel.",
+                    "day": "Day 8"
+                  },
+                  {
+                    "action": "If 2+ sales, start $1/day ads; add a memorial-specific listing.",
+                    "day": "Day 14"
+                  },
+                  {
+                    "action": "Go/pivot/stop check; decide on POD poster version for December gifting.",
+                    "day": "Day 21"
+                  }
+                ],
+                "positioning": "The years with your pet, counted: a personalized tally print in the style pet owners are using to describe their life together."
+              },
+              "platforms": [
+                {
+                  "name": "Etsy",
+                  "role": "primary",
+                  "why": "Personalized pet gifts are a core Etsy gift category."
+                },
+                {
+                  "name": "Pinterest",
+                  "role": "traffic",
+                  "why": "Holiday gift-idea pins for pet owners."
+                },
+                {
+                  "name": "TikTok / Instagram",
+                  "role": "traffic",
+                  "why": "Make your own pet's tally video in the thread style (without the song)."
+                }
+              ],
+              "pricing": {
+                "basis": "estimate",
+                "currency": "USD",
+                "high": 22,
+                "low": 10,
+                "rationale": "Personalized digital pet prints usually sell above generic printables because of the custom labor; start mid-range without reviews.",
+                "recommended": 14
+              },
+              "productName": "Our Life Together Pet Tally Print (personalized)",
+              "risks": [
+                "Personalization labor does not scale.",
+                "Memorial buyers need careful, kind communication.",
+                "The related slideshow trend uses a commercial song; never use it."
+              ],
+              "superPrompt": "You are a typographic print designer and gift copywriter. Produce the full content system for \"Our Life Together\", a personalized pet tally print in the style people use in comment threads: \"9 years, 3 houses, 2 break ups, 3 jobs, and every single tear\".\n\nBUYER AND JOB: A US pet owner (25-45), or someone buying for them, who wants a holiday or adoption-anniversary gift that sums up years with a dog or cat in one honest, slightly funny, tear-jerking list. Shoppers also buy it as a memorial, so the copy must work in present and past tense.\n\nDELIVERABLE:\n1. An intake form (the questions the seller sends after purchase): pet name, species, years together, start year, and up to 8 counts or moments (homes, moves, jobs, roommates, breakups, babies, graduations, road trips, couch cushions destroyed, socks stolen), plus one closing line choice.\n2. Twelve closing-line options, original, e.g. \"and every single tear\" style but not copied: mix tender, funny and memorial versions.\n3. Rules for turning answers into the tally: order from largest time span to smallest moment; 4-8 lines; plural/singular grammar; numbers as numerals; final line always the chosen closing line.\n4. Five layout variants described for Canva: (A) stacked centered list with large numerals; (B) receipt style \"Total: one very good dog\"; (C) timeline with years; (D) minimal with a paw outline; (E) memorial with soft border and years range.\n5. Three fully worked sample tallies (dog, cat, memorial) to use as listing examples, all fictional.\n6. Print specs: digital personalized PDF at 8x10 in, 11x14 in and A4 at 300 DPI; plus 16x20 in for optional POD poster at 4800x6000 px.\n\nDESIGN NOTES for Canva: palette Warm Paper #F7F1E8, Ink Navy #1F2A44, Clay #C9774E, Sage #A3B18A, Blush #E8C4B8. Font pairing A: Abril Fatface (numerals) + Karla (text). Font pairing B: Bebas Neue + Libre Baskerville. Lots of white space; numerals big; text centered.\n\nRULES: Write all closing lines originally; do not reuse any real commenter's wording verbatim, do not quote song lyrics, and do not reference any song, artist, show, brand or breed-registry trademark. No pet-health or behavior claims. Keep humor kind. Memorial versions must be gentle and avoid religious statements unless the buyer requests them.\n\nDIFFERENTIATION: Existing pet posters are generic quotes or portraits; this is a personalized life tally that matches how people are actually describing years with their pets online.\n\nOUTPUT FORMAT: Sections titled INTAKE FORM, CLOSING LINES, TALLY RULES, LAYOUTS, SAMPLES, SPECS. Samples shown exactly as they'd print, line by line.\n\nSELF-CHECK: (1) 12 original closing lines; (2) no lyrics, songs, brands or real comments quoted; (3) samples are 4-8 lines with correct grammar; (4) memorial version included; (5) all sizes listed with DPI/pixels."
+            },
+            "rightsNote": "No song lyrics or song names (the related slideshow trend uses a commercial song); don't quote real commenters verbatim",
+            "stopIf": "Under 100 views in 21 days during peak gift season",
+            "theme": "Personalized 'Our Life Together' pet tally print (years, homes, jobs, moments)",
+            "validationTest": "List with 3 samples, post 3 videos and 10 pins in 10 days",
+            "whyBuy": "Captures years with a pet in the honest tally style people are sharing, as a giftable print"
+          }
+        ],
+        "recommendedAction": "prepare",
+        "rights": {
+          "note": "Don't use the related slideshow trend's song or lyrics; don't copy real commenters' lines verbatim; no breed-registry or brand names.",
+          "risk": "low"
+        },
+        "scores": {
+          "buyerIntent": {
+            "basis": "unknown",
+            "rationale": "No purchase evidence tied to the trend",
+            "score": null
+          },
+          "durability": {
+            "basis": "qualitative",
+            "rationale": "Pet-gift demand is evergreen even if the thread fades",
+            "score": 3
+          },
+          "economics": {
+            "basis": "qualitative",
+            "rationale": "Higher price but per-order personalization labor",
+            "score": 3
+          },
+          "productFit": {
+            "basis": "qualitative",
+            "rationale": "The comment format is literally a print layout",
+            "score": 4
+          },
+          "supplyGap": {
+            "basis": "qualitative",
+            "rationale": "Pet memory products exist; tally format not found",
+            "score": 3
+          },
+          "timing": {
+            "basis": "qualitative",
+            "rationale": "Good gift-season timing; the trend's start date is unverified",
+            "score": 3
+          }
+        },
+        "spread": {
+          "evidence": [
+            "e1",
+            "e2",
+            "e3",
+            "e4"
+          ],
+          "text": "One original listicle (Bored Panda) syndicated twice (AOL, inkl), plus a related TikTok slideshow trend. This is effectively one independent press signal."
+        },
+        "summary": "A viral TikTok post prompted pet owners to list, tally-style, the life events their pets were there for (homes, jobs, breakups), and Bored Panda's compilation was syndicated to AOL and inkl.",
+        "trajectory": {
+          "evidence": [
+            "e1",
+            "e5"
+          ],
+          "stage": "early_growth",
+          "text": "Emotional pet-story content has been a strong TikTok theme since at least August 2026 (one report, context only), and this thread has been picked up by syndicators. The specific tally format's age and momentum are unverified."
+        },
+        "unresolved": [
+          "Is the tally format appearing in new TikTok posts or captions in October?",
+          "Do other outlets (beyond Bored Panda syndication) cover it?",
+          "Do Etsy sellers start listing 'pet tally' or similar prints?"
+        ],
+        "what": "In a TikTok comment thread, owners summarize their years with a pet as a count of homes, jobs, breakups and other milestones, ending with an emotional line. Bored Panda compiled 100 examples. A related TikTok slideshow trend shows pets growing up but uses a commercial song.",
+        "window": {
+          "endEstimate": null,
+          "estimate": "Through the 2026 holiday gift season",
+          "invalidators": [
+            "No new tally-style posts or coverage by early November",
+            "Large personalized-gift sellers adopt the format quickly"
+          ],
+          "reasoning": "Gift demand for pet products peaks November-December. The tally format adds a fresh angle even if the thread itself fades.",
+          "seasonality": "Holiday gifting peak; evergreen for memorials and adoption anniversaries",
+          "sellBy": null
+        }
+      }
+    ],
+    "kind": "discover",
+    "lens": "First-spark hunt: food, home, pets and household micro-trends",
+    "researchedAt": "2026-10-05T00:01:02Z",
+    "sourcesTried": [
+      {
+        "method": "search",
+        "note": "Primary method; all evidence is from search result titles and summaries.",
+        "source": "WebSearch (standard and extended)",
+        "status": "ok"
+      },
+      {
+        "method": "curl and WebFetch",
+        "note": "Egress proxy 403.",
+        "source": "news.google.com RSS",
+        "status": "blocked"
+      },
+      {
+        "method": "WebFetch",
+        "note": "Seen only through search results.",
+        "source": "today.com",
+        "status": "blocked"
+      },
+      {
+        "method": "WebFetch",
+        "note": "Seen only through search results.",
+        "source": "trending.knowyourmeme.com",
+        "status": "blocked"
+      },
+      {
+        "method": "WebFetch",
+        "note": "Seen only through search results.",
+        "source": "upworthy.com, spoonuniversity.com",
+        "status": "blocked"
+      },
+      {
+        "method": "WebFetch",
+        "note": "Seen only through search results.",
+        "source": "homesandgardens.com, thecalmroost.com",
+        "status": "blocked"
+      },
+      {
+        "method": "WebFetch",
+        "note": "Trend roundups seen only through search results.",
+        "source": "socialbee.com, inflownetwork.com, blog.nuelink.com",
+        "status": "blocked"
+      },
+      {
+        "method": "WebSearch allowed_domains",
+        "note": "Search tool refuses these domains.",
+        "source": "allrecipes, delish, foodandwine, bonappetit, eatingwell, seriouseats, nypost",
+        "status": "error"
+      },
+      {
+        "method": "WebSearch allowed_domains",
+        "note": "Search tool refuses these domains.",
+        "source": "realsimple, thespruce, bhg, marthastewart, goodhousekeeping, housebeautiful",
+        "status": "error"
+      },
+      {
+        "method": "search results only",
+        "note": "Listing titles from search results; no sales data, no counts.",
+        "source": "Etsy",
+        "status": "ok"
+      },
+      {
+        "method": "search results only",
+        "note": "Titles only; no view counts verified.",
+        "source": "TikTok discover/tag pages",
+        "status": "ok"
+      },
+      {
+        "method": "-",
+        "note": "Usually blocked in this environment; not attempted this run.",
+        "source": "Reddit, Pinterest Trends, Google Trends",
+        "status": "not_tried"
+      }
+    ]
+  },
+  "report": [
+    {
+      "errors": [],
+      "id": "pet-life-tally-everything-my-pet-was-there-for",
+      "name": "Pet Life Tally ('Everything My Pet Was There For')",
+      "status": "created",
+      "warnings": 0
+    }
+  ],
+  "runId": "run-hunt-foodhome-20261004-4",
+  "status": "ingested"
+}

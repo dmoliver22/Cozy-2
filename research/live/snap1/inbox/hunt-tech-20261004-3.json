@@ -1,0 +1,775 @@
+{
+  "createdAt": "2026-10-05T00:02:26Z",
+  "jobId": "hunt-tech-20261004",
+  "raw": {
+    "candidates": [
+      {
+        "actionRationale": "There's purchase evidence for the underlying device, no printable competition, and enough time to list before holiday discovery. Build and list in October.",
+        "adopters": {
+          "evidence": [
+            "e2",
+            "e6",
+            "e14"
+          ],
+          "text": "Parents of Gen Alpha children (about ages 5-13) who want to delay smartphones, plus some adults buying retro landlines."
+        },
+        "aliases": [
+          "kids home phone",
+          "screenless kids phone",
+          "retro landline for kids"
+        ],
+        "category": "other",
+        "competition": {
+          "evidence": [
+            "e15"
+          ],
+          "level": "low",
+          "text": "No kids'-landline printable kits found. Only generic phone-number practice worksheets."
+        },
+        "evidence": [
+          {
+            "accessMethod": "web_search_result",
+            "claim": "National coverage of families adopting landlines for kids.",
+            "excerpt": "Landlines are ringing in homes again. Why parents are happy about that",
+            "id": "e1",
+            "intent": "none",
+            "kind": "observed",
+            "publishedAt": "2026-02-23",
+            "publisher": "CNN",
+            "retrievedAt": "2026-10-05T00:02:26Z",
+            "signalType": "press",
+            "syndicationOf": null,
+            "title": "Landlines are ringing in homes again. Why parents are happy about that",
+            "url": "https://www.cnn.com/2026/02/23/health/kids-using-landlines-wellness"
+          },
+          {
+            "accessMethod": "web_search_result",
+            "claim": "Regional coverage of families using kids' landlines to delay smartphones.",
+            "excerpt": "Some Colorado families are giving it a try",
+            "id": "e2",
+            "intent": "none",
+            "kind": "observed",
+            "publishedAt": "2026-02-04",
+            "publisher": "Colorado Public Radio",
+            "retrievedAt": "2026-10-05T00:02:26Z",
+            "signalType": "press",
+            "syndicationOf": null,
+            "title": "Can 'Tin Can' be the answer to delaying smartphone use? Some Colorado families are giving it a try",
+            "url": "https://www.cpr.org/2026/02/04/tin-can-kids-landline-cellphone-alternative/"
+          },
+          {
+            "accessMethod": "web_search_result",
+            "claim": "Reports hundreds of thousands of units sold and a 100,000+ waiting list.",
+            "excerpt": "has become a hit with hundreds of thousands sold, and the waiting list is reported at over 100,000",
+            "id": "e3",
+            "intent": "purchase",
+            "kind": "observed",
+            "publishedAt": "2026-04-24",
+            "publisher": "The Spokesman-Review",
+            "retrievedAt": "2026-10-05T00:02:26Z",
+            "signalType": "press",
+            "syndicationOf": null,
+            "title": "The hottest phone for kids right now is a $100 landline",
+            "url": "https://www.spokesman.com/stories/2026/apr/24/the-hottest-phone-for-kids-right-now-is-a-100-land/"
+          },
+          {
+            "accessMethod": "web_search_result",
+            "claim": "Business press covers the kids' landline as a viral 2026 product.",
+            "excerpt": "Viral \"Tin Can\" Phone Brings Landline Nostalgia Back for Kids in 2026",
+            "id": "e4",
+            "intent": "none",
+            "kind": "observed",
+            "publishedAt": "2026-04-24",
+            "publisher": "Bloomberg",
+            "retrievedAt": "2026-10-05T00:02:26Z",
+            "signalType": "press",
+            "syndicationOf": null,
+            "title": "Viral 'Tin Can' Phone Brings Landline Nostalgia Back for Kids in 2026",
+            "url": "https://www.bloomberg.com/news/articles/2026-04-24/viral-tin-can-phone-brings-landline-nostalgia-back-for-kids-in-2026"
+          },
+          {
+            "accessMethod": "web_search_result",
+            "claim": "A second company entered the category in July 2026, aimed at ages 5-10.",
+            "excerpt": "positioned as an intro to phones for children ages 5 to 10",
+            "id": "e5",
+            "intent": "none",
+            "kind": "observed",
+            "publishedAt": "2026-07-14",
+            "publisher": "TechCrunch",
+            "retrievedAt": "2026-10-05T00:02:26Z",
+            "signalType": "press",
+            "syndicationOf": null,
+            "title": "Pinwheel launches a retro-inspired landline phone for kids",
+            "url": "https://techcrunch.com/2026/07/14/pinwheel-launches-a-retro-inspired-landline-phone-for-kids/"
+          },
+          {
+            "accessMethod": "web_search_result",
+            "claim": "Shopping press frames kids' landlines as a parent swap trend.",
+            "excerpt": "Why Gen Alpha's Parents Are Swapping Smartphones For Kid-Friendly Landlines",
+            "id": "e6",
+            "intent": "none",
+            "kind": "observed",
+            "publishedAt": "2026-07-17",
+            "publisher": "Forbes Vetted",
+            "retrievedAt": "2026-10-05T00:02:26Z",
+            "signalType": "press",
+            "syndicationOf": null,
+            "title": "Back To The '90s: Why Gen Alpha's Parents Are Swapping Smartphones For Kid-Friendly Landlines",
+            "url": "https://www.forbes.com/sites/forbes-personal-shopper/2026/07/17/parents-swapping-smartphones-for-kid-friendly-landlines/"
+          },
+          {
+            "accessMethod": "web_search_result",
+            "claim": "Reports the kids' landline selling out nationally.",
+            "excerpt": "New tin can landline phone offers smartphone-free connectivity for kids (URL: ...is-selling-out-across-the-country)",
+            "id": "e7",
+            "intent": "purchase",
+            "kind": "observed",
+            "publishedAt": null,
+            "publisher": "FOX 5 San Diego",
+            "retrievedAt": "2026-10-05T00:02:26Z",
+            "signalType": "press",
+            "syndicationOf": null,
+            "title": "New tin can landline phone offers smartphone-free connectivity for kids",
+            "url": "https://fox5sandiego.com/news/national-news/tin-can-landline-phone-for-kids-is-selling-out-across-the-country/"
+          },
+          {
+            "accessMethod": "web_search_result",
+            "claim": "Reports sold-out batches and a monthslong waitlist.",
+            "excerpt": "The first five waves of Tin Cans sold out... There's a monthslong waitlist for the screenless, landline-inspired device for kids.",
+            "id": "e8",
+            "intent": "purchase",
+            "kind": "observed",
+            "publishedAt": null,
+            "publisher": "Tom's Guide",
+            "retrievedAt": "2026-10-05T00:02:26Z",
+            "signalType": "press",
+            "syndicationOf": null,
+            "title": "Tin Can: Everything you need to know about the viral screen-free phone for kids",
+            "url": "https://www.tomsguide.com/phones/tin-can-everything-you-need-to-know-about-the-viral-screen-free-phone-for-kids"
+          },
+          {
+            "accessMethod": "web_search_result",
+            "claim": "Fresh TV coverage on Sept 30, 2026 (date from the search summary) of two kids' landline companies.",
+            "excerpt": "High-tech landlines make a comeback for kids",
+            "id": "e9",
+            "intent": "none",
+            "kind": "observed",
+            "publishedAt": "2026-09-30",
+            "publisher": "KTLA",
+            "retrievedAt": "2026-10-05T00:02:26Z",
+            "signalType": "press",
+            "syndicationOf": null,
+            "title": "High-tech landlines make a comeback for kids",
+            "url": "https://ktla.com/news/landlines-make-a-comeback-but-for-kids/"
+          },
+          {
+            "accessMethod": "web_search_result",
+            "claim": "Coverage continues into October 2026 (date from the search summary).",
+            "excerpt": "Landlines for Kids - Why Alpha Generation is Ditching Smartphones",
+            "id": "e10",
+            "intent": "none",
+            "kind": "observed",
+            "publishedAt": "2026-10-02",
+            "publisher": "Korea Daily (English)",
+            "retrievedAt": "2026-10-05T00:02:26Z",
+            "signalType": "press",
+            "syndicationOf": null,
+            "title": "Landlines for Kids - Why Alpha Generation is Ditching Smartphones",
+            "url": "https://en.koreadaily.com/landlines-for-kids"
+          },
+          {
+            "accessMethod": "web_search_result",
+            "claim": "The kids' landline was referenced on late-night TV after a major product review, a mainstream-awareness signal.",
+            "excerpt": "Jimmy Kimmel casually referenced Tin Can's screenless phone for kids during his monologue last week, shortly after the startup landed a glowing NYT Wirecutter review.",
+            "id": "e11",
+            "intent": "none",
+            "kind": "observed",
+            "publishedAt": null,
+            "publisher": "GeekWire",
+            "retrievedAt": "2026-10-05T00:02:26Z",
+            "signalType": "press",
+            "syndicationOf": null,
+            "title": "Late-night name drop: Seattle startup Tin Can achieves cultural milestone",
+            "url": "https://www.geekwire.com/tag/jimmy-kimmel/"
+          },
+          {
+            "accessMethod": "web_search_result",
+            "claim": "A parenting blogger predicts kids' landlines as a top Christmas 2026 gift (prediction, not purchase evidence).",
+            "excerpt": "The Tin Can is predicted to be one of the biggest Christmas 2026 gifts.",
+            "id": "e12",
+            "intent": "none",
+            "kind": "observed",
+            "publishedAt": null,
+            "publisher": "Momma Society (Substack)",
+            "retrievedAt": "2026-10-05T00:02:26Z",
+            "signalType": "creator",
+            "syndicationOf": null,
+            "title": "Calling it now: these will be the hottest kids gifts of Christmas 2026",
+            "url": "https://mommasociety.substack.com/p/these-are-my-bets-for-the-best-gifts"
+          },
+          {
+            "accessMethod": "web_search_result",
+            "claim": "Parents advise having kids build a 'Rolodex' of people to call and print calling cards, which is direct utility evidence for the printable kit.",
+            "excerpt": "Parents recommend getting kids a kids' landline phone and having them create a Rolodex of people they can call, and optionally print out calling cards.",
+            "id": "e13",
+            "intent": "utility",
+            "kind": "observed",
+            "publishedAt": null,
+            "publisher": "Seattle's Child",
+            "retrievedAt": "2026-10-05T00:02:26Z",
+            "signalType": "community",
+            "syndicationOf": null,
+            "title": "Seattle's Child (kids' landline article)",
+            "url": "https://www.seattleschild.com/?p=107497"
+          },
+          {
+            "accessMethod": "web_search_result",
+            "claim": "The trend has spread to Canada and to adults.",
+            "excerpt": "Why 'retro' landline phones are trending with adults and kids alike",
+            "id": "e14",
+            "intent": "none",
+            "kind": "observed",
+            "publishedAt": null,
+            "publisher": "CBC News",
+            "retrievedAt": "2026-10-05T00:02:26Z",
+            "signalType": "press",
+            "syndicationOf": null,
+            "title": "Your past is calling: Why 'retro' landline phones are trending with adults and kids alike",
+            "url": "https://www.cbc.ca/news/canada/landline-retro-phones-trend-9.7179821"
+          },
+          {
+            "accessMethod": "web_search_result",
+            "claim": "Supply: generic phone-number practice worksheets exist; no landline-specific kits found.",
+            "excerpt": "phone number practice printables... help preschoolers and kindergarteners practice their phone numbers",
+            "id": "e15",
+            "intent": "none",
+            "kind": "observed",
+            "publishedAt": null,
+            "publisher": "worksheet aggregator",
+            "retrievedAt": "2026-10-05T00:02:26Z",
+            "signalType": "marketplace",
+            "syndicationOf": null,
+            "title": "Phone Number Practice Worksheet",
+            "url": "https://msoid.icmbio.gov.br/worksheet/phone-number-practice-worksheet.html"
+          }
+        ],
+        "gap": {
+          "isInference": true,
+          "text": "A home-phone starter kit (contact cards, labels, scripts, message pad, gift insert) and kids' calling cards with parent-approval fields."
+        },
+        "name": "Kids' Landline Phones",
+        "observations": [
+          {
+            "asOf": "2026-04-24",
+            "evidence": "e3",
+            "isAbsolute": true,
+            "metric": "Kids' landline waiting list",
+            "note": "reported by the Spokesman-Review; not independently verified",
+            "unit": "people",
+            "value": 100000
+          }
+        ],
+        "origin": {
+          "date": null,
+          "evidence": [
+            "e1",
+            "e3",
+            "e5"
+          ],
+          "text": "The first widely covered device debuted in April 2025. Major coverage followed in February-April 2026, and a second company launched in July 2026."
+        },
+        "productDemand": {
+          "evidence": [
+            "e3",
+            "e7",
+            "e8",
+            "e13"
+          ],
+          "text": "Purchase evidence for the device: hundreds of thousands sold, a 100,000+ waitlist and national sell-outs. For printable accessories there is only help-seeking evidence (parents suggesting kids build a contact 'Rolodex' and print calling cards)."
+        },
+        "products": [
+          {
+            "buyer": "Parents of 5-12-year-olds who bought or will gift a screenless landline-style kids' phone",
+            "channels": [
+              "Etsy",
+              "Pinterest",
+              "Payhip"
+            ],
+            "continueIf": "5+ sales or 40+ favorites by Nov 15.",
+            "differentiation": "Built for kids' home phones. Only generic phone-number worksheets were found.",
+            "effort": "low",
+            "effortHours": 10,
+            "evidence": [
+              "e3",
+              "e8",
+              "e12",
+              "e13"
+            ],
+            "format": "printable",
+            "fulfillment": "digital",
+            "leadTimeDays": 3,
+            "pivotIf": "Interest in the gift insert only: sell a lower-priced gift insert plus contact cards.",
+            "playbook": {
+              "assembly": [
+                "Run the super prompt; paste the text into a Canva US Letter design.",
+                "Upload the icon set; build the contact cards 4-up and label sheets at exact sizes with Canva rulers.",
+                "Lay out the posters, message pad, chart and certificate in the palette and fonts.",
+                "Duplicate and resize to A4; recheck label dimensions.",
+                "Export PDF Print at 300 DPI for both sizes; add an editable Canva template link for the contact cards.",
+                "Write a 1-page README (printing on cardstock, label paper tips).",
+                "Create 5 mockups and a 15-second flip video."
+              ],
+              "asymmetry": {
+                "badBetIf": "Device makers start including their own printed contact cards or kits in the box.",
+                "downside": "About 10 hours and $0-14.",
+                "upside": "No direct competitor found, with demand tied to a device that sells out. Holiday gifting and evergreen phone-skills teaching keep it selling."
+              },
+              "costs": {
+                "baseCost": null,
+                "basis": "estimate: digital product, platform fees only",
+                "item": null,
+                "provider": null,
+                "shipping": null,
+                "testBudget": 14,
+                "testBudgetNote": "Etsy Ads $1/day for 14 days in mid-November if organic favorites appear."
+              },
+              "extensions": [
+                "Calling Cards add-on",
+                "Grandparent edition (call schedule)",
+                "Classroom phone-skills unit",
+                "Bundle with an analog-activity pack"
+              ],
+              "imagePrompts": [
+                {
+                  "prompt": "Cozy flat-lay of printable pages, picture contact cards, a message pad and a 'How to Answer the Phone' poster, beside a generic retro coiled-cord phone in red with no logo. Text: \"Kids' Home Phone Starter Kit\". Palette #D64545, #F6D776, #7EC8E3, #A8E6CF, #FFF8EC. 4:5 aspect ratio, light wood background. No logos, no real people, no trademarked characters, no watermarks, no brand-like phone designs.",
+                  "purpose": "Listing cover",
+                  "tool": "Ideogram or ChatGPT images"
+                },
+                {
+                  "prompt": "Set of 8 cute flat icons on transparent background: coiled-cord phone, house, heart, star, smiling grandparent silhouette, two kids waving, message note, ringing bell. Colors #D64545 #F6D776 #7EC8E3 #2B2D42. 1:1, transparent background, consistent line weight. No logos, no real people, no trademarked characters, no watermarks.",
+                  "purpose": "Spot illustration set",
+                  "tool": "Ideogram"
+                }
+              ],
+              "listingPrompt": "Write an Etsy listing for a printable 'Kids' Home Phone Starter Kit' for children with a screenless landline-style home phone: picture contact cards and an A-Z phone book, button/quick labels in three sizes, how-to-call and answer-the-phone posters, a message pad, a call-a-friend chart, conversation cards, an emergency info page, a manners pledge and a holiday gift insert (US Letter and A4 PDF plus an editable template). Give a title under 140 characters front-loading 'kids landline phone'; 13 tags, each 20 characters or fewer; a description; and a 5-question FAQ (compatibility: 'works with any home phone'; printing; label paper; ages; refunds). Do not use any company or product names or trademarks, and make no safety guarantees.",
+              "marketing": {
+                "channels": [
+                  {
+                    "cadence": "5-8 pins per week, more in November",
+                    "channel": "Pinterest",
+                    "tactic": "Kids' home phone setup and gift pins"
+                  },
+                  {
+                    "cadence": "3 per week",
+                    "channel": "Short-form video",
+                    "tactic": "Hands-only setup demos and 'how my kid answers the phone' scripts"
+                  },
+                  {
+                    "cadence": "Weekly",
+                    "channel": "Parenting communities",
+                    "tactic": "Free message pad where allowed (check the community rules)"
+                  }
+                ],
+                "hooks": [
+                  "My kid's new home phone came with no manual for manners. So I made one.",
+                  "The phone book my 7-year-old can actually read.",
+                  "Wrapping a kids' landline for Christmas? Add this."
+                ],
+                "keywords": [
+                  "kids landline",
+                  "kids home phone",
+                  "phone book for kids",
+                  "phone manners kids",
+                  "message pad printable",
+                  "kids contact cards",
+                  "screen free gift"
+                ],
+                "launchPlan": [
+                  {
+                    "action": "Publish the listing with a flat-lay mockup beside a generic corded phone and a page-flip video.",
+                    "day": "Day 0"
+                  },
+                  {
+                    "action": "Pin 6 images: contact cards, message pad, answer-the-phone poster, gift insert, label sheet, emergency page.",
+                    "day": "Day 1"
+                  },
+                  {
+                    "action": "Post a short video of a child-safe setup demo (hands only): making the phone book with the kit.",
+                    "day": "Day 3"
+                  },
+                  {
+                    "action": "Offer the message pad free on Payhip for email sign-ups.",
+                    "day": "Day 6"
+                  },
+                  {
+                    "action": "Share in parenting and 'phone-free childhood' groups that allow resources (check the community rules).",
+                    "day": "Day 9"
+                  },
+                  {
+                    "action": "Add gift-focused tags and the holiday insert image; refresh the title if views are low.",
+                    "day": "Day 14"
+                  },
+                  {
+                    "action": "Start the 'under the tree' pin series for November.",
+                    "day": "Day 18"
+                  },
+                  {
+                    "action": "Go/pivot/stop check against thresholds.",
+                    "day": "Day 21"
+                  }
+                ],
+                "positioning": "Everything your kid needs to use their new home phone, from the first call to the message pad."
+              },
+              "platforms": [
+                {
+                  "name": "Etsy",
+                  "role": "primary",
+                  "why": "Parents searching for kids' printables and gifts."
+                },
+                {
+                  "name": "Payhip",
+                  "role": "secondary",
+                  "why": "Free message pad lead magnet."
+                },
+                {
+                  "name": "Pinterest",
+                  "role": "traffic",
+                  "why": "Gift and kids' activity pins with no audience needed."
+                }
+              ],
+              "pricing": {
+                "basis": "estimate",
+                "currency": "USD",
+                "high": 14,
+                "low": 6,
+                "rationale": "Niche kit with no direct competitor found. Priced as an add-on to a roughly $100 device purchase.",
+                "recommended": 9
+              },
+              "productName": "Kids' Home Phone Starter Kit",
+              "risks": [
+                "Device makers could bundle their own guides",
+                "Discovery depends on generic phrasing (brand terms are off-limits)",
+                "Holiday timing pressure"
+              ],
+              "superPrompt": "You are a children's educational printable designer. Create a complete printable kit called \"Kids' Home Phone Starter Kit\" for families who just got their child a screenless, landline-style home phone.\n\nBUYER AND JOB: Parents of 5-12-year-olds whose kids now have a home phone (corded or Wi-Fi landline-style) that can call only approved contacts. Kids have never used a phone like this. Parents need to teach calling skills, set up a contact list kids can read, and make the phone feel special, especially when it is a holiday gift.\n\nDELIVERABLE SPEC (US Letter 8.5x11 in and A4, each item its own page):\n1. \"My Phone Book\" contact cards: 4-up cards with Name, Picture box (draw or glue a photo), Number, \"Best time to call\", and a friendship-color dot; plus a matching rolodex-style divider set A-Z.\n2. Speed-dial and quick-label sheet: small label grids at three generic sizes (0.5x1.5 in, 0.75x2 in, 1-in circles) with icons (heart, house, star, smile, grandparent, friend) so families can label buttons or the wall chart. Note: \"Measure your phone's buttons first.\"\n3. \"How to Make a Call\" step poster (5 illustrated steps).\n4. \"How to Answer the Phone\" script poster, with 3 polite greeting scripts and a \"take a message\" script.\n5. Phone Message Pad (4-up message slips: For / From / Time / Message / Please call back).\n6. \"Call a Friend\" chart: weekly tracker for planning calls and playdates (child writes who they called and what they talked about).\n7. Conversation starter cards (24 original kid-friendly questions, cut-out).\n8. Emergency info sheet: blanks for address, parents' numbers, emergency number line (\"In the US, dial 911 for emergencies\"), and when to call for help, plus a \"practice my address and number\" page.\n9. \"Phone Manners Pledge\" with signature lines and a \"First Call\" certificate.\n10. Holiday gift insert: \"Your Phone Has Arrived!\" card with To/From.\n\nDESIGN: Retro-cozy 1990s home-phone feel with original artwork. Pairings: (a) \"Baloo 2 Bold\" + \"Nunito\"; (b) \"Cherry Bomb One\" + \"Quicksand\". Palette: Rotary Red #D64545, Butter #F6D776, Sky #7EC8E3, Mint #A8E6CF, Cream #FFF8EC, Ink #2B2D42. Illustrations: a generic coiled-cord phone with no brand, a tin-can-and-string motif drawn as a classic toy (not any company's logo), stars and hearts.\n\nRULES: Original text; ages 5-12 reading level with picture support. Never mention any company, product name or logo. No safety guarantees; the emergency page tells families to confirm local emergency numbers. Keep the content inclusive (all family types, grandparents, caregivers).\n\nDIFFERENTIATION: Generic phone-number worksheets exist, but nothing is made for kids' home phones: readable contact cards, button labels, calling and messaging scripts, and a gift insert.\n\nOUTPUT: Page by page with exact text, card counts, label dimensions and layout notes. End with a self-check: 10 items present; both paper sizes; label sizes stated; no brand names or logos; emergency wording correct for the US; reading level appropriate."
+            },
+            "rightsNote": "Don't use any kids'-phone company or product name (including the brand that shares the 'tin can' phrase) in titles or tags. Use 'kids home phone' or 'kids landline'. Artwork must be generic and original.",
+            "stopIf": "Under 300 views and no sales by Nov 15.",
+            "theme": "Kids' Home Phone Starter Kit: picture contact cards and A-Z phone book, button/quick labels, how-to-call and answer-the-phone posters, message pad, call-a-friend chart, emergency info page, holiday gift insert",
+            "validationTest": "List by mid-October; 6 pins/week plus 3 short videos; track favorites and sales through Nov 15.",
+            "whyBuy": "Kids have never used a home phone. Parents want them to learn manners and calling skills, have a readable contact list, and make the gift feel special."
+          },
+          {
+            "buyer": "Parents of 6-12-year-olds whose kids swap home-phone numbers with friends",
+            "channels": [
+              "Etsy",
+              "Pinterest"
+            ],
+            "continueIf": "3+ sales in 21 days or a bundle attach rate above 30%.",
+            "differentiation": "Parent-approval fields built in for closed-network kids' phones.",
+            "effort": "low",
+            "effortHours": 8,
+            "evidence": [
+              "e13",
+              "e5",
+              "e9"
+            ],
+            "format": "template",
+            "fulfillment": "digital",
+            "leadTimeDays": 3,
+            "pivotIf": "Low standalone interest: fold into the Starter Kit as a bonus.",
+            "playbook": {
+              "assembly": [
+                "Generate the text and design descriptions with the super prompt.",
+                "In Canva, create a 3.5x2 in design; build 12 front/back designs.",
+                "Make a 10-up US Letter and A4 print sheet with crop marks.",
+                "Build the envelope template and sticker sheet.",
+                "Share the editable Canva template link and export print-ready PDFs at 300 DPI.",
+                "Create mockups and a bundle listing with the Starter Kit."
+              ],
+              "asymmetry": {
+                "badBetIf": "Sold alone without the Starter Kit traffic.",
+                "downside": "About 8 hours. A small standalone market.",
+                "upside": "Raises the Starter Kit's average order value at zero marginal cost."
+              },
+              "costs": {
+                "baseCost": null,
+                "basis": "estimate: digital product",
+                "item": null,
+                "provider": null,
+                "shipping": null,
+                "testBudget": 0,
+                "testBudgetNote": "No paid test; bundle-driven."
+              },
+              "extensions": [
+                "Playdate invitation set",
+                "Seasonal designs",
+                "Classroom pen-pal version"
+              ],
+              "imagePrompts": [
+                {
+                  "prompt": "A fan of colorful kids' business-style cards with playful original illustrations (rainbow, dinosaur, rocket, kitty), front text 'MAYA - Official Caller', a small envelope reading 'Friend Swap'. Palette #FF8FAB #7B5EA7 #FFE66D #4ECDC4 on cream #FFF8EC. 4:5 aspect ratio. No logos, no real people, no trademarked characters, no watermarks.",
+                  "purpose": "Listing cover",
+                  "tool": "Ideogram or ChatGPT images"
+                }
+              ],
+              "listingPrompt": "Write an Etsy listing for editable 'Kids' Calling Cards': 12 retro business-card designs (3.5x2 in) for kids to swap home-phone numbers with friends, each with a parent-approval line on the back, plus a friend-swap envelope and 'call me' stickers (editable template plus US Letter and A4 PDFs). Give a title under 140 characters front-loading 'kids calling cards'; 13 tags, each 20 characters or fewer; a description; and an FAQ including a privacy tip. No character, company or product trademarks.",
+              "marketing": {
+                "channels": [
+                  {
+                    "cadence": "5-8 pins per week, more in November",
+                    "channel": "Pinterest",
+                    "tactic": "Kids' home phone setup and gift pins"
+                  },
+                  {
+                    "cadence": "3 per week",
+                    "channel": "Short-form video",
+                    "tactic": "Hands-only setup demos and 'how my kid answers the phone' scripts"
+                  },
+                  {
+                    "cadence": "Weekly",
+                    "channel": "Parenting communities",
+                    "tactic": "Free message pad where allowed (check the community rules)"
+                  }
+                ],
+                "hooks": [
+                  "My kid handed out calling cards at school. The other parents loved it.",
+                  "Retro calling cards for kids with a home phone."
+                ],
+                "keywords": [
+                  "kids calling cards",
+                  "playdate cards",
+                  "kids business cards",
+                  "kids landline",
+                  "phone number cards",
+                  "friend cards kids"
+                ],
+                "launchPlan": [
+                  {
+                    "action": "Publish the listing with a flat-lay mockup beside a generic corded phone and a page-flip video.",
+                    "day": "Day 0"
+                  },
+                  {
+                    "action": "Pin 6 images: contact cards, message pad, answer-the-phone poster, gift insert, label sheet, emergency page.",
+                    "day": "Day 1"
+                  },
+                  {
+                    "action": "Post a short video of a child-safe setup demo (hands only): making the phone book with the kit.",
+                    "day": "Day 3"
+                  },
+                  {
+                    "action": "Offer the message pad free on Payhip for email sign-ups.",
+                    "day": "Day 6"
+                  },
+                  {
+                    "action": "Share in parenting and 'phone-free childhood' groups that allow resources (check the community rules).",
+                    "day": "Day 9"
+                  },
+                  {
+                    "action": "Add gift-focused tags and the holiday insert image; refresh the title if views are low.",
+                    "day": "Day 14"
+                  },
+                  {
+                    "action": "Start the 'under the tree' pin series for November.",
+                    "day": "Day 18"
+                  },
+                  {
+                    "action": "Go/pivot/stop check against thresholds.",
+                    "day": "Day 21"
+                  }
+                ],
+                "positioning": "Like business cards, but for 8-year-olds with a home phone."
+              },
+              "platforms": [
+                {
+                  "name": "Etsy",
+                  "role": "primary",
+                  "why": "Kids' printable stationery category."
+                },
+                {
+                  "name": "Pinterest",
+                  "role": "traffic",
+                  "why": "Visual cards pin well."
+                }
+              ],
+              "pricing": {
+                "basis": "estimate",
+                "currency": "USD",
+                "high": 8,
+                "low": 4,
+                "rationale": "Impulse add-on; bundled with the Starter Kit at $12.",
+                "recommended": 5
+              },
+              "productName": "Kids' Calling Cards",
+              "risks": [
+                "Small standalone demand",
+                "Privacy concerns, so keep first-name-only fronts"
+              ],
+              "superPrompt": "You are a stationery designer. Produce an editable \"Kids' Calling Cards\" template set for children who have their own home phone and want to swap numbers with friends at school or activities (like retro business cards).\n\nBUYER AND JOB: Parents of kids aged 6-12 with a home phone that only calls approved contacts. Kids hand a card to a friend; the friend's parent sets up the contact. The card carries the details the other parent needs.\n\nDELIVERABLE SPEC:\n- 12 original card designs at standard 3.5x2 in business-card size, front and back, plus a 10-up US Letter and A4 print sheet with crop marks.\n- Front: child's first name, a fun title line (\"Official Caller\", \"Chief Chatter\", \"Best Phone Friend\"), and an illustration.\n- Back: \"Call me at: ____\", \"Grown-up's name: ____\", \"Grown-up's number (to approve contacts): ____\", \"Best times to call: ____\", and a small note line: \"Ask your grown-up to add me!\"\n- Themes: rainbow, dinosaurs, space, kitty, soccer, ballet, robots (generic, original), ocean, garden, rocket, retro 90s squiggles, plain classic.\n- A matching \"Friend Swap\" pocket envelope template (printable, fold-and-glue) and a sheet of 20 small sticker labels with \"Call me!\" phrasing.\n- A one-page parent note explaining how to use the cards with any home phone that has approved contacts (no brand names).\n\nDESIGN: Pairings: (a) \"Fredoka\" + \"Nunito\"; (b) \"Gochi Hand\" + \"Quicksand\". Palette: Bubblegum #FF8FAB, Grape #7B5EA7, Lemon #FFE66D, Teal #4ECDC4, Cream #FFF8EC, Ink #2B2D42.\n\nRULES: Original artwork descriptions only; no characters from films, shows or games; no company or product names. Privacy note in the parent page: only share cards with people you know; first names only on the front.\n\nDIFFERENTIATION: Made for the kids' home-phone moment (a parent-approval line on every card), unlike generic kids' business cards. Write the title lines and parent note in a warm, playful voice that a 7-year-old can read aloud, and make every design print well on a home inkjet printer (avoid full-bleed dark backgrounds and keep text at least 0.125 in from the trim edge).\n\nOUTPUT: For each of the 12 designs, give the exact text and an illustration description; then the print-sheet specs, envelope template dimensions, sticker sheet layout and the parent note. End with a self-check: 12 designs; card size 3.5x2 in; parent approval line on every back; no IP; privacy note included."
+            },
+            "rightsNote": "No film, show or game characters and no company names. Original themes only.",
+            "stopIf": "No favorites in 21 days.",
+            "theme": "Editable 'Kids' Calling Cards' (retro business-card style): 12 designs with a parent-approval line on the back, a friend-swap envelope and 'call me' stickers",
+            "validationTest": "List as a standalone and as a bundle add-on to the Starter Kit; compare favorites over 21 days.",
+            "whyBuy": "Approved-contact phones need the other parent's details to add a friend. A cute card makes the swap easy and fun."
+          }
+        ],
+        "recommendedAction": "test_now",
+        "rights": {
+          "note": "The leading brand's name includes the common phrase 'tin can'. Avoid it and all company and product names in titles, tags and art. Draw only generic phones.",
+          "risk": "medium"
+        },
+        "scores": {
+          "buyerIntent": {
+            "basis": "reported",
+            "rationale": "Strong purchase evidence for the device; accessory intent is inferred from parent tips.",
+            "score": 3
+          },
+          "durability": {
+            "basis": "qualitative",
+            "rationale": "Depends on the device category continuing to grow.",
+            "score": 3
+          },
+          "economics": {
+            "basis": "qualitative",
+            "rationale": "Zero marginal cost and a gift add-on.",
+            "score": 4
+          },
+          "productFit": {
+            "basis": "qualitative",
+            "rationale": "Printables fit the setup and teaching need.",
+            "score": 4
+          },
+          "supplyGap": {
+            "basis": "qualitative",
+            "rationale": "No direct printable competitors found.",
+            "score": 4
+          },
+          "timing": {
+            "basis": "reported",
+            "rationale": "The device trend is about 18 months old but still accelerating, and the printable angle is untouched.",
+            "score": 3
+          }
+        },
+        "spread": {
+          "evidence": [
+            "e1",
+            "e4",
+            "e9",
+            "e10",
+            "e11",
+            "e14"
+          ],
+          "text": "National, business and regional press in the US and Canada, a late-night TV mention, and new local TV coverage on Sept 30 and Oct 2, 2026."
+        },
+        "summary": "Parents are buying screenless, landline-style home phones that call only approved contacts. Batches sell out, a second maker launched in July 2026, and coverage continued into early October with holiday-gift predictions.",
+        "trajectory": {
+          "evidence": [
+            "e5",
+            "e8",
+            "e9",
+            "e12"
+          ],
+          "stage": "early_growth",
+          "text": "Still accelerating: a new market entrant, continuing coverage and holiday 2026 gift predictions. Supply constraints (waitlists) suggest demand exceeds production."
+        },
+        "unresolved": [
+          "Whether Etsy shoppers search for 'kids landline' accessories (watch listing views)",
+          "Whether device makers include their own contact cards",
+          "Holiday stock levels: sell-outs could cap the number of new owners"
+        ],
+        "what": "Wi-Fi landline-style phones with handsets and speed-dial buttons let kids aged about 5-13 call approved friends and family, with no apps or screen. Parents use them to delay smartphones and to teach phone skills. Kids are learning to use a home phone, including contact lists, manners and taking messages.",
+        "window": {
+          "endEstimate": null,
+          "estimate": "Strong through holiday 2026 and into 2027",
+          "invalidators": [
+            "Device makers bundle their own printed kits",
+            "Safety or service problems hit the leading device"
+          ],
+          "reasoning": "Devices are supply-constrained and predicted as top Christmas 2026 gifts. Phone-skills teaching is evergreen while the category grows.",
+          "seasonality": "Holiday gifting peak (Nov-Dec); birthdays year-round.",
+          "sellBy": "2026-12-15"
+        }
+      }
+    ],
+    "kind": "discover",
+    "lens": "First-spark hunt: new consumer tech habits (printables/templates)",
+    "researchedAt": "2026-10-05T00:02:26Z",
+    "sourcesTried": [
+      {
+        "method": "search",
+        "note": "About 45 queries across TikTok trend roundups, Know Your Meme, tech press, parenting and campus news, and marketplace listings.",
+        "source": "WebSearch (standard and extended)",
+        "status": "ok"
+      },
+      {
+        "method": "WebFetch",
+        "note": "Egress blocked; used the search-result summary only.",
+        "source": "napoleoncat.com TikTok trends Oct 2026",
+        "status": "blocked"
+      },
+      {
+        "method": "WebFetch",
+        "note": "Egress blocked; used the search-result summary only.",
+        "source": "newengen.com October and September TikTok trends",
+        "status": "blocked"
+      },
+      {
+        "method": "WebFetch",
+        "note": "Egress blocked.",
+        "source": "anijam.ai TikTok trends Sept 2026",
+        "status": "blocked"
+      },
+      {
+        "method": "WebFetch",
+        "note": "Egress blocked; used search results.",
+        "source": "nyunews.com (Washington Square News)",
+        "status": "blocked"
+      },
+      {
+        "method": "WebFetch",
+        "note": "Egress blocked; used search results.",
+        "source": "offline.community (Month Offline)",
+        "status": "blocked"
+      },
+      {
+        "method": "WebFetch",
+        "note": "Egress blocked; used search results for the wflx/kold copies.",
+        "source": "hometownstations.com (Gray TV syndicated story)",
+        "status": "blocked"
+      },
+      {
+        "method": "WebFetch",
+        "note": "Egress blocked; trend date could not be verified.",
+        "source": "pasqualepillitteri.it (ChatGPT goodbye trend)",
+        "status": "blocked"
+      },
+      {
+        "method": "search results only",
+        "note": "Video and discover pages seen only as search results; dates of two videos inferred from their numeric IDs.",
+        "source": "TikTok",
+        "status": "ok"
+      },
+      {
+        "method": "search results only",
+        "note": "Listings seen as search results; no sales data available.",
+        "source": "Etsy / Gumroad / Payhip",
+        "status": "ok"
+      },
+      {
+        "method": "not attempted",
+        "note": "Usually blocked; no search-interest data used.",
+        "source": "Google Trends",
+        "status": "not_tried"
+      },
+      {
+        "method": "not attempted",
+        "note": "Usually blocked.",
+        "source": "Reddit",
+        "status": "not_tried"
+      }
+    ]
+  },
+  "runId": "run-hunt-tech-20261004-3",
+  "status": "new"
+}

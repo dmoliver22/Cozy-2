@@ -1,0 +1,231 @@
+{
+  "actionRationale": "The newcomer wave is real and spreading, but the evidence shows demand for physical kits, not for digital trackers, and supply wasn't fully checked. Build the stash/project journal for a mid-November launch and treat it as a low-cost test.",
+  "adopters": {
+    "evidence": [
+      "needlepoint-revival~18f0d86e",
+      "needlepoint-revival~fccc46ba",
+      "needlepoint-revival~22c4e9c6",
+      "needlepoint-revival~b2a3b236"
+    ],
+    "text": "Gen Z and younger millennial women seeking a screen-free, social hobby; hosts of home stitch nights; shops running weekly clubs."
+  },
+  "aliases": [
+    "needlepoint",
+    "stitch club",
+    "stitch night",
+    "grandma hobbies",
+    "canvas work",
+    "Needlepoint revival among Gen Z and millennials (stitch nights)"
+  ],
+  "category": "hobby",
+  "channels": [
+    "Etsy",
+    "Amazon KDP",
+    "Pinterest",
+    "Instagram"
+  ],
+  "competition": {
+    "evidence": [
+      "needlepoint-revival~10e0970f",
+      "needlepoint-revival~5352fdba",
+      "needlepoint-revival~db37cd8c",
+      "needlepoint-revival~027ee238",
+      "needlepoint-revival~98910356"
+    ],
+    "level": "moderate",
+    "text": "Moderate: two apps (one free), a published journal and at least one Substack printable series target needlepoint organizing, plus many adjacent cross-stitch planners. The volume of needlepoint-specific printables on Etsy was not checked."
+  },
+  "editorialNotes": [
+    "Editorial review 2026-10-04: Relabeled \"YPulse\" from curiosity to purchase intent: beginner kits reported selling out is a purchase signal.",
+    "Editorial review 2026-10-04: Relabeled \"AbeBooks (book listing)\" from purchase intent to context only: a published journal is supply.",
+    "Editorial review 2026-10-04: Relabeled \"HiFi Makes (Substack)\" from purchase intent to context only: a creator selling printables is supply.",
+    "Editorial review 2026-10-04: Relabeled \"Gumroad seller\" from purchase intent to context only: adjacent planners for sale are supply."
+  ],
+  "effortMin": "low",
+  "firstSeenAt": "2026-10-04T21:01:01.000Z",
+  "formats": [
+    "journal",
+    "printable"
+  ],
+  "gap": {
+    "isInference": true,
+    "text": "A stylish paper/printable canvas-stash and project journal made for needlepoint workflows (mesh count, kitted status, thread by brand/number, finisher and finishing-deadline tracker for holiday ornaments and stockings) may be thinner than for cross-stitch, along with stitch-night hosting printables. Both are inference; the finishing-deadline need is an assumption about the hobby and was not checked in this session."
+  },
+  "id": "needlepoint-revival",
+  "jobId": null,
+  "language": "en",
+  "lastRunId": "run-2026-10-04-hobbies",
+  "lens": "Discovery scan: hobbies & practical niches",
+  "name": "Needlepoint revival",
+  "origin": {
+    "date": null,
+    "evidence": [
+      "needlepoint-revival~22c4e9c6",
+      "needlepoint-revival~18f0d86e"
+    ],
+    "text": "A traditional craft; the youth wave is attributed by shop owners to needlepoint 'blowing up' on TikTok in 2024."
+  },
+  "productDemand": {
+    "evidence": [
+      "needlepoint-revival~18f0d86e",
+      "needlepoint-revival~54b00bc8",
+      "needlepoint-revival~10e0970f",
+      "needlepoint-revival~5352fdba",
+      "needlepoint-revival~db37cd8c"
+    ],
+    "text": "Strong spending on physical goods (kits selling out, a multimillion-dollar needlepoint business). New tracking apps and a published journal suggest an organizing need. Demand for paid digital trackers specifically was not observed."
+  },
+  "products": [
+    {
+      "buyer": "Newer needlepoint stitchers with a growing canvas and thread stash; gift-givers for stitchers",
+      "channels": [
+        "Etsy",
+        "Amazon KDP",
+        "Pinterest",
+        "Instagram"
+      ],
+      "continueIf": "At least 5 sales or at least 400 views with 30+ favorites by Dec 10.",
+      "differentiation": "Needlepoint-specific fields (mesh, kitted status, finishing) instead of generic cross-stitch planners; preppy-modern styling suited to the younger audience.",
+      "effort": "medium",
+      "effortHours": 12,
+      "evidence": [
+        "needlepoint-revival~18f0d86e",
+        "needlepoint-revival~10e0970f",
+        "needlepoint-revival~5352fdba",
+        "needlepoint-revival~db37cd8c",
+        "needlepoint-revival~027ee238"
+      ],
+      "format": "journal",
+      "fulfillment": "digital",
+      "leadTimeDays": 4,
+      "pivotIf": "Views without sales: drop to a $4 stash-tracker-only version or bundle with the stitch-night kit.",
+      "rightsNote": "Original decorative art only; no designer canvas images.",
+      "stopIf": "Under 100 views by Dec 10.",
+      "theme": "Needlepoint project journal and canvas stash log (printable PDF plus KDP paperback): canvas inventory (designer, size, mesh, kitted Y/N, price), thread stash by brand/color number, per-project log with stitch notes, finisher tracker with due dates, and 2027 stitch goals",
+      "validationTest": "List the printable at $8 by Nov 10; 10 Pinterest pins plus 3 stitch-night Instagram posts; check views and sales by Dec 10 before doing the KDP version.",
+      "whyBuy": "Stitchers who buy many canvases need to track them; apps exist, which suggests the need, but some prefer paper."
+    },
+    {
+      "buyer": "Hosts of home or shop stitch nights",
+      "channels": [
+        "Etsy",
+        "Pinterest",
+        "Instagram"
+      ],
+      "continueIf": "At least 3 sales in 21 days.",
+      "differentiation": "Built for needlepoint gatherings specifically (swap tickets, project cards) rather than generic party printables.",
+      "effort": "low",
+      "effortHours": 6,
+      "evidence": [
+        "needlepoint-revival~e6d55b38",
+        "needlepoint-revival~fccc46ba",
+        "needlepoint-revival~18f0d86e"
+      ],
+      "format": "printable",
+      "fulfillment": "digital",
+      "leadTimeDays": 2,
+      "pivotIf": "Generalize to a 'craft night' kit covering knitting and crochet groups.",
+      "rightsNote": "Original illustrations.",
+      "stopIf": "Under 75 views in 21 days.",
+      "theme": "Stitch-night host kit: invitation, sign-in sheet, name tags, 'what I'm stitching' cards, canvas-swap tickets, and a snack/drink menu card",
+      "validationTest": "List at $6; measure views and sales over 21 days alongside the journal.",
+      "whyBuy": "Craft-night and girls'-night-craft searches are reported up sharply, and stitch nights are the social core of the revival."
+    }
+  ],
+  "qualityFlags": [],
+  "recommendedAction": "prepare",
+  "region": "US",
+  "researchedAt": "2026-10-04T21:01:01Z",
+  "rights": {
+    "note": "Do not reproduce designers' hand-painted canvas art or paid stitch guides; draw original motifs. Press ties the craft to celebrities, so avoid celebrity names or likenesses.",
+    "risk": "low"
+  },
+  "runIds": [
+    "run-2026-10-04-hobbies"
+  ],
+  "scores": {
+    "buyerIntent": {
+      "basis": "reported",
+      "rationale": "Physical kit sell-outs are reported; intent for digital trackers is unverified.",
+      "score": 3
+    },
+    "durability": {
+      "basis": "qualitative",
+      "rationale": "Social stitch clubs and retail investment suggest staying power beyond a fad.",
+      "score": 4
+    },
+    "economics": {
+      "basis": "qualitative",
+      "rationale": "$6-13 printable/KDP price points; stitchers spend heavily on canvases, so price sensitivity may be low (inference).",
+      "score": 3
+    },
+    "productFit": {
+      "basis": "qualitative",
+      "rationale": "Printable and KDP journals are straightforward; needs hobby-accurate fields.",
+      "score": 4
+    },
+    "supplyGap": {
+      "basis": "qualitative",
+      "rationale": "Fewer needlepoint-specific trackers seen than for cross-stitch, but a free app competes and Etsy was not checked.",
+      "score": 3
+    },
+    "timing": {
+      "basis": "qualitative",
+      "rationale": "The wave is established among young stitchers and Q4/New Year suits trackers, but the growth phase started in 2024.",
+      "score": 3
+    }
+  },
+  "source": "research",
+  "spread": {
+    "evidence": [
+      "needlepoint-revival~18f0d86e",
+      "needlepoint-revival~e6d55b38",
+      "needlepoint-revival~fccc46ba",
+      "needlepoint-revival~b2a3b236",
+      "needlepoint-revival~2c2bc2bb",
+      "needlepoint-revival~5481d8f6",
+      "needlepoint-revival~4e407d19",
+      "needlepoint-revival~2759b357"
+    ],
+    "text": "From TikTok to national youth and business press (YPulse, Fortune, CBS) and regional outlets (News 12, D Magazine), and into municipal and museum beginner classes; Michaels' trend report also flags it."
+  },
+  "summary": "Young women are taking up needlepoint, stitching hand-painted canvases at home and at shop 'stitch nights', driven by TikTok and a wish to put phones down.",
+  "topicKeys": [
+    "phrase:needlepoint revival",
+    "phrase:needlepoint",
+    "phrase:stitch club",
+    "phrase:stitch night",
+    "phrase:grandma hobbies",
+    "phrase:canvas work",
+    "phrase:needlepoint revival among gen z and millennials stitch nights"
+  ],
+  "trajectory": {
+    "evidence": [
+      "needlepoint-revival~18f0d86e",
+      "needlepoint-revival~8d46621f",
+      "needlepoint-revival~2c2bc2bb",
+      "needlepoint-revival~5481d8f6"
+    ],
+    "stage": "early_growth",
+    "text": "Coverage continues from Jan to Aug 2026 and beginner programming is spreading, but hard participation numbers are lacking; reported search growth (needlepoint +251% YoY) has unconfirmed attribution."
+  },
+  "unresolved": [
+    "Count and pricing of needlepoint-specific journals and printables on Etsy (not checked; search budget exhausted).",
+    "Hard participation or sales figures for the youth wave (beyond anecdotes and a multi-source +251% search figure with unconfirmed attribution).",
+    "Whether Q4 ornament and stocking finishing deadlines are a real pain point (assumed, not verified).",
+    "Unit of the 'eight-year projection in five' shop anecdote (summaries disagree)."
+  ],
+  "what": "Needlepoint is stitching wool or silk thread through a stiff mesh canvas, usually hand-painted by a designer. A 2024 TikTok wave pulled younger stitchers into local shops, and in 2026 beginner kits, stitch clubs and public beginner classes are spreading. Stitchers manage stashes of canvases and threads, track projects, and send finished pieces to 'finishers' (e.g., ornaments, pillows).",
+  "window": {
+    "endEstimate": null,
+    "estimate": "Nov 2026 to Jan 2027 (gifts for stitchers, New-Year stitch goals), then evergreen.",
+    "invalidators": [
+      "Free apps (Stitchpoint) absorb the organizing need",
+      "Etsy turns out to be saturated with needlepoint journals",
+      "The youth wave cools before January"
+    ],
+    "reasoning": "Craft trackers sell around gifting and New-Year goals; the hobby wave has run since 2024 and still drew coverage in Aug 2026.",
+    "seasonality": "Holiday gifting and ornament/stocking stitching in Q4 (assumed); New-Year goal setting in January.",
+    "sellBy": null
+  }
+}

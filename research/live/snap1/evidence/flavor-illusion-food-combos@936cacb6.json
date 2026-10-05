@@ -1,0 +1,19 @@
+{
+  "accessMethod": "web_search_result",
+  "candidateId": "flavor-illusion-food-combos",
+  "claim": "TikTok has a discover page for the search phrase, indicating repeated user searches/posts",
+  "excerpt": "TikTok discover page title: Trying Food Combos That Taste Like Other Foods.",
+  "firstRetrievedAt": "2026-10-05T00:01:02Z",
+  "firstSeenRunId": "run-hunt-foodhome-20261004-1",
+  "id": "flavor-illusion-food-combos~936cacb6",
+  "intent": "curiosity",
+  "kind": "observed",
+  "lastSeenRunId": "run-hunt-foodhome-20261004-1",
+  "publishedAt": null,
+  "publisher": "TikTok",
+  "retrievedAt": "2026-10-05T00:01:02Z",
+  "signalType": "social",
+  "syndicationOf": null,
+  "title": "Trying Food Combos That Taste Like Other Foods",
+  "url": "https://www.tiktok.com/discover/trying-food-combos-that-taste-like-other-foods"
+}

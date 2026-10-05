@@ -1,0 +1,19 @@
+{
+  "accessMethod": "web_search_result",
+  "candidateId": "kinda-chic-kinda-chic-to",
+  "claim": "A sports-parent 'Kinda Chic Trend' variant is listed, and the seller names the trend explicitly in the title.",
+  "excerpt": "Listing title only.",
+  "firstRetrievedAt": "2026-10-04T20:57:55Z",
+  "firstSeenRunId": "run-2026-10-04-memes",
+  "id": "kinda-chic-kinda-chic-to~de17a44f",
+  "intent": "none",
+  "kind": "observed",
+  "lastSeenRunId": "run-2026-10-04-memes",
+  "publishedAt": null,
+  "publisher": "Etsy",
+  "retrievedAt": "2026-10-04T20:57:55Z",
+  "signalType": "marketplace",
+  "syndicationOf": null,
+  "title": "Kinda Chic Trend Volleyball Mom Gift Sweatshirt Women Pink Crewneck Pullover Casual Wear Game Day Clothing Athletic Supporter Apparel Team - Etsy",
+  "url": "https://www.etsy.com/listing/4549965233/kinda-chic-trend-volleyball-mom-gift"
+}

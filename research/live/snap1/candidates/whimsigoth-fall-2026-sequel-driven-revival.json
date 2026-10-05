@@ -1,0 +1,175 @@
+{
+  "actionRationale": "Press interest is real and spread across independent outlets, and Halloween sets a deadline, but no evidence shows people buying decor because of it, and supply is heavy. Build and list the set this week, since listing costs almost nothing. Spend nothing on ads unless organic views show traction.",
+  "adopters": {
+    "evidence": [
+      "whimsigoth-fall-2026-sequel-driven-revival~84a7044e",
+      "whimsigoth-fall-2026-sequel-driven-revival~bbe69193",
+      "whimsigoth-fall-2026-sequel-driven-revival~9903999d"
+    ],
+    "text": "Women 20-45 into seasonal and witchy decor and fashion, home stagers, gardeners. Editors are styling it explicitly."
+  },
+  "aliases": [
+    "whimsigoth",
+    "whimsigothic decor",
+    "90s witchy aesthetic"
+  ],
+  "category": "aesthetic",
+  "channels": [
+    "Etsy",
+    "Pinterest",
+    "TikTok"
+  ],
+  "competition": {
+    "evidence": [
+      "whimsigoth-fall-2026-sequel-driven-revival~e2fb9bdd",
+      "whimsigoth-fall-2026-sequel-driven-revival~9676d0e1"
+    ],
+    "level": "high",
+    "text": "Celestial and witchy printables are well supplied on Etsy and other marketplaces."
+  },
+  "editorialNotes": [],
+  "effortMin": "low",
+  "firstSeenAt": "2026-10-05T00:00:22.311Z",
+  "formats": [
+    "printable"
+  ],
+  "gap": {
+    "isInference": true,
+    "text": "The open space is a tight fall/Halloween whimsigoth set in a real jewel-tone palette (plum, peacock, antique gold), sold as a coordinated gallery wall. Most supply is single moon prints or huge generic bundles."
+  },
+  "id": "whimsigoth-fall-2026-sequel-driven-revival",
+  "jobId": "hunt-aesthetics-20261004",
+  "language": "en",
+  "lastRunId": "run-hunt-aesthetics-20261004-3",
+  "lens": "First-spark hunt: new aesthetics and visual micro-trends",
+  "name": "Whimsigoth fall 2026 (sequel-driven revival)",
+  "origin": {
+    "date": "2026-09-13",
+    "evidence": [
+      "whimsigoth-fall-2026-sequel-driven-revival~3f7774c6",
+      "whimsigoth-fall-2026-sequel-driven-revival~84a7044e"
+    ],
+    "text": "Whimsigoth is a 1990s aesthetic, documented on Wikipedia. The current surge dates from fall-trend coverage (Inman, Sept 11) and the sequel's #1 opening (reported Sept 13, 2026)."
+  },
+  "productDemand": {
+    "evidence": [
+      "whimsigoth-fall-2026-sequel-driven-revival~3f7774c6",
+      "whimsigoth-fall-2026-sequel-driven-revival~3b9b8e18"
+    ],
+    "text": "Ticket sales show interest in the film, not demand for decor. Editorial shopping guides are supply. No direct evidence of decor purchases tied to the trend was found."
+  },
+  "products": [
+    {
+      "buyer": "Women 20-45 decorating for fall and Halloween in a moody, romantic witchy style",
+      "channels": [
+        "Etsy",
+        "Pinterest",
+        "TikTok"
+      ],
+      "continueIf": "At least 5 sales by Oct 31",
+      "differentiation": "A tight 9-print gallery wall in one jewel-tone palette with a layout guide, rather than single moon prints or 100-file dumps",
+      "effort": "low",
+      "effortHours": 8,
+      "evidence": [
+        "whimsigoth-fall-2026-sequel-driven-revival~84a7044e",
+        "whimsigoth-fall-2026-sequel-driven-revival~2b6c8b67",
+        "whimsigoth-fall-2026-sequel-driven-revival~bbe69193"
+      ],
+      "format": "printable",
+      "fulfillment": "digital",
+      "leadTimeDays": 2,
+      "pivotIf": "Favorites but few sales: split into 3-print sets at $5 and add a winter-solstice version",
+      "rightsNote": "No film references in title, tags or art; original tarot-style imagery only",
+      "stopIf": "Under 100 views by Oct 20",
+      "theme": "Whimsigoth jewel-tone gallery wall set: celestial, apothecary and botanical prints",
+      "validationTest": "List the 9-print set by Oct 8; 20 Pinterest pins; 3 Reels/TikToks of the layout",
+      "whyBuy": "Instant, cheap way to get the season's witchy look on the wall before Halloween, as a set that matches"
+    }
+  ],
+  "qualityFlags": [],
+  "recommendedAction": "prepare",
+  "region": "US",
+  "researchedAt": "2026-10-04T23:58:00Z",
+  "rights": {
+    "note": "Never use the film title, character names, the house design, quotes or stills. 'Whimsigoth' is a generic aesthetic term. Keep all imagery original. Tarot imagery must be original, not a copy of a published deck.",
+    "risk": "medium"
+  },
+  "runIds": [
+    "run-hunt-aesthetics-20261004-3"
+  ],
+  "scores": {
+    "buyerIntent": {
+      "basis": "qualitative",
+      "rationale": "Editorial and shopping interest, no direct purchase data",
+      "score": 2
+    },
+    "durability": {
+      "basis": "qualitative",
+      "rationale": "Witchy/celestial decor is perennial",
+      "score": 4
+    },
+    "economics": {
+      "basis": "qualitative",
+      "rationale": "Digital, zero marginal cost",
+      "score": 4
+    },
+    "productFit": {
+      "basis": "qualitative",
+      "rationale": "Wall art and stickers fit the aesthetic perfectly",
+      "score": 5
+    },
+    "supplyGap": {
+      "basis": "qualitative",
+      "rationale": "Heavy celestial/witchy supply",
+      "score": 1
+    },
+    "timing": {
+      "basis": "reported",
+      "rationale": "Mainstream press is already on it; late for Halloween",
+      "score": 3
+    }
+  },
+  "source": "research",
+  "spread": {
+    "evidence": [
+      "whimsigoth-fall-2026-sequel-driven-revival~84a7044e",
+      "whimsigoth-fall-2026-sequel-driven-revival~3b9b8e18",
+      "whimsigoth-fall-2026-sequel-driven-revival~2b6c8b67",
+      "whimsigoth-fall-2026-sequel-driven-revival~bbe69193",
+      "whimsigoth-fall-2026-sequel-driven-revival~9903999d"
+    ],
+    "text": "Independent pickup across real-estate trade press, a national TV shopping segment, design press, fashion and gardening sites, all within about three weeks."
+  },
+  "summary": "The 90s whimsical-gothic aesthetic (velvet, celestial motifs, apothecary jars, jewel tones) is being pushed as fall 2026's top design trend after a witch-film sequel opened at #1 in September.",
+  "topicKeys": [
+    "phrase:whimsigoth fall 2026 sequel driven revival",
+    "phrase:whimsigoth",
+    "phrase:whimsigothic decor",
+    "phrase:90s witchy aesthetic"
+  ],
+  "trajectory": {
+    "evidence": [
+      "whimsigoth-fall-2026-sequel-driven-revival~3f7774c6",
+      "whimsigoth-fall-2026-sequel-driven-revival~2b6c8b67",
+      "whimsigoth-fall-2026-sequel-driven-revival~6799a76d"
+    ],
+    "stage": "early_growth",
+    "text": "Rising into Halloween with mainstream press support. The film got mixed reviews, so the aesthetic has to carry itself after October. Celestial and witchy decor has a long evergreen tail."
+  },
+  "unresolved": [
+    "Do Etsy/Pinterest show whimsigoth search spikes in October 2026?",
+    "Does interest hold after Halloween without the film?"
+  ],
+  "what": "Whimsigoth mixes dark gothic tones with romantic, celestial and botanical touches: jewel-tone velvet, moons and stars, dried herbs in jars, ornate frames. The aesthetic already existed. In September 2026, home, fashion and gardening press tied a fresh surge to a 90s witch-film sequel that opened #1 at the box office.",
+  "window": {
+    "endEstimate": null,
+    "estimate": "Peak now through Halloween; evergreen tail into winter",
+    "invalidators": [
+      "Film interest collapses after mixed reviews",
+      "Halloween demand ends before listings index"
+    ],
+    "reasoning": "Seasonal demand plus the film boost peaks by Oct 31. Witchy and celestial decor sells all year at lower volume.",
+    "seasonality": "September-October peak; secondary bump at winter solstice",
+    "sellBy": "2026-10-24"
+  }
+}

@@ -1,0 +1,210 @@
+{
+  "candidateIds": [
+    "once-a-day-once-a-week-once-a-month-routine-format"
+  ],
+  "discovered": [
+    {
+      "disposition": "deep_dived",
+      "name": "Once a day / once a week / once a month routine format",
+      "rejectReason": "",
+      "whyConsidered": "Trend roundups date it to about Sept 18 (TikTok) and Sept 25 (Reels); a template-shaped format with an obvious printable"
+    },
+    {
+      "disposition": "deep_dived",
+      "name": "Reader dating and bookish matchmaking",
+      "rejectReason": "",
+      "whyConsidered": "A reading-only dating app launched in NYC in September 2026 with coverage in several outlets, plus library and bookstore speed-dating nights"
+    },
+    {
+      "disposition": "deep_dived",
+      "name": "Whimsymaxxing: bedazzle-everything DIY",
+      "rejectReason": "",
+      "whyConsidered": "Rhinestone DIY on phone cases, cups and skincare broke out in late August and spread through September coverage; newcomers need layouts and guides"
+    },
+    {
+      "disposition": "deep_dived",
+      "name": "Phone-free nights (hosted phone-free socials)",
+      "rejectReason": "",
+      "whyConsidered": "New monthly phone-free nights launched in September 2026 (Atlanta, Miami) on top of Eventbrite's growth data; hosts need kits"
+    },
+    {
+      "disposition": "rejected",
+      "name": "Hobbymaxxing",
+      "rejectReason": "Origins in 2024-25, a broad meta-trend with critical coverage, and it overlaps the existing Great Lock-In candidate. No specific product gap beyond generic hobby trackers.",
+      "whyConsidered": "Washington Post piece dated 2026-09-13 and a Yahoo explainer"
+    },
+    {
+      "disposition": "rejected",
+      "name": "Winter Arc challenge (Oct 1 - Dec 31)",
+      "rejectReason": "Recurs every year since 2024 and is already covered by the existing Great Lock-In candidate.",
+      "whyConsidered": "October kickoff habit challenge in search results"
+    },
+    {
+      "disposition": "rejected",
+      "name": "Japanese (interval) walking",
+      "rejectReason": "Broke out in 2025 and is established, with many guides already available. Not a first spark.",
+      "whyConsidered": "Reported +2,968% search interest, the top fitness trend of 2026"
+    },
+    {
+      "disposition": "rejected",
+      "name": "6-6-6 walking challenge",
+      "rejectReason": "Viral in 2025 with wide coverage (Forbes Sept 2025). Established and saturated.",
+      "whyConsidered": "Walking routine with a built-in tracker shape"
+    },
+    {
+      "disposition": "rejected",
+      "name": "Hacky sack revival",
+      "rejectReason": "Peaked in May 2026 and centers on a physical product. Not in the window.",
+      "whyConsidered": "Sell-outs reported (NPR, KUNC, May 2026)"
+    },
+    {
+      "disposition": "rejected",
+      "name": "Flip 7 card game",
+      "rejectReason": "Brand IP, popular since 2023, and several score apps already exist.",
+      "whyConsidered": "Viral party card game with scorekeeping needs"
+    },
+    {
+      "disposition": "rejected",
+      "name": "Take Time (Asmodee) card game",
+      "rejectReason": "Publisher IP; any accessory would need the brand.",
+      "whyConsidered": "Record launch reported in September 2026"
+    },
+    {
+      "disposition": "rejected",
+      "name": "Library and community puzzle swaps",
+      "rejectReason": "Established, recurring library programming, not a new spark.",
+      "whyConsidered": "Many September 2026 library listings and an Axios New Orleans story (July 2026)"
+    },
+    {
+      "disposition": "rejected",
+      "name": "Junk journaling",
+      "rejectReason": "Established, with saturated digital supply (printable ephemera kits).",
+      "whyConsidered": "Called '2026's biggest craft trend'"
+    },
+    {
+      "disposition": "rejected",
+      "name": "Social sauna and cold-plunge clubs",
+      "rejectReason": "Venue-led with health-claim risk; growing since 2024. Poor fit for digital products.",
+      "whyConsidered": "Gen Z 'social wellness' coverage"
+    },
+    {
+      "disposition": "rejected",
+      "name": "Nonna-maxxing",
+      "rejectReason": "Originated in February 2026 and is now fashion- and food-led. Overlaps the existing Kitchen Witch candidate.",
+      "whyConsidered": "Slow-living grandma lifestyle trend"
+    },
+    {
+      "disposition": "rejected",
+      "name": "Soup swaps / SoupTok",
+      "rejectReason": "Recurring seasonal content, not new in 2026.",
+      "whyConsidered": "Fall hosting ritual"
+    },
+    {
+      "disposition": "rejected",
+      "name": "October art prompt challenges (Inktober, OC-tober, Skytober)",
+      "rejectReason": "Established annual events; Inktober is a trademark, and prompt lists are free.",
+      "whyConsidered": "Daily-prompt challenge lists on TikTok for October 2026"
+    },
+    {
+      "disposition": "rejected",
+      "name": "Chess clubs in bars",
+      "rejectReason": "Clubs date from 2023; established niche with no fresh spark.",
+      "whyConsidered": "Baltimore and London coverage"
+    },
+    {
+      "disposition": "rejected",
+      "name": "School squishy craze",
+      "rejectReason": "Physical, branded toys; no digital or POD angle without IP.",
+      "whyConsidered": "Reports of a classroom craze and bans"
+    },
+    {
+      "disposition": "rejected",
+      "name": "Run clubs as social life",
+      "rejectReason": "Established since 2023-24 and well supplied.",
+      "whyConsidered": "September 2026 coverage of run clubs as 'the new nightclubs'"
+    }
+  ],
+  "id": "run-hunt-hobbies-20261004-1",
+  "ingestedAt": "2026-10-05T00:01:02.471Z",
+  "jobId": "hunt-hobbies-20261004",
+  "kind": "discover",
+  "lens": "First-spark hunt: new hobbies, challenges and rituals",
+  "report": [
+    {
+      "errors": [],
+      "id": "once-a-day-once-a-week-once-a-month-routine-format",
+      "name": "Once a Day, Once a Week, Once a Month routine format",
+      "status": "created",
+      "warnings": 0
+    }
+  ],
+  "researchedAt": "2026-10-05T00:00:55Z",
+  "sourcesTried": [
+    {
+      "method": "web search",
+      "note": "About 40 queries across TikTok/Reels trend roundups, Know Your Meme, YPulse, Pinterest, Etsy trend blogs, news.",
+      "source": "WebSearch (standard and extended)",
+      "status": "ok"
+    },
+    {
+      "method": "WebFetch",
+      "note": "Egress blocked; used search snippets.",
+      "source": "newengen.com October TikTok trends",
+      "status": "blocked"
+    },
+    {
+      "method": "WebFetch",
+      "note": "Egress blocked.",
+      "source": "washingtonpost.com (hobbymaxxing, 2026-09-13)",
+      "status": "blocked"
+    },
+    {
+      "method": "WebFetch",
+      "note": "Egress blocked; search snippets only.",
+      "source": "socialbee.com TikTok trends (Sept 29)",
+      "status": "blocked"
+    },
+    {
+      "method": "WebFetch",
+      "note": "Egress blocked; search snippets only.",
+      "source": "later.com TikTok and Reels trend blogs",
+      "status": "blocked"
+    },
+    {
+      "method": "WebFetch",
+      "note": "Egress blocked.",
+      "source": "explodingtopics.com",
+      "status": "blocked"
+    },
+    {
+      "method": "WebFetch",
+      "note": "Egress blocked.",
+      "source": "napoleoncat.com",
+      "status": "blocked"
+    },
+    {
+      "method": "WebFetch",
+      "note": "Egress blocked.",
+      "source": "ramd.am TikTok/Instagram trends",
+      "status": "blocked"
+    },
+    {
+      "method": "WebFetch",
+      "note": "Egress blocked; could not confirm the year of the 9/19 post.",
+      "source": "community.pinterest.biz Pinterest Predicts Weekly",
+      "status": "blocked"
+    },
+    {
+      "method": "WebFetch",
+      "note": "Egress blocked; search snippets only.",
+      "source": "fortune.com",
+      "status": "blocked"
+    },
+    {
+      "method": "direct",
+      "note": "Known to be blocked in this environment; TikTok discover pages seen only as search results.",
+      "source": "TikTok, Reddit, Etsy, Google Trends",
+      "status": "not_tried"
+    }
+  ]
+}

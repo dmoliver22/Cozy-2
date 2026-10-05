@@ -1,0 +1,19 @@
+{
+  "accessMethod": "web_search_result",
+  "candidateId": "phone-free-nights-hosted-phone-free-socials",
+  "claim": "Youth-research context: 'going analog' is a 2026 theme.",
+  "excerpt": "Going Analog Trend Report",
+  "firstRetrievedAt": "2026-10-05T00:00:55Z",
+  "firstSeenRunId": "run-hunt-hobbies-20261004-4",
+  "id": "phone-free-nights-hosted-phone-free-socials~7b90595d",
+  "intent": "curiosity",
+  "kind": "observed",
+  "lastSeenRunId": "run-hunt-hobbies-20261004-4",
+  "publishedAt": "2026-07-09",
+  "publisher": "YPulse",
+  "retrievedAt": "2026-10-05T00:00:55Z",
+  "signalType": "press",
+  "syndicationOf": null,
+  "title": "Going Analog Trend Report",
+  "url": "https://www.ypulse.com/report/2026/07/09/going-analog-trend-report/"
+}

@@ -1,0 +1,13 @@
+{
+  "asOf": "2026-08-31",
+  "candidateId": "kinda-chic-kinda-chic-to",
+  "evidenceId": "kinda-chic-kinda-chic-to~c3600590",
+  "id": "kinda-chic-kinda-chic-to~f212db25",
+  "isAbsolute": false,
+  "metric": "increase in Google searches for 'kinda chic'",
+  "note": "Relative Google Trends-style figure stated in search summaries. Source page and baseline unknown; asOf approximate. Not volume.",
+  "recordedAt": "2026-10-04T21:01:02.000Z",
+  "runId": "run-2026-10-04-memes",
+  "unit": "percent (relative)",
+  "value": 5000
+}

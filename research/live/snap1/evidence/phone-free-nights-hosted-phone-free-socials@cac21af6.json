@@ -1,0 +1,19 @@
+{
+  "accessMethod": "web_search_result",
+  "candidateId": "phone-free-nights-hosted-phone-free-socials",
+  "claim": "Eventbrite reports phone-free experiences up 567% globally, with US attendance growth far ahead of listing growth.",
+  "excerpt": "Phone-free experiences are up 567% globally, with 49% of Gen Z and Millennials wanting live experiences to feel less curated and more real.",
+  "firstRetrievedAt": "2026-10-05T00:00:55Z",
+  "firstSeenRunId": "run-hunt-hobbies-20261004-4",
+  "id": "phone-free-nights-hosted-phone-free-socials~cac21af6",
+  "intent": "utility",
+  "kind": "observed",
+  "lastSeenRunId": "run-hunt-hobbies-20261004-4",
+  "publishedAt": null,
+  "publisher": "Eventbrite",
+  "retrievedAt": "2026-10-05T00:00:55Z",
+  "signalType": "marketplace",
+  "syndicationOf": null,
+  "title": "Offline by Design: The Rise of Phone-Free Experiences in 2026's Analog Era",
+  "url": "https://www.eventbrite.com/blog/press/newsroom/the-rise-of-phone-free-experiences/"
+}

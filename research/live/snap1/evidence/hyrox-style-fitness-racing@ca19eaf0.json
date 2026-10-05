@@ -1,0 +1,19 @@
+{
+  "accessMethod": "web_search_result",
+  "candidateId": "hyrox-style-fitness-racing",
+  "claim": "Business coverage of Hyrox's rise (July 2026).",
+  "excerpt": "Title/date only.",
+  "firstRetrievedAt": "2026-10-04T20:53:53Z",
+  "firstSeenRunId": "run-2026-10-04-hobbies",
+  "id": "hyrox-style-fitness-racing~ca19eaf0",
+  "intent": "curiosity",
+  "kind": "observed",
+  "lastSeenRunId": "run-2026-10-04-hobbies",
+  "publishedAt": "2026-07-04",
+  "publisher": "The Star",
+  "retrievedAt": "2026-10-04T20:53:53Z",
+  "signalType": "press",
+  "syndicationOf": null,
+  "title": "The rise of Hyrox",
+  "url": "https://www.thestar.com.my/business/business-news/2026/07/04/the-rise-of-hyrox"
+}

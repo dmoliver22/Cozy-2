@@ -1,0 +1,19 @@
+{
+  "accessMethod": "web_search_result",
+  "candidateId": "bedazzle-everything-gem-maxxing",
+  "claim": "Latin American marketing trade press covered the trend by mid-August",
+  "excerpt": "bedazzle everything trend",
+  "firstRetrievedAt": "2026-10-04T23:58:00Z",
+  "firstSeenRunId": "run-hunt-aesthetics-20261004-4",
+  "id": "bedazzle-everything-gem-maxxing~44ad2a83",
+  "intent": "curiosity",
+  "kind": "observed",
+  "lastSeenRunId": "run-hunt-aesthetics-20261004-4",
+  "publishedAt": "2026-08-17",
+  "publisher": "Mercado Negro (Peru)",
+  "retrievedAt": "2026-10-04T23:58:00Z",
+  "signalType": "press",
+  "syndicationOf": null,
+  "title": "Bedazzle everything trend",
+  "url": "https://www.mercadonegro.pe/actualidad/bedazzle-everything-trend/"
+}

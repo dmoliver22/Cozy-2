@@ -1,0 +1,365 @@
+{
+  "candidateId": "hyrox-style-fitness-racing",
+  "id": "hyrox-style-fitness-racing",
+  "products": [
+    {
+      "assembly": [
+        "Run the super prompt in Claude or ChatGPT. Paste the page table into a Google Doc as your build checklist and read pages 1-4 for any brand names or advice before you build.",
+        "Canva: Create design > Custom size 6 x 9 in (KDP interior) and a second design at 8.5 x 11 in (printable). Turn on View > Show rulers and guides and add margin guides (0.75 in gutter, 0.5 in other sides for KDP; 0.5 in all round for Letter).",
+        "Build one master of each repeating page (week grid, session page, station PB, compromised log, dot grid) with Canva tables or 0.5 pt lines, then duplicate to the counts in the repeat map until the KDP file is exactly 120 pages. Keep the KDP version grayscale (Graphite/Concrete only).",
+        "Place the transparent icon PNGs on the station pages. Fill one session page and the race-day sheet with clearly fake sample numbers in a copy of the file for listing photos only.",
+        "Export the KDP interior: Share > Download > PDF Print, no crop marks or bleed, Flatten PDF on. Export the Letter printable as PDF Print, duplicate and resize to A4 (210 x 297 mm), export again, and export the 'print as needed' masters as a third PDF. Keep each file under Etsy's 20 MB limit (verify).",
+        "Etsy: create a digital listing with the Letter, A4 and print-as-needed PDFs and 6-10 images at least 2000 px wide (cover mockup, filled split page, station PB page, compromised-run log, race-day sheet, 'what's inside' grid). Copy the listing to Gumroad or Payhip for a direct link.",
+        "Only after the Day 14 check passes: download KDP's paperback cover template for 6 x 9 in, 120 pages, white paper (spine roughly 0.27 in, full wrap roughly 12.52 x 9.25 in with bleed; estimates, use the template's numbers). Build the wrap in Canva at that size, keep the barcode area clear, add spine text, export PDF Print.",
+        "KDP: Paperback, 6 x 9 in trim, black & white interior on white paper, no bleed, matte cover. Upload both PDFs, check every page in the Previewer, set the price, and order one proof copy before promoting the paperback."
+      ],
+      "asymmetry": {
+        "badBetIf": "Generic search phrases (without the brand name) bring too little traffic, the audience stays app-first, or US participation stays small. Any trademark complaint ends it. Moderately asymmetric, not a sure thing.",
+        "downside": "About 12 hours of build time and $0-14 cash (optional ads); a KDP proof costs a few dollars plus shipping (estimate) and is only ordered after the test passes. The Etsy test answers in 14 days.",
+        "upside": "Zero marginal cost on the PDF and no inventory for the paperback; the same content sells on Etsy, Gumroad/Payhip and Amazon; the race format is standardized and looks durable for several seasons, so January and spring repeat; obvious spin-offs (race-day pack, doubles log, bundle)."
+      },
+      "costs": {
+        "baseCost": 2.44,
+        "basis": "estimate: verify in the provider catalog. KDP print cost estimated as about $1.00 + $0.012 per page for a 120-page black-ink 6x9 paperback (about $2.44); confirm with KDP's printing cost calculator. A",
+        "item": "Printable PDF; later 6x9 in black-ink paperback, 120 pages",
+        "pages": null,
+        "provider": "Etsy (digital PDF) now; Amazon KDP paperback only after the ",
+        "shipping": null,
+        "testBudget": 14,
+        "testBudgetNote": "Optional Etsy Ads at $1/day for 14 days, started only once the listing has 6+ photos. $0 is fine if the three videos are getting views."
+      },
+      "extensions": [
+        "$4 race-day checklist and pacing card pack (the input's pivot)",
+        "Bundle with the Race-Day Pacing Kit at about $10",
+        "Doubles/relay partner edition with two-column split tables",
+        "Undated 'season log' for repeat racers covering several events",
+        "Gym or coach multi-print license for training groups",
+        "Free race-day sheet as an email lead magnet on Gumroad or Payhip"
+      ],
+      "imagePrompts": [
+        {
+          "prompt": "Minimalist bold sports-journal cover, portrait 2:3, at least 1800 x 2700 px. One curving running-track lane loops past eight simple geometric station icons (ski machine handles, sled, sled with rope, arc arrow with footprints, rowing machine, two carry handles, sandbag, medicine ball with target line) drawn as thick monoline shapes. Flat vector, high contrast, generous negative space, faint chalk-dust texture. Colors: Chalk #F7F7F5 solid background, Graphite #1E2328 lines, Signal Orange #FF5A1F lane, Steel Blue #3A6EA5 small accents. Render this text exactly in heavy condensed sans-serif capitals in the top third: \"SPLIT & STATION LOG\"; smaller beneath: \"16 weeks to race day\". No border. Negatives: no logos, no brand names, no real people, no trademarked characters, no watermarks, no other text. If any letter renders wrong, regenerate without text and set the title in Canva (Oswald).",
+          "purpose": "Front cover art for the KDP paperback and the Etsy thumbnail",
+          "tool": "Ideogram"
+        },
+        {
+          "prompt": "A set of 8 matching monoline icons on a transparent background, 4 x 2 grid with even spacing, square 1:1, 2048 x 2048 px: ski machine, sled with push arrow, sled with pull rope, arc arrow with footprints (burpee broad jump), rowing machine, two farmer-carry handles, sandbag, medicine ball with a wall target line. 6 px stroke, rounded caps, Graphite #1E2328 with one Signal Orange #FF5A1F accent per icon. No people, no text, no logos, no brand-shaped equipment, no trademarked characters, no watermarks.",
+          "purpose": "Station icon set for station PB pages and section headers",
+          "tool": "ChatGPT images"
+        },
+        {
+          "prompt": "Photorealistic flat-lay, 4:3 landscape: a closed 6x9 paperback with a blank light-gray cover and an open printed logbook with blank pages beside it, on a black rubber gym floor with a chalk smudge, a plain water bottle, a simple stopwatch and a resistance band. Soft daylight from top left, gentle shadows. Graphite floor, chalk-white pages, a hint of Signal Orange #FF5A1F on the band. Leave the cover and pages blank so the real artwork can be placed in Canva. No people, no hands, no logos or brand marks on any object, no text, no trademarked characters, no watermarks.",
+          "purpose": "Listing mockup background (journal in a gym setting)",
+          "tool": "ChatGPT images"
+        }
+      ],
+      "index": 0,
+      "listingPrompt": "You are an Etsy SEO copywriter. Write the Etsy listing for a printable PDF training log for first-time racers of an 8-station indoor fitness race (eight 1 km runs, each followed by a workout station).\nProduct facts: [PASTE THE PAGE TABLE FROM THE SUPER PROMPT OUTPUT]. Files: US Letter PDF and A4 PDF (120 pages each) plus a print-as-needed PDF. Instant digital download; nothing is shipped.\nProduce:\n1. A title under 140 characters that starts with the buyer's search phrase (e.g. \"Fitness Race Training Log Printable\" or \"Hybrid Race Log\"), then split tracker, station PB, race day checklist. Show the character count.\n2. Exactly 13 tags, each 20 characters or fewer, all generic, no duplicates; show each count.\n3. A description: one-line hook; what's included (bulleted page list); file formats and sizes (PDF, US Letter 8.5x11 in and A4); how delivery works (download from your Etsy Purchases page after payment, print at home or at a print shop, reprint the weekly pages as often as you like); who it's for; a 5-question FAQ: Is this a training plan? (No, it's a log for recording your own or your coach's plan.) Which races does it fit? (Any race with eight 1 km runs and eight stations; not affiliated with any organizer.) Can I write on it digitally? (Yes, in a PDF annotation app.) Is there a paperback? [YES / COMING SOON]. Refunds? [YOUR DIGITAL-FILE POLICY].\n4. Alt text for 5 listing images.\n5. A KDP block for later: title plus subtitle under 200 characters, 7 backend keyword phrases, a 150-word description.\nRules: never use the name, logo or slogan of any race series, organizer, sponsor, equipment maker or apparel brand anywhere (title, tags, description, alt text, keywords). Do not write \"official\". No promises of faster times, fitness, weight loss, injury prevention or any health result. Plain, friendly US English.",
+      "marketing": {
+        "channels": [
+          {
+            "cadence": "3 videos in the first 8 days, then 2 per week",
+            "channel": "TikTok",
+            "tactic": "Process videos: logging splits, compromised-run comparison, race-day sheet; text on screen uses generic race wording only"
+          },
+          {
+            "cadence": "Same as TikTok; Stories 2x per week",
+            "channel": "Instagram Reels and Stories",
+            "tactic": "Cross-post the same videos; Stories poll 'paper log or app?'"
+          },
+          {
+            "cadence": "3 pins per week",
+            "channel": "Pinterest",
+            "tactic": "Page-preview pins (split table, station PB ladder, race-day sheet) linking to the Etsy listing"
+          },
+          {
+            "cadence": "At most 1 post per week",
+            "channel": "Communities (subreddits, Facebook groups)",
+            "tactic": "Answer split-tracking questions; share the log only where resource posts are allowed; check the community rules"
+          },
+          {
+            "cadence": "Weekly review",
+            "channel": "Etsy",
+            "tactic": "Update first photo and title based on stats; add the pacing kit as a cross-sell"
+          }
+        ],
+        "hooks": [
+          "You signed up for your first 8-station fitness race. Here's where every split goes.",
+          "Fresh 1 km vs the 1 km after the sled push: write both down.",
+          "Apps store your data. Paper makes you look at it.",
+          "Gift idea for the gym friend who just registered for their first fitness race.",
+          "Race morning: one sheet, 8 runs, 8 stations, target vs actual."
+        ],
+        "keywords": [
+          "fitness race log",
+          "hybrid race log",
+          "race training log",
+          "workout log pdf",
+          "split tracker",
+          "station pb tracker",
+          "race day checklist",
+          "running log book",
+          "functional fitness",
+          "16 week training",
+          "gym journal gift",
+          "fitness race gift",
+          "indoor fitness race"
+        ],
+        "launchPlan": [
+          {
+            "action": "Suggested start Mon Oct 19, 2026. Run the super prompt, build the Letter and A4 printables in Canva, make one sample-filled copy for photos.",
+            "day": "Day 0"
+          },
+          {
+            "action": "List the printable on Etsy at $7 using only generic keywords; mirror it on Gumroad or Payhip for a bio link.",
+            "day": "Day 1"
+          },
+          {
+            "action": "Video 1 (TikTok + Reels): filling in a split page after a session. Pin 3 page previews to Pinterest.",
+            "day": "Day 2"
+          },
+          {
+            "action": "Video 2: the compromised-run log, fresh 1 km vs the 1 km after a station. Pin 3 more.",
+            "day": "Day 5"
+          },
+          {
+            "action": "Video 3: the race-day split sheet, target vs actual. Check Etsy stats; swap the first photo if views are low.",
+            "day": "Day 8"
+          },
+          {
+            "action": "One helpful post in a fitness-racing subreddit or Facebook group that allows sharing resources (check the community rules first); answer questions, no hard sell.",
+            "day": "Day 10"
+          },
+          {
+            "action": "Mon Nov 2 check: continue if at least 3 printable sales, or at least 300 views with 20+ favorites, and order the KDP proof. Pivot if interest is only in race-day pages: sell a $4 race-day checklist and pacing card pack. Stop on any trademark complaint.",
+            "day": "Day 14"
+          },
+          {
+            "action": "If continuing: upload the KDP paperback and order one proof; start 'January gift for your gym partner' messaging.",
+            "day": "Day 16"
+          },
+          {
+            "action": "Mon Nov 9: stop if under 100 views in 3 weeks or any trademark complaint; otherwise plan December gift posts and a January New-Year push.",
+            "day": "Day 21"
+          }
+        ],
+        "positioning": "The paper split-and-station log for first-time 8-station racers: it records your training, it doesn't sell you another plan."
+      },
+      "platforms": [
+        {
+          "name": "Etsy",
+          "role": "primary",
+          "why": "Fastest test for a printable: the input's validation runs here at $7 with generic keywords before any paperback is made."
+        },
+        {
+          "name": "Amazon KDP",
+          "role": "secondary",
+          "why": "Paperback for January gift buyers after the test passes; print on demand, no inventory, live within days."
+        },
+        {
+          "name": "Gumroad or Payhip",
+          "role": "secondary",
+          "why": "Direct checkout link for TikTok and Instagram bios."
+        },
+        {
+          "name": "TikTok and Instagram Reels",
+          "role": "traffic",
+          "why": "Short videos of a filled-in split page match the input's test and this audience's habits."
+        },
+        {
+          "name": "Pinterest",
+          "role": "traffic",
+          "why": "Workout-log and training-printable pins drive slow but free search traffic to Etsy."
+        }
+      ],
+      "pricing": {
+        "basis": "estimate; competitor prices were not measured in the research",
+        "currency": "USD",
+        "high": 10,
+        "low": 5,
+        "rationale": "The input's $7 test price: far below training books, ebooks and app subscriptions, impulse-level for a PDF. Paperback later at an estimated $11.99 (range $9.99-13.99) to sit near other paperback logs and stay at or above the price where KDP's paperback royalty rate may drop (verify on KDP's pricing page).",
+        "recommended": 7
+      },
+      "productName": "Split & Station Log: 16-Week Fitness Race Training Journal",
+      "risks": [
+        "Brand enforcement against unofficial products if any brand wording slips into titles, tags, images or videos",
+        "Descriptive keywords may get little Etsy or Amazon traffic (search volumes not measured)",
+        "Tech-forward racers may prefer apps, including official ones",
+        "Copy that drifts into training or medical advice creates liability expectations",
+        "KDP low-content logs are crowded; the paperback needs outside traffic",
+        "Sales concentrated around January and spring race dates"
+      ],
+      "source": "written",
+      "superPrompt": "You are a sports-stationery designer. Produce the complete interior of a paper training log for first-time racers of a standardized 8-station indoor fitness race (eight 1 km runs, each followed by one workout station). The log records training; it never prescribes it.\n\nBUYER AND JOB\nFirst-time fitness racers training toward a spring 2027 event, and gym partners buying them a January gift. The format never changes, so splits are comparable week to week. The log holds every split, station personal best (PB) and \"compromised run\" (a run straight after a station), plus a calm race-day plan.\n\nDELIVERABLES (same content, two builds)\nA) KDP paperback interior: 6 x 9 in, no bleed, exactly 120 pages, inside (gutter) margin 0.75 in, other margins 0.5 in, black ink only (grayscale).\nB) Printable PDF: US Letter 8.5 x 11 in and A4 210 x 297 mm, portrait, 0.5 in (13 mm) margins, plus a \"print as needed\" set (one week of pages, one station PB page, the race-day sheet).\n\nPAGE LIST (KDP numbering)\n1 Title: \"[YOUR BRAND] Split & Station Log\", subtitle \"16 weeks of runs, stations and race-day splits\", lines for name, race city, race date, target finish time.\n2 How to use (max 150 words) plus plain definitions: run split, station time, transition time, compromised run, PB.\n3 Disclaimer (verbatim, below).\n4 Why I signed up: 5 prompts, division entered (blank).\n5 Baseline: 1 km run plus each station with blank columns for distance/reps, load, time, date, notes.\n6-13 Station PB pages in race order: Ski machine, Sled push, Sled pull, Burpee broad jumps, Rowing machine, Farmers carry, Sandbag lunges, Wall balls. Each: blank \"my standard\" box, PB ladder (date | time | load | notes | effort 1-5) x 12 rows, lined box \"Cues in my own words\" (no cues printed).\n14-77 Sixteen weeks x 4 pages: (a) week grid, Mon-Sun rows; columns session type | planned | done (checkbox) | minutes | effort 1-10 | notes; week-focus box; 1-5 energy check. (b-d) three session pages: date, session type, warm-up notes, split table of 8 rows (run # | run time | station | station time | transition | running total), totals box, \"felt strong\" and \"change next time\" lines.\n78-83 Compromised running log: date | station before | fresh 1 km | post-station 1 km | difference | notes, 14 rows per page.\n84-86 Checkpoints for Weeks 0, 8 and 16 repeating page 5's grid plus a \"change since last checkpoint\" column.\n87-88 Race-week checklist: gear, ticket and ID, travel, sleep notes, \"my food and fluid plan\" (blank lines only), wave time, event rules to check.\n89-90 Race-day split sheet: target vs actual for 8 runs, 8 stations and transitions, running totals, large number boxes.\n91-92 Post-race reflection: finish time, strongest and hardest segment, what I'd change, next goal.\n93-94 Race history: date | city | division | finish time | notes, 10 rows each.\n95-120 Notes: 5 mm dot grid.\n\nDESIGN\nFonts: Oswald (headings, caps), Inter (body 10-11 pt), Space Mono (time fields). Palette \"Chalk & Signal\": Chalk #F7F7F5, Graphite #1E2328, Signal Orange #FF5A1F, Steel Blue #3A6EA5, Concrete #9AA3AB. KDP interior: Graphite and Concrete only; printable may use orange headers. Rules 0.5 pt, rows at least 0.3 in tall, time boxes pre-printed with \":\".\n\nCONTENT RULES\nOriginal wording, grade 7-8 reading level, encouraging, factual. Never prescribe workouts, paces, loads, nutrition or recovery. No promises of faster times, fitness, weight loss or injury prevention. Never name any race series, organizer, sponsor, venue, equipment maker or apparel brand; use only the generic station names above.\n\nDIFFERENTIATION\nPlans and apps exist. This is the paper companion: split and station tracking, compromised-run comparison and a race-day sheet in one book, with no plan to follow.\n\nDISCLAIMER (verbatim)\n\"This log is a record-keeping tool, not a training plan or medical advice. Talk to a qualified professional before starting or changing an exercise program. Not affiliated with or endorsed by any race organizer.\"\n\nOUTPUT FORMAT\n1) KDP table: page | title | elements | fields/columns | rows | layout notes. 2) Differences for the Letter/A4 printable. 3) Final text for pages 1-4, 87-88 and 91-92. 4) Repeat map of pages that duplicate one master.\nSelf-check, fixing failures before answering: [ ] exactly 120 KDP pages; [ ] grayscale interior; [ ] every split table has 8 runs and 8 stations in race order; [ ] no brand, organizer, sponsor or equipment names; [ ] no training, health or outcome claims; [ ] disclaimer verbatim.",
+      "themeKey": "16-week fitness-race training log (KDP 6x9 paperback plus pr"
+    },
+    {
+      "assembly": [
+        "Create a new Google Sheet and build the tabs from the AI output. Type each row-6 formula once, then drag it down to row 21. Set formats with Format > Number > Custom number format: [h]:mm:ss for clock cells, m:ss for segment cells.",
+        "Test it: enter a 1:30:00 target and the example practice times; confirm C2 reads 'Adds up' and G21 equals B2. Clear B2 and confirm no error messages appear.",
+        "Protect formula ranges (Data > Protect sheets and ranges > Show a warning) and set the Wrist Card print setup to landscape, fit to width, gridlines off.",
+        "Share > General access: Anyone with the link, Viewer. Copy the link and replace everything from '/edit' onward with '/copy' so buyers get a 'Make a copy' screen; test it in a private browser window.",
+        "Canva: make a 1-page US Letter 'Your sheet link' PDF with the /copy link on a big button. Build the wrist strips at 11 x 8.5 in (Letter landscape) and 297 x 210 mm (A4 landscape), the mini cards and the checklist; export each set as PDF Print.",
+        "Prepare the Etsy files: link PDF, Letter printables PDF, A4 printables PDF, each under 20 MB (verify Etsy's limit).",
+        "Listing images (at least 2000 px wide): Sheet screenshot with EXAMPLE data, strip mockup, mini cards, checklist preview, 'what's included' graphic.",
+        "List on Etsy at $5, mirror on Gumroad, and add a cross-link in the training log listing."
+      ],
+      "asymmetry": {
+        "badBetIf": "Free calculators and official apps already cover pacing for this audience, or the log gets no traffic for it to ride on. On its own this is a small add-on, not a strong asymmetric bet.",
+        "downside": "About 6 hours and $0. The answer comes in 21 days.",
+        "upside": "Zero marginal cost; works as an upsell, a bundle sweetener or a free lead magnet, so it adds value even if it sells poorly alone; reusable every race season."
+      },
+      "costs": {
+        "baseCost": null,
+        "basis": "estimate: verify in the provider catalog. Digital product with no production cost; Etsy fees (estimate): $0.20 listing, 6.5% transaction, about 3% + $0.25 payment processing. Gumroad takes a per-sale ",
+        "item": null,
+        "pages": null,
+        "provider": null,
+        "shipping": null,
+        "testBudget": 0,
+        "testBudgetNote": "No ads. It rides on the log's traffic and videos; ads on a $5 item rarely pay back."
+      },
+      "extensions": [
+        "Bundle with the Split & Station Log",
+        "Doubles/relay version that splits stations between partners",
+        "Generic version for other timed running races (5K/10K pace bands)",
+        "Free lite version (strip only) as an email lead magnet",
+        "Post-race 'actuals vs target' recap template for social sharing"
+      ],
+      "imagePrompts": [
+        {
+          "prompt": "Bold graphic title card, 4:3 landscape, 2400 x 1800 px. Render this text exactly: \"RACE-DAY PACING KIT\" in heavy condensed sans-serif capitals, and below it smaller: \"Split calculator · Wrist strips · Checklist\". Solid Chalk #F7F7F5 background with three Signal Orange #FF5A1F horizontal split lines and small Graphite #1E2328 tick marks like a timing strip, Steel Blue #3A6EA5 accent dot. Flat vector, clean. No people, no logos, no brand names, no trademarked characters, no watermarks, no other text.",
+          "purpose": "Listing thumbnail / title card",
+          "tool": "Ideogram"
+        },
+        {
+          "prompt": "Photorealistic top-down flat-lay, 1:1, 2048 px: a printed paper wrist strip with blank boxes, a small blank pace card, two safety pins, small scissors and a roll of athletic tape on a light concrete surface. All paper blank for overlay in Canva. Soft daylight, crisp shadows, Signal Orange #FF5A1F tape as the only color accent. No people, no hands, no logos, no text, no trademarked characters, no watermarks.",
+          "purpose": "Flat-lay mockup for the printable strips",
+          "tool": "ChatGPT images"
+        }
+      ],
+      "index": 1,
+      "listingPrompt": "You are an Etsy SEO copywriter. Write the Etsy listing for a digital race-day pacing kit for first-time racers of an 8-station indoor fitness race (eight 1 km runs plus eight workout stations).\nProduct facts: a Google Sheets split calculator delivered as a \"make a copy\" link inside a PDF (needs a free Google account); it scales the buyer's own practice times to their target finish time and shows a target time and race clock for every run and station; printable wrist strips and mini pace cards (US Letter and A4 PDFs); a race-week checklist. Instant download; nothing is shipped.\nProduce:\n1. A title under 140 characters starting with the buyer's phrase (e.g. \"Race Pace Calculator Google Sheets\" or \"Fitness Race Pacing Kit\"), then wrist pace strip, race day checklist. Show the count.\n2. Exactly 13 generic tags of 20 characters or fewer, with counts.\n3. A description: hook; what's included; file formats and sizes (Google Sheets link, PDF, Letter 8.5x11 in and A4); how delivery works (download the PDF from Etsy Purchases, click the link, choose Make a copy; print strips at 100% scale); a 5-question FAQ: Do I need Excel? (No, free Google Sheets.) Will it tell me what pace to run? (No, it only does arithmetic on the times you enter.) Which races does it fit? (Any race with eight 1 km runs and eight stations; not affiliated with any organizer.) Can I use it on my phone? (Yes, in the Google Sheets app; printing works best from a computer.) Refunds? [YOUR DIGITAL-FILE POLICY].\n4. Alt text for 4 images.\nRules: never use the name, logo or slogan of any race series, organizer, sponsor, equipment maker or apparel brand anywhere. Do not write \"official\". No pacing, nutrition or medical advice and no promises about finish times. Plain US English.",
+      "marketing": {
+        "channels": [
+          {
+            "cadence": "1 per week, alternating with log videos",
+            "channel": "Instagram Reels",
+            "tactic": "Screen-recorded demos and the strip-cutting video"
+          },
+          {
+            "cadence": "1 per week",
+            "channel": "TikTok",
+            "tactic": "Same demos, captioned 'first 8-station race?'"
+          },
+          {
+            "cadence": "2 pins per week",
+            "channel": "Pinterest",
+            "tactic": "Checklist and strip pins linking to Etsy"
+          },
+          {
+            "cadence": "Weekly stats check",
+            "channel": "Etsy",
+            "tactic": "Cross-link with the log; bundle listing"
+          }
+        ],
+        "hooks": [
+          "Type your goal time. Get all 16 splits.",
+          "The wrist strip you cut out the night before race day.",
+          "Race-week brain is real. Here's the checklist.",
+          "Your practice times, scaled to your goal: no guessing at math mid-race."
+        ],
+        "keywords": [
+          "race pace calculator",
+          "split calculator",
+          "pace band printable",
+          "race day checklist",
+          "wrist pace card",
+          "fitness race pacing",
+          "google sheets pace",
+          "race split planner",
+          "hybrid race pacing",
+          "race week planner"
+        ],
+        "launchPlan": [
+          {
+            "action": "Suggested Wed Oct 21, 2026, the same week as the log. Build and test the Sheet; list on Etsy at $5 and cross-link with the log.",
+            "day": "Day 0"
+          },
+          {
+            "action": "Gumroad listing; put the link in your bio.",
+            "day": "Day 1"
+          },
+          {
+            "action": "Reel/TikTok: screen recording of entering a target time and watching the splits fill in.",
+            "day": "Day 2"
+          },
+          {
+            "action": "3 Pinterest pins: Sheet screenshot, wrist strip sheet, checklist.",
+            "day": "Day 5"
+          },
+          {
+            "action": "Video: printing, cutting and taping a wrist strip; no people on camera needed.",
+            "day": "Day 8"
+          },
+          {
+            "action": "Create the log + kit bundle listing at about $10.",
+            "day": "Day 11"
+          },
+          {
+            "action": "Review views and clicks; replace the first photo if views are coming but clicks are not.",
+            "day": "Day 14"
+          },
+          {
+            "action": "Wed Nov 11 check: continue if at least 5 sales; pivot to a free lead magnet for the logbook (Gumroad, email capture) if views come without sales; stop if under 75 views in 21 days.",
+            "day": "Day 21"
+          }
+        ],
+        "positioning": "Type your goal time, get every split: a $5 race-week kit that turns your own practice times into a carry-on plan."
+      },
+      "platforms": [
+        {
+          "name": "Etsy",
+          "role": "primary",
+          "why": "Same shop and buyers as the log; cross-selling the two is the main lever."
+        },
+        {
+          "name": "Gumroad",
+          "role": "secondary",
+          "why": "Direct link for bios and the free lead-magnet pivot (pay-what-you-want with email capture)."
+        },
+        {
+          "name": "Instagram Reels",
+          "role": "traffic",
+          "why": "A screen recording of 'type goal time, get 16 splits' is a quick, visual demo."
+        },
+        {
+          "name": "Pinterest",
+          "role": "traffic",
+          "why": "Checklist and pace-strip pins pick up race-prep searches over time."
+        }
+      ],
+      "pricing": {
+        "basis": "estimate; competitor prices were not measured in the research",
+        "currency": "USD",
+        "high": 8,
+        "low": 4,
+        "rationale": "The input's $5 test price: a single-purpose impulse add-on below the $7 log; bundle both at about $10 so the kit lifts the order value. It competes with free calculators, so it must stay cheap.",
+        "recommended": 5
+      },
+      "productName": "Race-Day Pacing Kit: Split Calculator Sheet + Wrist Strips",
+      "risks": [
+        "A formula error would damage trust; test before listing and after every edit",
+        "'Make a copy' links can be shared freely, so some piracy is likely",
+        "Copy or examples could read as pacing advice; keep everything arithmetic-only",
+        "Brand wording slipping into titles, tags or videos invites takedowns",
+        "Very low price means small dollars even if it converts"
+      ],
+      "source": "written",
+      "superPrompt": "You are a spreadsheet designer and printable-stationery designer. Produce a complete race-day pacing kit for first-time racers of a standardized 8-station indoor fitness race (eight 1 km runs, each followed by one workout station). The kit does arithmetic on the racer's own numbers; it never tells them how fast to go.\n\nBUYER AND JOB\nFirst-time racers 2-6 weeks out. They have a target finish time and some practice times and want a concrete split plan, a card to carry and a checklist that keeps race week calm. Book bonuses and apps exist; this is a cheap, single-purpose, race-week kit that complements them.\n\nPART 1: GOOGLE SHEETS FILE (give every tab, cell, label, formula, number format, validation and protected range)\nTab \"Start Here\": title, 6-step instructions (make a copy, fill yellow cells, print the strip), the disclaimer.\nTab \"My Times\":\n- A2 \"Target finish time\", B2 input, format [h]:mm:ss. A3 \"Scale factor\", B3 =IF(D23=0,\"\",B2/D23), format 0.000. C2 =IF(B3=\"\",\"\",IF(ROUND((G21-B2)*86400,0)=0,\"Adds up\",\"Check inputs\")).\n- Row 5 headers: # | Segment | Type | My practice time | Share | Target time | Target clock at end | vs practice.\n- Rows 6-21, 16 segments in order: Run 1, Ski machine, Run 2, Sled push, Run 3, Sled pull, Run 4, Burpee broad jumps, Run 5, Rowing machine, Run 6, Farmers carry, Run 7, Sandbag lunges, Run 8, Wall balls. Row 22 \"Transitions (total)\". D23 =SUM(D6:D22).\n- E6 =IF($B$3=\"\",\"\",D6/$D$23) (percent); F6 =IF($B$3=\"\",\"\",D6*$B$3) (m:ss); G6 =IF($B$3=\"\",\"\",SUM($F$6:F6)+$F$22/16*(ROW()-5)) ([h]:mm:ss); H6 =IF($B$3=\"\",\"\",IF(F6>=D6,\"+\",\"-\")&TEXT(ABS(F6-D6),\"m:ss\")). Fill E6:H6 down to row 21. F22 =IF($B$3=\"\",\"\",D22*$B$3).\n- Validation on B2 and D6:D22: duration greater than 0:00:00. Inputs filled #FFF4C2. Grey italic example inputs labelled \"EXAMPLE: replace with your own times\".\nTab \"Wrist Card\": print-ready block pulling segment names, target times and clock from \"My Times\" (show formulas); two columns (runs | stations); Space Mono 12 pt; print setup landscape, fit to width, no gridlines.\nTab \"Race-Day Actuals\": same 16 segments plus transitions; target | actual (input) | difference (signed m:ss) | running total; total row.\nTab \"Checklist\": checkboxes; sections Clothing and shoes, Ticket/ID, Bag, Before the start, \"My food and drink plan (what / when)\" as blank rows only, After the finish, \"Event rules to check\" (gloves, headphones, bag drop).\n\nPART 2: PRINTABLE PDF (US Letter and A4 versions)\nPage 1 Wrist strips 10 x 2 in (A4: 265 x 48 mm), 4 per landscape page, two rows of 8 boxes (top Run 1-8, bottom the stations in order), blank time lines, dashed cut lines.\nPage 2 Mini pace cards 3.5 x 2 in (A4: 85 x 55 mm), 10 per portrait page, 16 segments with blank target lines.\nPage 3 One-page race-week checklist matching the tab.\nPage 4 \"How to fill in your strip\" with a worked example marked EXAMPLE, plus the disclaimer.\n\nDESIGN\nPalette \"Chalk & Signal\": Chalk #F7F7F5, Graphite #1E2328, Signal Orange #FF5A1F, Steel Blue #3A6EA5, Concrete #9AA3AB. Fonts: Oswald headings, Inter body, Space Mono for times. Header rows Graphite with Chalk text; only input cells yellow.\n\nCONTENT RULES\nOriginal wording, grade 7 reading level. No pacing, training, nutrition, hydration or medical advice; no promises about finish times. Never name any race series, organizer, sponsor, equipment maker or apparel brand; generic station names only.\n\nDISCLAIMER (verbatim): \"This kit only does arithmetic on the times you enter. It is not coaching, nutrition or medical advice. Not affiliated with or endorsed by any race organizer.\"\n\nOUTPUT FORMAT\nTab by tab, a cell table (cell | content or formula | format). Then the PDF page by page: dimensions, grid and every label.\nSelf-check, fixing failures before answering: [ ] with the example inputs, G21 equals B2 and C2 reads \"Adds up\"; [ ] every formula points at the right rows; [ ] 8 runs and 8 stations in race order everywhere; [ ] Letter and A4 sizes both given; [ ] no brand names; [ ] no advice or outcome claims.",
+      "themeKey": "Race-day pacing kit: Google Sheets split calculator (target"
+    }
+  ],
+  "source": "written",
+  "writtenAt": "2026-10-04T23:12:02Z"
+}

@@ -1,0 +1,19 @@
+{
+  "accessMethod": "web_search_result",
+  "candidateId": "poetcore",
+  "claim": "Youth-culture press presents Poetcore as a Gen Z-defining literary aesthetic.",
+  "excerpt": "Search result title and brief summary.",
+  "firstRetrievedAt": "2026-10-04T21:00:56Z",
+  "firstSeenRunId": "run-2026-10-04-aesthetics",
+  "id": "poetcore~0ead978f",
+  "intent": "curiosity",
+  "kind": "observed",
+  "lastSeenRunId": "run-2026-10-04-aesthetics",
+  "publishedAt": null,
+  "publisher": "nss g-club",
+  "retrievedAt": "2026-10-04T21:00:56Z",
+  "signalType": "press",
+  "syndicationOf": null,
+  "title": "Poetcore Explained: the literary aesthetic defining Gen Z",
+  "url": "https://www.nssgclub.com/en/fashion/44952/poetcore-literary-aesthetic-genz-trend-2026"
+}

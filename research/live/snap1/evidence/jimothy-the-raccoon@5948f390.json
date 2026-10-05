@@ -1,0 +1,19 @@
+{
+  "accessMethod": "web_search_result",
+  "candidateId": "jimothy-the-raccoon",
+  "claim": "National TV and news coverage.",
+  "excerpt": "Headline only.",
+  "firstRetrievedAt": "2026-10-04T20:57:55Z",
+  "firstSeenRunId": "run-2026-10-04-memes",
+  "id": "jimothy-the-raccoon~5948f390",
+  "intent": "curiosity",
+  "kind": "observed",
+  "lastSeenRunId": "run-2026-10-04-memes",
+  "publishedAt": null,
+  "publisher": "ABC News / GMA",
+  "retrievedAt": "2026-10-04T20:57:55Z",
+  "signalType": "press",
+  "syndicationOf": null,
+  "title": "'Jimothy' the raccoon captures the internet's heart - ABC News",
+  "url": "https://abcnews.com/GMA/Living/jimothy-raccoon-captures-internets-heart/story?id=135020936"
+}

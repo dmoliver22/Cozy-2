@@ -1,0 +1,13 @@
+{
+  "asOf": "2026-10-04",
+  "candidateId": "jimothy-the-raccoon",
+  "evidenceId": "jimothy-the-raccoon~4456187d",
+  "id": "jimothy-the-raccoon~34aca079",
+  "isAbsolute": true,
+  "metric": "resale value of a free raccoon baseball card",
+  "note": "Reported in a Yahoo headline. An outlier collectible event, not typical merch demand. The link to the Jimothy giveaway is inferred.",
+  "recordedAt": "2026-10-04T21:01:02.000Z",
+  "runId": "run-2026-10-04-memes",
+  "unit": "USD (lower bound, 'more than $20K')",
+  "value": 20000
+}

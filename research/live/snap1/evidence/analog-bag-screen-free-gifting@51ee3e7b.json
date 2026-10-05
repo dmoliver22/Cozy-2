@@ -1,0 +1,19 @@
+{
+  "accessMethod": "web_search_result",
+  "candidateId": "analog-bag-screen-free-gifting",
+  "claim": "Fashion press covered the analog bag trend.",
+  "excerpt": "Title only; date not shown.",
+  "firstRetrievedAt": "2026-10-04T20:59:17Z",
+  "firstSeenRunId": "run-2026-10-04-movements",
+  "id": "analog-bag-screen-free-gifting~51ee3e7b",
+  "intent": "curiosity",
+  "kind": "observed",
+  "lastSeenRunId": "run-2026-10-04-movements",
+  "publishedAt": null,
+  "publisher": "Marie Claire",
+  "retrievedAt": "2026-10-04T20:59:17Z",
+  "signalType": "press",
+  "syndicationOf": null,
+  "title": "The Analog Bag Trend Is an Antidote to Algorithm Brain Rot and Doomscrolling",
+  "url": "https://www.marieclaire.com/fashion/analog-bags-tiktok-trend-reduce-doomscrolling/"
+}

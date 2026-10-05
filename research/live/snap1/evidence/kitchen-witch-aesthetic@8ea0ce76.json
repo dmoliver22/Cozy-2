@@ -1,0 +1,19 @@
+{
+  "accessMethod": "web_search_result",
+  "candidateId": "kitchen-witch-aesthetic",
+  "claim": "Independent trade report corroborating the ~$30M opening.",
+  "excerpt": "Search result title only: opening to $30M. URL path dates it to September 2026.",
+  "firstRetrievedAt": "2026-10-04T20:56:14Z",
+  "firstSeenRunId": "run-2026-10-04-aesthetics",
+  "id": "kitchen-witch-aesthetic~8ea0ce76",
+  "intent": "none",
+  "kind": "observed",
+  "lastSeenRunId": "run-2026-10-04-aesthetics",
+  "publishedAt": null,
+  "publisher": "Deadline",
+  "retrievedAt": "2026-10-04T20:56:14Z",
+  "signalType": "press",
+  "syndicationOf": "kitchen-witch-aesthetic~685be181",
+  "title": "Box Office: 'Practical Magic 2' Opening To $30M",
+  "url": "https://deadline.com/2026/09/box-office-practical-magic-2-weekend-1237098516/"
+}

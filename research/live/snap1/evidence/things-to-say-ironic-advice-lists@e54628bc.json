@@ -1,0 +1,19 @@
+{
+  "accessMethod": "web_search_result",
+  "candidateId": "things-to-say-ironic-advice-lists",
+  "claim": "Generic meme template packs exist on Gumroad; none found specific to this format (search-engine check)",
+  "excerpt": "viral meme templates pack",
+  "firstRetrievedAt": "2026-10-05T00:00:47Z",
+  "firstSeenRunId": "run-hunt-memes-20261004-3",
+  "id": "things-to-say-ironic-advice-lists~e54628bc",
+  "intent": "none",
+  "kind": "inference",
+  "lastSeenRunId": "run-hunt-memes-20261004-3",
+  "publishedAt": null,
+  "publisher": "Gumroad",
+  "retrievedAt": "2026-10-05T00:00:47Z",
+  "signalType": "marketplace",
+  "syndicationOf": null,
+  "title": "viral meme templates pack",
+  "url": "https://automemesai.gumroad.com/l/viral-meme-templates-pack"
+}

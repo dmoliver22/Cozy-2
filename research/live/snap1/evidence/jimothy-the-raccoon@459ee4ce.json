@@ -1,0 +1,19 @@
+{
+  "accessMethod": "web_search_result",
+  "candidateId": "jimothy-the-raccoon",
+  "claim": "Epic Games added a free Jimothy sidekick to Fortnite for Fortnitemares 2026 (live Oct 1, per related results).",
+  "excerpt": "Unlock by finding and extracting a Dumpster Dive Sprite (per Vice/esports.gg summaries).",
+  "firstRetrievedAt": "2026-10-04T20:57:55Z",
+  "firstSeenRunId": "run-2026-10-04-memes",
+  "id": "jimothy-the-raccoon~459ee4ce",
+  "intent": "curiosity",
+  "kind": "observed",
+  "lastSeenRunId": "run-2026-10-04-memes",
+  "publishedAt": null,
+  "publisher": "TheGamer",
+  "retrievedAt": "2026-10-04T20:57:55Z",
+  "signalType": "press",
+  "syndicationOf": null,
+  "title": "Fortnite Now Has A Jimothy Sidekick You Unlock For Free",
+  "url": "https://thegamer.com/how-unlock-jimothy-sidekick-fortnite"
+}

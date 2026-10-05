@@ -1,0 +1,19 @@
+{
+  "accessMethod": "web_search_result",
+  "candidateId": "kinda-chic-kinda-chic-to",
+  "claim": "Fashion press analysis says the appeal is being 'special while being normal'.",
+  "excerpt": "Search summary: the 'deliberately lowbrow use of kinda' undercuts the unattainable 'chic'; anyone can claim chic status for something small.",
+  "firstRetrievedAt": "2026-10-04T21:01:02Z",
+  "firstSeenRunId": "run-2026-10-04-memes",
+  "id": "kinda-chic-kinda-chic-to~5df7d9db",
+  "intent": "curiosity",
+  "kind": "observed",
+  "lastSeenRunId": "run-2026-10-04-memes",
+  "publishedAt": null,
+  "publisher": "Coveteur",
+  "retrievedAt": "2026-10-04T21:01:02Z",
+  "signalType": "press",
+  "syndicationOf": null,
+  "title": "kinda chic trend",
+  "url": "https://coveteur.com/kinda-chic-trend"
+}

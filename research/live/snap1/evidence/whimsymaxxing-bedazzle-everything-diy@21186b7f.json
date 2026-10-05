@@ -1,0 +1,19 @@
+{
+  "accessMethod": "web_search_result",
+  "candidateId": "whimsymaxxing-bedazzle-everything-diy",
+  "claim": "Fashion press uses the 'whimsymaxxing' label; the piece is a shopping roundup (supply).",
+  "excerpt": "'Whimsymaxx' With These Gemstone-Covered Accessories & Clothes",
+  "firstRetrievedAt": "2026-10-05T00:00:55Z",
+  "firstSeenRunId": "run-hunt-hobbies-20261004-3",
+  "id": "whimsymaxxing-bedazzle-everything-diy~21186b7f",
+  "intent": "none",
+  "kind": "observed",
+  "lastSeenRunId": "run-hunt-hobbies-20261004-3",
+  "publishedAt": null,
+  "publisher": "The Zoe Report",
+  "retrievedAt": "2026-10-05T00:00:55Z",
+  "signalType": "press",
+  "syndicationOf": null,
+  "title": "'Whimsymaxx' With These Gemstone-Covered Accessories & Clothes",
+  "url": "https://www.thezoereport.com/fashion/whimsymaxxing-gemstone-trend"
+}

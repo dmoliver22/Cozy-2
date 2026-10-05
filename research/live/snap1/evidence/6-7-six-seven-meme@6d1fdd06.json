@@ -1,0 +1,19 @@
+{
+  "accessMethod": "web_search_result",
+  "candidateId": "6-7-six-seven-meme",
+  "claim": "Press is already discussing when the term will stop being cool; the expert's prediction was not read.",
+  "excerpt": "When will 6-7 die? Expert predicts when the Gen Z slang term will no longer be 'cool'",
+  "firstRetrievedAt": "2026-10-04T22:33:00Z",
+  "firstSeenRunId": "run-analyze-muueb7q2-x8paqz",
+  "id": "6-7-six-seven-meme~6d1fdd06",
+  "intent": "none",
+  "kind": "observed",
+  "lastSeenRunId": "run-analyze-muueb7q2-x8paqz",
+  "publishedAt": null,
+  "publisher": "The Nightly",
+  "retrievedAt": "2026-10-04T22:33:00Z",
+  "signalType": "press",
+  "syndicationOf": null,
+  "title": "When will 6-7 die? Expert predicts when the Gen Z slang term will no longer be 'cool'",
+  "url": "https://thenightly.com.au/society/when-will-6-7-die-expert-predicts-when-the-gen-z-slang-term-will-no-longer-be-cool-c-20748293"
+}

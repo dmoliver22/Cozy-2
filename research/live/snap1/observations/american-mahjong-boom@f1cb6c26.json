@@ -1,0 +1,13 @@
+{
+  "asOf": "2026-03-23",
+  "candidateId": "american-mahjong-boom",
+  "evidenceId": "american-mahjong-boom~57562c4c",
+  "id": "american-mahjong-boom~f1cb6c26",
+  "isAbsolute": false,
+  "metric": "YoY change in mahjong events on Evite",
+  "note": "from a multi-source search summary; attribution to a specific article not confirmed",
+  "recordedAt": "2026-10-04T21:01:01.000Z",
+  "runId": "run-2026-10-04-hobbies",
+  "unit": "percent",
+  "value": 94
+}

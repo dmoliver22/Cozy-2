@@ -1,0 +1,19 @@
+{
+  "accessMethod": "web_search_result",
+  "candidateId": "analog-bag-screen-free-gifting",
+  "claim": "The primary PwC Holiday Outlook 2026 report behind the screen-free gift figures.",
+  "excerpt": "Appeared in results for 'PwC Holiday Outlook 2026 Gen Z screen-free gifts'. Summary: 64% of consumers overall and 78% of Gen Z are prioritizing screen-free gifts. The PDF itself was not read.",
+  "firstRetrievedAt": "2026-10-04T20:59:17Z",
+  "firstSeenRunId": "run-2026-10-04-movements",
+  "id": "analog-bag-screen-free-gifting~b6565b2d",
+  "intent": "purchase",
+  "kind": "observed",
+  "lastSeenRunId": "run-2026-10-04-movements",
+  "publishedAt": null,
+  "publisher": "PwC",
+  "retrievedAt": "2026-10-04T20:59:17Z",
+  "signalType": "press",
+  "syndicationOf": null,
+  "title": "ho tl report final (PwC Holiday Outlook)",
+  "url": "https://www.pwc.com/us/en/industries/consumer-markets/library/assets/ho-tl-report-final.pdf"
+}

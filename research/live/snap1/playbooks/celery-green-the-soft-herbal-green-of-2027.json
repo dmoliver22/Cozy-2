@@ -1,0 +1,161 @@
+{
+  "candidateId": "celery-green-the-soft-herbal-green-of-2027",
+  "id": "celery-green-the-soft-herbal-green-of-2027",
+  "products": [
+    {
+      "assembly": [
+        "Generate each print with the image prompts; upscale to at least 7200x10800 px for 2:3",
+        "In Canva create custom-size designs for each ratio (2:3, 3:4, 4:5, 11x14, ISO A) and place art with 0.25 in safe margins",
+        "Add the 'fresh start' text in Canva using pairing A if the AI-rendered text is imperfect",
+        "Build the palette card on US Letter and A4 with 6 swatches, invented names and hexes",
+        "Export every file as PDF Print (300 DPI) and JPG (300 DPI); name files by print and ratio",
+        "Zip by ratio (keep each zip under 20 MB for Etsy) and add a 1-page PDF with download/print instructions",
+        "Create 5 listing images: hero mockup, set overview grid, palette card, sizes chart, 'what you get' page"
+      ],
+      "asymmetry": {
+        "badBetIf": "Consumers reject the color and the general green-art market stays saturated, so the set never ranks",
+        "downside": "About 8 hours and under $5 in listing fees",
+        "upside": "Zero marginal cost, evergreen green-decor keywords, the hook lasts through 2027 and the set extends into a series"
+      },
+      "costs": {
+        "baseCost": null,
+        "basis": "estimate: digital download, only Etsy listing ($0.20) and transaction fees",
+        "item": null,
+        "pages": null,
+        "provider": null,
+        "shipping": null,
+        "testBudget": 0,
+        "testBudgetNote": "No ads until organic favorites/sales show demand"
+      },
+      "extensions": [
+        "Celery green phone wallpaper pack",
+        "Nursery version with baby herbs",
+        "Celery + butter yellow kitchen set",
+        "Seasonal 'spring refresh' bundle"
+      ],
+      "imagePrompts": [
+        {
+          "prompt": "Loose botanical line drawing of a single celery stalk with leaves, fine ink lines with soft watercolor wash in #C8C99A and #6E7A4E, centered vertical composition with generous margins, warm cream background #F6F1E4, vintage herbarium feel, no text, 2:3 aspect ratio, flat solid background. No logos, no real people, no trademarked characters, no watermarks.",
+          "purpose": "Print 1 celery botanical",
+          "tool": "Ideogram or Midjourney"
+        },
+        {
+          "prompt": "Mid-century abstract composition of overlapping arches and a half circle, matte gouache texture, colors #C8C99A, #DDE0C2, #EFE3B0, #6E7A4E on #F6F1E4, balanced asymmetric layout, subtle paper grain, no text, 2:3 aspect ratio. No logos, no real people, no trademarked characters, no watermarks.",
+          "purpose": "Print 2 abstract arches",
+          "tool": "Ideogram or Midjourney"
+        },
+        {
+          "prompt": "Minimal typographic poster, the exact words 'fresh start' in small caps elegant serif, centered, color #6E7A4E on solid #DDE0C2 background, tiny celery leaf sprig under the text, lots of negative space, 4:5 aspect ratio. No logos, no real people, no trademarked characters, no watermarks.",
+          "purpose": "Print 5 typography",
+          "tool": "Ideogram"
+        },
+        {
+          "prompt": "Bright Scandinavian-style living room wall with three framed prints in thin oak frames above a cream linen sofa, soft daylight, walls in pale herb green #DDE0C2, plants, photographic, 4:5 aspect ratio, frames left blank for compositing. No logos, no real people, no trademarked characters, no watermarks.",
+          "purpose": "Listing mockup",
+          "tool": "Canva mockup or Midjourney"
+        }
+      ],
+      "index": 0,
+      "listingPrompt": "Write an Etsy listing for a digital download: a set of 6 printable botanical and abstract wall art prints in soft celery green with a palette card. Title under 140 characters that starts with the buyer's search phrase (for example 'Celery Green Wall Art Set of 6'). Give exactly 13 tags, each 20 characters or fewer, mixing color, room and style terms (sage green decor, botanical print set, kitchen wall art). Description: what's included (6 prints, palette card, print guide), every size and ratio, file formats (PDF, JPG, 300 DPI), that nothing physical ships, how to download, and printing tips. Add a short FAQ: Can I print at a print shop? Will colors match my wall paint? (Answer honestly: screens and printers vary; not matched to any paint brand.) Refund policy for digital items. Do NOT use any paint brand names, paint codes, 'Pantone', or trademarked phrases. Keep a calm, warm tone.",
+      "marketing": {
+        "channels": [
+          {
+            "cadence": "1-2 pins daily",
+            "channel": "Pinterest",
+            "tactic": "Room-scene mockups and palette pins linking to listing"
+          },
+          {
+            "cadence": "2 per week",
+            "channel": "TikTok/Instagram Reels",
+            "tactic": "'Would you paint your room this green?' poll-style video riding the backlash conversation"
+          }
+        ],
+        "hooks": [
+          "The internet hates the new color of the year. Here's how to make it work",
+          "Try the 2027 green without picking up a paintbrush",
+          "Celery green, but make it calm"
+        ],
+        "keywords": [
+          "celery green decor",
+          "sage green wall art",
+          "soft green printable",
+          "botanical print set",
+          "green kitchen art",
+          "2027 home decor"
+        ],
+        "launchPlan": [
+          {
+            "action": "Publish full set and mini set on Etsy and Payhip",
+            "day": "Day 0"
+          },
+          {
+            "action": "Create Pinterest board 'Celery green home' and post 5 pins (mockups, palette card)",
+            "day": "Day 1"
+          },
+          {
+            "action": "Post a 15-second Reel/TikTok of the palette card and prints flipping on screen",
+            "day": "Day 3"
+          },
+          {
+            "action": "Add 5 more pins using room-specific titles (kitchen, bedroom, nursery)",
+            "day": "Day 5"
+          },
+          {
+            "action": "Check Etsy stats; rewrite title/tags if under 50 views",
+            "day": "Day 7"
+          },
+          {
+            "action": "Publish a free celery-green phone wallpaper as a lead magnet pin linking to Payhip",
+            "day": "Day 10"
+          },
+          {
+            "action": "Add 5 pins; test a 'celery + butter yellow' variation listing",
+            "day": "Day 14"
+          },
+          {
+            "action": "Go/pivot/stop: continue at 3+ sales or 40 favorites; pivot to wallpapers if views but no sales; stop under 150 views",
+            "day": "Day 21"
+          }
+        ],
+        "positioning": "The calm, fresh green set for 2027 rooms: matching art plus a palette card, no repainting needed"
+      },
+      "platforms": [
+        {
+          "name": "Etsy",
+          "role": "primary",
+          "why": "Main marketplace for printable wall art buyers"
+        },
+        {
+          "name": "Payhip",
+          "role": "secondary",
+          "why": "Direct link for Pinterest traffic, lower fees"
+        },
+        {
+          "name": "Pinterest",
+          "role": "traffic",
+          "why": "Color-led room inspiration is searched and saved there; free reach without an audience"
+        }
+      ],
+      "pricing": {
+        "basis": "estimate",
+        "currency": "USD",
+        "high": 18,
+        "low": 8,
+        "rationale": "Mid-range for a 6-print digital set; launch at $12 with a 3-print mini at $6 to test",
+        "recommended": 12
+      },
+      "productName": "Celery Green Botanical Wall Art Set (6 prints + palette card)",
+      "risks": [
+        "The backlash may mean consumers never adopt the color",
+        "Green wall art is crowded under generic keywords",
+        "Color accuracy complaints from home printing"
+      ],
+      "source": "worker",
+      "superPrompt": "You are a print designer and home-decor copywriter producing a complete, sellable printable wall-art set. BUYER: US renters and homeowners aged 25-45 freshening a living room, kitchen or bedroom in the soft, yellow-leaning herbal green that design press is calling the color of 2027. They want art that matches without repainting, they print at home or at a local print shop, and they want a calm, airy, slightly vintage feel. DELIVERABLE: a 6-print set plus 1 palette card, all designed to hang together. For each print give: title, concept, a full image-generation prompt, layout notes, and any text to place in Canva. Print 1: a single celery stalk and leaves in loose botanical line drawing. Print 2: an abstract arch-and-circle composition in four greens. Print 3: pressed-herb study (parsley, dill, fennel frond) in a vintage plate style. Print 4: soft color-block landscape (hills, sun) in tinted neutrals. Print 5: a minimal typographic print reading 'fresh start' in small caps. Print 6: a still life of a ceramic pitcher with greens. Palette card: 6 swatches with your own invented names (never paint brand names) and hex codes. SIZES: export each print at 2:3 (24x36, 16x24, 8x12 in), 3:4 (18x24, 12x16 in), 4:5 (16x20, 8x10 in), 11x14 in and ISO A1-A5, all at 300 DPI, plus US Letter 8.5x11 in and A4 versions of the palette card. PALETTE: Celery #C8C99A, Pale Herb #DDE0C2, Butter #EFE3B0, Khaki Stone #B8AE88, Deep Fennel #6E7A4E, Warm Cream #F6F1E4. FONTS (Canva): pairing A, Cormorant Garamond headings with Montserrat body; pairing B, Playfair Display with Lato. CONTENT RULES: all art and wording original; do not imitate any living artist's signature style; botanical details must be plausible (a celery stalk has ribbed, U-shaped stalks and toothed leaflets). DIFFERENTIATION: one cohesive green family across all six prints, a palette card that helps the buyer match pillows and paint, and both US and A4 sizes in one download. RIGHTS: never mention Sherwin-Williams, Dulux, any paint brand, paint codes or 'Color of the Year' as a trademarked phrase; never claim an exact paint match; no logos, no real people. OUTPUT FORMAT: Section 1, set overview (3 sentences). Sections 2-7, one per print with the fields above. Section 8, the palette card with swatch names and hexes. Section 9, a printable 'How to print' page (home printer settings, print-shop sizes, paper suggestions). Section 10, a one-page buyer thank-you note with framing tips. SELF-CHECK before answering: (1) no brand names or paint codes anywhere, (2) every hex is from the palette, (3) every print listed with all sizes, (4) all text original, (5) the image prompts include no text except Print 5's 'fresh start'.",
+      "themeKey": "Celery green botanical and abstract printable wall art set w"
+    }
+  ],
+  "runId": "run-hunt-aesthetics-20261004-1",
+  "source": "worker",
+  "writtenAt": "2026-10-04T23:58:00Z"
+}

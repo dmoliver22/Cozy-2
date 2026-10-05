@@ -1,0 +1,19 @@
+{
+  "accessMethod": "web_search_result",
+  "candidateId": "needlepoint-revival",
+  "claim": "National business press groups needlepoint with Gen Z's 'grandma hobbies' (March 2026).",
+  "excerpt": "Title/URL only.",
+  "firstRetrievedAt": "2026-10-04T20:53:53Z",
+  "firstSeenRunId": "run-2026-10-04-hobbies",
+  "id": "needlepoint-revival~b2a3b236",
+  "intent": "curiosity",
+  "kind": "observed",
+  "lastSeenRunId": "run-2026-10-04-hobbies",
+  "publishedAt": "2026-03-09",
+  "publisher": "Fortune",
+  "retrievedAt": "2026-10-04T20:53:53Z",
+  "signalType": "press",
+  "syndicationOf": null,
+  "title": "What are grandma hobbies? Gen Z, analog, bird watching, needlepoint",
+  "url": "https://dc.fortune.com/2026/03/09/what-are-grandma-hobbies-gen-z-analog-bird-watching-needlepoint-like-video-games-real-life"
+}

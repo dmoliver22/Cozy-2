@@ -1,0 +1,19 @@
+{
+  "accessMethod": "web_search_result",
+  "candidateId": "cosmic-reset-beginner-astrology-tarot",
+  "claim": "Trade press headlined Cosmic Reset as one of the report's main fall-2026 trends; data compares May 2025 with May 2026.",
+  "excerpt": "Title names Cosmic Reset; search summary gives the comparison period.",
+  "firstRetrievedAt": "2026-10-04T20:56:14Z",
+  "firstSeenRunId": "run-2026-10-04-aesthetics",
+  "id": "cosmic-reset-beginner-astrology-tarot~5afb1d6b",
+  "intent": "none",
+  "kind": "observed",
+  "lastSeenRunId": "run-2026-10-04-aesthetics",
+  "publishedAt": null,
+  "publisher": "WWD",
+  "retrievedAt": "2026-10-04T20:56:14Z",
+  "signalType": "press",
+  "syndicationOf": "cosmic-reset-beginner-astrology-tarot~d2e1f12c",
+  "title": "Pinterest Fall 2026 Trends Are Thrifting, Equestrian & Cosmic Reset",
+  "url": "https://wwd.com/business-news/business-features/pinterest-fall-2026-trend-report-equestrian-style-secondhand-thrifting-cosmic-wellness-rituals-1239148348/"
+}

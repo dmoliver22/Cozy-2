@@ -1,7 +1,7 @@
 # Trendjack first-spark hunt (for research sessions)
 
 You are one of several parallel research sessions hunting **early** trends for Trendjack: things
-that started or broke out in roughly the last 3 weeks (since about mid-September 2026), before the
+that started or broke out in roughly the last 3–6 weeks (since about late August 2026), before the
 market fills up. Today is early October 2026; get the exact time with `date -u +%FT%TZ`.
 
 Read these files in this repository first and follow them, except where this file overrides:
@@ -38,6 +38,19 @@ update to status "running") and keep its `steps`, `progress` and `updatedAt` cur
   spend on ads until it spreads) or "watch". "test_now" still needs real demand evidence.
 - In each first-spark candidate's `unresolved`, list the 1–3 signals that would confirm it is
   spreading, so the creator knows what to watch for.
+- Label the stage from your own dates: `first_spark` only when the earliest dated evidence you
+  found is within about 6 weeks. If your research shows the scene or term is older (a club scene
+  since 2023, a format that peaked last January), it is `early_growth` or later even if products
+  are still scarce. An editor will relabel inflated stages, so do not stretch.
+- Skip anything built on a private person (a bystander, student or employee in a news clip or
+  viral video), especially one tied to a crime, accident or tragedy. Reject it in `discovered`.
+- Check for near-duplicates, not just exact names: if an existing candidate covers the same
+  behavior under another name (for example "phone-free nights" vs "offline club"), skip it or
+  file it only if it is clearly a different buyer and product.
+
+## Lenses already covered (wave 1, 2026-10-04)
+aesthetics, communities, food and home, hobbies, memes, seasonal moments, New Year planning,
+consumer tech habits. Their 30+ candidates are in the database; do not re-file them.
 
 ## Output (overrides section 5 of WORKER_PROMPT.md)
 Write **one inbox document per candidate** so no document gets too large:

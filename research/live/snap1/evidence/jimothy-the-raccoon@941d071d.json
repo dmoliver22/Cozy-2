@@ -1,0 +1,19 @@
+{
+  "accessMethod": "web_search_result",
+  "candidateId": "jimothy-the-raccoon",
+  "claim": "IP attorneys say the name and a generic drawn image likely can't be protected as a trademark, though the original videographer might have a hard-to-prove claim.",
+  "excerpt": "'The name of the raccoon, in all likelihood, and a general image of the raccoon drawn however you would, would not theoretically be possible to be protected as a trademark' (per search summary).",
+  "firstRetrievedAt": "2026-10-04T20:57:55Z",
+  "firstSeenRunId": "run-2026-10-04-memes",
+  "id": "jimothy-the-raccoon~941d071d",
+  "intent": "utility",
+  "kind": "observed",
+  "lastSeenRunId": "run-2026-10-04-memes",
+  "publishedAt": null,
+  "publisher": "ABA Journal",
+  "retrievedAt": "2026-10-04T20:57:55Z",
+  "signalType": "press",
+  "syndicationOf": null,
+  "title": "Is Jimothy the raccoon too popular to be owned? IP attorneys weigh in",
+  "url": "https://www.abajournal.com/news/article/jimothy-the-raccoon-is-too-popular-to-be-owned-ip-attorneys-say"
+}

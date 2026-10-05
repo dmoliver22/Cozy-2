@@ -1,0 +1,13 @@
+{
+  "asOf": "2026-10-01",
+  "candidateId": "chile-memes-everything-is-narrow",
+  "evidenceId": "chile-memes-everything-is-narrow~631f90bd",
+  "id": "chile-memes-everything-is-narrow~00ff57b9",
+  "isAbsolute": false,
+  "metric": "Share of KYM Sept 2026 Meme of the Month vote",
+  "note": "reported by Know Your Meme; reader poll, not reach",
+  "recordedAt": "2026-10-05T00:00:55.060Z",
+  "runId": "run-hunt-memes-20261004-2",
+  "unit": "percent",
+  "value": 8.4
+}

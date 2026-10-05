@@ -3,31 +3,47 @@ import { readFile, readdir, writeFile } from 'node:fs/promises';
 import { feeTable, productEconomics, asymmetry } from '../src/core/economics.js';
 import { matchPlaybooks } from '../src/core/playbook.js';
 import { assess } from '../src/core/scoring.js';
+import { mergeDuplicates } from '../src/data/store.js';
 
 const root = new URL('..', import.meta.url).pathname;
 const read = async (p) => JSON.parse(await readFile(`${root}${p}`, 'utf8'));
 const fees = await read('research/live/config/fees.json').then((f) => f.data || f).catch(() => null);
 const table = feeTable(fees, {});
-const cands = [];
-for (const f of (await readdir(`${root}research/seed/docs`)).filter((f) => f.startsWith('candidates__'))) cands.push(await read(`research/seed/docs/${f}`));
-const docs = new Map();
-for (const f of (await readdir(`${root}research/seed/playbooks`)).filter((f) => f.startsWith('playbooks__'))) {
-  const d = await read(`research/seed/playbooks/${f}`);
-  docs.set(d.candidateId, d);
+// Sources, later ones winning: the seed set, a downloaded live snapshot (ArtifactData out_dir
+// layout: <dir>/<collection>/<id>.json) and freshly filed docs (<collection>__<id>.json).
+// Usage: node scripts/export-playbooks.mjs [snapshotDir ...]
+const dirs = process.argv.slice(2).length ? process.argv.slice(2) : ['research/live/snap1', 'research/seed/inbox'];
+const state = { candidates: new Map(), evidence: new Map(), playbooks: new Map() };
+const put = (col, d) => d && state[col] && state[col].set(d.id || d.candidateId, d);
+const flat = async (dir) => {
+  for (const f of await readdir(`${root}${dir}`).catch(() => [])) {
+    const [col] = f.split('__');
+    if (f.endsWith('.json') && state[col]) put(col, await read(`${dir}/${f}`));
+  }
+};
+await flat('research/seed/docs');
+await flat('research/seed/playbooks');
+for (const dir of dirs) {
+  await flat(dir);
+  for (const col of Object.keys(state)) for (const f of await readdir(`${root}${dir}/${col}`).catch(() => [])) put(col, await read(`${dir}/${col}/${f}`).then((d) => d.data || d));
 }
-const now = Date.parse('2026-10-05T00:00:00Z');
-const evidenceBy = new Map();
-for (const f of (await readdir(`${root}research/seed/docs`)).filter((f) => f.startsWith('evidence__'))) {
-  const e = await read(`research/seed/docs/${f}`);
-  if (!evidenceBy.has(e.candidateId)) evidenceBy.set(e.candidateId, []);
-  evidenceBy.get(e.candidateId).push(e);
-}
+const { candidates: cands, evidenceBy } = mergeDuplicates([...state.candidates.values()], (() => {
+  const m = new Map();
+  for (const e of state.evidence.values()) {
+    if (!m.has(e.candidateId)) m.set(e.candidateId, []);
+    m.get(e.candidateId).push(e);
+  }
+  return m;
+})());
+const docs = new Map([...state.playbooks.values()].map((d) => [d.candidateId || d.id, d]));
+const now = Date.parse('2026-10-05T12:00:00Z');
 const LABEL = { test_now: 'Test now', prepare: 'Prepare', watch: 'Watch', pass: 'Pass' };
 const money = (n) => (Number.isFinite(n) ? `$${n.toFixed(2)}` : 'unknown');
 const rows = [];
 const sections = [];
 for (const c of cands) {
   const gated = assess(c, evidenceBy.get(c.id) || [], {}, now).gate.action;
+  if (!c.products?.length) continue;
   const matched = matchPlaybooks(c, docs.get(c.id));
   matched.forEach((m, i) => {
     const p = c.products[i];

@@ -1,0 +1,13 @@
+{
+  "asOf": "2026-10-04",
+  "candidateId": "analog-bag-screen-free-gifting",
+  "evidenceId": "analog-bag-screen-free-gifting~ed7fe1ae",
+  "id": "analog-bag-screen-free-gifting~00283226",
+  "isAbsolute": false,
+  "metric": "Growth in US phone-free event attendance, 2024 to 2025",
+  "note": "Reported by Eventbrite; US listing growth given as 337% in one summary and 388% (event volume) in another.",
+  "recordedAt": "2026-10-04T21:02:03.000Z",
+  "runId": "run-2026-10-04-movements",
+  "unit": "percent increase",
+  "value": 913
+}

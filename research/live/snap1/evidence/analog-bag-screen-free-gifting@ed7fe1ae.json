@@ -1,0 +1,19 @@
+{
+  "accessMethod": "web_search_result",
+  "candidateId": "analog-bag-screen-free-gifting",
+  "claim": "Eventbrite's listing data shows phone-free events up 567% globally from 2024 to 2025, with US attendance up 913%.",
+  "excerpt": "Summary (also carried by Mixmag): analyzed listings using 'phone-free'/'photo-free' terms for 2024, 2025 and Q1 2026; global events +567%, attendance +121%; US listings +337%, attendance +913%; 49% of Gen Z/millennials want live experiences to feel less curated.",
+  "firstRetrievedAt": "2026-10-04T20:59:17Z",
+  "firstSeenRunId": "run-2026-10-04-movements",
+  "id": "analog-bag-screen-free-gifting~ed7fe1ae",
+  "intent": "utility",
+  "kind": "observed",
+  "lastSeenRunId": "run-2026-10-04-movements",
+  "publishedAt": null,
+  "publisher": "Eventbrite",
+  "retrievedAt": "2026-10-04T20:59:17Z",
+  "signalType": "community",
+  "syndicationOf": null,
+  "title": "Offline by Design: The Rise of Phone-Free Experiences in 2026's Analog Era",
+  "url": "https://www.eventbrite.com/blog/?p=441080"
+}

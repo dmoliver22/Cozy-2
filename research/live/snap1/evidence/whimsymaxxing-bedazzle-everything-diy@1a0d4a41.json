@@ -1,0 +1,19 @@
+{
+  "accessMethod": "web_search_result",
+  "candidateId": "whimsymaxxing-bedazzle-everything-diy",
+  "claim": "Business press reports Gen Z gluing rhinestones to everyday objects, with large brands joining in on social media.",
+  "excerpt": "Social media users have spent the last month meticulously gluing rhinestones to everyday objects, including coffee cups, skincare, phone cases, and even puppies.",
+  "firstRetrievedAt": "2026-10-05T00:00:55Z",
+  "firstSeenRunId": "run-hunt-hobbies-20261004-3",
+  "id": "whimsymaxxing-bedazzle-everything-diy~1a0d4a41",
+  "intent": "curiosity",
+  "kind": "observed",
+  "lastSeenRunId": "run-hunt-hobbies-20261004-3",
+  "publishedAt": "2026-08-28",
+  "publisher": "Fortune",
+  "retrievedAt": "2026-10-05T00:00:55Z",
+  "signalType": "press",
+  "syndicationOf": null,
+  "title": "Gen Z's bedazzling era is the latest Lipstick Index as youths put gems on everything from coffee cups to skincare",
+  "url": "https://fortune.com/2026/08/28/gen-z-bedazzling-era-lipstick-index-youths-gems-coffee-skincare/"
+}

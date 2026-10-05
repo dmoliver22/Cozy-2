@@ -1,0 +1,19 @@
+{
+  "accessMethod": "web_search_result",
+  "candidateId": "needlepoint-revival",
+  "claim": "In a result set whose summary stated needlepoint searches up 251% YoY and knitting/crochet/embroidery/painting searches up 136% over six months; exact source of each figure not confirmed.",
+  "excerpt": "Multi-source search summary (Michaels coverage and Glimpse trend pages); attribution not confirmed.",
+  "firstRetrievedAt": "2026-10-04T20:53:53Z",
+  "firstSeenRunId": "run-2026-10-04-hobbies",
+  "id": "needlepoint-revival~8d46621f",
+  "intent": "curiosity",
+  "kind": "observed",
+  "lastSeenRunId": "run-2026-10-04-hobbies",
+  "publishedAt": null,
+  "publisher": "AOL (republishing a lifestyle outlet)",
+  "retrievedAt": "2026-10-04T20:53:53Z",
+  "signalType": "search",
+  "syndicationOf": null,
+  "title": "The Biggest DIY Projects & Hobbies In 2026, According To Michaels' Creativity Trend Report",
+  "url": "https://www.aol.com/lifestyle/biggest-diy-projects-hobbies-2026-100000558.html"
+}

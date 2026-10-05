@@ -1,0 +1,19 @@
+{
+  "accessMethod": "web_search_result",
+  "candidateId": "jimothy-the-raccoon",
+  "claim": "An officially licensed, limited-edition Jimothy bobblehead is on presale.",
+  "excerpt": "Presale product page; KMPH reports it as the first officially licensed bobblehead.",
+  "firstRetrievedAt": "2026-10-04T20:57:55Z",
+  "firstSeenRunId": "run-2026-10-04-memes",
+  "id": "jimothy-the-raccoon~ef0fb350",
+  "intent": "none",
+  "kind": "observed",
+  "lastSeenRunId": "run-2026-10-04-memes",
+  "publishedAt": null,
+  "publisher": "National Bobblehead Hall of Fame and Museum store",
+  "retrievedAt": "2026-10-04T20:57:55Z",
+  "signalType": "marketplace",
+  "syndicationOf": null,
+  "title": "Jimothy the Raccoon Bobblehead (Presale)",
+  "url": "https://store.bobbleheadhall.com/products/jimothy"
+}

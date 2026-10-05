@@ -1,0 +1,204 @@
+{
+  "candidateIds": [
+    "relax-pal"
+  ],
+  "discovered": [
+    {
+      "disposition": "deep_dived",
+      "name": "Relax, Pal",
+      "rejectReason": "",
+      "whyConsidered": "Deadpan two-word catchphrase from a Sept 25-27 2026 local news clip; edits with millions of views within days; KYM entry"
+    },
+    {
+      "disposition": "deep_dived",
+      "name": "Chile memes (narrow everything)",
+      "rejectReason": "",
+      "whyConsidered": "Sept 18+ TikTok/Reels surge, multilingual spread, brand joined, KYM Meme of the Month runner-up"
+    },
+    {
+      "disposition": "deep_dived",
+      "name": "Things To Say (ironic hustle-culture advice lists)",
+      "rejectReason": "",
+      "whyConsidered": "Sept 2026 KYM Meme of the Month winner; poster-style list format jumped TikTok to Reels"
+    },
+    {
+      "disposition": "deep_dived",
+      "name": "I Can't Do Nathan",
+      "rejectReason": "",
+      "whyConsidered": "Gen Alpha catchphrase (misheard 'nothing') from mid-Aug, listed among 2026's most-searched teen slang and in KYM roundup"
+    },
+    {
+      "disposition": "rejected",
+      "name": "Remember November 2026 (AI polar bear)",
+      "rejectReason": "Already covered in candidates (remember-november-2026)",
+      "whyConsidered": "Big September meme"
+    },
+    {
+      "disposition": "rejected",
+      "name": "We're All Just Blocking the Street",
+      "rejectReason": "Built on a Family Guy clip and its sung line: TV/lyric IP",
+      "whyConsidered": "Sept 2026 audio meme about crowds/tourist towns"
+    },
+    {
+      "disposition": "rejected",
+      "name": "Jean Phil / Jean Philanthrope shadowboxing",
+      "rejectReason": "Depends on a real person's likeness",
+      "whyConsidered": "Mid-Sept 2026 viral figure"
+    },
+    {
+      "disposition": "rejected",
+      "name": "Malfoid",
+      "rejectReason": "Harry Potter character IP; name built on a misogynist slur",
+      "whyConsidered": "Late-Sept 2026 X fan-art trend"
+    },
+    {
+      "disposition": "rejected",
+      "name": "Wawario / Wawaluigi",
+      "rejectReason": "Nintendo character IP",
+      "whyConsidered": "Late-Sept 2026 absurdist meme"
+    },
+    {
+      "disposition": "rejected",
+      "name": "Hotel Lobby AI trend",
+      "rejectReason": "Built on a song and real artists' likeness",
+      "whyConsidered": "September AI-video format"
+    },
+    {
+      "disposition": "rejected",
+      "name": "Ronaldo Day / IShowSpeed",
+      "rejectReason": "Celebrity/streamer likeness",
+      "whyConsidered": "KYM Oct 2 roundup"
+    },
+    {
+      "disposition": "rejected",
+      "name": "Not Laughing Cow",
+      "rejectReason": "Brand IP (The Laughing Cow)",
+      "whyConsidered": "Packaging meme in Oct 2 roundup"
+    },
+    {
+      "disposition": "rejected",
+      "name": "Quiet on the Creek",
+      "rejectReason": "Started July 2026 (outside window) and now tied to a celebrity's song; crowded",
+      "whyConsidered": "Popular 2026 phrase, 'move in silence' identity value"
+    },
+    {
+      "disposition": "rejected",
+      "name": "Scuba (stink dance) / Crine",
+      "rejectReason": "Data covers Jan-Aug; not a new spark; 'crine' is older Black Twitter usage; weak product angle",
+      "whyConsidered": "Listed in Sept 2026 most-searched Gen Alpha slang"
+    },
+    {
+      "disposition": "rejected",
+      "name": "Chalant / chalant dating",
+      "rejectReason": "Circulating since 2025; not a first spark in this window",
+      "whyConsidered": "Identity label for earnest daters"
+    },
+    {
+      "disposition": "rejected",
+      "name": "My Recent Flops carousel / flop era",
+      "rejectReason": "'Flop era' is long-established; carousel is a content format with little product pull",
+      "whyConsidered": "September Instagram format"
+    },
+    {
+      "disposition": "rejected",
+      "name": "Be OK (happy dance, chaotic caption)",
+      "rejectReason": "Driven by a commercial song; phrase not distinctive",
+      "whyConsidered": "Oct 2026 TikTok/Instagram format"
+    },
+    {
+      "disposition": "rejected",
+      "name": "Text message from -A",
+      "rejectReason": "Pretty Little Liars IP",
+      "whyConsidered": "Oct 2026 TikTok text hook"
+    },
+    {
+      "disposition": "rejected",
+      "name": "Ramalama Costume Walk",
+      "rejectReason": "Song-driven; no phrase to sell",
+      "whyConsidered": "October Halloween format"
+    },
+    {
+      "disposition": "rejected",
+      "name": "Doorbell Chud",
+      "rejectReason": "April 2026 and based on a real arrested person",
+      "whyConsidered": "KYM roundup"
+    },
+    {
+      "disposition": "rejected",
+      "name": "October Used To Be Cold",
+      "rejectReason": "2022/2024 meme, not new; mostly media screenshots",
+      "whyConsidered": "Seasonal phrase"
+    },
+    {
+      "disposition": "rejected",
+      "name": "The Great Meme Reset of 2026",
+      "rejectReason": "Coined 2025 and reported to have fizzled",
+      "whyConsidered": "Meme-culture movement"
+    }
+  ],
+  "id": "run-hunt-memes-20261004-1",
+  "ingestedAt": "2026-10-05T00:00:54.839Z",
+  "jobId": "hunt-memes-20261004",
+  "kind": "discover",
+  "lens": "First-spark hunt: memes, catchphrases, slang",
+  "report": [
+    {
+      "errors": [],
+      "id": "relax-pal",
+      "name": "Relax, Pal",
+      "status": "created",
+      "warnings": 0
+    }
+  ],
+  "researchedAt": "2026-10-05T00:00:47Z",
+  "sourcesTried": [
+    {
+      "method": "WebFetch + WebSearch",
+      "note": "knowyourmeme.com blocked by egress proxy; used search-result snippets only",
+      "source": "Know Your Meme (entries, weekly roundups, Meme of the Month)",
+      "status": "blocked"
+    },
+    {
+      "method": "WebFetch",
+      "note": "egress blocked; snippets only",
+      "source": "meme.com explainers",
+      "status": "blocked"
+    },
+    {
+      "method": "WebFetch",
+      "note": "egress blocked; snippets only",
+      "source": "newengen.com TikTok/Instagram trend pages",
+      "status": "blocked"
+    },
+    {
+      "method": "WebFetch",
+      "note": "egress blocked",
+      "source": "pepperagency.com October 2026 trends",
+      "status": "blocked"
+    },
+    {
+      "method": "WebFetch",
+      "note": "egress blocked; snippets only",
+      "source": "thunderdungeon.com, thebrewnews.com (Chile memes)",
+      "status": "blocked"
+    },
+    {
+      "method": "WebSearch",
+      "note": "about 45 queries; primary evidence channel",
+      "source": "WebSearch (extended/standard) across trend roundups, slang explainers, KYM, Yaho",
+      "status": "ok"
+    },
+    {
+      "method": "WebSearch for merch terms",
+      "note": "no direct marketplace access; searched for listings via web search only, so supply counts are not measured",
+      "source": "Etsy / Redbubble / TikTok Shop supply checks",
+      "status": "ok"
+    },
+    {
+      "method": "not fetched",
+      "note": "typically blocked; only TikTok discover-page titles seen in search results",
+      "source": "TikTok, Reddit, X, Google Trends",
+      "status": "not_tried"
+    }
+  ]
+}

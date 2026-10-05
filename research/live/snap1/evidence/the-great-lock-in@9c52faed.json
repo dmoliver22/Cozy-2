@@ -1,0 +1,19 @@
+{
+  "accessMethod": "web_search_result",
+  "candidateId": "the-great-lock-in",
+  "claim": "Same title as l5. Treated as a duplicate or syndicated explainer.",
+  "excerpt": "Identical title to the takeroon page.",
+  "firstRetrievedAt": "2026-10-04T20:59:17Z",
+  "firstSeenRunId": "run-2026-10-04-movements",
+  "id": "the-great-lock-in~9c52faed",
+  "intent": "utility",
+  "kind": "observed",
+  "lastSeenRunId": "run-2026-10-04-movements",
+  "publishedAt": null,
+  "publisher": "lock-in.info",
+  "retrievedAt": "2026-10-04T20:59:17Z",
+  "signalType": "creator",
+  "syndicationOf": "the-great-lock-in~0964c8b1",
+  "title": "The Great Lock In 2026: Dates, Rules, How to Start",
+  "url": "https://lock-in.info/discipline/great-lock-in/"
+}

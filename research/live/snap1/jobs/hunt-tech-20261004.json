@@ -1,0 +1,114 @@
+{
+  "candidateId": null,
+  "createdAt": "2026-10-04T23:49:30Z",
+  "dispatch": {
+    "at": "2026-10-04T23:49:30Z",
+    "status": "sent"
+  },
+  "error": "Every direct page fetch was blocked by the egress proxy (trend roundups, NYU student news, Month Offline, Gray TV, others), so all evidence comes from search results only. Two TikTok post dates are inferred from video IDs. No search-volume or sales data exists for the printable angles. Earlier progress updates on this job carried estimated timestamps that ran up to about 40 minutes ahead of the real clock; this update uses real times.",
+  "finishedAt": "2026-10-05T00:04:20Z",
+  "id": "hunt-tech-20261004",
+  "input": "First-spark hunt: new consumer tech habits that create printable or template demand",
+  "inputKind": null,
+  "key": "discover:hunt-tech-20261004",
+  "progress": "Done",
+  "result": null,
+  "sourcesTried": [
+    {
+      "method": "search",
+      "note": "About 45 queries across TikTok trend roundups, Know Your Meme, tech press, parenting and campus news, and marketplace listings.",
+      "source": "WebSearch (standard and extended)",
+      "status": "ok"
+    },
+    {
+      "method": "WebFetch",
+      "note": "Egress blocked; used the search-result summary only.",
+      "source": "napoleoncat.com TikTok trends Oct 2026",
+      "status": "blocked"
+    },
+    {
+      "method": "WebFetch",
+      "note": "Egress blocked; used the search-result summary only.",
+      "source": "newengen.com October and September TikTok trends",
+      "status": "blocked"
+    },
+    {
+      "method": "WebFetch",
+      "note": "Egress blocked.",
+      "source": "anijam.ai TikTok trends Sept 2026",
+      "status": "blocked"
+    },
+    {
+      "method": "WebFetch",
+      "note": "Egress blocked; used search results.",
+      "source": "nyunews.com (Washington Square News)",
+      "status": "blocked"
+    },
+    {
+      "method": "WebFetch",
+      "note": "Egress blocked; used search results.",
+      "source": "offline.community (Month Offline)",
+      "status": "blocked"
+    },
+    {
+      "method": "WebFetch",
+      "note": "Egress blocked; used search results for the wflx/kold copies.",
+      "source": "hometownstations.com (Gray TV syndicated story)",
+      "status": "blocked"
+    },
+    {
+      "method": "WebFetch",
+      "note": "Egress blocked; trend date could not be verified.",
+      "source": "pasqualepillitteri.it (ChatGPT goodbye trend)",
+      "status": "blocked"
+    },
+    {
+      "method": "search results only",
+      "note": "Video and discover pages seen only as search results; dates of two videos inferred from their numeric IDs.",
+      "source": "TikTok",
+      "status": "ok"
+    },
+    {
+      "method": "search results only",
+      "note": "Listings seen as search results; no sales data available.",
+      "source": "Etsy / Gumroad / Payhip",
+      "status": "ok"
+    },
+    {
+      "method": "not attempted",
+      "note": "Usually blocked; no search-interest data used.",
+      "source": "Google Trends",
+      "status": "not_tried"
+    },
+    {
+      "method": "not attempted",
+      "note": "Usually blocked.",
+      "source": "Reddit",
+      "status": "not_tried"
+    }
+  ],
+  "startedAt": "2026-10-04T23:51:30Z",
+  "status": "partial",
+  "steps": [
+    {
+      "label": "Queued",
+      "status": "done"
+    },
+    {
+      "label": "Searching",
+      "status": "done"
+    },
+    {
+      "label": "Verifying sources",
+      "status": "done"
+    },
+    {
+      "label": "Writing results",
+      "status": "done"
+    }
+  ],
+  "summary": "Screened 27 in new consumer tech habits; filed 4 (2 first spark, 2 early growth).",
+  "topicKey": null,
+  "type": "discover",
+  "updatedAt": "2026-10-05T00:04:20Z"
+}

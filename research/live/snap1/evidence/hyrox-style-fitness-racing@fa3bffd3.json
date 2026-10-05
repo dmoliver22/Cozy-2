@@ -1,0 +1,19 @@
+{
+  "accessMethod": "web_search_result",
+  "candidateId": "hyrox-style-fitness-racing",
+  "claim": "Multiple workout-library books target first-time racers.",
+  "excerpt": "Search summary: aimed at athletes 12 weeks out from their first race or chasing a PB.",
+  "firstRetrievedAt": "2026-10-04T20:53:53Z",
+  "firstSeenRunId": "run-2026-10-04-hobbies",
+  "id": "hyrox-style-fitness-racing~fa3bffd3",
+  "intent": "none",
+  "kind": "observed",
+  "lastSeenRunId": "run-2026-10-04-hobbies",
+  "publishedAt": null,
+  "publisher": "ThriftBooks (book listing)",
+  "retrievedAt": "2026-10-04T20:53:53Z",
+  "signalType": "marketplace",
+  "syndicationOf": null,
+  "title": "Over 1000 Hyrox Workouts: The Complete Training Library",
+  "url": "https://www.thriftbooks.com/w/over-1000-hyrox-workouts-the-complete-training-library-stations-compromised-running-strength-emoms-programmes-and-race-simulations-over-1000-workouts-series_ariel-wisherty/59177505/"
+}

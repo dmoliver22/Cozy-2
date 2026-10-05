@@ -1,0 +1,23 @@
+{
+  "action": "prepare",
+  "analystAction": "prepare",
+  "candidateId": "whimsymaxxing-bedazzle-everything-diy",
+  "competition": "moderate",
+  "confidence": 50,
+  "id": "whimsymaxxing-bedazzle-everything-diy~run-hunt-hobbies-20261004-3",
+  "independentSources": 13,
+  "purchaseSignals": 0,
+  "runId": "run-hunt-hobbies-20261004-3",
+  "score": 58,
+  "stage": "early_growth",
+  "takenAt": "2026-10-05T00:00:55Z",
+  "weightsUsed": {
+    "buyerIntent": 20,
+    "durability": 15,
+    "economics": 10,
+    "productFit": 15,
+    "supplyGap": 15,
+    "timing": 25
+  },
+  "windowEstimate": "Through the 2026 holiday gifting season"
+}

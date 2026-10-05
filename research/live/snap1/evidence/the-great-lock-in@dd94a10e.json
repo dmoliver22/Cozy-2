@@ -1,0 +1,19 @@
+{
+  "accessMethod": "web_search_result",
+  "candidateId": "the-great-lock-in",
+  "claim": "Paid digital journals exist for the sibling Winter Arc trend.",
+  "excerpt": "Summary: digital tracker with 30 weeks of self-development, daily quotes, daily tracker, accountability and goal setting. No sales data.",
+  "firstRetrievedAt": "2026-10-04T20:59:17Z",
+  "firstSeenRunId": "run-2026-10-04-movements",
+  "id": "the-great-lock-in~dd94a10e",
+  "intent": "none",
+  "kind": "observed",
+  "lastSeenRunId": "run-2026-10-04-movements",
+  "publishedAt": null,
+  "publisher": "Gumroad seller",
+  "retrievedAt": "2026-10-04T20:59:17Z",
+  "signalType": "marketplace",
+  "syndicationOf": null,
+  "title": "Winter Arc Ready - Journal (Gumroad)",
+  "url": "https://thebasedchad.gumroad.com/l/winterarc"
+}

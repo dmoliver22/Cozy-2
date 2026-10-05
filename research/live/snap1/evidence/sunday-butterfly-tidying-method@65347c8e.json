@@ -1,0 +1,19 @@
+{
+  "accessMethod": "web_search_result",
+  "candidateId": "sunday-butterfly-tidying-method",
+  "claim": "Second independent blog calls it a 2026 decluttering trend and offers a free printable tracker (free supply)",
+  "excerpt": "You float through the house like a butterfly, touch one thing, deal with it completely, and move on.",
+  "firstRetrievedAt": "2026-10-05T00:01:02Z",
+  "firstSeenRunId": "run-hunt-foodhome-20261004-3",
+  "id": "sunday-butterfly-tidying-method~65347c8e",
+  "intent": "utility",
+  "kind": "observed",
+  "lastSeenRunId": "run-hunt-foodhome-20261004-3",
+  "publishedAt": null,
+  "publisher": "The Calm Roost",
+  "retrievedAt": "2026-10-05T00:01:02Z",
+  "signalType": "creator",
+  "syndicationOf": null,
+  "title": "The Sunday Butterfly Method: I Tried the Gentle 2026 Decluttering Trend",
+  "url": "https://thecalmroost.com/sunday-butterfly-method/"
+}

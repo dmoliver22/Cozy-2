@@ -1,0 +1,19 @@
+{
+  "accessMethod": "web_search_result",
+  "candidateId": "remember-november-2026",
+  "claim": "Etsy has a market/search page for this phrase with multiple meme tees (supply, not demand).",
+  "excerpt": "Search summary: items include 'Remember November 2026 Shirt', 'Polar Bear 2026 Meme Tee', 'Cursed Polar Bear Graphic Tee'; designs with forest/moon and 'REMEMBER NOVEMBER / 2026 IS COMING'; basic tees about $11-24; hoodies and totes also present.",
+  "firstRetrievedAt": "2026-10-04T20:57:55Z",
+  "firstSeenRunId": "run-2026-10-04-memes",
+  "id": "remember-november-2026~1cafc1f7",
+  "intent": "none",
+  "kind": "observed",
+  "lastSeenRunId": "run-2026-10-04-memes",
+  "publishedAt": null,
+  "publisher": "Etsy",
+  "retrievedAt": "2026-10-04T20:57:55Z",
+  "signalType": "marketplace",
+  "syndicationOf": null,
+  "title": "Remember November 2026 Shirt - Etsy",
+  "url": "https://www.etsy.com/market/remember_november_2026_shirt"
+}

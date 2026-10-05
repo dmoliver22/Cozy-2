@@ -1,0 +1,19 @@
+{
+  "accessMethod": "web_search_result",
+  "candidateId": "kitchen-witch-aesthetic",
+  "claim": "Pinterest named 'Kitchen Witch' one of nine fall-2026 hobby trends and reported search increases for related terms.",
+  "excerpt": "Search summaries of this page: Kitchen Witch is one of nine trends (with Cosmic Reset, Home Cafe Engineering, Backyard Botanist, Weekend Equestrian, Secondhand Sidequest, Handmade Hacker, Curated Clutter, Casual Crafter); searches for 'herbal apothecary' +595%, 'midnight margaritas' +140%, 'candle making tutorial' +118%, homemade spice blends +209%, kombucha scoby recipes +201%, beeswax wrap tutorials +250%. Figures are Pinterest's own; page not fetched (blocked).",
+  "firstRetrievedAt": "2026-10-04T20:56:14Z",
+  "firstSeenRunId": "run-2026-10-04-aesthetics",
+  "id": "kitchen-witch-aesthetic~d2e1f12c",
+  "intent": "utility",
+  "kind": "observed",
+  "lastSeenRunId": "run-2026-10-04-aesthetics",
+  "publishedAt": "2026-08-25",
+  "publisher": "Pinterest Newsroom",
+  "retrievedAt": "2026-10-04T20:56:14Z",
+  "signalType": "search",
+  "syndicationOf": null,
+  "title": "Pinterest Hobbies Trend Report 2026: Find your joy",
+  "url": "https://newsroom.pinterest.com/news/2026-pinterest-hobbies-trend-report/"
+}

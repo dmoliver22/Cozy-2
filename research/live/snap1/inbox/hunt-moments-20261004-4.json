@@ -1,0 +1,509 @@
+{
+  "createdAt": "2026-10-04T23:55:30Z",
+  "jobId": "hunt-moments-20261004",
+  "raw": {
+    "candidates": [
+      {
+        "actionRationale": "The planning moment is real but purchase demand is unproven and free tools compete. Build only if it fits around stronger bets, list in early November, and spend nothing on ads.",
+        "adopters": {
+          "evidence": [
+            "e1",
+            "e3",
+            "e5",
+            "e6"
+          ],
+          "text": "US salaried workers and travel-minded millennials; travel sites and optimizer tools publishing 2027 guides."
+        },
+        "aliases": [
+          "PTO-maxxing",
+          "PTO maxxing 2027",
+          "holiday bridging",
+          "long weekend planning 2027"
+        ],
+        "category": "other",
+        "competition": {
+          "evidence": [
+            "e4",
+            "e7"
+          ],
+          "level": "moderate",
+          "text": "At least two free interactive 2027 optimizers and several free guides. Paid Etsy spreadsheet planners were not checked (Etsy blocked)."
+        },
+        "evidence": [
+          {
+            "accessMethod": "web_search_result",
+            "claim": "National business press names and explains PTO-maxxing and already looks ahead to 2027; notes Christmas 2026 on a Friday and that about half of US workers with PTO use less than offered (Pew)",
+            "excerpt": "Taking a Wednesday and a Thursday around Christmas (which lands on a Friday this year), means two PTO days turn into a five-day reset",
+            "id": "e1",
+            "intent": "utility",
+            "kind": "observed",
+            "publishedAt": "2026-05-27",
+            "publisher": "Fortune",
+            "retrievedAt": "2026-10-04T23:55:30Z",
+            "signalType": "press",
+            "syndicationOf": null,
+            "title": "What is PTO-maxxing? How to turn 15 vacation days into 49 days off in 2026 and 2027",
+            "url": "https://fortune.com/2026/05/27/how-to-max-out-paid-time-off-in-2026-pto-maxxing/"
+          },
+          {
+            "accessMethod": "web_search_result",
+            "claim": "Syndicated lifestyle coverage of the same PTO-maxxing framing",
+            "excerpt": "'PTO-maxxing' is the summer hack turning 15 vacation days into 49 days off (headline)",
+            "id": "e2",
+            "intent": "utility",
+            "kind": "observed",
+            "publishedAt": null,
+            "publisher": "Yahoo Lifestyle",
+            "retrievedAt": "2026-10-04T23:55:30Z",
+            "signalType": "press",
+            "syndicationOf": "e1",
+            "title": "'PTO-maxxing' is the summer hack turning 15 vacation days into 49 days off",
+            "url": "https://www.yahoo.com/lifestyle/articles/pto-maxxing-summer-hack-turning-154834048.html"
+          },
+          {
+            "accessMethod": "web_search_result",
+            "claim": "A free optimizer site already publishes 2027 US plans; best window is Christmas-New Year 2027 (8 PTO days for 16 days off)",
+            "excerpt": "In 2027, 15 PTO days can create 48 calendar days inside recommended breaks.",
+            "id": "e3",
+            "intent": "utility",
+            "kind": "observed",
+            "publishedAt": null,
+            "publisher": "Holiday Optimizer",
+            "retrievedAt": "2026-10-04T23:55:30Z",
+            "signalType": "creator",
+            "syndicationOf": null,
+            "title": "Maximize PTO in 2027: Turn 15 PTO Days Into 48 Days Off",
+            "url": "https://holiday-optimizer.com/blog/guides/maximize-pto-2027-us/"
+          },
+          {
+            "accessMethod": "web_search_result",
+            "claim": "Free interactive competitor tool for 2027 PTO planning",
+            "excerpt": "Maximize PTO 2027: Free Vacation Day Planner",
+            "id": "e4",
+            "intent": "none",
+            "kind": "observed",
+            "publishedAt": null,
+            "publisher": "Holiday Optimizer",
+            "retrievedAt": "2026-10-04T23:55:30Z",
+            "signalType": "marketplace",
+            "syndicationOf": null,
+            "title": "Maximize PTO 2027: Free Vacation Day Planner",
+            "url": "https://holiday-optimizer.com/"
+          },
+          {
+            "accessMethod": "web_search_result",
+            "claim": "Travel deal site publishes a 2027 PTO-stacking guide",
+            "excerpt": "Maximize Vacation Days in 2027: Turn 11 PTO Days into 43 Vacation Days",
+            "id": "e5",
+            "intent": "utility",
+            "kind": "observed",
+            "publishedAt": null,
+            "publisher": "Travel Pirates",
+            "retrievedAt": "2026-10-04T23:55:30Z",
+            "signalType": "creator",
+            "syndicationOf": null,
+            "title": "Maximize Vacation Days in 2027: Turn 11 PTO Days into 43 Vacation Days",
+            "url": "https://www.travelpirates.com/captains-log/how-to-maximize-your-vacation-days-in-2027"
+          },
+          {
+            "accessMethod": "web_search_result",
+            "claim": "Travel agency guide to 2027 federal-holiday stacking published mid-2026",
+            "excerpt": "How to Maximize PTO Using 2027 Federal Holidays",
+            "id": "e6",
+            "intent": "utility",
+            "kind": "observed",
+            "publishedAt": "2026-06-10",
+            "publisher": "Iron Mill Travel",
+            "retrievedAt": "2026-10-04T23:55:30Z",
+            "signalType": "creator",
+            "syndicationOf": null,
+            "title": "How to Maximize PTO Using 2027 Federal Holidays",
+            "url": "https://ironmilltravel.com/2026/06/10/how-to-maximize-pto-using-2027-federal-holidays/"
+          },
+          {
+            "accessMethod": "web_search_result",
+            "claim": "Second free 2027 PTO tool competing for the same searches",
+            "excerpt": "Maximize Your PTO in 2027: Best Days to Take Off",
+            "id": "e7",
+            "intent": "none",
+            "kind": "observed",
+            "publishedAt": null,
+            "publisher": "Vacation Maximizer",
+            "retrievedAt": "2026-10-04T23:55:30Z",
+            "signalType": "marketplace",
+            "syndicationOf": null,
+            "title": "Maximize Your PTO in 2027: Best Days to Take Off",
+            "url": "https://www.vacation-maximizer.com/maximize-pto/2027"
+          },
+          {
+            "accessMethod": "web_search_result",
+            "claim": "Christmas 2026 falls on a Friday, creating a built-in three-day weekend (calendar fact relevant to year-end leave talk)",
+            "excerpt": "Christmas on December 25 will fall on a Friday in 2026",
+            "id": "e8",
+            "intent": "none",
+            "kind": "observed",
+            "publishedAt": null,
+            "publisher": "Universal Time Date",
+            "retrievedAt": "2026-10-04T23:55:30Z",
+            "signalType": "search",
+            "syndicationOf": null,
+            "title": "How Many Days Until Christmas 2026? Live Countdown and the Full December Run",
+            "url": "https://www.universaltimedate.com/articles/christmas-countdown-2026"
+          },
+          {
+            "accessMethod": "web_search_result",
+            "claim": "The '-maxxing' suffix is a documented internet word-formation pattern, which helps the PTO-maxxing label travel",
+            "excerpt": "-maxxing (Wikipedia article title)",
+            "id": "e9",
+            "intent": "curiosity",
+            "kind": "observed",
+            "publishedAt": null,
+            "publisher": "Wikipedia",
+            "retrievedAt": "2026-10-04T23:55:30Z",
+            "signalType": "community",
+            "syndicationOf": null,
+            "title": "-maxxing",
+            "url": "https://en.wikipedia.org/wiki/-maxxing"
+          }
+        ],
+        "gap": {
+          "isInference": true,
+          "text": "A private working plan that tracks balance and accrual, adds company holidays and overlays a partner's or school calendar; free optimizers only suggest dates."
+        },
+        "name": "PTO-maxxing for 2027 (year-end PTO planning)",
+        "observations": [
+          {
+            "asOf": "2026-10-04",
+            "evidence": "e3",
+            "isAbsolute": true,
+            "metric": "Calendar days off from 15 PTO days in 2027 (one optimizer's plan)",
+            "note": "reported by Holiday Optimizer; depends on assumed holidays",
+            "unit": "days",
+            "value": 48
+          }
+        ],
+        "origin": {
+          "date": "2026-05-27",
+          "evidence": [
+            "e1",
+            "e9"
+          ],
+          "text": "Named in 2026 press (Fortune, May 27, 2026) building on the '-maxxing' suffix; the practice of bridge days is much older."
+        },
+        "productDemand": {
+          "evidence": [
+            "e3",
+            "e4",
+            "e7"
+          ],
+          "text": "Help-seeking (utility) only; no purchase evidence for paid PTO planners. Free tools already meet the basic need."
+        },
+        "products": [
+          {
+            "buyer": "US salaried workers and couples planning 2027 leave in Nov-Jan",
+            "channels": [
+              "Etsy",
+              "Gumroad",
+              "TikTok",
+              "Pinterest",
+              "LinkedIn"
+            ],
+            "continueIf": "3+ sales by Dec 1",
+            "differentiation": "Balance/accrual tracking and two-calendar overlay; private and editable",
+            "effort": "medium",
+            "effortHours": 11,
+            "evidence": [
+              "e1",
+              "e3"
+            ],
+            "format": "template",
+            "fulfillment": "digital",
+            "leadTimeDays": 0,
+            "pivotIf": "Offer a free basic sheet to build an email list, paid couples version",
+            "playbook": {
+              "assembly": [
+                "Run the super prompt; independently verify every 2027 holiday date and weekday.",
+                "Build the tabs in Google Sheets; paste formulas; test with 10, 15 and 20 PTO days.",
+                "Protect formula ranges; leave input cells unlocked and highlighted.",
+                "Build the printable year view in Canva at Letter landscape; resize to A4; export PDF Print 300 DPI.",
+                "Create the 'make a copy' link (replace /edit with /copy) and put it in an access PDF with instructions.",
+                "Upload the access PDF and printable PDFs to Etsy as a digital download; test the copy link in a logged-out browser."
+              ],
+              "asymmetry": {
+                "badBetIf": "Free optimizer tools fully satisfy buyers - likely for many, which makes this not strongly asymmetric",
+                "downside": "About 10-12 hours, $0 cash",
+                "upside": "Zero marginal cost; re-dates yearly; evergreen 'next year' demand every Nov-Jan"
+              },
+              "costs": {
+                "baseCost": null,
+                "basis": "estimate: verify in the provider catalog",
+                "item": null,
+                "provider": null,
+                "shipping": null,
+                "testBudget": 0,
+                "testBudgetNote": "No ads until organic sales; demand is unproven and free tools compete"
+              },
+              "extensions": [
+                "UK bank-holiday edition",
+                "Teacher/school-year edition",
+                "Team PTO calendar for small managers",
+                "2028 edition"
+              ],
+              "imagePrompts": [
+                {
+                  "prompt": "Clean flat graphic of a 2027 year calendar with highlighted long weekends in #29335C and #F3A712, small icons of a suitcase and a mug, background #FAFAF7, large empty band at top for a title, 4:5 aspect ratio, no readable text, no logos, no real people, no trademarked characters, no watermarks",
+                  "purpose": "Listing cover",
+                  "tool": "Canva or ChatGPT images"
+                },
+                {
+                  "prompt": "Laptop on a desk showing a colourful spreadsheet calendar with blocks of orange, navy and green, plant and coffee nearby, soft daylight, 4:5 aspect ratio, no logos, no brand UI, no real people, no trademarked characters, no watermarks",
+                  "purpose": "Laptop mockup",
+                  "tool": "Canva mockup"
+                }
+              ],
+              "listingPrompt": "Write an Etsy listing for a Google Sheets template: 2027 PTO planner that finds long weekends, tracks PTO balance and overlays a partner's or school calendar, plus a printable 2027 year view. Title under 140 characters starting with '2027 PTO Planner Google Sheets' and including vacation planner and long weekends. 13 tags of 20 characters or fewer. Description: tabs, how the copy link works, US federal holidays preloaded (verify with your employer), printable Letter + A4. FAQ: Excel?, mobile?, non-US holidays? Do not name any employer, brand or app besides Google Sheets as the platform, and give no legal or financial advice.",
+              "marketing": {
+                "channels": [
+                  {
+                    "cadence": "3/week Nov-Dec",
+                    "channel": "TikTok/Reels",
+                    "tactic": "'Turn 8 PTO days into 16 days off' style hooks with screen recordings"
+                  },
+                  {
+                    "cadence": "1/week",
+                    "channel": "LinkedIn",
+                    "tactic": "Year-end planning posts"
+                  },
+                  {
+                    "cadence": "5/week",
+                    "channel": "Pinterest",
+                    "tactic": "2027 calendar pins"
+                  }
+                ],
+                "hooks": [
+                  "Christmas 2027 lands on a weekend - here's how to get 16 days off",
+                  "Plan 2027 PTO before the request window opens"
+                ],
+                "keywords": [
+                  "2027 pto planner",
+                  "vacation planner",
+                  "long weekends 2027",
+                  "google sheets planner",
+                  "2027 calendar"
+                ],
+                "launchPlan": [
+                  {
+                    "action": "Publish on Etsy and Gumroad in early November",
+                    "day": "Day 0"
+                  },
+                  {
+                    "action": "Carousel: 'the 5 best 2027 bridge days' (verified dates) linking to the template",
+                    "day": "Day 2"
+                  },
+                  {
+                    "action": "10 Pinterest pins on 2027 long weekends",
+                    "day": "Day 5"
+                  },
+                  {
+                    "action": "Screen-recording video of the bridge finder",
+                    "day": "Day 10"
+                  },
+                  {
+                    "action": "LinkedIn post on year-end PTO planning",
+                    "day": "Day 14"
+                  },
+                  {
+                    "action": "Go/pivot/stop: continue if 3+ sales; pivot to a free lead magnet + paid couples version if views but no sales; stop if under 100 views",
+                    "day": "Day 21"
+                  },
+                  {
+                    "action": "Wind down; plan a 2028 version for next November",
+                    "day": "Jan 15"
+                  }
+                ],
+                "positioning": "Plan your 2027 long weekends in December - and actually track the balance."
+              },
+              "platforms": [
+                {
+                  "name": "Etsy",
+                  "role": "primary",
+                  "why": "Spreadsheet planners and 2027 planners are searched there in Nov-Jan"
+                },
+                {
+                  "name": "Gumroad",
+                  "role": "secondary",
+                  "why": "Direct link for LinkedIn/TikTok audiences"
+                },
+                {
+                  "name": "Pinterest",
+                  "role": "traffic",
+                  "why": "'2027 planner' and vacation-planning pins"
+                }
+              ],
+              "pricing": {
+                "basis": "estimate",
+                "currency": "USD",
+                "high": 14,
+                "low": 6,
+                "rationale": "Competes with free optimizer sites, so price as an affordable upgrade; planner spreadsheets on Etsy commonly sell in this range",
+                "recommended": 9
+              },
+              "productName": "2027 PTO-Maxxing Planner (Google Sheets + printable year view)",
+              "risks": [
+                "Free tools compete directly",
+                "Date errors would cause refunds and bad reviews",
+                "Demand for paid PTO tools is unproven"
+              ],
+              "superPrompt": "You are a spreadsheet designer and HR-savvy planner writer. Produce the complete specification and content for a Google Sheets template called \"2027 PTO-Maxxing Planner\", plus a printable one-page 2027 year view.\n\nBUYER AND JOB: US salaried workers (and couples) who have read about PTO-maxxing - placing vacation days in the gaps between weekends and public holidays to get long breaks - and want to plan 2027 in December 2026 before PTO request windows open. Free online optimizers show suggestions; this buyer wants a private sheet that also tracks their balance, accrual, company holidays, carry-over and a partner's or kids' school calendar.\n\nDELIVERABLE SPEC - Google Sheets tabs:\n1. \"Start here\": 6-step instructions, assumptions, a disclaimer that holiday observance and PTO rules depend on the employer.\n2. \"Settings\": PTO days available, accrual per pay period (optional), pay frequency, carry-over cap, work days (Mon-Fri default, editable), holiday set selector (US federal; custom).\n3. \"Holidays 2027\": list the 2027 US federal holidays with observed dates - New Year's Day Fri Jan 1; MLK Day Mon Jan 18; Washington's Birthday Mon Feb 15; Memorial Day Mon May 31; Juneteenth Sat Jun 19 (observed Fri Jun 18); Independence Day Sun Jul 4 (observed Mon Jul 5); Labor Day Mon Sep 6; Columbus/Indigenous Peoples' Day Mon Oct 11; Veterans Day Thu Nov 11; Thanksgiving Thu Nov 25; Christmas Sat Dec 25 (observed Fri Dec 24); plus New Year's Day 2028 Sat Jan 1 (observed Fri Dec 31, 2027). VERIFY every date against the official federal calendar before output and flag any you cannot verify. Add 10 blank rows for company holidays.\n4. \"Calendar\": 12-month grid; conditional formatting colours weekends, holidays, booked PTO and \"bridge\" days.\n5. \"Bridge finder\": formulas that list every gap of 1-4 working days between non-working days, with PTO cost, total days off and an efficiency ratio (days off / PTO), sorted best-first.\n6. \"My plan\": rows for each break (start, end, PTO used, purpose, status: idea/requested/approved), live remaining-balance counter.\n7. \"Two calendars\": overlay a partner's holidays or a school-break list (blank date ranges) and highlight overlaps.\n8. Printable year view (US Letter AND A4, landscape): 2027 at a glance with legend.\n\nWrite every formula (WORKDAY.INTL / NETWORKDAYS.INTL style) and conditional-format rule exactly.\n\nSTYLE: Fonts (Sheets) \"Inter\"; printable Canva pairings (a) \"Space Grotesk\" + \"Inter\", (b) \"Fraunces\" + \"Inter\". Palette: holiday #E4572E, PTO #29335C, weekend #D9DCE3, bridge #F3A712, approved #4CAF7A, background #FAFAF7.\n\nRULES: Original wording. No employer, brand or app names. No legal or financial advice; say plainly that the buyer must check their employer's policy and state law. No promises about rest or wellbeing.\n\nDIFFERENTIATION: Free optimizers suggest dates; this is the buyer's own working plan with balance tracking, company holidays and a partner/school overlay.\n\nOUTPUT: tab-by-tab layout (cell ranges), all formulas, conditional formatting rules, holiday table, instructions text, and the printable layout.\n\nSELF-CHECK: every 2027 date and weekday verified (Jan 1, 2027 is a Friday); formulas reference the right ranges; no advice/claims; both print sizes."
+            },
+            "rightsNote": "No employer/app names; disclaimers on policy and dates",
+            "stopIf": "Under 100 views by Dec 1",
+            "theme": "2027 PTO-Maxxing Planner: Google Sheets bridge finder with balance tracking, company holidays and partner/school overlay, plus printable year view",
+            "validationTest": "List in early November; organic only",
+            "whyBuy": "Plan 2027 long weekends privately and track what's left, beyond what free date suggesters do"
+          }
+        ],
+        "recommendedAction": "watch",
+        "rights": {
+          "note": "Generic term; do not use employer or app names. No legal or HR advice; dates must be verified against the official federal calendar.",
+          "risk": "low"
+        },
+        "scores": {
+          "buyerIntent": {
+            "basis": "reported",
+            "rationale": "Utility interest only; free tools serve it",
+            "score": 1
+          },
+          "durability": {
+            "basis": "qualitative",
+            "rationale": "Annual 'next year' planning repeats; term could fade but the need doesn't",
+            "score": 4
+          },
+          "economics": {
+            "basis": "qualitative",
+            "rationale": "Zero marginal cost, but free competition limits price",
+            "score": 3
+          },
+          "productFit": {
+            "basis": "qualitative",
+            "rationale": "Spreadsheet templates are a proven Etsy digital format",
+            "score": 4
+          },
+          "supplyGap": {
+            "basis": "qualitative",
+            "rationale": "Free tools cover the core; only tracking/overlay features are a gap",
+            "score": 2
+          },
+          "timing": {
+            "basis": "qualitative",
+            "rationale": "The planning season is ahead, but the term is not newly breaking",
+            "score": 3
+          }
+        },
+        "spread": {
+          "evidence": [
+            "e1",
+            "e2",
+            "e3",
+            "e5",
+            "e6",
+            "e7"
+          ],
+          "text": "Business press, lifestyle syndication, two free optimizer tools and multiple travel-site 2027 guides. No new coverage in the last three weeks was found, so the recent spread is not shown."
+        },
+        "summary": "The 2026 'PTO-maxxing' habit of stacking vacation days next to holidays is heading into its natural planning moment, December, when workers map out 2027 leave.",
+        "trajectory": {
+          "evidence": [
+            "e1",
+            "e3"
+          ],
+          "stage": "early_growth",
+          "text": "Established as a named idea since spring 2026; interest is expected to rise again in Nov-Jan when people plan the next year, but there is no measured data on this."
+        },
+        "unresolved": [
+          "Whether search interest in 2027 PTO planning rises in November",
+          "Whether paid Etsy PTO planners exist and sell (Etsy not accessible)"
+        ],
+        "what": "PTO-maxxing means placing paid days off in the gaps between weekends and public holidays to turn a small leave budget into long breaks (e.g. 15 days into about 48 calendar days in 2027 according to one optimizer). Fortune and Yahoo covered it in 2026, and several free tools and travel sites already publish 2027 plans. Christmas 2026 on a Friday keeps year-end leave in the news.",
+        "window": {
+          "endEstimate": null,
+          "estimate": "November 2026 to mid-January 2027",
+          "invalidators": [
+            "Search interest in 2027 PTO planning does not rise in November",
+            "Free tools add balance tracking and calendar overlays"
+          ],
+          "reasoning": "Year-end planning and January PTO request windows are when buyers look; after January the 2027 plan is mostly set. This is inference, not measured search data.",
+          "seasonality": "Annual Nov-Jan planning season",
+          "sellBy": null
+        }
+      }
+    ],
+    "kind": "discover",
+    "lens": "First-spark hunt: Nov-Dec 2026 cultural moments",
+    "researchedAt": "2026-10-04T23:55:30Z",
+    "sourcesTried": [
+      {
+        "method": "web search",
+        "note": "~45 queries across holidays, gifting formats, word-of-the-year, TikTok/Instagram trend roundups; all evidence below comes from search-result snippets",
+        "source": "WebSearch (standard and extended)",
+        "status": "ok"
+      },
+      {
+        "method": "WebFetch",
+        "note": "egress proxy blocks the domain",
+        "source": "klfy.com (Dipsgiving article)",
+        "status": "blocked"
+      },
+      {
+        "method": "WebFetch",
+        "note": "egress proxy",
+        "source": "insightagent.app (Etsy fall trend report 2026)",
+        "status": "blocked"
+      },
+      {
+        "method": "WebFetch",
+        "note": "egress proxy",
+        "source": "blog.pressloft.com (Christmas 2026 trends)",
+        "status": "blocked"
+      },
+      {
+        "method": "WebFetch",
+        "note": "egress proxy",
+        "source": "newengen.com (October 2026 TikTok trends)",
+        "status": "blocked"
+      },
+      {
+        "method": "WebFetch",
+        "note": "egress proxy",
+        "source": "napoleoncat.com (October 2026 TikTok trends)",
+        "status": "blocked"
+      },
+      {
+        "method": "WebFetch",
+        "note": "egress proxy",
+        "source": "ramd.am (TikTok/Instagram trend roundups)",
+        "status": "blocked"
+      },
+      {
+        "method": "WebFetch",
+        "note": "egress proxy",
+        "source": "socialbee.com (Sept 29 2026 TikTok trends)",
+        "status": "blocked"
+      },
+      {
+        "method": "WebFetch",
+        "note": "egress proxy",
+        "source": "epidemicsound.com (latest TikTok trends)",
+        "status": "blocked"
+      },
+      {
+        "method": "direct fetch",
+        "note": "network policy blocks most direct fetches; seen only as search-result titles",
+        "source": "TikTok, Etsy, Pinterest, Reddit, Google Trends",
+        "status": "not_tried"
+      }
+    ]
+  },
+  "runId": "run-hunt-moments-20261004-4",
+  "status": "new"
+}

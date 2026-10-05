@@ -1,0 +1,19 @@
+{
+  "accessMethod": "web_search_result",
+  "candidateId": "kinda-chic-kinda-chic-to",
+  "claim": "The phrase still appears in fashion editorial copy in October 2026.",
+  "excerpt": "Search summary: article references 'Okay, Kinda Chic to Spend Under $150 on Fall's Biggest Trends'.",
+  "firstRetrievedAt": "2026-10-04T21:01:02Z",
+  "firstSeenRunId": "run-2026-10-04-memes",
+  "id": "kinda-chic-kinda-chic-to~d49bfbb3",
+  "intent": "curiosity",
+  "kind": "observed",
+  "lastSeenRunId": "run-2026-10-04-memes",
+  "publishedAt": null,
+  "publisher": "Who What Wear",
+  "retrievedAt": "2026-10-04T21:01:02Z",
+  "signalType": "press",
+  "syndicationOf": null,
+  "title": "10 Things to Buy This October If You're Busy But Want to Look On-Trend",
+  "url": "https://www.whowhatwear.com/fashion/shopping/what-to-buy-in-october-2026"
+}

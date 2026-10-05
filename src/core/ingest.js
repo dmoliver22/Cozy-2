@@ -288,6 +288,8 @@ export function ingestResearch(raw, { runId, now = Date.now(), jobId = null, exi
       qualityFlags: warnings.slice(0, 30),
       editorialNotes: strList(rc.editorialNotes, 40, 400),
     };
+    // An editor's merge survives later refreshes of the duplicate.
+    if (prior?.duplicateOf) Object.assign(candidate, { duplicateOf: prior.duplicateOf, duplicateNote: prior.duplicateNote || '' });
     docs.push({ path: `candidates/${id}`, data: candidate });
 
     // Make-and-sell playbooks written alongside the research (optional).

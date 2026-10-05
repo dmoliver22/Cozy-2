@@ -1,0 +1,19 @@
+{
+  "accessMethod": "web_search_result",
+  "candidateId": "needlepoint-revival",
+  "claim": "An independent creator sells printable needlepoint tools, including a stitch-planning template.",
+  "excerpt": "Search summary: series of printables for needlepointers to build their own needlepoint journal.",
+  "firstRetrievedAt": "2026-10-04T20:53:53Z",
+  "firstSeenRunId": "run-2026-10-04-hobbies",
+  "id": "needlepoint-revival~027ee238",
+  "intent": "none",
+  "kind": "observed",
+  "lastSeenRunId": "run-2026-10-04-hobbies",
+  "publishedAt": null,
+  "publisher": "HiFi Makes (Substack)",
+  "retrievedAt": "2026-10-04T20:53:53Z",
+  "signalType": "creator",
+  "syndicationOf": null,
+  "title": "HiFi Prints",
+  "url": "https://hifimakes.substack.com/t/hifi-prints"
+}

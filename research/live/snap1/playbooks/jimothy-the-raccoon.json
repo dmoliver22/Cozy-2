@@ -1,0 +1,166 @@
+{
+  "candidateId": "jimothy-the-raccoon",
+  "id": "jimothy-the-raccoon",
+  "products": [
+    {
+      "assembly": [
+        "Day 0 gate, 30 minutes: search Etsy and Amazon for the raccoon's name plus 'ornament', 'Christmas' and 'card', and search the USPTO trademark database for the name. If holiday items already fill the first page of results, stop here. If any live filing covers ornaments, cards or decorations, use only Version B (no name).",
+        "Generate the raccoon art (image prompt 1); keep the most original-looking result, clean edges with Canva's background remover, and export PNG with transparent background at 3000 x 3000 px.",
+        "Printify: create a round ceramic ornament from a US print provider, check the template's print area and safe zone, place the front art and back text, and preview both sides.",
+        "Order one sample to yourself before any promotion; check color, text sharpness and the halo edge.",
+        "Connect Printify to Etsy and publish. On Etsy, list the print provider as a production partner, set processing times to the provider's, and add a holiday order-by date taken from Printify's published cutoffs (verify).",
+        "Card printable: in Canva, make an 11 x 8.5 in design and a 297 x 210 mm design, each holding two 5 x 7 in cards with crop marks; export PDF Print and list as a separate $4 digital download.",
+        "Photograph the sample on a tree and replace the mockups as soon as it arrives."
+      ],
+      "asymmetry": {
+        "badBetIf": "Almost certainly now: search is saturated with raccoon merch, takedown risk is growing around 'official' licensing activity, the holiday shipping deadline is hard, and news about the animal could change the tone overnight. This is NOT asymmetric. Pass unless you live in Seattle, can sell locally, and accept it as a 4-hour experiment.",
+        "downside": "About 4 hours, a $11-13 sample (estimate) and listing fees; little cash at risk, but the real cost is a season of effort spent where a new seller with no audience starts months behind entrenched shops. The answer comes in 3 weeks.",
+        "upside": "Capped: one holiday season, roughly $6-8 profit per ornament (estimate), no evergreen tail, and any good design can be copied by competitors overnight. The card PDF is zero marginal cost but only $4."
+      },
+      "costs": {
+        "baseCost": 6.5,
+        "basis": "estimate: verify in the provider catalog. Base cost and US first-item shipping vary by print provider. Etsy fees (estimate) of about $2.50 on a $20 + shipping order leave roughly $6-8 profit per ornam",
+        "item": "3 in round ceramic ornament, double-sided",
+        "pages": null,
+        "provider": "Printify (connected to Etsy)",
+        "shipping": 4.75,
+        "testBudget": 0,
+        "testBudgetNote": "No ads on a pass idea. Spend only on one sample ornament (roughly $11-13 including shipping, estimate), and only if the Day 0 gate passes."
+      },
+      "extensions": [
+        "Not recommended. If it somehow sells, the only path with a tail is to drop the viral reference and build an original round-raccoon character you own (evergreen woodland stickers, cards, ornaments) that does not depend on one news cycle.",
+        "$4 printable card pack as a zero-cost add-on"
+      ],
+      "imagePrompts": [
+        {
+          "prompt": "Original cartoon character: a very round, fluffy raccoon shaped almost like a ball, tiny paws, small rounded ears, dark eye mask, striped tail curled around its body, wearing a Cranberry #B23A48 knitted scarf and a thin Halo Gold #E3B448 halo, sitting in soft snow with a small Pine #3E6B48 sprig. Soft flat vector, thick friendly Mask Charcoal #2B2B2E outline, simple shapes, centered for a round 3 in ornament, square 1:1, 3000 x 3000 px, transparent background. Fur in Raccoon Grey #8A8D91 with Snow #FAF7F2 highlights. No text. Do not upload or reference any photo. Negatives: no sports logos, uniforms, caps or baseball items, no video-game style, no bobblehead proportions, no logos, no real people, no trademarked characters, no watermarks.",
+          "purpose": "Ornament front art (original round raccoon)",
+          "tool": "ChatGPT images"
+        },
+        {
+          "prompt": "Holiday card front, portrait 5:7, 1500 x 2100 px, solid Snow #FAF7F2 background with sparse Raccoon Grey #8A8D91 snow dots. An original round, fluffy cartoon raccoon with a dark eye mask and striped tail carries a tiny Cranberry #B23A48 wrapped gift under a Pine #3E6B48 bough; soft flat vector with thick Mask Charcoal #2B2B2E outline. Render this text exactly, in a friendly rounded serif arched across the top: \"Season's Scurryings\". No other text. Negatives: no logos, no sports teams or uniforms, no video-game style, no real people, no trademarked characters, no watermarks.",
+          "purpose": "Holiday card front with title text",
+          "tool": "Ideogram"
+        },
+        {
+          "prompt": "Photorealistic close-up, 4:5 portrait: a white round glossy ceramic ornament with a blank face hanging by a Cranberry #B23A48 ribbon on a Pine #3E6B48 branch, warm Halo Gold #E3B448 bokeh lights behind. Leave the ornament face completely blank for overlay in Canva. No logos, no text, no people, no trademarked characters, no watermarks.",
+          "purpose": "Ornament mockup until the sample arrives",
+          "tool": "ChatGPT images"
+        }
+      ],
+      "index": 0,
+      "listingPrompt": "You are an Etsy copywriter. Write the Etsy listing for a print-on-demand 3 in round ceramic Christmas ornament featuring an ORIGINAL cartoon of a round raccoon with a halo and scarf, captioned \"Season's Scurryings from Ballard\". Naming version: [A: uses the name \"Saint Jimothy\" / B: no name, \"Ballard's Roundest Raccoon\"].\nProduce:\n1. A title under 140 characters starting with \"Round Raccoon Christmas Ornament\", then Seattle, Ballard, 2026 (add the name only for Version A). Show the count.\n2. Exactly 13 tags of 20 characters or fewer with counts (ideas: raccoon ornament, seattle ornament, ballard gift, round raccoon, pnw ornament, seattle gift, raccoon gift, 2026 ornament; add the name as a tag only for Version A).\n3. A description: hook; what you get (ceramic, 3 in, double-sided, ribbon); size; that it is printed and shipped by a print-on-demand production partner; production and shipping times [FROM YOUR PROVIDER]; holiday order-by date [FROM PRINTIFY'S CUTOFFS]; a clear line \"Original art. Unofficial tribute; not affiliated with any person, team, city office, game or licensed product.\"; a 4-question FAQ (Is it handmade? Can I return it? When will it arrive? Is it double-sided?).\n4. Alt text for 4 images.\nRules: never use sports team names, logos or uniforms, video-game names, \"bobblehead\", \"official\", \"licensed\" or \"authentic\"; no slogans already used on this raccoon's merch; no charity claims; no claim of handmade or locally made production; no comments on the real animal's health.",
+      "marketing": {
+        "channels": [
+          {
+            "cadence": "2 posts per week until Dec 10, then stop",
+            "channel": "Instagram",
+            "tactic": "Process Reel, ornament-on-tree photos, local holiday framing"
+          },
+          {
+            "cadence": "Once, plus one reminder before the shipping cutoff",
+            "channel": "Local community groups",
+            "tactic": "One seller post where allowed; check the community rules"
+          },
+          {
+            "cadence": "Check stats twice a week",
+            "channel": "Etsy",
+            "tactic": "Holiday order-by date in photos and description"
+          }
+        ],
+        "hooks": [
+          "Season's Scurryings from Ballard.",
+          "An original round raccoon for your 2026 tree.",
+          "Drawing a very round raccoon for the holidays: process video.",
+          "For the Seattle friend who had the best raccoon summer."
+        ],
+        "keywords": [
+          "raccoon ornament",
+          "round raccoon",
+          "seattle ornament",
+          "ballard gift",
+          "pnw christmas",
+          "seattle christmas",
+          "raccoon christmas",
+          "2026 ornament",
+          "local seattle gift"
+        ],
+        "launchPlan": [
+          {
+            "action": "Suggested Mon Oct 12, 2026. Run the 30-minute search and trademark gate. Stop here if holiday raccoon items are already abundant (the input expects this).",
+            "day": "Day 0"
+          },
+          {
+            "action": "Only if the gate passes: generate the art, run the super prompt, build the ornament in Printify and order one sample.",
+            "day": "Day 1"
+          },
+          {
+            "action": "Publish the ornament to Etsy with mockups; list the $4 card PDF.",
+            "day": "Day 2"
+          },
+          {
+            "action": "Instagram post and Reel of the drawing process; one post in a local group that allows sellers (check the community rules).",
+            "day": "Day 3"
+          },
+          {
+            "action": "Sample should have arrived (POD timing varies): swap in real photos; second Reel with the ornament on a tree.",
+            "day": "Day 10"
+          },
+          {
+            "action": "Mon Nov 2: stop if there has been no sale within 3 weeks.",
+            "day": "Day 21"
+          },
+          {
+            "action": "Mon Nov 16: check Printify's holiday shipping cutoffs and put the order-by date in the title photo and description.",
+            "day": "Day 35"
+          },
+          {
+            "action": "Tue Dec 1 final check: continue through the holidays only if search still shows few holiday-specific raccoon items AND the listing has 5+ sales; otherwise deactivate and move on. No pivot planned.",
+            "day": "Day 50"
+          }
+        ],
+        "positioning": "Honest verdict: pass. Not asymmetric: saturated market, hard holiday deadline, rising takedown risk and capped upside. If you do it anyway, it is a 4-hour, one-season experiment: an original-art local holiday keepsake, clearly unofficial."
+      },
+      "platforms": [
+        {
+          "name": "Etsy (with Printify fulfillment)",
+          "role": "primary",
+          "why": "Where the input saw the raccoon merch flood; POD means no inventory, but it also means every competitor can copy you in a day."
+        },
+        {
+          "name": "Instagram",
+          "role": "traffic",
+          "why": "Art-process Reels and local holiday posts; the only free channel likely to reach Seattle buyers quickly."
+        },
+        {
+          "name": "Local Seattle and Ballard community groups",
+          "role": "traffic",
+          "why": "Neighborhood groups are where a local keepsake could find buyers; only where selling posts are allowed (check the community rules)."
+        }
+      ],
+      "pricing": {
+        "basis": "estimate; competitor prices were not measured in the research",
+        "currency": "USD",
+        "high": 24,
+        "low": 16,
+        "rationale": "Bootleg tees, mugs and stickers already flood the market; an ornament can carry a small holiday premium, but above about $24 with shipping it loses to entrenched sellers. Card PDF at $4 as an add-on.",
+        "recommended": 20
+      },
+      "productName": "Season's Scurryings Round Raccoon Ornament + Card",
+      "risks": [
+        "Saturated: bootleg tees, mugs, stickers, an 'official' store and a licensed bobblehead already exist",
+        "Trademark or copyright claims (the original videographer or licensees) could trigger marketplace takedowns",
+        "News about the raccoon's health or death would change the tone instantly; pause listings if that happens",
+        "Hard deadline: POD holiday shipping cutoffs in early to mid December (verify), plus late or damaged ceramic deliveries",
+        "Humor that seems to mock the animal's condition would backfire; keep it affectionate",
+        "Accidental team colors, uniforms or game styling in AI art would create IP problems; reject any such output",
+        "Etsy requires disclosing POD production partners; never claim handmade"
+      ],
+      "source": "written",
+      "superPrompt": "You are a holiday-stationery designer and gentle humor writer. Produce the complete design text and specs for a small holiday line built around an ORIGINAL cartoon of a very round, fluffy raccoon, for Seattle-area gift buyers. The character must be your own invention: never describe, trace or adapt a real photo or video frame, existing fan art, figurines or licensed merchandise.\n\nBUYER AND JOB\nSeattle-area gift buyers and fans of the round raccoon of Ballard who want a local-pride keepsake for holiday 2026. Job: a cheerful ornament and card that say \"local, wholesome, this year\" without any team, game, city-office or \"official\" association.\n\nNAMING (write both; the seller picks one after a trademark search)\nVersion A (name used): headline \"Saint Jimothy\", line \"Season's Scurryings from Ballard\".\nVersion B (no name): headline \"Ballard's Roundest Raccoon\", line \"Season's Scurryings from Ballard\".\n\nDELIVERABLES\n1. Ceramic ornament, 3 in round, double-sided, print on demand. Front: the round raccoon wearing a knitted scarf and a small gold halo, headline set in an arc above. Back: \"Season's Scurryings from Ballard · 2026\" with a tiny pine sprig. Give placement as % of the diameter, a 0.15 in safe zone from the edge, and a minimum text size equal to 9 pt at print size. Master art 3000 x 3000 px, transparent PNG.\n2. Holiday card, flat 5 x 7 in, printed 2-up on US Letter landscape and 2-up on A4 landscape (127 x 178 mm each), crop marks, 0.125 in bleed per card. Three front designs: halo raccoon in falling snow; raccoon carrying a tiny wrapped gift; raccoon curled under a pine bough. For each: front text and two back-side message options.\n3. Six original inside messages, warm and lightly punny (scurry, round, cozy, neighbors, snow). Do not use or paraphrase slogans already printed on this raccoon's merch, and avoid \"trash panda\" phrasing.\n4. A 60-word \"about this design\" note for the listing stating that it is original art, an unofficial tribute, not affiliated with any person, team, city office, game or licensed product, and printed and shipped by a print-on-demand partner.\n\nDESIGN\nPalette \"Ballard Winter\": Snow #FAF7F2, Cranberry #B23A48, Pine #3E6B48, Raccoon Grey #8A8D91, Mask Charcoal #2B2B2E, Halo Gold #E3B448. Avoid navy, teal and silver combinations or anything that reads as a sports uniform. Fonts: Fraunces (headlines), Nunito (small text). Style: soft flat vector, rounded shapes, thick friendly outline, simple snow dots.\n\nCONTENT RULES\nNo team names, logos, uniforms, caps or baseball imagery; no video-game characters or game styling; no bobblehead proportions; no city seals; never the words \"official\" or \"licensed\". Do not mention the real animal's health, spine or body condition; keep any roundness humor affectionate. No charity or donation claims. No celebrity names. No claim that the item is handmade or made in Seattle.\n\nDIFFERENTIATION\nExisting merch is mostly tees, mugs and stickers. This is a holiday keepsake with local framing and clearly original art. It is probably still contested; say nothing that overpromises.\n\nOUTPUT FORMAT\nSection 1: ornament spec (front and back layout, text for both naming versions, color callouts). Section 2: card specs and the three designs with all text. Section 3: the six messages. Section 4: the \"about this design\" note in both naming versions.\nSelf-check, fixing failures before answering: [ ] all art described is original and photo-free; [ ] no team, game, bobblehead, city-seal or \"official\" references; [ ] no existing slogans; [ ] both naming versions supplied; [ ] ornament and both card-sheet sizes given; [ ] no health, charity or handmade claims.",
+      "themeKey": "Original-art 'Saint Jimothy' round-raccoon ceramic ornament"
+    }
+  ],
+  "source": "written",
+  "writtenAt": "2026-10-04T23:12:02Z"
+}

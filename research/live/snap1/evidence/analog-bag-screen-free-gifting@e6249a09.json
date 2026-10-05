@@ -1,0 +1,19 @@
+{
+  "accessMethod": "web_search_result",
+  "candidateId": "analog-bag-screen-free-gifting",
+  "claim": "General-interest press aimed at older readers covered how to build an analog bag, suggesting spread beyond Gen Z.",
+  "excerpt": "Title only; date not shown.",
+  "firstRetrievedAt": "2026-10-04T20:59:17Z",
+  "firstSeenRunId": "run-2026-10-04-movements",
+  "id": "analog-bag-screen-free-gifting~e6249a09",
+  "intent": "utility",
+  "kind": "observed",
+  "lastSeenRunId": "run-2026-10-04-movements",
+  "publishedAt": null,
+  "publisher": "Reader's Digest",
+  "retrievedAt": "2026-10-04T20:59:17Z",
+  "signalType": "press",
+  "syndicationOf": null,
+  "title": "The Antidote to Doomscrolling? The Analog Bag. Here's How to Create Your Own",
+  "url": "https://www.rd.com/article/analog-bag/"
+}

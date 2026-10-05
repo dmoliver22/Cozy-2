@@ -1,0 +1,19 @@
+{
+  "accessMethod": "web_search_result",
+  "candidateId": "remember-november-2026",
+  "claim": "An apparel store published a content-marketing post on the meme, apparently tied to wearing/selling it (title truncated in results).",
+  "excerpt": "Store blog explainer; title suggests 'how to wear' merch.",
+  "firstRetrievedAt": "2026-10-04T20:57:55Z",
+  "firstSeenRunId": "run-2026-10-04-memes",
+  "id": "remember-november-2026~0ca43373",
+  "intent": "none",
+  "kind": "observed",
+  "lastSeenRunId": "run-2026-10-04-memes",
+  "publishedAt": null,
+  "publisher": "Laima Design (Shopify store blog)",
+  "retrievedAt": "2026-10-04T20:57:55Z",
+  "signalType": "creator",
+  "syndicationOf": null,
+  "title": "The 'Remember November 2026' Polar Bear Meme, Explained (And How to We",
+  "url": "https://laimadesign.com/blogs/news/remember-november-2026-polar-bear-meme"
+}

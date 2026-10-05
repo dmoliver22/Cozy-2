@@ -1,0 +1,19 @@
+{
+  "accessMethod": "web_search_result",
+  "candidateId": "remember-november-2026",
+  "claim": "A marketing blog covered the meme as a TikTok trend.",
+  "excerpt": "TikTok marketing blog explainer of the meme.",
+  "firstRetrievedAt": "2026-10-04T20:57:55Z",
+  "firstSeenRunId": "run-2026-10-04-memes",
+  "id": "remember-november-2026~e123d482",
+  "intent": "curiosity",
+  "kind": "observed",
+  "lastSeenRunId": "run-2026-10-04-memes",
+  "publishedAt": null,
+  "publisher": "Cloutfluence",
+  "retrievedAt": "2026-10-04T20:57:55Z",
+  "signalType": "press",
+  "syndicationOf": null,
+  "title": "Polar Bear 2026 Meme: Remember November 2026 Explained",
+  "url": "https://cloutfluence.com/en/blog/tiktok/polar-bear-2026-remember-november-meme/"
+}

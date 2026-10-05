@@ -1,0 +1,71 @@
+{
+  "candidateIds": [
+    "chile-memes-everything-is-narrow"
+  ],
+  "discovered": [],
+  "id": "run-hunt-memes-20261004-2",
+  "ingestedAt": "2026-10-05T00:00:55.060Z",
+  "jobId": "hunt-memes-20261004",
+  "kind": "discover",
+  "lens": "First-spark hunt: memes, catchphrases, slang",
+  "report": [
+    {
+      "errors": [],
+      "id": "chile-memes-everything-is-narrow",
+      "name": "Chile memes (everything is narrow)",
+      "status": "created",
+      "warnings": 0
+    }
+  ],
+  "researchedAt": "2026-10-05T00:00:47Z",
+  "sourcesTried": [
+    {
+      "method": "WebFetch + WebSearch",
+      "note": "knowyourmeme.com blocked by egress proxy; used search-result snippets only",
+      "source": "Know Your Meme (entries, weekly roundups, Meme of the Month)",
+      "status": "blocked"
+    },
+    {
+      "method": "WebFetch",
+      "note": "egress blocked; snippets only",
+      "source": "meme.com explainers",
+      "status": "blocked"
+    },
+    {
+      "method": "WebFetch",
+      "note": "egress blocked; snippets only",
+      "source": "newengen.com TikTok/Instagram trend pages",
+      "status": "blocked"
+    },
+    {
+      "method": "WebFetch",
+      "note": "egress blocked",
+      "source": "pepperagency.com October 2026 trends",
+      "status": "blocked"
+    },
+    {
+      "method": "WebFetch",
+      "note": "egress blocked; snippets only",
+      "source": "thunderdungeon.com, thebrewnews.com (Chile memes)",
+      "status": "blocked"
+    },
+    {
+      "method": "WebSearch",
+      "note": "about 45 queries; primary evidence channel",
+      "source": "WebSearch (extended/standard) across trend roundups, slang explainers, KYM, Yaho",
+      "status": "ok"
+    },
+    {
+      "method": "WebSearch for merch terms",
+      "note": "no direct marketplace access; searched for listings via web search only, so supply counts are not measured",
+      "source": "Etsy / Redbubble / TikTok Shop supply checks",
+      "status": "ok"
+    },
+    {
+      "method": "not fetched",
+      "note": "typically blocked; only TikTok discover-page titles seen in search results",
+      "source": "TikTok, Reddit, X, Google Trends",
+      "status": "not_tried"
+    }
+  ]
+}

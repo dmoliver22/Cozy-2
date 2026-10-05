@@ -1,0 +1,19 @@
+{
+  "accessMethod": "web_search_result",
+  "candidateId": "reader-dating-and-bookish-matchmaking",
+  "claim": "Italian press commentary on the reader-dating idea; coverage beyond the US.",
+  "excerpt": "scremature, bugie, social club del libro: Readme, app di dating per lettori",
+  "firstRetrievedAt": "2026-10-05T00:00:55Z",
+  "firstSeenRunId": "run-hunt-hobbies-20261004-2",
+  "id": "reader-dating-and-bookish-matchmaking~5067182a",
+  "intent": "criticism",
+  "kind": "observed",
+  "lastSeenRunId": "run-hunt-hobbies-20261004-2",
+  "publishedAt": null,
+  "publisher": "Editoriale Domani",
+  "retrievedAt": "2026-10-05T00:00:55Z",
+  "signalType": "press",
+  "syndicationOf": null,
+  "title": "Readme app dating lettori",
+  "url": "https://www.editorialedomani.it/idee/cultura/scremature-bugie-social-club-libro-readme-app-dating-lettori-incognite-tti6nk9b"
+}

@@ -1,0 +1,527 @@
+{
+  "candidateId": "cosmic-reset-beginner-astrology-tarot",
+  "id": "cosmic-reset-beginner-astrology-tarot",
+  "products": [
+    {
+      "assembly": [
+        "Paste the super prompt into Claude or ChatGPT. If the reply stops early, type \"continue from PAGE [n]\". Save the full text in one document.",
+        "Check accuracy yourself before designing: compare the signs table (elements, modalities, rulers, approximate dates), house order and aspect angles against two reputable beginner astrology references, and delete any sentence that predicts or promises anything.",
+        "In Canva, create a US Letter design (8.5 x 11 in). Build three master pages (Lesson, Worksheet, Reflection) in the Night Study palette with Cormorant Garamond and Lato, duplicate them for Weeks 1-12, and paste in the text. Type glyphs next to full names; if a glyph shows as a box, drop it and keep the name.",
+        "Run the chart-wheel SVG prompt, save the code as chart-wheel.svg, upload it to Canva, and place it on page 4 and in the Week 7-9 worksheets. Add the cover art and set the title in Canva.",
+        "Export the Letter file: Share > Download > PDF Print (300 DPI). For A4, use Canva's Resize (paid plan) or copy the pages into a new A4 design, check nothing is cut off, and export PDF Print.",
+        "Tablet version: duplicate the Letter design, add a contents page, link each entry to its page (select text > Link > page in this document), export PDF Standard, and test every link in a PDF reader on a tablet.",
+        "Free sample: download only the [SAMPLE] pages (Select pages in the download panel) as a separate PDF and upload it to Gumroad as a $0+ product so downloaders leave an email.",
+        "If the sample passes the Day 21 check, upload the Letter PDF, A4 PDF and tablet PDF to the Etsy digital listing (up to 5 files, 20 MB each) and to Gumroad, with 5 listing images made in Canva from the mockup."
+      ],
+      "asymmetry": {
+        "badBetIf": "The Day 0 check shows several well-reviewed beginner astrology workbooks at similar prices, or you can't verify astrological conventions yourself (accuracy mistakes in a teaching product bring bad reviews fast). Competition was not measured in the research, so treat this as a test, not a sure thing.",
+        "downside": "About 8 hours to build the free sample, then about 12 more for the full workbook, only if the sample pulls. Cash is close to $0 (Gumroad free product; $0.20 per Etsy listing later). You get an answer in 3 weeks (Nov 2).",
+        "upside": "Zero marginal cost per sale. People searching to learn are less tied to one season than planner buyers, so it can sell well past January. The sample builds an email list you own, and the workbook anchors a series (starter kit, tarot journal, moon planner) that can sell on Etsy, Gumroad, Payhip and later as a paperback."
+      },
+      "costs": {
+        "baseCost": null,
+        "basis": "estimate: digital download, no production or shipping cost. Etsy fees (estimate, verify on Etsy's fee page): $0.20 listing fee, 6.5% transaction fee, about 3% + $0.25 payment processing per US sale.",
+        "item": null,
+        "pages": null,
+        "provider": null,
+        "shipping": null,
+        "testBudget": 0,
+        "testBudgetNote": "$0 during the free-sample test. If the Day 21 check is a go, an optional Etsy Ads test at $1/day for 14 days (about $14) after the full listing goes live."
+      },
+      "extensions": [
+        "Chart Reading Starter Kit ($5): Chart at a Glance, wheel, reference tables and glossary only",
+        "Bundle with the Tarot Study Journal and the 2027 Moon Phase Planner",
+        "Astrocartography explainer worksheet that describes the method accurately, with no 'best place for you' promises",
+        "Paperback edition on Amazon KDP (8.5x11) once the digital version has reviews",
+        "Practice packs: Moon sign deep dive, aspects practice with invented sample charts",
+        "Printable gift card insert for holiday gifting"
+      ],
+      "imagePrompts": [
+        {
+          "prompt": "Minimal celestial line-art illustration: a fine circular wheel divided into 12 equal segments with tiny star dots, a small crescent moon and a few scattered stars, centered in the lower two-thirds. Flat vector style, thin consistent line weight. Deep navy background #1F2A44, gold lines #C9A227, a few dusty lilac #B8A9C9 accent dots. Empty space across the top third for a title added later in Canva. Aspect ratio 3:4 portrait (upscale to at least 2550x3300 px). Solid background. Text: none. No zodiac creature figures, no labeled star charts. No logos, no real people, no trademarked characters, no watermarks.",
+          "purpose": "Cover art for the PDF and the Etsy thumbnail",
+          "tool": "Midjourney or ChatGPT images"
+        },
+        {
+          "prompt": "Write clean SVG code only (viewBox 0 0 1000 1000, no background fill) for a blank astrology chart wheel: three concentric circles centered at 500,500 with radii 480, 400 and 180; 12 spokes from radius 180 to 480 at 30-degree intervals, one of them horizontal on the left (9 o'clock) to mark the Ascendant; tick marks every 5 degrees on the outer ring between radii 470 and 480; house numbers 1-12 in a 28 px sans-serif font placed at radius 290 in the middle of each segment, increasing counterclockwise as seen on screen: 1 in the segment just below the left horizontal spoke, 4 just right of the bottom spoke, 7 just above the right horizontal spoke, 10 just left of the top spoke. Stroke color #1F2A44, stroke width 2 (ticks 1). No other text, glyphs or decoration. Output only the SVG.",
+          "purpose": "Blank fill-in chart wheel for page 4 and the house worksheets (geometry must be exact, so use code, not an image model)",
+          "tool": "Claude or ChatGPT (SVG code), then upload the .svg to Canva"
+        },
+        {
+          "prompt": "Overhead flat-lay photo of three blank printed workbook pages (plain white, nothing printed) on a parchment-colored linen surface #F6F1E7, with a brass-colored pencil, a small dish of dried lavender and the corner of a navy notebook #1F2A44. Soft natural daylight from the left. Pages flat and square to the camera so real pages can be placed over them in Canva. Aspect ratio 4:5 (at least 2000x2500 px). Text: none. No hands, no brand labels. No logos, no real people, no trademarked characters, no watermarks.",
+          "purpose": "Mockup background for Etsy listing photos and pins",
+          "tool": "Midjourney or ChatGPT images"
+        }
+      ],
+      "index": 0,
+      "listingPrompt": "You are an Etsy SEO copywriter. Write the Etsy listing for my digital product \"[PRODUCT TITLE]\": a 12-week printable workbook that teaches beginners to read their own birth chart (Western astrology) as a reflective practice, with no predictions. Files: US Letter PDF, A4 PDF and a hyperlinked tablet PDF; [PAGE COUNT] pages. Buyer: Gen Z and millennial beginners who want to learn astrology themselves instead of reading horoscopes.\n\nProduce:\n1. TITLE under 140 characters that starts with the buyer's search phrase (for example \"Learn Astrology Workbook\" or \"Birth Chart Workbook for Beginners\"), then the key features. Give 3 options and mark your pick.\n2. 13 TAGS, each 20 characters or fewer (show the character count next to each), no repeats, mixing phrases around birth chart, natal chart, astrology for beginners, astrology workbook, printable and gift.\n3. DESCRIPTION: a two-line opener on what it does; \"What's inside\" bullets (week-by-week topics, Chart at a Glance, blank chart wheel, reference tables, glossary); \"Files and sizes\" (formats, page sizes, page count); \"How delivery works\" (instant download from your Etsy Purchases page after payment; nothing ships; print at home or at a print shop; the tablet PDF opens in PDF annotation apps); \"Good to know\" (it teaches a symbolic, reflective practice and makes no predictions; you need your birth date, time and place and any free online chart calculator); one line saying AI tools helped create the content and I edited and checked it; personal-use terms.\n4. FAQ with 5 short Q&As: Do I need my exact birth time? Is this a horoscope? Can I use it on a tablet? Can I print it more than once? Refunds (answer: [YOUR REFUND POLICY]).\n\nRules: original wording; no trademarked or brand names (no apps, websites, chart-calculator brands, astrology or tarot brands, celebrities); keep note-taking app and device names out of the title and tags; no promises about the future, personality truths, love, money, health or success; no \"best\" or \"#1\" claims; plain US English.",
+      "marketing": {
+        "channels": [
+          {
+            "cadence": "1 pin a day for the first 10 days, then 3 a week",
+            "channel": "Pinterest",
+            "tactic": "Vertical 1000x1500 pins of real worksheet pages and the chart wheel, with keyword-rich titles (\"how to read your birth chart\"), linking to the Gumroad sample, later the Etsy listing."
+          },
+          {
+            "cadence": "2-3 videos a week",
+            "channel": "TikTok / Instagram Reels",
+            "tactic": "Process videos: pulling a free chart, copying it onto the wheel, one lesson idea per video; link in bio to the sample."
+          },
+          {
+            "cadence": "1 email a week",
+            "channel": "Email (Gumroad)",
+            "tactic": "Short weekly note to sample downloaders with one tip from the next lesson, then the launch announcement."
+          },
+          {
+            "cadence": "2-3 helpful replies a week; promotion only where allowed",
+            "channel": "Astrology-learning subreddits and Facebook groups",
+            "tactic": "Answer beginner questions helpfully; share the free sample only where self-promotion is allowed. Check the community rules first."
+          }
+        ],
+        "hooks": [
+          "I stopped reading horoscopes and started learning to read my own chart. Here's Week 1.",
+          "Your chart has 12 houses. Here's how to find yours with a free calculator in five minutes.",
+          "No predictions. Just a 12-week workbook that teaches the method.",
+          "Don't know your birth time? You can still do most of this workbook.",
+          "Fire, earth, air, water: the one table that made astrology click for me."
+        ],
+        "keywords": [
+          "learn astrology",
+          "astrology workbook",
+          "birth chart workbook",
+          "natal chart guide",
+          "astrology beginner",
+          "birth chart guide",
+          "astrology printable",
+          "astrology journal",
+          "how to read a birth chart",
+          "zodiac workbook"
+        ],
+        "launchPlan": [
+          {
+            "action": "Marketplace check: search Etsy and Amazon for \"learn astrology workbook\", \"birth chart workbook\" and \"astrology for beginners printable\"; log the top 10 results' prices and review counts in a sheet. Several well-reviewed beginner workbooks at similar prices is a stop signal.",
+            "day": "Day 0 (Mon Oct 12, 2026)"
+          },
+          {
+            "action": "Run the super prompt, check accuracy, and build only the [SAMPLE] pages (pages 2-4 plus Weeks 1-4) in Canva.",
+            "day": "Days 1-3 (Oct 13-15)"
+          },
+          {
+            "action": "Publish the free sample on Gumroad as a $0+ product, with a short receipt note saying the full 12 weeks is coming in November. Write down your go bar now (suggestion: 30+ signups by Day 21; this is a starting guess, not a benchmark).",
+            "day": "Day 4 (Fri Oct 16)"
+          },
+          {
+            "action": "Publish 10 pins, one a day, all linking to the sample: worksheet previews, the chart wheel, \"Week 1: what a birth chart actually is\".",
+            "day": "Days 4-13 (Oct 16-25)"
+          },
+          {
+            "action": "Post 2 short videos: \"filling in my chart wheel from a free calculator\" and \"what's inside Week 1\".",
+            "day": "Day 6 (Sun Oct 18)"
+          },
+          {
+            "action": "Email everyone who downloaded the sample and ask one question: which part of the chart confuses you most? Use the answers to shape Weeks 5-12.",
+            "day": "Day 11 (Fri Oct 23)"
+          },
+          {
+            "action": "Mid-test read: downloads, signups, pin outbound clicks. Keep pinning 3 times a week.",
+            "day": "Day 14 (Mon Oct 26)"
+          },
+          {
+            "action": "GO / PIVOT / STOP. Go if sample downloads and signups show real pull: build Weeks 5-12 and list on Etsy and Gumroad by about Nov 20. Pivot if people download but say they won't pay for 12 weeks: sell a short $5 \"chart reading starter kit\" (Chart at a Glance, wheel, reference tables, glossary). Stop if the Day 0 check found dominant, well-reviewed equivalents and the sample got no traction.",
+            "day": "Day 21 (Mon Nov 2)"
+          }
+        ],
+        "positioning": "The workbook that teaches you to read your own birth chart, one week at a time. No horoscopes, no predictions, just the method and space to decide what fits."
+      },
+      "platforms": [
+        {
+          "name": "Etsy",
+          "role": "primary",
+          "why": "Where buyers search for printable workbooks and planners; the full workbook lists here once the sample proves pull."
+        },
+        {
+          "name": "Gumroad",
+          "role": "secondary",
+          "why": "Hosts the free 4-week sample as a $0+ product that collects emails, and gives a direct checkout link for pins and video bios."
+        },
+        {
+          "name": "Pinterest",
+          "role": "traffic",
+          "why": "The trend itself was reported from Pinterest search data, and pins keep sending traffic for months without an audience."
+        },
+        {
+          "name": "TikTok / Instagram Reels",
+          "role": "traffic",
+          "why": "Short 'filling in my chart wheel' process videos show what's inside better than photos."
+        }
+      ],
+      "pricing": {
+        "basis": "estimate: no marketplace prices were checked in the research; confirm against the Day 0 marketplace check",
+        "currency": "USD",
+        "high": 19,
+        "low": 9,
+        "rationale": "A 40+ page course-style workbook can sit above single-page astrology printables but well below paid courses; start at $14 and test $9 only if favorites come without sales.",
+        "recommended": 14
+      },
+      "productName": "Read Your Own Chart: 12-Week Beginner Astrology Workbook",
+      "risks": [
+        "Competition is unmeasured: the research ran out of budget before a marketplace check, so do the Day 0 check before building more than the sample.",
+        "Accuracy: wrong rulerships, house order or aspect angles in a teaching product will draw complaints; verify against two references.",
+        "Etsy restricts metaphysical services that promise outcomes; keep this an educational printable and never sell readings or results (check Etsy's current Prohibited Items policy).",
+        "Interest may turn out to be a September 'reset' bump, which the research lists as an invalidator.",
+        "Keywords are untested suggestions; check Etsy search autocomplete before using them as tags.",
+        "AI-written lessons can sound generic; add your own worked example and voice before listing."
+      ],
+      "source": "written",
+      "superPrompt": "You are an experienced astrology teacher and instructional designer. Your goal: write the complete, print-ready text of a 12-week beginner workbook that teaches someone to read their own Western birth chart step by step, as a reflective and symbolic practice, never as prediction.\n\nBUYER AND JOB\nGen Z and millennial beginners who search \"learn astrology\" or \"how to read a natal chart\" and want to read their own chart instead of horoscopes. Job: a weekly path, a place to record their chart, and prompts to weigh what fits.\n\nDELIVERABLE (number every page)\n- P1 Title page: \"[PRODUCT TITLE]\", subtitle \"A 12-week workbook for reading your own birth chart\", \"[YOUR SHOP NAME]\".\n- P2 How to use this workbook: one lesson a week (30-45 minutes); you need birth date, time and place; get your chart from any free online chart calculator (do not name sites or apps); if the birth time is unknown, use a noon chart and skip the Ascendant and houses.\n- P3 My Chart at a Glance: rows Sun, Moon, Mercury, Venus, Mars, Jupiter, Saturn, Uranus, Neptune, Pluto, North Node, Ascendant, Midheaven; columns Sign | Degree | House | Retrograde (Y/N).\n- P4 My Chart Wheel: how to copy positions onto the blank wheel (Ascendant at left, houses 1-12 counterclockwise).\n- Weeks 1-12, three pages each: (a) Lesson, 350-450 words, with a worked example from an invented sample chart; (b) Worksheet with fill-ins for the reader's own chart; (c) Reflection: three prompts, a \"What resonates / What doesn't\" box, \"Questions I still have\".\n  Topics: 1 What a birth chart is (Sun, Moon and planet positions as seen from the birthplace at the birth moment; the tropical zodiac most Western astrologers use vs the sidereal zodiac used in Vedic astrology; signs are not the same as constellations). 2 The 12 signs through elements and modalities. 3 Sun and Moon. 4 Mercury, Venus, Mars. 5 Jupiter and Saturn. 6 Uranus, Neptune, Pluto (Pluto was reclassified as a dwarf planet in 2006; astrologers still use it). 7 The Ascendant and the four angles. 8 The 12 houses, and why house systems (Placidus, Whole Sign, Equal) give different results. 9 Planets in houses. 10 Aspects: conjunction 0, sextile 60, square 90, trine 120, opposition 180 degrees; orbs are a convention that varies. 11 Rulerships, retrograde as apparent motion seen from Earth, the lunar nodes. 12 Putting it together: a one-page \"chart portrait\" in the reader's own words.\n  Label P2-P4 and Weeks 1-4 \"[SAMPLE]\" (they become the free sample).\n- Reference tables: Signs (sign, glyph, approximate tropical dates, element, modality, traditional ruler, modern ruler); Planets (planet, glyph, 3-4 neutral themes); Houses (house, commonly associated life areas).\n- Glossary: 40 terms, alphabetical, one or two sentences each.\n- Keep Learning: five practice ideas.\n\nDESIGN (one layout line per page)\nUS Letter 8.5x11 in, plus an A4 version; 0.6 in margins; headings Cormorant Garamond, body Lato 11 pt; palette \"Night Study\": Ink Navy #1F2A44, Parchment #F6F1E7, Brass Gold #C9A227, Dusty Lilac #B8A9C9, Slate #5B6475. Write planet and sign names in full beside every glyph.\n\nCONTENT RULES\nOriginal wording; warm, curious, plain; about 8th-grade level. Frame claims as \"astrologers traditionally associate...\" or \"many practitioners read...\", never as facts about the reader. Accuracy checks: fire = Aries, Leo, Sagittarius; earth = Taurus, Virgo, Capricorn; air = Gemini, Libra, Aquarius; water = Cancer, Scorpio, Pisces; cardinal = Aries, Cancer, Libra, Capricorn; fixed = Taurus, Leo, Scorpio, Aquarius; mutable = Gemini, Virgo, Sagittarius, Pisces; traditional/modern rulers of Scorpio Mars/Pluto, Aquarius Saturn/Uranus, Pisces Jupiter/Neptune; sign dates are approximate and shift by a day in some years; the Sun and Moon never go retrograde.\n\nWHY THIS IS BETTER\nUnlike sun-sign decor and horoscope journals, it teaches the method, applies every lesson to the reader's own chart, and welcomes skeptics with the \"What doesn't\" box.\n\nCONSTRAINTS\nNo predictions, forecasts, compatibility verdicts, or claims about health, money, love or success. No names of astrologers, books, websites, apps, celebrities or real people's charts. No copied text.\n\nOUTPUT FORMAT\nPage by page: \"=== PAGE [n]: [title] ===\", \"Layout:\" (one line), then exact text; fill-ins as \"______\", tables as pipe tables. If you run out of room, stop at a page break and wait for \"continue\". End with:\nSELF-CHECK (fix any \"no\" before replying): all pages present; 12 weeks x 3 pages; elements, modalities and rulers match the checks; no predictions or outcome promises; no brand, site, app or person names; wording original.",
+      "themeKey": "'Learn Astrology in 12 Weeks' workbook: weekly lessons, glos"
+    },
+    {
+      "assembly": [
+        "Get the dates: open the US Naval Observatory (USNO) Astronomical Applications \"Phases of the Moon\" data for 2027 (times are in UT). Convert to Eastern Time: subtract 5 hours, or 4 hours between March 14 and November 7, 2027; if subtracting crosses midnight, the ET date is the day before. Cross-check every row against NASA's moon-phase tables, and copy the 2027 eclipse list from NASA's eclipse website.",
+        "Paste both tables into the super prompt and run it. Reject and regenerate any output that contains a date not in your table.",
+        "In Canva, create a custom 1620 x 2160 px design. Build masters (Monthly Reset 2-page spread, New Moon page, Full Moon page, Notes page) with a right-edge tab strip, in the Moonlit Linen palette with Playfair Display and Montserrat Light. Duplicate per month and paste in the text.",
+        "Place moon symbols only on the dates in your table, using the icon set or two overlapping circles, and check that waxing phases are lit on the right.",
+        "Link every tab and index entry (select > Link > page in this document), export PDF Standard, and test every link in a PDF annotation app on a tablet.",
+        "Printable: copy the pages into a new US Letter design without tabs (0.5 in margins) and export PDF Print (300 DPI); repeat for A4.",
+        "Build the control listing for the validation test: a plain 2027 monthly planner made from the same calendar grids without the moon pages, at the same price.",
+        "Upload the tablet PDF, Letter PDF and A4 PDF to Etsy (up to 5 files, 20 MB each) and Gumroad, with 5 listing images from the tablet and flat-lay mockups."
+      ],
+      "asymmetry": {
+        "badBetIf": "Moon and celestial planners are probably a crowded category (not measured), and one wrong date will draw complaints. Skip it if you can't list by about Nov 7 or won't verify dates against two sources. Honestly: moderate asymmetry, mostly a seasonal bet.",
+        "downside": "About 16 hours plus careful date checking, $0.40 in Etsy listing fees and an optional $14 ads test. It is a dated product: unsold copies are worth nothing after January, and the clear answer comes late (early January).",
+        "upside": "Zero marginal cost, and the design can be reused every year by swapping the date table. The moon pages can become an undated insert, a bundle add-on to the workbook, and a Gumroad product."
+      },
+      "costs": {
+        "baseCost": null,
+        "basis": "estimate: digital download, no production or shipping cost. Etsy fees (estimate, verify on Etsy's fee page): $0.20 listing fee, 6.5% transaction fee, about 3% + $0.25 payment processing per US sale.",
+        "item": null,
+        "pages": null,
+        "provider": null,
+        "shipping": null,
+        "testBudget": 14,
+        "testBudgetNote": "Etsy Ads at $0.50/day on the moon planner and $0.50/day on the control listing for 14 days (Dec 1-14), so the comparison stays fair."
+      },
+      "extensions": [
+        "Undated moon reflection insert pack (works with any planner)",
+        "2028 edition next fall: swap the date table, keep the design",
+        "Bundle with the 12-week astrology workbook",
+        "Half-letter and A5 ring-binder insert versions",
+        "Eclipse-season mini journal (dates verified from NASA)"
+      ],
+      "imagePrompts": [
+        {
+          "prompt": "Minimal celestial line art: a thin crescent moon above a horizontal row of eight small moon-phase circles, with waxing phases lit on the right and waning phases lit on the left, plus a few fine stars. Flat vector, thin gold lines #D4B26A and silver accents #C7CBD1 on solid midnight blue #1B2033. Generous empty space in the top third for a title added in Canva. Aspect ratio 3:4 portrait (at least 1620x2160 px). Text: none. No logos, no real people, no trademarked characters, no watermarks.",
+          "purpose": "Cover art",
+          "tool": "Midjourney or ChatGPT images"
+        },
+        {
+          "prompt": "Set of 8 moon-phase icons in one evenly spaced horizontal row: new moon (dark circle with thin outline), waxing crescent, first quarter, waxing gibbous, full moon, waning gibbous, last quarter, waning crescent. Waxing phases lit on the RIGHT, waning phases lit on the LEFT (Northern Hemisphere view). Flat fill: lit part Moon Cream #F4EFE6, shadow Dusk Blue #4A5878, thin Soft Gold #D4B26A outline. Transparent background (or solid white to remove in Canva). Aspect ratio 4:1. Text: none. No logos, no real people, no trademarked characters, no watermarks. Check every icon's lit side before use.",
+          "purpose": "Moon-phase icon set for calendar grids",
+          "tool": "ChatGPT images (or build in Canva from circles)"
+        },
+        {
+          "prompt": "A generic, unbranded tablet with a stylus lying on a cream linen tablecloth #F4EFE6 beside a ceramic cup and a sprig of eucalyptus, overhead view, soft daylight. The tablet screen is solid pure white so a planner screenshot can be placed on it in Canva. Aspect ratio 4:3. Text: none. No brand marks on the device. No logos, no real people, no trademarked characters, no watermarks.",
+          "purpose": "Tablet mockup for listing photos",
+          "tool": "Midjourney or ChatGPT images"
+        },
+        {
+          "prompt": "Vertical background: deep midnight sky #1B2033 with a subtle gradient to dusk blue #4A5878, sparse fine gold stars #D4B26A, a thin crescent moon in the upper right, and a large clear area in the center for a text overlay. Flat and minimal. Aspect ratio 2:3 (1000x1500 px). Text: none. No logos, no real people, no trademarked characters, no watermarks.",
+          "purpose": "Pinterest pin background",
+          "tool": "Midjourney or ChatGPT images"
+        }
+      ],
+      "index": 1,
+      "listingPrompt": "You are an Etsy SEO copywriter. Write the Etsy listing for my digital \"2027 Moon Phase & Intentions Planner\": a dated 2027 planner with every new and full moon (dates from the US Naval Observatory, shown in US Eastern Time), a new-moon intentions page and a full-moon reflection page for each lunation, monthly reset spreads, eclipse notes and a year review. Files: hyperlinked tablet PDF (1620x2160 px), printable US Letter PDF and A4 PDF; [PAGE COUNT] pages.\n\nProduce:\n1. TITLE under 140 characters starting with the buyer's search phrase (for example \"2027 Moon Phase Planner\" or \"2027 Lunar Planner\"), then the key features. Give 3 options and mark your pick.\n2. 13 TAGS, each 20 characters or fewer (show each count), no repeats, covering moon planner, lunar calendar 2027, new moon journal, full moon, digital planner, printable planner, intentions and celestial.\n3. DESCRIPTION: two-line opener; \"What's inside\" bullets; \"Files and sizes\"; \"How delivery works\" (instant download from Etsy Purchases; nothing ships; the tablet version opens in PDF annotation apps and its tabs are clickable; the printable prints at home); \"About the dates\" (source, Eastern Time, and that in other time zones a phase can fall on the neighboring date); one line that AI tools helped with the design and that I checked every date against an astronomical source; personal-use terms.\n4. FAQ with 5 Q&As: Which apps does it work with? Is it hyperlinked? What time zone are the dates in? Can I print it? Refunds (answer: [YOUR REFUND POLICY]).\n\nRules: original wording; no trademarked or brand names in the title or tags (no note-taking app or device brands; you may name compatible apps once in the description as \"works in PDF annotation apps such as [APPS I CHOOSE]\"); no astrology forecasts; no claims that the Moon affects health, sleep, mood, money or relationships; no \"manifest\" promises; plain US English.",
+      "marketing": {
+        "channels": [
+          {
+            "cadence": "3 pins a week from Nov 7 to early January",
+            "channel": "Pinterest",
+            "tactic": "Planner flip-through pins, monthly spread close-ups and a factual \"how moon phases work\" pin linking to Etsy."
+          },
+          {
+            "cadence": "2 videos a week, plus one on each new and full moon",
+            "channel": "TikTok / Instagram Reels",
+            "tactic": "Tablet flip-throughs and \"setting up my new moon page\" videos posted on actual new-moon dates from your table."
+          },
+          {
+            "cadence": "Monthly",
+            "channel": "Email (Gumroad buyers)",
+            "tactic": "A short note before each new moon pointing to that month's pages; announce the 2028 edition next fall."
+          }
+        ],
+        "hooks": [
+          "Every new and full moon of 2027, with a page for each.",
+          "I checked every moon date against an astronomical source so you don't have to.",
+          "A New Year planner for people who like slower, monthly resets.",
+          "New moon: set one intention. Full moon: look back. That's the whole system.",
+          "No horoscopes, just the moon's real calendar and space to reflect."
+        ],
+        "keywords": [
+          "moon planner 2027",
+          "2027 digital planner",
+          "moon phase planner",
+          "lunar planner",
+          "new moon journal",
+          "full moon journal",
+          "2027 moon calendar",
+          "celestial planner",
+          "intention planner",
+          "lunar calendar 2027"
+        ],
+        "launchPlan": [
+          {
+            "action": "Pull the 2027 moon-phase table from USNO, convert it to Eastern Time, cross-check it with NASA, and copy the eclipse list.",
+            "day": "Day 0 (Mon Nov 2, 2026)"
+          },
+          {
+            "action": "Run the super prompt; build the tablet and printable versions; build the plain 2027 control planner.",
+            "day": "Days 1-4 (Nov 3-6)"
+          },
+          {
+            "action": "List the moon planner and the control on Etsy at the same price with the same number of photos; add the moon planner to Gumroad.",
+            "day": "Day 5 (Sat Nov 7)"
+          },
+          {
+            "action": "Post a flip-through video on TikTok and Reels: \"every new and full moon of 2027 in one planner\".",
+            "day": "Day 8 (Tue Nov 10)"
+          },
+          {
+            "action": "Publish 10-15 pins (3 a week): flip-throughs, an info pin on how moon phases work, monthly spread close-ups.",
+            "day": "Days 5-35 (Nov 7-Dec 7)"
+          },
+          {
+            "action": "Early read: compare favorites and visits for the moon planner and the control in Etsy Stats.",
+            "day": "Day 21 (Mon Nov 23)"
+          },
+          {
+            "action": "Run an Etsy sale (for example 20% off) on both listings over the holiday shopping weekend.",
+            "day": "Days 24-28 (Thu Nov 26-Mon Nov"
+          },
+          {
+            "action": "Run Etsy Ads at $0.50/day on each listing.",
+            "day": "Days 29-42 (Dec 1-14)"
+          },
+          {
+            "action": "GO / PIVOT: continue (and plan a 2028 edition) if the moon planner beats the control on favorites and sales. If interest is low, repackage the moon pages as an undated add-on insert for existing planners.",
+            "day": "Day 63 (Mon Jan 4, 2027)"
+          },
+          {
+            "action": "STOP if there are no sales; deactivate the dated listings by Jan 31.",
+            "day": "Day 74 (Fri Jan 15, 2027)"
+          }
+        ],
+        "positioning": "A calm 2027 planner built around every new and full moon, with dates from an astronomical source and pages for reflection, not horoscopes."
+      },
+      "platforms": [
+        {
+          "name": "Etsy",
+          "role": "primary",
+          "why": "Main marketplace for digital and printable planners during the late-November to January planner season."
+        },
+        {
+          "name": "Gumroad",
+          "role": "secondary",
+          "why": "Direct checkout link for pins and video bios, and it keeps buyer emails for next year's edition."
+        },
+        {
+          "name": "Pinterest",
+          "role": "traffic",
+          "why": "Pinterest is where the Cosmic Reset trend was reported, and planner pins work without an audience."
+        },
+        {
+          "name": "TikTok / Instagram Reels",
+          "role": "traffic",
+          "why": "Flip-through videos of a tablet planner show tabs and pages better than photos."
+        }
+      ],
+      "pricing": {
+        "basis": "estimate: digital planner prices were not measured in the research",
+        "currency": "USD",
+        "high": 14,
+        "low": 6,
+        "rationale": "A focused add-on planner rather than an all-in-one life planner: price in the middle so it is an easy New Year buy, and discount for the holiday weekend instead of starting low.",
+        "recommended": 9
+      },
+      "productName": "2027 Moon Phase & Intentions Planner (Digital + Printable)",
+      "risks": [
+        "Date errors: AI tools invent moon dates; use only the verified table, and state the time zone.",
+        "AI images often draw crescents on the wrong side; check every icon before use.",
+        "App and device names in titles or tags can trigger trademark complaints; keep them to a single compatibility line in the description.",
+        "Seasonal: the research puts the end of the window at Jan 31, 2027.",
+        "Competition likely high but unmeasured; the control listing is the honest test of whether the moon angle adds anything.",
+        "Never imply the Moon affects health, sleep, mood or fertility in pins or captions."
+      ],
+      "source": "written",
+      "superPrompt": "You are a planner designer and a careful, astronomy-literate editor. Your goal: write the complete content and page plan for a dated 2027 moon-phase reflection planner, delivered as a hyperlinked tablet PDF and a printable PDF.\n\nBUYER AND JOB\nPeople setting New Year intentions who enjoy moon and celestial rituals. Job: an accurate 2027 lunar calendar, a calm place to set intentions at each new moon and reflect at each full moon, and a monthly reset.\n\nDATES: USE ONLY WHAT IS PASTED HERE\n2027 moon phases in US Eastern Time (from the US Naval Observatory, cross-checked):\n[PASTE TABLE: phase | date | time ET]\n2027 eclipses (from NASA's eclipse website):\n[PASTE TABLE: date | type | where visible]\nNever generate, estimate or fill in a moon-phase or eclipse date yourself. If a table is missing, stop and ask for it. Calendar facts: January 1, 2027 is a Friday; 2027 is not a leap year; US daylight saving time runs March 14 to November 7, 2027.\n\nDELIVERABLE (number every page)\n1 Cover: \"2027 Moon Phase & Intentions Planner\", \"[YOUR SHOP NAME]\".\n2 How to use: one new-moon page and one full-moon page per lunation; times are Eastern; in other time zones a phase can fall on the neighboring date.\n3 About the Moon (factual, about 150 words): phases come from how much of the Moon's sunlit half we see; one cycle takes about 29.5 days; the phase is the same everywhere on Earth but the clock time, and sometimes the date, differ by time zone; solar eclipses happen only at new moon and lunar eclipses only at full moon.\n4 2027 at a Glance: 12 mini-calendars (Sunday start) with a phase symbol on each pasted date.\n5 My 2027 Intentions: three words for the year, what I want to practice, what I want to make room for, how I'll check in.\n6 Lunar Dates: the pasted table, reformatted.\nFor each month, January to December:\n- Monthly Reset (2 pages): month grid with phase symbols on the pasted dates; Look Back (what happened, what I learned); Look Ahead (focus, 3 small actions, habit tracker of 5 rows x days in the month).\n- One New Moon page per new moon in that month: date and time, \"Intentions (up to 3)\", \"First small step\", \"What support do I need?\", \"What I want to notice\".\n- One Full Moon page per full moon in that month: date and time, \"What I noticed this cycle\", \"What's working\", \"What I'm ready to set down\", \"Gratitude\".\n- One Notes page.\n- An Eclipse Note page after any month containing a pasted eclipse: date, type, visibility, one reflection prompt.\nFinish with Year in Review (2 pages) and Notes.\n\nDESIGN\nTablet PDF: 1620x2160 px portrait, right-edge tab strip (Year, Jan-Dec, Notes). Printable: US Letter 8.5x11 in and A4, no tabs, 0.5 in margins. Headings Playfair Display, body Montserrat Light. Palette \"Moonlit Linen\": Midnight #1B2033, Moon Cream #F4EFE6, Silver Mist #C7CBD1, Soft Gold #D4B26A, Dusk Blue #4A5878. Fine celestial line art, lots of white space. Phase symbols: waxing phases are lit on the right, waning on the left (Northern Hemisphere view).\n\nCONTENT RULES\nOriginal, calm, grounded wording at about an 8th-grade level. Prompts invite reflection; they never claim the Moon causes anything. No horoscopes, sign-by-sign forecasts or named full moons.\n\nWHY THIS IS BETTER\nSourced dates with the time zone stated, reflection instead of horoscopes, and a clean, quiet design.\n\nCONSTRAINTS\nNo predictions; no claims about the Moon's effect on health, sleep, mood, fertility, money, plants or relationships; no \"manifest\" promises. No brand, app or planner names; no copied layouts.\n\nOUTPUT FORMAT\nPage by page: \"=== PAGE [n]: [title] ===\", \"Layout:\" (one line), then exact text with fill-in lines \"______\". Write repeating pages once as a template, then list every instance with its page number and date. Then a HYPERLINK MAP: every tab and index entry with its target page number. End with:\nSELF-CHECK (fix any \"no\" before answering): every phase and eclipse date comes from the pasted tables; the number of new-moon and full-moon pages equals the table rows; each month grid starts on the correct 2027 weekday; no predictions or effect claims; no brand names; all wording original.",
+      "themeKey": "2027 Moon Phase & Intentions digital planner (GoodNotes/Nota"
+    },
+    {
+      "assembly": [
+        "Paste the super prompt into Claude or ChatGPT; continue until all 150 pages are specified. Check the 78 headers against the self-check and confirm there are no card meanings.",
+        "In Canva, create a 6 x 9 in design with 0.5 in margin guides on all sides. Build masters for the card page, spread log and weekly page; duplicate the card master 78 times and paste the headers in order.",
+        "Export the KDP interior: Download > PDF Print, no crop marks; confirm 150 pages.",
+        "KDP cover: in KDP's cover calculator choose paperback, 6x9, white paper, black ink, 150 pages. Make a Canva design at the full-wrap size it gives (bleed included), put the art on the front and a short description on the back, leave the barcode area empty, and add spine text only if the calculator allows it at this page count. Export PDF Print.",
+        "KDP setup: title and subtitle with no deck or brand names, answer the AI-generated content question honestly, choose a free KDP ISBN, set the price, and order one proof copy to check margins.",
+        "Printable: copy the pages into US Letter and A4 designs (scale the layout up, keep 0.5 in margins) and export PDF Print (300 DPI).",
+        "Etsy: one standalone listing, plus one bundle listing that includes the astrology workbook files, priced below the two bought separately. Add both to Gumroad."
+      ],
+      "asymmetry": {
+        "badBetIf": "Tarot journals have been sold on Etsy and KDP for years (likely high competition, not measured), a study log is easy to copy, and if the astrology workbook is stopped the bundle test can't run.",
+        "downside": "About 10 hours, $0.20 per Etsy listing and roughly $5-$10 for a KDP proof copy (estimate). You get an answer within 4 weeks of listing.",
+        "upside": "One interior serves three formats (printable, bundle add-on, KDP paperback with Amazon's own traffic). Not tied to the New Year, and the digital version has zero marginal cost."
+      },
+      "costs": {
+        "baseCost": 2.8,
+        "basis": "estimate: about $2.80-$3.40 printing cost per copy (verify in KDP's printing-cost calculator). Amazon prints and ships customer orders, so there is no shipping cost to you; proof and author copies cos",
+        "item": "6x9 in black-ink paperback, 150 pages, white paper",
+        "pages": null,
+        "provider": "Amazon KDP",
+        "shipping": null,
+        "testBudget": 0,
+        "testBudgetNote": "$0 in ads. Expect roughly $5-$10 for one proof copy including shipping (estimate)."
+      },
+      "extensions": [
+        "6x9 paperback gift edition on KDP",
+        "Bundle with the astrology workbook and the moon planner",
+        "Undated 'card of the day' log refill",
+        "22-day Major Arcana mini study journal",
+        "Original card-back pattern sticker sheet"
+      ],
+      "imagePrompts": [
+        {
+          "prompt": "Original cover design inspired by an ornate card back: a tall arched frame filled with a symmetrical pattern of a central eight-pointed star, a sun disc above, a crescent moon below and fine radiating lines. Engraved-line style, antique gold #B8975A linework on ink black #1E1B22 with a few oxblood #7A2E35 accents. Empty band at the top for a title added in Canva. Aspect ratio 2:3 portrait (at least 1800x2700 px). Solid background. Text: none. No figures or scenes from any existing tarot deck, no imitation of any famous deck's style, no reproduced card art. No logos, no real people, no trademarked characters, no watermarks.",
+          "purpose": "Cover art (printable cover and KDP front cover)",
+          "tool": "Midjourney or ChatGPT images"
+        },
+        {
+          "prompt": "Set of four simple, original line icons in a row: a wooden wand with two small leaves, a stemmed cup, an upright sword, and a coin with a five-pointed star. Single-weight lines in ink #1E1B22, no fill, flat and minimal. Transparent background (or solid white to remove in Canva). Aspect ratio 4:1. Text: none. Not copied from any deck's symbols. No logos, no real people, no trademarked characters, no watermarks.",
+          "purpose": "Suit icons for page headers and dividers",
+          "tool": "ChatGPT images or Ideogram"
+        },
+        {
+          "prompt": "Overhead photo of an open journal with plain cream pages (nothing written) on dark slate linen, with a lit taper candle, dried rose petals and a small brass dish. Warm low light; the journal centered and flat so real pages can be placed over it in Canva. Aspect ratio 4:5. Text: none. No tarot cards visible, no hands. No logos, no real people, no trademarked characters, no watermarks.",
+          "purpose": "Mockup background for listing photos",
+          "tool": "Midjourney or ChatGPT images"
+        }
+      ],
+      "index": 2,
+      "listingPrompt": "You are an Etsy SEO copywriter. Write the Etsy listing for my printable \"[PRODUCT TITLE]\": a 150-page tarot study journal for beginners with a notes page for each of the 78 cards, a 78-card checklist, 36 spread-log pages, spread templates and weekly \"what I noticed\" pages. It contains no card meanings and no card art, so it works with any 78-card deck. Files: US Letter PDF and A4 PDF.\n\nProduce:\n1. TITLE under 140 characters starting with the buyer's search phrase (for example \"Tarot Journal for Beginners\" or \"Tarot Study Journal\"), then key features. Give 3 options and mark your pick.\n2. 13 TAGS, each 20 characters or fewer (show each count), no repeats, covering tarot journal, learn tarot, tarot for beginners, spread log, tarot notebook, printable and gift.\n3. DESCRIPTION: two-line opener; \"What's inside\" bullets; \"Files and sizes\"; \"How delivery works\" (instant download from Etsy Purchases; nothing ships; print all pages or only the ones you need); \"Good to know\" (a study log, not a meanings book; use it with your own deck and guidebook); one line saying AI tools helped create it and I edited and checked it; personal-use terms.\n4. FAQ with 5 Q&As: Does it include card meanings? Will it work with my deck? Can I print only some pages? Is this a reading service? (No: it is a journal for your own study.) Refunds (answer: [YOUR REFUND POLICY]).\n\nRules: original wording; no deck, publisher, artist or author names, including the names of famous historical or commercial decks; no predictions; no promises of insight, luck, love or success; no \"best\" claims; plain US English.",
+      "marketing": {
+        "channels": [
+          {
+            "cadence": "3 pins a week",
+            "channel": "Pinterest",
+            "tactic": "Pins of the deck-structure page, card-page template and spread log, linking to Etsy (later also the Amazon page)."
+          },
+          {
+            "cadence": "3 short videos a week during the test",
+            "channel": "TikTok / Instagram Reels",
+            "tactic": "\"One card a day\" study clips showing handwriting in the journal, with no commercial deck art on screen."
+          },
+          {
+            "cadence": "1-2 posts a month where allowed",
+            "channel": "Tarot-learning subreddits and Discords",
+            "tactic": "Share the free \"how a deck is organized\" page where allowed; check the community rules before posting any link."
+          }
+        ],
+        "hooks": [
+          "I'm learning all 78 tarot cards with my own deck. Day 1: The Fool.",
+          "A tarot journal with no meanings in it, on purpose.",
+          "78 cards, 78 pages, one study log.",
+          "What I noticed after 30 practice spreads (from my spread log)."
+        ],
+        "keywords": [
+          "tarot journal",
+          "tarot study journal",
+          "tarot for beginners",
+          "learn tarot",
+          "tarot notebook",
+          "tarot spread journal",
+          "tarot log book",
+          "tarot workbook",
+          "tarot gift"
+        ],
+        "launchPlan": [
+          {
+            "action": "Run the super prompt and build the 6x9 interior in Canva. (Run this after the astrology workbook's go decision; if the workbook stopped, test the journal standalone.)",
+            "day": "Day 0 (Mon Nov 16, 2026)"
+          },
+          {
+            "action": "Build the Letter and A4 printables, the cover and the mockups.",
+            "day": "Day 2 (Wed Nov 18)"
+          },
+          {
+            "action": "List on Etsy standalone and as an \"Astrology Workbook + Tarot Study Journal\" bundle; add it to Gumroad and email the workbook list.",
+            "day": "Day 4 (Fri Nov 20)"
+          },
+          {
+            "action": "Upload the paperback to KDP (review can take up to 72 hours) and order one proof copy.",
+            "day": "Day 5 (Sat Nov 21)"
+          },
+          {
+            "action": "Start a short-video series, \"learning one card a day\": film your handwriting on the journal page rather than showing commercial deck art.",
+            "day": "Day 7 (Mon Nov 23)"
+          },
+          {
+            "action": "Publish 3 pins a week: \"how a tarot deck is organized\", card-page close-ups, the spread log.",
+            "day": "Days 5-25 (Nov 21-Dec 11)"
+          },
+          {
+            "action": "Compare conversion (orders per visit) for the workbook alone vs the bundle in Etsy Stats; log the attach rate.",
+            "day": "Day 14 (Mon Nov 30)"
+          },
+          {
+            "action": "GO / PIVOT / STOP: continue if the bundle raises conversion. Pivot to the standalone KDP paperback as a holiday gift (point pins to the Amazon page) if there is no lift. Stop if there is no lift and no standalone sales after 4 weeks.",
+            "day": "Day 28 (Mon Dec 14)"
+          }
+        ],
+        "positioning": "Not another meanings book: a study log for learning your own deck one card at a time, with a matching astrology workbook."
+      },
+      "platforms": [
+        {
+          "name": "Etsy",
+          "role": "primary",
+          "why": "The printable sells standalone and in a bundle with the astrology workbook, which is the input's validation test."
+        },
+        {
+          "name": "Amazon KDP",
+          "role": "secondary",
+          "why": "A 6x9 paperback reaches gift buyers on Amazon with no inventory, and it is the pivot route if the bundle doesn't lift sales."
+        },
+        {
+          "name": "Gumroad",
+          "role": "secondary",
+          "why": "Bundle add-on for the workbook's email list."
+        },
+        {
+          "name": "Pinterest",
+          "role": "traffic",
+          "why": "Beginner tarot is a long-running Pinterest topic; study-page pins can link to Etsy or the Amazon page."
+        }
+      ],
+      "pricing": {
+        "basis": "estimate: tarot journal prices were not measured in the research",
+        "currency": "USD",
+        "high": 9,
+        "low": 4,
+        "rationale": "A template-style journal sells as an add-on, so keep the printable cheap enough to lift a bundle; price the 6x9 KDP paperback at about $9.99 for gifting.",
+        "recommended": 6
+      },
+      "productName": "Tarot Study Journal for Beginners: 78-Card Notes & Spread Log",
+      "risks": [
+        "Copyrighted art: never use scans or recolored editions of commercial decks; this product uses no card art at all.",
+        "Deck names can be trademarks; keep every deck, publisher and artist name out of the listing and the book.",
+        "KDP can reject low-effort or near-duplicate journals; keep the orientation pages original and useful.",
+        "Showing commercial deck art in videos is a gray area; film the journal pages instead.",
+        "The bundle test depends on the astrology workbook going ahead."
+      ],
+      "source": "written",
+      "superPrompt": "You are a patient tarot teacher and a book designer. Your goal: write the complete text and page plan for a beginner tarot STUDY journal: a log for learning one's own deck, not an interpretation book.\n\nBUYER AND JOB\nTarot beginners with a new deck (they search \"tarot cards for beginners\"). Job: one page per card to record what they learn from their own deck and guidebook, a spread log, and weekly pages for noticing patterns.\n\nDELIVERABLE: 150 pages, number every page\n1 Title: \"[PRODUCT TITLE]\", subtitle \"A study journal for learning all 78 cards\", \"[YOUR SHOP NAME]\".\n2 How to Use: one card a day (78 days) or one suit at a time; use your own deck and guidebook; log every practice spread.\n3 How a Tarot Deck Is Organized: 78 cards; 22 Major Arcana numbered 0-21; 56 Minor Arcana in four suits of 14 (Ace to 10, Page, Knight, Queen, King); some decks rename suits (Coins or Disks for Pentacles) or court cards; Strength and Justice are numbered 8 and 11 in some traditions and 11 and 8 in others, so follow your deck.\n4 Suits and Elements: the most common modern pairing is Wands-Fire, Cups-Water, Swords-Air, Pentacles-Earth; some readers swap Wands and Swords. Table plus \"My deck uses: ______\".\n5 My Decks: deck name, date acquired, first impressions (3 blocks).\n6 About Reversals: an optional practice; some readers use them and some don't; \"My approach: ______\".\n7-8 78-Card Checklist: every card name with three boxes (Studied | Pulled in a spread | Revisited).\n9-86 One page per card, in this order: 0 The Fool, I The Magician, II The High Priestess, III The Empress, IV The Emperor, V The Hierophant, VI The Lovers, VII The Chariot, VIII Strength, IX The Hermit, X Wheel of Fortune, XI Justice, XII The Hanged Man, XIII Death, XIV Temperance, XV The Devil, XVI The Tower, XVII The Star, XVIII The Moon, XIX The Sun, XX Judgement, XXI The World; then Wands, Cups, Swords and Pentacles, each Ace, Two to Ten, Page, Knight, Queen, King. Card page fields: header; Date first studied; What I see in my deck's image (colors, figures, symbols, mood); Keywords from my guidebook; My own keywords; Upright notes; Reversed notes (optional); Questions I have; \"Came up in\" log (date and spread, 8 rows).\n87-122 Spread Log (36 pages): date; deck; spread name; question or focus; sketch box for the layout; table Position | Card | What I noticed (10 rows); Overall reflection; Looking back a week later.\n123-124 Spread Templates: a 3-card layout with blank position labels and example label sets (past / present / next step; situation / challenge / next step); a 10-position layout with numbered positions only.\n125-146 Weekly \"What I Noticed\" pages (22): suits that showed up most, cards I keep drawing, a card that confused me, what I want to study next.\n147-150 Notes and \"Cards I Want to Revisit\".\n\nDESIGN\nTwo outputs from the same content. Paperback interior: 6x9 in, no bleed, 0.5 in margins on all sides, black ink. Printable: US Letter 8.5x11 in and A4. Headings Cinzel, body Lora 10.5 pt. Palette \"Candle & Ink\" (cover and printable accents): Ink #1E1B22, Bone #F3EEE3, Oxblood #7A2E35, Antique Gold #B8975A, Smoke #8C8790. Writing lines 50% gray. No card images inside.\n\nCONTENT RULES\nOriginal text for pages 2-6 and all prompts; friendly, practical, about 8th-grade level. Do NOT write meanings or interpretations for any card. Describe tarot as a reflective practice people approach in different ways.\n\nWHY THIS IS BETTER\nA study log, not another meanings book: it works with any deck, records what the reader actually learned, and pairs with a learn-astrology workbook.\n\nCONSTRAINTS\nNo predictions, and no promises of insight, luck, love or success. No deck, publisher, artist or author names. No guidebook text. No reproduction or description of any copyrighted card artwork.\n\nOUTPUT FORMAT\nPage by page: \"=== PAGE [n]: [title] ===\", \"Layout:\" (one line), then exact text. For pages 9-86 give ONE card-page template, then a numbered list of the 78 headers in order. Do the same for spread-log and weekly pages (one template plus the page range). End with:\nSELF-CHECK (fix any \"no\"): 78 headers = 22 Major + 4 x 14 Minor; no card meanings anywhere; page total is 150; no brand or person names; no predictions; wording original.",
+      "themeKey": "Beginner tarot learning journal: a card-by-card notes page f"
+    }
+  ],
+  "source": "written",
+  "writtenAt": "2026-10-04T23:13:02Z"
+}

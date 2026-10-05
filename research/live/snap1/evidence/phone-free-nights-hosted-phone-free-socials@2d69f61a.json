@@ -1,0 +1,19 @@
+{
+  "accessMethod": "web_search_result",
+  "candidateId": "phone-free-nights-hosted-phone-free-socials",
+  "claim": "Earlier national coverage of phone-free bars.",
+  "excerpt": "Some bars and restaurants are going phone free",
+  "firstRetrievedAt": "2026-10-05T00:00:55Z",
+  "firstSeenRunId": "run-hunt-hobbies-20261004-4",
+  "id": "phone-free-nights-hosted-phone-free-socials~2d69f61a",
+  "intent": "curiosity",
+  "kind": "observed",
+  "lastSeenRunId": "run-hunt-hobbies-20261004-4",
+  "publishedAt": "2026-03-31",
+  "publisher": "NPR",
+  "retrievedAt": "2026-10-05T00:00:55Z",
+  "signalType": "press",
+  "syndicationOf": null,
+  "title": "'Life needs to be more like this': Some bars and restaurants are going phone free",
+  "url": "https://www.npr.org/2026/03/31/nx-s1-5766124/life-needs-to-be-more-like-this-some-bars-and-restaurants-are-going-phone-free"
+}

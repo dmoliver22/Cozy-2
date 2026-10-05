@@ -1,0 +1,19 @@
+{
+  "accessMethod": "web_search_result",
+  "candidateId": "poetcore",
+  "claim": "Coverage outside US/UK fashion press, which suggests the trend is spreading internationally.",
+  "excerpt": "Search result title.",
+  "firstRetrievedAt": "2026-10-04T21:00:56Z",
+  "firstSeenRunId": "run-2026-10-04-aesthetics",
+  "id": "poetcore~c07b99cc",
+  "intent": "curiosity",
+  "kind": "observed",
+  "lastSeenRunId": "run-2026-10-04-aesthetics",
+  "publishedAt": "2026-01-13",
+  "publisher": "Soigne Middle East",
+  "retrievedAt": "2026-10-04T21:00:56Z",
+  "signalType": "press",
+  "syndicationOf": null,
+  "title": "How to Make the 2026 Poetcore Trend Work for You",
+  "url": "https://soignemiddleeast.com/2026/01/13/2026-poetcore-trend/"
+}

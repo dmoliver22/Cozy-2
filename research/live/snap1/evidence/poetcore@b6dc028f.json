@@ -1,0 +1,19 @@
+{
+  "accessMethod": "web_search_result",
+  "candidateId": "poetcore",
+  "claim": "A menswear angle: Poetcore is marketed to men as well as women.",
+  "excerpt": "Search result title.",
+  "firstRetrievedAt": "2026-10-04T21:00:56Z",
+  "firstSeenRunId": "run-2026-10-04-aesthetics",
+  "id": "poetcore~b6dc028f",
+  "intent": "none",
+  "kind": "observed",
+  "lastSeenRunId": "run-2026-10-04-aesthetics",
+  "publishedAt": null,
+  "publisher": "Tokyo Canvas (retailer blog)",
+  "retrievedAt": "2026-10-04T21:00:56Z",
+  "signalType": "marketplace",
+  "syndicationOf": null,
+  "title": "The Rise of Poetcore - Intellectual Masculinity Redefined in 2026",
+  "url": "https://www.tokyocanvas.com/blogs/news/the-rise-of-poetcore-%E2%80%93-intellectual-masculinity-redefined-in-2026"
+}

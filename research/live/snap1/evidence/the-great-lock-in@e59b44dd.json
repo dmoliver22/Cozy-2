@@ -1,0 +1,19 @@
+{
+  "accessMethod": "web_search_result",
+  "candidateId": "the-great-lock-in",
+  "claim": "Gen Z is choosing New Year 'rebrands' and 'lock-ins' instead of resolutions, planned months ahead with vision boards.",
+  "excerpt": "Summary: young people replace resolutions with rebrands and lock-ins and plan their rebrand months before the holidays.",
+  "firstRetrievedAt": "2026-10-04T20:59:17Z",
+  "firstSeenRunId": "run-2026-10-04-movements",
+  "id": "the-great-lock-in~e59b44dd",
+  "intent": "curiosity",
+  "kind": "observed",
+  "lastSeenRunId": "run-2026-10-04-movements",
+  "publishedAt": null,
+  "publisher": "Trill Mag",
+  "retrievedAt": "2026-10-04T20:59:17Z",
+  "signalType": "press",
+  "syndicationOf": null,
+  "title": "'New Year's, Healthier Me': How Gen Z Is Creating A Holistic Plan For 2026",
+  "url": "https://www.trillmag.com/lifestyle/new-years-healthier-me-how-gen-z-is-creating-a-holistic-plan-for-2026/"
+}

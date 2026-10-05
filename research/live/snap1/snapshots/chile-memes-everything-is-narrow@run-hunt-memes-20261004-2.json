@@ -1,0 +1,23 @@
+{
+  "action": "prepare",
+  "analystAction": "prepare",
+  "candidateId": "chile-memes-everything-is-narrow",
+  "competition": "none_found",
+  "confidence": 52,
+  "id": "chile-memes-everything-is-narrow~run-hunt-memes-20261004-2",
+  "independentSources": 9,
+  "purchaseSignals": 0,
+  "runId": "run-hunt-memes-20261004-2",
+  "score": 60,
+  "stage": "first_spark",
+  "takenAt": "2026-10-05T00:00:47Z",
+  "weightsUsed": {
+    "buyerIntent": 20,
+    "durability": 15,
+    "economics": 10,
+    "productFit": 15,
+    "supplyGap": 15,
+    "timing": 25
+  },
+  "windowEstimate": "2-5 weeks of peak attention"
+}

@@ -1,0 +1,19 @@
+{
+  "accessMethod": "web_search_result",
+  "candidateId": "poetcore",
+  "claim": "Fashion press frames Poetcore as one of autumn 2026's most coveted looks.",
+  "excerpt": "Search summary: 'fast becoming one of autumn 2026's most coveted looks', turning worn, dog-eared classics into something wearable for cooler months.",
+  "firstRetrievedAt": "2026-10-04T21:00:56Z",
+  "firstSeenRunId": "run-2026-10-04-aesthetics",
+  "id": "poetcore~0cc6d57d",
+  "intent": "curiosity",
+  "kind": "observed",
+  "lastSeenRunId": "run-2026-10-04-aesthetics",
+  "publishedAt": null,
+  "publisher": "LDN Fashion",
+  "retrievedAt": "2026-10-04T21:00:56Z",
+  "signalType": "press",
+  "syndicationOf": null,
+  "title": "Poetcore: How to Wear Autumn 2026's Most Literary Trend",
+  "url": "https://www.ldnfashion.com/features/poetcore-is-the-only-trend-you-need-this-autumn/"
+}

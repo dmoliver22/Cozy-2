@@ -1,0 +1,19 @@
+{
+  "accessMethod": "web_search_result",
+  "candidateId": "american-mahjong-boom",
+  "claim": "Mass-market retailers carried seasonal mahjong novelty products for holiday 2025.",
+  "excerpt": "Listing title only.",
+  "firstRetrievedAt": "2026-10-04T20:58:18Z",
+  "firstSeenRunId": "run-2026-10-04-hobbies",
+  "id": "american-mahjong-boom~a3a8bf63",
+  "intent": "none",
+  "kind": "observed",
+  "lastSeenRunId": "run-2026-10-04-hobbies",
+  "publishedAt": null,
+  "publisher": "Walmart marketplace listing",
+  "retrievedAt": "2026-10-04T20:58:18Z",
+  "signalType": "marketplace",
+  "syndicationOf": null,
+  "title": "2025 Mahjong Advent Calendar - 24 Days Countdown",
+  "url": "https://www.walmart.com/ip/18227052603"
+}

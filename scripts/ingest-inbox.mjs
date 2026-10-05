@@ -14,7 +14,8 @@ const load = async (col) => {
   for (const f of await readdir(`${dir}/${col}`).catch(() => [])) {
     if (!f.endsWith('.json')) continue;
     const d = JSON.parse(await readFile(`${dir}/${col}/${f}`, 'utf8'));
-    out.push({ id: f.replace(/\.json$/, ''), ...(d.data || d) });
+    // ArtifactData downloads name files with '@' where ids contain '~'.
+    out.push({ id: f.replace(/\.json$/, '').replace(/@/g, '~'), ...(d.data || d) });
   }
   return out;
 };

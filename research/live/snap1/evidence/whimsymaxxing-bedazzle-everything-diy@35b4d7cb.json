@@ -1,0 +1,19 @@
+{
+  "accessMethod": "web_search_result",
+  "candidateId": "whimsymaxxing-bedazzle-everything-diy",
+  "claim": "Independent lifestyle coverage on the same dates.",
+  "excerpt": "what the bedazzl a trend you will see everywhere",
+  "firstRetrievedAt": "2026-10-05T00:00:55Z",
+  "firstSeenRunId": "run-hunt-hobbies-20261004-3",
+  "id": "whimsymaxxing-bedazzle-everything-diy~35b4d7cb",
+  "intent": "curiosity",
+  "kind": "observed",
+  "lastSeenRunId": "run-hunt-hobbies-20261004-3",
+  "publishedAt": "2026-08-27",
+  "publisher": "MWN Lifestyle",
+  "retrievedAt": "2026-10-05T00:00:55Z",
+  "signalType": "press",
+  "syndicationOf": null,
+  "title": "What the bedazzl: a trend you will see everywhere",
+  "url": "https://mwnlifestyle.com/2026/08/27/what-the-bedazzl-a-trend-you-will-see-everywhere/"
+}

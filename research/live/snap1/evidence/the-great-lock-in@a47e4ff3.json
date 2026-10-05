@@ -1,0 +1,19 @@
+{
+  "accessMethod": "web_search_result",
+  "candidateId": "the-great-lock-in",
+  "claim": "In 2026 the lock-in is 'taking over TikTok again', with a more holistic, mindfulness-inclusive focus ahead of 2027.",
+  "excerpt": "Summary: TikTok has tens of thousands of videos documenting plans, routines and rules for the final stretch of 2026; goals range from fitness and saving money to reading and sleep; the 2026 version adds mindfulness and mental wellbeing.",
+  "firstRetrievedAt": "2026-10-04T20:59:17Z",
+  "firstSeenRunId": "run-2026-10-04-movements",
+  "id": "the-great-lock-in~a47e4ff3",
+  "intent": "curiosity",
+  "kind": "observed",
+  "lastSeenRunId": "run-2026-10-04-movements",
+  "publishedAt": null,
+  "publisher": "BuzzFeed",
+  "retrievedAt": "2026-10-04T20:59:17Z",
+  "signalType": "press",
+  "syndicationOf": null,
+  "title": "The \"Great Lock In\" Is Taking Over TikTok Again – But What Is It, Exactly?",
+  "url": "https://www.buzzfeed.com/beccamonaghan/the-great-lock-in-tiktok-explained"
+}

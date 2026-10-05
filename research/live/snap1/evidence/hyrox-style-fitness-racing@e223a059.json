@@ -1,0 +1,19 @@
+{
+  "accessMethod": "web_search_result",
+  "candidateId": "hyrox-style-fitness-racing",
+  "claim": "US functional-fitness trade media treats Hyrox as a global phenomenon (April 2026).",
+  "excerpt": "Title/date only.",
+  "firstRetrievedAt": "2026-10-04T20:53:53Z",
+  "firstSeenRunId": "run-2026-10-04-hobbies",
+  "id": "hyrox-style-fitness-racing~e223a059",
+  "intent": "curiosity",
+  "kind": "observed",
+  "lastSeenRunId": "run-2026-10-04-hobbies",
+  "publishedAt": "2026-04-08",
+  "publisher": "Morning Chalk Up",
+  "retrievedAt": "2026-10-04T20:53:53Z",
+  "signalType": "press",
+  "syndicationOf": null,
+  "title": "The Hyrox effect: how a simple formula built a global fitness phenomenon",
+  "url": "https://morningchalkup.com/2026/04/08/the-hyrox-effect-how-a-simple-formula-built-a-global-fitness-phenomenon/"
+}

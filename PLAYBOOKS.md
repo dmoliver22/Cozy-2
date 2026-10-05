@@ -1,6 +1,6 @@
 # Trendjack make-and-sell playbooks
 
-Generated 2026-10-04 from the research and playbooks in this repository. The same content, with copy buttons and an editable price, is in the dashboard under each product.
+Generated 2026-10-05 from the research and playbooks in this repository. The same content, with copy buttons and an editable price, is in the dashboard under each product.
 
 Playbooks are guidance, not evidence. Prices and POD costs are estimates unless the dashboard marks them verified; fees use `config/fees` (verified 2026-10-04) where available. Per-sale arithmetic only, never a sales forecast.
 
@@ -11,30 +11,71 @@ Playbooks are guidance, not evidence. Prices and POD costs are estimates unless 
 | Tarot Study Journal for Beginners: 78-Card Notes & Spread Log | Cosmic Reset (beginner astrology & tarot) | Prepare | $6.00 | $4.98 (Etsy) | $0.20 | 1 | Strongly asymmetric (89) |
 | Holiday Mahjong Night Kit (3 designs) | American mahjong boom | Test now | $8.00 | $6.79 (Etsy) | $14.20 | 3 | Strongly asymmetric (88) |
 | Six Poems Broadside Set: Letterpress-Style Public-Domain Poetry Prints | Poetcore | Watch | $9.00 | $7.70 (Etsy) | $0.20 | 1 | Strongly asymmetric (88) |
+| Backgammon Club Night Kit (Printable) | Backgammon social-club revival among young adults | Prepare | $9.00 | $7.70 (Etsy) | $0.20 | 1 | Strongly asymmetric (88) |
 | 2027 First-Time Reader Plan (New Testament, Minimal + Soft Editions) | Gen Z Bible-reading revival | Prepare | $5.00 | $4.08 (Etsy) | $0.20 | 1 | Strongly asymmetric (87) |
 | Race-Day Pacing Kit: Split Calculator Sheet + Wrist Strips | Hyrox-style fitness racing | Prepare | $5.00 | $4.08 (Etsy) | $0.20 | 1 | Strongly asymmetric (87) |
 | Phone-Free Table Kit (Friendsgiving + Winter/NYE editions) | Analog bag & screen-free gifting | Test now | $7.00 | $5.89 (Etsy) | $14.20 | 3 | Strongly asymmetric (86) |
+| Family Screen Allowance Kit | Category Screen-Time Allowances (New Kids' Device Controls) | Prepare | $8.00 | $6.79 (Etsy) | $14.20 | 3 | Strongly asymmetric (86) |
 | Kitchen Witch Pantry: 64+ Editable Apothecary Jar Labels | Kitchen Witch aesthetic | Prepare | $9.00 | $7.70 (Etsy) | $14.20 | 2 | Strongly asymmetric (84) |
 | Kitchen Apothecary Print Set of 3: Herb Chart, Moon Phases, Drying Guide | Kitchen Witch aesthetic | Prepare | $9.00 | $7.70 (Etsy) | $0.20 | 1 | Strongly asymmetric (84) |
+| Celery Green Botanical Wall Art Set (6 prints + palette card) | Celery green: the soft herbal green of 2027 | Prepare | $12.00 | $10.41 (Etsy) | $0.20 | 1 | Strongly asymmetric (84) |
+| Things To Say: Printable Party Game | Things To Say (ironic advice lists) | Prepare | $7.00 | $5.89 (Etsy) | $14.20 | 3 | Strongly asymmetric (84) |
+| Teleprompter-Ready Scripts (60 for Small Business) | Built-in Teleprompter Scripted Videos | Prepare | $14.00 | $12.22 (Etsy) | $14.20 | 2 | Strongly asymmetric (84) |
 | Stitch Night Host Kit: Printable Needlepoint Party Set | Needlepoint revival | Prepare | $6.00 | $4.98 (Etsy) | $0.20 | 1 | Strongly asymmetric (83) |
 | Lock-In: Final 12 Weeks of 2026 Tracker (with Proof Log) | The Great Lock-In | Prepare | $4.00 | $3.17 (Etsy) | $0.20 | 1 | Strongly asymmetric (83) |
+| Kids' Home Phone Starter Kit | Kids' Landline Phones | Test now | $9.00 | $7.70 (Etsy) | $14.20 | 2 | Strongly asymmetric (82) |
+| My First Device Gift Booklet | Category Screen-Time Allowances (New Kids' Device Controls) | Prepare | $6.00 | $4.98 (Etsy) | $10.20 | 3 | Strongly asymmetric (81) |
+| Brain-Baffler Flavor Illusion Tasting Party Kit | Flavor-Illusion Food Combos | Prepare | $6.50 | $5.43 (Etsy) | $14.20 | 3 | Strongly asymmetric (80) |
+| Our Life Together Pet Tally Print (personalized) | Pet Life Tally ('Everything My Pet Was There For') | Prepare | $14.00 | $12.22 (Etsy) | $20.20 | 2 | Strongly asymmetric (79) |
+| Open Sky Fall Wallpaper Pack (12 lock + home pairs) | Wallpapers made for the new movable lock-screen clock (iOS 27) | Prepare | $4.50 | $3.62 (Etsy) | $0.20 | 1 | Strongly asymmetric (79) |
+| Butterfly Sunday Tidy Kit | Sunday Butterfly Tidying Method | Prepare | $5.50 | $4.53 (Etsy) | $0.20 | 1 | Strongly asymmetric (78) |
+| Make-Your-Own Coloring Advent Gift Kit (printable envelopes, tags + 24 pages) | Coloring advent calendars (cozy coloring countdown) | Test now | $7.00 | $5.89 (Etsy) | $0.20 | 1 | Strongly asymmetric (78) |
+| Gold Star Behaviour December Tracker + Story Templates | Gold Star Behaviour (holiday edition) | Prepare | $5.00 | $4.08 (Etsy) | $0.20 | 1 | Strongly asymmetric (77) |
 | Lock In 2027: 12-Week Q1 Sprint Planner | The Great Lock-In | Prepare | $9.00 | $7.70 (Etsy) | $14.20 | 2 | Strongly asymmetric (76) |
+| A Very Accurate Guide to Narrow Things Printable Poster | Chile memes (everything is narrow) | Prepare | $5.00 | $4.08 (Etsy) | $0.20 | 1 | Strongly asymmetric (76) |
+| Kids' Calling Cards | Kids' Landline Phones | Test now | $5.00 | $4.08 (Etsy) | $0.20 | 1 | Strongly asymmetric (76) |
 | Beginner Mahjong Class Kit (for instructors) | American mahjong boom | Test now | $19.00 | $16.75 (Etsy) | $28.20 | 2 | Strongly asymmetric (75) |
 | Mahjong Club Organizer Kit (Google Sheets) | American mahjong boom | Test now | $12.00 | $10.41 (Etsy) | $0.20 | 1 | Strongly asymmetric (75) |
 | Stitch Log: Needlepoint Project Journal & Canvas Stash Tracker | Needlepoint revival | Prepare | $8.00 | $6.79 (Etsy) | $14.20 | 3 | Strongly asymmetric (75) |
+| Phone-Free Night Host Kit | Phone-free nights (hosted phone-free socials) | Prepare | $9.00 | $7.70 (Etsy) | $14.20 | 2 | Strongly asymmetric (75) |
+| Velvet Moon Whimsigoth Gallery Wall (9 prints) | Whimsigoth fall 2026 (sequel-driven revival) | Prepare | $14.00 | $12.22 (Etsy) | $0.20 | 1 | Strongly asymmetric (75) |
+| 2027 PTO-Maxxing Planner (Google Sheets + printable year view) | PTO-maxxing for 2027 (year-end PTO planning) | Watch | $9.00 | $7.70 (Etsy) | $0.20 | 1 | Strongly asymmetric (75) |
+| Once a Day / Once a Week / Once a Month Home Rhythm Kit | Once a Day, Once a Week, Once a Month Routine Format | Prepare | $4.50 | $3.62 (Etsy) | $0.20 | 1 | Strongly asymmetric (74) |
+| Good Enough 2027: The Anti-Resolution Planner | Counter-maxxing ('good enough' anti-optimization) | Prepare | $10.00 | $8.60 (Etsy) | $20.20 | 3 | Strongly asymmetric (74) |
 | Analog Bag Refill Pack (printable pocket booklets) | Analog bag & screen-free gifting | Test now | $7.00 | $5.89 (Etsy) | $28.20 | 5 | Strongly asymmetric (73) |
 | Read Your Own Chart: 12-Week Beginner Astrology Workbook | Cosmic Reset (beginner astrology & tarot) | Prepare | $14.00 | $12.22 (Etsy) | $0.20 | 1 | Strongly asymmetric (72) |
+| Book Lovers Speed-Dating Night Kit | Reader dating and bookish matchmaking | Prepare | $12.00 | $10.41 (Etsy) | $0.20 | 1 | Strongly asymmetric (72) |
+| Phone-Free Month Group Kit | 30-Day Phone-Free Challenge Cohorts | Prepare | $18.00 | $15.84 (Etsy) | $0.20 | 1 | Strongly asymmetric (72) |
+| Script & Shoot Planner | Built-in Teleprompter Scripted Videos | Prepare | $12.00 | $10.41 (Etsy) | $0.20 | 1 | Strongly asymmetric (72) |
 | 2027 Moon Phase & Intentions Planner (Digital + Printable) | Cosmic Reset (beginner astrology & tarot) | Prepare | $9.00 | $7.70 (Etsy) | $14.20 | 2 | Strongly asymmetric (71) |
 | Kinda Chic 2027: A Year of Small Wins (Digital + Printable Journal) | Kinda Chic ("kinda chic to...") | Prepare | $8.00 | $6.79 (Etsy) | $0.20 | 1 | Strongly asymmetric (71) |
+| Little Winter Nights: 24 Fold-and-Color Mini Zine Advent Calendar (printable) | Coloring advent calendars (cozy coloring countdown) | Test now | $8.00 | $6.79 (Etsy) | $20.20 | 3 | Strongly asymmetric (71) |
+| Side Quest Season 2027 Planner | Hobbyamory | Prepare | $12.00 | $10.41 (Etsy) | $0.20 | 1 | Strongly asymmetric (70) |
+| The Hobby Rotation Planner 2027 | Hobbymaxxing | Prepare | $9.00 | $7.70 (Etsy) | $20.20 | 3 | Strongly asymmetric (70) |
+| Apprentice Hours & Skills Logbook | 'Toolbelt generation': Gen Z skilled-trades apprentices | Prepare | $11.99 | $4.75 (Amazon KDP (120-page B&W, 60% royalty)) | $0.20 | 1 | Strongly asymmetric (70) |
 | November 2026: Do You Understand Yet? Lock-Screen Calendar Pack | Remember November 2026 | Prepare | $3.00 | $2.27 (Etsy) | $0.20 | 1 | Asymmetric (69) |
+| Things To Say: Editable Meme Poster Template Pack | Things To Say (ironic advice lists) | Prepare | $9.00 | $7.70 (Etsy) | $0.20 | 1 | Asymmetric (69) |
+| 2027 Goal Punch Cards: The Complete Kit | Goal punch cards (2027 cycle) | Prepare | $6.00 | $4.98 (Etsy) | $30.20 | 7 | Asymmetric (69) |
+| First 100 Birds Field Log (Printable + Paperback) | Gen Z birding and college bird clubs | Prepare | $7.00 | $5.89 (Etsy) | $0.20 | 1 | Asymmetric (68) |
+| Bedazzle Anything Pattern Pack | Whimsymaxxing: bedazzle-everything DIY | Prepare | $6.00 | $4.98 (Etsy) | $25.20 | 6 | Asymmetric (67) |
+| Party Like It's 2016: Throwback Friendsgiving & Holiday Party Kit | 2016-themed holiday parties (2016 Friendsgiving) | Prepare | $9.00 | $7.70 (Etsy) | $14.20 | 2 | Asymmetric (66) |
 | Split & Station Log: 16-Week Fitness Race Training Journal | Hyrox-style fitness racing | Prepare | $7.00 | $5.89 (Etsy) | $14.20 | 3 | Asymmetric (64) |
 | Reading Notes: 365-Entry Bible Reading Journal (Minimal + Soft Editions) | Gen Z Bible-reading revival | Prepare | $14.99 | $6.55 (Amazon KDP (120-page B&W, 60% royalty)) | $0.20 | 1 | Asymmetric (62) |
 | Kinda Chic Everyday Wins Planner Sticker Sheet | Kinda Chic ("kinda chic to...") | Prepare | $12.00 | $7.74 (Etsy) | $6.94 | 1 | Asymmetric (62) |
 | Kitchen Grimoire: Herb & Recipe Journal (Printable PDF + 6x9 Paperback) | Kitchen Witch aesthetic | Prepare | $7.00 | $5.89 (Etsy) | $0.20 | 1 | Asymmetric (61) |
 | Kinda Chic Milestone Birthday Mug + Card Series (30-70) | Kinda Chic ("kinda chic to...") | Prepare | $22.00 | $13.89 (Etsy) | $25.01 | 2 | Asymmetric (57) |
 | The Commonplace Book: A Poetry Journal for Copying, Annotating & Keeping Lines | Poetcore | Watch | $10.99 | $4.15 (Amazon KDP (120-page B&W, 60% royalty)) | $28.20 | 7 | Asymmetric (56) |
+| relax, pal. Minimal Serif Tee | Relax, Pal | Pass | $26.00 | $11.41 (Etsy) | $15.48 | 2 | Roughly even (54) |
 | Analog Bag 'Contents Map' Tote (POD) | Analog bag & screen-free gifting | Test now | $28.00 | $14.77 (Etsy) | $34.62 | 3 | Roughly even (53) |
+| Toolbelt Generation Hard Hat Sticker Pack | 'Toolbelt generation': Gen Z skilled-trades apprentices | Prepare | $4.50 | $1.00 (Etsy) | $6.44 | 7 | Roughly even (53) |
+| Bird Club Starter Pack Sticker Sheet | Gen Z birding and college bird clubs | Prepare | $8.00 | $4.12 (Etsy) | $6.94 | 2 | Roughly even (52) |
 | Season's Scurryings Round Raccoon Ornament + Card | Jimothy the raccoon | Pass | $20.00 | $12.26 (Etsy) | $9.92 | 1 | Roughly even (49) |
+| Doubles & Dice Social Sticker Collection | Backgammon social-club revival among young adults | Prepare | $4.50 | $1.00 (Etsy) | $6.44 | 7 | Roughly even (49) |
+| Thirty Days Unplugged Pocket Log | 30-Day Phone-Free Challenge Cohorts | Prepare | $8.99 | $2.06 (Amazon KDP (120-page B&W, 50% royalty)) | $0.20 | 1 | Roughly even (46) |
+| Gold Star Behaviour: Holiday Edition sticker sheet | Gold Star Behaviour (holiday edition) | Prepare | $7.50 | $3.72 (Etsy) | $20.44 | 6 | Roughly even (45) |
+| Relax, Pal. Deadpan Sticker Set | Relax, Pal | Pass | $4.50 | $1.00 (Etsy) | $6.44 | 7 | Roughly even (42) |
+| Everything Is Narrow: Skinny Chile Sticker Pack | Chile memes (everything is narrow) | Prepare | $4.00 | $0.55 (Etsy) | $6.44 | 12 | Roughly even (41) |
+| I Can't Do Nathan School-Survival Sticker Pack | I Can't Do Nathan | Prepare | $4.00 | $0.55 (Etsy) | $6.44 | 12 | Roughly even (41) |
 | 'I Remembered. November 2026.' Original Polar Bear Sticker | Remember November 2026 | Prepare | $4.50 | $1.00 (Etsy) | $6.44 | 7 | Unfavorable (35) |
 
 Action is the trend's recommendation after the dashboard's evidence gates. Asymmetry rates the shape of the bet, not whether the trend has proven demand: check both.
@@ -503,6 +544,130 @@ Product cost basis: digital. Cash at risk $0.20; break-even 1 sale(s).
 
 ---
 
+## Backgammon Club Night Kit (Printable)
+
+**Trend:** Backgammon social-club revival among young adults (Prepare) · **Format:** printable (digital) · **Asymmetry:** Strongly asymmetric (88/100)
+
+**Buyer:** New backgammon social-night players and home hosts
+
+### Super prompt
+
+```text
+You are a backgammon teacher and information designer. Produce the complete content for a printable product called "Backgammon Club Night Kit: Cheat Sheets, Score Pads and a Mini-Tournament Planner" for [YOUR SHOP NAME].
+
+BUYER AND JOB: Twenty- and thirty-somethings (many women) who just started going to backgammon social nights or want to host one at home or at a bar. They need to learn the rules fast, remember opening moves, keep score in matches and run a small tournament without an app.
+
+DELIVERABLE (US Letter 8.5x11 in and A4; same content):
+1. Cover page with contents.
+2. "Learn in 10 minutes" rules sheet (1 page): setup diagram description (checker counts per point: 2 on 24-point, 5 on 13, 3 on 8, 5 on 6, mirrored), movement, doubles, hitting and the bar, entering, bearing off, winning a single game, gammon and backgammon.
+3. Doubling cube one-pager: offering, taking, dropping, beavers optional, Crawford rule, Jacoby rule, with plain-language examples.
+4. Opening moves chart (1 page): a 15-row table for every non-double opening roll (3-1, 4-2, 6-1, 5-3, 6-2, 6-3, 6-4, 5-1, 5-2, 5-4, 4-1, 4-3, 3-2, 2-1, 6-5) with one standard, widely taught play each written in standard notation (e.g. 3-1: 8/5 6/5), and a one-line reason. Use the commonly taught plays; if more than one is standard, give the most common and say "also played".
+5. Pip-count quick guide and 5 beginner strategy tips (make points, avoid blots near opponent, prime, race when ahead, when to run).
+6. Notation explainer (points 1-24, bar, off).
+7. Match score pads: 4 per page, for matches to 3, 5 and 7 points, with columns for game #, cube value, points won, running total, Crawford game marker.
+8. Mini-tournament planner: single-elimination brackets for 8 and 16 players, a round-robin grid for 6 players, a sign-up sheet, and house-rules card (blank lines).
+9. Host night checklist and a 2-hour run-of-show for a backgammon social night.
+10. Two pocket cards (3.5x2 in): Rules recap and Cube rules.
+
+ACCURACY: Backgammon rules must be correct; double-check setup counts (15 checkers per side), bearing-off rules, gammon (2x) and backgammon (3x) scoring, Crawford and Jacoby definitions. If unsure of an opening play, choose the most widely taught play and mark alternatives as "also played"; do not invent statistics.
+
+DESIGN: Canva pairing A: "Playfair Display" + "Lato". Pairing B: "Cormorant Garamond" + "Montserrat". Palette (social-club, vintage felt): Felt Green #1F4D3A, Cream #F4EEDC, Oxblood #7A2E2E, Brass #B8924A, Ink #1E1E1E.
+
+RULES: Original wording only; no brand, club, cafe or app names (do not mention NYC Backgammon Club, Gals Who Gammon, Backgammon Social or any software). No gambling encouragement; mention that the doubling cube is a scoring tool.
+
+DIFFERENTIATION: Free rule PDFs are plain text; this is a designed, club-ready kit combining learning sheets, match score pads and tournament brackets for social nights.
+
+OUTPUT: Page by page ("PAGE 1"...) with layout notes and every line of text and table. End with a SELF-CHECK: setup counts sum to 15 per side; all 15 non-double opening rolls present; Crawford/Jacoby defined correctly; no brand names; both paper sizes noted.
+```
+
+**Image prompt 1 (Listing cover; Ideogram):**
+
+```text
+Elegant flat illustration of a backgammon board seen from above with cream and oxblood checkers, two dice and a doubling cube, on a deep green felt background, vintage social-club style. Colors #1F4D3A, #F4EEDC, #7A2E2E, #B8924A. Text 'BACKGAMMON CLUB NIGHT KIT' in high-contrast serif at top. 4:5 aspect ratio, solid background. No logos, no real people, no trademarked characters, no watermarks.
+```
+
+**Image prompt 2 (Opening chart poster background; ChatGPT images):**
+
+```text
+Subtle vintage paper texture with a faint line-art backgammon board border, cream #F4EEDC with brass #B8924A lines, plenty of empty space in the center for a table. 3:4 portrait, solid background, no text. No logos, no real people, no trademarked characters, no watermarks.
+```
+
+### Build and export
+
+1. Generate the content with the super prompt and verify rules against two reputable rule references.
+2. Build pages in Canva US Letter with pairing A and the palette.
+3. Make the board setup diagram with Canva shapes (24 triangles, 15 checkers each).
+4. Lay out score pads 4-up and brackets; test print.
+5. Resize a copy to A4 and fix overflow.
+6. Export PDF Print 300 DPI for both sizes; zip with a read-me.
+7. Create 5 listing images: cover, opening chart, score pad, bracket, contents.
+
+### Listing copy prompt
+
+```text
+Write an Etsy listing for a printable backgammon club night kit (rules cheat sheet, doubling cube guide, opening moves chart, match score pads, tournament brackets). Title under 140 characters starting 'Backgammon Cheat Sheet Printable'. 13 tags of 20 characters or fewer (e.g., backgammon rules, backgammon gift, game night printable). Description listing every page, US Letter and A4 PDFs, instant download, printing tips, FAQ (Is it for beginners? Does it include the doubling cube? Can I print for my club?). Do not mention any real club, cafe, app or brand names; no gambling language.
+```
+
+### Where to list
+
+- **Etsy** (primary): Game-night printables sell there.
+- **Payhip** (secondary): Direct link for club organizers.
+- **Pinterest** (traffic): Learn-to-play and game-night pins.
+
+**Positioning:** Everything a new backgammon player or host needs on paper.
+
+### Launch plan
+
+- **Day 0:** Publish listings.
+- **Day 1:** 5 pins: opening chart, cube guide, score pad.
+- **Day 2:** TikTok: 'The 3-1 opening and why' with the chart.
+- **Day 5:** Free pocket rules card on Payhip for emails.
+- **Day 7:** Video: hosting a backgammon night at home.
+- **Day 10:** Share in backgammon learner groups where allowed (check the community rules).
+- **Day 14:** Holiday gift angle pins (pair with a board).
+- **Day 21:** Go/pivot/stop check per validation rules.
+
+### Marketing channels
+
+| Channel | What to do | How often |
+|---|---|---|
+| Pinterest | Learn-to-play infographic pins | 4/week |
+| TikTok | 30-second opening-move lessons | 3/week |
+
+**Search phrases to test (suggestions, not measured volumes):** backgammon rules printable, backgammon cheat sheet, backgammon score sheet, game night tournament bracket
+
+**Hooks:**
+- Learn backgammon before your first club night
+- Every opening roll on one page
+
+### Profit per sale
+
+Suggested price $9.00 (range $6.00–$12.00, estimate). Above single cheat sheets because it adds score pads and brackets; low enough for impulse.
+
+| Channel | Price | Fees | Product + shipping | You keep | Margin |
+|---|---|---|---|---|---|
+| Etsy | $9.00 | $1.31 | $0.00 | **$7.70** | 86% |
+| Payhip | $9.00 | $1.01 | $0.00 | **$7.99** | 89% |
+
+Product cost basis: digital. Cash at risk $0.20; break-even 1 sale(s).
+
+### Asymmetry
+
+- **Risk:** $0.20 and about 10 hours; answer in about 21 days.
+- **What you risk:** About 10 hours; no cash.
+- **What stays open:** Evergreen learning need, zero marginal cost, links to merch and gift season.
+- **Bad bet if:** Free rule PDFs satisfy most players and the club scene stays NYC-only.
+
+**Ways to extend:** Framed opening-chart poster; Editable club bracket template; Mahjong-style host kit crossover for game-night hosts
+
+**Risks:** Rule errors damage reviews; verify carefully; Small audience outside big cities
+
+**Validation test:** Etsy + Payhip listing; 10 pins and 4 short videos ('backgammon openings in 30 seconds') over 21 days.
+
+**Continue if:** 3+ sales or 30+ favorites by Day 21 · **Change direction if:** Views but no sales: sell the opening-moves poster alone at $4 · **Stop if:** Under 120 views by Day 21
+
+---
+
 ## 2027 First-Time Reader Plan (New Testament, Minimal + Soft Editions)
 
 **Trend:** Gen Z Bible-reading revival (Prepare) · **Format:** printable (digital) · **Asymmetry:** Strongly asymmetric (87/100)
@@ -959,6 +1124,130 @@ Product cost basis: digital. Cash at risk $14.20; break-even 3 sale(s).
 
 ---
 
+## Family Screen Allowance Kit
+
+**Trend:** Category Screen-Time Allowances (New Kids' Device Controls) (Prepare) · **Format:** printable (digital) · **Asymmetry:** Strongly asymmetric (86/100)
+
+**Buyer:** Parents of 6-14-year-olds setting up the new category-based time allowances on kids' devices
+
+### Super prompt
+
+```text
+You are a family-media educator and printable designer. Create a complete, brand-neutral printable kit called "Family Screen Allowance Kit: Category Time Plans for Kids' Devices".
+
+BUYER AND JOB: Parents of 6-14-year-olds whose phones and tablets now let them set time allowances by app category (entertainment, games, social) and approve "ask to use" requests. Parents need a calm, visual way to decide the numbers together with their kids, post the plan on the fridge, and handle requests without arguments. The kit works with any device's built-in controls; it does not explain any specific company's settings.
+
+DELIVERABLE SPEC (each a separate page, US Letter 8.5x11 in and A4):
+1. Cover: "Our Family Screen Allowance Plan" with a space for the family name.
+2. "How this works" (150 words): decide categories, choose daily minutes, write them on the plan, enter them into whatever parental controls your device has, review monthly.
+3. Category Planner: a table with rows Entertainment / Games / Social / Creative / Learning / Your own category, and columns School Day / Weekend / Holiday, with blank minute boxes and a "why we chose this" line. Add a neutral note: "Pick numbers that fit your family; many families use guidance from their pediatrician."
+4. Weekly Schedule grid (Mon-Sun x Morning / After school / Evening) with "device-free" shading for meals and bedtime.
+5. Kid Request Cards (8 per page, cut-out): "I'd like to use ___ for ___ minutes because ___"; parent reply: Yes / Later / Let's talk.
+6. "Earn It, Spend It" optional bonus-minutes tracker (chores or reading; no money).
+7. Family Device Agreement (two versions: ages 6-9 simple icons; ages 10-14 detailed), written as shared commitments for kids AND parents. Signature lines.
+8. New Device Setup Checklist (brand-neutral): create a child account, set categories, set bedtime downtime, approve contacts, choose where devices charge overnight, agree the plan. Use generic wording ("in your device's parental controls").
+9. Monthly Check-in page: what's working, what to change, new numbers.
+10. Holiday Edition insert: "Your First Device" gift certificate plus the agreement, to wrap with a new device.
+
+DESIGN: Two Canva pairings: (a) "Fredoka SemiBold" headings + "Nunito" body; (b) "Baloo 2" + "Source Sans 3". Palette: Calm Navy #23395B, Mint #8FD6C0, Sunshine #FFD166, Coral #EF7B6C, Paper #FFFBF3. Icons for each category (simple line art: film clapper, game controller, speech bubble, paintbrush, book).
+
+CONTENT RULES: Original wording. Warm, non-judgmental, 4th-6th grade reading level on kid pages. No health claims or promised outcomes ("reduces tantrums" etc.). Do not state specific "recommended minutes" as medical guidance. Never name a company, operating system, app or feature trademark; use "your device's parental controls" and "time allowance".
+
+DIFFERENTIATION: Generic screen-time charts track total time. This kit mirrors the new category-based controls, includes request cards that match "ask to use" flows, and adds a holiday first-device insert.
+
+OUTPUT: Page by page with exact text, table structures and layout notes. End with a self-check: 10 pages; both sizes noted; no brand or feature trademarks; no health claims; kid pages readable by a 9-year-old; agreement includes parent commitments.
+```
+
+**Image prompt 1 (Listing cover; Ideogram or ChatGPT images):**
+
+```text
+Flat illustration of a printed family plan on a fridge held by magnets, showing colorful category rows with simple icons (film clapper, game controller, speech bubble, paintbrush, book) and minute boxes, a kid's hand adding a sticker. Text: "Family Screen Allowance Plan". Palette #23395B, #8FD6C0, #FFD166, #EF7B6C, #FFFBF3. 4:5 aspect ratio, warm kitchen background softly blurred. No logos, no real people's faces, no trademarked characters, no device brand features, no watermarks.
+```
+
+**Image prompt 2 (Request cards preview; Canva mockup):**
+
+```text
+Eight cut-out cards in a grid reading 'I'd like to use ___ for ___ minutes because ___' with Yes / Later / Let's talk checkboxes, pastel mint and sunshine colors #8FD6C0 #FFD166 on paper #FFFBF3. 1:1 aspect ratio. No logos, no real people, no trademarked characters, no watermarks.
+```
+
+### Build and export
+
+1. Run the super prompt; paste the text into a Canva US Letter document.
+2. Apply the Fredoka + Nunito pairing and the palette; add simple line icons from Canva Elements (check the license for commercial use).
+3. Build tables for the planner and schedule; set the request cards 8-up with cut lines.
+4. Resize a copy to A4 and fix the layout.
+5. Export PDF Print at 300 DPI for both sizes; also export an editable Canva template link (view-only template link).
+6. Bundle the PDFs plus a README with the template link; test the download.
+7. Make 5 mockups (fridge, cards, agreement, checklist, holiday insert).
+
+### Listing copy prompt
+
+```text
+Write an Etsy listing for a printable digital download: 'Family Screen Allowance Kit', which helps parents plan kids' device time by category (entertainment, games, social, creative, learning) and works alongside any device's parental controls. It includes a category planner, weekly schedule, kid request cards, two family device agreements, a new-device setup checklist, a monthly check-in and a holiday first-device insert, in US Letter and A4 plus an editable Canva template. Give a title under 140 characters front-loading 'screen time chart for kids'; 13 tags, each 20 characters or fewer; a description of what's included, file formats and instant delivery; and a 5-question FAQ. Do not use any company, operating system, app or feature trademarks, and make no health or behavior promises.
+```
+
+### Where to list
+
+- **Etsy** (primary): Parents search for screen-time charts and family agreements there.
+- **Payhip** (secondary): Free request-card lead magnet and direct sales.
+- **Pinterest** (traffic): Parenting printables perform well, with no audience needed.
+
+**Positioning:** The fridge plan that matches your kids' new category time limits.
+
+### Launch plan
+
+- **Day 0:** Publish the listing with a flat-lay mockup and a page-flip video.
+- **Day 1:** Create 6 Pinterest pins (fridge plan, request cards, agreement, holiday insert).
+- **Day 3:** Post a 'how we set our kids' category limits' short video showing the printed planner (no brand screens).
+- **Day 5:** Offer the request-card page free on Payhip for email sign-ups.
+- **Day 8:** Share in parenting groups that allow resources (check the community rules).
+- **Day 12:** Add the holiday insert as a listing variation; update tags with gift phrasing.
+- **Day 16:** Post 3 more videos: request cards in action, monthly check-in, first-device gift wrap.
+- **Day 21:** Go/pivot/stop check against thresholds.
+
+### Marketing channels
+
+| Channel | What to do | How often |
+|---|---|---|
+| Pinterest | Fridge-plan and gift-insert pins | 6 pins per week, rising to 10 in November |
+| Short-form video | Parent POV: setting the plan with the kids | 3 per week |
+| Parenting communities | Share the free request cards where allowed (check the community rules) | Weekly |
+
+**Search phrases to test (suggestions, not measured volumes):** screen time chart, kids screen time, family media plan, screen time rules, device agreement, first phone rules, kids tablet rules
+
+**Hooks:**
+- Our kids' device just got category limits. Here's how we picked the numbers.
+- The request card that ended 'five more minutes'.
+- Before you set the limits, print this.
+
+### Profit per sale
+
+Suggested price $8.00 (range $5.00–$12.00, estimate). Generic screen-time charts are cheap or free. A 10-page themed kit with an editable template supports a modest premium.
+
+| Channel | Price | Fees | Product + shipping | You keep | Margin |
+|---|---|---|---|---|---|
+| Etsy | $8.00 | $1.21 | $0.00 | **$6.79** | 85% |
+| Payhip | $8.00 | $0.93 | $0.00 | **$7.07** | 88% |
+
+Product cost basis: digital. Cash at risk $14.20; break-even 3 sale(s).
+
+### Asymmetry
+
+- **Risk:** $14.20 and about 10 hours; answer in about 21 days.
+- **What you risk:** About 10 hours. Generic competition is heavy, so it may get lost.
+- **What stays open:** Evergreen parenting need with a holiday spike and zero marginal cost. The niche angle can rank on long-tail searches.
+- **Bad bet if:** Listed as a generic 'screen time chart'. In that crowded category it won't stand out.
+
+**Ways to extend:** Teen edition (13-17); Editable Google Slides version; Bundle with the First Device gift booklet; Classroom/caregiver edition
+
+**Risks:** High generic competition; Feature names are trademarked, which limits exact-match keywords; Parents may prefer free printables
+
+**Validation test:** List the kit and post 6 pins plus 3 short parent-POV videos over 14 days.
+
+**Continue if:** 3+ sales or 25+ favorites within 21 days. · **Change direction if:** Favorites but no sales: lower the price or lead with the holiday first-device insert. · **Stop if:** Under 200 views and no favorites after 21 days.
+
+---
+
 ## Kitchen Witch Pantry: 64+ Editable Apothecary Jar Labels
 
 **Trend:** Kitchen Witch aesthetic (Prepare) · **Format:** printable (digital) · **Asymmetry:** Strongly asymmetric (84/100)
@@ -1268,6 +1557,359 @@ Product cost basis: digital. Cash at risk $0.20; break-even 1 sale(s).
 
 ---
 
+## Celery Green Botanical Wall Art Set (6 prints + palette card)
+
+**Trend:** Celery green: the soft herbal green of 2027 (Prepare) · **Format:** printable (digital) · **Asymmetry:** Strongly asymmetric (84/100)
+
+**Buyer:** US renters and homeowners (25-45) refreshing a room in soft green who want matching art without buying paint
+
+### Super prompt
+
+```text
+You are a print designer and home-decor copywriter producing a complete, sellable printable wall-art set. BUYER: US renters and homeowners aged 25-45 freshening a living room, kitchen or bedroom in the soft, yellow-leaning herbal green that design press is calling the color of 2027. They want art that matches without repainting, they print at home or at a local print shop, and they want a calm, airy, slightly vintage feel. DELIVERABLE: a 6-print set plus 1 palette card, all designed to hang together. For each print give: title, concept, a full image-generation prompt, layout notes, and any text to place in Canva. Print 1: a single celery stalk and leaves in loose botanical line drawing. Print 2: an abstract arch-and-circle composition in four greens. Print 3: pressed-herb study (parsley, dill, fennel frond) in a vintage plate style. Print 4: soft color-block landscape (hills, sun) in tinted neutrals. Print 5: a minimal typographic print reading 'fresh start' in small caps. Print 6: a still life of a ceramic pitcher with greens. Palette card: 6 swatches with your own invented names (never paint brand names) and hex codes. SIZES: export each print at 2:3 (24x36, 16x24, 8x12 in), 3:4 (18x24, 12x16 in), 4:5 (16x20, 8x10 in), 11x14 in and ISO A1-A5, all at 300 DPI, plus US Letter 8.5x11 in and A4 versions of the palette card. PALETTE: Celery #C8C99A, Pale Herb #DDE0C2, Butter #EFE3B0, Khaki Stone #B8AE88, Deep Fennel #6E7A4E, Warm Cream #F6F1E4. FONTS (Canva): pairing A, Cormorant Garamond headings with Montserrat body; pairing B, Playfair Display with Lato. CONTENT RULES: all art and wording original; do not imitate any living artist's signature style; botanical details must be plausible (a celery stalk has ribbed, U-shaped stalks and toothed leaflets). DIFFERENTIATION: one cohesive green family across all six prints, a palette card that helps the buyer match pillows and paint, and both US and A4 sizes in one download. RIGHTS: never mention Sherwin-Williams, Dulux, any paint brand, paint codes or 'Color of the Year' as a trademarked phrase; never claim an exact paint match; no logos, no real people. OUTPUT FORMAT: Section 1, set overview (3 sentences). Sections 2-7, one per print with the fields above. Section 8, the palette card with swatch names and hexes. Section 9, a printable 'How to print' page (home printer settings, print-shop sizes, paper suggestions). Section 10, a one-page buyer thank-you note with framing tips. SELF-CHECK before answering: (1) no brand names or paint codes anywhere, (2) every hex is from the palette, (3) every print listed with all sizes, (4) all text original, (5) the image prompts include no text except Print 5's 'fresh start'.
+```
+
+**Image prompt 1 (Print 1 celery botanical; Ideogram or Midjourney):**
+
+```text
+Loose botanical line drawing of a single celery stalk with leaves, fine ink lines with soft watercolor wash in #C8C99A and #6E7A4E, centered vertical composition with generous margins, warm cream background #F6F1E4, vintage herbarium feel, no text, 2:3 aspect ratio, flat solid background. No logos, no real people, no trademarked characters, no watermarks.
+```
+
+**Image prompt 2 (Print 2 abstract arches; Ideogram or Midjourney):**
+
+```text
+Mid-century abstract composition of overlapping arches and a half circle, matte gouache texture, colors #C8C99A, #DDE0C2, #EFE3B0, #6E7A4E on #F6F1E4, balanced asymmetric layout, subtle paper grain, no text, 2:3 aspect ratio. No logos, no real people, no trademarked characters, no watermarks.
+```
+
+**Image prompt 3 (Print 5 typography; Ideogram):**
+
+```text
+Minimal typographic poster, the exact words 'fresh start' in small caps elegant serif, centered, color #6E7A4E on solid #DDE0C2 background, tiny celery leaf sprig under the text, lots of negative space, 4:5 aspect ratio. No logos, no real people, no trademarked characters, no watermarks.
+```
+
+**Image prompt 4 (Listing mockup; Canva mockup or Midjourney):**
+
+```text
+Bright Scandinavian-style living room wall with three framed prints in thin oak frames above a cream linen sofa, soft daylight, walls in pale herb green #DDE0C2, plants, photographic, 4:5 aspect ratio, frames left blank for compositing. No logos, no real people, no trademarked characters, no watermarks.
+```
+
+### Build and export
+
+1. Generate each print with the image prompts; upscale to at least 7200x10800 px for 2:3
+2. In Canva create custom-size designs for each ratio (2:3, 3:4, 4:5, 11x14, ISO A) and place art with 0.25 in safe margins
+3. Add the 'fresh start' text in Canva using pairing A if the AI-rendered text is imperfect
+4. Build the palette card on US Letter and A4 with 6 swatches, invented names and hexes
+5. Export every file as PDF Print (300 DPI) and JPG (300 DPI); name files by print and ratio
+6. Zip by ratio (keep each zip under 20 MB for Etsy) and add a 1-page PDF with download/print instructions
+7. Create 5 listing images: hero mockup, set overview grid, palette card, sizes chart, 'what you get' page
+
+### Listing copy prompt
+
+```text
+Write an Etsy listing for a digital download: a set of 6 printable botanical and abstract wall art prints in soft celery green with a palette card. Title under 140 characters that starts with the buyer's search phrase (for example 'Celery Green Wall Art Set of 6'). Give exactly 13 tags, each 20 characters or fewer, mixing color, room and style terms (sage green decor, botanical print set, kitchen wall art). Description: what's included (6 prints, palette card, print guide), every size and ratio, file formats (PDF, JPG, 300 DPI), that nothing physical ships, how to download, and printing tips. Add a short FAQ: Can I print at a print shop? Will colors match my wall paint? (Answer honestly: screens and printers vary; not matched to any paint brand.) Refund policy for digital items. Do NOT use any paint brand names, paint codes, 'Pantone', or trademarked phrases. Keep a calm, warm tone.
+```
+
+### Where to list
+
+- **Etsy** (primary): Main marketplace for printable wall art buyers
+- **Payhip** (secondary): Direct link for Pinterest traffic, lower fees
+- **Pinterest** (traffic): Color-led room inspiration is searched and saved there; free reach without an audience
+
+**Positioning:** The calm, fresh green set for 2027 rooms: matching art plus a palette card, no repainting needed
+
+### Launch plan
+
+- **Day 0:** Publish full set and mini set on Etsy and Payhip
+- **Day 1:** Create Pinterest board 'Celery green home' and post 5 pins (mockups, palette card)
+- **Day 3:** Post a 15-second Reel/TikTok of the palette card and prints flipping on screen
+- **Day 5:** Add 5 more pins using room-specific titles (kitchen, bedroom, nursery)
+- **Day 7:** Check Etsy stats; rewrite title/tags if under 50 views
+- **Day 10:** Publish a free celery-green phone wallpaper as a lead magnet pin linking to Payhip
+- **Day 14:** Add 5 pins; test a 'celery + butter yellow' variation listing
+- **Day 21:** Go/pivot/stop: continue at 3+ sales or 40 favorites; pivot to wallpapers if views but no sales; stop under 150 views
+
+### Marketing channels
+
+| Channel | What to do | How often |
+|---|---|---|
+| Pinterest | Room-scene mockups and palette pins linking to listing | 1-2 pins daily |
+| TikTok/Instagram Reels | 'Would you paint your room this green?' poll-style video riding the backlash conversation | 2 per week |
+
+**Search phrases to test (suggestions, not measured volumes):** celery green decor, sage green wall art, soft green printable, botanical print set, green kitchen art, 2027 home decor
+
+**Hooks:**
+- The internet hates the new color of the year. Here's how to make it work
+- Try the 2027 green without picking up a paintbrush
+- Celery green, but make it calm
+
+### Profit per sale
+
+Suggested price $12.00 (range $8.00–$18.00, estimate). Mid-range for a 6-print digital set; launch at $12 with a 3-print mini at $6 to test
+
+| Channel | Price | Fees | Product + shipping | You keep | Margin |
+|---|---|---|---|---|---|
+| Etsy | $12.00 | $1.59 | $0.00 | **$10.41** | 87% |
+| Payhip | $12.00 | $1.25 | $0.00 | **$10.75** | 90% |
+
+Product cost basis: digital. Cash at risk $0.20; break-even 1 sale(s).
+
+### Asymmetry
+
+- **Risk:** $0.20 and about 8 hours; answer in about 21 days.
+- **What you risk:** About 8 hours and under $5 in listing fees
+- **What stays open:** Zero marginal cost, evergreen green-decor keywords, the hook lasts through 2027 and the set extends into a series
+- **Bad bet if:** Consumers reject the color and the general green-art market stays saturated, so the set never ranks
+
+**Ways to extend:** Celery green phone wallpaper pack; Nursery version with baby herbs; Celery + butter yellow kitchen set; Seasonal 'spring refresh' bundle
+
+**Risks:** The backlash may mean consumers never adopt the color; Green wall art is crowded under generic keywords; Color accuracy complaints from home printing
+
+**Validation test:** List the 6-print set plus a 3-print mini set. Pin 15 pins over 14 days.
+
+**Continue if:** At least 3 sales or 40 favorites in 21 days, or pins with above-average saves · **Change direction if:** Views but no sales: test celery phone wallpapers or a 'celery + butter yellow' kitchen set · **Stop if:** Under 150 listing views in 30 days
+
+---
+
+## Things To Say: Printable Party Game
+
+**Trend:** Things To Say (ironic advice lists) (Prepare) · **Format:** printable (digital) · **Asymmetry:** Strongly asymmetric (84/100)
+
+**Buyer:** Adults hosting game nights and holiday gatherings
+
+### Super prompt
+
+```text
+You are a party-game designer writing an original printable card game inspired by the 'Things To Say' meme, in which players compete to give the most confidently terrible advice for an awkward situation.
+
+BUYER AND JOB: Adults 21-40 hosting game nights, Friendsgiving, bachelor/bachelorette parties or office socials who want a cheap, instant, funny game they can print tonight.
+
+DELIVERABLE SPEC (printable PDF, US Letter 8.5x11 in and A4 versions):
+- Page 1: Cover "THINGS TO SAY - the party game of terrible advice".
+- Page 2: Rules (3-8 players, 20-40 minutes). Each round a 'Situation' card is read; players write one line on a blank 'Advice' card; the reader picks the best; first to 5 wins. Include a 'Hustle Mode' variant (every line must mention an investment) and a 'Speed Round'.
+- Pages 3-8: 108 Situation cards (18 per page, 3x6 grid, 2.5x3.5 in poker size on A4/Letter with crop marks). Write all 108 situations, each under 14 words, clean and brand-safe (e.g. "Things to say when your boss joins the group chat").
+- Pages 9-10: 36 blank Advice cards with a light ruled line.
+- Page 11: 24 'Wild' cards with pre-written absurd advice lines (under 12 words each).
+- Page 12: scorecard for 8 players.
+- Card backs page for double-sided printing.
+
+FONTS (two Canva pairings): A) "Anton" + "Inter"; B) "Bebas Neue" + "Lora".
+PALETTE: espresso #2B211C, cream #F5EFE3, money green #2E6B45, gold #C9A24A, alert red #C8402F.
+
+CONTENT RULES: Original writing only; no celebrity names, brands or copyrighted characters; no sexual content or slurs; humor punches at situations, not groups of people. Provide a separate 'spicy' add-on list of 24 situations clearly labeled 18+ but still without explicit content.
+
+DIFFERENTIATION: Unlike generic party prompts, every card is built on the trend's ironic hustle-advice voice, and the game includes Hustle Mode. It's instant and costs under $10.
+
+OUTPUT FORMAT: Page-by-page content in order with exact card text numbered, then printing tips (cardstock 65-110 lb, double-sided, cut along crop marks).
+
+SELF-CHECK: exactly 108 situations, 24 wild cards, 24 spicy; all under word limits; no names/brands; Letter and A4 layout notes included.
+```
+
+**Image prompt 1 (Cover art; Ideogram):**
+
+```text
+Bold retro game-box style cover, the exact text "THINGS TO SAY" in huge condensed cream #F5EFE3 letters on espresso #2B211C, subtitle "the party game of terrible advice" in gold #C9A24A, scattered illustrated cash bills and speech bubbles in money green #2E6B45, 4:3 landscape. No logos, no real people, no trademarked characters, no watermarks.
+```
+
+**Image prompt 2 (Card back pattern; Canva):**
+
+```text
+Repeating pattern of small speech bubbles and dollar signs in gold #C9A24A on espresso #2B211C, 2.5x3.5 in poker card ratio, centered small text "THINGS TO SAY". No logos, no real people, no trademarked characters, no watermarks.
+```
+
+### Build and export
+
+1. Generate all card text with the super prompt; proofread counts.
+2. In Canva create a US Letter document; build a 3x6 card grid with crop marks; duplicate for A4.
+3. Paste situations, wild cards and blanks; add card backs page.
+4. Export PDF Print, 300 DPI, both sizes; test-print one page.
+5. Make 3 mockups (cards on a party table, rules page, cover).
+6. ZIP files with a printing-tips PDF; list on Etsy and Gumroad.
+
+### Listing copy prompt
+
+```text
+Write an Etsy listing for a printable adult party card game of 'terrible advice' inspired by the Things To Say meme. Title under 140 characters front-loading "Printable Party Game". 13 tags of 20 characters or fewer (e.g. printable party game, game night printable, friendsgiving game). Description: contents (108 situation cards, 24 wild, blanks, rules, scorecard), US Letter and A4 PDFs, instant download, printing tips, no physical item. 5-question FAQ. No trademarks or other game names, no celebrity names.
+```
+
+### Where to list
+
+- **Etsy** (primary): Printable party game buyers search there, especially before holidays
+- **Gumroad** (secondary): Direct link
+- **Pinterest** (traffic): Party-planning searches
+
+**Positioning:** The meme's terrible-advice energy, as an instant printable game for holiday gatherings.
+
+### Launch plan
+
+- **Day 0:** List on Etsy + Gumroad.
+- **Day 2:** TikTok: friends playing (or a voiceover reading 5 cards with funny answers).
+- **Day 4:** Pinterest pins: 'Friendsgiving games', 'game night printables'.
+- **Day 7:** Post a 'things to say at Thanksgiving dinner' meme slide linking the game.
+- **Day 14:** Go/pivot/stop check.
+- **Day 21:** Add Christmas-party situations as an expansion if selling.
+
+### Marketing channels
+
+| Channel | What to do | How often |
+|---|---|---|
+| Pinterest | Party printable pins | 5/week |
+| TikTok | Card-reading videos | 3/week |
+
+**Search phrases to test (suggestions, not measured volumes):** printable party game, adult game night, friendsgiving game, funny card game printable
+
+**Hooks:**
+- Things to say when grandma asks why you're single:
+- We played this at Friendsgiving and nobody recovered
+
+### Profit per sale
+
+Suggested price $7.00 (range $5.00–$10.00, estimate). Printable party games commonly sell in the mid single digits; holiday-season gatherings support this range.
+
+| Channel | Price | Fees | Product + shipping | You keep | Margin |
+|---|---|---|---|---|---|
+| Etsy | $7.00 | $1.12 | $0.00 | **$5.89** | 84% |
+| Gumroad | $7.00 | $1.20 | $0.00 | **$5.80** | 83% |
+
+Product cost basis: digital. Cash at risk $14.20; break-even 3 sale(s).
+
+### Asymmetry
+
+- **Risk:** $14.20 and about 10 hours; answer in about 21 days.
+- **What you risk:** About 10 hours; $0.20 listing fee.
+- **What stays open:** Works even after the meme fades as an evergreen party printable; holiday season ahead.
+- **Bad bet if:** Saturated party-printable searches bury a new listing and the meme hook adds nothing.
+
+**Ways to extend:** Holiday expansion pack; Office-safe edition; Bachelorette edition
+
+**Risks:** Party-printable category is crowded; Meme reference may confuse non-meme buyers; lead with 'terrible advice'
+
+**Validation test:** List by late October; Pinterest pins for Friendsgiving
+
+**Continue if:** 5+ sales by Nov 20 · **Change direction if:** Favorites but few sales: price at $5 and add a holiday expansion · **Stop if:** No sales by Nov 20
+
+---
+
+## Teleprompter-Ready Scripts (60 for Small Business)
+
+**Trend:** Built-in Teleprompter Scripted Videos (Prepare) · **Format:** template (digital) · **Asymmetry:** Strongly asymmetric (84/100)
+
+**Buyer:** Solo small business owners and new creators who want to film talking-head videos but struggle to write scripts
+
+### Super prompt
+
+```text
+You are an expert short-form video scriptwriter and instructional designer. Produce a complete, sellable digital product called "Teleprompter-Ready Scripts: 60 Fill-in-the-Blank Talking-Head Scripts for Small Business Owners".
+
+BUYER AND JOB: Solo business owners (bakers, realtors, stylists, coaches, Etsy makers, local service pros) who now have a built-in teleprompter in their phone's short-video camera but freeze when they have to write the script. The product gives them ready scripts, already formatted to scroll well on a phone teleprompter, so they can record in one take.
+
+DELIVERABLE SPEC (output in this order):
+1. Welcome page (120 words): how to paste a script into any in-app teleprompter, the best scroll speed for beginners (start slow), and "look at the lens, not the words".
+2. "How to read this kit" page: explain the formatting rules you will use. Lines of 4-7 words. A blank line between beats. [PAUSE] marks. *Emphasis* words. Each script is 20-45 seconds when read at a calm pace (state the approximate word count: 55-120 words).
+3. Hook Bank: 40 original opening lines grouped into 5 types (question, myth, mistake, before/after, quick win), each with a [BLANK] for the niche.
+4. 60 scripts in 6 sections of 10: Introduce Yourself, Behind the Scenes, Customer FAQ, Myth vs Fact, Quick Tip, Offer/Seasonal (include 3 holiday-season scripts). For each script give: Title; Goal; Length (sec); the script itself in teleprompter formatting with [BLANKS] such as [YOUR PRODUCT], [CITY], [PRICE]; a one-line on-screen caption suggestion; a B-roll idea.
+5. 30-day posting calendar table (Day, Script #, Hook type, B-roll).
+6. "One-take checklist" page (lighting, framing, eye line, scroll speed, retake rule).
+7. Script-writing worksheet: a blank teleprompter template with the beat structure Hook / Context / Value / Proof / Call to action.
+
+FORMAT AND DESIGN: Google Docs-friendly plain text with clear headings, plus a printable PDF layout in US Letter (8.5x11 in) and A4. Canva font pairings: (a) "Archivo Black" headings + "Inter" body; (b) "Poppins SemiBold" + "Lora". Palette: Ink #1F2430, Signal Coral #FF6B57, Teleprompter Cream #FFF6E5, Studio Teal #2A9D8F, Soft Gray #E6E8EC.
+
+CONTENT RULES: Everything original. Plain, friendly 6th-8th grade reading level. No income, follower or virality promises. No claims about how any platform's algorithm works. Don't name any app, platform or brand: write "your app's teleprompter" or "the in-camera teleprompter". No medical, legal or financial advice in scripts; mark regulated niches with "check your industry rules".
+
+DIFFERENTIATION: Existing script templates are generic or long-form. This kit is formatted for phone teleprompters (short lines, pause marks, timed lengths) and organized by small-business situations, with a hook bank and a 30-day plan.
+
+OUTPUT: Page by page, with headings like "PAGE 3 - Hook Bank". End with a self-check: 60 scripts present; each within its word range; no brand or platform names; no outcome promises; every script has [BLANKS], a caption and B-roll; calendar covers 30 days.
+```
+
+**Image prompt 1 (Listing cover image; Ideogram or ChatGPT images):**
+
+```text
+Flat vector illustration of a smartphone on a small tripod, screen showing scrolling script lines and a bright coral record dot, surrounded by sticky notes and a coffee cup on a cream desk. Colors #1F2430, #FF6B57, #FFF6E5, #2A9D8F. Bold text at top: "60 Teleprompter-Ready Scripts"; smaller text below: "for small business owners". 4:5 aspect ratio, solid cream background, clean modern style. No logos, no real people, no trademarked characters, no watermarks, no app interface branding.
+```
+
+**Image prompt 2 (What's-inside preview; Canva mockup or ChatGPT images):**
+
+```text
+Three stacked document pages fanned out at a slight angle showing headings 'Hook Bank', 'Quick Tip Scripts', '30-Day Calendar' with short lines of text and coral pause markers. Palette #1F2430, #FF6B57, #FFF6E5. 1:1 aspect ratio, soft shadow, light gray #E6E8EC background. No logos, no real people, no trademarked characters, no watermarks.
+```
+
+### Build and export
+
+1. Run the super prompt; paste the output into a Google Doc and fix any script over its word range.
+2. In Canva, start a US Letter doc; apply the Archivo Black + Inter pairing and the palette.
+3. Lay out the welcome, hook bank, 60 scripts (one per half-page), calendar and checklist.
+4. Duplicate and resize to A4 (Canva Resize) and check page breaks.
+5. Export both as PDF Print, 300 DPI; also share the Google Doc as a 'make a copy' link for editable text.
+6. Zip the PDFs plus a README with the copy link; test the link in a private window.
+7. Make 5 listing images and a 15-second screen recording of a script scrolling on a phone.
+
+### Listing copy prompt
+
+```text
+Write an Etsy listing for a digital download: 60 teleprompter-ready, fill-in-the-blank talking-head video scripts for small business owners, plus a 40-line hook bank, a 30-day posting calendar and a one-take checklist (PDF in US Letter and A4, plus an editable Google Doc copy link). Give a title under 140 characters front-loading 'video script template small business'; 13 tags, each 20 characters or fewer; a description covering what's included, file formats, instant-download delivery, and how to paste a script into any phone teleprompter; and a 5-question FAQ (editing, which apps it works with: 'any app with a teleprompter or notes', refunds for digital items, printing, niches). Do not use any platform, app or brand names or trademarks, and make no promises about views, followers or income.
+```
+
+### Where to list
+
+- **Etsy** (primary): Buyers search for script and content templates; built-in digital delivery.
+- **Payhip** (secondary): Direct link from video bios plus a free sampler for email capture.
+- **Pinterest** (traffic): Evergreen search traffic for content-planning templates.
+
+**Positioning:** The fastest way to use your phone's new teleprompter: scripts already written, already formatted, ready to read.
+
+### Launch plan
+
+- **Day 0:** Publish the listing with 5 images and a 15-second screen-recorded preview video.
+- **Day 1:** Post a short video of yourself reading one of the scripts on a phone teleprompter (the demo is the ad).
+- **Day 2:** Create 5 Pinterest pins (cover, hook bank, calendar, before/after script, checklist) linking to the listing.
+- **Day 4:** Give away a free 5-script sampler on Payhip/Gumroad in exchange for an email to start a list.
+- **Day 7:** Post 3 more demo videos, each using a different script section; note which hook type gets saves.
+- **Day 10:** Share in small-business Facebook groups that allow resource posts (check the community rules).
+- **Day 14:** Review views, favorites and sales; refresh the title and first image if CTR is low.
+- **Day 21:** Go/pivot/stop check against the continueIf / pivotIf / stopIf thresholds.
+
+### Marketing channels
+
+| Channel | What to do | How often |
+|---|---|---|
+| Short-form video | Read-a-script demos filmed with the in-camera teleprompter | 4-5 per week |
+| Pinterest | Pins for 'video script template' and 'content ideas for small business' | 5 pins per week |
+| Email (free sampler) | Weekly 'script of the week' email | Weekly |
+
+**Search phrases to test (suggestions, not measured volumes):** video script template, teleprompter script, small business content, talking head script, content ideas, reels script, 30 day content plan
+
+**Hooks:**
+- I used my phone's new teleprompter and a $14 script. Here's the take.
+- Stop freezing on camera: read this.
+- 60 scripts you can read word for word.
+
+### Profit per sale
+
+Suggested price $14.00 (range $9.00–$19.00, estimate). Generic script packs sell around $5-$20 on Gumroad and Etsy. Teleprompter formatting and 60 scripts justify mid-range.
+
+| Channel | Price | Fees | Product + shipping | You keep | Margin |
+|---|---|---|---|---|---|
+| Etsy | $14.00 | $1.78 | $0.00 | **$12.22** | 87% |
+| Payhip | $14.00 | $1.41 | $0.00 | **$12.59** | 90% |
+
+Product cost basis: digital. Cash at risk $14.20; break-even 2 sale(s).
+
+### Asymmetry
+
+- **Risk:** $14.20 and about 10 hours; answer in about 21 days.
+- **What you risk:** About 10 hours and $0-14. The answer comes in 2-3 weeks.
+- **What stays open:** Zero marginal cost, sells on several platforms, easy niche spin-offs, and grows as more apps add teleprompters.
+- **Bad bet if:** Demo videos get no traction and the platforms' own script-suggestion AI makes templates feel unnecessary.
+
+**Ways to extend:** Niche editions (realtor, bakery, salon, coach); Holiday script pack; Bundle with the Script & Shoot Planner; Monthly script subscription via email
+
+**Risks:** Platforms may add AI script generation that competes directly.; Generic script templates already exist; the differentiation must be visible in images.; Must avoid platform names, which limits keyword targeting.
+
+**Validation test:** List on Etsy and Payhip and post 6 demo videos of reading a script on a phone teleprompter within 14 days.
+
+**Continue if:** At least 3 sales or 30 favorites within 21 days, or one demo video passes 5,000 views. · **Change direction if:** Demos get views but listings get no favorites: narrow to one niche (e.g. realtors or bakers) or bundle with the planner. · **Stop if:** Fewer than 300 listing views and no sales after 21 days.
+
+---
+
 ## Stitch Night Host Kit: Printable Needlepoint Party Set
 
 **Trend:** Needlepoint revival (Prepare) · **Format:** printable (digital) · **Asymmetry:** Strongly asymmetric (83/100)
@@ -1558,6 +2200,967 @@ Product cost basis: digital. Cash at risk $0.20; break-even 1 sale(s).
 
 ---
 
+## Kids' Home Phone Starter Kit
+
+**Trend:** Kids' Landline Phones (Test now) · **Format:** printable (digital) · **Asymmetry:** Strongly asymmetric (82/100)
+
+**Buyer:** Parents of 5-12-year-olds who bought or will gift a screenless landline-style kids' phone
+
+### Super prompt
+
+```text
+You are a children's educational printable designer. Create a complete printable kit called "Kids' Home Phone Starter Kit" for families who just got their child a screenless, landline-style home phone.
+
+BUYER AND JOB: Parents of 5-12-year-olds whose kids now have a home phone (corded or Wi-Fi landline-style) that can call only approved contacts. Kids have never used a phone like this. Parents need to teach calling skills, set up a contact list kids can read, and make the phone feel special, especially when it is a holiday gift.
+
+DELIVERABLE SPEC (US Letter 8.5x11 in and A4, each item its own page):
+1. "My Phone Book" contact cards: 4-up cards with Name, Picture box (draw or glue a photo), Number, "Best time to call", and a friendship-color dot; plus a matching rolodex-style divider set A-Z.
+2. Speed-dial and quick-label sheet: small label grids at three generic sizes (0.5x1.5 in, 0.75x2 in, 1-in circles) with icons (heart, house, star, smile, grandparent, friend) so families can label buttons or the wall chart. Note: "Measure your phone's buttons first."
+3. "How to Make a Call" step poster (5 illustrated steps).
+4. "How to Answer the Phone" script poster, with 3 polite greeting scripts and a "take a message" script.
+5. Phone Message Pad (4-up message slips: For / From / Time / Message / Please call back).
+6. "Call a Friend" chart: weekly tracker for planning calls and playdates (child writes who they called and what they talked about).
+7. Conversation starter cards (24 original kid-friendly questions, cut-out).
+8. Emergency info sheet: blanks for address, parents' numbers, emergency number line ("In the US, dial 911 for emergencies"), and when to call for help, plus a "practice my address and number" page.
+9. "Phone Manners Pledge" with signature lines and a "First Call" certificate.
+10. Holiday gift insert: "Your Phone Has Arrived!" card with To/From.
+
+DESIGN: Retro-cozy 1990s home-phone feel with original artwork. Pairings: (a) "Baloo 2 Bold" + "Nunito"; (b) "Cherry Bomb One" + "Quicksand". Palette: Rotary Red #D64545, Butter #F6D776, Sky #7EC8E3, Mint #A8E6CF, Cream #FFF8EC, Ink #2B2D42. Illustrations: a generic coiled-cord phone with no brand, a tin-can-and-string motif drawn as a classic toy (not any company's logo), stars and hearts.
+
+RULES: Original text; ages 5-12 reading level with picture support. Never mention any company, product name or logo. No safety guarantees; the emergency page tells families to confirm local emergency numbers. Keep the content inclusive (all family types, grandparents, caregivers).
+
+DIFFERENTIATION: Generic phone-number worksheets exist, but nothing is made for kids' home phones: readable contact cards, button labels, calling and messaging scripts, and a gift insert.
+
+OUTPUT: Page by page with exact text, card counts, label dimensions and layout notes. End with a self-check: 10 items present; both paper sizes; label sizes stated; no brand names or logos; emergency wording correct for the US; reading level appropriate.
+```
+
+**Image prompt 1 (Listing cover; Ideogram or ChatGPT images):**
+
+```text
+Cozy flat-lay of printable pages, picture contact cards, a message pad and a 'How to Answer the Phone' poster, beside a generic retro coiled-cord phone in red with no logo. Text: "Kids' Home Phone Starter Kit". Palette #D64545, #F6D776, #7EC8E3, #A8E6CF, #FFF8EC. 4:5 aspect ratio, light wood background. No logos, no real people, no trademarked characters, no watermarks, no brand-like phone designs.
+```
+
+**Image prompt 2 (Spot illustration set; Ideogram):**
+
+```text
+Set of 8 cute flat icons on transparent background: coiled-cord phone, house, heart, star, smiling grandparent silhouette, two kids waving, message note, ringing bell. Colors #D64545 #F6D776 #7EC8E3 #2B2D42. 1:1, transparent background, consistent line weight. No logos, no real people, no trademarked characters, no watermarks.
+```
+
+### Build and export
+
+1. Run the super prompt; paste the text into a Canva US Letter design.
+2. Upload the icon set; build the contact cards 4-up and label sheets at exact sizes with Canva rulers.
+3. Lay out the posters, message pad, chart and certificate in the palette and fonts.
+4. Duplicate and resize to A4; recheck label dimensions.
+5. Export PDF Print at 300 DPI for both sizes; add an editable Canva template link for the contact cards.
+6. Write a 1-page README (printing on cardstock, label paper tips).
+7. Create 5 mockups and a 15-second flip video.
+
+### Listing copy prompt
+
+```text
+Write an Etsy listing for a printable 'Kids' Home Phone Starter Kit' for children with a screenless landline-style home phone: picture contact cards and an A-Z phone book, button/quick labels in three sizes, how-to-call and answer-the-phone posters, a message pad, a call-a-friend chart, conversation cards, an emergency info page, a manners pledge and a holiday gift insert (US Letter and A4 PDF plus an editable template). Give a title under 140 characters front-loading 'kids landline phone'; 13 tags, each 20 characters or fewer; a description; and a 5-question FAQ (compatibility: 'works with any home phone'; printing; label paper; ages; refunds). Do not use any company or product names or trademarks, and make no safety guarantees.
+```
+
+### Where to list
+
+- **Etsy** (primary): Parents searching for kids' printables and gifts.
+- **Payhip** (secondary): Free message pad lead magnet.
+- **Pinterest** (traffic): Gift and kids' activity pins with no audience needed.
+
+**Positioning:** Everything your kid needs to use their new home phone, from the first call to the message pad.
+
+### Launch plan
+
+- **Day 0:** Publish the listing with a flat-lay mockup beside a generic corded phone and a page-flip video.
+- **Day 1:** Pin 6 images: contact cards, message pad, answer-the-phone poster, gift insert, label sheet, emergency page.
+- **Day 3:** Post a short video of a child-safe setup demo (hands only): making the phone book with the kit.
+- **Day 6:** Offer the message pad free on Payhip for email sign-ups.
+- **Day 9:** Share in parenting and 'phone-free childhood' groups that allow resources (check the community rules).
+- **Day 14:** Add gift-focused tags and the holiday insert image; refresh the title if views are low.
+- **Day 18:** Start the 'under the tree' pin series for November.
+- **Day 21:** Go/pivot/stop check against thresholds.
+
+### Marketing channels
+
+| Channel | What to do | How often |
+|---|---|---|
+| Pinterest | Kids' home phone setup and gift pins | 5-8 pins per week, more in November |
+| Short-form video | Hands-only setup demos and 'how my kid answers the phone' scripts | 3 per week |
+| Parenting communities | Free message pad where allowed (check the community rules) | Weekly |
+
+**Search phrases to test (suggestions, not measured volumes):** kids landline, kids home phone, phone book for kids, phone manners kids, message pad printable, kids contact cards, screen free gift
+
+**Hooks:**
+- My kid's new home phone came with no manual for manners. So I made one.
+- The phone book my 7-year-old can actually read.
+- Wrapping a kids' landline for Christmas? Add this.
+
+### Profit per sale
+
+Suggested price $9.00 (range $6.00–$14.00, estimate). Niche kit with no direct competitor found. Priced as an add-on to a roughly $100 device purchase.
+
+| Channel | Price | Fees | Product + shipping | You keep | Margin |
+|---|---|---|---|---|---|
+| Etsy | $9.00 | $1.31 | $0.00 | **$7.70** | 86% |
+| Payhip | $9.00 | $1.01 | $0.00 | **$7.99** | 89% |
+
+Product cost basis: digital. Cash at risk $14.20; break-even 2 sale(s).
+
+### Asymmetry
+
+- **Risk:** $14.20 and about 10 hours; answer in about 21 days.
+- **What you risk:** About 10 hours and $0-14.
+- **What stays open:** No direct competitor found, with demand tied to a device that sells out. Holiday gifting and evergreen phone-skills teaching keep it selling.
+- **Bad bet if:** Device makers start including their own printed contact cards or kits in the box.
+
+**Ways to extend:** Calling Cards add-on; Grandparent edition (call schedule); Classroom phone-skills unit; Bundle with an analog-activity pack
+
+**Risks:** Device makers could bundle their own guides; Discovery depends on generic phrasing (brand terms are off-limits); Holiday timing pressure
+
+**Validation test:** List by mid-October; 6 pins/week plus 3 short videos; track favorites and sales through Nov 15.
+
+**Continue if:** 5+ sales or 40+ favorites by Nov 15. · **Change direction if:** Interest in the gift insert only: sell a lower-priced gift insert plus contact cards. · **Stop if:** Under 300 views and no sales by Nov 15.
+
+---
+
+## My First Device Gift Booklet
+
+**Trend:** Category Screen-Time Allowances (New Kids' Device Controls) (Prepare) · **Format:** printable (digital) · **Asymmetry:** Strongly asymmetric (81/100)
+
+**Buyer:** Parents and grandparents giving a child a first phone, tablet or kids' device for the 2026 holidays
+
+### Super prompt
+
+```text
+You are a children's stationery designer. Produce a giftable printable called "My First Device: Gift Certificate & Starter Booklet" for parents giving a child their first phone, tablet or kids' device this holiday season.
+
+BUYER AND JOB: Parents or grandparents wrapping a first device in December 2026. They want a sweet, festive way to present it, with the family rules built in, so day one starts with a shared plan instead of a fight.
+
+DELIVERABLE SPEC (folded half-letter booklet, 8 interior pages; print files for US Letter and A4, imposed for duplex printing, plus single-page versions):
+- Gift certificate (3 festive designs: winter cabin, starry night, candy stripe) reading "This certificate is good for: one first device, plus our family plan" with To / From / Date.
+- Page 1 "Welcome to your device!" (kid voice, 80 words).
+- Page 2 "My device, my job": 6 kid responsibilities with checkboxes (charging spot, kind messages, ask before downloading, tell a grown-up, device-free meals, bedtime parking).
+- Page 3 "Our grown-up promises": 5 parent commitments (explain rules, model breaks, listen, review together, no secret changes).
+- Page 4 "My time plan": category boxes Entertainment / Games / Social / Creative / Learning with minutes for school days and weekends.
+- Page 5 "People I can contact" list (10 lines).
+- Page 6 "When something feels weird": a simple 3-step 'stop, screenshot if asked, tell a trusted adult' card.
+- Page 7 "Unplugged ideas" (12 original screen-free activities).
+- Page 8 signatures plus a "30-day check-in" date.
+- Bonus: 6 printable gift tags and a bookmark with the time plan.
+
+DESIGN: Pairings: (a) "Chewy" + "Nunito"; (b) "Grandstander" + "Quicksand". Palette: Pine #2D6A4F, Cranberry #C8553D, Snow #FAFAF7, Gold #E9C46A, Night Blue #264653. Simple original illustrations (mittens, stars, a smiling generic rectangle device with no buttons or logo).
+
+RULES: Original text. Age 7-12 reading level. No brand, operating-system, app or feature names; no device that resembles a real product. No safety guarantees or health claims; advise "use your device's parental controls" generically.
+
+DIFFERENTIATION: Turns the gift moment into the setup moment; competitors sell contracts that feel like legal documents.
+
+OUTPUT: Every page's exact text and layout, the imposition order for the booklet, and a self-check (no trademarks, kid-friendly language, both paper sizes, 3 certificate designs present).
+```
+
+**Image prompt 1 (Listing cover; Ideogram or ChatGPT images):**
+
+```text
+A wrapped gift box with a folded printable booklet and a festive certificate tucked under the ribbon, certificate text: "My First Device". Pine green #2D6A4F, cranberry #C8553D, gold #E9C46A on snow-white #FAFAF7, cozy flat-lay with mittens and fairy lights. 4:5 aspect ratio. Any device shown is a plain rounded rectangle with a blank screen. No logos, no real people, no trademarked characters, no watermarks.
+```
+
+### Build and export
+
+1. Generate the text with the super prompt.
+2. Build the booklet in Canva as half-letter pages; apply the palette and fonts.
+3. Create 3 certificate designs from the same template.
+4. Impose the booklet for duplex printing (or provide single pages), US Letter, then make the A4 version.
+5. Export PDF Print 300 DPI; include printing instructions (fold, staple).
+6. Make 4 mockups and a short page-flip video.
+
+### Listing copy prompt
+
+```text
+Write an Etsy listing for a printable 'My First Device' holiday gift certificate and 8-page starter booklet for kids getting their first phone or tablet: kid responsibilities, parent promises, category time plan, contacts list, a what-to-do card and unplugged ideas, plus 3 certificate designs and gift tags (US Letter and A4, instant download). Give a title under 140 characters front-loading 'first phone gift for kids'; 13 tags, each 20 characters or fewer; a description; and a 5-question FAQ (printing, folding, ages, editing, refunds). No company, OS, app or device trademarks, and no safety guarantees.
+```
+
+### Where to list
+
+- **Etsy** (primary): Holiday gift printables category.
+- **Pinterest** (traffic): Gift-idea pins peak in November-December.
+
+**Positioning:** Wrap the rules with the gift.
+
+### Launch plan
+
+- **Day 0:** Publish the listing with a flat-lay mockup and a page-flip video.
+- **Day 1:** Create 6 Pinterest pins (fridge plan, request cards, agreement, holiday insert).
+- **Day 3:** Post a 'how we set our kids' category limits' short video showing the printed planner (no brand screens).
+- **Day 5:** Offer the request-card page free on Payhip for email sign-ups.
+- **Day 8:** Share in parenting groups that allow resources (check the community rules).
+- **Day 12:** Add the holiday insert as a listing variation; update tags with gift phrasing.
+- **Day 18:** Start a 'first device under the tree' pin series aimed at December searches.
+- **Day 16:** Post 3 more videos: request cards in action, monthly check-in, first-device gift wrap.
+- **Day 21:** Go/pivot/stop check against thresholds.
+
+### Marketing channels
+
+| Channel | What to do | How often |
+|---|---|---|
+| Pinterest | Fridge-plan and gift-insert pins | 6 pins per week, rising to 10 in November |
+| Short-form video | Parent POV: setting the plan with the kids | 3 per week |
+| Parenting communities | Share the free request cards where allowed (check the community rules) | Weekly |
+
+**Search phrases to test (suggestions, not measured volumes):** first phone gift, first phone contract, kids tablet gift, phone agreement kids, christmas gift kids, gift certificate kids
+
+**Hooks:**
+- Giving your kid their first device this Christmas? Put this in the box.
+- The gift tag that comes with house rules.
+
+### Profit per sale
+
+Suggested price $6.00 (range $4.00–$9.00, estimate). Gift printables are impulse buys. Keep the price low and bundle with the allowance kit at $12.
+
+| Channel | Price | Fees | Product + shipping | You keep | Margin |
+|---|---|---|---|---|---|
+| Etsy | $6.00 | $1.02 | $0.00 | **$4.98** | 83% |
+
+Product cost basis: digital. Cash at risk $10.20; break-even 3 sale(s).
+
+### Asymmetry
+
+- **Risk:** $10.20 and about 8 hours; answer in about 21 days.
+- **What you risk:** About 8 hours. A seasonal deadline means unsold work waits a year.
+- **What stays open:** Gift impulse buys, bundling, and a birthday version extends it beyond the holidays.
+- **Bad bet if:** Launched after mid-November, which misses the discovery window.
+
+**Ways to extend:** Birthday edition; Smartwatch/kids' phone edition; Bundle with the Family Screen Allowance Kit
+
+**Risks:** Hard seasonal window; Listing discovery takes weeks; Competition from free phone contracts
+
+**Validation test:** List by Oct 20 and run gift-themed pins through November.
+
+**Continue if:** 5+ sales by Dec 5. · **Change direction if:** Only the certificate pages draw interest: sell a certificate-only version at $3-4. · **Stop if:** No sales by Nov 30.
+
+---
+
+## Brain-Baffler Flavor Illusion Tasting Party Kit
+
+**Trend:** Flavor-Illusion Food Combos (Prepare) · **Format:** printable (digital) · **Asymmetry:** Strongly asymmetric (80/100)
+
+**Buyer:** US adults hosting Halloween, Friendsgiving or holiday game nights for friends or family
+
+### Super prompt
+
+```text
+You are a party-game designer and food writer. Produce the complete text content for a printable party kit called "Brain-Baffler: The Flavor Illusion Tasting Game".
+
+BUYER AND JOB: A US adult (20s-40s) hosting a Halloween, Friendsgiving or holiday game night who saw the viral videos of friends trying food combos that supposedly taste like something else (for example cucumber with sugar said to taste like watermelon, lemon with cinnamon said to taste like cola). They want a ready-to-run game for 4-16 guests that takes 10 minutes to set up and uses grocery-store ingredients.
+
+DELIVERABLE (US Letter 8.5x11 in AND A4 versions; same content):
+1. Cover page: title, subtitle "12 combos. 1 confused brain.", space for [YOUR SHOP NAME].
+2. Host guide (1 page): shopping list grouped by store section, prep steps, how to plate in numbered cups, game timing (about 45 minutes), how to score.
+3. Allergy and safety page: list every ingredient used; tell the host to ask guests about allergies before the party, to label every cup, to offer a skip option, and to wash produce. No health claims of any kind.
+4. Twelve combo cards (4 per page, 3.5x5 in each): front = cup number and the two ingredients with exact amounts; back = "What do people say it tastes like?" answer. Use only generic foods (no brand names). Phrase answers as what social media users claim, e.g. "Many people say this tastes like watermelon". Include the four widely reported combos (cucumber + sugar -> watermelon; tomato + sugar -> strawberry; banana + avocado -> ice cream; lemon + cinnamon -> cola) and eight more that are plausible, safe and inexpensive; mark these eight as "house experiments" so nobody is told they are proven.
+5. Guess sheet (1 per player): 12 rows with columns Cup #, My guess, Fooled me? (Y/N), Rating 1-5.
+6. Host answer key (1 page).
+7. Scoreboard (1 page, up to 16 names).
+8. Three award certificates: "Most Baffled Brain", "Iron Tongue", "Best Poker Face".
+9. Six table tents (folded 4x6 in): "Taste first, guess second", "No peeking at the answer key", etc.
+10. Blank combo card template so guests can invent their own.
+
+DESIGN NOTES for Canva: palette Lab Lilac #B9A7E8, Tangerine #FF8A3D, Mint Fizz #8FD9B6, Ink #232036, Paper #FFF8EE. Font pairing A: Fredoka (headings) + Nunito (body). Font pairing B: Chewy (headings) + Poppins (body). Playful, science-lab-meets-snack-bar look, generous white space, printer-friendly (light backgrounds).
+
+RULES: All wording must be original. Do not name or reference any brand, restaurant, soft-drink trademark, creator, influencer or TV show; write "cola" not any brand. Do not claim any combo works for everyone or explain it with invented science; at most say taste and smell interact and results vary. No nutrition, diet or health claims. Reading level: grade 6-8, upbeat.
+
+DIFFERENTIATION: Existing tasting-party printables are blind taste tests of known foods; this kit is the first built around the flavor-illusion format, with ready combos, a guess-vs-reality score mechanic and a make-your-own card.
+
+OUTPUT FORMAT: Return page by page with headings "PAGE 1 - Cover" etc. Put each card's front and back text in clearly labeled blocks so it can be pasted into Canva text boxes. Give character counts under 120 for card texts.
+
+SELF-CHECK before answering: (1) no brand or creator names anywhere; (2) every ingredient appears in the allergy list; (3) all answers phrased as reported claims or house experiments; (4) 12 combos, 12 answer-key rows, 12 guess-sheet rows; (5) both page sizes noted; (6) no health claims.
+```
+
+**Image prompt 1 (Cover illustration; Ideogram or ChatGPT images):**
+
+```text
+Flat vector illustration of a cartoon brain wearing safety goggles holding a cucumber slice and a lemon wedge, small numbered tasting cups around it, playful science-lab doodles, colors #B9A7E8 #FF8A3D #8FD9B6 #232036 on #FFF8EE background, text rendered exactly: "Brain-Baffler", portrait 3:4, clean margins. No logos, no real people, no trademarked characters, no watermarks.
+```
+
+**Image prompt 2 (Card back pattern; Ideogram or ChatGPT images):**
+
+```text
+Seamless repeating pattern of tiny doodled fruits, question marks and tasting spoons, two-tone #B9A7E8 and #FFF8EE, minimal line art, square 1:1, no text. No logos, no real people, no trademarked characters, no watermarks.
+```
+
+**Image prompt 3 (Listing mockup; Canva mockup or ChatGPT images):**
+
+```text
+Top-down photo-style flat lay of printed party game cards and score sheets on a light wooden table with small paper cups of cucumber slices and lemon wedges, soft daylight, palette accents #FF8A3D #8FD9B6, landscape 4:3, blank card faces for overlay. No logos, no real people, no trademarked characters, no watermarks.
+```
+
+### Build and export
+
+1. Run the super prompt; check the self-check list and remove anything brand-like.
+2. In Canva create a US Letter design, apply the palette and font pairing A, and build cover, host guide, safety page, guess sheet, answer key, scoreboard.
+3. Build the combo cards as 4-up 3.5x5 in cards with crop marks; duplicate for backs in matching order for double-sided printing.
+4. Add certificates and table tents (fold lines marked).
+5. Duplicate the whole design and resize to A4; fix any text overflow.
+6. Export each as PDF Print, 300 DPI, crop marks on for card pages; also export a flattened PNG preview of 3 pages for the listing.
+7. Test print one set at home, play one round, fix any confusing instruction.
+8. Zip US Letter and A4 PDFs with a README page (how to print double-sided, personal-use license).
+
+### Listing copy prompt
+
+```text
+Write an Etsy listing for a printable party game: "Brain-Baffler Flavor Illusion Tasting Party Kit". Title under 140 characters front-loading "Taste Test Party Game Printable" and including Halloween/Friendsgiving use. Give 13 tags, each 20 characters or fewer (e.g. taste test game, party game printable, friendsgiving game). Description: what's included page by page, US Letter and A4 PDFs, instant download, no physical item, print at home or at a print shop, ingredients not included, check guests' allergies. FAQ: can I print multiple copies for my party (yes, personal use); is it kid-friendly (with adult supervision); do the combos really work (results vary, that's the fun). Do not use any brand, soft-drink trademark, creator or influencer name, and do not make health claims.
+```
+
+### Where to list
+
+- **Etsy** (primary): Buyers already search Etsy for party game printables.
+- **Pinterest** (traffic): Party planners pin game ideas weeks ahead of Halloween and Friendsgiving.
+- **TikTok** (traffic): The trend lives there; a 'we played it' video fits the original format.
+- **Gumroad or Payhip** (secondary): Direct link for social traffic.
+
+**Positioning:** The ready-to-play version of the viral 'tastes like something else' food combo videos for your next party.
+
+### Launch plan
+
+- **Day 0:** Publish the Etsy listing with 5 images and a 10-second flip-through video.
+- **Day 1:** Pin 5 pins (cover, cards, score sheet, flat lay, 'how to host') linking to the listing.
+- **Day 2:** Film friends or family playing 3 combos with genuine reactions; post to TikTok and Reels with no brand names.
+- **Day 4:** Post a 'which combo fooled us most' follow-up and pin it.
+- **Day 7:** Check views, favorites and saves; rewrite the title if views are under about 50.
+- **Day 10:** Add a Friendsgiving-themed cover variant as a second listing.
+- **Day 14:** If any sale or 10+ favorites, start the $1/day ad test.
+- **Day 21:** Go/pivot/stop check against the continue/pivot/stop rules.
+
+### Marketing channels
+
+| Channel | What to do | How often |
+|---|---|---|
+| Pinterest | Fresh pins with party-game keywords | 1-2 pins per day through November |
+| TikTok / Reels | Reaction videos playing the game | 3 per week for 3 weeks |
+| Facebook party-planning groups | Share a free sample card only where self-promotion is allowed; check the community rules | Once |
+
+**Search phrases to test (suggestions, not measured volumes):** taste test game, party game printable, friendsgiving game, halloween party game, food combo challenge, flavor guessing game
+
+**Hooks:**
+- Cucumber + sugar = watermelon? Make your guests decide.
+- The viral 'tastes like something else' videos, turned into a party game.
+- 12 combos, 1 very confused brain.
+
+### Profit per sale
+
+Suggested price $6.50 (range $4.50–$9.00, estimate). Generic tasting-party printables appear in the low single digits; a fuller themed kit with cards and certificates can sit slightly above.
+
+| Channel | Price | Fees | Product + shipping | You keep | Margin |
+|---|---|---|---|---|---|
+| Etsy | $6.50 | $1.07 | $0.00 | **$5.43** | 84% |
+| Gumroad | $6.50 | $1.15 | $0.00 | **$5.35** | 82% |
+
+Product cost basis: digital. Cash at risk $14.20; break-even 3 sale(s).
+
+### Asymmetry
+
+- **Risk:** $14.20 and about 8 hours; answer in about 21 days.
+- **What you risk:** About 6-8 hours and $0-14; the listing stays useful as a general party game even if the trend fades.
+- **What stays open:** Zero marginal cost, seasonal reorders every party season, easy holiday variants.
+- **Bad bet if:** The trend stays a two-week curiosity and generic taste-test kits already rank for every party keyword you test.
+
+**Ways to extend:** Kids' classroom version with fruit-only combos; Holiday edition with winter flavors; Bundle with a generic blind taste-test game; Editable Canva version for hosts who want their own combos
+
+**Risks:** Allergy or food-safety complaints: keep the safety page prominent and avoid risky ingredients.; A combo that 'doesn't work' leads to reviews saying it is fake: frame everything as a game with varied results.; Accidental brand naming (soft drinks, snacks) in listing or video.
+
+**Validation test:** List on Etsy and pin 10 pins in 7 days; post 2 reaction videos
+
+**Continue if:** At least 1 sale or 15 favorites within 21 days, or a reaction video over 5,000 views · **Change direction if:** Views but no favorites: reposition as a general 'guess the flavor' party game bundle · **Stop if:** Under 100 listing views after 21 days with active pinning
+
+---
+
+## Our Life Together Pet Tally Print (personalized)
+
+**Trend:** Pet Life Tally ('Everything My Pet Was There For') (Prepare) · **Format:** poster (digital) · **Asymmetry:** Strongly asymmetric (79/100)
+
+**Buyer:** US dog and cat owners, and gift-buyers for them, around holidays, adoption anniversaries and memorials
+
+### Super prompt
+
+```text
+You are a typographic print designer and gift copywriter. Produce the full content system for "Our Life Together", a personalized pet tally print in the style people use in comment threads: "9 years, 3 houses, 2 break ups, 3 jobs, and every single tear".
+
+BUYER AND JOB: A US pet owner (25-45), or someone buying for them, who wants a holiday or adoption-anniversary gift that sums up years with a dog or cat in one honest, slightly funny, tear-jerking list. Shoppers also buy it as a memorial, so the copy must work in present and past tense.
+
+DELIVERABLE:
+1. An intake form (the questions the seller sends after purchase): pet name, species, years together, start year, and up to 8 counts or moments (homes, moves, jobs, roommates, breakups, babies, graduations, road trips, couch cushions destroyed, socks stolen), plus one closing line choice.
+2. Twelve closing-line options, original, e.g. "and every single tear" style but not copied: mix tender, funny and memorial versions.
+3. Rules for turning answers into the tally: order from largest time span to smallest moment; 4-8 lines; plural/singular grammar; numbers as numerals; final line always the chosen closing line.
+4. Five layout variants described for Canva: (A) stacked centered list with large numerals; (B) receipt style "Total: one very good dog"; (C) timeline with years; (D) minimal with a paw outline; (E) memorial with soft border and years range.
+5. Three fully worked sample tallies (dog, cat, memorial) to use as listing examples, all fictional.
+6. Print specs: digital personalized PDF at 8x10 in, 11x14 in and A4 at 300 DPI; plus 16x20 in for optional POD poster at 4800x6000 px.
+
+DESIGN NOTES for Canva: palette Warm Paper #F7F1E8, Ink Navy #1F2A44, Clay #C9774E, Sage #A3B18A, Blush #E8C4B8. Font pairing A: Abril Fatface (numerals) + Karla (text). Font pairing B: Bebas Neue + Libre Baskerville. Lots of white space; numerals big; text centered.
+
+RULES: Write all closing lines originally; do not reuse any real commenter's wording verbatim, do not quote song lyrics, and do not reference any song, artist, show, brand or breed-registry trademark. No pet-health or behavior claims. Keep humor kind. Memorial versions must be gentle and avoid religious statements unless the buyer requests them.
+
+DIFFERENTIATION: Existing pet posters are generic quotes or portraits; this is a personalized life tally that matches how people are actually describing years with their pets online.
+
+OUTPUT FORMAT: Sections titled INTAKE FORM, CLOSING LINES, TALLY RULES, LAYOUTS, SAMPLES, SPECS. Samples shown exactly as they'd print, line by line.
+
+SELF-CHECK: (1) 12 original closing lines; (2) no lyrics, songs, brands or real comments quoted; (3) samples are 4-8 lines with correct grammar; (4) memorial version included; (5) all sizes listed with DPI/pixels.
+```
+
+**Image prompt 1 (Listing sample print (dog); Ideogram):**
+
+```text
+Typographic poster on warm paper texture #F7F1E8, centered stacked lines in navy #1F2A44 with oversized numerals in clay #C9774E, text rendered exactly: "MAPLE / 7 years / 4 apartments / 2 cross-country moves / 1 very long winter / 312 stolen socks / and every walk home", small sage #A3B18A paw outline at bottom, portrait 4:5, solid background. No logos, no real people, no trademarked characters, no watermarks.
+```
+
+**Image prompt 2 (Framed wall mockup; Canva mockup):**
+
+```text
+Photo-style mockup of a simple light-wood frame on a cream wall above a dog bed, soft daylight, blank print area for overlay, portrait 4:5, accents #E8C4B8. No logos, no real people, no trademarked characters, no watermarks.
+```
+
+### Build and export
+
+1. Run the prompt; pick 3 layouts to launch with.
+2. Build each layout in Canva at 8x10 in with text styles saved, then resize copies to 11x14 in, A4 and 16x20 in.
+3. Create the Etsy personalization box text from the intake form (character limit 1024).
+4. Make 3 sample listings images from the fictional samples plus a frame mockup.
+5. Per order: paste answers, apply tally rules, export PDF Print 300 DPI, proof by message, deliver via Etsy file delivery within 48 hours.
+6. Optional POD: upload a 4800x6000 px PNG to Printify or Printful poster product only after 3 digital sales.
+7. Save a reusable order checklist to keep turnaround under 30 minutes per order.
+
+### Listing copy prompt
+
+```text
+Write an Etsy listing for a personalized digital pet print: "Our Life Together" pet tally. Title under 140 characters starting with "Personalized Pet Print" and including dog/cat, gift and memorial uses. 13 tags of 20 characters or fewer. Description: how it works (fill the personalization box, proof within 48 hours, digital file delivered, print at home or a print shop), sizes, examples of what to include, turnaround before holidays. FAQ: can I get a memorial version (yes), can I edit after the proof (one revision), is anything shipped (no). Do not use song lyrics, song or artist names, brand names or claims about pet health.
+```
+
+### Where to list
+
+- **Etsy** (primary): Personalized pet gifts are a core Etsy gift category.
+- **Pinterest** (traffic): Holiday gift-idea pins for pet owners.
+- **TikTok / Instagram** (traffic): Make your own pet's tally video in the thread style (without the song).
+
+**Positioning:** The years with your pet, counted: a personalized tally print in the style pet owners are using to describe their life together.
+
+### Launch plan
+
+- **Day 0:** Publish the listing with 3 fictional samples and a framed mockup.
+- **Day 1:** Post a video building a tally for your own or a friend's pet (original audio or licensed library audio, no hit songs).
+- **Day 2:** Pin 5 gift-focused pins (dog dad, cat mom, memorial, adoption anniversary, holiday).
+- **Day 5:** Offer 3 free tallies to friends in exchange for photos of the printed result.
+- **Day 8:** Add the photos to the listing; post them as a carousel.
+- **Day 14:** If 2+ sales, start $1/day ads; add a memorial-specific listing.
+- **Day 21:** Go/pivot/stop check; decide on POD poster version for December gifting.
+
+### Marketing channels
+
+| Channel | What to do | How often |
+|---|---|---|
+| Pinterest | Gift-for-pet-owner pins | 1-2 per day through mid-December |
+| TikTok/Reels | Tally-reveal videos for real pets (with permission) | 2-3 per week |
+| Local pet rescue groups | Offer adoption-anniversary prints only where allowed; check the community rules | Once |
+
+**Search phrases to test (suggestions, not measured volumes):** personalized pet print, dog mom gift, cat dad gift, pet memorial print, adoption anniversary
+
+**Hooks:**
+- 9 years. 3 houses. 1 dog who was there for all of it.
+- Count the years with your pet.
+- The gift that makes pet people cry (the good kind).
+
+### Profit per sale
+
+Suggested price $14.00 (range $10.00–$22.00, estimate). Personalized digital pet prints usually sell above generic printables because of the custom labor; start mid-range without reviews.
+
+| Channel | Price | Fees | Product + shipping | You keep | Margin |
+|---|---|---|---|---|---|
+| Etsy | $14.00 | $1.78 | $0.00 | **$12.22** | 87% |
+
+Product cost basis: digital. Cash at risk $20.20; break-even 2 sale(s).
+
+### Asymmetry
+
+- **Risk:** $20.20 and about 8 hours; answer in about 21 days.
+- **What you risk:** About 8 hours to set up plus about 20-30 minutes per order; up to $20 in ads.
+- **What stays open:** Higher price point, giftable before the holidays, evergreen for adoption anniversaries and memorials.
+- **Bad bet if:** Custom-order labor eats your time at a low price, or the tally framing never gets traction beyond the one listicle.
+
+**Ways to extend:** POD poster and canvas versions; Matching mug with the short tally; Cat-specific and memorial-specific listings
+
+**Risks:** Personalization labor does not scale.; Memorial buyers need careful, kind communication.; The related slideshow trend uses a commercial song; never use it.
+
+**Validation test:** List with 3 samples, post 3 videos and 10 pins in 10 days
+
+**Continue if:** 2+ personalized orders within 21 days · **Change direction if:** Favorites but no orders: drop price or add a non-personalized 'fill it yourself' printable version · **Stop if:** Under 100 views in 21 days during peak gift season
+
+---
+
+## Open Sky Fall Wallpaper Pack (12 lock + home pairs)
+
+**Trend:** Wallpapers made for the new movable lock-screen clock (iOS 27) (Prepare) · **Format:** other (digital) · **Asymmetry:** Strongly asymmetric (79/100)
+
+**Buyer:** Gen Z and millennial iPhone users who restyle their lock and home screens each season
+
+### Super prompt
+
+```text
+You are a digital illustrator and art director designing a sellable phone wallpaper pack. BUYER: Gen Z and millennial iPhone users who restyle their phones every season. Their phone update now lets them shrink the lock-screen clock or move it to the widget row, so far more of the wallpaper is visible. Wallpapers built around a big central clock now look empty or cramped. JOB: give them a cohesive fall pack composed for the new layout. DELIVERABLE: 12 designs. For each one give: title, mood line, a full image-generation prompt, composition notes, and its matching home-screen variant (blurred or simplified version of the same art so icons stay readable). Themes: 1 misty orchard at dawn, 2 maple leaves drifting across open sky, 3 cozy window with rain and candle, 4 pumpkin field at golden hour, 5 abstract fall color blocks, 6 mushroom forest floor, 7 harvest moon over hills, 8 knit texture close-up, 9 apple still life, 10 foggy lake with a rowboat, 11 dried flowers in a jar, 12 night sky with falling leaves. SPEC: 1290x2796 px master (19.5:9), keep the top 22% calm and low-detail (clock and widget zone), the focal subject between 35% and 75% of the height, the bottom 12% low-detail (flashlight/camera controls). Each design in light and dark versions. PALETTE: Pumpkin #D9822B, Maple #A23E2A, Oat #E9DCC3, Moss #5F6B3C, Fog #C9CCD1, Night Plum #2E2433. FONTS (for listing images and the guide in Canva): pairing A, Fraunces with Inter; pairing B, DM Serif Display with DM Sans. CONTENT RULES: everything original; no text in the wallpapers; no recognizable landmarks, brands, characters or real people; no imitation of a named living artist. DIFFERENTIATION: composed for the new compact-clock layout, matched lock/home pairs, light and dark versions, one coherent palette. RIGHTS: never reproduce or reference Apple's official wallpapers, Apple logos or UI; mention the phone brand only as compatibility. OUTPUT: Section 1, pack overview (3 sentences). Sections 2-13, one per design with the fields above. Section 14, a one-page 'How to set your wallpaper and move the clock' guide written generically (Settings path described in plain words, with a note that menus vary by version). Section 15, 3 TikTok video scripts (before/after swap, 'which one are you', ASMR scroll). SELF-CHECK: (1) every design respects the top 22% calm zone, (2) no text in the art, (3) no brands or official wallpapers referenced, (4) each design has light and dark variants and a home-screen variant, (5) palette hexes used consistently.
+```
+
+**Image prompt 1 (Design 2 maple leaves in open sky; Midjourney or Ideogram):**
+
+```text
+Vertical phone wallpaper, a few red-orange maple leaves #A23E2A #D9822B drifting across a soft open sky gradient from #C9CCD1 to #E9DCC3, upper fifth of the frame empty and calm, leaves clustered in the middle third, painterly gouache texture, no text, 9:19.5 aspect ratio, full-bleed. No logos, no real people, no trademarked characters, no watermarks.
+```
+
+**Image prompt 2 (Design 7 harvest moon (dark variant); Midjourney or Ideogram):**
+
+```text
+Vertical phone wallpaper, large warm harvest moon low over rolling hills, deep night plum sky #2E2433, moss hills #5F6B3C, subtle grain, the top 22% plain dark sky, moon centered at mid-height, bottom area simple dark hills, no text, 9:19.5 aspect ratio. No logos, no real people, no trademarked characters, no watermarks.
+```
+
+**Image prompt 3 (Listing mockup; Canva):**
+
+```text
+Flat-lay of three generic smartphones without brand marks showing three wallpapers from the pack, on an oat linen background #E9DCC3 with dried leaves, soft daylight, 4:5 aspect ratio, phone screens left blank for compositing. No logos, no real people, no trademarked characters, no watermarks.
+```
+
+### Build and export
+
+1. Generate all 12 designs at the highest resolution, then upscale and crop to 1290x2796 px
+2. Check each against a transparent overlay marking the top 22% and bottom 12% zones; regenerate any that break them
+3. Make dark variants (re-prompt) and home-screen variants (Canva blur 30-40% or simplified crop)
+4. Export PNG at full resolution; name files 01-maple-lock-light.png etc.
+5. Build a 2-page PDF guide plus a link page; zip everything (under 20 MB per Etsy file or split into two zips)
+6. Make 5 listing images: hero mockup, all-12 grid, before/after layout, light vs dark, what's included
+7. Record the 3 TikTok videos from the generated scripts using screen recording of your own phone
+
+### Listing copy prompt
+
+```text
+Write an Etsy listing for a digital download: 12 original fall phone wallpapers with matching home-screen versions, light and dark, composed for phones whose lock-screen clock can be made small or moved. Title under 140 characters, starting with 'Fall Phone Wallpaper Pack'. Give 13 tags of 20 characters or fewer (e.g. fall wallpaper, autumn lock screen, cozy phone theme). Description: what's included, pixel size (1290x2796) and that it fits most modern phones, PNG format, instant download and nothing ships, how to set it, and a short FAQ (Will it fit my phone? Can I use it on Android? Can I share it? It is for personal use only). You may write 'for iPhone' only as a compatibility phrase; do NOT use Apple logos, 'iOS' in the title, official wallpaper names, or any other trademarks.
+```
+
+### Where to list
+
+- **Etsy** (primary): Buyers already search for lock screen wallpaper packs there
+- **Payhip** (secondary): Link-in-bio checkout for TikTok traffic
+- **TikTok** (traffic): Before/after phone setup videos are a native format
+- **Pinterest** (traffic): Fall phone-aesthetic searches
+
+**Positioning:** The first fall pack composed for the new small-clock lock screen
+
+### Launch plan
+
+- **Day 0:** List the pack on Etsy and Payhip
+- **Day 1:** Post TikTok 1: before/after moving the clock with the new wallpaper
+- **Day 3:** Post TikTok 2: 'which fall wallpaper are you' scroll; pin 5 designs on Pinterest
+- **Day 5:** Post TikTok 3: ASMR setup; reply to comments with video replies
+- **Day 7:** Check Etsy views and conversion; adjust title to whichever phrase gets views
+- **Day 10:** Release 1 free wallpaper on Pinterest linking to the pack
+- **Day 14:** Start a Halloween mini pack if fall pack sells
+- **Day 21:** Go/pivot/stop: continue at 5+ sales or a 10k-view video; pivot to holiday pack with lead magnet if only views; stop under 2 sales and 2k views
+
+### Marketing channels
+
+| Channel | What to do | How often |
+|---|---|---|
+| TikTok | Before/after phone layout swaps with link in bio | 3-4 per week |
+| Pinterest | Single-wallpaper pins with phone mockups | Daily |
+
+**Search phrases to test (suggestions, not measured volumes):** fall phone wallpaper, autumn lock screen, cozy phone theme, small clock wallpaper, aesthetic home screen
+
+**Hooks:**
+- Your old wallpaper looks wrong with the new small clock. Fix it
+- I made wallpapers for the new lock screen layout
+- POV: you finally moved the clock
+
+### Profit per sale
+
+Suggested price $4.50 (range $3.00–$7.00, estimate). Wallpaper packs are low-ticket impulse buys; 12 pairs with light/dark justifies the mid price
+
+| Channel | Price | Fees | Product + shipping | You keep | Margin |
+|---|---|---|---|---|---|
+| Etsy | $4.50 | $0.88 | $0.00 | **$3.62** | 81% |
+| Payhip | $4.50 | $0.66 | $0.00 | **$3.84** | 85% |
+
+Product cost basis: digital. Cash at risk $0.20; break-even 1 sale(s).
+
+### Asymmetry
+
+- **Risk:** $0.20 and about 6 hours; answer in about 21 days.
+- **What you risk:** About 6 hours, about $1 in fees
+- **What stays open:** A repeatable seasonal series with zero marginal cost and a TikTok-native format
+- **Bad bet if:** Free AI wallpaper tools built into the phone remove the reason to buy, or videos fail to get past 1k views
+
+**Ways to extend:** Halloween mini pack; Winter/holiday pack; Celery-green spring pack; Matching app-icon set
+
+**Risks:** Crowded format; Trademark complaints if Apple marks are misused; Low price means volume is needed
+
+**Validation test:** Post 3 TikToks showing the before/after layout swap with a link to a 12-wallpaper pack. List on Etsy.
+
+**Continue if:** At least 5 sales in 21 days or one video over 10k views · **Change direction if:** Videos get views but no sales: offer a free 1-wallpaper lead magnet and a holiday pack · **Stop if:** Fewer than 2 sales and no video over 2k views by Day 21
+
+---
+
+## Butterfly Sunday Tidy Kit
+
+**Trend:** Sunday Butterfly Tidying Method (Prepare) · **Format:** printable (digital) · **Asymmetry:** Strongly asymmetric (78/100)
+
+**Buyer:** US adults who find rigid cleaning schedules hard to follow and like low-pressure, wander-and-finish tidying
+
+### Super prompt
+
+```text
+You are a gentle home-organizing writer and printable designer. Produce the complete text for "Butterfly Sunday: A Land-and-Lift-Off Tidy Kit", a printable set for the low-pressure tidying style where you drift through the home, land on one small thing, finish it completely, and move on.
+
+BUYER AND JOB: A US adult (25-45) who finds rigid room-by-room cleaning lists hard to stick to and liked the idea of tidying 'like a butterfly' on a Sunday afternoon with an audiobook or podcast on. They want something visual and calm that makes small finished tasks feel visible.
+
+DELIVERABLE (US Letter 8.5x11 in AND A4):
+1. Cover with title and tagline "Land. Finish. Lift off."
+2. How it works (1 page, original wording): pick a time window, choose 3-6 zones, wander, land on one small thing, finish it fully, color one petal, lift off. Include 3 simple boundaries: a timer, a 'no half-finished piles' rule, and a stop time.
+3. Garden tracker: a page with 6 large flowers (one per zone, label lines) each with 8 petals to color per finished landing.
+4. Landing cards: 48 cut-out cards (8 per page, 6 pages) each with one small finishable task under 10 minutes, grouped by zone color (kitchen, living area, bedroom, bathroom, entry, desk). Examples: clear one shelf, match all lids in one drawer.
+5. Listening log: a page to note the audiobook or podcast and minutes listened alongside petals colored.
+6. Monthly meadow: a calendar-style page with one flower per Sunday to color by how many landings happened.
+7. Reflection page: three prompts (what I noticed, what drew me, what can wait), no scores.
+8. Blank landing-card template.
+
+DESIGN NOTES for Canva: palette Petal Pink #F4B6C2, Meadow #A8C686, Sky #BFD7EA, Honey #F6C85F, Soft Ink #3B3A40, Cream #FFF9F0. Font pairing A: Playfair Display + Lato. Font pairing B: Cormorant Garamond + Nunito Sans. Soft watercolor feel, lots of white space, printer-friendly.
+
+RULES: Write everything originally; do not copy any article. Do not use the name of the editor who described the method, any publication name, or imply affiliation; call the product 'Butterfly Sunday' and describe it as a butterfly-style tidying approach. Do not mention ADHD, neurodivergence, dopamine, anxiety or any condition, and make no mental-health, productivity or outcome promises. Calm, kind tone; grade 6 reading level; tasks must be physically simple and safe.
+
+DIFFERENTIATION: Existing neurodivergent-friendly cleaning planners are still schedules and checklists; this kit is built around the butterfly landing idea with color-in petals, finishable landing cards and a listening log.
+
+OUTPUT FORMAT: Page by page with headings "PAGE n - name"; list the 48 landing cards numbered with zone label; keep each card under 60 characters.
+
+SELF-CHECK: (1) 48 cards, 8 per zone; (2) no condition names or health claims; (3) no person or publication names; (4) both page sizes noted; (5) every task is under 10 minutes and finishable.
+```
+
+**Image prompt 1 (Cover art; Ideogram or Midjourney):**
+
+```text
+Soft watercolor illustration of a single butterfly hovering over a small tidy shelf with a folded blanket and a potted plant, pastel palette #F4B6C2 #A8C686 #BFD7EA #F6C85F on #FFF9F0, airy, text rendered exactly: "Butterfly Sunday", portrait 3:4. No logos, no real people, no trademarked characters, no watermarks.
+```
+
+**Image prompt 2 (Flower tracker art; Ideogram or ChatGPT images):**
+
+```text
+Six simple outlined flowers with eight petals each arranged in a 2x3 grid, line art in #3B3A40 on white, petals empty for coloring, small leaf accents in #A8C686, square 1:1, no text. No logos, no real people, no trademarked characters, no watermarks.
+```
+
+### Build and export
+
+1. Run the prompt and check the self-check list.
+2. In Canva set up US Letter pages with the palette and font pairing A.
+3. Place flower tracker art and add zone label lines.
+4. Build landing cards 8-up per page with dashed cut lines, color-coded by zone.
+5. Add listening log, monthly meadow and reflection pages.
+6. Resize the full design to A4 and fix overflow.
+7. Export PDF Print 300 DPI for both sizes; export 4 PNG preview images for the listing.
+
+### Listing copy prompt
+
+```text
+Write an Etsy listing for "Butterfly Sunday Tidy Kit", a printable gentle tidying kit. Title under 140 characters starting with "Gentle Cleaning Printable" and including "butterfly method". 13 tags of 20 characters or fewer. Description: the land-finish-lift-off idea in two sentences, page-by-page contents, US Letter and A4 PDFs, instant download. FAQ: do I need a schedule (no), can I reprint (yes, personal use). Do not mention ADHD, any condition, any publication or person, and make no health or productivity promises.
+```
+
+### Where to list
+
+- **Etsy** (primary): Buyers search for cleaning and decluttering printables.
+- **Pinterest** (traffic): The source article is already being pinned; decluttering is strong on Pinterest.
+- **Instagram Reels / TikTok** (traffic): Short 'Sunday butterfly tidy' process videos with petals being colored.
+
+**Positioning:** A calm, visual kit for butterfly-style Sunday tidying: land on one small thing, finish it, color a petal.
+
+### Launch plan
+
+- **Day 0:** Publish the listing with cover, tracker and card previews.
+- **Day 1:** Pin 5 pins targeting 'sunday butterfly method' and 'gentle decluttering'.
+- **Day 3:** Post a Reel of a real 30-minute butterfly Sunday, coloring petals on camera.
+- **Day 7:** Review views and saves; adjust title wording.
+- **Day 10:** Pin a free single-flower tracker sample linking to the full kit.
+- **Day 14:** Second Reel on a different zone; respond to comments.
+- **Day 21:** Go/pivot/stop check.
+
+### Marketing channels
+
+| Channel | What to do | How often |
+|---|---|---|
+| Pinterest | Method-name and gentle-cleaning keyword pins | 1 per day |
+| Reels/TikTok | Sunday process videos | 1-2 per week, on Sundays |
+
+**Search phrases to test (suggestions, not measured volumes):** sunday butterfly method, gentle cleaning printable, decluttering tracker, cleaning game printable, sunday reset
+
+**Hooks:**
+- Land. Finish. Lift off.
+- Tidying like a butterfly, one petal at a time.
+- No schedule. Just one small finished thing.
+
+### Profit per sale
+
+Suggested price $5.50 (range $4.00–$8.00, estimate). In line with typical cleaning-planner printables; the 48 landing cards add perceived value.
+
+| Channel | Price | Fees | Product + shipping | You keep | Margin |
+|---|---|---|---|---|---|
+| Etsy | $5.50 | $0.97 | $0.00 | **$4.53** | 82% |
+
+Product cost basis: digital. Cash at risk $0.20; break-even 1 sale(s).
+
+### Asymmetry
+
+- **Risk:** $0.20 and about 7 hours; answer in about 21 days.
+- **What you risk:** About 7 hours, $0.
+- **What stays open:** Evergreen decluttering demand plus a named-method keyword with little specific supply.
+- **Bad bet if:** The method name never spreads beyond a few blogs, leaving you in the crowded generic cleaning-planner category.
+
+**Ways to extend:** Kids' version with picture landing cards; Digital (GoodNotes) version; Seasonal 'spring meadow' edition
+
+**Risks:** The method name is tied to one publication's editor: describe, don't claim affiliation.; Sources lean on ADHD framing; using it in copy would be a health claim.; Free printable trackers already exist on blogs.
+
+**Validation test:** List plus 10 pins and 2 Reels in 10 days
+
+**Continue if:** 1+ sale or 15+ favorites in 21 days, or pins on the method name getting saves · **Change direction if:** Saves but no sales: offer the tracker as a free lead magnet and bundle cards into a general gentle-cleaning kit · **Stop if:** Under 75 views in 21 days
+
+---
+
+## Make-Your-Own Coloring Advent Gift Kit (printable envelopes, tags + 24 pages)
+
+**Trend:** Coloring advent calendars (cozy coloring countdown) (Test now) · **Format:** printable (digital) · **Asymmetry:** Strongly asymmetric (78/100)
+
+**Buyer:** Gift-givers making a screen-free advent present for a friend, partner or teen
+
+### Super prompt
+
+```text
+You are a printable gift designer. Produce the full content for a printable kit that lets someone assemble a coloring advent calendar as a gift for a friend, partner or teen: 24 numbered envelopes, 24 single coloring pages, gift tags, a "how to use" card and a December tracker.
+
+BUYER AND JOB: Adults who want to give the cozy coloring advent experience as a thoughtful, low-cost, screen-free gift. They will print at home or at a copy shop in November, tuck one page (plus an optional treat or tea bag) into each envelope, and hand it over before December 1.
+
+DELIVERABLE SPEC (US Letter 8.5 x 11 in AND A4):
+1. Envelope template: a cut-and-fold envelope that holds a page folded in quarters; 24 numbered envelope fronts (1-24) in 4 rotating designs.
+2. 24 coloring pages, portrait, one per day: write 24 original cozy-winter scene descriptions (bold, easy, large shapes), plus a short 1-line prompt for each ("color this with a warm drink nearby").
+3. Gift tag sheet: 12 tags with lines "To", "From" and 3 short original messages.
+4. A "how to open" card for the recipient and a "how to assemble" sheet for the giver (supplies, 6 steps, time estimate).
+5. A 24-square tracker page.
+
+STYLE: Canva font pairings (a) "Fredoka" + "Nunito", (b) "DM Serif Display" + "Inter". Palette: cocoa #6B4A3A, cranberry #A3333D, pine #31574A, butter #F4D58D, cream #FFF8EC. Envelopes printable in color; coloring pages pure black line art on white.
+
+RULES: Everything original. No brand, publisher, coloring-book title, artist, character or celebrity names. Secular-friendly holiday wording. No health or stress-relief claims. Accuracy: assembly steps must physically work (check envelope dimensions fit a quarter-folded Letter/A4 page: about 4.4 x 5.7 in / 11 x 15 cm finished).
+
+DIFFERENTIATION: Turns the sold-out boxed calendar idea into a personal handmade gift the buyer assembles, with room for small treats. The giver can add a handwritten note to any envelope, so the gift feels made for one person rather than bought off a shelf. Name the kit with an original title of your own (suggest three options) that does not echo any existing product name.
+
+OUTPUT: page-by-page text, the 24-scene table, envelope dimensions and fold lines, and assembly steps.
+
+SELF-CHECK: 24 distinct scenes; envelope size fits the folded page; both paper sizes; no IP names; no outcome claims.
+```
+
+**Image prompt 1 (Envelope front designs (4 variants); Ideogram or ChatGPT images):**
+
+```text
+Flat illustrated envelope front with a large empty circle for a day number, cozy winter motifs (mittens, mug, pine sprig, snowflakes) around the border, colors #6B4A3A #A3333D #31574A #F4D58D on cream #FFF8EC, portrait 4:5.7 aspect ratio, no text, no logos, no real people, no trademarked characters, no watermarks
+```
+
+**Image prompt 2 (Coloring pages; Midjourney or ChatGPT images):**
+
+```text
+Bold and easy coloring page line art of {SCENE}, thick clean black outlines, simple rounded cozy shapes, no shading, white background, portrait 8.5:11, no text, no logos, no real people, no trademarked characters, no watermarks
+```
+
+**Image prompt 3 (Listing photo; Canva mockup):**
+
+```text
+Basket of 24 small numbered paper envelopes in cranberry, pine and butter tones with colored pencils and a ribbon, cozy table setting, 4:5 aspect ratio, no readable brand text, no logos, no real people, no trademarked characters, no watermarks
+```
+
+### Build and export
+
+1. Run the super prompt and generate the 24 line-art pages.
+2. Build the envelope template in Canva at Letter; print one and test the fold with a quarter-folded page.
+3. Lay out the 24 numbered fronts across 6-12 sheets.
+4. Build tags, instruction cards and the tracker.
+5. Resize everything to A4; re-test the envelope fit.
+6. Export PDF Print 300 DPI (Letter and A4 sets).
+7. Upload to Etsy as a digital download with a photo of an assembled kit.
+
+### Listing copy prompt
+
+```text
+Write an Etsy listing for a printable DIY coloring advent calendar gift kit: 24 numbered printable envelopes, 24 cozy coloring pages, gift tags and instructions. Title under 140 characters starting with 'DIY Advent Calendar Printable' and including coloring, gift for her/teen, envelopes. 13 tags of 20 characters or fewer. Description: contents, US Letter + A4, assembly time, suggestion to add small treats, digital download only. FAQ: printing at a copy shop, paper weight, resale (no). No brand, publisher, artist, character or celebrity names; no health claims.
+```
+
+### Where to list
+
+- **Etsy** (primary): DIY advent printables are an existing search category
+- **Pinterest** (traffic): DIY advent gift ideas are pinned in October-November
+
+**Positioning:** Give the coloring advent ritual as a handmade gift - print, fill, wrap.
+
+### Launch plan
+
+- **Day 0:** Publish with the zine set and a $12 bundle
+- **Day 2:** Pin assembled-kit photos
+- **Day 7:** Video: assembling 24 envelopes
+- **Day 21:** Go/pivot/stop with the zine set's thresholds; stop new promotion Nov 25 (givers need assembly time)
+
+### Marketing channels
+
+| Channel | What to do | How often |
+|---|---|---|
+| Pinterest | 'DIY advent calendar for adults' pins | 5/week until Nov 25 |
+| TikTok | Assembly videos | 2/week |
+
+**Search phrases to test (suggestions, not measured volumes):** diy advent calendar, advent calendar gift, coloring gift, printable envelopes, advent for her
+
+**Hooks:**
+- Make a coloring advent calendar for your best friend
+- 24 envelopes, one cozy page each
+
+### Profit per sale
+
+Suggested price $7.00 (range $5.00–$10.00, estimate). DIY printable gift kits sell in the mid single digits; bundle with the zine set at $12
+
+| Channel | Price | Fees | Product + shipping | You keep | Margin |
+|---|---|---|---|---|---|
+| Etsy | $7.00 | $1.12 | $0.00 | **$5.89** | 84% |
+
+Product cost basis: digital. Cash at risk $0.20; break-even 1 sale(s).
+
+### Asymmetry
+
+- **Risk:** $0.20 and about 7 hours; answer in about 21 days.
+- **What you risk:** 6-8 extra hours (reuses art from the zine set)
+- **What stays open:** Raises order value via a bundle; reusable yearly
+- **Bad bet if:** Givers find assembly too much work this close to December
+
+**Ways to extend:** Teacher-to-class version; Long-distance friend version (mail all 24); Valentine's 14-day version
+
+**Risks:** Earlier effective deadline (~Nov 25) because buyers must assemble; Overlaps with the main product
+
+**Validation test:** Offer as a $12 bundle with the zine set
+
+**Continue if:** Bundle takes 20%+ of orders · **Change direction if:** Fold it into the main listing as a bonus · **Stop if:** No sales by Nov 20
+
+---
+
+## Gold Star Behaviour December Tracker + Story Templates
+
+**Trend:** Gold Star Behaviour (holiday edition) (Prepare) · **Format:** printable (digital) · **Asymmetry:** Strongly asymmetric (77/100)
+
+**Buyer:** Adults who like planners and want to post their own gold-star photo
+
+### Super prompt
+
+```text
+You are a planner designer and social-media template creator. Produce the full content for a digital download called "Gold Star Behaviour: December Tracker + Story Templates".
+
+BUYER AND JOB: Adults who enjoy the "gold star behaviour" posts (a calm photo, the title "gold star behaviour", a subtitle like "in my personal opinion", and gold stars labelling small good habits). In December they want a gentle, non-perfectionist way to notice small wins during a busy season, and an easy way to make their own post.
+
+DELIVERABLE SPEC (printables in US Letter 8.5 x 11 in AND A4, portrait; story templates 1080 x 1920 px):
+Page 1 - Cover: title, subtitle "small wins, December 2026".
+Page 2 - How it works: 5 short lines (give yourself a star for a small, real win; no streaks; no punishment; stars can be silly).
+Page 3 - December 2026 calendar grid (Dec 1 = Tuesday, Dec 25 = Friday, Dec 31 = Thursday) with a star outline in each day box.
+Page 4 - "Gold star menu": 40 original small holiday-season wins in four groups (home, people, money, self) - each under 8 words, neutral, no health or diet claims.
+Page 5 - "Wins I'm weirdly proud of" lined journal page.
+Page 6 - Year-end page: "my top 10 gold stars of 2026".
+Page 7 - Cut-out star tokens (24 stars) for a fridge or desk.
+Story templates (5): editable layouts for making your own gold-star post - photo placeholder, title, subtitle, 3-6 star slots with caption boxes; one template per mood (cozy, minimal, festive red, pine green, newsprint).
+
+STYLE: Canva font pairings (a) "Fraunces" + "DM Sans", (b) "Playfair Display" + "Work Sans". Palette: gold #E8B53A, deep gold #B8862B, ink #2B2B2B, red #B3261E, pine #2F5D46, cream #FBF6EC. Printer-friendly: big white space, thin lines.
+
+CONTENT RULES: Write everything originally. No brand, platform, retailer, film, song, celebrity or character names; describe the format generically ("gold star posts") rather than naming any social app in the product itself. No claims about mental health, productivity or outcomes. Inclusive of people who do not celebrate Christmas: use "December" and "the holidays" except on the dated calendar.
+
+DIFFERENTIATION: Generic reward charts target children; this is an adult, ironic-but-kind December tracker built on the gold-star-behaviour format, with templates to post your own.
+
+OUTPUT: Page-by-page text exactly as it should appear, then the 40-item menu, then the 5 story template specs (element positions in px), then a short README for buyers (how to print, how to edit in Canva via the template link).
+
+SELF-CHECK: calendar weekdays are correct for December 2026; 40 menu items, all distinct; no IP or platform names; both page sizes noted; no outcome claims.
+```
+
+**Image prompt 1 (Cover art; ChatGPT images or Ideogram):**
+
+```text
+Minimal cover illustration: a cream page #FBF6EC with a scattered constellation of hand-drawn gold stars #E8B53A outlined #B8862B, a small sprig of pine #2F5D46 and a red ribbon #B3261E at the corner, large empty area at top for a title, flat illustration, portrait 8.5:11 aspect ratio, no text, no logos, no real people, no trademarked characters, no watermarks
+```
+
+**Image prompt 2 (Etsy mockup; Canva):**
+
+```text
+Mockup of printed planner pages on a wooden desk with a pen and a mug, a phone beside them showing a story layout with gold stars, warm light, 4:5 aspect ratio, no logos, no real people, no trademarked characters, no watermarks
+```
+
+### Build and export
+
+1. Run the super prompt and save the page text.
+2. Build pages in Canva at US Letter; duplicate and resize to A4 (Canva 'Resize') and fix any overflow.
+3. Build the five 1080 x 1920 story templates; lock background elements.
+4. Export printables as PDF Print (300 DPI) - one Letter PDF, one A4 PDF.
+5. Create a Canva template share link for the story templates ('Share > Template link').
+6. Make a one-page PDF 'access' file with the template link and printing tips.
+7. Upload the PDFs and access file to Etsy as a digital download; test the download yourself.
+
+### Listing copy prompt
+
+```text
+Write an Etsy listing for a digital download: a December 2026 small-wins tracker for adults plus five editable 'gold star' story templates. Title under 140 characters starting with 'December 2026 Printable Tracker' and mentioning gold star, small wins and Canva templates. 13 tags of 20 characters or fewer. Description: what's included page by page, US Letter and A4 PDFs, Canva template link (free Canva account works), instant download, no physical item. FAQ: can I edit it?, which printer settings?, refunds on digital items. Forbid any brand, platform, retailer, film, song, character or celebrity names, and make no mental-health or productivity promises.
+```
+
+### Where to list
+
+- **Etsy** (primary): Printable planner buyers search there
+- **Gumroad** (secondary): Direct link for social posts; pay-what-you-want option
+- **Pinterest** (traffic): December planner and printable searches start in November
+
+**Positioning:** A kind, slightly smug December tracker for adults - and the templates to post your own gold stars.
+
+### Launch plan
+
+- **Day 0:** Publish on Etsy and Gumroad; cross-link with the sticker sheet
+- **Day 1:** Post your own gold-star post made with the template
+- **Day 3:** 5 Pinterest pins of the calendar page
+- **Day 7:** Flip-through video of the pages
+- **Day 14:** Review views/sales; refresh thumbnail
+- **Day 21:** Go/pivot/stop as for the sticker sheet; pivot to a January 2027 version if December is too late
+
+### Marketing channels
+
+| Channel | What to do | How often |
+|---|---|---|
+| Pinterest | Calendar-page pins and 'December printable' boards | 5 pins/week |
+| Instagram | Template-made gold-star posts | 2/week |
+
+**Search phrases to test (suggestions, not measured volumes):** december printable, december 2026 calendar, gold star chart adults, small wins tracker, canva story template
+
+**Hooks:**
+- Your December gold star chart (no streaks, no guilt)
+- Make your own gold star post in 2 minutes
+
+### Profit per sale
+
+Suggested price $5.00 (range $3.50–$7.00, estimate). Short seasonal printable; priced as an impulse add-on next to the sticker sheet
+
+| Channel | Price | Fees | Product + shipping | You keep | Margin |
+|---|---|---|---|---|---|
+| Etsy | $5.00 | $0.93 | $0.00 | **$4.08** | 82% |
+| Gumroad | $5.00 | $1.00 | $0.00 | **$4.00** | 80% |
+
+Product cost basis: digital. Cash at risk $0.20; break-even 1 sale(s).
+
+### Asymmetry
+
+- **Risk:** $0.20 and about 5 hours; answer in about 21 days.
+- **What you risk:** 4-6 hours, $0 cash
+- **What stays open:** Zero marginal cost; re-dates easily each month
+- **Bad bet if:** The format has faded by mid-November or Etsy search for the phrase stays near zero
+
+**Ways to extend:** January 2027 version; Teacher/office edition; Bundle with the sticker sheet
+
+**Risks:** Short window; Plenty of generic December printables compete; Template-link sharing can leak
+
+**Validation test:** Cross-list with the sticker sheet; 10 pins in week one
+
+**Continue if:** Any sale by Nov 20 · **Change direction if:** Re-date to January 2027 if December interest is thin · **Stop if:** No views from pins after 3 weeks
+
+---
+
 ## Lock In 2027: 12-Week Q1 Sprint Planner
 
 **Trend:** The Great Lock-In (Prepare) · **Format:** planner (digital) · **Asymmetry:** Strongly asymmetric (76/100)
@@ -1718,6 +3321,232 @@ Product cost basis: digital. Cash at risk $14.20; break-even 2 sale(s).
 **Validation test:** Pre-list by Nov 15 so the listing ages. Pin weekly. Start TikTok 'plan my 2027 lock-in' content around Dec 15.
 
 **Continue if:** Sales or rising favorites by Dec 20. If so, add the KDP paperback and a Q2 refill. · **Change direction if:** The lock-in name gets no traction: retitle around '12-week year' or 'Q1 sprint' wording. · **Stop if:** No sales by Jan 10, 2027.
+
+---
+
+## A Very Accurate Guide to Narrow Things Printable Poster
+
+**Trend:** Chile memes (everything is narrow) (Prepare) · **Format:** poster (digital) · **Asymmetry:** Strongly asymmetric (76/100)
+
+**Buyer:** Meme fans, students and geography teachers
+
+### Super prompt
+
+```text
+You are a graphic designer creating an original, printable humor poster in the style of a vintage field guide, titled "A Very Accurate Guide to Things in Chile" (with a small subtitle "according to the internet"). It celebrates the autumn-2026 meme that everything in Chile is as long and narrow as the country.
+
+BUYER AND JOB: Meme fans, geography teachers and students who want a funny dorm or classroom wall print, and people buying a quick digital gift. It is an instant download they print at home or at a print shop.
+
+DELIVERABLE SPEC: One poster design delivered in five ratio files: 2:3 (24x36 in), 3:4 (18x24 in), 4:5 (16x20 in), ISO A-series (A4, A3, A2) and US Letter 8.5x11 in. 300 DPI.
+Layout: title band at the top; a 4x3 grid of 12 numbered "specimens", each an everyday object illustrated tall and narrow, with a fake Latin-style label (make these up, e.g. "Autobus elongatus") and a one-line deadpan caption (max 10 words); a narrow map outline of Chile running down the right margin as a ruler, marked "actual width (approx.)"; footer: "Plate No. 1 - Narrow Studies".
+Specimens: bus, house, soccer field, dog, sofa, bicycle, pool, bed, school desk, sandwich, guitar, umbrella.
+Write all 12 Latin-style names and captions.
+
+FONTS (two Canva pairings): A) "Playfair Display" + "Courier Prime"; B) "DM Serif Display" + "IBM Plex Mono".
+PALETTE: Andes snow #F7F4EE, Pacific blue #1F5C99, chili red #D6372E, desert sand #E3C08D, cactus green #5B8C5A, ink #1C1C1C, on an aged paper background #F2EAD8.
+
+ACCURACY AND RESPECT: The map outline must be shaped like Chile's real long north-south outline; do not invent place names or facts. If you include a fact, use only that Chile is long and narrow. No coat of arms, seals, real buildings, real people, brand logos, sports crests. Affectionate tone; no jokes about politics, disasters or people.
+
+DIFFERENTIATION: Turns a fast meme into a design object with a 'vintage science plate' aesthetic that still looks good after the joke cools.
+
+OUTPUT FORMAT: (1) final title and subtitle; (2) table of 12 specimens with Latin-style name, caption and image-model prompt; (3) layout instructions per ratio; (4) a 'print at home' instruction card text.
+
+SELF-CHECK: 12 specimens; captions under 10 words; no protected marks; map recognizable; every image prompt ends with the negative list.
+```
+
+**Image prompt 1 (Specimen illustration (repeat per object); Midjourney or ChatGPT images):**
+
+```text
+Vintage natural-history engraving style illustration of a sofa stretched extremely tall and narrow, cross-hatched ink #1C1C1C linework with light chili red #D6372E and Pacific blue #1F5C99 watercolor wash, on aged paper #F2EAD8, centered, 2:5 portrait, plain background. No logos, no real people, no trademarked characters, no watermarks, no text.
+```
+
+**Image prompt 2 (Listing mockup; Canva mockup or ChatGPT images):**
+
+```text
+Framed poster on a dorm room wall above a desk, the poster shows a vintage field-guide grid of tall narrow illustrated objects with a long narrow map down the side, warm daylight, 4:5. No logos, no real people, no trademarked characters, no watermarks.
+```
+
+### Build and export
+
+1. Generate text with the super prompt; generate the 12 specimen illustrations.
+2. Build the master layout in Canva at 24x36 in; add text with the font pairing.
+3. Resize copies to 18x24, 16x20, A-series and US Letter; check margins.
+4. Export each as PDF Print, 300 DPI (and JPG for the 2:3).
+5. Bundle files into one ZIP plus a one-page 'how to print' PDF.
+6. Create 3 mockups (framed, dorm, classroom).
+7. List as an instant download on Etsy; add Gumroad as a direct link.
+
+### Listing copy prompt
+
+```text
+Write an Etsy digital-download listing for a vintage field-guide style humor poster of everyday objects drawn tall and narrow, based on the 'everything in Chile is narrow' meme. Title under 140 characters front-loading "Chile Meme Poster". 13 tags of 20 characters or fewer. Description: files included (sizes), 300 DPI PDF, instant download, no physical item shipped, how to print. 4-question FAQ. No trademarks, brands, sports clubs or real people.
+```
+
+### Where to list
+
+- **Etsy** (primary): Printable wall-art buyers search there
+- **Gumroad** (secondary): Direct link from videos
+- **Pinterest** (traffic): Wall-art discovery
+
+**Positioning:** Meme turned museum print.
+
+### Launch plan
+
+- **Day 0:** List on Etsy and Gumroad.
+- **Day 1:** TikTok: zoom through each specimen with deadpan voiceover captions.
+- **Day 3:** Pinterest pins of the 3 mockups.
+- **Day 7:** Teacher-angle post: 'geography classroom humor'.
+- **Day 14:** Go/pivot/stop check.
+- **Day 21:** Bundle with sticker pack if both sell.
+
+### Marketing channels
+
+| Channel | What to do | How often |
+|---|---|---|
+| Pinterest | Mockup pins in dorm/classroom decor | 5/week |
+| TikTok | Specimen zoom video | 2/week |
+
+**Search phrases to test (suggestions, not measured volumes):** chile meme poster, funny geography poster, vintage field guide print, dorm wall art funny
+
+**Hooks:**
+- Scientists have catalogued Chile's narrowest objects
+- Plate No. 1: Narrow Studies
+
+### Profit per sale
+
+Suggested price $5.00 (range $3.50–$8.00, estimate). Typical digital humor poster range; low price for impulse meme buyers.
+
+| Channel | Price | Fees | Product + shipping | You keep | Margin |
+|---|---|---|---|---|---|
+| Etsy | $5.00 | $0.93 | $0.00 | **$4.08** | 82% |
+| Gumroad | $5.00 | $1.00 | $0.00 | **$4.00** | 80% |
+
+Product cost basis: digital. Cash at risk $0.20; break-even 1 sale(s).
+
+### Asymmetry
+
+- **Risk:** $0.20 and about 9 hours; answer in about 21 days.
+- **What you risk:** About 8-10 hours, $0.20 listing fee.
+- **What stays open:** Digital, zero marginal cost, decorative enough to sell beyond the meme.
+- **Bad bet if:** Etsy discovery takes longer than the meme lasts and no Pinterest traction follows.
+
+**Ways to extend:** Series: other geography in-jokes using generic shapes; Postcard set
+
+**Risks:** Slow Etsy discovery vs a fast meme; Taste risk if read as mocking
+
+**Validation test:** Launch after stickers get favorites; 3 weeks on Etsy + Pinterest
+
+**Continue if:** 3+ sales in 21 days · **Change direction if:** Pins saved but no sales: sell as a phone wallpaper pack · **Stop if:** No sales in 21 days
+
+---
+
+## Kids' Calling Cards
+
+**Trend:** Kids' Landline Phones (Test now) · **Format:** template (digital) · **Asymmetry:** Strongly asymmetric (76/100)
+
+**Buyer:** Parents of 6-12-year-olds whose kids swap home-phone numbers with friends
+
+### Super prompt
+
+```text
+You are a stationery designer. Produce an editable "Kids' Calling Cards" template set for children who have their own home phone and want to swap numbers with friends at school or activities (like retro business cards).
+
+BUYER AND JOB: Parents of kids aged 6-12 with a home phone that only calls approved contacts. Kids hand a card to a friend; the friend's parent sets up the contact. The card carries the details the other parent needs.
+
+DELIVERABLE SPEC:
+- 12 original card designs at standard 3.5x2 in business-card size, front and back, plus a 10-up US Letter and A4 print sheet with crop marks.
+- Front: child's first name, a fun title line ("Official Caller", "Chief Chatter", "Best Phone Friend"), and an illustration.
+- Back: "Call me at: ____", "Grown-up's name: ____", "Grown-up's number (to approve contacts): ____", "Best times to call: ____", and a small note line: "Ask your grown-up to add me!"
+- Themes: rainbow, dinosaurs, space, kitty, soccer, ballet, robots (generic, original), ocean, garden, rocket, retro 90s squiggles, plain classic.
+- A matching "Friend Swap" pocket envelope template (printable, fold-and-glue) and a sheet of 20 small sticker labels with "Call me!" phrasing.
+- A one-page parent note explaining how to use the cards with any home phone that has approved contacts (no brand names).
+
+DESIGN: Pairings: (a) "Fredoka" + "Nunito"; (b) "Gochi Hand" + "Quicksand". Palette: Bubblegum #FF8FAB, Grape #7B5EA7, Lemon #FFE66D, Teal #4ECDC4, Cream #FFF8EC, Ink #2B2D42.
+
+RULES: Original artwork descriptions only; no characters from films, shows or games; no company or product names. Privacy note in the parent page: only share cards with people you know; first names only on the front.
+
+DIFFERENTIATION: Made for the kids' home-phone moment (a parent-approval line on every card), unlike generic kids' business cards. Write the title lines and parent note in a warm, playful voice that a 7-year-old can read aloud, and make every design print well on a home inkjet printer (avoid full-bleed dark backgrounds and keep text at least 0.125 in from the trim edge).
+
+OUTPUT: For each of the 12 designs, give the exact text and an illustration description; then the print-sheet specs, envelope template dimensions, sticker sheet layout and the parent note. End with a self-check: 12 designs; card size 3.5x2 in; parent approval line on every back; no IP; privacy note included.
+```
+
+**Image prompt 1 (Listing cover; Ideogram or ChatGPT images):**
+
+```text
+A fan of colorful kids' business-style cards with playful original illustrations (rainbow, dinosaur, rocket, kitty), front text 'MAYA - Official Caller', a small envelope reading 'Friend Swap'. Palette #FF8FAB #7B5EA7 #FFE66D #4ECDC4 on cream #FFF8EC. 4:5 aspect ratio. No logos, no real people, no trademarked characters, no watermarks.
+```
+
+### Build and export
+
+1. Generate the text and design descriptions with the super prompt.
+2. In Canva, create a 3.5x2 in design; build 12 front/back designs.
+3. Make a 10-up US Letter and A4 print sheet with crop marks.
+4. Build the envelope template and sticker sheet.
+5. Share the editable Canva template link and export print-ready PDFs at 300 DPI.
+6. Create mockups and a bundle listing with the Starter Kit.
+
+### Listing copy prompt
+
+```text
+Write an Etsy listing for editable 'Kids' Calling Cards': 12 retro business-card designs (3.5x2 in) for kids to swap home-phone numbers with friends, each with a parent-approval line on the back, plus a friend-swap envelope and 'call me' stickers (editable template plus US Letter and A4 PDFs). Give a title under 140 characters front-loading 'kids calling cards'; 13 tags, each 20 characters or fewer; a description; and an FAQ including a privacy tip. No character, company or product trademarks.
+```
+
+### Where to list
+
+- **Etsy** (primary): Kids' printable stationery category.
+- **Pinterest** (traffic): Visual cards pin well.
+
+**Positioning:** Like business cards, but for 8-year-olds with a home phone.
+
+### Launch plan
+
+- **Day 0:** Publish the listing with a flat-lay mockup beside a generic corded phone and a page-flip video.
+- **Day 1:** Pin 6 images: contact cards, message pad, answer-the-phone poster, gift insert, label sheet, emergency page.
+- **Day 3:** Post a short video of a child-safe setup demo (hands only): making the phone book with the kit.
+- **Day 6:** Offer the message pad free on Payhip for email sign-ups.
+- **Day 9:** Share in parenting and 'phone-free childhood' groups that allow resources (check the community rules).
+- **Day 14:** Add gift-focused tags and the holiday insert image; refresh the title if views are low.
+- **Day 18:** Start the 'under the tree' pin series for November.
+- **Day 21:** Go/pivot/stop check against thresholds.
+
+### Marketing channels
+
+| Channel | What to do | How often |
+|---|---|---|
+| Pinterest | Kids' home phone setup and gift pins | 5-8 pins per week, more in November |
+| Short-form video | Hands-only setup demos and 'how my kid answers the phone' scripts | 3 per week |
+| Parenting communities | Free message pad where allowed (check the community rules) | Weekly |
+
+**Search phrases to test (suggestions, not measured volumes):** kids calling cards, playdate cards, kids business cards, kids landline, phone number cards, friend cards kids
+
+**Hooks:**
+- My kid handed out calling cards at school. The other parents loved it.
+- Retro calling cards for kids with a home phone.
+
+### Profit per sale
+
+Suggested price $5.00 (range $4.00–$8.00, estimate). Impulse add-on; bundled with the Starter Kit at $12.
+
+| Channel | Price | Fees | Product + shipping | You keep | Margin |
+|---|---|---|---|---|---|
+| Etsy | $5.00 | $0.93 | $0.00 | **$4.08** | 82% |
+
+Product cost basis: digital. Cash at risk $0.20; break-even 1 sale(s).
+
+### Asymmetry
+
+- **Risk:** $0.20 and about 8 hours; answer in about 21 days.
+- **What you risk:** About 8 hours. A small standalone market.
+- **What stays open:** Raises the Starter Kit's average order value at zero marginal cost.
+- **Bad bet if:** Sold alone without the Starter Kit traffic.
+
+**Ways to extend:** Playdate invitation set; Seasonal designs; Classroom pen-pal version
+
+**Risks:** Small standalone demand; Privacy concerns, so keep first-name-only fronts
+
+**Validation test:** List as a standalone and as a bundle add-on to the Starter Kit; compare favorites over 21 days.
+
+**Continue if:** 3+ sales in 21 days or a bundle attach rate above 30%. · **Change direction if:** Low standalone interest: fold into the Starter Kit as a bonus. · **Stop if:** No favorites in 21 days.
 
 ---
 
@@ -2192,6 +4021,594 @@ Product cost basis: digital. Cash at risk $14.20; break-even 3 sale(s).
 
 ---
 
+## Phone-Free Night Host Kit
+
+**Trend:** Phone-free nights (hosted phone-free socials) (Prepare) · **Format:** printable (digital) · **Asymmetry:** Strongly asymmetric (75/100)
+
+**Buyer:** People hosting a phone-free game night, dinner or birthday at home, plus small bars, cafes and community groups starting a monthly phone-free night
+
+### Super prompt
+
+```text
+You are an event host and party-game designer. Write the full content of a printable product called 'Phone-Free Night Host Kit'. BUYER AND JOB: people hosting a phone-free dinner, game night or birthday at home, and small bars, cafes and community groups starting a monthly phone-free night. The kit makes collecting phones feel friendly, and fills the evening with things to do once phones are away. DELIVERABLE SPEC (US Letter 8.5x11 in and A4; cards 8-up at 3.5x2.5 in with crop marks): 1) Host guide (1 page): how to announce it in the invite (3 sample invite lines), where to put phones, an emergency-contact rule (a host phone or landline number guests can share with family), timing for a 2-3 hour night. 2) Phone check-in tickets: 40 numbered ticket pairs (one for the guest, one to tape to the phone or pouch). 3) Signs: welcome sign 'Phones are resting tonight', phone basket label, house-rules poster with 5 friendly rules, 'Photo time' card for an optional 5-minute group photo moment, and a venue edition of each with space for the venue name. 4) 60 conversation cards in 4 decks (Warm-up, Nostalgia, Would-You-Rather, Deeper), 15 each, all original and inclusive. 5) Six original pen-and-paper party games, each with a one-page rule sheet and printable score sheet: a category-listing game, a drawing-telephone style game, a 'two truths' variant, a team trivia template with blank question slots, a word-chain race, and a group story game. Give each an original name; write rules in your own words. 6) A 'What we did instead of scrolling' guestbook page and a 'next phone-free night' sign-up sheet. 7) A camera-cover reminder strip sheet (small printable labels reading 'In the moment' sized 1x0.5 in) with a note to use removable label paper. STYLE: warm, retro analog. Canva font pairings: (1) Archivo Black headings + IBM Plex Mono body; (2) Recoleta + Karla. Palette: Tomato #E4572E, Cream #FFF4E0, Mustard #F2B134, Forest #2F5D50, Night #1E1E24. CONTENT RULES: everything original; do not name or copy any commercial game, app, device or brand; no claims about mental health benefits; keep it friendly and never shaming about phone use; inclusive and alcohol-optional. DIFFERENTIATION: one kit that covers both the phone logistics and the activities, in home and venue editions. OUTPUT FORMAT: section by section, headed 'SECTION n - name', all text with layout notes in brackets, then a short print guide. SELF-CHECK before answering: 40 ticket pairs numbered 1-40; 60 unique cards; 6 games each with rules and a score sheet; an emergency-contact note present; no brand or game trademarks; no health claims; palette and fonts used.
+```
+
+**Image prompt 1 (Listing hero; Ideogram or ChatGPT images):**
+
+```text
+Cozy living-room table with a woven basket holding several face-down generic phones with numbered paper tickets, printed conversation cards and a score sheet with pencils, warm lamp light, retro palette #E4572E #FFF4E0 #F2B134 #2F5D50 #1E1E24, a small sign reading 'Phones are resting tonight', 4:3 aspect ratio. No logos, no real people, no trademarked characters, no watermarks.
+```
+
+**Image prompt 2 (Pinterest pin; Ideogram):**
+
+```text
+Vertical retro poster-style graphic, headline 'Host a Phone-Free Night' in bold blocky type in tomato #E4572E on cream #FFF4E0, icons of a basket, cards and a pencil in forest #2F5D50 and mustard #F2B134, subline 'printable kit: tickets, signs, games', 2:3 aspect ratio. No logos, no real people, no trademarked characters, no watermarks.
+```
+
+### Build and export
+
+1. Run the super prompt and lay out each section in Canva on US Letter pages.
+2. Build the 40 ticket pairs with Canva's bulk-create or a numbered table; check numbering.
+3. Set card sheets 8-up at 3.5x2.5 in with crop marks; set label strips at 1x0.5 in.
+4. Make the venue edition by duplicating signs and adding an editable venue-name field; share it as a Canva template link.
+5. Resize to A4 and fix overflow.
+6. Export PDF Print at 300 DPI (with crop marks for cards and tickets).
+7. Bundle home and venue PDFs plus the Canva link page; test-print tickets and one card sheet.
+
+### Listing copy prompt
+
+```text
+Write an Etsy listing for a digital download 'Phone-Free Night Host Kit'. Title under 140 characters starting with 'Phone Free Party Printable Kit'. Exactly 13 tags of 20 characters or fewer (e.g. phone free party, game night printable, conversation cards, screen free night, party games adults). Description: what's included (40 numbered phone check tickets, signs, 60 conversation cards, 6 original paper games with score sheets, guestbook, label strips, venue edition with Canva link), US Letter and A4, instant download, nothing ships. FAQ: printing, venue use license, ages, group size, editing. Do not use any brand, device, app or commercial game names, and make no mental-health or wellbeing claims.
+```
+
+### Where to list
+
+- **Etsy** (primary): Party printables are searched there
+- **Pinterest** (traffic): Game-night and party-planning pins
+- **Payhip** (secondary): Direct link for venue outreach
+
+**Positioning:** Everything you need to host a phone-free night that's fun, not awkward.
+
+### Launch plan
+
+- **Day 0:** Publish the Etsy and Payhip listings
+- **Day 1:** Post 4 pins (kit overview, tickets, games, signs)
+- **Day 2:** Reel or TikTok: guests dropping phones in the basket with tickets, then playing a game
+- **Day 4:** DM 8 local bars and cafes that post about game or analog nights
+- **Day 7:** Pin and post a Friendsgiving phone-free angle
+- **Day 10:** Contact 7 more venues; share a free conversation-card sheet
+- **Day 14:** Review results; start $1/day Etsy Ads if favorites are coming in
+- **Day 21:** Go/pivot/stop check, with holiday party edition planning
+
+### Marketing channels
+
+| Channel | What to do | How often |
+|---|---|---|
+| Pinterest | Party-planning and game-night pins | 3-4 pins per week |
+| Venue outreach | Venue edition plus a free sample | Weekly batch of 7-8 |
+
+**Search phrases to test (suggestions, not measured volumes):** phone free party, game night printable, screen free night, conversation cards printable, friendsgiving games
+
+**Hooks:**
+- Phones in the basket, fun on the table
+- Your friends' new favorite rule
+- Host the night nobody posts
+
+### Profit per sale
+
+Suggested price $9.00 (range $6.00–$15.00, estimate). Party kit pricing; the venue edition justifies the upper range.
+
+| Channel | Price | Fees | Product + shipping | You keep | Margin |
+|---|---|---|---|---|---|
+| Etsy | $9.00 | $1.31 | $0.00 | **$7.70** | 86% |
+| Payhip | $9.00 | $1.01 | $0.00 | **$7.99** | 89% |
+
+Product cost basis: digital. Cash at risk $14.20; break-even 2 sale(s).
+
+### Asymmetry
+
+- **Risk:** $14.20 and about 12 hours; answer in about 21 days.
+- **What you risk:** About 12 hours and up to $14 in ads
+- **What stays open:** Evergreen party category with holiday peaks; venue edition can bring repeat or referral buyers
+- **Bad bet if:** Phone-free events stay venue-run with venue-made materials, and home hosts do not search for kits
+
+**Ways to extend:** Friendsgiving and holiday editions; Phone-free birthday kit; Venue monthly-night poster series
+
+**Risks:** Overlaps generic game-night printables; Growth data comes mostly from one company's report; Trend may stay concentrated in nightlife and concerts
+
+**Validation test:** List on Etsy and pitch the venue edition to 15 bars, cafes or bookstores that announce analog or phone-free nights within 10 days.
+
+**Continue if:** 3+ sales or 2+ venue inquiries within 21 days · **Change direction if:** Home hosts buy, venues do not: lean into holiday party and Friendsgiving phone-free editions · **Stop if:** No sales and under 300 listing views by day 21
+
+---
+
+## Velvet Moon Whimsigoth Gallery Wall (9 prints)
+
+**Trend:** Whimsigoth fall 2026 (sequel-driven revival) (Prepare) · **Format:** printable (digital) · **Asymmetry:** Strongly asymmetric (75/100)
+
+**Buyer:** Women 20-45 decorating for fall and Halloween in a moody, romantic witchy style
+
+### Super prompt
+
+```text
+You are an illustrator and art director creating a sellable printable gallery-wall set in the whimsigoth aesthetic: 90s whimsical gothic, romantic and celestial, jewel-toned, slightly vintage. BUYER: women aged 20-45 decorating for fall and Halloween who want a moody, magical wall without buying framed art. JOB: a cohesive 9-print gallery wall they can print at home or at a print shop this week. DELIVERABLE: 9 prints plus a layout guide. For each print give: title, concept, a full image-generation prompt, composition notes, and any text. Print 1: crescent moon with a serene face in an ornate gold frame motif. Print 2: apothecary shelf with labeled jars (labels read only: Lavender, Rosemary, Moonwater, Sage). Print 3: celestial chart of original invented constellations. Print 4: velvet-dark botanical of foxglove and ivy. Print 5: an original tarot-style card titled 'The Lantern' (invented, not from any published deck). Print 6: a candle-lit window with stars. Print 7: a black cat silhouette on a crescent moon. Print 8: moon phases strip. Print 9: a small typographic print reading 'stay a little magic'. SIZES: 2:3, 3:4, 4:5, 11x14 in, ISO A-series, all 300 DPI; layout guide on US Letter and A4. PALETTE: Plum Velvet #4B2142, Peacock #1F5C5C, Antique Gold #B8913A, Midnight #1A1A2E, Candle Cream #EFE4CF, Rosewood #8C3B4A. FONTS (Canva): pairing A, Cinzel Decorative headings with Cormorant Garamond body; pairing B, IM Fell English with EB Garamond. CONTENT RULES: everything original. Do not reference any film, TV show, book, character, house or quote. Do not copy any published tarot deck. Herb names must be real plants. No occult claims or promises. DIFFERENTIATION: one jewel-tone palette across 9 prints with a layout guide and frame-size map, so the wall looks curated. RIGHTS: no film titles, names, stills, or recognizable sets; no logos; no real people. OUTPUT: Section 1, set overview. Sections 2-10, one per print. Section 11, a layout guide with 3 arrangements (3x3 grid, salon-style, mantel trio) with frame sizes. Section 12, a 'printing tips' page. Section 13, 3 short video scripts. SELF-CHECK: (1) no film or IP references anywhere, (2) the tarot card is invented, (3) palette hexes used consistently, (4) every print has all sizes, (5) the only text in the art is the jar labels, card title and print 9.
+```
+
+**Image prompt 1 (Print 1 crescent moon; Midjourney or Ideogram):**
+
+```text
+Vintage-style illustration of a serene crescent moon with a sleeping face, surrounded by an ornate antique gold #B8913A filigree frame, deep plum velvet background #4B2142 with tiny cream stars #EFE4CF, 90s whimsical gothic mood, subtle engraving texture, no text, 2:3 aspect ratio. No logos, no real people, no trademarked characters, no watermarks.
+```
+
+**Image prompt 2 (Print 2 apothecary shelf; Ideogram):**
+
+```text
+Moody apothecary shelf with glass jars of dried herbs, small hand-lettered labels reading exactly 'Lavender', 'Rosemary', 'Moonwater', 'Sage', candlelight, peacock teal #1F5C5C wall, gold accents #B8913A, painterly, 4:5 aspect ratio. No logos, no real people, no trademarked characters, no watermarks.
+```
+
+**Image prompt 3 (Print 5 original tarot-style card; Ideogram):**
+
+```text
+Original tarot-style card design titled exactly 'The Lantern' at the bottom, a cloaked figure's hand holding a glowing lantern in a starry forest, art nouveau border in antique gold #B8913A on midnight #1A1A2E, invented design not based on any existing deck, 2:3 aspect ratio. No logos, no real people, no trademarked characters, no watermarks.
+```
+
+**Image prompt 4 (Gallery wall mockup; Canva mockup or Midjourney):**
+
+```text
+Dark plum painted wall #4B2142 with nine mismatched vintage gold and black frames in a salon arrangement above a velvet sofa, candles and dried flowers, warm evening light, photographic, 4:5 aspect ratio, frames blank for compositing. No logos, no real people, no trademarked characters, no watermarks.
+```
+
+### Build and export
+
+1. Generate the 9 prints and upscale to 300 DPI at the largest size
+2. Set up Canva designs per ratio; place art with safe margins; add text for print 9 using pairing A
+3. Create the layout guide pages with frame-size maps (US Letter and A4)
+4. Export PDF Print 300 DPI and JPG; name files by print number and ratio
+5. Zip by ratio, keeping each under 20 MB; add the instructions PDF
+6. Make 6 listing images: gallery mockup, 9-up grid, close-up details, layout guide, sizes chart, what's included
+7. Film 3 short videos from the scripts (layout reveal, print-and-frame, close-up pan)
+
+### Listing copy prompt
+
+```text
+Write an Etsy listing for a digital download: 9 printable whimsigoth gallery wall prints in jewel tones (plum, peacock, antique gold) with a layout guide. Title under 140 characters, starting with 'Whimsigoth Gallery Wall Set of 9'. 13 tags of 20 characters or fewer (e.g. whimsigoth decor, celestial wall art, witchy print set, dark academia art, moon print). Description: what's included, sizes and ratios, PDF/JPG 300 DPI, instant download and nothing ships, printing and framing tips, and a FAQ (print shops, color differences, personal use only). Do NOT mention any movie, TV show, book, character, actor or trademarked term, and do not imply affiliation with any film.
+```
+
+### Where to list
+
+- **Etsy** (primary): Heavy seasonal search for witchy/celestial printables
+- **Pinterest** (traffic): Fall and Halloween decor boards peak now
+- **TikTok** (traffic): Gallery wall reveals perform well
+
+**Positioning:** A curated, jewel-tone whimsigoth wall in one download, ready before Halloween
+
+### Launch plan
+
+- **Day 0:** Publish listing on Etsy (aim for Oct 6-8)
+- **Day 1:** 10 pins: mockup, grid, each print
+- **Day 2:** TikTok/Reel: gallery wall reveal
+- **Day 4:** 10 more pins with room-specific titles
+- **Day 6:** Second video: print-and-frame process
+- **Day 7:** Review views; consider $1/day Etsy Ads for 7 days only if 100+ organic views
+- **Day 12:** Release a 3-print mini set at $5
+- **Day 18:** Last-minute Halloween push: 'print tonight' pins and video
+- **Day 25:** Go/pivot/stop: continue (add winter-solstice set) at 5+ sales; pivot to mini sets if favorites only; stop under 100 views
+
+### Marketing channels
+
+| Channel | What to do | How often |
+|---|---|---|
+| Pinterest | Gallery wall and single-print pins on fall decor keywords | 2-3 pins daily |
+| TikTok/Instagram Reels | Wall reveal, close-up pans, 'print tonight for Halloween' | 3 per week through Oct 31 |
+
+**Search phrases to test (suggestions, not measured volumes):** whimsigoth decor, celestial wall art, witchy gallery wall, moon print set, dark romantic decor, fall printable art
+
+**Hooks:**
+- Your whimsigoth wall in one download
+- Print it tonight, hang it before Halloween
+- 90s witchy energy, jewel-tone edition
+
+### Profit per sale
+
+Suggested price $14.00 (range $9.00–$19.00, estimate). A 9-print curated set sits above single prints but below large bundles; seasonal urgency supports $14
+
+| Channel | Price | Fees | Product + shipping | You keep | Margin |
+|---|---|---|---|---|---|
+| Etsy | $14.00 | $1.78 | $0.00 | **$12.22** | 87% |
+
+Product cost basis: digital. Cash at risk $0.20; break-even 1 sale(s).
+
+### Asymmetry
+
+- **Risk:** $0.20 and about 8 hours; answer in about 25 days.
+- **What you risk:** About 8 hours and under $1 in fees (ads optional, max $7)
+- **What stays open:** Seasonal sales now plus an evergreen witchy/celestial tail; the set reuses into stickers and wallpapers
+- **Bad bet if:** The listing is not indexed before about Oct 20, or competition buries it; this is not a high-asymmetry bet because supply is heavy
+
+**Ways to extend:** Winter solstice whimsigoth set; Sticker sheet of the motifs; Whimsigoth phone wallpapers; Planner/journal covers
+
+**Risks:** High competition; Late in the Halloween season; Accidental IP drift (film references in tags)
+
+**Validation test:** List the 9-print set by Oct 8; 20 Pinterest pins; 3 Reels/TikToks of the layout
+
+**Continue if:** At least 5 sales by Oct 31 · **Change direction if:** Favorites but few sales: split into 3-print sets at $5 and add a winter-solstice version · **Stop if:** Under 100 views by Oct 20
+
+---
+
+## 2027 PTO-Maxxing Planner (Google Sheets + printable year view)
+
+**Trend:** PTO-maxxing for 2027 (year-end PTO planning) (Watch) · **Format:** template (digital) · **Asymmetry:** Strongly asymmetric (75/100)
+
+**Buyer:** US salaried workers and couples planning 2027 leave in Nov-Jan
+
+### Super prompt
+
+```text
+You are a spreadsheet designer and HR-savvy planner writer. Produce the complete specification and content for a Google Sheets template called "2027 PTO-Maxxing Planner", plus a printable one-page 2027 year view.
+
+BUYER AND JOB: US salaried workers (and couples) who have read about PTO-maxxing - placing vacation days in the gaps between weekends and public holidays to get long breaks - and want to plan 2027 in December 2026 before PTO request windows open. Free online optimizers show suggestions; this buyer wants a private sheet that also tracks their balance, accrual, company holidays, carry-over and a partner's or kids' school calendar.
+
+DELIVERABLE SPEC - Google Sheets tabs:
+1. "Start here": 6-step instructions, assumptions, a disclaimer that holiday observance and PTO rules depend on the employer.
+2. "Settings": PTO days available, accrual per pay period (optional), pay frequency, carry-over cap, work days (Mon-Fri default, editable), holiday set selector (US federal; custom).
+3. "Holidays 2027": list the 2027 US federal holidays with observed dates - New Year's Day Fri Jan 1; MLK Day Mon Jan 18; Washington's Birthday Mon Feb 15; Memorial Day Mon May 31; Juneteenth Sat Jun 19 (observed Fri Jun 18); Independence Day Sun Jul 4 (observed Mon Jul 5); Labor Day Mon Sep 6; Columbus/Indigenous Peoples' Day Mon Oct 11; Veterans Day Thu Nov 11; Thanksgiving Thu Nov 25; Christmas Sat Dec 25 (observed Fri Dec 24); plus New Year's Day 2028 Sat Jan 1 (observed Fri Dec 31, 2027). VERIFY every date against the official federal calendar before output and flag any you cannot verify. Add 10 blank rows for company holidays.
+4. "Calendar": 12-month grid; conditional formatting colours weekends, holidays, booked PTO and "bridge" days.
+5. "Bridge finder": formulas that list every gap of 1-4 working days between non-working days, with PTO cost, total days off and an efficiency ratio (days off / PTO), sorted best-first.
+6. "My plan": rows for each break (start, end, PTO used, purpose, status: idea/requested/approved), live remaining-balance counter.
+7. "Two calendars": overlay a partner's holidays or a school-break list (blank date ranges) and highlight overlaps.
+8. Printable year view (US Letter AND A4, landscape): 2027 at a glance with legend.
+
+Write every formula (WORKDAY.INTL / NETWORKDAYS.INTL style) and conditional-format rule exactly.
+
+STYLE: Fonts (Sheets) "Inter"; printable Canva pairings (a) "Space Grotesk" + "Inter", (b) "Fraunces" + "Inter". Palette: holiday #E4572E, PTO #29335C, weekend #D9DCE3, bridge #F3A712, approved #4CAF7A, background #FAFAF7.
+
+RULES: Original wording. No employer, brand or app names. No legal or financial advice; say plainly that the buyer must check their employer's policy and state law. No promises about rest or wellbeing.
+
+DIFFERENTIATION: Free optimizers suggest dates; this is the buyer's own working plan with balance tracking, company holidays and a partner/school overlay.
+
+OUTPUT: tab-by-tab layout (cell ranges), all formulas, conditional formatting rules, holiday table, instructions text, and the printable layout.
+
+SELF-CHECK: every 2027 date and weekday verified (Jan 1, 2027 is a Friday); formulas reference the right ranges; no advice/claims; both print sizes.
+```
+
+**Image prompt 1 (Listing cover; Canva or ChatGPT images):**
+
+```text
+Clean flat graphic of a 2027 year calendar with highlighted long weekends in #29335C and #F3A712, small icons of a suitcase and a mug, background #FAFAF7, large empty band at top for a title, 4:5 aspect ratio, no readable text, no logos, no real people, no trademarked characters, no watermarks
+```
+
+**Image prompt 2 (Laptop mockup; Canva mockup):**
+
+```text
+Laptop on a desk showing a colourful spreadsheet calendar with blocks of orange, navy and green, plant and coffee nearby, soft daylight, 4:5 aspect ratio, no logos, no brand UI, no real people, no trademarked characters, no watermarks
+```
+
+### Build and export
+
+1. Run the super prompt; independently verify every 2027 holiday date and weekday.
+2. Build the tabs in Google Sheets; paste formulas; test with 10, 15 and 20 PTO days.
+3. Protect formula ranges; leave input cells unlocked and highlighted.
+4. Build the printable year view in Canva at Letter landscape; resize to A4; export PDF Print 300 DPI.
+5. Create the 'make a copy' link (replace /edit with /copy) and put it in an access PDF with instructions.
+6. Upload the access PDF and printable PDFs to Etsy as a digital download; test the copy link in a logged-out browser.
+
+### Listing copy prompt
+
+```text
+Write an Etsy listing for a Google Sheets template: 2027 PTO planner that finds long weekends, tracks PTO balance and overlays a partner's or school calendar, plus a printable 2027 year view. Title under 140 characters starting with '2027 PTO Planner Google Sheets' and including vacation planner and long weekends. 13 tags of 20 characters or fewer. Description: tabs, how the copy link works, US federal holidays preloaded (verify with your employer), printable Letter + A4. FAQ: Excel?, mobile?, non-US holidays? Do not name any employer, brand or app besides Google Sheets as the platform, and give no legal or financial advice.
+```
+
+### Where to list
+
+- **Etsy** (primary): Spreadsheet planners and 2027 planners are searched there in Nov-Jan
+- **Gumroad** (secondary): Direct link for LinkedIn/TikTok audiences
+- **Pinterest** (traffic): '2027 planner' and vacation-planning pins
+
+**Positioning:** Plan your 2027 long weekends in December - and actually track the balance.
+
+### Launch plan
+
+- **Day 0:** Publish on Etsy and Gumroad in early November
+- **Day 2:** Carousel: 'the 5 best 2027 bridge days' (verified dates) linking to the template
+- **Day 5:** 10 Pinterest pins on 2027 long weekends
+- **Day 10:** Screen-recording video of the bridge finder
+- **Day 14:** LinkedIn post on year-end PTO planning
+- **Day 21:** Go/pivot/stop: continue if 3+ sales; pivot to a free lead magnet + paid couples version if views but no sales; stop if under 100 views
+- **Jan 15:** Wind down; plan a 2028 version for next November
+
+### Marketing channels
+
+| Channel | What to do | How often |
+|---|---|---|
+| TikTok/Reels | 'Turn 8 PTO days into 16 days off' style hooks with screen recordings | 3/week Nov-Dec |
+| LinkedIn | Year-end planning posts | 1/week |
+| Pinterest | 2027 calendar pins | 5/week |
+
+**Search phrases to test (suggestions, not measured volumes):** 2027 pto planner, vacation planner, long weekends 2027, google sheets planner, 2027 calendar
+
+**Hooks:**
+- Christmas 2027 lands on a weekend - here's how to get 16 days off
+- Plan 2027 PTO before the request window opens
+
+### Profit per sale
+
+Suggested price $9.00 (range $6.00–$14.00, estimate). Competes with free optimizer sites, so price as an affordable upgrade; planner spreadsheets on Etsy commonly sell in this range
+
+| Channel | Price | Fees | Product + shipping | You keep | Margin |
+|---|---|---|---|---|---|
+| Etsy | $9.00 | $1.31 | $0.00 | **$7.70** | 86% |
+| Gumroad | $9.00 | $1.40 | $0.00 | **$7.60** | 84% |
+
+Product cost basis: digital. Cash at risk $0.20; break-even 1 sale(s).
+
+### Asymmetry
+
+- **Risk:** $0.20 and about 11 hours; answer in about 21 days.
+- **What you risk:** About 10-12 hours, $0 cash
+- **What stays open:** Zero marginal cost; re-dates yearly; evergreen 'next year' demand every Nov-Jan
+- **Bad bet if:** Free optimizer tools fully satisfy buyers - likely for many, which makes this not strongly asymmetric
+
+**Ways to extend:** UK bank-holiday edition; Teacher/school-year edition; Team PTO calendar for small managers; 2028 edition
+
+**Risks:** Free tools compete directly; Date errors would cause refunds and bad reviews; Demand for paid PTO tools is unproven
+
+**Validation test:** List in early November; organic only
+
+**Continue if:** 3+ sales by Dec 1 · **Change direction if:** Offer a free basic sheet to build an email list, paid couples version · **Stop if:** Under 100 views by Dec 1
+
+---
+
+## Once a Day / Once a Week / Once a Month Home Rhythm Kit
+
+**Trend:** Once a Day, Once a Week, Once a Month Routine Format (Prepare) · **Format:** printable (digital) · **Asymmetry:** Strongly asymmetric (74/100)
+
+**Buyer:** US renters and homeowners who saved three-bucket routine videos and want a short fridge checklist
+
+### Super prompt
+
+```text
+You are a home-organizing writer and printable designer. Produce the full text content for "Once a Day, Once a Week, Once a Month: The Home Rhythm Kit", a printable and editable set based on the TikTok format where people split a routine into three buckets.
+
+BUYER AND JOB: A US renter or homeowner (25-45) who saved those three-bucket routine videos and wants their own version on the fridge in 10 minutes, without a 40-task cleaning system. They want short lists, a one-glance layout and the freedom to edit.
+
+DELIVERABLE (US Letter 8.5x11 in AND A4; plus 1080x1920 px phone versions of the overview pages):
+1. Cover: title, tagline "Three lists. That's the whole system."
+2. How to use (half page): pick at most 5 tasks per bucket, put it where you see it, review on the 1st of each month.
+3. Master Home Rhythm sheet: three columns titled ONCE A DAY / ONCE A WEEK / ONCE A MONTH, 5 lines each, pre-filled with sensible tasks (e.g. reset kitchen counters; wash bedding; wipe inside the fridge).
+4. Same sheet blank.
+5. Room add-ons (one page each, same three columns, pre-filled): Kitchen, Bathroom, Laundry, Entryway, Car.
+6. Life add-ons (same layout): Dog care, Cat care, Houseplants, Fall/winter home prep, Budget check-ins. Keep pet and plant tasks practical (refresh water, wash bowls, check soil); no veterinary, medical or health advice.
+7. Monthly tracker: a 31-day grid for daily tasks, 5 weekly boxes, 1 monthly box, with a small "done is enough" note.
+8. Phone wallpaper versions of the master sheet (light and dark).
+9. Creator bonus: 6 vertical 1080x1920 slide templates (title slide, three bucket slides, recap, call to action) so buyers can post their own version of the trend.
+
+DESIGN NOTES for Canva: palette Oat #F4EDE1, Sage #9DB5A0, Terracotta #C86B4A, Charcoal #2E2E2E, Butter #F2D78C. Font pairing A: DM Serif Display + Inter. Font pairing B: Fraunces + Work Sans. Calm, airy, big column headers, checkbox squares, printer-friendly.
+
+RULES: Original wording only. Keep every bucket to 5 tasks or fewer. No product or brand names (no cleaning-product brands). No health, mental-health or productivity-outcome promises; do not mention ADHD or any condition. Neutral, warm tone, grade 6 reading level.
+
+DIFFERENTIATION: Most cleaning schedules are long daily/weekly/monthly/seasonal lists. This kit matches the exact three-bucket wording people are using on TikTok, caps each list at 5, adds pet, plant and car add-ons, and includes vertical slide templates for people who want to post their own routine.
+
+OUTPUT FORMAT: Page by page with headings "PAGE n - name"; list each column's tasks as numbered lines; give slide text for each of the 6 creator slides (max 12 words per slide).
+
+SELF-CHECK: (1) every bucket has 5 or fewer tasks; (2) no brand or condition names; (3) all pages present for both page sizes; (4) phone and slide sizes stated as 1080x1920 px; (5) no outcome promises.
+```
+
+**Image prompt 1 (Cover illustration; Ideogram or ChatGPT images):**
+
+```text
+Minimal line illustration of three small clocks labeled with a sun, a calendar page and a moon, above a tidy kitchen shelf with a plant, muted palette #9DB5A0 #C86B4A #F2D78C #2E2E2E on #F4EDE1, text rendered exactly: "Once a Day. Once a Week. Once a Month.", portrait 3:4. No logos, no real people, no trademarked characters, no watermarks.
+```
+
+**Image prompt 2 (Fridge mockup; Canva mockup):**
+
+```text
+Photo-style mockup of a printed three-column checklist held by a magnet on a white refrigerator door, soft morning light, blank sheet area for overlay, accents #9DB5A0 #C86B4A, portrait 4:5. No logos, no real people, no trademarked characters, no watermarks.
+```
+
+### Build and export
+
+1. Run the super prompt; trim any bucket over 5 tasks.
+2. In Canva build one US Letter master page with three columns and checkboxes; reuse it for every add-on page.
+3. Fill pages from the AI output; keep fonts at 11 pt or more for print.
+4. Duplicate and resize to A4; check overflow.
+5. Create 1080x1920 phone wallpapers and the 6 creator slides; share those as a Canva template link ('use template').
+6. Export print pages as PDF Print 300 DPI; export wallpapers as PNG.
+7. Package: PDF (Letter), PDF (A4), PNG wallpapers, and a PDF page with the Canva template link.
+
+### Listing copy prompt
+
+```text
+Write an Etsy listing for "Once a Day Once a Week Once a Month Home Rhythm Kit" (printable plus editable Canva). Title under 140 characters that starts with "Cleaning Schedule Printable" and includes "once a day once a week once a month". Write 13 tags of 20 characters or fewer. Description: what's included page by page, US Letter and A4 PDFs, 1080x1920 PNGs, Canva link (free Canva account works), instant download, nothing shipped. FAQ: can I edit tasks (yes, in Canva); what sizes; personal-use license. No brand names, no health or ADHD claims.
+```
+
+### Where to list
+
+- **Etsy** (primary): Established demand for cleaning schedule printables.
+- **Pinterest** (traffic): Cleaning schedules are a top Pinterest printable category.
+- **TikTok** (traffic): Post your own three-bucket video in the trend format, linking to the shop.
+
+**Positioning:** The 'once a day, once a week, once a month' routine from TikTok as a ready fridge sheet: three short lists, nothing more.
+
+### Launch plan
+
+- **Day 0:** Publish the listing with fridge mockup and page previews.
+- **Day 1:** Post a TikTok in the exact trend format using the kit's own slides.
+- **Day 2:** Pin 5 pins, one per add-on (kitchen, pets, plants, fall prep, master).
+- **Day 5:** Post a second video for a niche add-on (dog care or houseplants).
+- **Day 7:** Check views and favorites; retitle if views are under about 50.
+- **Day 14:** Split pet and plant add-ons into their own cheaper listings if they get the most pin saves.
+- **Day 21:** Go/pivot/stop check.
+
+### Marketing channels
+
+| Channel | What to do | How often |
+|---|---|---|
+| Pinterest | One pin per add-on with keyword-rich titles | 1 pin per day |
+| TikTok | Use the trend format with your own routine | 3 per week while the format is live |
+
+**Search phrases to test (suggestions, not measured volumes):** cleaning schedule printable, once a week cleaning, daily weekly monthly chores, home routine printable, fridge checklist
+
+**Hooks:**
+- Once a day. Once a week. Once a month. That's the whole system.
+- I put the TikTok routine trend on my fridge.
+- 5 tasks per list, max.
+
+### Profit per sale
+
+Suggested price $4.50 (range $3.00–$7.00, estimate). Search snippets show editable cleaning schedules in the low single digits; the creator slide bonus justifies being slightly above the cheapest.
+
+| Channel | Price | Fees | Product + shipping | You keep | Margin |
+|---|---|---|---|---|---|
+| Etsy | $4.50 | $0.88 | $0.00 | **$3.62** | 81% |
+
+Product cost basis: digital. Cash at risk $0.20; break-even 1 sale(s).
+
+### Asymmetry
+
+- **Risk:** $0.20 and about 5 hours; answer in about 21 days.
+- **What you risk:** About 5 hours, $0.
+- **What stays open:** Modest: the category is evergreen but crowded, so the trend mainly offers a keyword and content hook.
+- **Bad bet if:** You expect the trend alone to sell it; this bet is NOT strongly asymmetric because supply is saturated.
+
+**Ways to extend:** Pet care rhythm as its own listing; Houseplant rhythm sheet; Small-business 'once a day/week/month' creator template pack
+
+**Risks:** Saturated cleaning-printable category hides a new listing.; The format trend may fade within weeks.; Copycat listings are easy to make.
+
+**Validation test:** List plus 2 trend-format TikToks and 10 pins in 7 days
+
+**Continue if:** 1+ sale or 10+ favorites in 21 days · **Change direction if:** Pet or plant add-on pins outperform: spin those into their own listings · **Stop if:** Under 75 views in 21 days
+
+---
+
+## Good Enough 2027: The Anti-Resolution Planner
+
+**Trend:** Counter-maxxing ('good enough' anti-optimization) (Prepare) · **Format:** planner (digital) · **Asymmetry:** Strongly asymmetric (74/100)
+
+**Buyer:** US adults aged 20–40 burned out on self-optimization and failed resolutions who still want a gentle structure for 2027
+
+### Super prompt
+
+```text
+You are a planner writer with a dry, kind sense of humor. Produce the complete content for a printable and digital planner called "Good Enough 2027: The Anti-Resolution Planner" for [YOUR SHOP NAME].
+
+BUYER AND JOB: US adults aged 20–40 who are tired of self-optimization culture (endless "maxxing", perfect routines, 5 a.m. clubs) and of failing resolutions by February. They still want 2027 to go well, just with less pressure. The planner replaces resolutions with "enough lines" (the minimum that counts as a win), a list of things they are allowed to half-do, and monthly check-ins that celebrate what got done.
+
+DELIVERABLE SPEC (US Letter 8.5x11 in and A4, portrait; plus a hyperlinked PDF):
+1. Cover: "Good Enough 2027", subtitle "The anti-resolution planner."
+2. Manifesto page: 10 original short principles (e.g. "Done beats perfect", "Rest is not a reward, it's the plan"). Write all ten fresh; do not copy known quotes.
+3. "Resolutions I'm Not Making" page: a playful list with checkboxes, plus a lined box for their own.
+4. Enough Lines worksheet (2 pages): for 8 life areas (home, body, money, work, people, fun, mind, rest), write the floor ("good enough is...") and the ceiling ("on a great week...").
+5. Half-Ass List: things allowed to be done at 50%, with 20 examples and blank lines.
+6. 2027 year at a glance with correct dates (January 1, 2027 is a Friday).
+7. Monthly spread x12 (2 pages each): calendar grid with correct dates, "one thing that matters this month", "things I'm letting slide", and a "this was enough" box at month end.
+8. Weekly page x52 (undated, 1 page each): three must-dos max, a "could-do if I feel like it" list, an energy check (low / medium / high tick boxes), and "wins, including tiny ones".
+9. Quarterly "Good Enough Review" x4: what worked, what I dropped and don't miss, and what I'll keep doing at minimum.
+10. Year-end page: "2027 was enough because..." with 10 lines.
+
+DESIGN: Canva font pairings (1) "Instrument Serif" headings + "Space Grotesk" body; (2) "Young Serif" headings + "Karla" body. Palette: Butter #F2E2A0, Moss #6E7F55, Brick #B4533C, Charcoal #2B2B2B, Off-white #FAF7F0. Hand-drawn underlines and imperfect circles are welcome; keep the design minimal.
+
+CONTENT RULES: All wording must be original. Use a warm, witty, never mean tone at a 7th-grade reading level. No profanity (make the "half-ass" wording "half-do" in the product title and listing; it can appear on one inner page only as "the Half-Ass List (we said it)"). Make no claims about mental health, productivity, weight or money results, and never name therapy techniques as treatment. Do not name brands, apps, influencers, celebrities, books or films. Do not mock people who enjoy routines.
+
+DIFFERENTIATION: Existing "imperfect" planners are mostly generic or chaos-themed. This one is built around the 2026 move away from optimization: floors instead of goals, permission to half-do, and celebrating "enough".
+
+OUTPUT: Return every page in order ("PAGE 1 — Cover", ...), with full text, all 20 half-ass examples, the 10 principles and all field labels, followed by Canva layout notes for each page type.
+
+SELF-CHECK: (a) the 2027 dates are correct (Jan 1 and Dec 31 are Fridays); (b) no outcome claims; (c) no brands or names; (d) the tone stays kind; (e) both sizes and the digital version are specified; (f) profanity is limited to the one inner page as instructed.
+```
+
+**Image prompt 1 (Cover art; Ideogram):**
+
+```text
+Minimal editorial cover: a single hand-drawn imperfect circle in brick #B4533C around the words 'Good Enough 2027' set in an elegant serif in charcoal #2B2B2B, small subtitle 'The anti-resolution planner', butter #F2E2A0 band at bottom with a tiny moss #6E7F55 sprig doodle, off-white #FAF7F0 background, portrait 8.5x11 ratio, no logos, no real people, no trademarked characters, no watermarks
+```
+
+**Image prompt 2 (Pinterest pin graphic; ChatGPT images):**
+
+```text
+Vertical 2:3 pin graphic in off-white #FAF7F0 with a checklist titled 'Resolutions I'm not making in 2027' in charcoal serif, five crossed-out handwritten-style items such as 'wake up at 5am', 'become a new person', 'drink a gallon of water', brick #B4533C strike-through marks, moss #6E7F55 accent doodles, no logos, no real people, no trademarked characters, no watermarks
+```
+
+### Build and export
+
+1. Run the super prompt; check the 2027 dates.
+2. Build US Letter masters in Canva (cover, manifesto, worksheet, monthly, weekly, review).
+3. Fill all pages (about 90).
+4. Resize to A4; fix overflow.
+5. Add internal links for the digital version (month and quarter tabs); export as PDF Standard.
+6. Export print PDFs as PDF Print (300 DPI); zip the Letter, A4 and Digital versions.
+7. Create 5–7 listing images led by the 'Resolutions I'm Not Making' page.
+
+### Listing copy prompt
+
+```text
+Write an Etsy listing for 'Good Enough 2027', a printable and digital anti-resolution planner (enough-lines worksheet, half-do list, 12 monthly spreads, 52 undated weekly pages, quarterly reviews; US Letter, A4, hyperlinked PDF). Title under 140 characters front-loading '2027 planner' and 'anti resolution'. 13 tags of 20 characters or fewer (e.g. 2027 planner, anti resolution, new year planner, gentle planner, minimalist planner). Description: who it is for (people tired of perfect routines and failed resolutions), what's included, file types and sizes, instant download steps, and a 5-question FAQ. No profanity in the title or tags; no brand, app or book names; no health, productivity or money promises.
+```
+
+### Where to list
+
+- **Etsy** (primary): New Year planner searches peak there in December and January.
+- **Gumroad** (secondary): Direct link for social traffic.
+- **Pinterest** (traffic): 'New year resolutions' and anti-resolution pins get seasonal saves.
+- **Amazon KDP** (secondary): An optional 6x9 paperback version for gift buyers.
+
+**Positioning:** The 2027 planner for people done with optimizing everything: floors, not goals.
+
+### Launch plan
+
+- **Day 0:** Publish the Etsy and Gumroad listings.
+- **Day 1:** Pin 'Resolutions I'm not making in 2027' graphics (3 variants).
+- **Day 3:** TikTok or Reel: 'My 2027 anti-resolution list' reading the crossed-out items aloud.
+- **Day 6:** Carousel: 'Enough lines: the minimum that counts'.
+- **Day 9:** Video replying to maxxing or 5 a.m.-routine content with a 'good enough' planner flip-through.
+- **Day 13:** Share a free 'enough lines' worksheet in communities that allow freebies (check the community rules).
+- **Day 17:** Review visits and favorites; adjust the title toward whichever search terms are converting.
+- **Day 21:** Go/pivot/stop check; plan the Dec 26–Jan 10 push.
+
+### Marketing channels
+
+| Channel | What to do | How often |
+|---|---|---|
+| Pinterest | Anti-resolution list pins and worksheet freebies | daily from mid-November |
+| TikTok/Reels | Humorous 'not doing that in 2027' lists; stitch over-optimized routine videos | 3 per week |
+| Etsy | Refresh tags to 'new year planner' in late December | weekly |
+
+**Search phrases to test (suggestions, not measured volumes):** 2027 planner, anti resolution planner, new year planner, gentle planner, no pressure planner, minimalist planner 2027
+
+**Hooks:**
+- Resolutions I'm not making in 2027
+- Good enough is the new goal
+- Floors, not goals
+- A planner that celebrates half-doing things
+
+### Profit per sale
+
+Suggested price $10.00 (range $7.00–$15.00, estimate). Mid-range digital planner price; the anti-resolution concept supports a small premium over generic trackers.
+
+| Channel | Price | Fees | Product + shipping | You keep | Margin |
+|---|---|---|---|---|---|
+| Etsy | $10.00 | $1.40 | $0.00 | **$8.60** | 86% |
+| Gumroad | $10.00 | $1.50 | $0.00 | **$8.50** | 85% |
+| Amazon KDP (120-page B&W, 60% royalty) | $10.00 | $4.00 | $2.44 | **$3.56** | 36% |
+
+Product cost basis: digital. Cash at risk $20.20; break-even 3 sale(s).
+
+### Asymmetry
+
+- **Risk:** $20.20 and about 12 hours; answer in about 21 days.
+- **What you risk:** About 12 hours and up to $20 in ads.
+- **What stays open:** Zero marginal cost; anti-resolution content gets seasonal reach every December, and the concept is evergreen and can extend to KDP and POD.
+- **Bad bet if:** The market reads it as generic 'imperfect planner' supply with no distinct search term; ranking then depends on ads.
+
+**Ways to extend:** 'Good Enough' sticker sheet and mug via Printify; 6x9 KDP paperback version; Undated evergreen version; Matching 'Enough Lines' Google Sheet
+
+**Risks:** Anti-perfection planners already exist, so differentiation rests on the copy.; Profanity in marketing could limit Etsy and Pinterest reach; keep it out of titles.; The counter-maxxing data comes from one vendor (Pulsar) via press.
+
+**Validation test:** List by Nov 1; push pins and 4 videos through November, then a heavier push Dec 26–Jan 10.
+
+**Continue if:** At least 2 sales or 30+ favorites by Dec 1, or anti-resolution pins passing 200 saves. · **Change direction if:** Pins save but listing does not convert: sell the 'enough lines' worksheet bundle alone at $4, or bundle it with a generic 2027 planner. · **Stop if:** Under 75 visits by Dec 10 despite daily pinning.
+
+---
+
 ## Analog Bag Refill Pack (printable pocket booklets)
 
 **Trend:** Analog bag & screen-free gifting (Test now) · **Format:** printable (digital) · **Asymmetry:** Strongly asymmetric (73/100)
@@ -2500,6 +4917,345 @@ Product cost basis: digital. Cash at risk $0.20; break-even 1 sale(s).
 **Validation test:** Run a marketplace check first; if not saturated, publish a 4-week sample module free on Gumroad, promote with 10 pins, and measure email signups before building all 12 weeks.
 
 **Continue if:** Sample downloads and signups show real pull within 2-3 weeks. · **Change direction if:** Downloads but no paid conversion: shorten to a low-price 'chart reading starter kit'. · **Stop if:** Marketplace check shows dominant, well-reviewed equivalents and the sample gets no traction.
+
+---
+
+## Book Lovers Speed-Dating Night Kit
+
+**Trend:** Reader dating and bookish matchmaking (Prepare) · **Format:** printable (digital) · **Asymmetry:** Strongly asymmetric (72/100)
+
+**Buyer:** Indie bookstore and library event coordinators, book club organizers and friends hosting a 'readers' singles or friend-dating night
+
+### Super prompt
+
+```text
+You are an experienced bookstore events manager and party-game writer. Write the full content of a printable kit called 'Book Lovers Speed-Dating Night Kit'. BUYER AND JOB: indie bookstore and library event coordinators, book club organizers and friends hosting a readers' singles night or friend-matching night. The kit lets them run a 90-minute event with no prep beyond printing: every round, card and sign is ready. DELIVERABLE SPEC (US Letter 8.5x11 in and A4; card sheets 8 cards per page at 3.5x2.5 in with crop marks): 1) Host run-of-show: a minute-by-minute 90-minute plan (check-in, welcome script of about 120 words, 6 rounds of 6 minutes, rotation instructions, break, match-slip collection, closing script) plus a setup checklist and a romance/friendship toggle. 2) Six genre rounds (Romance, Mystery & Thriller, Fantasy & Sci-Fi, Literary & Classics, Nonfiction & Memoir, Wildcard), each a table tent with the round name and 4 original conversation prompts. 3) 48 question cards in 4 decks (Light, Bookish, Deep, Silly), 12 each; every question original, inclusive and non-sexual. 4) 'What kind of reader are you?' icebreaker: 8 original reader types (e.g. The Annotator, The Midnight Page-Turner) with a 2-line description each and a 6-question pick-one sheet. Fun only, with no claims about compatibility. 5) Scorecard per guest: name tag number, 10 rows (seat number, 'favorite book they mentioned', yes/maybe/friend tick boxes). 6) Match slip and host matching sheet; privacy note to use first names and contact details only with mutual yes. 7) Name tags (8 per page) with 'Currently reading:' line. 8) Signs: welcome sign, 'Phones down, books up' table card, rotation arrows, photo-consent note. 9) Friendship edition swaps: replacement text for the welcome script, scorecard ticks and closing script. STYLE: cozy library meets modern stationery. Canva font pairings: (1) Cormorant Garamond headings + Lato body; (2) Libre Baskerville + Work Sans. Palette: Oxblood #6E2A2F, Ink Navy #1F2A44, Parchment #F4ECDD, Dusty Rose #D8A7A1, Brass #B08D57. CONTENT RULES: all prompts and reader types original; do not name real books, authors, apps, publishers or companies; inclusive of all genders and orientations (use 'guests'); no alcohol-required activities; no claims that the event or quiz predicts compatibility; reading level grade 7-9. DIFFERENTIATION: a complete run-of-show plus printables, with genre rounds and a friendship edition, instead of a single question list. OUTPUT FORMAT: section by section, headed 'SECTION n - name', giving every text element with layout notes in brackets, then a print guide (paper weight, cut lines). SELF-CHECK before answering: 6 rounds x 4 prompts present; 48 unique questions with no duplicates; 8 reader types; no real book, author or brand names; inclusive language throughout; the run-of-show adds up to 90 minutes.
+```
+
+**Image prompt 1 (Cover and mockup background; Ideogram or Midjourney):**
+
+```text
+Cozy bookstore table set for a speed-dating event: two chairs facing each other, a small table tent card, a stack of blank-spined books with no titles, warm lamp light, palette #6E2A2F #1F2A44 #F4ECDD #D8A7A1 #B08D57, text on the table tent reads 'Book Lovers Night', 3:2 aspect ratio, painterly editorial illustration style. No logos, no real people, no trademarked characters, no watermarks.
+```
+
+**Image prompt 2 (Pinterest pin; Ideogram):**
+
+```text
+Vertical flat-lay of printable cards and a scorecard on parchment #F4ECDD with oxblood #6E2A2F headings, a brass #B08D57 paperclip, headline 'Host a Book Lovers Speed-Dating Night' in serif type, 2:3 aspect ratio. No logos, no real people, no trademarked characters, no watermarks.
+```
+
+### Build and export
+
+1. Run the super prompt and keep each section as its own Canva page set.
+2. Build table tents as US Letter landscape with a center fold line; build question cards on an 8-up 3.5x2.5 in grid with crop marks.
+3. Apply the palette and font pairing as a brand kit; check text contrast on Dusty Rose.
+4. Duplicate and adapt everything for A4.
+5. Make the friendship edition as separate pages so hosts can print one version.
+6. Export PDF Print at 300 DPI with crop marks for the card sheets; flatten everything else.
+7. Package romance and friendship PDFs plus a one-page printing guide; test-print one card sheet.
+
+### Listing copy prompt
+
+```text
+Write an Etsy listing for a printable digital download 'Book Lovers Speed-Dating Night Kit'. Title under 140 characters starting with 'Book Speed Dating Printable Kit'. Exactly 13 tags of 20 characters or fewer (e.g. book speed dating, book club party, library event, bookstore event, singles mixer). Description: what's included (run-of-show, 6 genre table tents, 48 question cards, reader-type icebreaker, scorecards, match slips, name tags, signs, friendship edition), US Letter and A4 PDFs, instant download, nothing ships, and personal plus single-venue event-use license. FAQ: printing, card cutting, friendship vs romance version, group size, editing. Do not use any app, publisher, author or book names or trademarks, and make no promises about finding a match.
+```
+
+### Where to list
+
+- **Etsy** (primary): Party and event printables are searched there
+- **Pinterest** (traffic): Event-planning pins reach organizers
+- **Payhip** (secondary): Direct link for outreach emails to venues
+
+**Positioning:** Everything a bookstore, library or book club needs to run a readers' speed-dating or friend-dating night, ready to print.
+
+### Launch plan
+
+- **Day 0:** Publish the Etsy and Payhip listings
+- **Day 1:** Post 4 Pinterest pins (kit overview, question cards, reader types, scorecard)
+- **Day 2:** Email or DM 10 indie bookstores and libraries that already list book clubs, offering the free scorecard
+- **Day 4:** Instagram carousel: 'how to host a book lovers night in 90 minutes'
+- **Day 7:** Contact 10 more venues; post in book-club organizer groups where rules allow
+- **Day 10:** Short video flipping through the kit
+- **Day 14:** Review replies, views and sales; add a holiday 'Galentine's/Valentine's' variant if traction
+- **Day 21:** Go/pivot/stop check
+
+### Marketing channels
+
+| Channel | What to do | How often |
+|---|---|---|
+| Direct outreach to venues | Free scorecard plus link to the full kit | 10 venues every 5 days |
+| Pinterest | Event-planning pins | 4 pins per week |
+
+**Search phrases to test (suggestions, not measured volumes):** book speed dating, book club party ideas, library event ideas, bookish singles night, book lovers mixer
+
+**Hooks:**
+- Date someone who reads, IRL
+- Your bookstore's easiest sold-out event
+- Six genres, six minutes, one match
+
+### Profit per sale
+
+Suggested price $12.00 (range $8.00–$18.00, estimate). Event kits with many components sell above single printables; organizers value the time saved.
+
+| Channel | Price | Fees | Product + shipping | You keep | Margin |
+|---|---|---|---|---|---|
+| Etsy | $12.00 | $1.59 | $0.00 | **$10.41** | 87% |
+| Payhip | $12.00 | $1.25 | $0.00 | **$10.75** | 90% |
+
+Product cost basis: digital. Cash at risk $0.20; break-even 1 sale(s).
+
+### Asymmetry
+
+- **Risk:** $0.20 and about 12 hours; answer in about 21 days.
+- **What you risk:** About 12 hours, no cash
+- **What stays open:** Evergreen event use, a Valentine's season spike, venues can buy repeatedly or recommend it
+- **Bad bet if:** Venues prefer free templates and the reader-dating buzz stays inside one app's launch news
+
+**Ways to extend:** Valentine's 'Blind Date with a Book' edition; Book club mixer kit; Reader-type art prints and stickers (original types only)
+
+**Risks:** Demand evidence is for events existing, not for buying kits; Press attention centers on one app, so the spark may not spread; Free question lists are widely available
+
+**Validation test:** List on Etsy and pitch the free scorecard page to 20 indie bookstores/libraries by email or Instagram DM within 10 days.
+
+**Continue if:** 3+ sales or 2+ organizer replies asking for the full kit within 21 days · **Change direction if:** Interest only from friend groups: reframe as a 'book club mixer' party kit · **Stop if:** No sales, no replies and under 300 listing views by day 21
+
+---
+
+## Phone-Free Month Group Kit
+
+**Trend:** 30-Day Phone-Free Challenge Cohorts (Prepare) · **Format:** bundle (digital) · **Asymmetry:** Strongly asymmetric (72/100)
+
+**Buyer:** Organizers (student clubs, residence advisors, small-group leaders, office wellness champions, neighbors) who want to run a 30-day phone-free challenge for a group
+
+### Super prompt
+
+```text
+You are a community-program designer and facilitator. Create a complete, ready-to-run "Phone-Free Month Group Kit" for anyone organizing a 30-day phone-light or phone-free challenge with a group: a campus club, residence hall, church small group, book club, office team or neighborhood.
+
+BUYER AND JOB: Organizers inspired by campus 'break up with your phone' months and neighborhood offline cohorts. They want to run one themselves but don't want to design it. The kit must let a first-time organizer launch within a week, keep 10-30 people engaged for 4 weeks, and end with a celebration.
+
+DELIVERABLE SPEC (US Letter 8.5x11 in and A4; editable text where noted):
+1. Organizer Guide (4 pages): the recruiting timeline (Week -1), how to pick a format (phone-free, phone-light with a basic phone, or "phone parked" hours), how to set group norms, safety and accessibility notes (people who need phones for work, caregiving or health keep them; the goal is intention, not purity), and FAQs.
+2. Four weekly meetup plans (60 minutes each): an opener question, a 20-minute analog activity, a reflection round and next week's challenge. Themes: Week 1 Notice, Week 2 Replace, Week 3 Reconnect, Week 4 Keep.
+3. 28 daily challenge cards (cut-out, 4-up), each with a 1-sentence action (e.g., "Leave your phone in another room during dinner").
+4. Pledge card (wallet size) and a group pledge poster with signature space.
+5. Participant 30-day log: one page with a daily check grid, "minutes I got back" box and a mood scale (1-5, no medical framing).
+6. Sign-in sheet, name tags and a contact sheet for exchanging emails or landline/basic-phone numbers.
+7. Recruitment flyer (editable) and 3 social-graphic text blocks (no platform names).
+8. Week 4 celebration: a completion certificate and a "What I'm keeping" reflection card.
+9. Optional "Phone Parking" sign for meetups.
+
+DESIGN: Pairings: (a) "DM Serif Display" + "DM Sans"; (b) "Space Grotesk" + "Inter". Palette: Forest #2F4B3A, Paper #F7F3EA, Signal Orange #F28C38, Slate #4A5568, Sage #B7C9A8. Simple original line art (a parked phone, a coffee cup, a board game, a book).
+
+CONTENT RULES: Original wording only. Do not quote, adapt or name any book, author, university program or company. Make no health, mental-health or productivity promises; use "people often notice" language. Inclusive and non-shaming. 8th-grade reading level.
+
+DIFFERENTIATION: Existing 30-day detox printables are for individuals. This kit is for running a group, with meetup plans, organizer timeline, cohort materials and celebration.
+
+OUTPUT: Page by page with exact text and layout notes, the 28 challenge cards listed in full, and the 4 meetup agendas minute by minute. End with a self-check: 28 unique challenges; 4 agendas; accessibility note present; no names of books, authors, programs or brands; no health claims; both paper sizes noted.
+```
+
+**Image prompt 1 (Listing cover; Ideogram or ChatGPT images):**
+
+```text
+Flat-lay on a wooden table: printed challenge cards, a pledge poster, name tags, coffee cups and a basket of parked phones face down (generic, no logos). Text: "Phone-Free Month Group Kit". Palette #2F4B3A, #F7F3EA, #F28C38, #B7C9A8. 4:5 aspect ratio, warm natural light, illustrated style. No logos, no real people, no trademarked characters, no watermarks.
+```
+
+**Image prompt 2 (Challenge cards preview; Canva mockup):**
+
+```text
+Grid of 4 cut-out cards, each with a day number and a one-line action, sage and forest green on paper #F7F3EA with orange #F28C38 day numbers. 1:1. No logos, no real people, no trademarked characters, no watermarks.
+```
+
+### Build and export
+
+1. Run the super prompt and review the 28 challenges for duplicates.
+2. Build the guide, agendas, cards, pledge, log and certificate in Canva (US Letter).
+3. Make the flyer, sign-in sheet and name tags editable via a Canva template link.
+4. Resize to A4 and check card cut lines.
+5. Export PDF Print 300 DPI for both sizes; zip with a README and template links.
+6. Create a 2-page free sample (Week 1 plan plus 7 cards) for outreach.
+7. Make 5 mockups and a short flip video.
+
+### Listing copy prompt
+
+```text
+Write an Etsy listing for a printable 'Phone-Free Month Group Kit' to run a 30-day phone-free or phone-light challenge with a club, class, church group, office or neighborhood: organizer guide, 4 weekly meetup plans, 28 daily challenge cards, pledge cards and poster, participant log, sign-in and contact sheets, editable flyer and completion certificates (US Letter and A4 plus editable template). Give a title under 140 characters front-loading 'digital detox challenge group'; 13 tags, each 20 characters or fewer; a description; and a 5-question FAQ (group size, people who need phones for work, editing, printing, refunds). Do not use book titles, author names, program names or brand trademarks, and make no health or productivity claims.
+```
+
+### Where to list
+
+- **Etsy** (primary): Searchable digital-download marketplace.
+- **Payhip** (secondary): Direct links for outreach and an organization-license version.
+- **Pinterest** (traffic): Digital detox printables pin well.
+
+**Positioning:** Run a phone-free month with your people. Everything is planned for you.
+
+### Launch plan
+
+- **Day 0:** Publish the listing with mockups of the challenge cards, pledge poster and meetup plan.
+- **Day 1:** Pin 6 images aimed at 'phone free challenge' and 'digital detox group' searches.
+- **Day 3:** Email 10 campus wellness offices, student clubs or church small-group leaders with a free sample week (check each organization's policies).
+- **Day 5:** Post a short video: 'how to run a phone-free month with friends' with the printed kit.
+- **Day 8:** Offer the 28 challenge cards free on Payhip for email sign-ups.
+- **Day 12:** Share in organizer and wellness communities that allow resources (check the community rules).
+- **Day 16:** Add a 'January 2027 phone-free month' variant and New Year keywords.
+- **Day 21:** Go/pivot/stop check against thresholds.
+
+### Marketing channels
+
+| Channel | What to do | How often |
+|---|---|---|
+| Pinterest | Challenge-card and pledge-poster pins | 5 pins per week |
+| Direct outreach | Campus wellness and student-club leaders, church small groups | 10 contacts per week |
+| Short-form video | Run-it-with-friends explainers | 2-3 per week |
+
+**Search phrases to test (suggestions, not measured volumes):** digital detox, phone free challenge, screen free challenge, 30 day challenge, group challenge, unplug challenge, phone detox
+
+**Hooks:**
+- Universities are running phone-free months. Here's how to run one with your friends.
+- 28 cards, 4 meetups, 1 month without scrolling.
+- The organizer kit I wish I had for our phone-free month.
+
+### Profit per sale
+
+Suggested price $18.00 (range $12.00–$29.00, estimate). Individual detox printables sell for free to about $15. A group kit with organizer value supports a higher price, and campus or office buyers are less price-sensitive.
+
+| Channel | Price | Fees | Product + shipping | You keep | Margin |
+|---|---|---|---|---|---|
+| Etsy | $18.00 | $2.16 | $0.00 | **$15.84** | 88% |
+| Payhip | $18.00 | $1.72 | $0.00 | **$16.28** | 90% |
+
+Product cost basis: digital. Cash at risk $0.20; break-even 1 sale(s).
+
+### Asymmetry
+
+- **Risk:** $0.20 and about 14 hours; answer in about 21 days.
+- **What you risk:** About 14 hours. Organizers are a smaller market than individuals.
+- **What stays open:** A higher price point, institutional repeat buyers each semester, and a New Year peak.
+- **Bad bet if:** Organizers rely on free university or nonprofit materials, so only individuals buy at low prices.
+
+**Ways to extend:** January 2027 New Year edition; Office/team license; Family edition; Participant pocket log (paperback)
+
+**Risks:** Free institutional resources compete; Book-title phrasing must be avoided; Selling to organizations needs direct outreach
+
+**Validation test:** List the kit and contact 30 organizers over 3 weeks with a free sample week.
+
+**Continue if:** 3+ sales or 3+ organizers asking for the full kit within 21 days. · **Change direction if:** Individuals buy, not organizers: lead with the participant log and sell the group kit as an upgrade. · **Stop if:** No sales and no organizer replies after 21 days.
+
+---
+
+## Script & Shoot Planner
+
+**Trend:** Built-in Teleprompter Scripted Videos (Prepare) · **Format:** template (digital) · **Asymmetry:** Strongly asymmetric (72/100)
+
+**Buyer:** Creators and small business owners batching scripted talking-head videos
+
+### Super prompt
+
+```text
+You are a content-operations designer. Build a Google Sheets template called "Script & Shoot Planner: Teleprompter Content System" plus a printable companion.
+
+BUYER AND JOB: Creators and small business owners who now script talking-head videos with a phone's built-in teleprompter. They need one place to draft scripts in teleprompter format, check reading time, batch-film, and track what got posted and how it performed.
+
+DELIVERABLE SPEC: Describe every tab precisely, including column headers, data validation, formulas and conditional formatting, so it can be rebuilt exactly.
+Tab 1 "Start Here": setup steps, how to "Make a copy", color legend.
+Tab 2 "Script Lab": columns Script ID | Title | Pillar (dropdown: Teach, Behind the Scenes, FAQ, Story, Offer) | Hook | Script Body | Word Count (formula: words in Hook+Body) | Est. Seconds (formula: word count / 2.5, rounded) | Length Flag (formula: "Too long" if over 60 sec) | Status (dropdown: Idea, Drafted, Ready, Filmed, Posted). Conditional formatting by status.
+Tab 3 "Teleprompter Formatter": paste a paragraph in A2; a formula splits it into lines of about 6 words (use SPLIT/REGEX approaches; explain a fallback if the formula is too complex) for copying into any in-app teleprompter.
+Tab 4 "Batch Day": a shoot list that filters Ready scripts, with outfit/location/B-roll columns and a checkbox per take.
+Tab 5 "Posting Log": Date | Script ID (dropdown from Script Lab) | Platform (free text) | Views | Saves | Comments | Notes; a weekly summary with SUMIFS.
+Tab 6 "Hook Library": 30 original hook formulas with [BLANKS].
+Tab 7 "Dashboard": counts by status, average est. seconds, scripts posted this month, top 5 by saves (SORTN or QUERY).
+PRINTABLE: a 2-page US Letter + A4 "Batch Day Checklist" and "Script Card" (fill-in boxes for Hook / Value / CTA).
+
+DESIGN: Header fill Ink #1F2430 with Cream #FFF6E5 text, accent Coral #FF6B57, success Teal #2A9D8F, gridlines #E6E8EC. Fonts: Sheets "Roboto"; printable pairings "Archivo Black" + "Inter" or "Poppins" + "Lora".
+
+RULES: Original content only. No app, platform or brand names in the template or examples ("platform" is a free-text field). No promises about views or income. Formulas must work in Google Sheets and be written out exactly.
+
+DIFFERENTIATION: Combines teleprompter-length checking, line formatting, batching and a results log; generic content calendars don't do this.
+
+OUTPUT: Tab by tab with exact headers, formulas, validation lists and sample rows (3 per tab), then the printable pages. End with a self-check: every formula given; no brand names; reading-time formula present; sample data is fictional.
+```
+
+**Image prompt 1 (Listing cover image; Ideogram or ChatGPT images):**
+
+```text
+Clean laptop mockup showing a spreadsheet with dark navy header row, coral status tags and a small bar chart, beside a phone on a tripod. Text on image: "Script & Shoot Planner" and "Google Sheets template". Colors #1F2430, #FF6B57, #2A9D8F, #FFF6E5. 4:5 aspect ratio, cream background, flat vector. No logos, no real people, no trademarked characters, no watermarks.
+```
+
+### Build and export
+
+1. Run the super prompt and rebuild each tab in a new Google Sheet exactly as specified.
+2. Test every formula with the sample rows; fix the line formatter or use the documented fallback.
+3. Apply header colors, conditional formatting and data validation; protect formula columns.
+4. Create a 'make a copy' link (replace /edit with /copy) and test it in a private window.
+5. Build the 2-page printable in Canva (US Letter, then resize to A4), and export PDF Print 300 DPI.
+6. Put the copy link and printables in one PDF delivery file with instructions.
+7. Record a 20-second screen capture of the planner in use for the listing video.
+
+### Listing copy prompt
+
+```text
+Write an Etsy listing for a Google Sheets template, 'Script & Shoot Planner', for creators who film scripted talking-head videos with a phone teleprompter: script lab with automatic reading-time estimate, teleprompter line formatter, batch-day shoot list, posting log and dashboard, plus printable checklist (US Letter and A4). Give a title under 140 characters front-loading 'content planner google sheets'; 13 tags, each 20 characters or fewer; a description covering what's included, that it needs a free Google account, delivery as a PDF with a copy link, and no app required; and a 5-question FAQ. No platform, app or brand names or trademarks, and no promises about views or income.
+```
+
+### Where to list
+
+- **Etsy** (primary): Google Sheets templates are an established Etsy category.
+- **Payhip** (secondary): Bundle sales from video bio links.
+- **Pinterest** (traffic): Content-planning pins drive long-tail traffic.
+
+**Positioning:** Script it, time it, film it in one batch, all from one sheet.
+
+### Launch plan
+
+- **Day 0:** Publish the listing with 5 images and a 15-second screen-recorded preview video.
+- **Day 1:** Post a short video of yourself reading one of the scripts on a phone teleprompter (the demo is the ad).
+- **Day 2:** Create 5 Pinterest pins (cover, hook bank, calendar, before/after script, checklist) linking to the listing.
+- **Day 4:** Give away a free 5-script sampler on Payhip/Gumroad in exchange for an email to start a list.
+- **Day 7:** Post 3 more demo videos, each using a different script section; note which hook type gets saves.
+- **Day 10:** Share in small-business Facebook groups that allow resource posts (check the community rules).
+- **Day 14:** Review views, favorites and sales; refresh the title and first image if CTR is low.
+- **Day 21:** Go/pivot/stop check against the continueIf / pivotIf / stopIf thresholds.
+
+### Marketing channels
+
+| Channel | What to do | How often |
+|---|---|---|
+| Short-form video | Read-a-script demos filmed with the in-camera teleprompter | 4-5 per week |
+| Pinterest | Pins for 'video script template' and 'content ideas for small business' | 5 pins per week |
+| Email (free sampler) | Weekly 'script of the week' email | Weekly |
+
+**Search phrases to test (suggestions, not measured volumes):** content planner, google sheets template, video script planner, batch content, creator planner, content calendar
+
+**Hooks:**
+- My whole week of videos, scripted and timed in one sheet.
+- This formula tells you if your script is too long before you film.
+
+### Profit per sale
+
+Suggested price $12.00 (range $8.00–$18.00, estimate). Content-planner sheets typically sell in the $8-$20 range. Bundled with the script pack at $22.
+
+| Channel | Price | Fees | Product + shipping | You keep | Margin |
+|---|---|---|---|---|---|
+| Etsy | $12.00 | $1.59 | $0.00 | **$10.41** | 87% |
+| Payhip | $12.00 | $1.25 | $0.00 | **$10.75** | 90% |
+
+Product cost basis: digital. Cash at risk $0.20; break-even 1 sale(s).
+
+### Asymmetry
+
+- **Risk:** $0.20 and about 14 hours; answer in about 21 days.
+- **What you risk:** About 14 hours. Planner templates are a crowded category.
+- **What stays open:** Raises the order value of the script pack, at zero marginal cost.
+- **Bad bet if:** Sold standalone without the teleprompter angle being obvious; it would then compete with hundreds of generic planners.
+
+**Ways to extend:** Notion version; Agency/multi-client version; Bundle with script pack
+
+**Risks:** Crowded general category; Formula breakage reports if Sheets functions change; Support questions from non-spreadsheet users
+
+**Validation test:** List as a standalone and as a bundle with the script pack, and compare views-to-favorites over 14 days.
+
+**Continue if:** Bundle outsells standalone or the planner gets 2+ sales in 21 days. · **Change direction if:** Interest only in bundle: keep it as a bundle bonus. · **Stop if:** No favorites and no sales in 21 days.
 
 ---
 
@@ -2828,6 +5584,513 @@ Product cost basis: digital. Cash at risk $0.20; break-even 1 sale(s).
 
 ---
 
+## Little Winter Nights: 24 Fold-and-Color Mini Zine Advent Calendar (printable)
+
+**Trend:** Coloring advent calendars (cozy coloring countdown) (Test now) · **Format:** printable (digital) · **Asymmetry:** Strongly asymmetric (71/100)
+
+**Buyer:** Adult and teen cozy-coloring fans who missed or won't pay for the boxed calendar
+
+### Super prompt
+
+```text
+You are an illustrator-art director and printable designer. Produce the complete content and art direction for a printable coloring advent calendar: 24 mini coloring booklets, one per day from December 1 to December 24, each printed on ONE sheet and folded into an 8-page mini zine (the standard one-sheet, one-cut zine fold).
+
+BUYER AND JOB: Adults and teens who love cozy, bold-and-easy coloring books and saw the boxed coloring advent calendars sell out or go on back-order. They want the same nightly ritual for a few dollars, printed at home tonight, and enough time to start on December 1. Some will print it as a gift for a friend.
+
+DELIVERABLE SPEC:
+- Print sheet: US Letter 8.5 x 11 in landscape AND A4 landscape, 0.25 in safe margin, each sheet = 8 panels (cover, 6 coloring pages, back page).
+- 24 booklets, each with a theme. Write 24 original themes in cozy everyday life: e.g. day 1 "first snow at the window", a bakery morning, a reading nook, wrapping paper chaos, a snowy bookshop street, a cat in a laundry basket, hot cocoa stand, knitting basket, a winter garden, a train-station café, ice-skating pond, gingerbread house build, a candle shop, a sledding hill, pajama movie night, a market stall of ornaments, a greenhouse in winter, a sleepy fox den, a lighthouse in snow, a kitchen cookie line, a mitten drying rack, a postbox and letters, a quiet living room on the 24th. Keep holiday references secular-friendly.
+- For each booklet: title, 6 page scene descriptions (bold outlines, large simple shapes, minimal tiny detail, one cute focal object), a 1-line daily "cozy prompt" on the back page (e.g. "make a warm drink before you color").
+- Extra pages: folding instructions with numbered steps, a 24-door tracker poster (US Letter + A4 portrait) to mark each finished booklet, and printable gift tags.
+
+STYLE: "Bold and easy" cozy line art: thick 2-3 pt clean outlines, rounded shapes, friendly faces on objects and animals, no shading, no hatching, no copyrighted characters. Cover color palette for printed covers: cocoa #6B4A3A, cranberry #A3333D, pine #31574A, butter #F4D58D, cream #FFF8EC. Canva font pairings: (a) "Fredoka" + "Nunito", (b) "Baloo 2" + "Quicksand".
+
+ORIGINALITY AND RIGHTS: Do not imitate or name any existing coloring book, brand, publisher, artist or character. Do not use the words of any competitor's product title. All scenes and prompts are your own. No religious text. No claims about stress relief, mental health or outcomes.
+
+DIFFERENTIATION: Existing printables are single advent posters or 24 loose pages; boxed versions cost about $30 and are on back-order. This gives a real "open a tiny book each night" ritual from one sheet per day, at home, for under $10.
+
+OUTPUT: (1) a table of 24 booklets: day, title, 6 scene descriptions, back-page prompt; (2) one reusable image-generation prompt template with a {SCENE} slot; (3) panel layout map showing which panels print upside-down for the fold; (4) folding instructions; (5) tracker and gift-tag text.
+
+SELF-CHECK: 24 distinct themes and 144 distinct scenes; every scene is bold-and-easy (no tiny detail); panel orientation map correct; no IP, brand, artist or publisher names; Letter and A4 both specified.
+```
+
+**Image prompt 1 (Coloring page line art (repeat per scene); Midjourney, Ideogram or ChatGPT images):**
+
+```text
+Bold and easy coloring page line art of {SCENE}, thick clean black outlines 3px, large simple rounded shapes, cute cozy style, no shading, no grayscale, no hatching, pure white background, plenty of open space to color, portrait 3:4 aspect ratio, no text, no logos, no real people, no trademarked characters, no watermarks
+```
+
+**Image prompt 2 (Booklet cover template; Ideogram):**
+
+```text
+Small booklet cover illustration with a rounded frame, cozy winter window with a candle and falling snow, flat colors #6B4A3A #A3333D #31574A #F4D58D on cream #FFF8EC, space at the top for a day number, portrait 3:4, no text, no logos, no real people, no trademarked characters, no watermarks
+```
+
+**Image prompt 3 (Listing mockup; Canva mockup or ChatGPT images):**
+
+```text
+Photo of tiny folded paper coloring booklets in a row with numbers, colored pencils and a mug of cocoa on a wooden table, string lights blurred behind, top-down, 4:5 aspect ratio, no readable text, no logos, no real people, no trademarked characters, no watermarks
+```
+
+### Build and export
+
+1. Run the super prompt; review the 24-theme table and remove any scene that is too detailed.
+2. Generate 144 line-art pages with the template prompt; regenerate any with shading or text; clean in Canva or a vector tool.
+3. In Canva, build one US Letter landscape zine template with 8 panels (top row rotated 180 degrees) and duplicate it 24 times.
+4. Drop scenes, covers and back-page prompts into each sheet; check the fold with a test print.
+5. Resize to A4 landscape and re-check margins.
+6. Export PDF Print at 300 DPI: one Letter PDF and one A4 PDF (24 sheets + instructions + tracker + tags); keep files under Etsy's size limit (split if needed).
+7. Upload to Etsy as a digital download; download and print one sheet yourself to confirm.
+
+### Listing copy prompt
+
+```text
+Write an Etsy listing for a printable coloring advent calendar: 24 mini fold-and-color booklets (one sheet each), bold and easy cozy line art, for adults and teens. Title under 140 characters starting with 'Coloring Advent Calendar Printable' and including 24 mini books, cozy, bold and easy. 13 tags of 20 characters or fewer. Description: what is included, how the one-sheet fold works, US Letter and A4 PDFs, print at home, start Dec 1, also works as a printed gift. FAQ: paper type, printer settings, can I print for my family (personal use) / can I resell (no). Do not mention any other brand, coloring-book title, publisher, artist or character, and make no stress-relief or health claims.
+```
+
+### Where to list
+
+- **Etsy** (primary): Buyers already search 'advent coloring calendar' printables there
+- **Gumroad** (secondary): Direct link for coloring-community and TikTok traffic
+- **Pinterest** (traffic): Advent and coloring printables are classic Pinterest searches in November
+
+**Positioning:** The cozy coloring advent ritual - a tiny book every night - printed at home for a fraction of the boxed price.
+
+### Launch plan
+
+- **Day 0:** Publish on Etsy and Gumroad by Oct 20
+- **Day 1:** Video: printing and folding one booklet in 30 seconds
+- **Day 3:** 10 Pinterest pins: 'advent calendar for adults', 'coloring advent', 'DIY advent calendar'
+- **Day 5:** Share a free day-1 booklet as a lead magnet (Gumroad $0) linking to the full set
+- **Day 10:** Coloring-in video of a finished booklet; check listing stats
+- **Day 14:** Start $1/day Etsy ads if favourites are coming in
+- **Day 21:** Go/pivot/stop: continue if 5+ sales; pivot to a kids' version or New Year/January 'winter 31-day' version if views but no sales; stop paid ads if under 200 views
+- **Nov 30:** Hard stop on ads; switch copy to 'start late, catch up' for Dec 1-5 buyers
+
+### Marketing channels
+
+| Channel | What to do | How often |
+|---|---|---|
+| Pinterest | Advent and coloring pins with the mini-book photo | 7 pins/week until Nov 30 |
+| TikTok/Reels | Fold-and-color process videos | 3/week |
+| Coloring Facebook groups/subreddits | Share the free day-1 booklet where self-promotion is allowed (check the community rules) | once per group |
+
+**Search phrases to test (suggestions, not measured volumes):** coloring advent calendar, advent calendar adults, printable advent, cozy coloring, bold and easy coloring, mini zine
+
+**Hooks:**
+- Couldn't get the coloring advent calendar? Print this one tonight
+- A tiny coloring book every night of December
+- One sheet, one fold, one cozy book
+
+### Profit per sale
+
+Suggested price $8.00 (range $5.00–$12.00, estimate). Single-sheet printable calendars sell cheaply; 144 pages and a fold format justify a higher price, far below the ~$30 boxed version
+
+| Channel | Price | Fees | Product + shipping | You keep | Margin |
+|---|---|---|---|---|---|
+| Etsy | $8.00 | $1.21 | $0.00 | **$6.79** | 85% |
+| Gumroad | $8.00 | $1.30 | $0.00 | **$6.70** | 84% |
+
+Product cost basis: digital. Cash at risk $20.20; break-even 3 sale(s).
+
+### Asymmetry
+
+- **Risk:** $20.20 and about 16 hours; answer in about 30 days.
+- **What you risk:** About 14-18 hours and up to $20 in ads
+- **What stays open:** Zero marginal cost; sells every November; spin-offs for other countdowns
+- **Bad bet if:** Etsy search is already crowded with near-identical 24-page sets and your listing can't rank before Nov 30
+
+**Ways to extend:** Kids' version with larger shapes; 31-day January 'winter' zines; Pet-themed and bookish-themed sets; Print-and-ship physical version via a print provider next year
+
+**Risks:** Hard Dec 1 deadline: a late listing misses most of the season; AI line art quality varies; needs manual cleanup; Moderate competition from existing printable sets
+
+**Validation test:** Live by Oct 20; free day-1 booklet plus 30 pins over 3 weeks; $1/day ads Nov 1-20
+
+**Continue if:** 5+ sales by Nov 10 · **Change direction if:** Views but no sales: lower price or add a kids' set · **Stop if:** Under 200 views by Nov 10 (stop ads)
+
+---
+
+## Side Quest Season 2027 Planner
+
+**Trend:** Hobbyamory (Prepare) · **Format:** planner (digital) · **Asymmetry:** Strongly asymmetric (70/100)
+
+**Buyer:** US single adults aged 22–35 with dating-app fatigue who are filling their lives with hobbies, clubs and friends
+
+### Super prompt
+
+```text
+You are a planner designer who writes with warmth and humor. Produce the complete content for a printable and digital planner called "Side Quest Season: A 2027 Planner for the Happily Hobby-Full" for [YOUR SHOP NAME].
+
+BUYER AND JOB: Single US adults aged 22–35 who are tired of dating apps and are putting their energy into hobbies, classes, clubs and friends instead (a shift the press has nicknamed "hobbyamory"). They want 2027 to feel full and social without centering romance. The planner helps them choose monthly "side quests" (try a class, join a club, host a game night), say yes to meetups, track friendships, and celebrate a full single life. It is not anti-dating: dating can happen, it just is not the center of the calendar.
+
+DELIVERABLE SPEC (US Letter 8.5x11 in and A4, portrait, plus a hyperlinked PDF with month tabs):
+1. Cover: "Side Quest Season 2027", tagline "My calendar is full and I love it."
+2. Welcome page: what side quests are, and three rules: (1) one new thing a month, (2) invite someone or go solo, both count, (3) no scorekeeping.
+3. 2027 year-at-a-glance calendar: 12 mini months with correct 2027 dates (January 1, 2027 is a Friday).
+4. Side Quest Menu (2 pages): 100 original, low-cost activity ideas grouped into Make, Move, Learn, Play, Gather, Outdoors and Give Back. Include a mix such as pottery class, run club, trivia night, plant swap, mahjong night, birdwatching walk, volunteering shift, supper club, open mic and chess club. Use generic names only, never real businesses.
+5. Monthly spread x12 (2 pages each): month calendar grid with correct dates; "This month's side quest"; "People I want to see"; "Invites I'll send"; and a "Main character moments" box.
+6. Weekly page x52 (undated, 1 page each): plans, one small brave thing, a friend check-in, and a three-line "best part of my week".
+7. Friendship tracker: 20 friends with last hangout, next idea and a birthday column.
+8. Club & class log: name, schedule, cost, and keep / pause / quit.
+9. Solo date ideas page: 30 original ideas.
+10. Year-end reflection: my 12 side quests, new people I met, skills I picked up, and a letter to 2028 me.
+
+DESIGN: Canva font pairings (1) "Bricolage Grotesque" headings + "Inter" body; (2) "Gloock" headings + "Work Sans" body. Palette: Tomato #E4572E, Teal #17A398, Sunflower #F3C623, Plum #5B3758, Cream #FFF8EC. Use playful stamp and badge shapes.
+
+CONTENT RULES: All wording must be original. Use an upbeat, inclusive tone at an 8th-grade reading level, welcoming any gender or orientation. Never shame dating or people in relationships. Make no promises about finding love, friends or happiness. Do not name the New York Times, apps, venues, brands, celebrities or films. Do not use the word "hobbyamory" inside the planner pages (the seller may use it in marketing only after checking that it is not trademarked).
+
+DIFFERENTIATION: Most "single life" planners are self-care journals and most hobby planners track projects. This one combines monthly side quests, social invitations and friendship tracking for people building a full life outside dating.
+
+OUTPUT: Return the planner page by page ("PAGE 1 — Cover", ...), with every heading, field label, all 100 side quests and all 30 solo dates written out, then layout notes for each page type.
+
+SELF-CHECK: (a) the 2027 dates are correct (Jan 1 is a Friday; Dec 31 is a Friday); (b) 100 and 30 ideas, none repeated; (c) no outcome promises, brands or venue names; (d) inclusive language throughout; (e) both page sizes and the digital version are noted.
+```
+
+**Image prompt 1 (Cover art; Ideogram):**
+
+```text
+Playful flat illustration collage of hobby badges arranged like a passport stamp page: a pottery wheel, running shoe, trivia card, potted plant, mahjong-style tile with abstract dots, binoculars, tomato #E4572E, teal #17A398, sunflower #F3C623, plum #5B3758 on cream #FFF8EC, bold title text 'Side Quest Season 2027' in chunky grotesque type at top, portrait 8.5x11 ratio, solid background, no logos, no real people, no trademarked characters, no watermarks
+```
+
+**Image prompt 2 (Sticker sheet / promo graphic; ChatGPT images or Ideogram):**
+
+```text
+Sticker sheet of 12 round badge stickers with short original phrases: 'Side Quest Unlocked', 'Calendar Full', 'Said Yes', 'New Club Who Dis', 'Solo Date Pro', 'Plant Swap Era', bold flat style, tomato #E4572E, teal #17A398, sunflower #F3C623, plum #5B3758, white die-cut borders, transparent background, square 1:1, no logos, no real people, no trademarked characters, no watermarks
+```
+
+### Build and export
+
+1. Run the super prompt and check every 2027 date against a real calendar.
+2. In Canva build US Letter masters: cover, year-at-a-glance, side quest menu, monthly spread, weekly page, trackers.
+3. Fill all pages (about 90 pages for the full undated-weekly version).
+4. Resize a copy to A4; fix overflow.
+5. Make the hyperlinked digital version: add month tabs as internal page links and export as PDF Standard.
+6. Export print versions as PDF Print (300 DPI).
+7. Create 5–7 listing images, including the side quest menu and a stamp-style sticker preview; upload as an instant download.
+
+### Listing copy prompt
+
+```text
+Write an Etsy listing for 'Side Quest Season 2027', a printable and digital planner for happily single adults building a full social and hobby life (monthly side quests, 100-idea activity menu, friendship tracker, 52 undated weekly pages; US Letter, A4 and hyperlinked PDF). Title under 140 characters front-loading '2027 planner' and 'single life planner'. 13 tags of 20 characters or fewer (e.g. 2027 planner, single life planner, hobby planner, friendship tracker, digital planner). Description: who it is for, everything included with page counts, file types and sizes, instant download steps, which apps the digital version works with in general terms, and a 5-question FAQ. Never use trademarked terms, newspaper, app, venue or brand names; do not promise finding love or friends; do not shame dating.
+```
+
+### Where to list
+
+- **Etsy** (primary): Q4 digital planner demand sits there.
+- **Payhip or Gumroad** (secondary): Direct links from TikTok and Pinterest.
+- **Pinterest** (traffic): 'Things to do single' and 'new hobbies to try' pins drive long-tail traffic.
+
+**Positioning:** The 2027 planner for people whose calendar is full of clubs, classes and friends, not dating apps.
+
+### Launch plan
+
+- **Day 0:** Publish the Etsy listing and Payhip mirror.
+- **Day 1:** Pin the free '25 side quests for 2027' graphic with a link to the planner.
+- **Day 3:** TikTok or Reel: 'Deleted the apps, planned 12 side quests for 2027' flip-through.
+- **Day 5:** Post a carousel of 10 side-quest ideas from the menu.
+- **Day 8:** Video: 'My friendship tracker so I actually see people'.
+- **Day 12:** Share in singles, hobby or city meetup communities that allow promo posts (check the community rules).
+- **Day 16:** Review visits and favorites; test a second cover image.
+- **Day 21:** Go/pivot/stop check.
+
+### Marketing channels
+
+| Channel | What to do | How often |
+|---|---|---|
+| TikTok/Reels | Single-life and hobby side-quest videos; join conversations about dating-app fatigue | 3 per week |
+| Pinterest | Idea-list pins (side quests, solo dates) linking to the listing | daily |
+| Etsy | Seasonal tag refresh in December ('2027 planner') | weekly |
+
+**Search phrases to test (suggestions, not measured volumes):** 2027 planner, single life planner, things to do single, new hobbies to try, friendship planner, social planner 2027
+
+**Hooks:**
+- Deleted the apps. Planned 12 side quests for 2027.
+- My calendar is full and I love it
+- 100 things to do instead of swiping
+- A planner for the happily hobby-full
+
+### Profit per sale
+
+Suggested price $12.00 (range $8.00–$16.00, estimate). A full 90-page dated-plus-undated planner with a digital version; priced in line with mid-range Etsy digital planners.
+
+| Channel | Price | Fees | Product + shipping | You keep | Margin |
+|---|---|---|---|---|---|
+| Etsy | $12.00 | $1.59 | $0.00 | **$10.41** | 87% |
+| Gumroad | $12.00 | $1.70 | $0.00 | **$10.30** | 86% |
+
+Product cost basis: digital. Cash at risk $0.20; break-even 1 sale(s).
+
+### Asymmetry
+
+- **Risk:** $0.20 and about 14 hours; answer in about 21 days.
+- **What you risk:** About 14 hours and $0 in ads.
+- **What stays open:** Zero marginal cost; the 'single and thriving' plus hobby audience is broad and evergreen beyond the trend name, and the planner sells year-round as an undated version.
+- **Bad bet if:** Buyers read it as 'anti-dating' or a niche joke, or the term never reaches US mainstream use; then it competes as just another planner.
+
+**Ways to extend:** 'Side Quest Unlocked' sticker sheet via Printify; Monthly side-quest cards printable deck; City-specific side-quest lists (generic, no venue names); Undated evergreen version after January
+
+**Risks:** The term was coined by a newspaper and may not be widely used by consumers.; Overlap with generic self-care and single-life journals.; Tone risk: must not read as bitter about dating.
+
+**Validation test:** List by Oct 25; 10 pins and 3 videos over 14 days.
+
+**Continue if:** At least 1 sale or 20+ favorites in 21 days, or a side-quest pin passing 100 saves. · **Change direction if:** Interest in the idea lists but no sales: sell the 100-side-quest deck alone at $4, or reposition as a general 'social planner 2027'. · **Stop if:** Under 50 visits after 21 days of promotion.
+
+---
+
+## The Hobby Rotation Planner 2027
+
+**Trend:** Hobbymaxxing (Prepare) · **Format:** planner (digital) · **Asymmetry:** Strongly asymmetric (70/100)
+
+**Buyer:** US 18–34-year-olds with many hobbies (crafts, fitness, music) who feel scattered and want structure without turning leisure into work
+
+### Super prompt
+
+```text
+You are a planner designer and gentle habit coach. Produce the complete content for a printable product called "The Hobby Rotation Planner 2027" for [YOUR SHOP NAME].
+
+BUYER AND JOB: 18–34-year-olds who have too many hobbies (crochet, running, piano, painting, climbing, reading, puzzles) and feel scattered or guilty about the ones they neglect. They have seen the "hobbymaxxing" idea of focusing on three hobbies at a time and rotating, but they do not want leisure to turn into a second job. The planner gives them a rotation system that keeps hobbies fun: three hobbies per season, a joy log instead of a scoreboard, and a guilt-free "parked" list.
+
+DELIVERABLE SPEC (US Letter 8.5x11 in and A4 versions, portrait, 0.5 in margins, undated weeks plus a 2027 overview):
+1. Cover: "The Hobby Rotation Planner 2027", subtitle "Three at a time. For fun, not for points."
+2. How it works (1 page): the rule of three, rotation seasons of about six weeks (8 seasons across 2027), and the three rules: no streak shaming, quitting is allowed, and a rotation ends when the season ends, not when you "master" something.
+3. Hobby inventory (2 pages): 30 rows with hobby, why I love it, supplies I already own, cost to restart, and a "spark" rating out of 3 hearts.
+4. Parked hobbies (1 page): a guilt-free waiting list with "will revisit in season ___".
+5. 2027 rotation map (1 page): 8 seasons of six or seven weeks that together cover January 1 to December 31, 2027 (Season 1 starts Friday, January 1). Calculate the dates correctly.
+6. Season opener (repeat 8 times, 1 page each): my three hobbies, one tiny goal each (phrased as an experience, not a number), supplies to gather, and the time each one fits into.
+7. Weekly joy log (one per week, 52 in total, 1 page each): a 7-day grid with three rows, where each cell takes a mood doodle, not minutes. Add one prompt per week ("What surprised me?") and write 52 original prompts in total, none repeated.
+8. Season closer (8): keep, rotate out, or retire for each hobby; favorite moment; what I made.
+9. Year-end page: a "hobby museum" collage frame and a gratitude list.
+10. Sticker-style icons: list 20 simple line icons to draw (yarn, paintbrush, sneaker, book, puzzle piece).
+
+DESIGN: Canva font pairings (1) "Fraunces" headings + "DM Sans" body; (2) "Recoleta" headings + "Nunito" body. Palette: Clay #C8643B, Sage #8FA382, Butter #F3D98B, Ink #2E2A26, Paper #FBF6EE. Lots of white space and rounded boxes.
+
+CONTENT RULES: All wording must be original. Use a warm, non-judgmental tone at a 7th-grade reading level. Never promise health, mental-health or productivity outcomes. Do not use the words "maxxing", "grind" or "optimize" in the product pages; the product positions itself as the calm answer to them. Make no reference to any app, brand, influencer, celebrity, film or trademarked character.
+
+DIFFERENTIATION: Existing hobby planners track projects, supplies and budgets. This one is the only one built around three-at-a-time seasonal rotation with joy tracking and permission to park or quit.
+
+OUTPUT FORMAT: Return the content page by page in order ("PAGE 1 — Cover", ...), with exact headings, field labels, row counts and all 52 prompts written out, ready to paste into Canva. Then give a short Canva layout note for each page type.
+
+SELF-CHECK before answering: (a) the rotation dates cover all of 2027 with no gaps or overlaps; (b) there are 52 unique prompts; (c) there are no outcome claims, brands or banned words; (d) both page sizes are noted; (e) the tone is playful, not productive.
+```
+
+**Image prompt 1 (Cover art; Ideogram or ChatGPT images):**
+
+```text
+Flat hand-drawn illustration of three hobby objects in a gentle circle with curved arrows: a ball of yarn, a paintbrush and a running shoe, warm clay #C8643B, sage #8FA382 and butter #F3D98B on paper background #FBF6EE, ink lines #2E2A26, generous white space at top for title text 'The Hobby Rotation Planner 2027' in a soft serif, portrait 8.5x11 ratio, solid background, no logos, no real people, no trademarked characters, no watermarks
+```
+
+**Image prompt 2 (Etsy mockup background; Midjourney or Ideogram):**
+
+```text
+Top-down photo-style scene of a printed planner page on a wooden desk with crochet hook, watercolor set and a small potted plant, soft morning light, muted clay #C8643B and sage #8FA382 accents, empty page area for overlaying a real page screenshot, 4:3 landscape, no text, no logos, no real people, no trademarked characters, no watermarks
+```
+
+### Build and export
+
+1. Run the super prompt; save the output as a doc and fix any date errors in the rotation map.
+2. In Canva create a US Letter design (8.5x11 in); build one master for each page type: cover, inventory, season opener, weekly log, season closer.
+3. Duplicate the masters to reach the full page count (about 70 pages) and paste in the content and prompts.
+4. Resize a copy to A4 with Canva's Resize tool and fix any overflow.
+5. Export both as PDF Print with crop marks off; also export a hyperlinked PDF version (tabs for the 8 seasons) for GoodNotes users.
+6. Make 5 listing images: cover, how it works, rotation map, weekly joy log, and a 'what's inside' grid.
+7. Zip the files as Letter, A4 and Digital, and upload to Etsy as an instant download.
+
+### Listing copy prompt
+
+```text
+Write an Etsy listing for a printable and digital 'Hobby Rotation Planner 2027' (undated weekly joy logs, three hobbies per 6-week season, US Letter, A4 and hyperlinked PDF). Title under 140 characters front-loading 'hobby planner 2027' and 'hobby tracker printable'. 13 tags of 20 characters or fewer (e.g. hobby planner, hobby tracker, 2027 planner, crochet planner, new hobby journal). Description: who it is for (people with too many hobbies who want fun, not pressure), what is included with page counts, file formats and sizes, how instant download works, printing tips. Add a 5-question FAQ (digital only, which apps work, can I print at home, is it dated, refunds on digital items). Do not use trademarked terms, app names, brand names or the word 'maxxing'; make no health or productivity promises.
+```
+
+### Where to list
+
+- **Etsy** (primary): Buyers already search for printable planners there in Q4.
+- **Gumroad or Payhip** (secondary): Direct link for TikTok and Pinterest traffic, with no marketplace fees on direct sales.
+- **Pinterest** (traffic): Planner and hobby pins send traffic for months with no audience needed.
+
+**Positioning:** The calm way to have lots of hobbies: three at a time, rotating, for fun, not points.
+
+### Launch plan
+
+- **Day 0:** Publish the Etsy listing with 5 images and the Gumroad mirror.
+- **Day 1:** Post 5 Pinterest pins (rotation map, joy log, 'too many hobbies?') linking to the listing.
+- **Day 2:** TikTok or Reel: 'I have 14 hobbies so I made a rotation system' flip-through, 20 s.
+- **Day 4:** Post a free one-page 'hobby inventory' printable on Pinterest as a lead magnet linking to the full planner.
+- **Day 7:** Second short video: 'Season 1 of 2027: my three hobbies' with stickers and supplies.
+- **Day 10:** Share in hobby communities that allow self-promo threads (check the community rules).
+- **Day 14:** Review favorites, visits and sales; refresh the title and first image if visits are under 100.
+- **Day 21:** Go/pivot/stop check against continueIf/pivotIf/stopIf.
+
+### Marketing channels
+
+| Channel | What to do | How often |
+|---|---|---|
+| Pinterest | Fresh pins of single pages plus the 'too many hobbies' hook | 1–2 pins daily |
+| TikTok/Instagram Reels | Flip-throughs and 'season opener' setups; reply to hobbymaxxing videos with the calm-rotation angle | 3 per week |
+| Etsy | Renew and adjust tags weekly in November and December | weekly |
+
+**Search phrases to test (suggestions, not measured volumes):** hobby planner 2027, hobby tracker printable, new hobby journal, crochet project planner, 2027 goal planner, hobby rotation
+
+**Hooks:**
+- I have 14 hobbies so I made a rotation system
+- Three hobbies at a time. Rotate every 6 weeks.
+- Hobbies are for fun, not points
+- Guilt-free parking lot for the hobbies you abandoned
+
+### Profit per sale
+
+Suggested price $9.00 (range $6.00–$14.00, estimate). Priced above $3–6 generic trackers because it is a full 70-page system with a digital version, and below premium dated planners.
+
+| Channel | Price | Fees | Product + shipping | You keep | Margin |
+|---|---|---|---|---|---|
+| Etsy | $9.00 | $1.31 | $0.00 | **$7.70** | 86% |
+| Gumroad | $9.00 | $1.40 | $0.00 | **$7.60** | 84% |
+
+Product cost basis: digital. Cash at risk $20.20; break-even 3 sale(s).
+
+### Asymmetry
+
+- **Risk:** $20.20 and about 12 hours; answer in about 21 days.
+- **What you risk:** About 12 hours of build time and up to $20 in ads; nothing to ship.
+- **What stays open:** Zero marginal cost, sellable from October through January and then as an undated evergreen version; works across Etsy, Gumroad and GoodNotes marketplaces.
+- **Bad bet if:** The term fades and buyers only search generic 'habit tracker', where it competes with thousands of cheap listings.
+
+**Ways to extend:** Hobby rotation sticker sheet (POD via Printify); Single-hobby add-on inserts (crochet, running, reading logs); Notion or Google Sheets version; Undated version to sell after January
+
+**Risks:** Trend term may not reach US search volume; rely on the generic 'hobby planner' search.; Criticism framing (hobbies as work) could make 'tracking' feel uncool, so keep the joy/no-scoreboard angle.; Generic hobby planners already exist on Etsy.
+
+**Validation test:** List by Oct 20 and post 10 pins and 3 short videos in 14 days.
+
+**Continue if:** At least 1 sale or 25+ favorites within 21 days, or saves on pins rising week over week. · **Change direction if:** Visits but no sales: retitle as a 'hobby journal 2027' and drop to $6, or add a free one-page sampler. · **Stop if:** Under 50 listing visits after 21 days with active promotion.
+
+---
+
+## Apprentice Hours & Skills Logbook
+
+**Trend:** 'Toolbelt generation': Gen Z skilled-trades apprentices (Prepare) · **Format:** journal (digital) · **Asymmetry:** Strongly asymmetric (70/100)
+
+**Buyer:** Gen Z apprentices in electrical, plumbing, HVAC and carpentry, and parents buying a starter gift
+
+### Super prompt
+
+```text
+You are a skilled-trades training coordinator and document designer. Create the full content for "Apprentice Hours & Skills Logbook (Electrical, Plumbing, HVAC, Carpentry editions)" for [YOUR SHOP NAME].
+
+BUYER AND JOB: A Gen Z apprentice (or their parent buying a gift) in the first years of a registered apprenticeship or trade program. They must keep accurate records of on-the-job hours, tasks and supervisor sign-offs, track classroom hours, and prepare for licensing exams. Official forms are bland and scattered; they want one durable, organized personal log that complements (never replaces) their program's official records.
+
+DELIVERABLE:
+A) Printable PDF (US Letter 8.5x11 in and A4) and B) KDP paperback interior (6x9 in, about 120 pages).
+Sections:
+1. Cover page and "How to use this log" (state clearly: always follow your program's or state's official record requirements; this log is a personal backup).
+2. My apprenticeship profile: trade, program, employer, start date, required OJT hours and classroom hours (blank), supervisor contacts.
+3. Goals page: 1-year and 4-year milestones with checkboxes.
+4. Weekly hours log (52 weekly pages in the paperback; 1 template page in the PDF): Monday-Sunday rows with job site, task category, hours, supervisor initials; weekly total; running total.
+5. Skills/competency checklist: for the chosen edition, 30 general task categories that are common to the trade (e.g., for electrical: conduit bending, rough-in, panel work under supervision, troubleshooting, blueprint reading, safety/lockout). Keep categories generic and do not claim they match any specific state's required list.
+6. Classroom hours and course log.
+7. Tools inventory with serial numbers and purchase dates.
+8. Safety log: toolbox talks attended, PPE checks, near-miss notes (no legal advice).
+9. Pay and raise tracker (step increases) with blank fields.
+10. Exam prep pages: study schedule, topic tracker, practice score log.
+11. Monthly summary pages for supervisor review and signature.
+12. Notes and sketch/grid pages (5 mm grid).
+
+ACCURACY AND SAFETY: Never state specific hour requirements, codes, or legal rules; leave them as blanks the user fills from their program. Add a short disclaimer that the log is not an official record. Use correct, generic trade terminology.
+
+DESIGN: Canva pairing A: "Oswald" + "Roboto". Pairing B: "Archivo Black" + "IBM Plex Sans". Palette: Safety Orange #E8711A, Steel #3C4A57, Concrete #D9D6CF, Hi-Vis Yellow #E3E829, Black #151515. Rugged, clean layout; thick rules; large writing fields.
+
+RULES: Original wording; no union, company, tool-brand or certification-body names or logos. No promises about passing exams, earnings or job placement.
+
+DIFFERENTIATION: Current options are official forms or paid apps; this is a designed, all-in-one personal logbook for the new wave of young apprentices, in four trade editions.
+
+OUTPUT: Section by section with page counts per format, layout notes and all text; the four 30-item skills lists (electrical, plumbing, HVAC, carpentry). End with a SELF-CHECK: disclaimer present, no specific legal hour numbers, no brand/union names, 52 weekly pages in paperback plan, both PDF paper sizes.
+```
+
+**Image prompt 1 (KDP cover; Ideogram):**
+
+```text
+Bold rugged book cover: illustrated tool belt with a pencil, tape measure and wire strippers on a steel-gray background, diagonal hazard stripe band. Colors #3C4A57, #E8711A, #E3E829, #D9D6CF. Text 'APPRENTICE HOURS & SKILLS LOGBOOK' in condensed bold type and 'Electrical Edition' smaller. 6x9 in portrait (2:3), solid background. No logos, no real people, no trademarked characters, no watermarks.
+```
+
+**Image prompt 2 (Listing mockup; ChatGPT images):**
+
+```text
+Photo-style mockup of a paperback logbook lying on a workbench next to a hard hat and work gloves, warm shop light, no readable brand marks on any tool. Colors steel gray #3C4A57 and safety orange #E8711A. 4:5. No logos, no real people, no trademarked characters, no watermarks.
+```
+
+### Build and export
+
+1. Generate content with the super prompt for the electrical edition first.
+2. Build the 6x9 in KDP interior in Canva (0.375 in inside margin, 0.25 in outside), duplicate weekly pages to 52.
+3. Export interior PDF; create cover with KDP's spine width for the page count.
+4. Make the printable PDF (US Letter and A4) with one template page per section.
+5. Export PDF Print 300 DPI.
+6. Repeat for plumbing, HVAC, carpentry by swapping the skills list and cover subtitle.
+7. Upload to KDP (low-content option off since it has structured content) and Etsy.
+
+### Listing copy prompt
+
+```text
+Write an Amazon KDP description and an Etsy listing for an apprentice hours and skills logbook (electrical edition). Etsy title under 140 characters starting 'Apprentice Hours Log Book'. 13 tags of 20 characters or fewer (apprentice gift, electrician gift, trade school gift...). Description: sections, page count, sizes, a clear note that it is a personal log and not an official record, FAQ (Does it meet my state's requirements? Answer: check your program). No union, company, tool-brand or certification names; no promises about exams or pay.
+```
+
+### Where to list
+
+- **Amazon KDP** (primary): Physical logbook gifts are bought on Amazon.
+- **Etsy** (secondary): Printable version and gift buyers.
+- **TikTok** (traffic): Trades creators and apprentices are active there.
+
+**Positioning:** The logbook for the toolbelt generation.
+
+### Launch plan
+
+- **Day 0:** Upload electrical edition to KDP and Etsy printable.
+- **Day 2:** TikTok: 'what I track as a first-year apprentice' flip-through.
+- **Day 5:** Pins: graduation/apprenticeship gift for sons and daughters.
+- **Day 7:** Release plumbing and HVAC editions.
+- **Day 10:** Share in apprentice forums or subreddits where self-promotion is allowed (check the community rules).
+- **Day 14:** Carpentry edition; National Apprenticeship Week content plan.
+- **Day 21:** Go/pivot/stop check per validation rules.
+
+### Marketing channels
+
+| Channel | What to do | How often |
+|---|---|---|
+| TikTok | Day-in-the-life apprentice content featuring the log | 3/week |
+| Pinterest | Gift-for-apprentice pins | 3/week |
+
+**Search phrases to test (suggestions, not measured volumes):** apprentice log book, electrician apprentice gift, trade school graduation gift, hours tracker apprentice
+
+**Hooks:**
+- Debt-free, skill-rich, and tracking every hour
+- What first-year apprentices should log
+
+### Profit per sale
+
+Suggested price $11.99 (range $8.99–$14.99, estimate). Paperback logbook price band; printable version $6.
+
+| Channel | Price | Fees | Product + shipping | You keep | Margin |
+|---|---|---|---|---|---|
+| Amazon KDP (120-page B&W, 60% royalty) | $11.99 | $4.80 | $2.44 | **$4.75** | 40% |
+| Etsy | $11.99 | $1.59 | $0.00 | **$10.40** | 87% |
+
+Product cost basis: digital. Cash at risk $0.20; break-even 1 sale(s).
+
+### Asymmetry
+
+- **Risk:** $0.20 and about 14 hours; answer in about 21 days.
+- **What you risk:** About 14 hours; no cash beyond optional ads.
+- **What stays open:** Durable structural trend, four editions from one template, Amazon gift traffic.
+- **Bad bet if:** Apprentices rely solely on employer apps and parents do not see it as a gift.
+
+**Ways to extend:** Google Sheets hours tracker; Welding and auto-tech editions; Journeyman exam study planner
+
+**Risks:** Users may think it replaces official records (mitigate with disclaimer); Amazon competition in generic logbooks
+
+**Validation test:** KDP paperback (electrical edition first) plus Etsy printable; 21-day sales and page reads.
+
+**Continue if:** 3+ paperback or digital sales in 21 days · **Change direction if:** Interest but no sales: make a Google Sheets hours tracker instead · **Stop if:** No sales and under 100 Etsy views by Day 21
+
+---
+
 ## November 2026: Do You Understand Yet? Lock-Screen Calendar Pack
 
 **Trend:** Remember November 2026 (Prepare) · **Format:** other (digital) · **Asymmetry:** Asymmetric (69/100)
@@ -2989,6 +6252,600 @@ Product cost basis: digital. Cash at risk $0.20; break-even 1 sale(s).
 **Validation test:** List on Gumroad and Etsy at about $3. Post 3-5 TikToks/Reels in the meme's format (bear reacting to the calendar) between Oct 25 and Nov 3, linking the product.
 
 **Continue if:** 10 or more paid downloads, or clear 'where do I get this' comments, by Nov 4 · **Change direction if:** Videos get views but no sales: offer it free as a lead magnet and test a paid sticker instead · **Stop if:** Fewer than 3 sales by Nov 10, or meme content volume visibly dies after Nov 1
+
+---
+
+## Things To Say: Editable Meme Poster Template Pack
+
+**Trend:** Things To Say (ironic advice lists) (Prepare) · **Format:** template (digital) · **Asymmetry:** Asymmetric (69/100)
+
+**Buyer:** Small businesses, social media managers and creators
+
+### Super prompt
+
+```text
+You are a social media designer and comedy writer building an original, editable Canva template pack for the 'Things To Say' meme format: a poster-style slide with a bold headline ("THINGS TO SAY WHEN ...") and a bulleted list of confidently terrible advice.
+
+BUYER AND JOB: Small-business owners, social media managers and creators who want to join the trend fast with on-brand posts for TikTok carousels, Instagram posts and Reels covers. They need ready layouts and starter copy they can edit in minutes.
+
+DELIVERABLE SPEC: 20 templates in three sizes each: 1080x1350 (IG portrait), 1080x1920 (Story/Reel/TikTok), 1080x1080 (square). For each template give: headline, 6-8 list items (each under 12 words), layout notes (where the image placeholder sits, bullet style), and which palette colors to use.
+Headlines must cover generic, brand-safe situations: meeting your partner's parents; job interview; first day at a new job; at the dentist; to your barista; to your landlord; at a family reunion; at the gym; to your group project; at a wedding; to your plumber; at parent-teacher night; to your hairstylist; at the DMV; on a first date; to your neighbor; at a job you're quitting; to customer support; to your accountant; for small-business owners: to a customer who says "I can get it cheaper".
+The humor: deadpan, absurd, over-confident hustle-bro energy (e.g. "Ask if they've considered investing in rare fish"). Clean, no sexual content, no slurs, no insults about groups.
+Image placeholder: a generic frame labeled "your photo here" or an original illustrated suited character (no celebrity).
+
+FONTS (two Canva pairings): A) "Anton" + "Inter"; B) "Archivo Black" + "IBM Plex Sans".
+PALETTE: espresso #2B211C, cream #F5EFE3, money green #2E6B45, gold #C9A24A, alert red #C8402F.
+
+RIGHTS RULES: No celebrity photos, movie stills or real people's names; never tell buyers to use celebrity images. Do not use the original creators' handles or their exact lines. All lines must be newly written.
+
+DIFFERENTIATION: The viral posts use celebrity headshots that brands can't legally use. This pack gives brand-safe layouts, an original placeholder character and 140+ fresh lines.
+
+OUTPUT FORMAT: Template 1-20, each with headline, list items, layout, colors. Then a 'how to customize' section (5 steps) and 10 extra blank-situation headline ideas.
+
+SELF-CHECK: 20 templates; every line original and clean; no celebrities or brands; item length under 12 words; palette hex codes valid.
+```
+
+**Image prompt 1 (Original placeholder character; Ideogram or ChatGPT images):**
+
+```text
+Flat vector illustration of an original fictional confident businessman character in a too-big pinstripe suit and sunglasses, arms crossed, smug grin, money green #2E6B45 suit, gold #C9A24A tie, cream #F5EFE3 background, chest-up portrait, 4:5. No logos, no real people, no trademarked characters, no watermarks.
+```
+
+**Image prompt 2 (Pack cover mockup; Canva):**
+
+```text
+Mockup of three phone screens showing poster-style slides with the bold headline "THINGS TO SAY" in white condensed type on espresso #2B211C with gold #C9A24A bullets, 4:5 composition, light cream background. No logos, no real people, no trademarked characters, no watermarks.
+```
+
+### Build and export
+
+1. Generate copy with the super prompt and the character art.
+2. Build template 1 in Canva at 1080x1350; set brand styles (fonts, palette).
+3. Duplicate and fill templates 2-20; resize copies to 1080x1920 and 1080x1080 (Canva Pro resize or manual).
+4. Lock background elements; leave text and photo frames editable.
+5. Create Canva template share links ('use as template') and paste them into a 2-page PDF with instructions.
+6. Make 3 preview images and a 15-second flip-through video.
+7. List on Etsy and Gumroad as a digital download (PDF with links).
+
+### Listing copy prompt
+
+```text
+Write an Etsy listing for an editable Canva template pack of 20 'Things To Say' meme posters with original starter copy for small businesses and creators. Title under 140 characters front-loading "Things To Say Meme Template". 13 tags of 20 characters or fewer. Description: what's included (20 templates x 3 sizes, starter lines), Canva free account works, delivered as a PDF with template links, no physical item. 5-question FAQ including 'Can I use celebrity photos?' (answer: no, use your own photos). Do not use trademarks, celebrity names or the original creators' handles.
+```
+
+### Where to list
+
+- **Etsy** (primary): Canva-template buyers search Etsy
+- **Gumroad** (secondary): Direct link in bio from demo posts
+- **TikTok / Instagram** (traffic): Post the templates themselves as meme content
+
+**Positioning:** Join the Things To Say trend in five minutes, without borrowing a celebrity's face.
+
+### Launch plan
+
+- **Day 0:** List on Etsy + Gumroad.
+- **Day 1:** Post 3 templates as your own meme posts on TikTok and Instagram.
+- **Day 3:** Post 'Things to say to a customer who wants a discount' aimed at small-business owners.
+- **Day 5:** Pinterest pins for 'social media templates'.
+- **Day 7:** Share in small-business groups only where promotion is allowed (check the community rules).
+- **Day 14:** Go/pivot/stop check.
+- **Day 21:** If selling, add a niche pack (realtors, salons).
+
+### Marketing channels
+
+| Channel | What to do | How often |
+|---|---|---|
+| TikTok | Post templates as native memes; 'link in bio' for the pack | 4/week |
+| Instagram | Carousels using the templates | 3/week |
+| Pinterest | Template preview pins | 5/week |
+
+**Search phrases to test (suggestions, not measured volumes):** things to say meme, meme template canva, instagram meme template, small business meme
+
+**Hooks:**
+- Things to say to a customer who wants a discount:
+- Your brand can do this trend in 5 minutes
+
+### Profit per sale
+
+Suggested price $9.00 (range $6.00–$15.00, estimate). Social template packs commonly sell in single digits to mid-teens; keep it an impulse buy while the trend is hot.
+
+| Channel | Price | Fees | Product + shipping | You keep | Margin |
+|---|---|---|---|---|---|
+| Etsy | $9.00 | $1.31 | $0.00 | **$7.70** | 86% |
+| Gumroad | $9.00 | $1.40 | $0.00 | **$7.60** | 84% |
+
+Product cost basis: digital. Cash at risk $0.20; break-even 1 sale(s).
+
+### Asymmetry
+
+- **Risk:** $0.20 and about 11 hours; answer in about 21 days.
+- **What you risk:** About 10-12 hours; under $5.
+- **What stays open:** Digital, zero marginal cost; niche spin-offs reuse the same layouts.
+- **Bad bet if:** The format fades before Etsy indexes the listing (it started in mid-August).
+
+**Ways to extend:** Niche packs: realtors, hair salons, fitness coaches; Seasonal: things to say at Thanksgiving dinner
+
+**Risks:** Format already about 7 weeks old; could fade in October; Buyers may swap in celebrity photos themselves; warn them clearly; Free DIY alternatives
+
+**Validation test:** List and post 6 template demos as native memes over 2 weeks
+
+**Continue if:** 5+ sales in 14 days · **Change direction if:** Views on demos but no sales: make niche packs (realtors, salons) · **Stop if:** No sales in 14 days and new variants have stopped
+
+---
+
+## 2027 Goal Punch Cards: The Complete Kit
+
+**Trend:** Goal punch cards (2027 cycle) (Prepare) · **Format:** printable (digital) · **Asymmetry:** Asymmetric (69/100)
+
+**Buyer:** US teens and adults aged 16–40 who saw the 2026 TikTok goal punch card trend and want ready-made cards for 2027
+
+### Super prompt
+
+```text
+You are a stationery designer. Produce the complete content and design spec for a printable kit called "2027 Goal Punch Cards: The Complete Kit" for [YOUR SHOP NAME].
+
+BUYER AND JOB: US teens and adults aged 16–40 who saw the 2026 TikTok goal punch card trend (loyalty-card-style cards you punch or stamp each time you make progress, with a reward when the card is full). They want cute, ready-made cards for 2027 without designing their own. The kit gives them pre-written goal cards, blank cards, reward slips and a binder ring setup.
+
+DELIVERABLE SPEC:
+- Card size 3.5 x 2 in (business card) on a 10-up US Letter sheet (8.5x11 in, 0.5 in margins, crop marks) and an A4 version (10-up, adjusted margins). Also offer a 4 x 6 in jumbo version, 4-up per Letter sheet.
+- 40 pre-written goal cards in 8 categories (5 each): Move, Read & Learn, Money, Home, Friends & Family, Creativity, Rest & Calm, Brave Things. Each card has a short original goal name (e.g. "10 walks outside", "Cook at home 12 times", "Text a friend first x10"), 10 or 12 punch circles numbered, a "Reward:" line and a "Started / Finished" date line.
+- 20 blank editable cards with 10, 12, 20 and 30 circle layouts.
+- 12 monthly mini-cards ("January 2027" to "December 2027"), each with a 4x7-style grid sized to that month (31, 28, 31... days; 2027 is not a leap year).
+- Reward slips page: 30 original reward ideas under $10 or free (e.g. "fancy coffee", "new library book", "long bath") with checkboxes.
+- Cover/instructions page: how to print on cardstock (65–110 lb), cut, round corners, punch with a 1/4 in hole punch or stamp, store on a 1.5 in binder ring.
+- Kids & Teens add-on: 10 cards with simpler goals.
+
+DESIGN: Three colorway sets so buyers can choose: (1) Retro Café: Cherry #D7263D, Cream #FFF4E0, Espresso #3E2723, Mint #9ED8C3; (2) Soft Pastel: Blush #F7C6C7, Butter #FFE8A3, Sky #BFE3F5, Lilac #D9C8F0, Ink #3A3A48; (3) Monochrome: Black #1E1E1E, Paper #FFFFFF, Gray #BDBDBD. Canva font pairings: (a) "Cooper Black"-style display alternative "Shrikhand" with "Poppins"; (b) "Fraunces" with "Nunito". Each card has a small original doodle icon related to its category (sneaker, book, coin, house, heart, pencil, moon, star).
+
+CONTENT RULES: All goals and rewards must be original, positive and achievable. Make no health, weight, diet or money-result claims: avoid weight-loss goals and calorie or diet language, and keep money goals behavioral ("no-spend day x10"). Use no brand names (no coffee chains, apps or stores), no characters and no copying of any creator's cards. Write in plain English, under 6 words per goal name.
+
+DIFFERENTIATION: Most 2026 punch card files offered 6–16 designs. This kit has 40 pre-written goals across 8 life areas, blank editable cards, 12 month cards sized correctly for 2027, three colorways, a jumbo size, and a kids and teens add-on.
+
+OUTPUT: Return (1) the full list of 40 goal names by category with circle counts, (2) the 10 kids and teens goals, (3) 12 month cards with correct day counts, (4) 30 rewards, (5) instruction page text, and (6) a sheet-by-sheet layout plan for Canva listing which cards go on which page for each size.
+
+SELF-CHECK: (a) 40 + 10 goals, none repeated, each under 6 words; (b) February has 28 days; (c) no diet, weight or brand language; (d) the card count per sheet matches the sizes; (e) all three colorways are specified.
+```
+
+**Image prompt 1 (Hero mockup; Ideogram or ChatGPT images):**
+
+```text
+Flat-lay of a fanned stack of cute printed goal punch cards on a binder ring, retro café style, cherry #D7263D, cream #FFF4E0, espresso #3E2723 and mint #9ED8C3, some circles punched out, small doodle icons (sneaker, book, coin), a vintage hole punch beside them, soft daylight, card text reads '10 walks outside' and 'Reward: fancy coffee', 4:3 landscape, light wood background, no logos, no real people, no trademarked characters, no watermarks
+```
+
+**Image prompt 2 (Doodle icon set; Ideogram):**
+
+```text
+Set of 8 simple hand-drawn line icons in espresso #3E2723 on transparent background: sneaker, open book, coin, little house, heart, pencil, crescent moon, star, consistent 3px line, cute rounded style, each on its own square tile, 1:1, no text, no logos, no real people, no trademarked characters, no watermarks
+```
+
+### Build and export
+
+1. Run the super prompt; verify the goal counts and month day counts.
+2. In Canva make a 3.5x2 in card master per colorway and duplicate it for all 40 goals and 20 blanks.
+3. Lay out the 10-up US Letter sheets with crop marks (use a grid template), then repeat for A4 and the 4-up jumbo.
+4. Create an editable Canva template link for the blank cards (share a 'use as template' link in a PDF).
+5. Export print sheets as PDF Print (300 DPI) with crop marks; export the icons as transparent PNGs.
+6. Zip by colorway and size; include a one-page start guide.
+7. Shoot or mock up 6 listing images: fanned cards, sheet preview, colorways, month cards, kids add-on, and 'what's included'.
+
+### Listing copy prompt
+
+```text
+Write an Etsy listing for '2027 Goal Punch Cards: The Complete Kit', a printable kit with 40 pre-written goal cards in 8 categories, 20 blank cards plus an editable Canva template, 12 month cards for 2027, 30 reward ideas, a kids and teens add-on, in 3 colorways, business-card and 4x6 sizes, on US Letter and A4 sheets. Title under 140 characters front-loading 'goal punch cards' and '2027'. 13 tags of 20 characters or fewer (e.g. goal punch cards, punch card printable, 2027 goals, habit tracker card, new year goals, reward chart). Description: what's included with counts, sizes, file types, how to print and cut, cardstock tips, how instant download and the Canva link work, and a 6-question FAQ. Do not use brand, store, app or character names; no diet, weight or money-outcome claims.
+```
+
+### Where to list
+
+- **Etsy** (primary): Printable buyers and resolution-season search.
+- **Gumroad or Ko-fi** (secondary): Direct links from TikTok and Lemon8, where the trend lives.
+- **Pinterest** (traffic): Punch card setups are very pinnable.
+
+**Positioning:** The biggest, cutest ready-to-print goal punch card kit for 2027.
+
+### Launch plan
+
+- **Day 0:** List on Etsy and Gumroad by mid-November.
+- **Day 1:** Pin the 3 colorway mockups and a 'punch card vs bingo card' pin.
+- **Day 3:** TikTok or Reel: cutting and punching the first card, ASMR-style.
+- **Day 6:** Post a free 3-card sampler on Pinterest that links to the full kit.
+- **Day 10:** Lemon8 and Instagram carousel: '40 goal ideas for 2027 punch cards'.
+- **Day 14:** Review favorites and visits; add a 'friends' accountability' bundle if comments ask.
+- **Day 21:** Go/pivot/stop check; then a big push Dec 26–Jan 15.
+
+### Marketing channels
+
+| Channel | What to do | How often |
+|---|---|---|
+| TikTok/Reels/Lemon8 | Punching ASMR, setup videos, 'goal ideas' carousels | 3–4 per week from mid-November, daily Dec 26–Jan 10 |
+| Pinterest | Colorway mockups and goal-idea pins | daily |
+| Etsy | Tags around 'punch card' and '2027 goals' | weekly |
+
+**Search phrases to test (suggestions, not measured volumes):** goal punch cards, 2027 punch cards, punch card printable, new year goals, habit tracker cards, reward punch card
+
+**Hooks:**
+- Bingo cards are out. Punch cards are in.
+- 40 punch cards for your 2027 goals
+- Punch a hole every time you show up
+- The most satisfying way to track goals
+
+### Profit per sale
+
+Suggested price $6.00 (range $4.00–$9.00, estimate). 2026 punch card files were small sets; a larger kit justifies a modest premium while staying an impulse buy.
+
+| Channel | Price | Fees | Product + shipping | You keep | Margin |
+|---|---|---|---|---|---|
+| Etsy | $6.00 | $1.02 | $0.00 | **$4.98** | 83% |
+| Gumroad | $6.00 | $1.10 | $0.00 | **$4.90** | 82% |
+
+Product cost basis: digital. Cash at risk $30.20; break-even 7 sale(s).
+
+### Asymmetry
+
+- **Risk:** $30.20 and about 10 hours; answer in about 21 days.
+- **What you risk:** About 10 hours and up to $30 in ads.
+- **What stays open:** Proven 2026 format with press and campus adoption; zero marginal cost; reusable every year with a date swap; bundles well.
+- **Bad bet if:** The format does not return for 2027, or many sellers flood Etsy with cheap 2027 punch cards in December. Price and differentiation then matter more than timing.
+
+**Ways to extend:** POD sticker sheet of the doodle icons; Friend-group bundle (6 matching sets); Classroom or teacher version; Spring 'reset' edition and undated evergreen kit
+
+**Risks:** Seasonal: most sales will fall between Dec 20 and Jan 31.; Easy to copy; competition may rise fast.; The 'low in stock' snippet on one listing is not demand evidence.
+
+**Validation test:** List by Nov 15; 10 pins and 3 videos before Dec 1.
+
+**Continue if:** At least 3 sales or 40+ favorites by Dec 20, or the free sampler pin passing 150 saves. · **Change direction if:** Favorites but few sales: drop to $4 or bundle with a goal bingo card; if kids-card interest dominates, spin out a family or classroom version. · **Stop if:** Under 60 visits by Dec 20 despite steady pinning.
+
+---
+
+## First 100 Birds Field Log (Printable + Paperback)
+
+**Trend:** Gen Z birding and college bird clubs (Prepare) · **Format:** printable (digital) · **Asymmetry:** Asymmetric (68/100)
+
+**Buyer:** Beginner Gen Z birders and college bird-club members
+
+### Super prompt
+
+```text
+You are a birding educator and stationery designer creating a printable product called "First 100 Birds: A Gen Z Birding Field Log + October Big Day Kit" for [YOUR SHOP NAME].
+
+BUYER AND JOB: Students and young adults in their first year or two of birding (college bird clubs, Merlin-app users) who want a stylish, low-pressure way to log sightings, set goals and take part in Big Day counts. They are not experts and dislike stuffy, taxonomic journals.
+
+DELIVERABLE (US Letter 8.5x11 in and A4 PDFs, plus an A5 booklet imposition note):
+1. Cover and "How to use this log" page (friendly tone, 150 words).
+2. "My First 100" life list: 100 numbered lines with columns species, date, place, how I ID'd it (sight/sound/photo), a star for favorites. Leave species blank (no pre-filled list) so it works in any region.
+3. Sighting log pages (template, 6 entries per page) with fields: date, time, place, weather, species, count, behavior, sketch box, sound notes.
+4. Big Day checklist sheet: start/end time, locations visited, running species tally 1-150, group members, and a reminder line to submit counts through the official citizen-science app (refer to it generically as "your checklist app"; do not use brand names).
+5. October Big Day plan page: route planner with 4 stops, packing list (binoculars, water, layers, notebook), etiquette list (keep distance, stay on trails, don't play recordings near nesting birds, respect private land).
+6. Bird club meeting page: walk sign-in sheet (15 names), leader notes, species seen together.
+7. Goals and badges page: 12 original challenge badges to color in (e.g., First Owl, Dawn Chorus, Five Ducks, Backyard 20, Rainy Day Bird).
+8. Seasonal tracker: a 12-month grid for one "patch" (a local park).
+9. Field marks quick guide: how to describe a bird (size vs. sparrow/robin/crow, shape, bill, wing bars, eye ring, tail, behavior, habitat, voice) with a labeled bird-topography diagram description.
+10. Notes and sketch pages (2).
+
+ACCURACY: Bird-topography terms must be correct (crown, nape, mantle, wing bars, primaries, secondaries, rump, undertail coverts, flanks, breast, throat, lores, eye ring, supercilium). Ethics guidance must match widely accepted birding ethics. Do not state population statistics. Do not name specific species as rare or endangered.
+
+DESIGN: Canva pairing A: "Fraunces" + "Nunito Sans". Pairing B: "Young Serif" + "Karla". Palette: Fog #EEF1EC, Pine #2F4A3A, Robin Egg #9CCFC8, Goldfinch #F2C14E, Cardinal #C2402F, Ink #20231F. Leave ample white space for handwriting; lines 9 mm apart.
+
+RULES: Original content; no brand names (no app, optics, publisher or organization names). No copied bird illustrations. No claims about mental-health benefits.
+
+DIFFERENTIATION: Existing life lists are traditional publisher journals or bare free PDFs. This log is goal-driven for beginners (First 100, badges), includes club and Big Day pages, and has a modern look.
+
+OUTPUT: Page by page ("PAGE 1"...) with layout notes and all text. End with a SELF-CHECK: 100 life-list lines; 12 badges; topography terms correct; no brand names; ethics list present; both paper sizes noted.
+```
+
+**Image prompt 1 (Cover art; Ideogram or Midjourney):**
+
+```text
+Modern risograph-style illustration of a small round songbird perched on a pair of binoculars resting on an open notebook, autumn leaves around, playful and clean. Colors #EEF1EC background, #2F4A3A, #9CCFC8, #F2C14E, #C2402F accents. Text 'FIRST 100 BIRDS' in chunky serif and 'a field log for new birders' below. 3:4 portrait, solid background. No logos, no real people, no trademarked characters, no watermarks.
+```
+
+**Image prompt 2 (Badge set art; Ideogram):**
+
+```text
+Set of 12 circular merit-badge illustrations for birding challenges (owl at night, sunrise with music notes, five ducks, backyard feeder, raindrops with a bird), flat line art suitable for coloring, black #20231F lines on white. 1:1, white background, no text. No logos, no real people, no trademarked characters, no watermarks.
+```
+
+### Build and export
+
+1. Generate content with the super prompt; verify bird-topography terms against a reputable field guide glossary.
+2. Build US Letter pages in Canva with pairing A and palette; keep writing lines 9 mm apart.
+3. Duplicate to A4; fix overflow.
+4. Export PDF Print 300 DPI (both sizes).
+5. For KDP: rebuild interior at 6x9 in with 0.375 in inside margin, export PDF, make a matching cover in KDP Cover Creator or Canva at the calculated spine width.
+6. Make 5 listing images (cover, life list, Big Day page, badges, club sheet).
+
+### Listing copy prompt
+
+```text
+Write an Etsy listing for a printable beginner birding field log ('First 100 Birds'). Title under 140 characters starting 'Birding Journal Printable for Beginners'. 13 tags of 20 characters or fewer (bird watching log, life list printable, birder gift, bird club...). Description listing every page, US Letter and A4, instant download, printing and binding tips, FAQ (Is it region-specific? Can my club print copies? Is there a paperback?). Do not use any organization, app, publisher or optics brand names.
+```
+
+### Where to list
+
+- **Etsy** (primary): Printable journals sell there.
+- **Amazon KDP** (secondary): Paperback gift for birders.
+- **Pinterest** (traffic): Birding and nature-journal pins.
+
+**Positioning:** The first birding log made for brand-new birders.
+
+### Launch plan
+
+- **Day 0:** Publish Etsy digital listing (aim before Oct 10).
+- **Day 1:** Free Big Day checklist page on Payhip as an email magnet; pin it.
+- **Day 3:** TikTok: 'how I'm doing my first Big Day' with the plan page.
+- **Day 6:** Publish KDP paperback (review time applies).
+- **Day 8:** Post Big Day recap video with the tally page.
+- **Day 12:** Share in beginner birding groups where self-promotion is allowed (check the community rules).
+- **Day 16:** Gift-guide pins for birders.
+- **Day 21:** Go/pivot/stop check per validation rules; plan Christmas Bird Count update.
+
+### Marketing channels
+
+| Channel | What to do | How often |
+|---|---|---|
+| Pinterest | Life list and badge pins | 4/week |
+| TikTok | Beginner birding moments with the log | 3/week |
+
+**Search phrases to test (suggestions, not measured volumes):** bird watching journal, birding life list, beginner birder gift, bird club printable, big day checklist
+
+**Hooks:**
+- My first 100 birds, one page at a time
+- Doing my first Big Day with zero experience
+
+### Profit per sale
+
+Suggested price $7.00 (range $5.00–$10.00, estimate). Above $1 minimalist logs thanks to goals, club and Big Day pages; paperback about $9.99.
+
+| Channel | Price | Fees | Product + shipping | You keep | Margin |
+|---|---|---|---|---|---|
+| Etsy | $7.00 | $1.12 | $0.00 | **$5.89** | 84% |
+| Amazon KDP (120-page B&W, 50% royalty) | $7.00 | $3.50 | $2.44 | **$1.06** | 15% |
+
+Product cost basis: digital. Cash at risk $0.20; break-even 1 sale(s).
+
+### Asymmetry
+
+- **Risk:** $0.20 and about 12 hours; answer in about 21 days.
+- **What you risk:** About 12 hours; no cash.
+- **What stays open:** Evergreen hobby, recurring count events, digital plus paperback, gift season.
+- **Bad bet if:** Etsy already has strong youth-styled birding logs with many reviews; then compete on niche (club kit) only.
+
+**Ways to extend:** Christmas Bird Count edition; Backyard feeder log for kids; Regional pre-filled life lists (verify species lists carefully)
+
+**Risks:** Moderate competition; Missing the Oct 10 date (other events follow)
+
+**Validation test:** Etsy digital listing plus a KDP 6x9 paperback; 12 pins and 4 TikToks by Day 21.
+
+**Continue if:** 5+ digital sales or 2+ paperback sales by Day 21 · **Change direction if:** Interest but low sales: sell the Big Day kit alone free as an email magnet and keep the log for gifting season · **Stop if:** Under 150 views by Day 21
+
+---
+
+## Bedazzle Anything Pattern Pack
+
+**Trend:** Whimsymaxxing: bedazzle-everything DIY (Prepare) · **Format:** printable (digital) · **Asymmetry:** Asymmetric (67/100)
+
+**Buyer:** Teens and young women (about 14-30) trying rhinestone DIY on phone cases, tumblers, cups, notebooks and compacts for the first time
+
+### Super prompt
+
+```text
+You are a craft-pattern designer and patient beginner teacher. Write the full content and layout specification for a printable digital product called 'Bedazzle Anything Pattern Pack'. BUYER AND JOB: teens and young women trying rhinestone DIY for the first time on phone cases, cups, tumblers, notebooks, compacts and hair clips. They need layouts that keep stones evenly spaced and patterns that look neat, plus clear first-timer guidance. DELIVERABLE SPEC (US Letter 8.5x11 in and A4 PDFs; all patterns printed at 100% scale; include a 1-inch test square on every pattern page): Page 1 Cover. Page 2 How to use: print at 100%, check the test square, place the pattern under a clear case or inside a clear cup, or tape it beside the object, then place stones dot by dot. Page 3 Stone size chart: circles for SS6, SS10, SS16, SS20 and SS30 at true size, with a 'how many stones per square inch' table worked out geometrically (state it as approximate). Page 4 Safety and care basics: ventilation and following the adhesive maker's label; keep small stones away from young children and pets; never decorate anything that goes in the mouth or on the lip area of a cup; hand-wash only. No medical claims. Pages 5-12 Phone-case patterns on a generic rounded-rectangle outline sized 3x6 in, with 'trace your own case' instructions: full ombre, border only, heart cluster, star scatter, checkerboard, flower, wavy stripes, initial monogram frame. Pages 13-18 Monogram alphabet A-Z as dot grids, 5 letters per page, 1.5 in tall, at SS10 spacing. Pages 19-22 Cup and tumbler wraps: honeycomb dot grid, gradient band, scattered sparkle, and checker band, each as a rectangle 9x8 in with a 'measure your cup' formula (circumference = diameter x 3.14). Pages 23-24 Small-object motifs: 12 motifs for compacts, clips and notebook corners (heart, star, bow, cherry, moon, sparkle, flower, butterfly, initial circle, smile, lightning bolt, shell). Page 25 Project planner: object, pattern, stone sizes, color plan, stone count, date, photo box. Pattern drawing rules: describe each pattern precisely as dot positions or grid rules (e.g. 'offset rows, 3 mm center-to-center') so a designer can rebuild it in Canva or Illustrator. STYLE: playful maximalist on clean white. Canva font pairings: (1) Fredoka headings + Nunito body; (2) Bagel Fat One + Poppins. Palette: Bubblegum #FF8FC7, Lilac #C9A7FF, Aqua #7FE0E8, Lemon #FFE36E, Charcoal #2B2B33. CONTENT RULES: original patterns only; no logos, brand-shaped silhouettes, characters, sports-team marks or celebrity references; do not name any drinkware or phone brand; no claims that adhesives are food-safe. DIFFERENTIATION: one pack covering many object types with true-scale templates and a beginner stone-size chart, rather than single-project tutorials. OUTPUT FORMAT: page by page, headed 'PAGE n - name', with all text and a precise pattern specification in brackets. SELF-CHECK before answering: every page listed is present; every pattern page has a test square; the safety page warns against decorating lip areas and keeps stones away from small children; no brands or characters named; both font pairings and all 5 hex colors used.
+```
+
+**Image prompt 1 (Listing hero image; Midjourney or ChatGPT images):**
+
+```text
+Top-down craft table with a clear phone case half-covered in pastel rhinestones in a heart pattern, a printed dot-grid template visible underneath, small trays of gems in #FF8FC7 #C9A7FF #7FE0E8 #FFE36E, tweezers and a wax pick, bright soft lighting, 4:3 aspect ratio, white background, no text. No logos, no real people, no trademarked characters, no watermarks.
+```
+
+**Image prompt 2 (Pinterest pin; Ideogram):**
+
+```text
+Vertical graphic showing three printed rhinestone pattern sheets (heart cluster, honeycomb band, monogram letter dot grid) fanned out, headline text 'Bedazzle Anything: 25 printable patterns' in rounded bold font in charcoal #2B2B33, sparkle accents in #FF8FC7 and #7FE0E8, 2:3 aspect ratio, white background. No logos, no real people, no trademarked characters, no watermarks.
+```
+
+### Build and export
+
+1. Run the super prompt and rebuild each pattern in Canva (or Illustrator) using circle elements on a snapped grid at the stated spacing.
+2. Add a 1-inch test square to every pattern page and verify it measures 1 in when printed.
+3. Set the palette and font pairing as a brand kit; keep pattern dots light gray so stones cover them.
+4. Duplicate to A4 with patterns kept at true physical size (do not scale patterns).
+5. Export PDF Print at 300 DPI, flattened, and remind buyers in the guide to print at 'Actual size'.
+6. Test-print 3 pages and try one pattern under a clear case to confirm spacing.
+7. Record 15-second process clips of the test for listing videos.
+
+### Listing copy prompt
+
+```text
+Write an Etsy listing for a digital download 'Bedazzle Anything Pattern Pack'. Title under 140 characters starting with 'Rhinestone Pattern Template Printable'. Exactly 13 tags of 20 characters or fewer (e.g. rhinestone pattern, bedazzle template, gem art template, phone case diy, rhinestone tumbler). Description: 25 pages, true-scale templates with test squares, US Letter and A4 PDFs, instant download, no physical items or stones included, beginner guide and safety notes. FAQ: printing at actual size, sizing to your object, which stone sizes, can I sell items I make (yes, finished handmade items; not the templates), refunds. Never use any phone, tumbler, cup or celebrity brand names or other trademarks.
+```
+
+### Where to list
+
+- **Etsy** (primary): Craft templates sell there
+- **TikTok** (traffic): Bedazzling is a process-video trend
+- **Pinterest** (traffic): DIY pattern pins
+
+**Positioning:** Neat bedazzling for first-timers: print, place, sparkle.
+
+### Launch plan
+
+- **Day 0:** Publish the listing with a process video
+- **Day 1:** TikTok: bedazzle a phone case over the template, timelapse
+- **Day 2:** Post 4 Pinterest pins (pack overview, monogram, tumbler wrap, size chart)
+- **Day 4:** TikTok: 'beginner mistakes' video showing spacing with vs without the template
+- **Day 7:** Reel: cup band pattern
+- **Day 10:** Offer a free single-heart pattern as a pin and a link-in-bio freebie
+- **Day 14:** Review views and sales; make the most-viewed object a standalone pack
+- **Day 21:** Go/pivot/stop check
+
+### Marketing channels
+
+| Channel | What to do | How often |
+|---|---|---|
+| TikTok | Satisfying placement timelapses with the template visible | 4 per week |
+| Pinterest | Pattern previews | 3 pins every 2 days |
+
+**Search phrases to test (suggestions, not measured volumes):** rhinestone pattern template, bedazzle phone case, rhinestone tumbler pattern, gem art template, monogram rhinestone
+
+**Hooks:**
+- Your bedazzle, but neat
+- Print it, place it, sparkle
+- The template under my case
+
+### Profit per sale
+
+Suggested price $6.00 (range $4.00–$9.00, estimate). Mid-priced craft pattern pack; impulse level for teen and young-adult buyers.
+
+| Channel | Price | Fees | Product + shipping | You keep | Margin |
+|---|---|---|---|---|---|
+| Etsy | $6.00 | $1.02 | $0.00 | **$4.98** | 83% |
+
+Product cost basis: digital. Cash at risk $25.20; break-even 6 sale(s).
+
+### Asymmetry
+
+- **Risk:** $25.20 and about 14 hours; answer in about 21 days.
+- **What you risk:** About 14 hours plus $25 of supplies
+- **What stays open:** Evergreen craft-template demand, easy seasonal add-on packs
+- **Bad bet if:** The bedazzling wave fades before the listing is indexed, and evergreen rhinestone-template searches are already saturated
+
+**Ways to extend:** Holiday motif pack; Hotfix designs for apparel (iron-on layout guides); Kids' sticker-gem version with chunky patterns
+
+**Risks:** Physical rhinestone supply is huge and free tutorials exist; Peak may already have passed with the late-August spike; Template sizing must be accurate or reviews suffer
+
+**Validation test:** List the pack and post 4 short process videos of a phone case and a cup bedazzled with the printable under them within 10 days.
+
+**Continue if:** 3+ sales or a video above 10,000 views within 21 days · **Change direction if:** Interest centers on one object type: release that as a focused pack (e.g. tumbler wraps only) · **Stop if:** No sales and under 300 views by day 21
+
+---
+
+## Party Like It's 2016: Throwback Friendsgiving & Holiday Party Kit
+
+**Trend:** 2016-themed holiday parties (2016 Friendsgiving) (Prepare) · **Format:** bundle (digital) · **Asymmetry:** Asymmetric (66/100)
+
+**Buyer:** Millennial/older Gen Z hosts planning a Friendsgiving or December friends' party
+
+### Super prompt
+
+```text
+You are a party-game writer and printable designer. Produce the complete content for a printable party kit called "Party Like It's 2016: Throwback Friendsgiving & Holiday Party Kit".
+
+BUYER AND JOB: Adults 24-35 hosting a Friendsgiving or December holiday party for friends who were in high school or college around 2016. They have seen the "2026 is the new 2016" posts and want a ready-made theme: invitations, games and decor they can print tonight and that make the group laugh about who they were ten years ago. Low effort, cheap, casual hosting.
+
+DELIVERABLE SPEC (every printable in US Letter 8.5 x 11 in AND A4; invitations also 5 x 7 in and 1080 x 1920 px phone version):
+1. Invitations (2 versions: Friendsgiving and holiday party) with placeholders [HOST], [DATE], [ADDRESS], [DRESS CODE: 2016 outfits].
+2. "Recreate the group photo" challenge card with 5 rules and scoring.
+3. "2016 Throwback Trivia": 40 questions with answers, about general 2016 culture and life (technology habits, slang, fashion items, food fads, world events stated neutrally, sports results, weather/space facts). Only verifiable facts; every answer must be checkable on a general encyclopedia. No questions requiring song lyrics, and do not quote lyrics.
+4. "Then vs Now" icebreaker cards: 24 prompts ("Your 2016 phone wallpaper was...", "A thing you were sure would last forever").
+5. "Who was most 2016?" superlative award certificates (10 categories, blank name lines).
+6. Food labels / tent cards: 12 generic 2016-era snack and drink descriptions (e.g. "rainbow everything", "avocado on toast") - generic food names only.
+7. Photo-booth props: 12 speech-bubble signs with original 2016-style slang phrases you write yourself.
+8. Playlist planner page with blank lines (the host fills in songs; you list none).
+9. Host checklist and a 1-page run-of-show (90 minutes).
+
+STYLE: early-2010s blog look done tastefully: soft pastel gradients, fairy-light dots, washed film-photo frames, a touch of chunky serif. Canva font pairings: (a) "Abril Fatface" + "Quicksand"; (b) "Playfair Display" + "Montserrat". Palette: millennial pink #F4C2C2, mint #BDE3D0, lavender #CDB8E8, sunset coral #F28C6F, ink #2E2A33, paper white #FFFDF9.
+
+RIGHTS AND ACCURACY RULES: No brand names, app names, product names, logos, celebrity names, song titles, lyrics, film or TV titles, game titles, or meme characters anywhere. Describe habits generically (e.g. "everyone added animal-ear photo filters") and avoid any wording that identifies a specific trademarked product, app or game. Trivia must be facts, phrased neutrally, no politics or tragedies. If unsure a fact is right, drop the question.
+
+DIFFERENTIATION: Existing 2016 supply is mostly 10th-birthday kids' decor and generic invites; this is an adult holiday kit with games built on the group's own memories (photo recreation, then-vs-now).
+
+OUTPUT: Page-by-page text exactly as printed, then the trivia answer key, then a layout note per page for Canva.
+
+SELF-CHECK: no brand/IP/celebrity/song/lyric names anywhere; 40 trivia questions each with a verifiable answer; both sizes noted; placeholders in brackets; tone friendly, no mean jokes.
+```
+
+**Image prompt 1 (Invitation and cover background; Ideogram or ChatGPT images):**
+
+```text
+Soft pastel gradient background in #F4C2C2, #CDB8E8 and #BDE3D0 with tiny fairy-light bokeh dots and a few hand-drawn stars, early-2010s blog aesthetic, large empty center area for text, portrait 5:7 aspect ratio, no text, no logos, no real people, no trademarked characters, no watermarks
+```
+
+**Image prompt 2 (Headline lettering; Ideogram):**
+
+```text
+Retro chunky serif headline reading exactly "Party Like It's 2016" in #2E2A33 with a coral #F28C6F drop shadow, small sparkles, transparent background, 3:1 aspect ratio, no logos, no real people, no trademarked characters, no watermarks
+```
+
+**Image prompt 3 (Etsy listing mockup; Canva mockup):**
+
+```text
+Flat lay of printed pastel party cards, trivia sheets and speech-bubble photo props on a white table with string lights and autumn leaves, top-down, 4:5 aspect ratio, no readable brand text, no logos, no real people, no trademarked characters, no watermarks
+```
+
+### Build and export
+
+1. Run the super prompt; fact-check every trivia answer yourself and delete any you cannot verify.
+2. Create the Canva designs at US Letter; build invitations at 5 x 7 in and 1080 x 1920 px.
+3. Apply the palette and fonts; keep 0.25 in margins for home printing.
+4. Resize the Letter pages to A4 and fix overflow.
+5. Export PDF Print at 300 DPI (one Letter PDF, one A4 PDF, one invitations PDF) plus PNG phone invites.
+6. Make invitations editable via a Canva template link in an 'access' PDF.
+7. Upload to Etsy as a digital download and test the download.
+
+### Listing copy prompt
+
+```text
+Write an Etsy listing for a printable throwback party kit for adults: 'Party Like It's 2016' Friendsgiving and holiday party kit. Title under 140 characters starting with '2016 Throwback Party Kit' and including Friendsgiving, printable games and editable invitation. 13 tags of 20 characters or fewer. Description: list every item, US Letter + A4 PDFs, Canva-editable invites, instant download, print at home. FAQ: is it editable?, can I use it for a birthday?, does it include music? (no - playlist planner only). Forbid any brand, app, celebrity, song, film, TV or game names and any 'official' claims.
+```
+
+### Where to list
+
+- **Etsy** (primary): Party printables and Friendsgiving games are searched there
+- **Gumroad** (secondary): Direct link for TikTok/Instagram traffic
+- **Pinterest** (traffic): Friendsgiving and themed-party planning starts on Pinterest in October
+
+**Positioning:** The ready-made 2016 throwback Friendsgiving: print it tonight, recreate your old group photo, crown who was most 2016.
+
+### Launch plan
+
+- **Day 0:** Publish on Etsy and Gumroad
+- **Day 1:** TikTok/Reel: 'how to host a 2016 Friendsgiving' showing the kit
+- **Day 3:** 10 Pinterest pins: Friendsgiving theme ideas, 2016 party ideas
+- **Day 6:** Post a sample of 5 trivia questions as a carousel (free value)
+- **Day 10:** Check views/favourites; test a second main photo
+- **Day 14:** Add a holiday-party (December) variant to the listing photos
+- **Day 21:** Go/pivot/stop: continue if 3+ sales; pivot to a '10th birthday 2016' kids' version or New Year's Eve 2016 party if views but no sales; stop if under 150 views
+
+### Marketing channels
+
+| Channel | What to do | How often |
+|---|---|---|
+| Pinterest | Friendsgiving theme and throwback party pins | 5-7 pins/week until Dec 15 |
+| TikTok | Host-POV videos using the kit; then-vs-now prompts as hooks | 3/week |
+| Instagram | Trivia carousels | 2/week |
+
+**Search phrases to test (suggestions, not measured volumes):** 2016 party, friendsgiving games, throwback party, friendsgiving theme, holiday party games, 2016 throwback
+
+**Hooks:**
+- Hosting a 2016 Friendsgiving this year
+- Recreate your 2016 group photo
+- Who in your friend group is the most 2016?
+
+### Profit per sale
+
+Suggested price $9.00 (range $6.00–$12.00, estimate). Printable party bundles with games and editable invites commonly sell in the high single digits; adult holiday positioning supports the middle of that range
+
+| Channel | Price | Fees | Product + shipping | You keep | Margin |
+|---|---|---|---|---|---|
+| Etsy | $9.00 | $1.31 | $0.00 | **$7.70** | 86% |
+| Gumroad | $9.00 | $1.40 | $0.00 | **$7.60** | 84% |
+
+Product cost basis: digital. Cash at risk $14.20; break-even 2 sale(s).
+
+### Asymmetry
+
+- **Risk:** $14.20 and about 11 hours; answer in about 21 days.
+- **What you risk:** About 10-12 hours, $0-14 cash
+- **What stays open:** Zero marginal cost; reusable for birthdays and NYE all year while the 2016 nostalgia lasts
+- **Bad bet if:** The 2016 trend has already peaked (it was 'widely noticed' early 2026) and holiday hosts don't adopt it
+
+**Ways to extend:** New Year's Eve 'back to 2016' edition; 10th-birthday kids' version for children born in 2016; Bachelorette/30th birthday version; Editable trivia template
+
+**Risks:** 2016 nostalgia may be fading by late 2026; Hard to be evocative of 2016 without brand/IP references - generic copy may feel flat; Friendsgiving window ends Nov 26
+
+**Validation test:** List by Oct 25; 25 Pinterest pins and 6 short videos over 3 weeks
+
+**Continue if:** 3+ sales or 25+ favourites by Nov 15 · **Change direction if:** Re-angle to NYE or 10th-birthday versions · **Stop if:** Under 150 views by Nov 15
 
 ---
 
@@ -3950,6 +7807,129 @@ Product cost basis: mixed. Cash at risk $28.20; break-even 7 sale(s).
 
 ---
 
+## relax, pal. Minimal Serif Tee
+
+**Trend:** Relax, Pal (Pass) · **Format:** tshirt (print on demand) · **Asymmetry:** Roughly even (54/100)
+
+**Buyer:** 18-30s who like minimalist deadpan apparel
+
+### Super prompt
+
+```text
+You are an apparel graphic designer creating an original minimalist text T-shirt and matching dad-hat embroidery file for print-on-demand (Printify or Printful connected to Etsy).
+
+BUYER AND JOB: 18-30-year-olds who like deadpan internet humor and want a low-key shirt that reads as dry wit to strangers and as an inside joke to people who know the "relax, pal." catchphrase. It must look like a tasteful small-brand tee, not a loud meme shirt.
+
+DELIVERABLE SPEC: Produce 5 front-print concepts and 1 embroidery concept.
+- Front print canvas 4500x5400 px, transparent PNG, 300 DPI. Placement options: left-chest (3.5 in wide) and center-chest (10 in wide).
+- Embroidery: max 4 in wide x 1.75 in tall, max 4 thread colors, no gradients, minimum text height 0.25 in.
+For each concept give: exact text, placement, font, color for light and dark shirts, and an image-model prompt.
+Concepts:
+1. "relax, pal." lowercase serif, left chest.
+2. Center-chest "relax, pal." with a small hand-drawn lounge-chair icon.
+3. Back print in tiny type: "it's fine. relax, pal." with front left-chest dot.
+4. Mock vintage "RELAX, PAL / EST. WHENEVER" crest (original crest, no school or Greek symbols).
+5. "relax, pal." stacked with a smiling sun (original).
+6. Embroidered dad-hat: "relax, pal." in script.
+
+FONTS (two Canva pairings): A) "Playfair Display" italic + "Work Sans"; B) "Cooper"-style "Fraunces" + "Space Mono".
+PALETTE: off-white #F6F1E7, navy #1B2433, brick #B3473A, forest #2F4A3A, butter #EBCB7A. Recommend shirt colors: natural, navy, forest, heather grey.
+
+RIGHTS AND TONE RULES: The phrase is common English. Do not reference the news clip, hazing, fraternities, Greek letters, any university, its colors or mascots, the reporter, the station, or the student. No real people, no likenesses, no brand logos. Nothing may make light of hazing or injury.
+
+DIFFERENTIATION: Small, tasteful typography that works as everyday wear, unlike screenshot-style meme shirts that age in a week. Situational back-print variant gives a second reveal.
+
+OUTPUT FORMAT: numbered concepts with all fields; then a mockup shot list (3 shots); then a care-label-free product description paragraph.
+
+SELF-CHECK: no school, Greek-life, hazing or news references; embroidery spec respected; text spelled exactly; every image prompt ends with the negative list.
+```
+
+**Image prompt 1 (Left-chest print; Ideogram):**
+
+```text
+Minimal apparel graphic, the exact lowercase text "relax, pal." in an elegant italic serif, navy #1B2433 on transparent background, small lounge-chair line icon to the left in brick #B3473A, vector, 4:5 canvas with the design small and centered. No logos, no real people, no trademarked characters, no watermarks.
+```
+
+**Image prompt 2 (Lifestyle mockup; ChatGPT images):**
+
+```text
+Flat-lay photo of a natural-color cotton T-shirt on a wooden floor with sunglasses and a paperback, left-chest navy text "relax, pal." in italic serif, soft daylight, 4:5. No logos, no real people, no trademarked characters, no watermarks.
+```
+
+### Build and export
+
+1. Generate concepts; select 2 prints + the hat embroidery.
+2. Rebuild text in Canva at 4500x5400 px for crisp vector edges; export transparent PNG 300 DPI.
+3. In Printify choose a mid-weight unisex tee (e.g. a Bella+Canvas 3001-type blank) and place at left chest/center chest.
+4. Create the dad hat with the provider's embroidery file rules (thread colors, minimum size).
+5. Generate mockups for natural, navy and forest colors.
+6. Publish to Etsy via Printify with the listing prompt output.
+7. Order one sample before any paid promotion.
+
+### Listing copy prompt
+
+```text
+Write an Etsy listing for a minimalist "relax, pal." text T-shirt. Title under 140 characters front-loading "Relax Pal Shirt". 13 tags of 20 characters or fewer (e.g. relax pal shirt, deadpan tee, minimalist text tee). Description: design, placement, shirt blank and sizing note, colors, print-on-demand production and shipping time of about 1-2 weeks, care. 4-question FAQ. Do not mention any news story, fraternity, hazing, university, reporter, TV station or real person, and use no trademarked terms.
+```
+
+### Where to list
+
+- **Etsy** (primary): Printify integration and gift shoppers
+- **TikTok** (traffic): Outfit/'fit check' clips with the phrase as caption
+- **Redbubble** (secondary): Free duplicate listing
+
+**Positioning:** Quiet-luxury energy for the perpetually unbothered.
+
+### Launch plan
+
+- **Day 0:** List 2 tee designs + hat on Etsy via Printify.
+- **Day 1:** Order a sample tee.
+- **Day 3:** TikTok: chaotic situations montage, final shot of the shirt.
+- **Day 7:** Pinterest mockup pins.
+- **Day 10:** Real-photo content once sample arrives.
+- **Day 14:** Go/pivot/stop check.
+- **Day 21:** Decide on ads only if organic favorites/sales exist.
+
+### Marketing channels
+
+| Channel | What to do | How often |
+|---|---|---|
+| TikTok | Fit-check and skit clips | 3/week |
+| Pinterest | Minimal tee mockups | 3 pins/week |
+
+**Search phrases to test (suggestions, not measured volumes):** relax pal shirt, deadpan shirt, minimalist text tee, funny unbothered shirt
+
+**Hooks:**
+- Outfit for when someone asks you a hard question:
+- My entire personality this semester:
+
+### Profit per sale
+
+Suggested price $26.00 (range $22.00–$30.00, estimate). Typical POD text-tee range; minimal design positions slightly above meme-screenshot shirts.
+
+| Channel | Price | Fees | Product + shipping | You keep | Margin |
+|---|---|---|---|---|---|
+| Etsy | $26.00 | $3.30 | $15.28 | **$11.41** | 44% |
+
+Product cost basis: verified. Cash at risk $15.48; break-even 2 sale(s).
+
+### Asymmetry
+
+- **Risk:** $15.48 and about 6 hours; answer in about 21 days.
+- **What you risk:** About 6 hours plus a ~$20 sample.
+- **What stays open:** Generic phrase outlives the meme; can sit in a broader deadpan-text collection.
+- **Bad bet if:** Stickers show no traction in 2 weeks; tees have thinner margins and slower discovery.
+
+**Ways to extend:** Crewneck sweatshirt for fall; Embroidered beanie; Tote bag
+
+**Risks:** Reputational association with a hazing incident; Thin margins after Etsy fees; POD delivery time may outlast the meme
+
+**Validation test:** Launch only after stickers get favorites; 2 designs for 3 weeks
+
+**Continue if:** 3+ tee sales in 21 days · **Change direction if:** Favorites but no sales: try a crewneck at the same price · **Stop if:** No sales in 21 days
+
+---
+
 ## Analog Bag 'Contents Map' Tote (POD)
 
 **Trend:** Analog bag & screen-free gifting (Test now) · **Format:** tote (print on demand) · **Asymmetry:** Roughly even (53/100)
@@ -4093,6 +8073,247 @@ Product cost basis: verified. Cash at risk $34.62; break-even 3 sale(s).
 
 ---
 
+## Toolbelt Generation Hard Hat Sticker Pack
+
+**Trend:** 'Toolbelt generation': Gen Z skilled-trades apprentices (Prepare) · **Format:** sticker (print on demand) · **Asymmetry:** Roughly even (53/100)
+
+**Buyer:** Gen Z apprentices and young tradespeople; family gift-givers
+
+### Super prompt
+
+```text
+You are a graphic designer creating an original hard-hat and toolbox sticker pack called "Toolbelt Generation" for [YOUR SHOP NAME].
+
+BUYER AND JOB: Gen Z apprentices and young tradespeople who decorate hard hats, toolboxes and water bottles, and parents or partners buying a "proud of you" gift when someone starts an apprenticeship.
+
+DELIVERABLE: 10 die-cut sticker designs, each 3x3 in (900x900 px minimum, deliver 1500x1500 px at 300 DPI, transparent background), suitable for vinyl and hard hats:
+1. "Toolbelt Generation" bold badge with a crossed wrench and pencil.
+2. "Apprentice Era" retro type.
+3. "Debt Free, Skill Rich" banner.
+4. "AI Can't Do This" with a gloved hand holding a wrench.
+5. "Measure Twice" tape measure.
+6. "First Year, Still Here" lightning bolt badge.
+7. "Built Not Bought" shield.
+8. "Journey(man) Loading" progress bar.
+9. "Ask Me About My Hours" clipboard.
+10. "Hands-On Since 20XX" (blank year for personalization).
+For each: concept, exact text, style (bold outline, high contrast for distance reading), colors, and a hard-hat placement note.
+
+DESIGN: Pairing A: "Anton" + "Roboto Condensed". Pairing B: "Bebas Neue" + "Barlow". Palette: Safety Orange #E8711A, Steel #3C4A57, Hi-Vis Yellow #E3E829, White #FFFFFF, Black #151515.
+
+RULES: Original designs only; no tool brand logos or color schemes copied from brands, no union or company names, no political slogans, no claims about earnings.
+
+DIFFERENTIATION: Generic trade-pride stickers target veterans; these speak to the new Gen Z apprentice identity (debt-free, AI-proof, first-year pride).
+
+OUTPUT: Numbered designs with all fields, image prompts for each, and a SELF-CHECK (10 designs, text spelled exactly, sizes, no brands).
+
+PRINT PREP AND QUALITY: For every design also specify: the safe area (keep text at least 0.125 in inside the cut line), the minimum text height for legibility at 3 in (about 0.18 in cap height), whether the design works as a one-color version for vinyl, and a dark-surface variant (swap ink to cream). Limit each design to four palette colors so printing stays crisp. Give each design a short product title (under 60 characters) and a one-sentence description a buyer would understand without context.
+
+AUDIENCE TONE: Warm, in-group humor that a beginner understands; never mock outsiders, beginners or other generations. Avoid slang that will date within months unless it is the joke. Keep all phrases short (under 6 words where possible) so they read from a distance.
+
+MOCKUP AND LISTING SUPPORT: After the designs, propose 3 lifestyle mockup scenes (surface, props, lighting, colors) that show scale, and 5 short hook lines for a TikTok or Reel showing the stickers in use. Do not include real people's faces, brand logos or recognizable products in any scene.
+```
+
+**Image prompt 1 (Toolbelt Generation badge; Ideogram):**
+
+```text
+Bold circular badge sticker: crossed wrench and carpenter pencil over a hazard-stripe ring, text 'TOOLBELT GENERATION' in heavy condensed type. Colors #E8711A, #3C4A57, #E3E829, #FFFFFF. Thick white die-cut border, 1:1, transparent background. No logos, no real people, no trademarked characters, no watermarks.
+```
+
+**Image prompt 2 (First Year, Still Here; Ideogram):**
+
+```text
+Retro lightning-bolt badge sticker with text 'FIRST YEAR, STILL HERE' in bold block letters, colors #151515, #E3E829, #E8711A. 1:1, transparent background, white die-cut border. No logos, no real people, no trademarked characters, no watermarks.
+```
+
+### Build and export
+
+1. Generate designs at 1500x1500 px transparent; correct text in Canva.
+2. Check legibility at 3 in.
+3. Upload to Printify kiss-cut vinyl stickers; create a 5-pack listing.
+4. Publish to Etsy with hard-hat mockups; mirror on Redbubble.
+5. Order a sample to test on a hard hat surface.
+6. Add personalization option for 'Hands-On Since' year.
+
+### Listing copy prompt
+
+```text
+Write an Etsy listing for Gen Z apprentice hard hat stickers. Title under 140 characters starting 'Hard Hat Stickers for Apprentices'. 13 tags of 20 characters or fewer. Description: designs, vinyl material, sizes, POD shipping about 1-2 weeks, FAQ (Will it stick to hard hats? Check your employer's PPE rules). No tool-brand, union or company names.
+```
+
+### Where to list
+
+- **Etsy** (primary): Hard-hat sticker searches.
+- **Redbubble** (secondary): Extra reach.
+- **TikTok** (traffic): Trades content.
+
+**Positioning:** Hard-hat stickers for the new generation of tradespeople.
+
+### Launch plan
+
+- **Day 0:** Publish singles and 5-pack.
+- **Day 3:** TikTok: sticking them on a new hard hat.
+- **Day 7:** Pins: gifts for new apprentices.
+- **Day 10:** Cross-promote in logbook listing.
+- **Day 14:** Holiday gift pins.
+- **Day 21:** Go/pivot/stop check.
+
+### Marketing channels
+
+| Channel | What to do | How often |
+|---|---|---|
+| TikTok | Hard-hat makeover clips | 2/week |
+| Pinterest | Gift pins | 3/week |
+
+**Search phrases to test (suggestions, not measured volumes):** hard hat stickers, apprentice gift, electrician sticker, trade school gift
+
+**Hooks:**
+- AI can't do this
+- First year, still here
+
+### Profit per sale
+
+Suggested price $4.50 (range $3.50–$14.00, estimate). Singles around $4.50; 5-pack around $14.
+
+| Channel | Price | Fees | Product + shipping | You keep | Margin |
+|---|---|---|---|---|---|
+| Etsy | $4.50 | $1.26 | $6.24 | **$1.00** | 22% |
+
+Product cost basis: mixed. Cash at risk $6.44; break-even 7 sale(s).
+
+### Asymmetry
+
+- **Risk:** $6.44 and about 7 hours; answer in about 21 days.
+- **What you risk:** About 7 hours plus a sample.
+- **What stays open:** No inventory; gift market; pairs with the logbook.
+- **Bad bet if:** Hard-hat sticker search is dominated by established sellers with many reviews.
+
+**Ways to extend:** Tees and hoodies; Trade-specific packs; Lunchbox and toolbox decals
+
+**Risks:** Crowded hard-hat sticker category; Some employers restrict hard-hat stickers
+
+**Validation test:** Publish 10 stickers and a 5-pack; track 21-day results.
+
+**Continue if:** 3+ sales or 30+ favorites · **Change direction if:** Packs sell better than singles: focus on packs · **Stop if:** No sales by Day 21
+
+---
+
+## Bird Club Starter Pack Sticker Sheet
+
+**Trend:** Gen Z birding and college bird clubs (Prepare) · **Format:** sticker (print on demand) · **Asymmetry:** Roughly even (52/100)
+
+**Buyer:** Gen Z birders and campus bird clubs (prizes, swag)
+
+### Super prompt
+
+```text
+You are an illustrator creating an original sticker sheet collection called "Bird Club Starter Pack" for [YOUR SHOP NAME].
+
+BUYER AND JOB: Gen Z birders and college bird-club members who want fun stickers for field notebooks, laptops and water bottles, and to give as club prizes.
+
+DELIVERABLE: 12 sticker designs on one 6x8 in kiss-cut sheet (1800x2400 px at 300 DPI) plus 4 standalone die-cut stickers (3x3 in):
+1. "Lifer!" burst badge. 2. "Bird Nerd Era" groovy type. 3. Binoculars with sparkles. 4. Chickadee-style round songbird (generic, not a specific photo). 5. Owl with "Night Shift". 6. "Pishing Expert" with a tiny bird peeking. 7. Field notebook and pencil. 8. "I Brake for Warblers". 9. Duck with "Dabbler". 10. Heron silhouette "Patience". 11. "Big Day Survivor" with a sunrise. 12. "Touch Grass, See Birds".
+For each: concept, exact text, style (bold outline, flat color, playful), colors and placement on the sheet.
+
+DESIGN: Pairing A: "Bagel Fat One" + "Nunito". Pairing B: "Lilita One" + "Quicksand". Palette: Pine #2F4A3A, Robin Egg #9CCFC8, Goldfinch #F2C14E, Cardinal #C2402F, Cream #FBF7EE.
+
+RULES: Original illustrations; no organization logos, app icons or optics brands; birds should be stylized and not traced from photos. No claims.
+
+DIFFERENTIATION: Playful youth-culture phrasing for the new birding crowd, not vintage field-guide prints.
+
+OUTPUT: Numbered list of designs with all fields, sheet layout map, image prompts for each, then a SELF-CHECK (12 + 4 designs, exact text spelled, sizes at 300 DPI, no logos).
+
+PRINT PREP AND QUALITY: For every design also specify: the safe area (keep text at least 0.125 in inside the cut line), the minimum text height for legibility at 3 in (about 0.18 in cap height), whether the design works as a one-color version for vinyl, and a dark-surface variant (swap ink to cream). Limit each design to four palette colors so printing stays crisp. Give each design a short product title (under 60 characters) and a one-sentence description a buyer would understand without context.
+
+AUDIENCE TONE: Warm, in-group humor that a beginner understands; never mock outsiders, beginners or other generations. Avoid slang that will date within months unless it is the joke. Keep all phrases short (under 6 words where possible) so they read from a distance.
+
+MOCKUP AND LISTING SUPPORT: After the designs, propose 3 lifestyle mockup scenes (surface, props, lighting, colors) that show scale, and 5 short hook lines for a TikTok or Reel showing the stickers in use. Do not include real people's faces, brand logos or recognizable products in any scene.
+```
+
+**Image prompt 1 (Lifer! sticker; Ideogram):**
+
+```text
+Bold comic-burst sticker with a tiny round songbird wearing sparkles, text 'LIFER!' in thick bubble letters. Colors #F2C14E, #C2402F, #2F4A3A, #FBF7EE. Thick white die-cut border, 1:1, transparent background. No logos, no real people, no trademarked characters, no watermarks.
+```
+
+**Image prompt 2 (Touch Grass, See Birds sticker; Ideogram):**
+
+```text
+Retro groovy text sticker 'TOUCH GRASS, SEE BIRDS' with grass tufts and a small flying bird silhouette, colors #2F4A3A, #9CCFC8, #FBF7EE. 1:1, transparent background, white die-cut border. No logos, no real people, no trademarked characters, no watermarks.
+```
+
+### Build and export
+
+1. Generate each design at 1500x1500 px transparent; fix text in Canva.
+2. Arrange 12 on a 1800x2400 px sheet with 0.125 in spacing.
+3. Upload to Printify sticker sheet product and kiss-cut singles.
+4. Publish to Etsy with mockups; mirror on Redbubble.
+5. Order a sample sheet to check cut lines.
+6. Offer a club 10-pack listing (bulk singles).
+
+### Listing copy prompt
+
+```text
+Write an Etsy listing for a birding sticker sheet for new birders and bird clubs. Title under 140 characters starting 'Birding Sticker Sheet'. 13 tags of 20 characters or fewer. Description: designs, size, material, POD shipping time about 1-2 weeks, club bulk option, FAQ. No organization, app or brand names.
+```
+
+### Where to list
+
+- **Etsy** (primary): Gift and sticker searches.
+- **Redbubble** (secondary): No-cost extra reach.
+- **Instagram** (traffic): Field notebook flat lays.
+
+**Positioning:** Stickers for the new generation of birders.
+
+### Launch plan
+
+- **Day 0:** Publish sheet and singles.
+- **Day 3:** Reel: decorating a field notebook.
+- **Day 7:** Pins: 'gifts for birders'.
+- **Day 10:** Bundle mention in the field log listing.
+- **Day 14:** Holiday gift pins.
+- **Day 21:** Go/pivot/stop check.
+
+### Marketing channels
+
+| Channel | What to do | How often |
+|---|---|---|
+| Instagram | Notebook flat lays | 3/week |
+| Pinterest | Gift-guide pins | 3/week |
+
+**Search phrases to test (suggestions, not measured volumes):** birding stickers, bird watcher gift, bird nerd sticker, bird club gift
+
+**Hooks:**
+- Lifer!
+- Bird nerd era
+
+### Profit per sale
+
+Suggested price $8.00 (range $6.00–$10.00, estimate). Typical sticker-sheet price; singles about $4.
+
+| Channel | Price | Fees | Product + shipping | You keep | Margin |
+|---|---|---|---|---|---|
+| Etsy | $8.00 | $1.64 | $6.74 | **$4.12** | 52% |
+
+Product cost basis: mixed. Cash at risk $6.94; break-even 2 sale(s).
+
+### Asymmetry
+
+- **Risk:** $6.94 and about 8 hours; answer in about 21 days.
+- **What you risk:** About 8 hours plus a $10 sample.
+- **What stays open:** No inventory, gift season, pairs with the log.
+- **Bad bet if:** Generic bird stickers dominate search and humor designs do not stand out.
+
+**Ways to extend:** Tote and tee versions; Enamel-pin style designs via POD
+
+**Risks:** Crowded sticker category; Thin POD margins
+
+**Validation test:** Publish the sheet and 4 single stickers; 21-day favorites and sales.
+
+**Continue if:** 3+ sales or 30+ favorites · **Change direction if:** Singles outsell sheet: expand singles · **Stop if:** No sales and under 10 favorites
+
+---
+
 ## Season's Scurryings Round Raccoon Ornament + Card
 
 **Trend:** Jimothy the raccoon (Pass) · **Format:** other (print on demand) · **Asymmetry:** Roughly even (49/100)
@@ -4230,6 +8451,736 @@ Product cost basis: verified. Cash at risk $9.92; break-even 1 sale(s).
 **Validation test:** Not recommended now. If revisited, list one ornament and check whether 'jimothy ornament' search results are already crowded before investing.
 
 **Continue if:** Search shows few holiday-specific Jimothy items AND the listing gets 5+ sales by Dec 1 · **Change direction if:** n/a · **Stop if:** Holiday Jimothy items are already abundant, or there's no sale within 3 weeks
+
+---
+
+## Doubles & Dice Social Sticker Collection
+
+**Trend:** Backgammon social-club revival among young adults (Prepare) · **Format:** sticker (print on demand) · **Asymmetry:** Roughly even (49/100)
+
+**Buyer:** Young backgammon social players and gift-givers
+
+### Super prompt
+
+```text
+You are a graphic designer creating an original print-on-demand sticker and tote collection called "Doubles & Dice Social" for [YOUR SHOP NAME]. The collection name is original; never use the name of any real club, cafe or group.
+
+BUYER AND JOB: Young women and men who play backgammon at social nights and cafes and want to signal the hobby on laptops, water bottles and tote bags, or gift a fellow player.
+
+DELIVERABLE: Concepts and final copy for 8 designs:
+1. "Roll Doubles, Make Friends" retro badge.
+2. Backgammon board top-view illustration as a minimalist line art.
+3. "I'd Rather Be Bearing Off" script lettering.
+4. Doubling cube with "Take or Drop?" text.
+5. Vintage social-club crest with dice and checkers and "Est. Game Night" (no real club names).
+6. "Prime Time" pun with a row of 6 checkers.
+7. "Gammon Era" bold groovy type.
+8. "Dice Don't Lie (They Do)" funny tee/sticker.
+For each design give: concept, exact text, style, colors, composition, and two product placements (die-cut sticker 3x3 in at 900x900 px minimum at 300 DPI; tote print area 12x14 in at 3600x4200 px; tee front 4500x5400 px).
+
+DESIGN: Pairing A in Canva: "Bagel Fat One" (display) + "DM Sans". Pairing B: "Abril Fatface" + "Poppins". Palette: Felt Green #1F4D3A, Cream #F4EEDC, Oxblood #7A2E2E, Brass #B8924A, Pink #E8A6A1.
+
+RULES: Original artwork and phrases only. No real club, cafe, brand or tournament names or logos. No gambling or casino imagery (no chips, no money). Avoid copying any existing backgammon board brand's pattern.
+
+DIFFERENTIATION: Most backgammon products are boards; there is little playful, social-club identity merch aimed at the new young players.
+
+OUTPUT: A numbered list of the 8 designs with all fields, then image-generation prompts for each, then a SELF-CHECK (8 designs, sizes listed, no real names, no gambling imagery, text spelled exactly).
+
+PRINT PREP AND QUALITY: For every design also specify: the safe area (keep text at least 0.125 in inside the cut line), the minimum text height for legibility at 3 in (about 0.18 in cap height), whether the design works as a one-color version for vinyl, and a dark-surface variant (swap ink to cream). Limit each design to four palette colors so printing stays crisp. Give each design a short product title (under 60 characters) and a one-sentence description a buyer would understand without context.
+
+AUDIENCE TONE: Warm, in-group humor that a beginner understands; never mock outsiders, beginners or other generations. Avoid slang that will date within months unless it is the joke. Keep all phrases short (under 6 words where possible) so they read from a distance.
+
+MOCKUP AND LISTING SUPPORT: After the designs, propose 3 lifestyle mockup scenes (surface, props, lighting, colors) that show scale, and 5 short hook lines for a TikTok or Reel showing the stickers in use. Do not include real people's faces, brand logos or recognizable products in any scene.
+```
+
+**Image prompt 1 (Sticker: Roll Doubles, Make Friends; Ideogram):**
+
+```text
+Retro circular badge sticker design: two dice showing double sixes above a small backgammon board, text 'ROLL DOUBLES, MAKE FRIENDS' around the circle in bold groovy type. Colors #1F4D3A, #F4EEDC, #E8A6A1, #7A2E2E. Thick white die-cut border, 1:1 aspect ratio, transparent background. No logos, no real people, no trademarked characters, no watermarks.
+```
+
+**Image prompt 2 (Sticker: Take or Drop?; Ideogram):**
+
+```text
+Isometric doubling cube showing the number 2 with a cheeky face, text 'TAKE OR DROP?' below in chunky serif. Colors #B8924A, #F4EEDC, #1E1E1E. 1:1, transparent background, die-cut white outline. No logos, no real people, no trademarked characters, no watermarks.
+```
+
+### Build and export
+
+1. Generate designs at 4500x4500 px with transparent backgrounds; clean text manually in Canva.
+2. Upscale and check 300 DPI at 3x3 in sticker size.
+3. Upload to Printify: kiss-cut stickers (3x3, 4x4) and a cotton tote.
+4. Connect Printify to Etsy and publish with mockups.
+5. Upload the same PNGs to Redbubble as a secondary shop.
+6. Order one sample sticker to check colors.
+
+### Listing copy prompt
+
+```text
+Write an Etsy listing for a backgammon sticker (kiss-cut vinyl). Title under 140 characters starting 'Backgammon Sticker'. 13 tags of 20 characters or fewer (backgammon gift, board game sticker, game night gift...). Description: size options, material, shipping time via print-on-demand (about 1-2 weeks), care, FAQ. No real club, cafe or brand names; no gambling words.
+```
+
+### Where to list
+
+- **Etsy** (primary): Gift searches.
+- **Redbubble** (secondary): Extra stickers reach at no cost.
+- **Instagram** (traffic): Club-night photos and stories.
+
+**Positioning:** Merch for the new backgammon social crowd.
+
+### Launch plan
+
+- **Day 0:** Publish 8 stickers and 2 totes.
+- **Day 2:** Instagram/TikTok: stickers on a backgammon case.
+- **Day 5:** Pins with gift-guide framing.
+- **Day 10:** Bundle with printable kit as a 'host gift' suggestion.
+- **Day 14:** Holiday gift pins.
+- **Day 21:** Go/pivot/stop check.
+
+### Marketing channels
+
+| Channel | What to do | How often |
+|---|---|---|
+| Instagram | Flat lays with boards | 3/week |
+| Pinterest | Gift-for-backgammon-player pins | 3/week |
+
+**Search phrases to test (suggestions, not measured volumes):** backgammon gift, backgammon sticker, game night gift, board game lover gift
+
+**Hooks:**
+- For the friend who always wants a rematch
+- Gammon era
+
+### Profit per sale
+
+Suggested price $4.50 (range $3.50–$6.00, estimate). Typical single vinyl sticker price on Etsy; totes priced around $22-26.
+
+| Channel | Price | Fees | Product + shipping | You keep | Margin |
+|---|---|---|---|---|---|
+| Etsy | $4.50 | $1.26 | $6.24 | **$1.00** | 22% |
+
+Product cost basis: mixed. Cash at risk $6.44; break-even 7 sale(s).
+
+### Asymmetry
+
+- **Risk:** $6.44 and about 8 hours; answer in about 21 days.
+- **What you risk:** About 8 hours plus about $10 for samples.
+- **What stays open:** No inventory; gift season; designs reusable across platforms.
+- **Bad bet if:** The audience stays tiny and POD margins (about $2 per sticker) never cover the time.
+
+**Ways to extend:** Tees and sweatshirts; Score-pad notepads via POD; Holiday ornament
+
+**Risks:** Thin POD margins; Small niche
+
+**Validation test:** Publish 8 sticker designs and 2 totes via Printify/Etsy plus Redbubble; track favorites and sales for 21 days.
+
+**Continue if:** 2+ sales or 25+ favorites · **Change direction if:** Favorites but no sales: test a 3-sticker pack price · **Stop if:** No favorites after 21 days
+
+---
+
+## Thirty Days Unplugged Pocket Log
+
+**Trend:** 30-Day Phone-Free Challenge Cohorts (Prepare) · **Format:** journal (print on demand) · **Asymmetry:** Roughly even (46/100)
+
+**Buyer:** Adults and students doing a 30-day phone-free or phone-light challenge
+
+### Super prompt
+
+```text
+You are a minimalist journal designer. Write the complete interior for a pocket-size paperback and printable called "Thirty Days Unplugged: A Pocket Log for a Phone-Free Month".
+
+BUYER AND JOB: Adults and college students joining a 30-day phone-free or phone-light challenge (alone or with a group) who want something physical to carry instead of their phone: a place to log each day, jot plans, keep important numbers and notice what changes.
+
+DELIVERABLE SPEC: KDP paperback interior at 5x8 in (no bleed, 0.5 in margins, 0.625 in gutter), 96 pages, plus a printable A5/half-letter version.
+- Pages 1-4: title page; "How to use this log" (120 words); "My why" page; "My rules" page with checkboxes (phone parked overnight, no phone at meals, basic phone only, etc.).
+- Pages 5-6: "Numbers I need" (20 lines: name, number) and "Places and directions" (8 lines).
+- Pages 7-66: 30 two-page daily spreads. Left page: Day __ / Date, check boxes (phone-free morning, meal, evening), "Urges I noticed" tally boxes, "What I did instead". Right page: a short original prompt (30 unique prompts across four weekly themes: Notice, Replace, Reconnect, Keep) plus lined space.
+- Pages 67-74: four weekly review pages and four "Plans and meetups" pages (calendar-style).
+- Pages 75-86: "Analog ideas" list of 60 original activities, a reading log, and a "people I talked to" log.
+- Pages 87-92: "Day 30: What I'm keeping" reflection, a "Rules for after" page, and a completion page.
+- Pages 93-96: blank notes.
+
+DESIGN: Pairings: (a) "Cormorant Garamond" + "Karla"; (b) "Fraunces" + "Work Sans". Palette for the cover: Forest #2F4B3A, Paper #F7F3EA, Signal Orange #F28C38; interior in black on white for print cost.
+
+RULES: Original prompts and text only; do not reference or imitate any book, author, program or company. No health or productivity guarantees. Neutral, encouraging voice.
+
+DIFFERENTIATION: A pocket-size physical companion designed to replace the phone's jobs (numbers, plans, notes) during the month; most competitors are letter-size PDFs.
+
+OUTPUT: Page-by-page content with exact headings, all 30 prompts written out, the 60 analog ideas listed, and layout notes per page type. End with a self-check: 96 pages accounted for; 30 unique prompts; 60 ideas; KDP trim and margin specs stated; no IP or health claims.
+```
+
+**Image prompt 1 (KDP cover front art; Ideogram or ChatGPT images):**
+
+```text
+Minimal book cover art: a small line drawing of a smartphone resting in a nest of leaves, lots of negative space, deep forest green #2F4B3A background with paper-cream #F7F3EA line art and a small orange #F28C38 sun. Text: "Thirty Days Unplugged" and subtitle "A Pocket Log for a Phone-Free Month". Portrait 5x8 ratio (1600x2560 px), solid background. No logos, no real people, no trademarked characters, no watermarks.
+```
+
+### Build and export
+
+1. Generate the interior with the super prompt.
+2. Lay out a 5x8 in interior in Canva or Affinity (0.5 in margins, 0.625 in gutter), 96 pages.
+3. Export the interior as PDF Print, black and white, fonts embedded.
+4. Use the KDP cover calculator for 96 pages (white paper) and build the full wrap cover in Canva at the calculated size, 300 DPI.
+5. Upload to KDP, order a proof copy and check margins.
+6. Make an A5/half-letter printable PDF of the same interior for Etsy.
+7. Create mockups (paperback in a coat pocket, open daily spread).
+
+### Listing copy prompt
+
+```text
+Write an Amazon KDP description and 7 backend keyword phrases, plus an Etsy listing (title under 140 characters front-loading 'digital detox journal'; 13 tags of 20 characters or fewer) for 'Thirty Days Unplugged: A Pocket Log for a Phone-Free Month', a 5x8 in, 96-page log with daily spreads, numbers and directions pages, a plans calendar, 60 analog ideas and a Day-30 reflection. Include a 4-question FAQ. Do not mention any book titles, authors, programs or trademarks, and make no health or productivity claims.
+```
+
+### Where to list
+
+- **Amazon KDP** (primary): Physical pocket journal with print-on-demand fulfillment.
+- **Etsy** (secondary): Printable version and bundle with the group kit.
+- **Pinterest** (traffic): New Year detox planning pins.
+
+**Positioning:** The pocket notebook that does your phone's jobs for a month.
+
+### Launch plan
+
+- **Day 0:** Publish the listing with mockups of the challenge cards, pledge poster and meetup plan.
+- **Day 1:** Pin 6 images aimed at 'phone free challenge' and 'digital detox group' searches.
+- **Day 3:** Email 10 campus wellness offices, student clubs or church small-group leaders with a free sample week (check each organization's policies).
+- **Day 5:** Post a short video: 'how to run a phone-free month with friends' with the printed kit.
+- **Day 8:** Offer the 28 challenge cards free on Payhip for email sign-ups.
+- **Day 12:** Share in organizer and wellness communities that allow resources (check the community rules).
+- **Day 16:** Add a 'January 2027 phone-free month' variant and New Year keywords.
+- **Day 21:** Go/pivot/stop check against thresholds.
+
+### Marketing channels
+
+| Channel | What to do | How often |
+|---|---|---|
+| Pinterest | Challenge-card and pledge-poster pins | 5 pins per week |
+| Direct outreach | Campus wellness and student-club leaders, church small groups | 10 contacts per week |
+| Short-form video | Run-it-with-friends explainers | 2-3 per week |
+
+**Search phrases to test (suggestions, not measured volumes):** digital detox journal, phone free journal, 30 day challenge log, screen free journal, pocket journal
+
+**Hooks:**
+- What I carried instead of my phone for 30 days.
+- Your phone-free month needs a place for numbers and plans.
+
+### Profit per sale
+
+Suggested price $8.99 (range $7.99–$10.99, estimate). Typical low-content 5x8 journal pricing. The printable sells at $6.
+
+| Channel | Price | Fees | Product + shipping | You keep | Margin |
+|---|---|---|---|---|---|
+| Amazon KDP (120-page B&W, 50% royalty) | $8.99 | $4.50 | $2.44 | **$2.06** | 23% |
+| Etsy | $8.99 | $1.30 | $0.00 | **$7.69** | 85% |
+
+Product cost basis: mixed. Cash at risk $0.20; break-even 1 sale(s).
+
+### Asymmetry
+
+- **Risk:** $0.20 and about 12 hours; answer in about 21 days.
+- **What you risk:** About 12 hours plus a proof copy (about $5). KDP discovery is slow.
+- **What stays open:** Evergreen New Year demand, pairs with the group kit, and no inventory.
+- **Bad bet if:** Launched after mid-December, which misses the January discovery window.
+
+**Ways to extend:** Group bulk-order discount; 7-day mini version; New Year 2027 edition cover
+
+**Risks:** Crowded low-content journal market; Slow KDP discovery; Thin margins at low prices
+
+**Validation test:** Publish on KDP and list the printable on Etsy; track sales through the January 2027 New Year window.
+
+**Continue if:** 10+ KDP sales in the first 6 weeks or by Jan 31. · **Change direction if:** Printable sells but paperback doesn't: drop to printable only plus a group-kit bundle. · **Stop if:** Fewer than 3 sales by Jan 31, 2027.
+
+---
+
+## Gold Star Behaviour: Holiday Edition sticker sheet
+
+**Trend:** Gold Star Behaviour (holiday edition) (Prepare) · **Format:** sticker (print on demand) · **Asymmetry:** Roughly even (45/100)
+
+**Buyer:** Adults 22-40 buying a cheap stocking stuffer or Secret Santa gift
+
+### Super prompt
+
+```text
+You are a witty greeting-card and sticker copywriter and art director. Your goal: write and art-direct one kiss-cut sticker sheet called "Gold Star Behaviour: Holiday Edition" that a solo seller will print on demand.
+
+BUYER AND JOB: Adults 22-40 who have seen the "gold star behaviour" photo posts (a title, a small subtitle like "in my personal opinion", gold stars scattered around, each star labelling a small, slightly smug good habit). They want a cheap stocking stuffer, Secret Santa or white-elephant gift under $10 that rewards the tiny, unglamorous wins of the holiday season. The sheet lets them hand out a gold star in real life.
+
+DELIVERABLE SPEC:
+1. Sheet size 5.5 x 8.5 in (also give a 4 x 6 in reduced layout), 300 DPI, export target 1650 x 2550 px PNG with transparent background.
+2. One header sticker: "gold star behaviour" with a small subtitle "holiday edition, if I may say so".
+3. 18 star stickers, each a five-point gold star with a short caption underneath (max 5 words each, lowercase, dry humour). Themes: shopping early, wrapping as you go, leaving the party at a sensible time, replying to the group chat, not mentioning politics at dinner, bringing ice, writing an actual card, returning the borrowed dish, stopping at one cookie (then two), remembering batteries, booking travel before prices jump, labelling leftovers, saying no to one event, thanking the host, unsubscribing from sale emails, buying less this year, keeping the receipt, drinking water. Write all 18 captions fresh in your own words.
+4. Two bonus blank stars labelled "your gold star here".
+5. Layout: 4 columns, staggered, 0.125 in gaps for kiss-cut, nothing within 0.125 in of the sheet edge.
+
+STYLE: hand-drawn, slightly imperfect stars, like a teacher's foil star drawn by an illustrator. Palette: star gold #E8B53A, deep gold outline #B8862B, ink #2B2B2B, holiday red accent #B3261E, pine #2F5D46, cream sheet background #FBF6EC (printed only on the sheet backing, stickers stay transparent). Canva font pairings: (a) "Fraunces" for the header + "DM Sans" for captions; (b) "Playfair Display Italic" header + "Work Sans" captions.
+
+ORIGINALITY AND RIGHTS: Do not copy any existing post, creator caption or sticker. Do not name or imitate any brand, retailer, film, song, celebrity or character. No trademarked holiday characters. No politics, no medical or diet claims, nothing mean about any group. Keep it gift-safe for an office exchange.
+
+DIFFERENTIATION: Existing gold-star stickers are generic "adulting" jokes; this is the first set built on the "gold star behaviour" format and on December-specific wins, with a header sticker people can stick on a laptop or card.
+
+OUTPUT FORMAT: Return (1) a table of the 21 stickers: number, caption, placement column/row; (2) an image-generation prompt for the star base art; (3) layout instructions for Canva; (4) a 40-word product blurb.
+
+SELF-CHECK before answering: every caption is 5 words or fewer; all 18 are different; no brand, IP or person names; nothing that could offend a coworker; palette hex codes used; sizes and bleed stated.
+```
+
+**Image prompt 1 (Star sticker base art; Ideogram or ChatGPT images):**
+
+```text
+A set of 20 hand-drawn five-point gold foil-style stars, slightly imperfect edges, flat illustration with subtle grain, colors #E8B53A fill with #B8862B outline, a few tiny sparkle marks in #B3261E and #2F5D46, arranged in a loose grid with space under each star for a caption, transparent background, square 1:1, no text, no logos, no real people, no trademarked characters, no watermarks
+```
+
+**Image prompt 2 (Header sticker lettering; Ideogram):**
+
+```text
+Hand-lettered sticker that reads exactly "gold star behaviour" in lowercase serif lettering in #2B2B2B with one gold star #E8B53A dotting the end, small line below reading exactly "holiday edition, if I may say so" in italic, white die-cut border, transparent background, 3:1 aspect ratio, no logos, no real people, no trademarked characters, no watermarks
+```
+
+**Image prompt 3 (Listing mockup; Canva mockup or ChatGPT images):**
+
+```text
+Flat-lay photo of a kiss-cut sticker sheet with gold hand-drawn stars and short captions on a cream sheet, beside a wrapped gift with red ribbon, pine sprigs and a mug, soft daylight, top-down, 4:5 aspect ratio, captions unreadable blur, no logos, no real people, no trademarked characters, no watermarks
+```
+
+### Build and export
+
+1. Run the super prompt; keep the 21-caption table.
+2. Generate the star base art and header lettering; remove backgrounds if needed (Canva Background Remover).
+3. In Canva, create a 5.5 x 8.5 in design; place stars in the staggered 4-column grid; add captions in DM Sans 9-10 pt in #2B2B2B.
+4. Check every element sits at least 0.125 in from the edge and from neighbours.
+5. Export PNG, transparent background, at 1650 x 2550 px (300 DPI).
+6. Upload to Printify kiss-cut sticker sheet (or the provider's equivalent), match the template size, order one sample to check colour and cuts.
+7. Publish to Etsy through the Printify integration with the listing text; set processing to the provider's time and note holiday cut-off dates.
+
+### Listing copy prompt
+
+```text
+Write an Etsy listing for a print-on-demand kiss-cut sticker sheet called 'Gold Star Behaviour: Holiday Edition'. Title under 140 characters that starts with 'Gold Star Stickers for Adults' and includes stocking stuffer and funny holiday gift. 13 tags, each 20 characters or fewer (e.g. gold star stickers, stocking stuffer, adulting stickers). Description: what is on the sheet (1 header + 18 holiday-win stars + 2 blank stars), size, kiss-cut vinyl, made to order and shipping times, holiday order-by note placeholder [ORDER BY DATE]. FAQ: waterproof?, can I order multiples?, are captions customisable? Do not use any brand, retailer, platform, film, song, character or celebrity names, and do not claim the product is 'viral' or 'as seen on TikTok'.
+```
+
+### Where to list
+
+- **Etsy** (primary): Gift buyers search 'stocking stuffer' and 'funny stickers' there; Printify integrates
+- **Redbubble** (secondary): Upload single star designs as individual stickers at zero cost
+- **Instagram** (traffic): The trend lives in Instagram photo posts; post your own gold-star-behaviour carousel
+
+**Positioning:** Real-life gold stars for the small, unglamorous wins of the holiday season.
+
+### Launch plan
+
+- **Day 0:** Order a physical sample; publish listing with mockups
+- **Day 1:** Post a 'gold star behaviour, holiday edition' photo post in the trend's own format on Instagram and TikTok using your sticker art
+- **Day 3:** Pin 5 Pinterest pins targeting 'stocking stuffers for adults' and 'secret santa under $10'
+- **Day 5:** Upload individual stars to Redbubble
+- **Day 7:** Short video: peeling stickers onto gifts and cards; caption with one holiday win
+- **Day 10:** Check views and favourites; tweak title and first photo
+- **Day 14:** If favourites/sales appear, start $1/day Etsy ads for 14 days
+- **Day 21:** Go/pivot/stop: continue if 2+ sales; pivot to an office/teacher edition if views but no sales; stop if under 100 views
+
+### Marketing channels
+
+| Channel | What to do | How often |
+|---|---|---|
+| Instagram | Post in the gold-star-behaviour template format with your stickers in frame | 3 posts/week through mid-December |
+| TikTok | Stickering gifts and cards, captioned with a holiday 'gold star' | 3 videos/week |
+| Pinterest | Gift-guide pins for adults under $10 | 5 pins/week |
+
+**Search phrases to test (suggestions, not measured volumes):** gold star stickers, stickers for adults, stocking stuffer, secret santa gift, funny holiday gift, adulting stickers
+
+**Hooks:**
+- Gold star behaviour: buying gifts in October
+- Hand out real gold stars this Christmas
+- A gold star for leaving the party on time
+
+### Profit per sale
+
+Suggested price $7.50 (range $5.50–$9.00, estimate). Adult humour sticker sheets typically sit in the mid single digits; price slightly above generic star sheets for the holiday set
+
+| Channel | Price | Fees | Product + shipping | You keep | Margin |
+|---|---|---|---|---|---|
+| Etsy | $7.50 | $1.54 | $6.24 | **$3.72** | 50% |
+
+Product cost basis: mixed. Cash at risk $20.44; break-even 6 sale(s).
+
+### Asymmetry
+
+- **Risk:** $20.44 and about 7 hours; answer in about 21 days.
+- **What you risk:** About 6-8 hours and a $10-15 sample; no inventory
+- **What stays open:** Zero marginal cost per extra design; seasonal re-runs; the phrase itself is evergreen enough for non-holiday editions
+- **Bad bet if:** The phrase fades before December or posts stay UK-centric (UK spelling 'behaviour') with little US search
+
+**Ways to extend:** Office/teacher edition; New Year 2027 edition (January resolutions); Matching digital Instagram story stickers pack; Single-star vinyl decals
+
+**Risks:** Format memes fade fast; the holiday window is about 8 weeks; Low price point means thin profit per order after Etsy fees; POD holiday shipping cut-offs (roughly Dec 10) end the season early
+
+**Validation test:** List by Oct 20 and post 6 trend-format posts in 2 weeks
+
+**Continue if:** 2+ sales or 15+ favourites by Nov 10 · **Change direction if:** Views but no sales: make an office/teacher edition or drop price · **Stop if:** Under 100 listing views by Nov 10
+
+---
+
+## Relax, Pal. Deadpan Sticker Set
+
+**Trend:** Relax, Pal (Pass) · **Format:** sticker (print on demand) · **Asymmetry:** Roughly even (42/100)
+
+**Buyer:** College students and 18-30s in on the meme
+
+### Super prompt
+
+```text
+You are a senior sticker designer and comedy copywriter making an original set of deadpan die-cut stickers for print-on-demand (Redbubble, and Printify stickers linked to Etsy).
+
+BUYER AND JOB: US college students and 18-30-year-olds who are in on the "Relax, pal." catchphrase and want a dry, unbothered comeback to slap on a laptop, water bottle or phone case. The sticker lets them say "I'm in on the joke" without explaining it. It is also a cheap gift between friends.
+
+DELIVERABLE SPEC: Produce 8 sticker concepts. For each: (1) exact text, (2) layout, (3) font choice, (4) colors from the palette, (5) a one-line image-model prompt, (6) a 10-word listing tagline. Art canvas 3000x3000 px, transparent PNG, 300 DPI, with a 60 px white die-cut border. Sticker sizes offered: 3 in and 4 in.
+Concepts must include:
+1. Plain lockup: "relax, pal." in lowercase serif with a period.
+2. Retro 1970s motel-sign version of "Relax, Pal."
+3. Tiny hand-lettered "relax, pal" inside a speech bubble.
+4. Fake vintage-style warning label: "CAUTION: may say relax, pal" (original design, no real safety logos).
+5. A calm cartoon sloth or tortoise in sunglasses saying "relax, pal." (original animal, no existing character).
+6. Desk/office version: "per my last email: relax, pal."
+7. Gym version: "rest day. relax, pal."
+8. Student version: "midterms? relax, pal."
+
+FONTS (two Canva pairings): A) "Libre Caslon Text" italic + "Inter" ; B) "Bowlby One" + "Courier Prime".
+PALETTE: cream #F4EDE1, ink navy #1E2A3A, faded red #C2493D, sage #8AA38B, mustard #D9A93E.
+
+ORIGINAL-CONTENT AND RIGHTS RULES: The phrase "relax, pal" is ordinary English. You must NOT reference the news story, hazing, any fraternity or Greek letters, the University of Wisconsin or its colors/mascot, the TV station, the reporter, or the student. No real people, no likenesses, no screenshots, no trademarks, no university or Greek-life imagery. Never make a joke that glorifies hazing or injury. Keep the humor about being unbothered in everyday situations.
+
+DIFFERENTIATION: Existing "relax" stickers are generic wellness messages. Yours are deadpan, lowercase and dry, and each one places the phrase in a relatable situation (work, gym, exams), so the joke still lands for people who never saw the clip.
+
+OUTPUT FORMAT: A numbered list, one block per sticker with the six fields above, then a short "set description" for a 3-sticker bundle.
+
+SELF-CHECK before answering: (a) no Greek letters, school names, frat or hazing references; (b) no real people or brands; (c) every text string is under 8 words and spelled exactly; (d) each image prompt ends with the negative list; (e) palette hex codes used correctly.
+```
+
+**Image prompt 1 (Main lockup sticker; Ideogram or ChatGPT images):**
+
+```text
+Die-cut sticker, the exact lowercase text "relax, pal." in an elegant italic serif, ink navy #1E2A3A letters on a cream #F4EDE1 rounded badge with a thin faded red #C2493D outline, flat vector, centered, 1:1, transparent background, thick white die-cut border. No logos, no real people, no trademarked characters, no watermarks.
+```
+
+**Image prompt 2 (Character sticker; Ideogram or Midjourney):**
+
+```text
+Original cartoon tortoise lounging in a beach chair wearing round sunglasses, speech bubble with the exact text "relax, pal.", retro 1970s flat illustration, sage #8AA38B and mustard #D9A93E with navy #1E2A3A linework, 1:1, transparent background, white die-cut border. No logos, no real people, no trademarked characters, no watermarks.
+```
+
+### Build and export
+
+1. Generate the 8 concepts with the super prompt and pick the 4 strongest.
+2. Create art in the image tool; rebuild text in Canva (3000x3000 px) with the chosen fonts so lettering is crisp.
+3. Remove backgrounds and export transparent PNG at 300 DPI (Canva Pro or a free background remover).
+4. Upload to Redbubble as stickers (and optional magnets); set default product to sticker.
+5. Optionally create the same art as Printify kiss-cut stickers linked to Etsy (3x3 and 4x4 in).
+6. Make one mockup per design (laptop and water bottle) in Canva.
+7. Run the listing prompt and publish 4 listings plus one 3-pack bundle.
+
+### Listing copy prompt
+
+```text
+Write an Etsy listing for a deadpan "relax, pal" kiss-cut vinyl sticker. Title under 140 characters starting with "Relax Pal Sticker". Give 13 tags, each 20 characters or fewer (e.g. relax pal sticker, deadpan sticker, funny laptop sticker). Write a description covering size options (3 in, 4 in), material, waterproof claims only if the provider states them, and shipping time (print-on-demand, about 1-2 weeks). Add a 4-question FAQ. Do NOT mention any news story, university, fraternity, hazing, reporter, TV station or real person, and use no trademarked terms.
+```
+
+### Where to list
+
+- **Redbubble** (primary): Zero setup cost, meme-sticker shoppers search there, no listing fees
+- **Etsy** (secondary): Printify integration; $0.20 listing fee per design
+- **TikTok** (traffic): Where the phrase lives; short 'sticker reveal' clips
+
+**Positioning:** The dry, unbothered comeback sticker for people who refuse to get worked up.
+
+### Launch plan
+
+- **Day 0:** Publish 4 designs + 3-pack on Redbubble; Etsy listings via Printify.
+- **Day 1:** Post a 7-second TikTok: stressful text message on screen, cut to laptop sticker 'relax, pal.'
+- **Day 3:** Post office and gym variants as separate short clips.
+- **Day 5:** Pin mockups on Pinterest boards for funny laptop stickers.
+- **Day 7:** Check views/saves; re-cut the best performing hook.
+- **Day 10:** Add 2 new situational variants if any design got sales or favorites.
+- **Day 14:** Go/pivot/stop check against continueIf/stopIf.
+- **Day 21:** If continuing, order one physical sample for real photos.
+
+### Marketing channels
+
+| Channel | What to do | How often |
+|---|---|---|
+| TikTok | Situational skit ending on the sticker, no reference to the original clip | 3 posts/week for 2 weeks |
+| Pinterest | Mockup pins on funny-sticker boards | 5 pins/week |
+| Instagram Reels | Cross-post TikToks | 2/week |
+
+**Search phrases to test (suggestions, not measured volumes):** relax pal sticker, deadpan sticker, funny laptop sticker, unbothered sticker, dry humor sticker
+
+**Hooks:**
+- When your group chat panics over nothing:
+- Me reading the 4th 'quick question' email:
+- The only response you need this midterm season
+
+### Profit per sale
+
+Suggested price $4.50 (range $3.50–$6.00, estimate). Meme stickers typically sit in the low single digits; price at the middle and use a 3-pack at about $11 to lift order value.
+
+| Channel | Price | Fees | Product + shipping | You keep | Margin |
+|---|---|---|---|---|---|
+| Etsy | $4.50 | $1.26 | $6.24 | **$1.00** | 22% |
+
+Product cost basis: mixed. Cash at risk $6.44; break-even 7 sale(s).
+
+### Asymmetry
+
+- **Risk:** $6.44 and about 7 hours; answer in about 21 days.
+- **What you risk:** About 6-8 hours and $0-$5 (Redbubble free; a few Etsy listing fees).
+- **What stays open:** Zero marginal cost; designs work even after the meme fades because the phrase is generic deadpan humor.
+- **Bad bet if:** The phrase stays tied to the hazing story in public discussion, or buyers only want the student's face (which you must not use).
+
+**Ways to extend:** Magnet and button versions; Mug: 'relax, pal.' in serif; Situational series: commute, family group chat, fantasy football
+
+**Risks:** Reputational: origin is a hazing incident with injured pledges; keep every design far from frat/hazing context; Meme may burn out within 2-3 weeks; Copycats can replicate a two-word sticker instantly
+
+**Validation test:** List 4 designs on Redbubble + Etsy; post 6 TikToks over 2 weeks
+
+**Continue if:** 5+ sales or 30+ favorites in 14 days · **Change direction if:** Views but no sales: test the office/midterms variants only · **Stop if:** Under 3 favorites and no sales after 14 days, or backlash ties the phrase to hazing
+
+---
+
+## Everything Is Narrow: Skinny Chile Sticker Pack
+
+**Trend:** Chile memes (everything is narrow) (Prepare) · **Format:** sticker (print on demand) · **Asymmetry:** Roughly even (41/100)
+
+**Buyer:** Meme-aware 16-35s, Chileans and travelers
+
+### Super prompt
+
+```text
+You are an illustrator and comedy writer creating an original, affectionate sticker pack based on the viral joke that, because Chile is long and narrow on the map, everything in Chile must be long and narrow too.
+
+BUYER AND JOB: Meme-aware 16-35-year-olds worldwide (US buyers first), plus Chileans and travelers who enjoyed the joke. The stickers let them show they are in on this autumn-2026 meme. Tone: warm and absurd, laughing with Chile, never at Chileans.
+
+DELIVERABLE SPEC: 10 sticker designs, each an everyday object comically stretched to be extremely tall and thin:
+1. A skinny city bus. 2. A narrow soccer field with tiny goals. 3. A tall thin house with one window per floor. 4. A very long, thin dachshund-shaped dog (generic dog, not a named breed mascot). 5. A narrow school desk. 6. A thin empanada. 7. A long skinny sofa. 8. A narrow swimming pool with one lane. 9. A skinny bicycle. 10. A narrow map outline of Chile with a smile and the exact text "everything here is narrow".
+Also give 2 text-only stickers: "how I imagine Chile" and "narrow and proud".
+For each: subject, composition (portrait, object fills 85% of height), palette colors used, exact text if any, and a full image-model prompt.
+Art size 2400x3600 px (2:3), transparent PNG, 300 DPI, 50 px white die-cut border. Offered at 3 in and 4 in tall.
+
+FONTS (two Canva pairings): A) "Bricolage Grotesque" + "Inter"; B) "Chewy" + "Nunito".
+PALETTE: Andes snow #F7F4EE, Pacific blue #1F5C99, chili red #D6372E, desert sand #E3C08D, cactus green #5B8C5A, ink #1C1C1C.
+
+ACCURACY AND RESPECT RULES: The map outline must follow Chile's real long north-south shape. Do not show the Chilean coat of arms, government seals, real buildings, real people, football club crests, national-team kits or brand logos. You may use a simple star-and-stripe flag motif only as a small accent. No jokes about poverty, politics, disasters or any group of people.
+
+DIFFERENTIATION: Existing Chile products are flag tees and souvenirs; nobody sells the meme as cute illustrated objects. A cohesive 10-piece set also works as a bundle.
+
+OUTPUT FORMAT: numbered list with all fields, then a pack description (60 words) and a suggested 3-sticker starter pack.
+
+SELF-CHECK: (a) every object is clearly stretched tall and thin; (b) no logos, crests, seals, real people; (c) map outline recognizable; (d) text spelled exactly; (e) each image prompt ends with the negative list.
+```
+
+**Image prompt 1 (Skinny bus sticker; Ideogram or ChatGPT images):**
+
+```text
+Cute flat vector sticker of a city bus stretched extremely tall and narrow, one seat per floor, chili red #D6372E body, Pacific blue #1F5C99 windows, ink #1C1C1C outline, playful, 2:3 portrait, object fills the frame, transparent background, thick white die-cut border. No logos, no real people, no trademarked characters, no watermarks.
+```
+
+**Image prompt 2 (Map text sticker; Ideogram):**
+
+```text
+Flat vector sticker of a long narrow country outline shaped like Chile, desert sand #E3C08D to cactus green #5B8C5A to Andes snow #F7F4EE from north to south, small smiling face near the middle, the exact text "everything here is narrow" in rounded bold letters beside it, 2:3 portrait, transparent background, white die-cut border. No logos, no real people, no trademarked characters, no watermarks.
+```
+
+### Build and export
+
+1. Run the super prompt; generate all 12 images.
+2. Clean up and recolor to the palette in Canva or a vector editor; ensure text is re-typed in the chosen font.
+3. Export transparent PNG 2400x3600 at 300 DPI.
+4. Upload each to Redbubble as stickers; create a 'Skinny Chile' collection.
+5. Set up 3-sticker and 6-sticker sheets on Printify linked to Etsy.
+6. Make a grid mockup of all 10 for the hero image.
+7. Publish with the listing prompt; add a Spanish line to the description.
+
+### Listing copy prompt
+
+```text
+Write an Etsy listing for an illustrated sticker pack of everyday objects stretched tall and narrow, based on the 'everything in Chile is narrow' internet joke. Title under 140 characters front-loading "Chile Meme Sticker". 13 tags of 20 characters or fewer (e.g. chile meme sticker, skinny chile, narrow country). Description: what's in the pack, sizes, vinyl material per provider, print-on-demand shipping time about 1-2 weeks, one sentence in Spanish. 4-question FAQ. No trademarks, airline, football club or brand names, and no real people.
+```
+
+### Where to list
+
+- **Redbubble** (primary): Free, international buyers, meme sticker search traffic
+- **Etsy** (secondary): Sticker sheets via Printify
+- **TikTok / Instagram Reels** (traffic): Where the joke spreads; 'how I imagine Chile' compilations
+
+**Positioning:** The cutest version of the internet's narrowest joke.
+
+### Launch plan
+
+- **Day 0:** Publish 10 singles + collection on Redbubble.
+- **Day 1:** Reel: 'how I imagine Chile' slideshow of the 10 illustrations.
+- **Day 2:** Same video with Spanish caption.
+- **Day 4:** Etsy sticker sheets live.
+- **Day 7:** Review which objects get most likes; make 3 more of that type.
+- **Day 14:** Go/pivot/stop check.
+- **Day 21:** If continuing, add poster/printable bundle.
+
+### Marketing channels
+
+| Channel | What to do | How often |
+|---|---|---|
+| TikTok | Slideshow and 'stretch' animation of objects | 3/week for 2 weeks |
+| Instagram Reels | Cross-post; Spanish captions | 3/week |
+| Pinterest | Grid pins | 4/week |
+
+**Search phrases to test (suggestions, not measured volumes):** chile meme sticker, skinny chile, narrow country sticker, geography meme, funny map sticker
+
+**Hooks:**
+- How I still imagine Chile:
+- POV: you take the bus in Chile
+- Rating Chile's narrowest objects
+
+### Profit per sale
+
+Suggested price $4.00 (range $3.00–$12.00, estimate). Singles at about $4, 3-pack sheet about $10-12, in line with typical meme sticker pricing.
+
+| Channel | Price | Fees | Product + shipping | You keep | Margin |
+|---|---|---|---|---|---|
+| Etsy | $4.00 | $1.21 | $6.24 | **$0.55** | 14% |
+
+Product cost basis: mixed. Cash at risk $6.44; break-even 12 sale(s).
+
+### Asymmetry
+
+- **Risk:** $6.44 and about 8 hours; answer in about 21 days.
+- **What you risk:** About 8 hours, $0-$5.
+- **What stays open:** Cute illustrations keep working for geography-humor buyers after the spike; zero marginal cost.
+- **Bad bet if:** The spike has already peaked (posts slowing in early October) and buyers only wanted to watch, not buy.
+
+**Ways to extend:** Poster of all 10 objects; Phone wallpaper pack; Other 'map-shape' jokes (generic geography series)
+
+**Risks:** Meme may already be past peak; Joke about a country could read as mocking; keep it affectionate; Easily copied
+
+**Validation test:** 10 designs on Redbubble; 6 short videos in 2 weeks
+
+**Continue if:** 5+ sales or 40+ favorites in 14 days · **Change direction if:** Interest only in 1-2 objects: expand those into a series · **Stop if:** No sales and under 5 favorites after 14 days
+
+---
+
+## I Can't Do Nathan School-Survival Sticker Pack
+
+**Trend:** I Can't Do Nathan (Prepare) · **Format:** sticker (print on demand) · **Asymmetry:** Roughly even (41/100)
+
+**Buyer:** Tweens/teens and the parents, siblings and teachers who buy for them
+
+### Super prompt
+
+```text
+You are a sticker illustrator and youth-humor writer creating an original sticker pack built on the 2026 catchphrase "I can't do Nathan" (a misheard "I can't do nothing"), which kids and teens use to joke about being done with homework, chores and Mondays.
+
+BUYER AND JOB: Tweens and teens (10-17) who say the phrase, plus parents, older siblings and teachers buying a fun, school-safe gift. Stickers go on laptops, binders, water bottles and planners and signal 'I'm in on it'.
+
+DELIVERABLE SPEC: 10 stickers. For each: exact text, illustration subject, layout, palette colors, image-model prompt. Canvas 3000x3000 px transparent PNG, 300 DPI, 60 px white die-cut border, sizes 3 in and 4 in.
+1. "i can't do nathan." in bubbly hand-lettering.
+2. Homework pile with "i can't do nathan" in a speech bubble.
+3. Math worksheet version: "2+2? i can't do nathan."
+4. Monday alarm clock melting: "can't do nathan today."
+5. Original cartoon sleepy cat face-planting on a book: "can't do nathan."
+6. Fake ID badge (original design): "Hi, I'm NOT Nathan."
+7. "who's nathan?" in retro arcade-style lettering (generic pixel style; no game logos).
+8. Chores list with every item crossed out: "can't do nathan."
+9. Battery at 1%: "can't do nathan."
+10. Teacher-friendly version: "we CAN do nathan (homework due Friday)".
+
+FONTS (two Canva pairings): A) "Fredoka" + "Nunito"; B) "Press Start 2P" (accents only) + "Baloo 2".
+PALETTE: bubblegum #FF8FB1, electric blue #3A7BFF, lime #B6E36B, sunshine #FFD447, grape #6B4BA1, ink #1D1D2B.
+
+RIGHTS AND SAFETY RULES: Do NOT reference or depict the child in the original clip, the YouTuber, any video game, game characters, weapons, aim-assist or game logos. No real people. Content must be school-appropriate: no insults, no puking jokes, no profanity. Nathan is never a real person and no one named Nathan is mocked.
+
+DIFFERENTIATION: Existing slang merch is generic ("rizz", "6-7") while this set turns one specific new phrase into situations kids live every day (homework, chores, Mondays), plus a teacher variant that adults can buy.
+
+OUTPUT FORMAT: Numbered list with all fields; then three bundle suggestions (Back-to-school 3-pack, Full 10-pack, Teacher pack); then a parent-friendly description explaining the phrase in 2 sentences.
+
+SELF-CHECK: no game, YouTuber or child references; school-safe language; exact text spelled consistently ("nathan" lowercase except item 6); every image prompt ends with the negative list.
+```
+
+**Image prompt 1 (Lead sticker; Ideogram):**
+
+```text
+Die-cut sticker, the exact lowercase text "i can't do nathan." in bubbly rounded hand-lettering, bubblegum #FF8FB1 letters with ink #1D1D2B outline and small lime #B6E36B sparkles, flat vector, 1:1, transparent background, thick white die-cut border. No logos, no real people, no trademarked characters, no watermarks.
+```
+
+**Image prompt 2 (Sleepy cat sticker; ChatGPT images or Midjourney):**
+
+```text
+Original cute cartoon cat face-planted on an open textbook, tiny Zzz, speech bubble with exact text "can't do nathan.", flat vector, sunshine #FFD447 and electric blue #3A7BFF accents, ink #1D1D2B outlines, 1:1, transparent background, white die-cut border. No logos, no real people, no trademarked characters, no watermarks.
+```
+
+### Build and export
+
+1. Generate copy and prompts with the super prompt; create the 10 images.
+2. Re-set all text in Canva at 3000x3000 px using the font pairing for crisp lettering.
+3. Export transparent PNGs at 300 DPI.
+4. Upload singles to Redbubble (stickers, plus magnets for teachers).
+5. Build a 3-sticker and 6-sticker sheet on Printify linked to Etsy.
+6. Create mockups on a binder, laptop and water bottle.
+7. Publish with the listing prompt; include the parent-friendly explanation.
+
+### Listing copy prompt
+
+```text
+Write an Etsy listing for a school-safe 'i can't do nathan' slang sticker pack for tweens and teens. Title under 140 characters front-loading "I Can't Do Nathan Sticker". 13 tags of 20 characters or fewer (e.g. cant do nathan, gen alpha sticker, funny school sticker). Description: designs included, sizes, vinyl per provider, print-on-demand shipping about 1-2 weeks, a two-sentence parent explanation of the phrase. 4-question FAQ. Do not mention any video game, YouTuber, the child in the clip, or trademarked terms.
+```
+
+### Where to list
+
+- **Redbubble** (primary): Free; teens and parents shop slang stickers there
+- **Etsy** (secondary): Sticker sheets and teacher buyers
+- **Pinterest** (traffic): Parents and teachers searching school gifts; avoid targeting minors directly
+
+**Positioning:** The new school-year slang, on a sticker that's actually teacher-approved.
+
+### Launch plan
+
+- **Day 0:** Publish 10 singles on Redbubble.
+- **Day 2:** Etsy sheets live via Printify.
+- **Day 3:** Pinterest: 'teen slang explained' pin with the sticker set.
+- **Day 5:** Short video aimed at adults: 'my kid keeps saying I can't do Nathan, so I made stickers'.
+- **Day 10:** Teacher pack pin for classroom rewards.
+- **Day 14:** Go/pivot/stop check.
+- **Day 21:** If selling, add a winter-break variant.
+
+### Marketing channels
+
+| Channel | What to do | How often |
+|---|---|---|
+| Pinterest | Parent/teacher-oriented pins | 5/week |
+| TikTok / Reels | Adult-perspective humor clips (no kids on camera) | 2/week |
+
+**Search phrases to test (suggestions, not measured volumes):** cant do nathan sticker, gen alpha slang sticker, funny school sticker, teen slang gift
+
+**Hooks:**
+- Decoding my kid's new favorite phrase:
+- When the homework hits at 9pm:
+
+### Profit per sale
+
+Suggested price $4.00 (range $3.00–$12.00, estimate). Kids' slang stickers sit at low single digits; sheets about $10-12.
+
+| Channel | Price | Fees | Product + shipping | You keep | Margin |
+|---|---|---|---|---|---|
+| Etsy | $4.00 | $1.21 | $6.24 | **$0.55** | 14% |
+
+Product cost basis: mixed. Cash at risk $6.44; break-even 12 sale(s).
+
+### Asymmetry
+
+- **Risk:** $6.44 and about 7 hours; answer in about 21 days.
+- **What you risk:** About 7 hours, $0-$5.
+- **What stays open:** Zero marginal cost; parents and teachers are a buyer group beyond the meme's own audience.
+- **Bad bet if:** The phrase fades like other Gen Alpha slang before listings are discovered; 6-7 shows how fast this can turn.
+
+**Ways to extend:** Teacher reward-sticker sheet; Notebook cover printable; Magnet set
+
+**Risks:** Gen Alpha slang moves fast; Audience includes minors: no targeted ads, no kids in content; Some parents/teachers find it annoying
+
+**Validation test:** 10 designs live for 14 days with Pinterest and adult-perspective clips
+
+**Continue if:** 5+ sales or 30+ favorites in 14 days · **Change direction if:** Teacher variant outperforms: make a classroom reward sheet · **Stop if:** No sales in 14 days
 
 ---
 

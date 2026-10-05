@@ -1,0 +1,13 @@
+{
+  "asOf": "2026-09-16",
+  "candidateId": "analog-bag-screen-free-gifting",
+  "evidenceId": "analog-bag-screen-free-gifting~811522bc",
+  "id": "analog-bag-screen-free-gifting~21f28d5b",
+  "isAbsolute": true,
+  "metric": "Projected Gen Z holiday gift spending per person",
+  "note": "PwC projection reported by Fortune; a forecast, not measured spending.",
+  "recordedAt": "2026-10-04T21:02:03.000Z",
+  "runId": "run-2026-10-04-movements",
+  "unit": "USD (down from 586, -9%)",
+  "value": 533
+}

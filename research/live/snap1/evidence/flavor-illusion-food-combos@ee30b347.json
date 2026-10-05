@@ -1,0 +1,19 @@
+{
+  "accessMethod": "web_search_result",
+  "candidateId": "flavor-illusion-food-combos",
+  "claim": "College food outlet covering the same wave; lists cucumber+sugar, tomato+chips, banana+avocado, lemon+cinnamon",
+  "excerpt": "People online have created a viral trend where they try weird food combinations that supposedly taste like something completely different.",
+  "firstRetrievedAt": "2026-10-05T00:01:02Z",
+  "firstSeenRunId": "run-hunt-foodhome-20261004-1",
+  "id": "flavor-illusion-food-combos~ee30b347",
+  "intent": "curiosity",
+  "kind": "observed",
+  "lastSeenRunId": "run-hunt-foodhome-20261004-1",
+  "publishedAt": null,
+  "publisher": "Spoon University",
+  "retrievedAt": "2026-10-05T00:01:02Z",
+  "signalType": "press",
+  "syndicationOf": null,
+  "title": "People Online Are Trying Weird Food Combos Hoping They Taste Like Something Else",
+  "url": "https://spoonuniversity.com/news/people-trying-weird-food-combos-tiktok/"
+}

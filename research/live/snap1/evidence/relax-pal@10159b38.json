@@ -1,0 +1,19 @@
+{
+  "accessMethod": "web_search_result",
+  "candidateId": "relax-pal",
+  "claim": "A YouTube explainer exists, a sign of spread beyond TikTok",
+  "excerpt": "Relax, Pal Meme EXPLAINED! - YouTube",
+  "firstRetrievedAt": "2026-10-05T00:00:47Z",
+  "firstSeenRunId": "run-hunt-memes-20261004-1",
+  "id": "relax-pal~10159b38",
+  "intent": "curiosity",
+  "kind": "observed",
+  "lastSeenRunId": "run-hunt-memes-20261004-1",
+  "publishedAt": null,
+  "publisher": "YouTube",
+  "retrievedAt": "2026-10-05T00:00:47Z",
+  "signalType": "creator",
+  "syndicationOf": null,
+  "title": "Relax, Pal Meme EXPLAINED!",
+  "url": "https://www.youtube.com/watch?v=-9loel9j3C8"
+}

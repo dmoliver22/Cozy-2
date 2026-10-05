@@ -1,0 +1,238 @@
+{
+  "actionRationale": "Strong reported curiosity and a good seasonal fit (New Year), but buyer intent and competition are unverified, and planner demand peaks in December-January. Build a beginner workbook and a 2027 moon planner now, check the marketplace before listing, and list by early December.",
+  "adopters": {
+    "evidence": [
+      "cosmic-reset-beginner-astrology-tarot~d2e1f12c",
+      "cosmic-reset-beginner-astrology-tarot~23e4b1af",
+      "cosmic-reset-beginner-astrology-tarot~dde4fc08"
+    ],
+    "text": "Beginners (largely Gen Z and millennial women, inferred from coverage) who want to learn the system themselves rather than read horoscopes; travelers using astrocartography; people building September/New-Year 'reset' routines. Why they care: self-reflection, identity language, and intentional routines."
+  },
+  "aliases": [
+    "Cosmic Reset",
+    "learn astrology",
+    "beginner tarot",
+    "astrocartography",
+    "celestial self-care",
+    "moon rituals",
+    "Cosmic Reset (beginner astrology, tarot and astrocartography)"
+  ],
+  "category": "belief",
+  "channels": [
+    "Etsy",
+    "Gumroad",
+    "Pinterest",
+    "Amazon KDP"
+  ],
+  "competition": {
+    "evidence": [],
+    "level": "unknown",
+    "text": "Not measured: the search budget ran out before a marketplace check. From background knowledge (unverified this session), astrology/moon planners and tarot journals have been sold on Etsy and KDP for years, so competition is probably high; a beginner 'learn the system' workbook may be less crowded."
+  },
+  "editorialNotes": [
+    "Editorial review 2026-10-04: Counted \"WWD\" with \"Pinterest Newsroom\" as one signal: restates the Pinterest Hobbies report data.",
+    "Editorial review 2026-10-04: Counted \"VITA Daily\" with \"Pinterest Newsroom\" as one signal: restates the Pinterest Hobbies report data.",
+    "Editorial review 2026-10-04: Counted \"Social Media Today\" with \"Pinterest Newsroom\" as one signal: restates the Pinterest Hobbies report data.",
+    "Editorial review 2026-10-04: Relabeled \"E! Online\" from purchase intent to context only: a gift guide using astrology as a frame is editorial supply, not buyer behavior.",
+    "Editorial review 2026-10-04: Changed supplyGap from 1 (qualitative) to not assessed (unknown): Competition was not measured (search budget ran out before a marketplace check). The research's assumption of a crowded category is plausible but unverified.",
+    "Editorial review 2026-10-04: Estimated window end set to Jan 31, 2027, when New-Year planner buying typically tails off (inference)."
+  ],
+  "effortMin": "low",
+  "firstSeenAt": "2026-10-04T21:00:56.000Z",
+  "formats": [
+    "printable",
+    "planner"
+  ],
+  "gap": {
+    "isInference": true,
+    "text": "A 'learning-first' product that matches the beginner queries: a structured 12-week workbook that teaches how to read your own chart (fill-in chart wheel, glossary, guided worksheets) without predictions, plus an astronomically accurate 2027 moon-phase reflection planner timed for New Year."
+  },
+  "id": "cosmic-reset-beginner-astrology-tarot",
+  "jobId": null,
+  "language": "en",
+  "lastRunId": "run-2026-10-04-aesthetics",
+  "lens": "Discovery scan: aesthetics & decor",
+  "name": "Cosmic Reset (beginner astrology & tarot)",
+  "origin": {
+    "date": "2026-08-25",
+    "evidence": [
+      "cosmic-reset-beginner-astrology-tarot~d2e1f12c",
+      "cosmic-reset-beginner-astrology-tarot~5afb1d6b",
+      "cosmic-reset-beginner-astrology-tarot~d1deccc4",
+      "cosmic-reset-beginner-astrology-tarot~dde4fc08"
+    ],
+    "text": "Long-running astrology/tarot interest among Gen Z and millennials. Pinterest named the 'Cosmic Reset' trend in its 2026 Hobbies Trend Report (around 2026-08-25; May 2025 vs May 2026 searches)."
+  },
+  "productDemand": {
+    "evidence": [
+      "cosmic-reset-beginner-astrology-tarot~d2e1f12c",
+      "cosmic-reset-beginner-astrology-tarot~890cf2d6"
+    ],
+    "text": "The reported searches are learning/curiosity intent ('learn astrology', 'tarot cards for beginners', 'crystals and meanings'), which suits workbooks, journals and planners better than decor. Astrology already works as a gift frame in mainstream editorial. No sales evidence for astrology printables was gathered."
+  },
+  "products": [
+    {
+      "buyer": "Astrology beginners (Gen Z/millennial) who want to read their own chart instead of horoscopes",
+      "channels": [
+        "Etsy",
+        "Gumroad",
+        "Pinterest"
+      ],
+      "continueIf": "Sample downloads and signups show real pull within 2-3 weeks.",
+      "differentiation": "Teaches the method step by step (no predictions), unlike horoscope/zodiac-sign decor.",
+      "effort": "medium",
+      "effortHours": 20,
+      "evidence": [
+        "cosmic-reset-beginner-astrology-tarot~d2e1f12c"
+      ],
+      "format": "printable",
+      "fulfillment": "digital",
+      "leadTimeDays": 7,
+      "pivotIf": "Downloads but no paid conversion: shorten to a low-price 'chart reading starter kit'.",
+      "rightsNote": "Original text; accurate description of astrological conventions; no outcome claims.",
+      "stopIf": "Marketplace check shows dominant, well-reviewed equivalents and the sample gets no traction.",
+      "theme": "'Learn Astrology in 12 Weeks' workbook: weekly lessons, glossary, blank chart wheel to fill in from any free chart calculator, house/planet worksheets, reflection prompts; printable PDF and GoodNotes-ready version",
+      "validationTest": "Run a marketplace check first; if not saturated, publish a 4-week sample module free on Gumroad, promote with 10 pins, and measure email signups before building all 12 weeks.",
+      "whyBuy": "Directly matches the 'learn astrology' and natal-chart searches Pinterest reported."
+    },
+    {
+      "buyer": "People setting New-Year intentions who like moon/celestial rituals",
+      "channels": [
+        "Etsy",
+        "Gumroad",
+        "Pinterest"
+      ],
+      "continueIf": "The moon planner gets more favorites and sales than the control by early January.",
+      "differentiation": "Reflection-focused and astronomically accurate rather than horoscope-filled; clean celestial design.",
+      "effort": "medium",
+      "effortHours": 16,
+      "evidence": [
+        "cosmic-reset-beginner-astrology-tarot~d2e1f12c",
+        "cosmic-reset-beginner-astrology-tarot~a29439f1"
+      ],
+      "format": "planner",
+      "fulfillment": "digital",
+      "leadTimeDays": 5,
+      "pivotIf": "Interest is low: repackage the moon pages as an add-on insert for existing planners.",
+      "rightsNote": "Verify every moon-phase and eclipse date against an authoritative astronomical source.",
+      "stopIf": "No sales by mid-January.",
+      "theme": "2027 Moon Phase & Intentions digital planner (GoodNotes/Notability hyperlinked PDF + printable): new/full moon reflection pages, monthly reset spreads, celestial line art",
+      "validationTest": "List by early December with 10-15 pins; compare against a plain 2027 planner listing as a control.",
+      "whyBuy": "Pairs the reported 'reset'/moon-ritual interest with the New-Year planner buying season."
+    },
+    {
+      "buyer": "Tarot beginners",
+      "channels": [
+        "Etsy",
+        "Amazon KDP",
+        "Gumroad"
+      ],
+      "continueIf": "Raises the bundle's conversion rate.",
+      "differentiation": "A study log for learning the deck rather than an interpretation book.",
+      "effort": "low",
+      "effortHours": 10,
+      "evidence": [
+        "cosmic-reset-beginner-astrology-tarot~d2e1f12c"
+      ],
+      "format": "printable",
+      "fulfillment": "digital",
+      "leadTimeDays": 4,
+      "pivotIf": "Sell it standalone as a KDP paperback for gifting.",
+      "rightsNote": "Original card illustrations or none; don't reproduce copyrighted deck art or guidebook text.",
+      "stopIf": "No lift and no standalone sales after 4 weeks.",
+      "theme": "Beginner tarot learning journal: a card-by-card notes page for all 78 cards, a spread log, and a 'what I noticed' reflection template",
+      "validationTest": "Bundle with the astrology workbook; track attach rate.",
+      "whyBuy": "Matches the 'tarot cards for beginners' search increase Pinterest reported."
+    }
+  ],
+  "qualityFlags": [],
+  "recommendedAction": "prepare",
+  "region": "US",
+  "researchedAt": "2026-10-04T21:00:56Z",
+  "rights": {
+    "note": "Belief-based: describe astrology and tarot as reflective practices, explain the community's methods accurately, never promise outcomes or predictions. Tarot art: draw original cards or verify that any reference art is in the public domain (the 1909 Rider-Waite-Smith originals are commonly treated as US public domain, but later recolored editions are claimed by their publishers). Moon-phase and eclipse dates must come from an authoritative astronomical source and be checked.",
+    "risk": "low"
+  },
+  "runIds": [
+    "run-2026-10-04-aesthetics"
+  ],
+  "scores": {
+    "buyerIntent": {
+      "basis": "reported",
+      "rationale": "Pinterest reports large increases, but they are learning/curiosity queries; no evidence that these searchers buy printables.",
+      "score": 2
+    },
+    "durability": {
+      "basis": "qualitative",
+      "rationale": "Astrology interest has persisted for years; the beginner spike may be seasonal.",
+      "score": 3
+    },
+    "economics": {
+      "basis": "qualitative",
+      "rationale": "Digital workbook/planner margins are high at low price points; KDP paperback margins are thinner.",
+      "score": 3
+    },
+    "productFit": {
+      "basis": "qualitative",
+      "rationale": "Easy to design, but needs careful, accurate content (chart-reading explanations, verified 2027 lunar data) and respectful framing.",
+      "score": 3
+    },
+    "supplyGap": {
+      "basis": "unknown",
+      "rationale": "Competition was not measured (search budget ran out before a marketplace check). The research's assumption of a crowded category is plausible but unverified.",
+      "score": null
+    },
+    "timing": {
+      "basis": "qualitative",
+      "rationale": "Fresh Pinterest report plus New-Year planner season ahead; there is time to prepare and list by early December.",
+      "score": 3
+    }
+  },
+  "source": "research",
+  "spread": {
+    "evidence": [
+      "cosmic-reset-beginner-astrology-tarot~d2e1f12c",
+      "cosmic-reset-beginner-astrology-tarot~23e4b1af",
+      "cosmic-reset-beginner-astrology-tarot~76226b4f",
+      "cosmic-reset-beginner-astrology-tarot~890cf2d6",
+      "cosmic-reset-beginner-astrology-tarot~a29439f1"
+    ],
+    "text": "Beyond Pinterest's own data, astrocartography shows up in travel press (Frommer's, BreezyScroll), and astrology is used as a shopping frame in mainstream gift editorial (E! Online). Pinterest Predicts separately reported a celestial/opalescent decor appetite. The Hobbies-report press coverage (WWD, VITA, Social Media Today) restates one data source."
+  },
+  "summary": "A fall-2026 wave of people learning astrology and tarot from scratch - natal charts, astrocartography, moon rituals - which Pinterest reports among its biggest search increases.",
+  "topicKeys": [
+    "phrase:cosmic reset beginner astrology tarot",
+    "phrase:cosmic reset",
+    "phrase:learn astrology",
+    "phrase:beginner tarot",
+    "phrase:astrocartography",
+    "phrase:celestial self care",
+    "phrase:moon rituals",
+    "phrase:cosmic reset beginner astrology tarot and astrocartography"
+  ],
+  "trajectory": {
+    "evidence": [
+      "cosmic-reset-beginner-astrology-tarot~d2e1f12c",
+      "cosmic-reset-beginner-astrology-tarot~dde4fc08"
+    ],
+    "stage": "established_niche",
+    "text": "Astrology/tarot is a long-established niche (commentary from 2025 already describes rising Gen Z interest). Pinterest's 2026 report suggests a renewed beginner-led wave, with the largest percentage increases in the report. Without time-series data it is unclear whether this is accelerating or a September seasonal bump; New-Year intention-setting usually brings another lift (inference)."
+  },
+  "unresolved": [
+    "Competition and price levels for beginner astrology workbooks, moon planners and tarot journals - not checked (search budget exhausted, Etsy blocked).",
+    "Whether the Pinterest increases are US-specific and sustained beyond September.",
+    "Whether beginner searchers buy paid learning products or rely on free apps/videos."
+  ],
+  "what": "Pinterest's 'Cosmic Reset' trend covers beginners learning astrology basics, pulling natal charts, exploring astrocartography (mapping places onto a birth chart), learning tarot and crystal meanings, and doing moon or 'reset' rituals around September's fresh start. It rides on long-standing Gen Z/millennial interest in astrology, but the reported growth is concentrated in 'for beginners' and 'learn' queries.",
+  "window": {
+    "endEstimate": "2027-01-31",
+    "estimate": "Launch by early-to-mid December 2026 for New-Year buying; the beginner workbook can sell longer.",
+    "invalidators": [
+      "Marketplace check shows saturated beginner-astrology workbooks with strong incumbents",
+      "Pinterest beginner-astrology interest proves to be a September-only bump"
+    ],
+    "reasoning": "Planner and intention products sell mostly from late November through January. A new listing needs weeks to gain visibility, so prepare now and list by early December. Digital delivery suits last-minute buyers.",
+    "seasonality": "September 'reset' and January New-Year intention peaks.",
+    "sellBy": null
+  }
+}

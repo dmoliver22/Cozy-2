@@ -1,0 +1,19 @@
+{
+  "accessMethod": "web_search_result",
+  "candidateId": "jimothy-the-raccoon",
+  "claim": "Seattle officially declared 'Jimothy Summer', which shows institutional, local-pride adoption.",
+  "excerpt": "Headline; URL keywords mention art celebration and parade weekend.",
+  "firstRetrievedAt": "2026-10-04T20:57:55Z",
+  "firstSeenRunId": "run-2026-10-04-memes",
+  "id": "jimothy-the-raccoon~8d3312a4",
+  "intent": "curiosity",
+  "kind": "observed",
+  "lastSeenRunId": "run-2026-10-04-memes",
+  "publishedAt": null,
+  "publisher": "KOMO News",
+  "retrievedAt": "2026-10-04T20:57:55Z",
+  "signalType": "press",
+  "syndicationOf": null,
+  "title": "PHOTOS: Seattle officially declares 'Jimothy Summer' to honor Internet-famous raccoon",
+  "url": "https://komonews.com/news/local/photos-seattle-officially-declares-jimothy-summer-to-honor-internet-famous-raccoon-raccoon-short-spine-syndrome-viral-ballard-art-celebration-government-travel-tourism-parade-weekend"
+}

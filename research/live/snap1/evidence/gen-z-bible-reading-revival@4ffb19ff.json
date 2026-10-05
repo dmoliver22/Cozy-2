@@ -1,0 +1,19 @@
+{
+  "accessMethod": "web_search_result",
+  "candidateId": "gen-z-bible-reading-revival",
+  "claim": "Reports the same Barna/Gloo data as released in November 2025, based on interviews with more than 12,000 adults.",
+  "excerpt": "Summary: 'November 2025 release'; Gen Z 49% weekly is a 19-point climb; among self-identified Christians the rate is 50%. Same underlying dataset as b1, not an independent measurement.",
+  "firstRetrievedAt": "2026-10-04T20:59:17Z",
+  "firstSeenRunId": "run-2026-10-04-movements",
+  "id": "gen-z-bible-reading-revival~4ffb19ff",
+  "intent": "curiosity",
+  "kind": "observed",
+  "lastSeenRunId": "run-2026-10-04-movements",
+  "publishedAt": null,
+  "publisher": "Baptist Press",
+  "retrievedAt": "2026-10-04T20:59:17Z",
+  "signalType": "press",
+  "syndicationOf": "gen-z-bible-reading-revival~fb50f53c",
+  "title": "State of the Church: Bible use resurges in U.S. with Millennial, Gen Z men in front",
+  "url": "https://www.baptistpress.com/resource-library/news/state-of-the-church-bible-use-resurges-in-u-s-with-millennial-gen-z-men-in-front"
+}

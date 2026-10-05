@@ -245,3 +245,48 @@ test('job planning: cached match, duplicates, limits', async () => {
   const many = { ...ix, jobs: [1, 2, 3].map((i) => ({ ...queued, key: `k${i}`, topicKey: `t${i}`, status: 'running' })) };
   assert.equal(planJob({ type: 'discover' }, many, undefined, NOW).kind, 'limit');
 });
+
+test('duplicates fold into their survivor without double-counting shared sources', async () => {
+  const { indexState } = await import('../src/data/store.js');
+  const state = {
+    candidates: [
+      { id: 'a', name: 'Gem-maxxing', topicKeys: ['phrase:gem maxxing'] },
+      { id: 'b', name: 'Bedazzle everything', topicKeys: ['phrase:bedazzle everything'], duplicateOf: 'a' },
+      { id: 'c', name: 'Loop', duplicateOf: 'missing' },
+    ],
+    evidence: [
+      { ...ev(1), candidateId: 'a' },
+      { ...ev(2), candidateId: 'b' },
+      { ...ev(1, { id: 'e1b' }), candidateId: 'b' },
+    ],
+  };
+  const ix = indexState(state);
+  assert.deepEqual(ix.candidates.map((c) => c.id), ['a', 'c'], 'a duplicate with a missing target stays visible');
+  assert.equal(ix.allCandidates.length, 3);
+  const a = ix.candidates[0];
+  assert.deepEqual(a.mergedFrom.map((d) => d.id), ['b']);
+  assert.ok(a.topicKeys.includes('phrase:bedazzle everything'));
+  assert.equal(ix.evidenceBy.get('a').length, 3);
+  assert.equal(evidenceStats(ix.evidenceBy.get('a')).independent, 2, 'the same URL from both runs counts once');
+});
+
+test('worker dispatch retries a temporary connector error once, never a permanent one', async () => {
+  const { createWorker, describeMcpError } = await import('../src/data/worker.js');
+  const flaky = (errs) => {
+    let n = 0;
+    return { calls: () => n, callTool: async () => { const e = errs[n++]; if (e) throw e; return { payload: { ok: true } }; } };
+  };
+  const waits = [];
+  const wait = async (ms) => waits.push(ms);
+  const once = flaky([{ code: 'upstream_error', retryable: true, retryAfterMs: 2000 }]);
+  assert.deepEqual(await createWorker(once).fire('trig_1', 'job_1', { wait }), { ok: true });
+  assert.equal(once.calls(), 2);
+  assert.deepEqual(waits, [2000]);
+  const twice = flaky([{ code: 'upstream_error' }, { code: 'upstream_error' }]);
+  await assert.rejects(createWorker(twice).fire('trig_1', 'job_1', { wait }));
+  assert.equal(twice.calls(), 2, 'only one retry');
+  const auth = flaky([{ code: 'needs_reauth' }]);
+  await assert.rejects(createWorker(auth).fire('trig_1', 'job_1', { wait }));
+  assert.equal(auth.calls(), 1, 'reconnect errors are not retried');
+  assert.match(describeMcpError({ code: 'upstream_error', message: "connector access isn't confirmed" }).message, /approve the connector/);
+});

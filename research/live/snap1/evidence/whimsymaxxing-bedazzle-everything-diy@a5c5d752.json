@@ -1,0 +1,19 @@
+{
+  "accessMethod": "web_search_result",
+  "candidateId": "whimsymaxxing-bedazzle-everything-diy",
+  "claim": "Mass-market physical supply of rhinestone stickers.",
+  "excerpt": "Craft And Party Crystal Rhinestone Adhesive Stickers",
+  "firstRetrievedAt": "2026-10-05T00:00:55Z",
+  "firstSeenRunId": "run-hunt-hobbies-20261004-3",
+  "id": "whimsymaxxing-bedazzle-everything-diy~a5c5d752",
+  "intent": "none",
+  "kind": "observed",
+  "lastSeenRunId": "run-hunt-hobbies-20261004-3",
+  "publishedAt": null,
+  "publisher": "Walmart",
+  "retrievedAt": "2026-10-05T00:00:55Z",
+  "signalType": "marketplace",
+  "syndicationOf": null,
+  "title": "Craft And Party Crystal Rhinestone Adhesive Stickers",
+  "url": "https://www.walmart.com/ip/913564195"
+}

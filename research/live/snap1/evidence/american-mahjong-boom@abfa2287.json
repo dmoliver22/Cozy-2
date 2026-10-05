@@ -1,0 +1,19 @@
+{
+  "accessMethod": "web_search_result",
+  "candidateId": "american-mahjong-boom",
+  "claim": "At least one class provider's listings show classes oversubscribed and no waitlist kept (small groups, max 8 students).",
+  "excerpt": "Search summary: oversubscribed, not keeping a waitlist; classes throughout 2026.",
+  "firstRetrievedAt": "2026-10-04T20:58:18Z",
+  "firstSeenRunId": "run-2026-10-04-hobbies",
+  "id": "american-mahjong-boom~abfa2287",
+  "intent": "purchase",
+  "kind": "observed",
+  "lastSeenRunId": "run-2026-10-04-hobbies",
+  "publishedAt": null,
+  "publisher": "Ticket Tailor (event listing)",
+  "retrievedAt": "2026-10-04T20:58:18Z",
+  "signalType": "community",
+  "syndicationOf": null,
+  "title": "Menage a Mahj class listing",
+  "url": "https://www.tickettailor.com/events/menageamahj/2238070"
+}

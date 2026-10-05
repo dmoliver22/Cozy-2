@@ -1,0 +1,19 @@
+{
+  "accessMethod": "web_search_result",
+  "candidateId": "chile-memes-everything-is-narrow",
+  "claim": "Independent report: multilingual spread and a brand (an airline) joining on Sept 24",
+  "excerpt": "circulating across TikTok, Instagram and X in several languages, with Chilean media reporting examples appearing in French, English, Russian, Italian and Japanese... Ryanair posting its own extremely thin aircraft meme on September 24",
+  "firstRetrievedAt": "2026-10-05T00:00:47Z",
+  "firstSeenRunId": "run-hunt-memes-20261004-2",
+  "id": "chile-memes-everything-is-narrow~e939c9f9",
+  "intent": "curiosity",
+  "kind": "observed",
+  "lastSeenRunId": "run-hunt-memes-20261004-2",
+  "publishedAt": null,
+  "publisher": "The Brew News",
+  "retrievedAt": "2026-10-05T00:00:47Z",
+  "signalType": "press",
+  "syndicationOf": null,
+  "title": "Why Chile memes are suddenly taking over the internet worldwide",
+  "url": "https://thebrewnews.com/thebrew-news/world/chile-memes-viral-thin-map-internet-trend/"
+}

@@ -1,0 +1,19 @@
+{
+  "accessMethod": "web_search_result",
+  "candidateId": "remember-november-2026",
+  "claim": "TikTok has a discover/topic page for the phrase, a sign of on-platform search activity (no counts visible).",
+  "excerpt": "TikTok discover page title.",
+  "firstRetrievedAt": "2026-10-04T20:57:55Z",
+  "firstSeenRunId": "run-2026-10-04-memes",
+  "id": "remember-november-2026~3b50abd0",
+  "intent": "curiosity",
+  "kind": "observed",
+  "lastSeenRunId": "run-2026-10-04-memes",
+  "publishedAt": null,
+  "publisher": "TikTok",
+  "retrievedAt": "2026-10-04T20:57:55Z",
+  "signalType": "social",
+  "syndicationOf": null,
+  "title": "This Meme Is from November 2026 You Won't Understand It",
+  "url": "https://www.tiktok.com/discover/this-meme-is-from-november-2026-you-won%E2%80%99t-understand-it"
+}

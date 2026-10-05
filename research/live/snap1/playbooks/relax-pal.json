@@ -1,0 +1,288 @@
+{
+  "candidateId": "relax-pal",
+  "id": "relax-pal",
+  "products": [
+    {
+      "assembly": [
+        "Generate the 8 concepts with the super prompt and pick the 4 strongest.",
+        "Create art in the image tool; rebuild text in Canva (3000x3000 px) with the chosen fonts so lettering is crisp.",
+        "Remove backgrounds and export transparent PNG at 300 DPI (Canva Pro or a free background remover).",
+        "Upload to Redbubble as stickers (and optional magnets); set default product to sticker.",
+        "Optionally create the same art as Printify kiss-cut stickers linked to Etsy (3x3 and 4x4 in).",
+        "Make one mockup per design (laptop and water bottle) in Canva.",
+        "Run the listing prompt and publish 4 listings plus one 3-pack bundle."
+      ],
+      "asymmetry": {
+        "badBetIf": "The phrase stays tied to the hazing story in public discussion, or buyers only want the student's face (which you must not use).",
+        "downside": "About 6-8 hours and $0-$5 (Redbubble free; a few Etsy listing fees).",
+        "upside": "Zero marginal cost; designs work even after the meme fades because the phrase is generic deadpan humor."
+      },
+      "costs": {
+        "baseCost": 2,
+        "basis": "estimate: verify in the provider catalog",
+        "item": "Kiss-cut vinyl sticker 3x3 in",
+        "pages": null,
+        "provider": "Printify (Etsy) / Redbubble",
+        "shipping": 4,
+        "testBudget": 0,
+        "testBudgetNote": "No ads until the phrase shows spread beyond edits (see unresolved signals)."
+      },
+      "extensions": [
+        "Magnet and button versions",
+        "Mug: 'relax, pal.' in serif",
+        "Situational series: commute, family group chat, fantasy football"
+      ],
+      "imagePrompts": [
+        {
+          "prompt": "Die-cut sticker, the exact lowercase text \"relax, pal.\" in an elegant italic serif, ink navy #1E2A3A letters on a cream #F4EDE1 rounded badge with a thin faded red #C2493D outline, flat vector, centered, 1:1, transparent background, thick white die-cut border. No logos, no real people, no trademarked characters, no watermarks.",
+          "purpose": "Main lockup sticker",
+          "tool": "Ideogram or ChatGPT images"
+        },
+        {
+          "prompt": "Original cartoon tortoise lounging in a beach chair wearing round sunglasses, speech bubble with the exact text \"relax, pal.\", retro 1970s flat illustration, sage #8AA38B and mustard #D9A93E with navy #1E2A3A linework, 1:1, transparent background, white die-cut border. No logos, no real people, no trademarked characters, no watermarks.",
+          "purpose": "Character sticker",
+          "tool": "Ideogram or Midjourney"
+        }
+      ],
+      "index": 0,
+      "listingPrompt": "Write an Etsy listing for a deadpan \"relax, pal\" kiss-cut vinyl sticker. Title under 140 characters starting with \"Relax Pal Sticker\". Give 13 tags, each 20 characters or fewer (e.g. relax pal sticker, deadpan sticker, funny laptop sticker). Write a description covering size options (3 in, 4 in), material, waterproof claims only if the provider states them, and shipping time (print-on-demand, about 1-2 weeks). Add a 4-question FAQ. Do NOT mention any news story, university, fraternity, hazing, reporter, TV station or real person, and use no trademarked terms.",
+      "marketing": {
+        "channels": [
+          {
+            "cadence": "3 posts/week for 2 weeks",
+            "channel": "TikTok",
+            "tactic": "Situational skit ending on the sticker, no reference to the original clip"
+          },
+          {
+            "cadence": "5 pins/week",
+            "channel": "Pinterest",
+            "tactic": "Mockup pins on funny-sticker boards"
+          },
+          {
+            "cadence": "2/week",
+            "channel": "Instagram Reels",
+            "tactic": "Cross-post TikToks"
+          }
+        ],
+        "hooks": [
+          "When your group chat panics over nothing:",
+          "Me reading the 4th 'quick question' email:",
+          "The only response you need this midterm season"
+        ],
+        "keywords": [
+          "relax pal sticker",
+          "deadpan sticker",
+          "funny laptop sticker",
+          "unbothered sticker",
+          "dry humor sticker"
+        ],
+        "launchPlan": [
+          {
+            "action": "Publish 4 designs + 3-pack on Redbubble; Etsy listings via Printify.",
+            "day": "Day 0"
+          },
+          {
+            "action": "Post a 7-second TikTok: stressful text message on screen, cut to laptop sticker 'relax, pal.'",
+            "day": "Day 1"
+          },
+          {
+            "action": "Post office and gym variants as separate short clips.",
+            "day": "Day 3"
+          },
+          {
+            "action": "Pin mockups on Pinterest boards for funny laptop stickers.",
+            "day": "Day 5"
+          },
+          {
+            "action": "Check views/saves; re-cut the best performing hook.",
+            "day": "Day 7"
+          },
+          {
+            "action": "Add 2 new situational variants if any design got sales or favorites.",
+            "day": "Day 10"
+          },
+          {
+            "action": "Go/pivot/stop check against continueIf/stopIf.",
+            "day": "Day 14"
+          },
+          {
+            "action": "If continuing, order one physical sample for real photos.",
+            "day": "Day 21"
+          }
+        ],
+        "positioning": "The dry, unbothered comeback sticker for people who refuse to get worked up."
+      },
+      "platforms": [
+        {
+          "name": "Redbubble",
+          "role": "primary",
+          "why": "Zero setup cost, meme-sticker shoppers search there, no listing fees"
+        },
+        {
+          "name": "Etsy",
+          "role": "secondary",
+          "why": "Printify integration; $0.20 listing fee per design"
+        },
+        {
+          "name": "TikTok",
+          "role": "traffic",
+          "why": "Where the phrase lives; short 'sticker reveal' clips"
+        }
+      ],
+      "pricing": {
+        "basis": "estimate",
+        "currency": "USD",
+        "high": 6,
+        "low": 3.5,
+        "rationale": "Meme stickers typically sit in the low single digits; price at the middle and use a 3-pack at about $11 to lift order value.",
+        "recommended": 4.5
+      },
+      "productName": "Relax, Pal. Deadpan Sticker Set",
+      "risks": [
+        "Reputational: origin is a hazing incident with injured pledges; keep every design far from frat/hazing context",
+        "Meme may burn out within 2-3 weeks",
+        "Copycats can replicate a two-word sticker instantly"
+      ],
+      "source": "worker",
+      "superPrompt": "You are a senior sticker designer and comedy copywriter making an original set of deadpan die-cut stickers for print-on-demand (Redbubble, and Printify stickers linked to Etsy).\n\nBUYER AND JOB: US college students and 18-30-year-olds who are in on the \"Relax, pal.\" catchphrase and want a dry, unbothered comeback to slap on a laptop, water bottle or phone case. The sticker lets them say \"I'm in on the joke\" without explaining it. It is also a cheap gift between friends.\n\nDELIVERABLE SPEC: Produce 8 sticker concepts. For each: (1) exact text, (2) layout, (3) font choice, (4) colors from the palette, (5) a one-line image-model prompt, (6) a 10-word listing tagline. Art canvas 3000x3000 px, transparent PNG, 300 DPI, with a 60 px white die-cut border. Sticker sizes offered: 3 in and 4 in.\nConcepts must include:\n1. Plain lockup: \"relax, pal.\" in lowercase serif with a period.\n2. Retro 1970s motel-sign version of \"Relax, Pal.\"\n3. Tiny hand-lettered \"relax, pal\" inside a speech bubble.\n4. Fake vintage-style warning label: \"CAUTION: may say relax, pal\" (original design, no real safety logos).\n5. A calm cartoon sloth or tortoise in sunglasses saying \"relax, pal.\" (original animal, no existing character).\n6. Desk/office version: \"per my last email: relax, pal.\"\n7. Gym version: \"rest day. relax, pal.\"\n8. Student version: \"midterms? relax, pal.\"\n\nFONTS (two Canva pairings): A) \"Libre Caslon Text\" italic + \"Inter\" ; B) \"Bowlby One\" + \"Courier Prime\".\nPALETTE: cream #F4EDE1, ink navy #1E2A3A, faded red #C2493D, sage #8AA38B, mustard #D9A93E.\n\nORIGINAL-CONTENT AND RIGHTS RULES: The phrase \"relax, pal\" is ordinary English. You must NOT reference the news story, hazing, any fraternity or Greek letters, the University of Wisconsin or its colors/mascot, the TV station, the reporter, or the student. No real people, no likenesses, no screenshots, no trademarks, no university or Greek-life imagery. Never make a joke that glorifies hazing or injury. Keep the humor about being unbothered in everyday situations.\n\nDIFFERENTIATION: Existing \"relax\" stickers are generic wellness messages. Yours are deadpan, lowercase and dry, and each one places the phrase in a relatable situation (work, gym, exams), so the joke still lands for people who never saw the clip.\n\nOUTPUT FORMAT: A numbered list, one block per sticker with the six fields above, then a short \"set description\" for a 3-sticker bundle.\n\nSELF-CHECK before answering: (a) no Greek letters, school names, frat or hazing references; (b) no real people or brands; (c) every text string is under 8 words and spelled exactly; (d) each image prompt ends with the negative list; (e) palette hex codes used correctly.",
+      "themeKey": "Deadpan 'relax, pal.' sticker set placed in everyday situati"
+    },
+    {
+      "assembly": [
+        "Generate concepts; select 2 prints + the hat embroidery.",
+        "Rebuild text in Canva at 4500x5400 px for crisp vector edges; export transparent PNG 300 DPI.",
+        "In Printify choose a mid-weight unisex tee (e.g. a Bella+Canvas 3001-type blank) and place at left chest/center chest.",
+        "Create the dad hat with the provider's embroidery file rules (thread colors, minimum size).",
+        "Generate mockups for natural, navy and forest colors.",
+        "Publish to Etsy via Printify with the listing prompt output.",
+        "Order one sample before any paid promotion."
+      ],
+      "asymmetry": {
+        "badBetIf": "Stickers show no traction in 2 weeks; tees have thinner margins and slower discovery.",
+        "downside": "About 6 hours plus a ~$20 sample.",
+        "upside": "Generic phrase outlives the meme; can sit in a broader deadpan-text collection."
+      },
+      "costs": {
+        "baseCost": 11.5,
+        "basis": "estimate: verify in the provider catalog",
+        "item": "Unisex jersey tee (Bella+Canvas 3001-type)",
+        "pages": null,
+        "provider": "Printify",
+        "shipping": 4.75,
+        "testBudget": 0,
+        "testBudgetNote": "Hold ads; consider Etsy ads $1/day for 14 days only if stickers sell first."
+      },
+      "extensions": [
+        "Crewneck sweatshirt for fall",
+        "Embroidered beanie",
+        "Tote bag"
+      ],
+      "imagePrompts": [
+        {
+          "prompt": "Minimal apparel graphic, the exact lowercase text \"relax, pal.\" in an elegant italic serif, navy #1B2433 on transparent background, small lounge-chair line icon to the left in brick #B3473A, vector, 4:5 canvas with the design small and centered. No logos, no real people, no trademarked characters, no watermarks.",
+          "purpose": "Left-chest print",
+          "tool": "Ideogram"
+        },
+        {
+          "prompt": "Flat-lay photo of a natural-color cotton T-shirt on a wooden floor with sunglasses and a paperback, left-chest navy text \"relax, pal.\" in italic serif, soft daylight, 4:5. No logos, no real people, no trademarked characters, no watermarks.",
+          "purpose": "Lifestyle mockup",
+          "tool": "ChatGPT images"
+        }
+      ],
+      "index": 1,
+      "listingPrompt": "Write an Etsy listing for a minimalist \"relax, pal.\" text T-shirt. Title under 140 characters front-loading \"Relax Pal Shirt\". 13 tags of 20 characters or fewer (e.g. relax pal shirt, deadpan tee, minimalist text tee). Description: design, placement, shirt blank and sizing note, colors, print-on-demand production and shipping time of about 1-2 weeks, care. 4-question FAQ. Do not mention any news story, fraternity, hazing, university, reporter, TV station or real person, and use no trademarked terms.",
+      "marketing": {
+        "channels": [
+          {
+            "cadence": "3/week",
+            "channel": "TikTok",
+            "tactic": "Fit-check and skit clips"
+          },
+          {
+            "cadence": "3 pins/week",
+            "channel": "Pinterest",
+            "tactic": "Minimal tee mockups"
+          }
+        ],
+        "hooks": [
+          "Outfit for when someone asks you a hard question:",
+          "My entire personality this semester:"
+        ],
+        "keywords": [
+          "relax pal shirt",
+          "deadpan shirt",
+          "minimalist text tee",
+          "funny unbothered shirt"
+        ],
+        "launchPlan": [
+          {
+            "action": "List 2 tee designs + hat on Etsy via Printify.",
+            "day": "Day 0"
+          },
+          {
+            "action": "Order a sample tee.",
+            "day": "Day 1"
+          },
+          {
+            "action": "TikTok: chaotic situations montage, final shot of the shirt.",
+            "day": "Day 3"
+          },
+          {
+            "action": "Pinterest mockup pins.",
+            "day": "Day 7"
+          },
+          {
+            "action": "Real-photo content once sample arrives.",
+            "day": "Day 10"
+          },
+          {
+            "action": "Go/pivot/stop check.",
+            "day": "Day 14"
+          },
+          {
+            "action": "Decide on ads only if organic favorites/sales exist.",
+            "day": "Day 21"
+          }
+        ],
+        "positioning": "Quiet-luxury energy for the perpetually unbothered."
+      },
+      "platforms": [
+        {
+          "name": "Etsy",
+          "role": "primary",
+          "why": "Printify integration and gift shoppers"
+        },
+        {
+          "name": "TikTok",
+          "role": "traffic",
+          "why": "Outfit/'fit check' clips with the phrase as caption"
+        },
+        {
+          "name": "Redbubble",
+          "role": "secondary",
+          "why": "Free duplicate listing"
+        }
+      ],
+      "pricing": {
+        "basis": "estimate",
+        "currency": "USD",
+        "high": 30,
+        "low": 22,
+        "rationale": "Typical POD text-tee range; minimal design positions slightly above meme-screenshot shirts.",
+        "recommended": 26
+      },
+      "productName": "relax, pal. Minimal Serif Tee",
+      "risks": [
+        "Reputational association with a hazing incident",
+        "Thin margins after Etsy fees",
+        "POD delivery time may outlast the meme"
+      ],
+      "source": "worker",
+      "superPrompt": "You are an apparel graphic designer creating an original minimalist text T-shirt and matching dad-hat embroidery file for print-on-demand (Printify or Printful connected to Etsy).\n\nBUYER AND JOB: 18-30-year-olds who like deadpan internet humor and want a low-key shirt that reads as dry wit to strangers and as an inside joke to people who know the \"relax, pal.\" catchphrase. It must look like a tasteful small-brand tee, not a loud meme shirt.\n\nDELIVERABLE SPEC: Produce 5 front-print concepts and 1 embroidery concept.\n- Front print canvas 4500x5400 px, transparent PNG, 300 DPI. Placement options: left-chest (3.5 in wide) and center-chest (10 in wide).\n- Embroidery: max 4 in wide x 1.75 in tall, max 4 thread colors, no gradients, minimum text height 0.25 in.\nFor each concept give: exact text, placement, font, color for light and dark shirts, and an image-model prompt.\nConcepts:\n1. \"relax, pal.\" lowercase serif, left chest.\n2. Center-chest \"relax, pal.\" with a small hand-drawn lounge-chair icon.\n3. Back print in tiny type: \"it's fine. relax, pal.\" with front left-chest dot.\n4. Mock vintage \"RELAX, PAL / EST. WHENEVER\" crest (original crest, no school or Greek symbols).\n5. \"relax, pal.\" stacked with a smiling sun (original).\n6. Embroidered dad-hat: \"relax, pal.\" in script.\n\nFONTS (two Canva pairings): A) \"Playfair Display\" italic + \"Work Sans\"; B) \"Cooper\"-style \"Fraunces\" + \"Space Mono\".\nPALETTE: off-white #F6F1E7, navy #1B2433, brick #B3473A, forest #2F4A3A, butter #EBCB7A. Recommend shirt colors: natural, navy, forest, heather grey.\n\nRIGHTS AND TONE RULES: The phrase is common English. Do not reference the news clip, hazing, fraternities, Greek letters, any university, its colors or mascots, the reporter, the station, or the student. No real people, no likenesses, no brand logos. Nothing may make light of hazing or injury.\n\nDIFFERENTIATION: Small, tasteful typography that works as everyday wear, unlike screenshot-style meme shirts that age in a week. Situational back-print variant gives a second reveal.\n\nOUTPUT FORMAT: numbered concepts with all fields; then a mockup shot list (3 shots); then a care-label-free product description paragraph.\n\nSELF-CHECK: no school, Greek-life, hazing or news references; embroidery spec respected; text spelled exactly; every image prompt ends with the negative list.",
+      "themeKey": "Minimal serif 'relax, pal.' left-chest tee and embroidered d"
+    }
+  ],
+  "runId": "run-hunt-memes-20261004-1",
+  "source": "worker",
+  "writtenAt": "2026-10-05T00:00:47Z"
+}

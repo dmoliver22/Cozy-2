@@ -1,0 +1,19 @@
+{
+  "accessMethod": "web_search_result",
+  "candidateId": "kitchen-witch-aesthetic",
+  "claim": "Consumer press frames Kitchen Witch as a cozy fall aesthetic (labeled herb jars, drying flowers, candles, old-world decor), with the Practical Magic house as its 'nostalgic epitome'.",
+  "excerpt": "Search summary: Kitchen Witch is about witchy crafts, dried herbs and old-world decor - labeling herb jars to display on a shelf, hanging flowers to dry, making paper, canning, beeswax candles; cites 'midnight margaritas' +140% on Pinterest. Restates Pinterest's data; it is not an independent measurement.",
+  "firstRetrievedAt": "2026-10-04T20:56:14Z",
+  "firstSeenRunId": "run-2026-10-04-aesthetics",
+  "id": "kitchen-witch-aesthetic~0ccb2b16",
+  "intent": "curiosity",
+  "kind": "observed",
+  "lastSeenRunId": "run-2026-10-04-aesthetics",
+  "publishedAt": null,
+  "publisher": "Yahoo Lifestyle",
+  "retrievedAt": "2026-10-04T20:56:14Z",
+  "signalType": "press",
+  "syndicationOf": "kitchen-witch-aesthetic~d2e1f12c",
+  "title": "Pinterest Says It's a 'Kitchen Witch' Fall - Try These Hobbies to Make the Season Feel More Magical",
+  "url": "https://www.yahoo.com/lifestyle/articles/pinterest-says-kitchen-witch-fall-130000203.html"
+}

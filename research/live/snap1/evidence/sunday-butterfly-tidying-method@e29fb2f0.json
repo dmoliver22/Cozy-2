@@ -1,0 +1,19 @@
+{
+  "accessMethod": "web_search_result",
+  "candidateId": "sunday-butterfly-tidying-method",
+  "claim": "Same publisher frames Sunday Butterfly as one of its 2026 organizing trends (same-source signal)",
+  "excerpt": "The Sunday Butterfly method, created by kitchen and appliance editor Lydia Hayman, is a method that pros say is perfect for neurodivergent minds.",
+  "firstRetrievedAt": "2026-10-05T00:01:02Z",
+  "firstSeenRunId": "run-hunt-foodhome-20261004-3",
+  "id": "sunday-butterfly-tidying-method~e29fb2f0",
+  "intent": "utility",
+  "kind": "observed",
+  "lastSeenRunId": "run-hunt-foodhome-20261004-3",
+  "publishedAt": null,
+  "publisher": "Homes & Gardens",
+  "retrievedAt": "2026-10-05T00:01:02Z",
+  "signalType": "press",
+  "syndicationOf": null,
+  "title": "3 Easy Organizing Trends Our Home Editors Are Trying in 2026 to Stop Clutter Build-Up",
+  "url": "https://www.homesandgardens.com/solved/easy-organizing-trends-editors-trying-2026"
+}

@@ -1,0 +1,19 @@
+{
+  "accessMethod": "web_search_result",
+  "candidateId": "needlepoint-revival",
+  "claim": "A published needlepoint project journal (up to 75 projects) exists.",
+  "excerpt": "Search summary: by Emma Homent; canvas name, size, stitches used, notes.",
+  "firstRetrievedAt": "2026-10-04T20:53:53Z",
+  "firstSeenRunId": "run-2026-10-04-hobbies",
+  "id": "needlepoint-revival~db37cd8c",
+  "intent": "none",
+  "kind": "observed",
+  "lastSeenRunId": "run-2026-10-04-hobbies",
+  "publishedAt": null,
+  "publisher": "AbeBooks (book listing)",
+  "retrievedAt": "2026-10-04T20:53:53Z",
+  "signalType": "marketplace",
+  "syndicationOf": null,
+  "title": "Needlepoint Journal: Track projects, record...",
+  "url": "https://www.abebooks.com/9781446315347/Needlepoint-Journal-Track-projects-record-1446315347/plp"
+}

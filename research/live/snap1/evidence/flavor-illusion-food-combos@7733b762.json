@@ -1,0 +1,19 @@
+{
+  "accessMethod": "web_search_result",
+  "candidateId": "flavor-illusion-food-combos",
+  "claim": "A further independent creator posting the format",
+  "excerpt": "Trying weird food combos and seeing if they taste like something else… #fyp #food",
+  "firstRetrievedAt": "2026-10-05T00:01:02Z",
+  "firstSeenRunId": "run-hunt-foodhome-20261004-1",
+  "id": "flavor-illusion-food-combos~7733b762",
+  "intent": "curiosity",
+  "kind": "observed",
+  "lastSeenRunId": "run-hunt-foodhome-20261004-1",
+  "publishedAt": null,
+  "publisher": "TikTok (@itspeanutbutterjamietime)",
+  "retrievedAt": "2026-10-05T00:01:02Z",
+  "signalType": "social",
+  "syndicationOf": null,
+  "title": "Trying weird food combos and seeing if they taste like something else",
+  "url": "https://www.tiktok.com/@itspeanutbutterjamietime/video/7660972874785688862"
+}

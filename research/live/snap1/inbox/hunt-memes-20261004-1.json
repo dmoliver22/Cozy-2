@@ -1,0 +1,778 @@
+{
+  "createdAt": "2026-10-05T00:00:47Z",
+  "jobId": "hunt-memes-20261004",
+  "processedAt": "2026-10-05T00:01:05.568Z",
+  "raw": {
+    "candidates": [
+      {
+        "actionRationale": "First spark with real spread across several creators and explainers, but no purchase evidence and a sensitive origin. Build 3-4 origin-free sticker designs on free platforms now; no ad spend until the phrase shows up in non-frat contexts.",
+        "adopters": {
+          "evidence": [
+            "e3",
+            "e5",
+            "e6"
+          ],
+          "text": "TikTok edit creators and college-age users, especially frat-humor and looksmaxxing-commentary accounts; viewers searching who the student is."
+        },
+        "aliases": [
+          "relax pal",
+          "Relax, Pal frat guy"
+        ],
+        "category": "meme",
+        "competition": {
+          "evidence": [
+            "e8"
+          ],
+          "level": "none_found",
+          "text": "A web search found no merch tied to the meme, only generic 'relax' stickers. Marketplaces were not checked directly, so this is not a count."
+        },
+        "evidence": [
+          {
+            "accessMethod": "web_search_result",
+            "claim": "Origin: UW-Madison student's reply to a WISN 12 reporter during late-Sept 2026 hazing coverage; edits paint him as having 'mogged' the reporter",
+            "excerpt": "When the reporter asked, \"Were you hazed, or were you doing the hazing?\" the student responded, \"Relax, pal.\" The video was uploaded to WISN 12 News' social media pages in late September 2026.",
+            "id": "e1",
+            "intent": "curiosity",
+            "kind": "observed",
+            "publishedAt": null,
+            "publisher": "Know Your Meme",
+            "retrievedAt": "2026-10-05T00:00:47Z",
+            "signalType": "community",
+            "syndicationOf": null,
+            "title": "Relax, Pal",
+            "url": "https://knowyourmeme.com/memes/relax-pal"
+          },
+          {
+            "accessMethod": "web_search_result",
+            "claim": "A Sept 27 TikTok edit drew over 2.6M views in three days",
+            "excerpt": "On September 27th, 2026, TikToker @_finnvisualspart2 posted a video edit based on the clip, which garnered over 2.6 million views in three days.",
+            "id": "e2",
+            "intent": "curiosity",
+            "kind": "observed",
+            "publishedAt": null,
+            "publisher": "Know Your Meme",
+            "retrievedAt": "2026-10-05T00:00:47Z",
+            "signalType": "social",
+            "syndicationOf": null,
+            "title": "Relax, Pal (spread)",
+            "url": "https://knowyourmeme.com/memes/relax-pal"
+          },
+          {
+            "accessMethod": "web_search_result",
+            "claim": "Independent explainer: phrase hit TikTok within hours and became the backbone of frat-boy, looksmaxxing and reporter-mogging edits",
+            "excerpt": "The deadpan two-word reply hit TikTok within hours and became the backbone of frat-boy edits, looksmaxxing commentary and reporter-mogging jokes.",
+            "id": "e3",
+            "intent": "curiosity",
+            "kind": "observed",
+            "publishedAt": null,
+            "publisher": "meme.com",
+            "retrievedAt": "2026-10-05T00:00:47Z",
+            "signalType": "community",
+            "syndicationOf": null,
+            "title": "Relax, Pal Meme Explained: Wisconsin Frat Interview",
+            "url": "https://meme.com/memes/relax-pal"
+          },
+          {
+            "accessMethod": "web_search_result",
+            "claim": "A YouTube explainer exists, a sign of spread beyond TikTok",
+            "excerpt": "Relax, Pal Meme EXPLAINED! - YouTube",
+            "id": "e4",
+            "intent": "curiosity",
+            "kind": "observed",
+            "publishedAt": null,
+            "publisher": "YouTube",
+            "retrievedAt": "2026-10-05T00:00:47Z",
+            "signalType": "creator",
+            "syndicationOf": null,
+            "title": "Relax, Pal Meme EXPLAINED!",
+            "url": "https://www.youtube.com/watch?v=-9loel9j3C8"
+          },
+          {
+            "accessMethod": "web_search_result",
+            "claim": "TikTok has auto-generated discover pages for 'Relax Pal Sticker Meme', 'I Met Relax Pal Guy', 'Who Is Relax Pal', 'Relax Pal Frat Guy Edit Nantucket', suggesting many people searching variants",
+            "excerpt": "Relax Pal Sticker Meme; Relax Pal Interview; I Met Relax Pal Guy; Who Is Relax Pal; Relax Pal Frat Guy Edit Nantucket",
+            "id": "e5",
+            "intent": "curiosity",
+            "kind": "observed",
+            "publishedAt": null,
+            "publisher": "TikTok",
+            "retrievedAt": "2026-10-05T00:00:47Z",
+            "signalType": "social",
+            "syndicationOf": null,
+            "title": "Relax Pal Sticker Meme",
+            "url": "https://www.tiktok.com/discover/relax-pal-sticker-meme"
+          },
+          {
+            "accessMethod": "web_search_result",
+            "claim": "Separate creators posting about the clip",
+            "excerpt": "relax pal frat — incident at University of Wisconsin fraternity",
+            "id": "e6",
+            "intent": "curiosity",
+            "kind": "observed",
+            "publishedAt": null,
+            "publisher": "TikTok",
+            "retrievedAt": "2026-10-05T00:00:47Z",
+            "signalType": "social",
+            "syndicationOf": null,
+            "title": "relax pal frat — incident at University of Wisconsin fraternity",
+            "url": "https://www.tiktok.com/@cokafree/video/7689706072185048351"
+          },
+          {
+            "accessMethod": "web_search_result",
+            "claim": "Underlying news: police found about 30 injured pledges; two arrests on Sept 25, 2026. This is a reputational risk for any merch",
+            "excerpt": "Madison police found around 30 pledges injured, half-dressed and covered in condiments in an 81-degree basement.",
+            "id": "e7",
+            "intent": "criticism",
+            "kind": "observed",
+            "publishedAt": null,
+            "publisher": "Know Your Meme",
+            "retrievedAt": "2026-10-05T00:00:47Z",
+            "signalType": "press",
+            "syndicationOf": null,
+            "title": "Relax, Pal (incident context)",
+            "url": "https://knowyourmeme.com/memes/relax-pal"
+          },
+          {
+            "accessMethod": "web_search_result",
+            "claim": "A web search for 'relax pal' shirts/stickers returned only generic 'relax' products, no listings tied to the meme (search-engine check only, not a marketplace count)",
+            "excerpt": "the search results don't show a specific product line called \"Relax Pal\" merchandise",
+            "id": "e8",
+            "intent": "none",
+            "kind": "inference",
+            "publishedAt": null,
+            "publisher": "web search (Etsy, eBay, Faire results)",
+            "retrievedAt": "2026-10-05T00:00:47Z",
+            "signalType": "marketplace",
+            "syndicationOf": null,
+            "title": "Search for 'relax pal' shirt/sticker merch",
+            "url": "https://www.etsy.com/au/listing/1359818208/t-shirt-sticker-pack-bundle"
+          }
+        ],
+        "gap": {
+          "isInference": true,
+          "text": "A tasteful deadpan 'relax, pal.' line that ignores the origin (no frat, school or hazing cues) could catch meme-aware buyers and also general dry-humor buyers."
+        },
+        "name": "Relax, Pal",
+        "observations": [
+          {
+            "asOf": "2026-09-30",
+            "evidence": "e2",
+            "isAbsolute": true,
+            "metric": "TikTok views on Sept 27 edit (3 days)",
+            "note": "reported by Know Your Meme; not independently verified",
+            "unit": "views",
+            "value": 2600000
+          }
+        ],
+        "origin": {
+          "date": "2026-09-27",
+          "evidence": [
+            "e1",
+            "e2",
+            "e7"
+          ],
+          "text": "WISN 12 News clip posted late September 2026 after two arrests on Sept 25, 2026; first big edit Sept 27."
+        },
+        "productDemand": {
+          "evidence": [
+            "e5"
+          ],
+          "text": "No purchase evidence. A TikTok discover page named 'Relax Pal Sticker Meme' exists but most likely refers to in-app stickers or video overlays, not purchases. Interest is curiosity."
+        },
+        "products": [
+          {
+            "buyer": "College students and 18-30s in on the meme",
+            "channels": [
+              "Redbubble",
+              "Etsy",
+              "TikTok"
+            ],
+            "continueIf": "5+ sales or 30+ favorites in 14 days",
+            "differentiation": "Situational variants and tasteful serif type instead of screenshot memes",
+            "effort": "low",
+            "effortHours": 7,
+            "evidence": [
+              "e2",
+              "e5"
+            ],
+            "format": "sticker",
+            "fulfillment": "pod",
+            "leadTimeDays": 2,
+            "pivotIf": "Views but no sales: test the office/midterms variants only",
+            "playbook": {
+              "assembly": [
+                "Generate the 8 concepts with the super prompt and pick the 4 strongest.",
+                "Create art in the image tool; rebuild text in Canva (3000x3000 px) with the chosen fonts so lettering is crisp.",
+                "Remove backgrounds and export transparent PNG at 300 DPI (Canva Pro or a free background remover).",
+                "Upload to Redbubble as stickers (and optional magnets); set default product to sticker.",
+                "Optionally create the same art as Printify kiss-cut stickers linked to Etsy (3x3 and 4x4 in).",
+                "Make one mockup per design (laptop and water bottle) in Canva.",
+                "Run the listing prompt and publish 4 listings plus one 3-pack bundle."
+              ],
+              "asymmetry": {
+                "badBetIf": "The phrase stays tied to the hazing story in public discussion, or buyers only want the student's face (which you must not use).",
+                "downside": "About 6-8 hours and $0-$5 (Redbubble free; a few Etsy listing fees).",
+                "upside": "Zero marginal cost; designs work even after the meme fades because the phrase is generic deadpan humor."
+              },
+              "costs": {
+                "baseCost": 2,
+                "basis": "estimate: verify in the provider catalog",
+                "item": "Kiss-cut vinyl sticker 3x3 in",
+                "provider": "Printify (Etsy) / Redbubble",
+                "shipping": 4,
+                "testBudget": 0,
+                "testBudgetNote": "No ads until the phrase shows spread beyond edits (see unresolved signals)."
+              },
+              "extensions": [
+                "Magnet and button versions",
+                "Mug: 'relax, pal.' in serif",
+                "Situational series: commute, family group chat, fantasy football"
+              ],
+              "imagePrompts": [
+                {
+                  "prompt": "Die-cut sticker, the exact lowercase text \"relax, pal.\" in an elegant italic serif, ink navy #1E2A3A letters on a cream #F4EDE1 rounded badge with a thin faded red #C2493D outline, flat vector, centered, 1:1, transparent background, thick white die-cut border. No logos, no real people, no trademarked characters, no watermarks.",
+                  "purpose": "Main lockup sticker",
+                  "tool": "Ideogram or ChatGPT images"
+                },
+                {
+                  "prompt": "Original cartoon tortoise lounging in a beach chair wearing round sunglasses, speech bubble with the exact text \"relax, pal.\", retro 1970s flat illustration, sage #8AA38B and mustard #D9A93E with navy #1E2A3A linework, 1:1, transparent background, white die-cut border. No logos, no real people, no trademarked characters, no watermarks.",
+                  "purpose": "Character sticker",
+                  "tool": "Ideogram or Midjourney"
+                }
+              ],
+              "listingPrompt": "Write an Etsy listing for a deadpan \"relax, pal\" kiss-cut vinyl sticker. Title under 140 characters starting with \"Relax Pal Sticker\". Give 13 tags, each 20 characters or fewer (e.g. relax pal sticker, deadpan sticker, funny laptop sticker). Write a description covering size options (3 in, 4 in), material, waterproof claims only if the provider states them, and shipping time (print-on-demand, about 1-2 weeks). Add a 4-question FAQ. Do NOT mention any news story, university, fraternity, hazing, reporter, TV station or real person, and use no trademarked terms.",
+              "marketing": {
+                "channels": [
+                  {
+                    "cadence": "3 posts/week for 2 weeks",
+                    "channel": "TikTok",
+                    "tactic": "Situational skit ending on the sticker, no reference to the original clip"
+                  },
+                  {
+                    "cadence": "5 pins/week",
+                    "channel": "Pinterest",
+                    "tactic": "Mockup pins on funny-sticker boards"
+                  },
+                  {
+                    "cadence": "2/week",
+                    "channel": "Instagram Reels",
+                    "tactic": "Cross-post TikToks"
+                  }
+                ],
+                "hooks": [
+                  "When your group chat panics over nothing:",
+                  "Me reading the 4th 'quick question' email:",
+                  "The only response you need this midterm season"
+                ],
+                "keywords": [
+                  "relax pal sticker",
+                  "deadpan sticker",
+                  "funny laptop sticker",
+                  "unbothered sticker",
+                  "dry humor sticker"
+                ],
+                "launchPlan": [
+                  {
+                    "action": "Publish 4 designs + 3-pack on Redbubble; Etsy listings via Printify.",
+                    "day": "Day 0"
+                  },
+                  {
+                    "action": "Post a 7-second TikTok: stressful text message on screen, cut to laptop sticker 'relax, pal.'",
+                    "day": "Day 1"
+                  },
+                  {
+                    "action": "Post office and gym variants as separate short clips.",
+                    "day": "Day 3"
+                  },
+                  {
+                    "action": "Pin mockups on Pinterest boards for funny laptop stickers.",
+                    "day": "Day 5"
+                  },
+                  {
+                    "action": "Check views/saves; re-cut the best performing hook.",
+                    "day": "Day 7"
+                  },
+                  {
+                    "action": "Add 2 new situational variants if any design got sales or favorites.",
+                    "day": "Day 10"
+                  },
+                  {
+                    "action": "Go/pivot/stop check against continueIf/stopIf.",
+                    "day": "Day 14"
+                  },
+                  {
+                    "action": "If continuing, order one physical sample for real photos.",
+                    "day": "Day 21"
+                  }
+                ],
+                "positioning": "The dry, unbothered comeback sticker for people who refuse to get worked up."
+              },
+              "platforms": [
+                {
+                  "name": "Redbubble",
+                  "role": "primary",
+                  "why": "Zero setup cost, meme-sticker shoppers search there, no listing fees"
+                },
+                {
+                  "name": "Etsy",
+                  "role": "secondary",
+                  "why": "Printify integration; $0.20 listing fee per design"
+                },
+                {
+                  "name": "TikTok",
+                  "role": "traffic",
+                  "why": "Where the phrase lives; short 'sticker reveal' clips"
+                }
+              ],
+              "pricing": {
+                "basis": "estimate",
+                "currency": "USD",
+                "high": 6,
+                "low": 3.5,
+                "rationale": "Meme stickers typically sit in the low single digits; price at the middle and use a 3-pack at about $11 to lift order value.",
+                "recommended": 4.5
+              },
+              "productName": "Relax, Pal. Deadpan Sticker Set",
+              "risks": [
+                "Reputational: origin is a hazing incident with injured pledges; keep every design far from frat/hazing context",
+                "Meme may burn out within 2-3 weeks",
+                "Copycats can replicate a two-word sticker instantly"
+              ],
+              "superPrompt": "You are a senior sticker designer and comedy copywriter making an original set of deadpan die-cut stickers for print-on-demand (Redbubble, and Printify stickers linked to Etsy).\n\nBUYER AND JOB: US college students and 18-30-year-olds who are in on the \"Relax, pal.\" catchphrase and want a dry, unbothered comeback to slap on a laptop, water bottle or phone case. The sticker lets them say \"I'm in on the joke\" without explaining it. It is also a cheap gift between friends.\n\nDELIVERABLE SPEC: Produce 8 sticker concepts. For each: (1) exact text, (2) layout, (3) font choice, (4) colors from the palette, (5) a one-line image-model prompt, (6) a 10-word listing tagline. Art canvas 3000x3000 px, transparent PNG, 300 DPI, with a 60 px white die-cut border. Sticker sizes offered: 3 in and 4 in.\nConcepts must include:\n1. Plain lockup: \"relax, pal.\" in lowercase serif with a period.\n2. Retro 1970s motel-sign version of \"Relax, Pal.\"\n3. Tiny hand-lettered \"relax, pal\" inside a speech bubble.\n4. Fake vintage-style warning label: \"CAUTION: may say relax, pal\" (original design, no real safety logos).\n5. A calm cartoon sloth or tortoise in sunglasses saying \"relax, pal.\" (original animal, no existing character).\n6. Desk/office version: \"per my last email: relax, pal.\"\n7. Gym version: \"rest day. relax, pal.\"\n8. Student version: \"midterms? relax, pal.\"\n\nFONTS (two Canva pairings): A) \"Libre Caslon Text\" italic + \"Inter\" ; B) \"Bowlby One\" + \"Courier Prime\".\nPALETTE: cream #F4EDE1, ink navy #1E2A3A, faded red #C2493D, sage #8AA38B, mustard #D9A93E.\n\nORIGINAL-CONTENT AND RIGHTS RULES: The phrase \"relax, pal\" is ordinary English. You must NOT reference the news story, hazing, any fraternity or Greek letters, the University of Wisconsin or its colors/mascot, the TV station, the reporter, or the student. No real people, no likenesses, no screenshots, no trademarks, no university or Greek-life imagery. Never make a joke that glorifies hazing or injury. Keep the humor about being unbothered in everyday situations.\n\nDIFFERENTIATION: Existing \"relax\" stickers are generic wellness messages. Yours are deadpan, lowercase and dry, and each one places the phrase in a relatable situation (work, gym, exams), so the joke still lands for people who never saw the clip.\n\nOUTPUT FORMAT: A numbered list, one block per sticker with the six fields above, then a short \"set description\" for a 3-sticker bundle.\n\nSELF-CHECK before answering: (a) no Greek letters, school names, frat or hazing references; (b) no real people or brands; (c) every text string is under 8 words and spelled exactly; (d) each image prompt ends with the negative list; (e) palette hex codes used correctly."
+            },
+            "rightsNote": "No frat, Greek letters, UW, hazing, reporter, station or student likeness",
+            "stopIf": "Under 3 favorites and no sales after 14 days, or backlash ties the phrase to hazing",
+            "theme": "Deadpan 'relax, pal.' sticker set placed in everyday situations (work, gym, exams), no reference to the original clip",
+            "validationTest": "List 4 designs on Redbubble + Etsy; post 6 TikToks over 2 weeks",
+            "whyBuy": "Cheap way to signal being in on the joke; works as a dry-humor gift"
+          },
+          {
+            "buyer": "18-30s who like minimalist deadpan apparel",
+            "channels": [
+              "Etsy",
+              "TikTok"
+            ],
+            "continueIf": "3+ tee sales in 21 days",
+            "differentiation": "Quiet-luxury type treatment, outlasts screenshot meme shirts",
+            "effort": "medium",
+            "effortHours": 6,
+            "evidence": [
+              "e3"
+            ],
+            "format": "tshirt",
+            "fulfillment": "pod",
+            "leadTimeDays": 10,
+            "pivotIf": "Favorites but no sales: try a crewneck at the same price",
+            "playbook": {
+              "assembly": [
+                "Generate concepts; select 2 prints + the hat embroidery.",
+                "Rebuild text in Canva at 4500x5400 px for crisp vector edges; export transparent PNG 300 DPI.",
+                "In Printify choose a mid-weight unisex tee (e.g. a Bella+Canvas 3001-type blank) and place at left chest/center chest.",
+                "Create the dad hat with the provider's embroidery file rules (thread colors, minimum size).",
+                "Generate mockups for natural, navy and forest colors.",
+                "Publish to Etsy via Printify with the listing prompt output.",
+                "Order one sample before any paid promotion."
+              ],
+              "asymmetry": {
+                "badBetIf": "Stickers show no traction in 2 weeks; tees have thinner margins and slower discovery.",
+                "downside": "About 6 hours plus a ~$20 sample.",
+                "upside": "Generic phrase outlives the meme; can sit in a broader deadpan-text collection."
+              },
+              "costs": {
+                "baseCost": 11.5,
+                "basis": "estimate: verify in the provider catalog",
+                "item": "Unisex jersey tee (Bella+Canvas 3001-type)",
+                "provider": "Printify",
+                "shipping": 4.75,
+                "testBudget": 0,
+                "testBudgetNote": "Hold ads; consider Etsy ads $1/day for 14 days only if stickers sell first."
+              },
+              "extensions": [
+                "Crewneck sweatshirt for fall",
+                "Embroidered beanie",
+                "Tote bag"
+              ],
+              "imagePrompts": [
+                {
+                  "prompt": "Minimal apparel graphic, the exact lowercase text \"relax, pal.\" in an elegant italic serif, navy #1B2433 on transparent background, small lounge-chair line icon to the left in brick #B3473A, vector, 4:5 canvas with the design small and centered. No logos, no real people, no trademarked characters, no watermarks.",
+                  "purpose": "Left-chest print",
+                  "tool": "Ideogram"
+                },
+                {
+                  "prompt": "Flat-lay photo of a natural-color cotton T-shirt on a wooden floor with sunglasses and a paperback, left-chest navy text \"relax, pal.\" in italic serif, soft daylight, 4:5. No logos, no real people, no trademarked characters, no watermarks.",
+                  "purpose": "Lifestyle mockup",
+                  "tool": "ChatGPT images"
+                }
+              ],
+              "listingPrompt": "Write an Etsy listing for a minimalist \"relax, pal.\" text T-shirt. Title under 140 characters front-loading \"Relax Pal Shirt\". 13 tags of 20 characters or fewer (e.g. relax pal shirt, deadpan tee, minimalist text tee). Description: design, placement, shirt blank and sizing note, colors, print-on-demand production and shipping time of about 1-2 weeks, care. 4-question FAQ. Do not mention any news story, fraternity, hazing, university, reporter, TV station or real person, and use no trademarked terms.",
+              "marketing": {
+                "channels": [
+                  {
+                    "cadence": "3/week",
+                    "channel": "TikTok",
+                    "tactic": "Fit-check and skit clips"
+                  },
+                  {
+                    "cadence": "3 pins/week",
+                    "channel": "Pinterest",
+                    "tactic": "Minimal tee mockups"
+                  }
+                ],
+                "hooks": [
+                  "Outfit for when someone asks you a hard question:",
+                  "My entire personality this semester:"
+                ],
+                "keywords": [
+                  "relax pal shirt",
+                  "deadpan shirt",
+                  "minimalist text tee",
+                  "funny unbothered shirt"
+                ],
+                "launchPlan": [
+                  {
+                    "action": "List 2 tee designs + hat on Etsy via Printify.",
+                    "day": "Day 0"
+                  },
+                  {
+                    "action": "Order a sample tee.",
+                    "day": "Day 1"
+                  },
+                  {
+                    "action": "TikTok: chaotic situations montage, final shot of the shirt.",
+                    "day": "Day 3"
+                  },
+                  {
+                    "action": "Pinterest mockup pins.",
+                    "day": "Day 7"
+                  },
+                  {
+                    "action": "Real-photo content once sample arrives.",
+                    "day": "Day 10"
+                  },
+                  {
+                    "action": "Go/pivot/stop check.",
+                    "day": "Day 14"
+                  },
+                  {
+                    "action": "Decide on ads only if organic favorites/sales exist.",
+                    "day": "Day 21"
+                  }
+                ],
+                "positioning": "Quiet-luxury energy for the perpetually unbothered."
+              },
+              "platforms": [
+                {
+                  "name": "Etsy",
+                  "role": "primary",
+                  "why": "Printify integration and gift shoppers"
+                },
+                {
+                  "name": "TikTok",
+                  "role": "traffic",
+                  "why": "Outfit/'fit check' clips with the phrase as caption"
+                },
+                {
+                  "name": "Redbubble",
+                  "role": "secondary",
+                  "why": "Free duplicate listing"
+                }
+              ],
+              "pricing": {
+                "basis": "estimate",
+                "currency": "USD",
+                "high": 30,
+                "low": 22,
+                "rationale": "Typical POD text-tee range; minimal design positions slightly above meme-screenshot shirts.",
+                "recommended": 26
+              },
+              "productName": "relax, pal. Minimal Serif Tee",
+              "risks": [
+                "Reputational association with a hazing incident",
+                "Thin margins after Etsy fees",
+                "POD delivery time may outlast the meme"
+              ],
+              "superPrompt": "You are an apparel graphic designer creating an original minimalist text T-shirt and matching dad-hat embroidery file for print-on-demand (Printify or Printful connected to Etsy).\n\nBUYER AND JOB: 18-30-year-olds who like deadpan internet humor and want a low-key shirt that reads as dry wit to strangers and as an inside joke to people who know the \"relax, pal.\" catchphrase. It must look like a tasteful small-brand tee, not a loud meme shirt.\n\nDELIVERABLE SPEC: Produce 5 front-print concepts and 1 embroidery concept.\n- Front print canvas 4500x5400 px, transparent PNG, 300 DPI. Placement options: left-chest (3.5 in wide) and center-chest (10 in wide).\n- Embroidery: max 4 in wide x 1.75 in tall, max 4 thread colors, no gradients, minimum text height 0.25 in.\nFor each concept give: exact text, placement, font, color for light and dark shirts, and an image-model prompt.\nConcepts:\n1. \"relax, pal.\" lowercase serif, left chest.\n2. Center-chest \"relax, pal.\" with a small hand-drawn lounge-chair icon.\n3. Back print in tiny type: \"it's fine. relax, pal.\" with front left-chest dot.\n4. Mock vintage \"RELAX, PAL / EST. WHENEVER\" crest (original crest, no school or Greek symbols).\n5. \"relax, pal.\" stacked with a smiling sun (original).\n6. Embroidered dad-hat: \"relax, pal.\" in script.\n\nFONTS (two Canva pairings): A) \"Playfair Display\" italic + \"Work Sans\"; B) \"Cooper\"-style \"Fraunces\" + \"Space Mono\".\nPALETTE: off-white #F6F1E7, navy #1B2433, brick #B3473A, forest #2F4A3A, butter #EBCB7A. Recommend shirt colors: natural, navy, forest, heather grey.\n\nRIGHTS AND TONE RULES: The phrase is common English. Do not reference the news clip, hazing, fraternities, Greek letters, any university, its colors or mascots, the reporter, the station, or the student. No real people, no likenesses, no brand logos. Nothing may make light of hazing or injury.\n\nDIFFERENTIATION: Small, tasteful typography that works as everyday wear, unlike screenshot-style meme shirts that age in a week. Situational back-print variant gives a second reveal.\n\nOUTPUT FORMAT: numbered concepts with all fields; then a mockup shot list (3 shots); then a care-label-free product description paragraph.\n\nSELF-CHECK: no school, Greek-life, hazing or news references; embroidery spec respected; text spelled exactly; every image prompt ends with the negative list."
+            },
+            "rightsNote": "Same limits as the stickers",
+            "stopIf": "No sales in 21 days",
+            "theme": "Minimal serif 'relax, pal.' left-chest tee and embroidered dad hat",
+            "validationTest": "Launch only after stickers get favorites; 2 designs for 3 weeks",
+            "whyBuy": "Understated inside-joke apparel that reads as dry wit to everyone else"
+          }
+        ],
+        "recommendedAction": "prepare",
+        "rights": {
+          "note": "The phrase is common English and not protectable here, but the origin is a hazing incident with injured students and involves a private individual. Never use the student's image, the news footage, the reporter, the station, UW branding, Greek letters or hazing jokes.",
+          "risk": "medium"
+        },
+        "scores": {
+          "buyerIntent": {
+            "basis": "qualitative",
+            "rationale": "Curiosity only; no purchase signals",
+            "score": 1
+          },
+          "durability": {
+            "basis": "qualitative",
+            "rationale": "Meme likely short; generic phrase gives some afterlife",
+            "score": 2
+          },
+          "economics": {
+            "basis": "qualitative",
+            "rationale": "Low-cost POD stickers; thin tee margins",
+            "score": 3
+          },
+          "productFit": {
+            "basis": "qualitative",
+            "rationale": "Two-word deadpan text suits stickers and minimal tees",
+            "score": 4
+          },
+          "supplyGap": {
+            "basis": "qualitative",
+            "rationale": "Web search found no meme-tied merch; not a marketplace count",
+            "score": 4
+          },
+          "timing": {
+            "basis": "reported",
+            "rationale": "Clip from Sept 25-27; product supply not found",
+            "score": 5
+          }
+        },
+        "spread": {
+          "evidence": [
+            "e1",
+            "e3",
+            "e4",
+            "e5",
+            "e6"
+          ],
+          "text": "Within about a week: KYM and meme.com entries, a YouTube explainer, several separate TikTok creators and multiple TikTok discover pages for variants. No mainstream press beyond the original local news and meme sites was found."
+        },
+        "summary": "A deadpan two-word catchphrase from a late-September 2026 local news clip that TikTok turned into an 'unbothered comeback' meme within days.",
+        "trajectory": {
+          "evidence": [
+            "e2",
+            "e3",
+            "e4"
+          ],
+          "stage": "first_spark",
+          "text": "About one week old with one documented multi-million-view edit and several independent explainers; too early to tell whether it moves beyond frat/edit circles into everyday speech."
+        },
+        "unresolved": [
+          "Does 'relax, pal' show up as a caption outside frat/edit content (e.g. office, sports, brand accounts) in the next 7-10 days?",
+          "Any mainstream press coverage, or backlash calling the meme pro-hazing?",
+          "Any merch appearing on Etsy/Redbubble (shows demand or a crowding market)?"
+        ],
+        "what": "During WISN 12 coverage of a late-September 2026 hazing arrest at UW-Madison, a student answered a reporter's question with a flat \"Relax, pal.\" TikTok editors flipped it into a 'mogged the reporter' comeback and paired it with frat, gym and action edits. The phrase itself is ordinary English and works as a dry, unbothered retort detached from the clip.",
+        "window": {
+          "endEstimate": null,
+          "estimate": "2-6 weeks of meme relevance; the phrase itself is evergreen",
+          "invalidators": [
+            "Backlash framing the meme as glorifying hazing",
+            "No new edits after early October"
+          ],
+          "reasoning": "Clip-based catchphrases usually peak within 1-3 weeks. Because the words are generic, products can keep selling as deadpan humor after the meme fades.",
+          "seasonality": "Fall semester; midterms (mid-Oct) give a natural hook",
+          "sellBy": null
+        }
+      }
+    ],
+    "discovered": [
+      {
+        "disposition": "deep_dived",
+        "name": "Relax, Pal",
+        "rejectReason": "",
+        "whyConsidered": "Deadpan two-word catchphrase from a Sept 25-27 2026 local news clip; edits with millions of views within days; KYM entry"
+      },
+      {
+        "disposition": "deep_dived",
+        "name": "Chile memes (narrow everything)",
+        "rejectReason": "",
+        "whyConsidered": "Sept 18+ TikTok/Reels surge, multilingual spread, brand joined, KYM Meme of the Month runner-up"
+      },
+      {
+        "disposition": "deep_dived",
+        "name": "Things To Say (ironic hustle-culture advice lists)",
+        "rejectReason": "",
+        "whyConsidered": "Sept 2026 KYM Meme of the Month winner; poster-style list format jumped TikTok to Reels"
+      },
+      {
+        "disposition": "deep_dived",
+        "name": "I Can't Do Nathan",
+        "rejectReason": "",
+        "whyConsidered": "Gen Alpha catchphrase (misheard 'nothing') from mid-Aug, listed among 2026's most-searched teen slang and in KYM roundup"
+      },
+      {
+        "disposition": "rejected",
+        "name": "Remember November 2026 (AI polar bear)",
+        "rejectReason": "Already covered in candidates (remember-november-2026)",
+        "whyConsidered": "Big September meme"
+      },
+      {
+        "disposition": "rejected",
+        "name": "We're All Just Blocking the Street",
+        "rejectReason": "Built on a Family Guy clip and its sung line: TV/lyric IP",
+        "whyConsidered": "Sept 2026 audio meme about crowds/tourist towns"
+      },
+      {
+        "disposition": "rejected",
+        "name": "Jean Phil / Jean Philanthrope shadowboxing",
+        "rejectReason": "Depends on a real person's likeness",
+        "whyConsidered": "Mid-Sept 2026 viral figure"
+      },
+      {
+        "disposition": "rejected",
+        "name": "Malfoid",
+        "rejectReason": "Harry Potter character IP; name built on a misogynist slur",
+        "whyConsidered": "Late-Sept 2026 X fan-art trend"
+      },
+      {
+        "disposition": "rejected",
+        "name": "Wawario / Wawaluigi",
+        "rejectReason": "Nintendo character IP",
+        "whyConsidered": "Late-Sept 2026 absurdist meme"
+      },
+      {
+        "disposition": "rejected",
+        "name": "Hotel Lobby AI trend",
+        "rejectReason": "Built on a song and real artists' likeness",
+        "whyConsidered": "September AI-video format"
+      },
+      {
+        "disposition": "rejected",
+        "name": "Ronaldo Day / IShowSpeed",
+        "rejectReason": "Celebrity/streamer likeness",
+        "whyConsidered": "KYM Oct 2 roundup"
+      },
+      {
+        "disposition": "rejected",
+        "name": "Not Laughing Cow",
+        "rejectReason": "Brand IP (The Laughing Cow)",
+        "whyConsidered": "Packaging meme in Oct 2 roundup"
+      },
+      {
+        "disposition": "rejected",
+        "name": "Quiet on the Creek",
+        "rejectReason": "Started July 2026 (outside window) and now tied to a celebrity's song; crowded",
+        "whyConsidered": "Popular 2026 phrase, 'move in silence' identity value"
+      },
+      {
+        "disposition": "rejected",
+        "name": "Scuba (stink dance) / Crine",
+        "rejectReason": "Data covers Jan-Aug; not a new spark; 'crine' is older Black Twitter usage; weak product angle",
+        "whyConsidered": "Listed in Sept 2026 most-searched Gen Alpha slang"
+      },
+      {
+        "disposition": "rejected",
+        "name": "Chalant / chalant dating",
+        "rejectReason": "Circulating since 2025; not a first spark in this window",
+        "whyConsidered": "Identity label for earnest daters"
+      },
+      {
+        "disposition": "rejected",
+        "name": "My Recent Flops carousel / flop era",
+        "rejectReason": "'Flop era' is long-established; carousel is a content format with little product pull",
+        "whyConsidered": "September Instagram format"
+      },
+      {
+        "disposition": "rejected",
+        "name": "Be OK (happy dance, chaotic caption)",
+        "rejectReason": "Driven by a commercial song; phrase not distinctive",
+        "whyConsidered": "Oct 2026 TikTok/Instagram format"
+      },
+      {
+        "disposition": "rejected",
+        "name": "Text message from -A",
+        "rejectReason": "Pretty Little Liars IP",
+        "whyConsidered": "Oct 2026 TikTok text hook"
+      },
+      {
+        "disposition": "rejected",
+        "name": "Ramalama Costume Walk",
+        "rejectReason": "Song-driven; no phrase to sell",
+        "whyConsidered": "October Halloween format"
+      },
+      {
+        "disposition": "rejected",
+        "name": "Doorbell Chud",
+        "rejectReason": "April 2026 and based on a real arrested person",
+        "whyConsidered": "KYM roundup"
+      },
+      {
+        "disposition": "rejected",
+        "name": "October Used To Be Cold",
+        "rejectReason": "2022/2024 meme, not new; mostly media screenshots",
+        "whyConsidered": "Seasonal phrase"
+      },
+      {
+        "disposition": "rejected",
+        "name": "The Great Meme Reset of 2026",
+        "rejectReason": "Coined 2025 and reported to have fizzled",
+        "whyConsidered": "Meme-culture movement"
+      }
+    ],
+    "kind": "discover",
+    "lens": "First-spark hunt: memes, catchphrases, slang",
+    "researchedAt": "2026-10-05T00:00:47Z",
+    "sourcesTried": [
+      {
+        "method": "WebFetch + WebSearch",
+        "note": "knowyourmeme.com blocked by egress proxy; used search-result snippets only",
+        "source": "Know Your Meme (entries, weekly roundups, Meme of the Month)",
+        "status": "blocked"
+      },
+      {
+        "method": "WebFetch",
+        "note": "egress blocked; snippets only",
+        "source": "meme.com explainers",
+        "status": "blocked"
+      },
+      {
+        "method": "WebFetch",
+        "note": "egress blocked; snippets only",
+        "source": "newengen.com TikTok/Instagram trend pages",
+        "status": "blocked"
+      },
+      {
+        "method": "WebFetch",
+        "note": "egress blocked",
+        "source": "pepperagency.com October 2026 trends",
+        "status": "blocked"
+      },
+      {
+        "method": "WebFetch",
+        "note": "egress blocked; snippets only",
+        "source": "thunderdungeon.com, thebrewnews.com (Chile memes)",
+        "status": "blocked"
+      },
+      {
+        "method": "WebSearch",
+        "note": "about 45 queries; primary evidence channel",
+        "source": "WebSearch (extended/standard) across trend roundups, slang explainers, KYM, Yahoo syndications, Euronews, Daily Dot",
+        "status": "ok"
+      },
+      {
+        "method": "WebSearch for merch terms",
+        "note": "no direct marketplace access; searched for listings via web search only, so supply counts are not measured",
+        "source": "Etsy / Redbubble / TikTok Shop supply checks",
+        "status": "ok"
+      },
+      {
+        "method": "not fetched",
+        "note": "typically blocked; only TikTok discover-page titles seen in search results",
+        "source": "TikTok, Reddit, X, Google Trends",
+        "status": "not_tried"
+      }
+    ]
+  },
+  "report": [
+    {
+      "errors": [],
+      "id": "relax-pal",
+      "name": "Relax, Pal",
+      "status": "created",
+      "warnings": 0
+    }
+  ],
+  "runId": "run-hunt-memes-20261004-1",
+  "status": "ingested"
+}

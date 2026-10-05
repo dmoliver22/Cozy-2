@@ -1,0 +1,872 @@
+{
+  "createdAt": "2026-10-04T23:55:30Z",
+  "jobId": "hunt-moments-20261004",
+  "raw": {
+    "candidates": [
+      {
+        "actionRationale": "Build the sticker sheet and printable now (one working day, under $20 for a sample) and post in the trend's own format; do not spend on ads unless the phrase shows up in US holiday posts or the listing gets organic favourites.",
+        "adopters": {
+          "evidence": [
+            "e2",
+            "e3",
+            "e4"
+          ],
+          "text": "Instagram and TikTok users in the UK and US (UK spelling dominates), lifestyle creators, and brands told to use it; mostly young adults posting low-effort photo carousels."
+        },
+        "aliases": [
+          "gold star behaviour",
+          "gold star behavior",
+          "gold star behaviour in my personal opinion"
+        ],
+        "category": "meme",
+        "competition": {
+          "evidence": [
+            "e8",
+            "e9",
+            "e10"
+          ],
+          "level": "low",
+          "text": "Generic and 'adulting' gold-star stickers are common on Etsy, Amazon, TeePublic and Redbubble. No listings using the 'gold star behaviour' phrase or a holiday-wins angle surfaced in searches (limited search, not a count)."
+        },
+        "evidence": [
+          {
+            "accessMethod": "web_search_result",
+            "claim": "A TikTok marketing partner's August 2026 Instagram roundup appears in results for the Gold Star Behaviour trend, the earliest dated roundup found",
+            "excerpt": "Search result for 'gold star behaviour' trend: Ramdam Instagram Trends, August 2026 page (page fetch blocked).",
+            "id": "e1",
+            "intent": "curiosity",
+            "kind": "observed",
+            "publishedAt": null,
+            "publisher": "Ramdam",
+            "retrievedAt": "2026-10-04T23:55:30Z",
+            "signalType": "creator",
+            "syndicationOf": null,
+            "title": "Instagram Trends (August 2026)",
+            "url": "https://www.ramd.am/blog/trends-instagram-aug-2026"
+          },
+          {
+            "accessMethod": "web_search_result",
+            "claim": "A UK business publication lists Gold Star Behaviour among September 2026 social trends and notes many posts praise buying less",
+            "excerpt": "This photo trend gives creators and social media influencers the opportunity to share habits and choices they think deserve a gold star... Lots of the habits also point to buying less, not more",
+            "id": "e2",
+            "intent": "curiosity",
+            "kind": "observed",
+            "publishedAt": null,
+            "publisher": "Startups.co.uk",
+            "retrievedAt": "2026-10-04T23:55:30Z",
+            "signalType": "press",
+            "syndicationOf": null,
+            "title": "6 social media trends you shouldn't miss this September 2026",
+            "url": "https://startups.co.uk/news/social-media-trends-september/"
+          },
+          {
+            "accessMethod": "web_search_result",
+            "claim": "An independent social-media agency describes the template (title, subtitle, scattered stars, small habits) as a September 2026 Instagram trend",
+            "excerpt": "It works because it is the opposite of aspirational content. Instead of showing a life nobody can reach, it celebrates the version of yourself that just barely got through Tuesday.",
+            "id": "e3",
+            "intent": "curiosity",
+            "kind": "observed",
+            "publishedAt": null,
+            "publisher": "My Social Boutique",
+            "retrievedAt": "2026-10-04T23:55:30Z",
+            "signalType": "creator",
+            "syndicationOf": null,
+            "title": "Instagram Trends for September 2026: Trending Reels, Posts & Carousels",
+            "url": "https://mysocialboutique.co/instagram-trends-2026/"
+          },
+          {
+            "accessMethod": "web_search_result",
+            "claim": "An agency's October 2026 TikTok roundup says the September trend continues into October and is already used for Christmas-prep jokes",
+            "excerpt": "September's \"Gold Star Behaviour\" trend continues into October, celebrating small achievements like remembering an umbrella or booking the Christmas train before it costs too much.",
+            "id": "e4",
+            "intent": "curiosity",
+            "kind": "observed",
+            "publishedAt": null,
+            "publisher": "NewEngen",
+            "retrievedAt": "2026-10-04T23:55:30Z",
+            "signalType": "creator",
+            "syndicationOf": null,
+            "title": "October 2026 TikTok Trends: Viral Moments You Need to Know",
+            "url": "https://newengen.com/insights/october-tiktok-trends/"
+          },
+          {
+            "accessMethod": "web_search_result",
+            "claim": "A further September 2026 viral-format roundup appeared in results for the trend name (content not fetched)",
+            "excerpt": "Search result title returned for the query 'gold star behaviour' Instagram template September 2026.",
+            "id": "e5",
+            "intent": "curiosity",
+            "kind": "inference",
+            "publishedAt": null,
+            "publisher": "Wordinghub",
+            "retrievedAt": "2026-10-04T23:55:30Z",
+            "signalType": "creator",
+            "syndicationOf": null,
+            "title": "September 2026 Trends: The 5 Viral Formats Taking Over the English Web Today",
+            "url": "https://wordinghub.com/september-2026-viral-trends-english-web/"
+          },
+          {
+            "accessMethod": "web_search_result",
+            "claim": "An Arabic-language September 2026 trend roundup appeared in results for the trend name, suggesting spread beyond UK/US English posts (content not fetched)",
+            "excerpt": "Search result returned for the query \"Gold Star Behaviour\" trend TikTok.",
+            "id": "e6",
+            "intent": "curiosity",
+            "kind": "inference",
+            "publishedAt": null,
+            "publisher": "Amwaly Tech",
+            "retrievedAt": "2026-10-04T23:55:30Z",
+            "signalType": "press",
+            "syndicationOf": null,
+            "title": "Strangest social media trends in September 2026 and why they spread (Arabic)",
+            "url": "https://tech.amwaly.com/blog/213179/"
+          },
+          {
+            "accessMethod": "web_search_result",
+            "claim": "A third-party Amazon tracker estimates the top gold-star sticker products sell roughly 900-3,000 units a month (the adjacent, pre-existing category, not the trend itself)",
+            "excerpt": "The leading product in the gold stars stickers market has 3K monthly sales, followed closely by competitors with 2K monthly sales each.",
+            "id": "e7",
+            "intent": "purchase",
+            "kind": "observed",
+            "publishedAt": null,
+            "publisher": "ASInsight",
+            "retrievedAt": "2026-10-04T23:55:30Z",
+            "signalType": "marketplace",
+            "syndicationOf": null,
+            "title": "Best Selling gold stars stickers: Top 10 Ranked by Real Sales 2026",
+            "url": "https://www.asinsight.com/report/US/gold-stars-stickers"
+          },
+          {
+            "accessMethod": "web_search_result",
+            "claim": "Search summary reports an Etsy gold-star sticker listing with about 2.9k sales; adult humour gold-star stickers are an existing selling niche",
+            "excerpt": "One notable Etsy seller's gold star sticker listing has recorded 2.9k sales. (search summary; specific listing not verified)",
+            "id": "e8",
+            "intent": "purchase",
+            "kind": "observed",
+            "publishedAt": null,
+            "publisher": "Etsy",
+            "retrievedAt": "2026-10-04T23:55:30Z",
+            "signalType": "marketplace",
+            "syndicationOf": null,
+            "title": "Gold Star Stickers - Etsy",
+            "url": "https://www.etsy.com/market/gold_star_stickers"
+          },
+          {
+            "accessMethod": "web_search_result",
+            "claim": "Existing supply: 'adulting' reward stickers for everyday wins; none found using the 'gold star behaviour' phrase or a holiday angle",
+            "excerpt": "Rainbow colored gold stars for adults celebrate everyday wins like showering and getting out of bed.",
+            "id": "e9",
+            "intent": "none",
+            "kind": "observed",
+            "publishedAt": null,
+            "publisher": "Etsy",
+            "retrievedAt": "2026-10-04T23:55:30Z",
+            "signalType": "marketplace",
+            "syndicationOf": null,
+            "title": "Funny Adulting Gold Star Stickers: Rainbow Reward Stickers",
+            "url": "https://www.etsy.com/listing/1511774649/funny-adulting-gold-star-stickers"
+          },
+          {
+            "accessMethod": "web_search_result",
+            "claim": "POD marketplaces already carry generic gold-star sticker designs",
+            "excerpt": "Gold Star Stickers for Sale",
+            "id": "e10",
+            "intent": "none",
+            "kind": "observed",
+            "publishedAt": null,
+            "publisher": "TeePublic",
+            "retrievedAt": "2026-10-04T23:55:30Z",
+            "signalType": "marketplace",
+            "syndicationOf": null,
+            "title": "Gold Star Stickers for Sale",
+            "url": "https://www.teepublic.com/stickers/gold-star"
+          }
+        ],
+        "gap": {
+          "isInference": true,
+          "text": "A holiday-specific 'gold star behaviour' sticker sheet (stocking stuffer, Secret Santa) and a December small-wins tracker with templates to make your own post. Both tie the format's anti-haul, small-wins tone to the season."
+        },
+        "name": "Gold Star Behaviour (holiday edition)",
+        "observations": [
+          {
+            "asOf": "2026-10-04",
+            "evidence": "e7",
+            "isAbsolute": true,
+            "metric": "Top gold-star sticker product monthly unit sales (Amazon, estimated)",
+            "note": "reported by ASInsight estimate; adjacent category, not trend-specific; not independently verified",
+            "unit": "units/month",
+            "value": 3000
+          }
+        ],
+        "origin": {
+          "date": null,
+          "evidence": [
+            "e1",
+            "e2"
+          ],
+          "text": "Earliest dated reference found is an August 2026 Instagram trend roundup; September roundups describe it as an established Instagram photo trend. The original poster was not identified."
+        },
+        "productDemand": {
+          "evidence": [
+            "e7",
+            "e8"
+          ],
+          "text": "No evidence anyone buys 'gold star behaviour' products yet. The adjacent category of adult gold-star reward stickers does sell (estimated thousands of units a month on Amazon; an Etsy listing reported at about 2.9k sales), so the physical gold-star gift is a proven format."
+        },
+        "products": [
+          {
+            "buyer": "Adults 22-40 buying a cheap stocking stuffer or Secret Santa gift",
+            "channels": [
+              "Etsy",
+              "Instagram",
+              "TikTok",
+              "Pinterest",
+              "Redbubble"
+            ],
+            "continueIf": "2+ sales or 15+ favourites by Nov 10",
+            "differentiation": "First sheet built on the 'gold star behaviour' phrase and holiday-specific wins rather than generic adulting jokes",
+            "effort": "low",
+            "effortHours": 7,
+            "evidence": [
+              "e4",
+              "e7",
+              "e8"
+            ],
+            "format": "sticker",
+            "fulfillment": "pod",
+            "leadTimeDays": 10,
+            "pivotIf": "Views but no sales: make an office/teacher edition or drop price",
+            "playbook": {
+              "assembly": [
+                "Run the super prompt; keep the 21-caption table.",
+                "Generate the star base art and header lettering; remove backgrounds if needed (Canva Background Remover).",
+                "In Canva, create a 5.5 x 8.5 in design; place stars in the staggered 4-column grid; add captions in DM Sans 9-10 pt in #2B2B2B.",
+                "Check every element sits at least 0.125 in from the edge and from neighbours.",
+                "Export PNG, transparent background, at 1650 x 2550 px (300 DPI).",
+                "Upload to Printify kiss-cut sticker sheet (or the provider's equivalent), match the template size, order one sample to check colour and cuts.",
+                "Publish to Etsy through the Printify integration with the listing text; set processing to the provider's time and note holiday cut-off dates."
+              ],
+              "asymmetry": {
+                "badBetIf": "The phrase fades before December or posts stay UK-centric (UK spelling 'behaviour') with little US search",
+                "downside": "About 6-8 hours and a $10-15 sample; no inventory",
+                "upside": "Zero marginal cost per extra design; seasonal re-runs; the phrase itself is evergreen enough for non-holiday editions"
+              },
+              "costs": {
+                "baseCost": 3.5,
+                "basis": "estimate: verify in the provider catalog",
+                "item": "Kiss-cut sticker sheet",
+                "provider": "Printify",
+                "shipping": 4,
+                "testBudget": 14,
+                "testBudgetNote": "Etsy ads $1/day for 14 days only after the first organic favourite or sale"
+              },
+              "extensions": [
+                "Office/teacher edition",
+                "New Year 2027 edition (January resolutions)",
+                "Matching digital Instagram story stickers pack",
+                "Single-star vinyl decals"
+              ],
+              "imagePrompts": [
+                {
+                  "prompt": "A set of 20 hand-drawn five-point gold foil-style stars, slightly imperfect edges, flat illustration with subtle grain, colors #E8B53A fill with #B8862B outline, a few tiny sparkle marks in #B3261E and #2F5D46, arranged in a loose grid with space under each star for a caption, transparent background, square 1:1, no text, no logos, no real people, no trademarked characters, no watermarks",
+                  "purpose": "Star sticker base art",
+                  "tool": "Ideogram or ChatGPT images"
+                },
+                {
+                  "prompt": "Hand-lettered sticker that reads exactly \"gold star behaviour\" in lowercase serif lettering in #2B2B2B with one gold star #E8B53A dotting the end, small line below reading exactly \"holiday edition, if I may say so\" in italic, white die-cut border, transparent background, 3:1 aspect ratio, no logos, no real people, no trademarked characters, no watermarks",
+                  "purpose": "Header sticker lettering",
+                  "tool": "Ideogram"
+                },
+                {
+                  "prompt": "Flat-lay photo of a kiss-cut sticker sheet with gold hand-drawn stars and short captions on a cream sheet, beside a wrapped gift with red ribbon, pine sprigs and a mug, soft daylight, top-down, 4:5 aspect ratio, captions unreadable blur, no logos, no real people, no trademarked characters, no watermarks",
+                  "purpose": "Listing mockup",
+                  "tool": "Canva mockup or ChatGPT images"
+                }
+              ],
+              "listingPrompt": "Write an Etsy listing for a print-on-demand kiss-cut sticker sheet called 'Gold Star Behaviour: Holiday Edition'. Title under 140 characters that starts with 'Gold Star Stickers for Adults' and includes stocking stuffer and funny holiday gift. 13 tags, each 20 characters or fewer (e.g. gold star stickers, stocking stuffer, adulting stickers). Description: what is on the sheet (1 header + 18 holiday-win stars + 2 blank stars), size, kiss-cut vinyl, made to order and shipping times, holiday order-by note placeholder [ORDER BY DATE]. FAQ: waterproof?, can I order multiples?, are captions customisable? Do not use any brand, retailer, platform, film, song, character or celebrity names, and do not claim the product is 'viral' or 'as seen on TikTok'.",
+              "marketing": {
+                "channels": [
+                  {
+                    "cadence": "3 posts/week through mid-December",
+                    "channel": "Instagram",
+                    "tactic": "Post in the gold-star-behaviour template format with your stickers in frame"
+                  },
+                  {
+                    "cadence": "3 videos/week",
+                    "channel": "TikTok",
+                    "tactic": "Stickering gifts and cards, captioned with a holiday 'gold star'"
+                  },
+                  {
+                    "cadence": "5 pins/week",
+                    "channel": "Pinterest",
+                    "tactic": "Gift-guide pins for adults under $10"
+                  }
+                ],
+                "hooks": [
+                  "Gold star behaviour: buying gifts in October",
+                  "Hand out real gold stars this Christmas",
+                  "A gold star for leaving the party on time"
+                ],
+                "keywords": [
+                  "gold star stickers",
+                  "stickers for adults",
+                  "stocking stuffer",
+                  "secret santa gift",
+                  "funny holiday gift",
+                  "adulting stickers"
+                ],
+                "launchPlan": [
+                  {
+                    "action": "Order a physical sample; publish listing with mockups",
+                    "day": "Day 0"
+                  },
+                  {
+                    "action": "Post a 'gold star behaviour, holiday edition' photo post in the trend's own format on Instagram and TikTok using your sticker art",
+                    "day": "Day 1"
+                  },
+                  {
+                    "action": "Pin 5 Pinterest pins targeting 'stocking stuffers for adults' and 'secret santa under $10'",
+                    "day": "Day 3"
+                  },
+                  {
+                    "action": "Upload individual stars to Redbubble",
+                    "day": "Day 5"
+                  },
+                  {
+                    "action": "Short video: peeling stickers onto gifts and cards; caption with one holiday win",
+                    "day": "Day 7"
+                  },
+                  {
+                    "action": "Check views and favourites; tweak title and first photo",
+                    "day": "Day 10"
+                  },
+                  {
+                    "action": "If favourites/sales appear, start $1/day Etsy ads for 14 days",
+                    "day": "Day 14"
+                  },
+                  {
+                    "action": "Go/pivot/stop: continue if 2+ sales; pivot to an office/teacher edition if views but no sales; stop if under 100 views",
+                    "day": "Day 21"
+                  }
+                ],
+                "positioning": "Real-life gold stars for the small, unglamorous wins of the holiday season."
+              },
+              "platforms": [
+                {
+                  "name": "Etsy",
+                  "role": "primary",
+                  "why": "Gift buyers search 'stocking stuffer' and 'funny stickers' there; Printify integrates"
+                },
+                {
+                  "name": "Redbubble",
+                  "role": "secondary",
+                  "why": "Upload single star designs as individual stickers at zero cost"
+                },
+                {
+                  "name": "Instagram",
+                  "role": "traffic",
+                  "why": "The trend lives in Instagram photo posts; post your own gold-star-behaviour carousel"
+                }
+              ],
+              "pricing": {
+                "basis": "estimate",
+                "currency": "USD",
+                "high": 9,
+                "low": 5.5,
+                "rationale": "Adult humour sticker sheets typically sit in the mid single digits; price slightly above generic star sheets for the holiday set",
+                "recommended": 7.5
+              },
+              "productName": "Gold Star Behaviour: Holiday Edition sticker sheet",
+              "risks": [
+                "Format memes fade fast; the holiday window is about 8 weeks",
+                "Low price point means thin profit per order after Etsy fees",
+                "POD holiday shipping cut-offs (roughly Dec 10) end the season early"
+              ],
+              "superPrompt": "You are a witty greeting-card and sticker copywriter and art director. Your goal: write and art-direct one kiss-cut sticker sheet called \"Gold Star Behaviour: Holiday Edition\" that a solo seller will print on demand.\n\nBUYER AND JOB: Adults 22-40 who have seen the \"gold star behaviour\" photo posts (a title, a small subtitle like \"in my personal opinion\", gold stars scattered around, each star labelling a small, slightly smug good habit). They want a cheap stocking stuffer, Secret Santa or white-elephant gift under $10 that rewards the tiny, unglamorous wins of the holiday season. The sheet lets them hand out a gold star in real life.\n\nDELIVERABLE SPEC:\n1. Sheet size 5.5 x 8.5 in (also give a 4 x 6 in reduced layout), 300 DPI, export target 1650 x 2550 px PNG with transparent background.\n2. One header sticker: \"gold star behaviour\" with a small subtitle \"holiday edition, if I may say so\".\n3. 18 star stickers, each a five-point gold star with a short caption underneath (max 5 words each, lowercase, dry humour). Themes: shopping early, wrapping as you go, leaving the party at a sensible time, replying to the group chat, not mentioning politics at dinner, bringing ice, writing an actual card, returning the borrowed dish, stopping at one cookie (then two), remembering batteries, booking travel before prices jump, labelling leftovers, saying no to one event, thanking the host, unsubscribing from sale emails, buying less this year, keeping the receipt, drinking water. Write all 18 captions fresh in your own words.\n4. Two bonus blank stars labelled \"your gold star here\".\n5. Layout: 4 columns, staggered, 0.125 in gaps for kiss-cut, nothing within 0.125 in of the sheet edge.\n\nSTYLE: hand-drawn, slightly imperfect stars, like a teacher's foil star drawn by an illustrator. Palette: star gold #E8B53A, deep gold outline #B8862B, ink #2B2B2B, holiday red accent #B3261E, pine #2F5D46, cream sheet background #FBF6EC (printed only on the sheet backing, stickers stay transparent). Canva font pairings: (a) \"Fraunces\" for the header + \"DM Sans\" for captions; (b) \"Playfair Display Italic\" header + \"Work Sans\" captions.\n\nORIGINALITY AND RIGHTS: Do not copy any existing post, creator caption or sticker. Do not name or imitate any brand, retailer, film, song, celebrity or character. No trademarked holiday characters. No politics, no medical or diet claims, nothing mean about any group. Keep it gift-safe for an office exchange.\n\nDIFFERENTIATION: Existing gold-star stickers are generic \"adulting\" jokes; this is the first set built on the \"gold star behaviour\" format and on December-specific wins, with a header sticker people can stick on a laptop or card.\n\nOUTPUT FORMAT: Return (1) a table of the 21 stickers: number, caption, placement column/row; (2) an image-generation prompt for the star base art; (3) layout instructions for Canva; (4) a 40-word product blurb.\n\nSELF-CHECK before answering: every caption is 5 words or fewer; all 18 are different; no brand, IP or person names; nothing that could offend a coworker; palette hex codes used; sizes and bleed stated."
+            },
+            "rightsNote": "Original captions and art only; no platform, brand or character names",
+            "stopIf": "Under 100 listing views by Nov 10",
+            "theme": "Gold Star Behaviour: Holiday Edition kiss-cut sticker sheet of small December wins",
+            "validationTest": "List by Oct 20 and post 6 trend-format posts in 2 weeks",
+            "whyBuy": "A funny, under-$10 gift that turns the trend's gold stars into real stickers for gifts, cards and laptops"
+          },
+          {
+            "buyer": "Adults who like planners and want to post their own gold-star photo",
+            "channels": [
+              "Etsy",
+              "Gumroad",
+              "Pinterest",
+              "Instagram"
+            ],
+            "continueIf": "Any sale by Nov 20",
+            "differentiation": "Adult, ironic-but-kind tracker built on the format, with ready templates; reward charts on the market target kids",
+            "effort": "low",
+            "effortHours": 5,
+            "evidence": [
+              "e2",
+              "e3"
+            ],
+            "format": "printable",
+            "fulfillment": "digital",
+            "leadTimeDays": 0,
+            "pivotIf": "Re-date to January 2027 if December interest is thin",
+            "playbook": {
+              "assembly": [
+                "Run the super prompt and save the page text.",
+                "Build pages in Canva at US Letter; duplicate and resize to A4 (Canva 'Resize') and fix any overflow.",
+                "Build the five 1080 x 1920 story templates; lock background elements.",
+                "Export printables as PDF Print (300 DPI) - one Letter PDF, one A4 PDF.",
+                "Create a Canva template share link for the story templates ('Share > Template link').",
+                "Make a one-page PDF 'access' file with the template link and printing tips.",
+                "Upload the PDFs and access file to Etsy as a digital download; test the download yourself."
+              ],
+              "asymmetry": {
+                "badBetIf": "The format has faded by mid-November or Etsy search for the phrase stays near zero",
+                "downside": "4-6 hours, $0 cash",
+                "upside": "Zero marginal cost; re-dates easily each month"
+              },
+              "costs": {
+                "baseCost": null,
+                "basis": "estimate: verify in the provider catalog",
+                "item": null,
+                "provider": null,
+                "shipping": null,
+                "testBudget": 0,
+                "testBudgetNote": "Organic only; cross-link from the sticker listing"
+              },
+              "extensions": [
+                "January 2027 version",
+                "Teacher/office edition",
+                "Bundle with the sticker sheet"
+              ],
+              "imagePrompts": [
+                {
+                  "prompt": "Minimal cover illustration: a cream page #FBF6EC with a scattered constellation of hand-drawn gold stars #E8B53A outlined #B8862B, a small sprig of pine #2F5D46 and a red ribbon #B3261E at the corner, large empty area at top for a title, flat illustration, portrait 8.5:11 aspect ratio, no text, no logos, no real people, no trademarked characters, no watermarks",
+                  "purpose": "Cover art",
+                  "tool": "ChatGPT images or Ideogram"
+                },
+                {
+                  "prompt": "Mockup of printed planner pages on a wooden desk with a pen and a mug, a phone beside them showing a story layout with gold stars, warm light, 4:5 aspect ratio, no logos, no real people, no trademarked characters, no watermarks",
+                  "purpose": "Etsy mockup",
+                  "tool": "Canva"
+                }
+              ],
+              "listingPrompt": "Write an Etsy listing for a digital download: a December 2026 small-wins tracker for adults plus five editable 'gold star' story templates. Title under 140 characters starting with 'December 2026 Printable Tracker' and mentioning gold star, small wins and Canva templates. 13 tags of 20 characters or fewer. Description: what's included page by page, US Letter and A4 PDFs, Canva template link (free Canva account works), instant download, no physical item. FAQ: can I edit it?, which printer settings?, refunds on digital items. Forbid any brand, platform, retailer, film, song, character or celebrity names, and make no mental-health or productivity promises.",
+              "marketing": {
+                "channels": [
+                  {
+                    "cadence": "5 pins/week",
+                    "channel": "Pinterest",
+                    "tactic": "Calendar-page pins and 'December printable' boards"
+                  },
+                  {
+                    "cadence": "2/week",
+                    "channel": "Instagram",
+                    "tactic": "Template-made gold-star posts"
+                  }
+                ],
+                "hooks": [
+                  "Your December gold star chart (no streaks, no guilt)",
+                  "Make your own gold star post in 2 minutes"
+                ],
+                "keywords": [
+                  "december printable",
+                  "december 2026 calendar",
+                  "gold star chart adults",
+                  "small wins tracker",
+                  "canva story template"
+                ],
+                "launchPlan": [
+                  {
+                    "action": "Publish on Etsy and Gumroad; cross-link with the sticker sheet",
+                    "day": "Day 0"
+                  },
+                  {
+                    "action": "Post your own gold-star post made with the template",
+                    "day": "Day 1"
+                  },
+                  {
+                    "action": "5 Pinterest pins of the calendar page",
+                    "day": "Day 3"
+                  },
+                  {
+                    "action": "Flip-through video of the pages",
+                    "day": "Day 7"
+                  },
+                  {
+                    "action": "Review views/sales; refresh thumbnail",
+                    "day": "Day 14"
+                  },
+                  {
+                    "action": "Go/pivot/stop as for the sticker sheet; pivot to a January 2027 version if December is too late",
+                    "day": "Day 21"
+                  }
+                ],
+                "positioning": "A kind, slightly smug December tracker for adults - and the templates to post your own gold stars."
+              },
+              "platforms": [
+                {
+                  "name": "Etsy",
+                  "role": "primary",
+                  "why": "Printable planner buyers search there"
+                },
+                {
+                  "name": "Gumroad",
+                  "role": "secondary",
+                  "why": "Direct link for social posts; pay-what-you-want option"
+                },
+                {
+                  "name": "Pinterest",
+                  "role": "traffic",
+                  "why": "December planner and printable searches start in November"
+                }
+              ],
+              "pricing": {
+                "basis": "estimate",
+                "currency": "USD",
+                "high": 7,
+                "low": 3.5,
+                "rationale": "Short seasonal printable; priced as an impulse add-on next to the sticker sheet",
+                "recommended": 5
+              },
+              "productName": "Gold Star Behaviour December Tracker + Story Templates",
+              "risks": [
+                "Short window",
+                "Plenty of generic December printables compete",
+                "Template-link sharing can leak"
+              ],
+              "superPrompt": "You are a planner designer and social-media template creator. Produce the full content for a digital download called \"Gold Star Behaviour: December Tracker + Story Templates\".\n\nBUYER AND JOB: Adults who enjoy the \"gold star behaviour\" posts (a calm photo, the title \"gold star behaviour\", a subtitle like \"in my personal opinion\", and gold stars labelling small good habits). In December they want a gentle, non-perfectionist way to notice small wins during a busy season, and an easy way to make their own post.\n\nDELIVERABLE SPEC (printables in US Letter 8.5 x 11 in AND A4, portrait; story templates 1080 x 1920 px):\nPage 1 - Cover: title, subtitle \"small wins, December 2026\".\nPage 2 - How it works: 5 short lines (give yourself a star for a small, real win; no streaks; no punishment; stars can be silly).\nPage 3 - December 2026 calendar grid (Dec 1 = Tuesday, Dec 25 = Friday, Dec 31 = Thursday) with a star outline in each day box.\nPage 4 - \"Gold star menu\": 40 original small holiday-season wins in four groups (home, people, money, self) - each under 8 words, neutral, no health or diet claims.\nPage 5 - \"Wins I'm weirdly proud of\" lined journal page.\nPage 6 - Year-end page: \"my top 10 gold stars of 2026\".\nPage 7 - Cut-out star tokens (24 stars) for a fridge or desk.\nStory templates (5): editable layouts for making your own gold-star post - photo placeholder, title, subtitle, 3-6 star slots with caption boxes; one template per mood (cozy, minimal, festive red, pine green, newsprint).\n\nSTYLE: Canva font pairings (a) \"Fraunces\" + \"DM Sans\", (b) \"Playfair Display\" + \"Work Sans\". Palette: gold #E8B53A, deep gold #B8862B, ink #2B2B2B, red #B3261E, pine #2F5D46, cream #FBF6EC. Printer-friendly: big white space, thin lines.\n\nCONTENT RULES: Write everything originally. No brand, platform, retailer, film, song, celebrity or character names; describe the format generically (\"gold star posts\") rather than naming any social app in the product itself. No claims about mental health, productivity or outcomes. Inclusive of people who do not celebrate Christmas: use \"December\" and \"the holidays\" except on the dated calendar.\n\nDIFFERENTIATION: Generic reward charts target children; this is an adult, ironic-but-kind December tracker built on the gold-star-behaviour format, with templates to post your own.\n\nOUTPUT: Page-by-page text exactly as it should appear, then the 40-item menu, then the 5 story template specs (element positions in px), then a short README for buyers (how to print, how to edit in Canva via the template link).\n\nSELF-CHECK: calendar weekdays are correct for December 2026; 40 menu items, all distinct; no IP or platform names; both page sizes noted; no outcome claims."
+            },
+            "rightsNote": "No platform names inside the product; generic 'gold star posts' wording",
+            "stopIf": "No views from pins after 3 weeks",
+            "theme": "Gold Star Behaviour December 2026 small-wins tracker plus 5 editable story templates",
+            "validationTest": "Cross-list with the sticker sheet; 10 pins in week one",
+            "whyBuy": "A light, non-perfectionist December tracker and a quick way to join the trend with their own post"
+          }
+        ],
+        "recommendedAction": "prepare",
+        "rights": {
+          "note": "Generic phrase and gold stars; no IP. Do not use platform names or 'as seen on' claims, and do not copy any creator's post or captions.",
+          "risk": "low"
+        },
+        "scores": {
+          "buyerIntent": {
+            "basis": "reported",
+            "rationale": "No trend-specific purchase evidence; only the adjacent gold-star sticker category shows sales",
+            "score": 1
+          },
+          "durability": {
+            "basis": "qualitative",
+            "rationale": "Template memes fade quickly; the holiday angle ends Dec 25",
+            "score": 2
+          },
+          "economics": {
+            "basis": "qualitative",
+            "rationale": "Low build cost, but low price per sale",
+            "score": 3
+          },
+          "productFit": {
+            "basis": "qualitative",
+            "rationale": "Stars are literally stickers; cheap stocking-stuffer format",
+            "score": 4
+          },
+          "supplyGap": {
+            "basis": "qualitative",
+            "rationale": "No phrase-specific or holiday-specific listings surfaced in limited searches",
+            "score": 4
+          },
+          "timing": {
+            "basis": "reported",
+            "rationale": "Roundups from Aug-Oct 2026 and a fresh holiday use in October; early enough to list before gift season",
+            "score": 4
+          }
+        },
+        "spread": {
+          "evidence": [
+            "e1",
+            "e2",
+            "e3",
+            "e4",
+            "e5",
+            "e6"
+          ],
+          "text": "Independent trend roundups from at least four publishers (a UK business site, two agencies, a marketing partner) plus an Arabic-language roundup; it moved from Instagram photo posts to TikTok and was still listed in October."
+        },
+        "summary": "A photo-post template where people award gold stars to small, unglamorous good habits, now being applied to holiday prep like booking travel early.",
+        "trajectory": {
+          "evidence": [
+            "e4",
+            "e2"
+          ],
+          "stage": "first_spark",
+          "text": "Spreading through roundups from August to October 2026, with a fresh seasonal application (holiday prep) appearing in October. No reach numbers were found, so acceleration cannot be measured."
+        },
+        "unresolved": [
+          "Confirm US spread: look for 'gold star behavior' (US spelling) posts and holiday-themed versions in November",
+          "Watch for the first Etsy/Redbubble listings using the phrase (signals both demand and competition)",
+          "Whether any roundup reports reach numbers (views, post counts)"
+        ],
+        "what": "Creators post a calm photo titled 'gold star behaviour' with a subtitle such as 'in my personal opinion', then scatter gold stars across it, each labelling a small habit they think deserves praise (outfit repeating, being kind to hospitality staff). Roundups note many of the praised habits are about buying less. In October it is being used for pre-Christmas jokes, e.g. booking the Christmas train before prices rise.",
+        "window": {
+          "endEstimate": null,
+          "estimate": "October to mid-December 2026",
+          "invalidators": [
+            "Roundups stop mentioning it by early November",
+            "No new holiday-themed posts appear",
+            "US usage stays negligible"
+          ],
+          "reasoning": "Photo-template memes typically last weeks to a few months; the holiday application gives a natural end at Christmas. POD stickers must sell by about Dec 10 to arrive before Christmas; digital can sell later.",
+          "seasonality": "Holiday gift and stocking-stuffer season; possible January resolution re-use",
+          "sellBy": "2026-12-10"
+        }
+      }
+    ],
+    "discovered": [
+      {
+        "disposition": "deep_dived",
+        "name": "Gold Star Behaviour (holiday edition)",
+        "rejectReason": "",
+        "whyConsidered": "Photo-template format that roundups dated Aug-Oct 2026 report spreading on Instagram and TikTok; already used for Christmas-prep jokes (booking the Christmas train early)"
+      },
+      {
+        "disposition": "deep_dived",
+        "name": "2016-themed holiday parties (2016 Friendsgiving / Christmas like it's 2016)",
+        "rejectReason": "",
+        "whyConsidered": "Holiday application of the documented '2026 is the new 2016' nostalgia trend; a Friendsgiving guide already lists '2016 Friendsgiving' as a theme"
+      },
+      {
+        "disposition": "deep_dived",
+        "name": "Coloring advent calendars (cozy coloring countdown)",
+        "rejectReason": "",
+        "whyConsidered": "A publisher's 24-mini-book coloring advent calendar shows out-of-stock / pre-order status in Sept-Oct 2026 and creators say it will 'disappear fast'; fixed Dec 1 start"
+      },
+      {
+        "disposition": "deep_dived",
+        "name": "PTO-maxxing for 2027 (year-end PTO planning)",
+        "rejectReason": "",
+        "whyConsidered": "Named practice covered by Fortune and Yahoo in 2026; 2027 guides already published; Christmas 2026 falls on a Friday, so December is when people plan next year's leave"
+      },
+      {
+        "disposition": "rejected",
+        "name": "Dipsgiving",
+        "rejectReason": "Not new: iHeart covered it 2024-11-20 and the Nexstar syndication is a recirculation; an event page calls its 2026 party the '4th annual'",
+        "whyConsidered": "Syndicated 'new low-maintenance Thanksgiving trend' articles"
+      },
+      {
+        "disposition": "rejected",
+        "name": "Little Women Christmas",
+        "rejectReason": "Established since 2024 coverage; tied to a film adaptation; decor mostly physical/handmade",
+        "whyConsidered": "Named among top Christmas 2026 decor trends; handmade, anti-consumerist"
+      },
+      {
+        "disposition": "rejected",
+        "name": "Tacky Christmas / Kitschmas",
+        "rejectReason": "Established multi-year decor trend; physical decor, not a first spark",
+        "whyConsidered": "Listed in Christmas 2026 trend roundups"
+      },
+      {
+        "disposition": "rejected",
+        "name": "Gothmas",
+        "rejectReason": "Covered since at least 2023 (Target Gothmas line); saturated",
+        "whyConsidered": "Called a leading Etsy holiday niche for 2026"
+      },
+      {
+        "disposition": "rejected",
+        "name": "Nutcrackercore",
+        "rejectReason": "Established 2024-2025 decor niche; the growth figure is an unverified secondary claim; crowded",
+        "whyConsidered": "Reported 1000% YoY growth in related Etsy searches"
+      },
+      {
+        "disposition": "rejected",
+        "name": "Nonna-maxxing holiday angle (Nonna Christmas)",
+        "rejectReason": "Peaked in spring-summer 2026 coverage; Nonna gift supply already large on Etsy; not newly gaining for the holidays",
+        "whyConsidered": "Nonna-maxxing covered by Forbes (Mar 2026) and Washington Post (Jul 2026)"
+      },
+      {
+        "disposition": "rejected",
+        "name": "Book advent calendars / blind-date-with-a-book",
+        "rejectReason": "Established and needs physical books (inventory); many Etsy sellers",
+        "whyConsidered": "BookTok holiday gift format"
+      },
+      {
+        "disposition": "rejected",
+        "name": "Jolabokaflod (Christmas Eve book flood)",
+        "rejectReason": "Long-established; no sign of new acceleration in 2026",
+        "whyConsidered": "Recurring holiday tradition with 2026 almanac/gift guides"
+      },
+      {
+        "disposition": "rejected",
+        "name": "Friendsmas / Girlsmas",
+        "rejectReason": "Established for years; generic theme with heavy supply",
+        "whyConsidered": "Zazzle calls 'The Friendship Holiday' a 2026 trend; UK surveys"
+      },
+      {
+        "disposition": "rejected",
+        "name": "Secret Santa / White Elephant hybrid format",
+        "rejectReason": "Single source (a gift-exchange app's own blog), no independent spread",
+        "whyConsidered": "One guide says a 2026 hybrid format is 'gaining traction'"
+      },
+      {
+        "disposition": "rejected",
+        "name": "Grandma's want/need/growth cash tradition",
+        "rejectReason": "Single viral post from Feb 2026, no independent spread found",
+        "whyConsidered": "Viral TikTok family Christmas tradition"
+      },
+      {
+        "disposition": "rejected",
+        "name": "Low-maintenance Elf on the Shelf alternative (marshmallow elf house)",
+        "rejectReason": "Single creator post, undated; the alternatives category is crowded and brand-adjacent",
+        "whyConsidered": "Parent TikTok alternative to a stressful tradition"
+      },
+      {
+        "disposition": "rejected",
+        "name": "Royal / dusty blue Christmas",
+        "rejectReason": "Decor color shift sold through physical ornaments; the 'theory' phrase appears in one source only",
+        "whyConsidered": "Blue is called a 2026 tree color; 'Pop of Dusty Blue Theory' mention"
+      },
+      {
+        "disposition": "rejected",
+        "name": "America 250 Christmas / colonial Christmas",
+        "rejectReason": "Commemorative ornaments already widespread on Amazon, Walmart and Etsy; 'America250' branding carries trademark risk",
+        "whyConsidered": "Decor guides tie 2026 Christmas styling to the 250th anniversary"
+      },
+      {
+        "disposition": "rejected",
+        "name": "Gen Z printed Christmas cards",
+        "rejectReason": "Established category dominated by photo-card platforms; not new",
+        "whyConsidered": "Surveys show Gen Z plans to spend more on cards"
+      },
+      {
+        "disposition": "rejected",
+        "name": "Screen-free gifting (PwC Holiday Outlook 2026)",
+        "rejectReason": "Already covered by existing candidate 'Analog bag & screen-free gifting'",
+        "whyConsidered": "Fortune 2026-09-16: 78% of Gen Z interested in screen-free gifts"
+      },
+      {
+        "disposition": "rejected",
+        "name": "'Lowkenuinely' as Word of the Year contender",
+        "rejectReason": "Coined Nov 2025 so not new; no product-demand evidence; a WOTY moment depends on an announcement that may not pick it. Watch dictionary announcements in Nov-Dec",
+        "whyConsidered": "Bookmaker odds list it joint favourite for Merriam-Webster 2026 WOTY"
+      },
+      {
+        "disposition": "rejected",
+        "name": "'Gruzz' and other -uzz slang",
+        "rejectReason": "-uzz slang dates from 2023-2024; mildly derogatory (about older people); poor product fit",
+        "whyConsidered": "Appears in WOTY odds at 9/1"
+      },
+      {
+        "disposition": "rejected",
+        "name": "2027 goal bingo cards",
+        "rejectReason": "Saturated: many free printables and Etsy listings for 2027 already",
+        "whyConsidered": "Year-end planning format"
+      },
+      {
+        "disposition": "rejected",
+        "name": "Halloween advent calendars",
+        "rejectReason": "Outside the Nov-Dec lens and the deadline (Oct 31) is too close for a new listing to be found",
+        "whyConsidered": "Rolling Stone Oct 2026: 'hottest buys aren't costumes, they're advent calendars'"
+      },
+      {
+        "disposition": "rejected",
+        "name": "Hanukkah inflatables / novelty decor",
+        "rejectReason": "Branded physical goods; no new trend found",
+        "whyConsidered": "Hanukkah 2026 starts the evening of Dec 4, early"
+      },
+      {
+        "disposition": "rejected",
+        "name": "Creator advent challenge (25 daily prompts)",
+        "rejectReason": "Single Medium post; no independent spread",
+        "whyConsidered": "Blog suggests creators run December prompt challenges"
+      },
+      {
+        "disposition": "rejected",
+        "name": "Pinkmas",
+        "rejectReason": "Established since 2023; saturated",
+        "whyConsidered": "Mentioned in TikTok Christmas 2026 roundups"
+      },
+      {
+        "disposition": "rejected",
+        "name": "'Year of the host' casual hosting",
+        "rejectReason": "Broad lifestyle theme, not a specific Nov-Dec moment; partly feeds the 2016-party candidate",
+        "whyConsidered": "Bustle: TikTok says 2026 is the year of casual hosting"
+      },
+      {
+        "disposition": "rejected",
+        "name": "Remember November 2026 / The Great Lock-In / 6-7 in Home Alone",
+        "rejectReason": "Already covered by existing candidates (6-7 Home Alone coverage is from 2025)",
+        "whyConsidered": "Nov-Dec-relevant memes"
+      },
+      {
+        "disposition": "rejected",
+        "name": "Signature Thanksgiving tablecloth",
+        "rejectReason": "Established for years; physical product; no 2026 acceleration found",
+        "whyConsidered": "Recurring TikTok family tradition"
+      }
+    ],
+    "kind": "discover",
+    "lens": "First-spark hunt: Nov-Dec 2026 cultural moments",
+    "researchedAt": "2026-10-04T23:55:30Z",
+    "sourcesTried": [
+      {
+        "method": "web search",
+        "note": "~45 queries across holidays, gifting formats, word-of-the-year, TikTok/Instagram trend roundups; all evidence below comes from search-result snippets",
+        "source": "WebSearch (standard and extended)",
+        "status": "ok"
+      },
+      {
+        "method": "WebFetch",
+        "note": "egress proxy blocks the domain",
+        "source": "klfy.com (Dipsgiving article)",
+        "status": "blocked"
+      },
+      {
+        "method": "WebFetch",
+        "note": "egress proxy",
+        "source": "insightagent.app (Etsy fall trend report 2026)",
+        "status": "blocked"
+      },
+      {
+        "method": "WebFetch",
+        "note": "egress proxy",
+        "source": "blog.pressloft.com (Christmas 2026 trends)",
+        "status": "blocked"
+      },
+      {
+        "method": "WebFetch",
+        "note": "egress proxy",
+        "source": "newengen.com (October 2026 TikTok trends)",
+        "status": "blocked"
+      },
+      {
+        "method": "WebFetch",
+        "note": "egress proxy",
+        "source": "napoleoncat.com (October 2026 TikTok trends)",
+        "status": "blocked"
+      },
+      {
+        "method": "WebFetch",
+        "note": "egress proxy",
+        "source": "ramd.am (TikTok/Instagram trend roundups)",
+        "status": "blocked"
+      },
+      {
+        "method": "WebFetch",
+        "note": "egress proxy",
+        "source": "socialbee.com (Sept 29 2026 TikTok trends)",
+        "status": "blocked"
+      },
+      {
+        "method": "WebFetch",
+        "note": "egress proxy",
+        "source": "epidemicsound.com (latest TikTok trends)",
+        "status": "blocked"
+      },
+      {
+        "method": "direct fetch",
+        "note": "network policy blocks most direct fetches; seen only as search-result titles",
+        "source": "TikTok, Etsy, Pinterest, Reddit, Google Trends",
+        "status": "not_tried"
+      }
+    ]
+  },
+  "runId": "run-hunt-moments-20261004-1",
+  "status": "new"
+}

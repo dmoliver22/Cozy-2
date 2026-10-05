@@ -1,0 +1,190 @@
+{
+  "candidateIds": [
+    "american-mahjong-boom",
+    "hyrox-style-fitness-racing",
+    "needlepoint-revival"
+  ],
+  "discovered": [
+    {
+      "disposition": "deep_dived",
+      "name": "American mahjong boom",
+      "rejectReason": "",
+      "whyConsidered": "Yelp club searches reported up ~4,500% YoY, plus Eventbrite and Evite event growth, many national stories in 2026, and a clear need for learning and organizing aids."
+    },
+    {
+      "disposition": "deep_dived",
+      "name": "Hyrox / fitness racing",
+      "rejectReason": "",
+      "whyConsidered": "Reported 1.5M athletes in 2025/26 and 2M+ expected in 2026/27; training-log and race-day tracking needs line up with New Year."
+    },
+    {
+      "disposition": "deep_dived",
+      "name": "Needlepoint revival (Gen Z stitch nights)",
+      "rejectReason": "",
+      "whyConsidered": "YPulse, Fortune and CBS coverage in 2026, kits selling out, Michaels trend report; stash and project tracking need."
+    },
+    {
+      "disposition": "rejected",
+      "name": "Padel (US)",
+      "rejectReason": "Small committed base (238K played 8+ times, reported), about 40% of courts in Florida; gift demand is gear-led (grips, balls, bags) and no evidence of printable or tracker demand was found. Watch for 2027.",
+      "whyConsidered": "PadelUSA-reported 1.07M US players in 2025 and 1,000+ courts by April 2026 (padelusa.org, padelbrowser.com)."
+    },
+    {
+      "disposition": "rejected",
+      "name": "App-driven birding (Merlin/eBird)",
+      "rejectReason": "Strong newcomer data, but life-list journals and logbooks are well supplied by established publishers and books (Insight Editions' 'The Bird Watcher's Journal'; 'The Birder's Logbook'; beginner field journals) and $0.99 printables; no clear gap for a new seller.",
+      "whyConsidered": "Merlin reported 16.3M active users in 2025 (+35%) and nearly 100% growth during the 2026 Great Backyard Bird Count (birdcount.org, charlottenewsvt.org)."
+    },
+    {
+      "disposition": "rejected",
+      "name": "Backyard chickens",
+      "rejectReason": "Coverage of the newcomer surge is concentrated in Feb-Jun 2025 around the egg-price spike; no 2026 acceleration found. Chicken-keeping journals are a common KDP genre (not verified this session).",
+      "whyConsidered": "APPA-cited ~11M US households keeping chickens; surge tied to bird-flu egg prices (fortune.com 2025-02-13, abc7news)."
+    },
+    {
+      "disposition": "rejected",
+      "name": "Run clubs / social running",
+      "rejectReason": "The growth is social, not about tracking (Strava itself is the log), and running logs and training journals are a long-saturated category (inference).",
+      "whyConsidered": "Strava reported new clubs nearly quadrupled in 2025 and run clubs are now the main entry point (sgieurope.com, athletechnews.com)."
+    },
+    {
+      "disposition": "rejected",
+      "name": "Rucking",
+      "rejectReason": "Growth evidence is old (Strava 2021 +40%, Instagram 2023 +150%); 2026 coverage is one syndicated explainer, and the activity needs little tracking or content.",
+      "whyConsidered": "2026 NPR beginner's guide syndicated widely (wfae.org, tpr.org 2026-02-11)."
+    },
+    {
+      "disposition": "rejected",
+      "name": "Smart telescopes (Seestar etc.) as a new consumer tech habit",
+      "rejectReason": "Insufficient evidence: only buying guides and Black Friday deals found, with no participation or sales figures showing a newcomer influx.",
+      "whyConsidered": "Cheap app-controlled telescopes since 2023 (astrobackyard.com, digitalcameraworld.com); observing-log and target-list product idea."
+    },
+    {
+      "disposition": "rejected",
+      "name": "Coin collecting: 2026 Semiquincentennial quarters + end of penny production",
+      "rejectReason": "Timely, but physical folders and rolls from the US Mint, Littleton and others cover the obvious need better than a printable; evidence of the newcomer surge comes mainly from industry press and dealers. Watch for a kids' 'coin hunt' logbook angle.",
+      "whyConsidered": "Five one-year-only 2026 quarter designs (Gettysburg Address quarter expected late Oct 2026), penny production halted in 2025, and dealers reporting new collectors (coinworld.com, numismaticnews.net, koamnewsnow.com)."
+    },
+    {
+      "disposition": "rejected",
+      "name": "Kitchen witch / herbal apothecary (Pinterest 2026 Hobbies Report)",
+      "rejectReason": "Belief-adjacent with herbal-remedy health-claim risk; the obvious products (apothecary labels) overlap with saturated Halloween witchy decor; Practical Magic IP is off limits.",
+      "whyConsidered": "Pinterest reported 'herbal apothecary' searches up 595% (May 2025 vs May 2026), tied to Practical Magic 2."
+    },
+    {
+      "disposition": "rejected",
+      "name": "Fibermaxxing",
+      "rejectReason": "Nutrition/health-claim risk; trackers and 30-day workbooks already sold (Gumroad 'Fiber Fix 30', Payhip playbook) plus apps; the trend has run since 2025 and may be peaking.",
+      "whyConsidered": "TikTok nutrition trend; Whole Foods named it a 2026 trend; tracker need (2minutemedicine.com, gdruk.com)."
+    },
+    {
+      "disposition": "rejected",
+      "name": "Dumbphones / digital detox",
+      "rejectReason": "A real behavior shift, but the purchase is the device or service; no evidence found that people want detox trackers or printables, and the theme is a broad category, not a specific hobby.",
+      "whyConsidered": "Fortune (2026-04-01) on a $5B Gen Z analog economy; Axios (2026-05-07) on Gen Z leaving social media."
+    },
+    {
+      "disposition": "rejected",
+      "name": "Adult Pokemon TCG collecting",
+      "rejectReason": "High IP risk (names, artwork, set data) and collection tracking is dominated by free apps and price trackers.",
+      "whyConsidered": "Pokemon TCG estimated at $2.7B in annual sales; Circana: 19% of US adults bought cards for themselves (10news.com, vtmvending.com)."
+    },
+    {
+      "disposition": "rejected",
+      "name": "Birthday magazine templates",
+      "rejectReason": "A one-off gift project rather than a hobby with a newcomer base, and editable templates are already widely sold (Gumroad, Getly).",
+      "whyConsidered": "Pinterest 2026 Hobbies Report: 'making a birthday magazine' searches up 1,713%."
+    },
+    {
+      "disposition": "rejected",
+      "name": "Junk journaling",
+      "rejectReason": "Mature, heavily supplied Etsy category (ephemera kits, printables); 63% growth on a large base gives a new seller little room (inference; not checked this session).",
+      "whyConsidered": "Michaels reported junk-journaling searches up 63% YoY."
+    },
+    {
+      "disposition": "rejected",
+      "name": "E-ink tablet templates (reMarkable, Kindle Scribe, Boox)",
+      "rejectReason": "Market-size figures came only from low-reliability aggregator pages (alibaba.com, accio.com), and template sellers (e.g., templacity.com) already occupy the niche.",
+      "whyConsidered": "A new consumer tech habit with demand for PDF planners and templates."
+    },
+    {
+      "disposition": "rejected",
+      "name": "Tarot for beginners",
+      "rejectReason": "Belief-based, outside this lens, and tarot journals are a crowded genre (inference).",
+      "whyConsidered": "Pinterest reported 'tarot cards for beginners' up 558%."
+    }
+  ],
+  "id": "run-2026-10-04-hobbies",
+  "ingestedAt": "2026-10-04T21:01:01.000Z",
+  "jobId": null,
+  "kind": "discover",
+  "lens": "Discovery scan: hobbies & practical niches",
+  "report": [
+    {
+      "errors": [],
+      "id": "american-mahjong-boom",
+      "name": "American mahjong boom",
+      "status": "created",
+      "warnings": 1
+    },
+    {
+      "errors": [],
+      "id": "hyrox-style-fitness-racing",
+      "name": "Hyrox-style fitness racing",
+      "status": "created",
+      "warnings": 3
+    },
+    {
+      "errors": [],
+      "id": "needlepoint-revival",
+      "name": "Needlepoint revival",
+      "status": "created",
+      "warnings": 1
+    }
+  ],
+  "researchedAt": "2026-10-04T21:01:01Z",
+  "sourcesTried": [
+    {
+      "method": "WebSearch",
+      "note": "About 53 successful searches run by this agent; the session-wide budget (200 calls shared with other agents) ran out at 20:58-21:00 UTC, so some planned checks (instructor-kit supply on Etsy, Evite attribution) were not done.",
+      "source": "WebSearch (standard and extended)",
+      "status": "ok"
+    },
+    {
+      "method": "WebFetch",
+      "note": "EGRESS_BLOCKED for www.rankhero.com; figures come only from search-result summaries.",
+      "source": "RankHero keyword page (mahjong-instructor)",
+      "status": "blocked"
+    },
+    {
+      "method": "WebFetch",
+      "note": "EGRESS_BLOCKED for athletechnews.com.",
+      "source": "Athletech News (Hyrox calendar article)",
+      "status": "blocked"
+    },
+    {
+      "method": "WebFetch",
+      "note": "Blocked per brief; Etsy listing titles and URLs seen only in search results; no listing counts or sales observed.",
+      "source": "Etsy listing pages and search",
+      "status": "not_tried"
+    },
+    {
+      "method": "WebFetch",
+      "note": "Blocked per brief; no direct trend data. Search-change figures are as reported by Yelp, Pinterest, Michaels, YPulse or third-party SEO tools.",
+      "source": "Google Trends",
+      "status": "not_tried"
+    },
+    {
+      "method": "WebFetch",
+      "note": "Blocked per brief.",
+      "source": "Reddit communities (r/Mahjong, r/hyrox, r/Needlepoint)",
+      "status": "not_tried"
+    },
+    {
+      "method": "WebFetch",
+      "note": "Only book listings that surfaced in search results (IberLibro, ThriftBooks, AbeBooks) and one third-party sales estimate (ASINsight).",
+      "source": "Amazon / KDP search",
+      "status": "not_tried"
+    }
+  ]
+}

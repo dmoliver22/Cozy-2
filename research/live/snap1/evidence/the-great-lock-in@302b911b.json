@@ -1,0 +1,19 @@
+{
+  "accessMethod": "web_search_result",
+  "candidateId": "the-great-lock-in",
+  "claim": "The trend had reached business press by September 2025, framed as a Gen Z response to the economy and the 'soft life'.",
+  "excerpt": "Title and date seen in results.",
+  "firstRetrievedAt": "2026-10-04T20:59:17Z",
+  "firstSeenRunId": "run-2026-10-04-movements",
+  "id": "the-great-lock-in~302b911b",
+  "intent": "curiosity",
+  "kind": "observed",
+  "lastSeenRunId": "run-2026-10-04-movements",
+  "publishedAt": "2025-09-11",
+  "publisher": "Fortune",
+  "retrievedAt": "2026-10-04T20:59:17Z",
+  "signalType": "press",
+  "syndicationOf": null,
+  "title": "The 'Great Lock-In' is more than a Gen Z TikTok trend—it's a rejection of millennials' 'soft life' and taking back power in this economy",
+  "url": "https://fortune.com/2025/09/11/what-is-the-great-lock-in-gen-z-millennial-hustle-culture-burnout/"
+}

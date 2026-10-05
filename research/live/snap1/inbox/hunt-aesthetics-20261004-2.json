@@ -1,0 +1,529 @@
+{
+  "createdAt": "2026-10-04T23:58:00Z",
+  "jobId": "hunt-aesthetics-20261004",
+  "processedAt": "2026-10-05T00:00:32.683Z",
+  "raw": {
+    "candidates": [
+      {
+        "actionRationale": "A cheap digital test with a timing edge while people update. The format is crowded and the angle may be thin, so build one fall pack now and spend nothing on ads.",
+        "adopters": {
+          "evidence": [
+            "e1",
+            "e2",
+            "e4"
+          ],
+          "text": "iPhone users who customize their home and lock screens, a group that is heavily Gen Z and young millennial (inference). Apple-focused outlets are writing how-tos."
+        },
+        "aliases": [
+          "iOS 27 wallpapers",
+          "small clock lock screen",
+          "lock screen redesign wallpapers"
+        ],
+        "category": "aesthetic",
+        "competition": {
+          "evidence": [
+            "e8"
+          ],
+          "level": "moderate",
+          "text": "Phone wallpaper packs are heavily supplied on Etsy. Packs made specifically for the small or moved clock were not seen, but Etsy was not fetched."
+        },
+        "evidence": [
+          {
+            "accessMethod": "web_search_result",
+            "claim": "iOS 27 adds new wallpaper controls, a movable clock and an option to hide Now Playing",
+            "excerpt": "iOS 27 gives iPhone owners more ways to shape the look of their Lock Screen, with new wallpaper controls, a movable clock, and an option to hide the Now Playing widget",
+            "id": "e1",
+            "intent": "utility",
+            "kind": "observed",
+            "publishedAt": "2026-09-15",
+            "publisher": "MacRumors",
+            "retrievedAt": "2026-10-04T23:58:00Z",
+            "signalType": "press",
+            "syndicationOf": null,
+            "title": "iOS 27 Brings These Five New Features to Your iPhone Lock Screen",
+            "url": "https://www.macrumors.com/2026/09/15/ios-27-five-new-features-iphone-lock-screen/"
+          },
+          {
+            "accessMethod": "web_search_result",
+            "claim": "You can shrink the clock and move it to the widget row, which shows more of the wallpaper",
+            "excerpt": "iOS 27 finally lets you shrink the clock on your iPhone's Lock Screen and move the clock... up to the top row of widgets. This frees up space... to see more of your wallpaper",
+            "id": "e2",
+            "intent": "utility",
+            "kind": "observed",
+            "publishedAt": "2026-10-02",
+            "publisher": "9to5Mac",
+            "retrievedAt": "2026-10-04T23:58:00Z",
+            "signalType": "press",
+            "syndicationOf": null,
+            "title": "iOS 27 adds four new ways to customize your iPhone's Lock Screen",
+            "url": "https://9to5mac.com/2026/10/02/ios-27-lock-screen-customization/"
+          },
+          {
+            "accessMethod": "web_search_result",
+            "claim": "The features were previewed before release, including AI 'Extend' and Image Playground wallpapers",
+            "excerpt": "iOS 27's Lock Screen Gets AI Wallpapers, a Movable Clock, and More",
+            "id": "e3",
+            "intent": "curiosity",
+            "kind": "observed",
+            "publishedAt": null,
+            "publisher": "Android Headlines",
+            "retrievedAt": "2026-10-04T23:58:00Z",
+            "signalType": "press",
+            "syndicationOf": null,
+            "title": "iOS 27's Lock Screen Gets AI Wallpapers, a Movable Clock, and More",
+            "url": "https://www.androidheadlines.com/2026/08/ios-27s-lock-screen-gets-ai-wallpapers-a-movable-clock-and-more.html"
+          },
+          {
+            "accessMethod": "web_search_result",
+            "claim": "Several Apple-focused outlets cover the customization angle independently",
+            "excerpt": "iOS 27 Lock Screen customizations finally put you in control of your iPhone",
+            "id": "e4",
+            "intent": "utility",
+            "kind": "observed",
+            "publishedAt": null,
+            "publisher": "Cult of Mac",
+            "retrievedAt": "2026-10-04T23:58:00Z",
+            "signalType": "press",
+            "syndicationOf": null,
+            "title": "iOS 27 Lock Screen customizations finally put you in control of your iPhone",
+            "url": "https://www.cultofmac.com/news/ios-27-lock-screen-customization-features"
+          },
+          {
+            "accessMethod": "web_search_result",
+            "claim": "Trend-spotting site flags lock screen customization as a trend",
+            "excerpt": "Custom Phone Lock Screens: Apple Adds iOS 27 Controls for Wallpapers and Clock",
+            "id": "e5",
+            "intent": "curiosity",
+            "kind": "observed",
+            "publishedAt": null,
+            "publisher": "Trend Hunter",
+            "retrievedAt": "2026-10-04T23:58:00Z",
+            "signalType": "creator",
+            "syndicationOf": null,
+            "title": "Custom Phone Lock Screens: Apple Adds iOS 27 Controls for Wallpapers and Clock",
+            "url": "https://www.trendhunter.com/trends/lock-screen-customization"
+          },
+          {
+            "accessMethod": "web_search_result",
+            "claim": "TikTok has a discover page collecting 'iOS 27 wallpaper ideas' videos (view counts not visible)",
+            "excerpt": "Ios 27 Wallpaper Ideas",
+            "id": "e6",
+            "intent": "utility",
+            "kind": "observed",
+            "publishedAt": null,
+            "publisher": "TikTok",
+            "retrievedAt": "2026-10-04T23:58:00Z",
+            "signalType": "social",
+            "syndicationOf": null,
+            "title": "Ios 27 Wallpaper Ideas",
+            "url": "https://www.tiktok.com/discover/ios-27-wallpaper-ideas"
+          },
+          {
+            "accessMethod": "web_search_result",
+            "claim": "People look for new wallpapers around the release; the official 'Celosia' wallpaper is shared for download",
+            "excerpt": "iOS 27 introduces the signature 'Celosia' design... iOS 27, Dynamic, and Color... Light and Dark modes",
+            "id": "e7",
+            "intent": "utility",
+            "kind": "observed",
+            "publishedAt": null,
+            "publisher": "iClarified",
+            "retrievedAt": "2026-10-04T23:58:00Z",
+            "signalType": "community",
+            "syndicationOf": null,
+            "title": "Download the Official iOS 27 Wallpaper for iPhone",
+            "url": "https://www.iclarified.com/101089/download-the-official-ios-27-wallpaper-for-iphone"
+          },
+          {
+            "accessMethod": "web_search_result",
+            "claim": "Etsy already has a market category for lock-screen wallpaper packs (supply exists; count not seen)",
+            "excerpt": "Lock Screen Wallpaper iPhone - Etsy",
+            "id": "e8",
+            "intent": "none",
+            "kind": "observed",
+            "publishedAt": null,
+            "publisher": "Etsy",
+            "retrievedAt": "2026-10-04T23:58:00Z",
+            "signalType": "marketplace",
+            "syndicationOf": null,
+            "title": "Lock Screen Wallpaper iPhone - Etsy",
+            "url": "https://www.etsy.com/market/lock_screen_wallpaper_iphone"
+          }
+        ],
+        "gap": {
+          "isInference": true,
+          "text": "Wallpaper sets composed for the new layout: subject in the upper or central field, no art hidden behind a big clock, matched lock and home pairs, and dark-mode variants. Most existing packs were composed for the old big-clock layout."
+        },
+        "name": "Wallpapers made for the new movable lock-screen clock (iOS 27)",
+        "observations": [],
+        "origin": {
+          "date": "2026-09-15",
+          "evidence": [
+            "e1",
+            "e3"
+          ],
+          "text": "The features were previewed in summer betas and shipped with iOS 27 around mid-September 2026. MacRumors covered the Lock Screen features on 2026-09-15."
+        },
+        "productDemand": {
+          "evidence": [
+            "e6",
+            "e8"
+          ],
+          "text": "Interest is how-to and ideas (utility). There is no purchase evidence for wallpapers made for the new layout. Paid lock-screen wallpaper packs already exist on Etsy, which shows the format sells in general, not that this angle does."
+        },
+        "products": [
+          {
+            "buyer": "Gen Z and millennial iPhone users who restyle their lock and home screens each season",
+            "channels": [
+              "Etsy",
+              "TikTok",
+              "Pinterest",
+              "Payhip"
+            ],
+            "continueIf": "At least 5 sales in 21 days or one video over 10k views",
+            "differentiation": "Each design leaves a clean top band for the compact clock and widgets, puts the focal subject in the newly visible middle, and comes as a lock/home pair with light and dark versions.",
+            "effort": "low",
+            "effortHours": 6,
+            "evidence": [
+              "e1",
+              "e2",
+              "e6"
+            ],
+            "format": "other",
+            "fulfillment": "digital",
+            "leadTimeDays": 2,
+            "pivotIf": "Videos get views but no sales: offer a free 1-wallpaper lead magnet and a holiday pack",
+            "playbook": {
+              "assembly": [
+                "Generate all 12 designs at the highest resolution, then upscale and crop to 1290x2796 px",
+                "Check each against a transparent overlay marking the top 22% and bottom 12% zones; regenerate any that break them",
+                "Make dark variants (re-prompt) and home-screen variants (Canva blur 30-40% or simplified crop)",
+                "Export PNG at full resolution; name files 01-maple-lock-light.png etc.",
+                "Build a 2-page PDF guide plus a link page; zip everything (under 20 MB per Etsy file or split into two zips)",
+                "Make 5 listing images: hero mockup, all-12 grid, before/after layout, light vs dark, what's included",
+                "Record the 3 TikTok videos from the generated scripts using screen recording of your own phone"
+              ],
+              "asymmetry": {
+                "badBetIf": "Free AI wallpaper tools built into the phone remove the reason to buy, or videos fail to get past 1k views",
+                "downside": "About 6 hours, about $1 in fees",
+                "upside": "A repeatable seasonal series with zero marginal cost and a TikTok-native format"
+              },
+              "costs": {
+                "baseCost": null,
+                "basis": "estimate: digital, Etsy listing and transaction fees only",
+                "item": null,
+                "provider": null,
+                "shipping": null,
+                "testBudget": 0,
+                "testBudgetNote": "Organic TikTok first; ads are not worth it at this price point"
+              },
+              "extensions": [
+                "Halloween mini pack",
+                "Winter/holiday pack",
+                "Celery-green spring pack",
+                "Matching app-icon set"
+              ],
+              "imagePrompts": [
+                {
+                  "prompt": "Vertical phone wallpaper, a few red-orange maple leaves #A23E2A #D9822B drifting across a soft open sky gradient from #C9CCD1 to #E9DCC3, upper fifth of the frame empty and calm, leaves clustered in the middle third, painterly gouache texture, no text, 9:19.5 aspect ratio, full-bleed. No logos, no real people, no trademarked characters, no watermarks.",
+                  "purpose": "Design 2 maple leaves in open sky",
+                  "tool": "Midjourney or Ideogram"
+                },
+                {
+                  "prompt": "Vertical phone wallpaper, large warm harvest moon low over rolling hills, deep night plum sky #2E2433, moss hills #5F6B3C, subtle grain, the top 22% plain dark sky, moon centered at mid-height, bottom area simple dark hills, no text, 9:19.5 aspect ratio. No logos, no real people, no trademarked characters, no watermarks.",
+                  "purpose": "Design 7 harvest moon (dark variant)",
+                  "tool": "Midjourney or Ideogram"
+                },
+                {
+                  "prompt": "Flat-lay of three generic smartphones without brand marks showing three wallpapers from the pack, on an oat linen background #E9DCC3 with dried leaves, soft daylight, 4:5 aspect ratio, phone screens left blank for compositing. No logos, no real people, no trademarked characters, no watermarks.",
+                  "purpose": "Listing mockup",
+                  "tool": "Canva"
+                }
+              ],
+              "listingPrompt": "Write an Etsy listing for a digital download: 12 original fall phone wallpapers with matching home-screen versions, light and dark, composed for phones whose lock-screen clock can be made small or moved. Title under 140 characters, starting with 'Fall Phone Wallpaper Pack'. Give 13 tags of 20 characters or fewer (e.g. fall wallpaper, autumn lock screen, cozy phone theme). Description: what's included, pixel size (1290x2796) and that it fits most modern phones, PNG format, instant download and nothing ships, how to set it, and a short FAQ (Will it fit my phone? Can I use it on Android? Can I share it? It is for personal use only). You may write 'for iPhone' only as a compatibility phrase; do NOT use Apple logos, 'iOS' in the title, official wallpaper names, or any other trademarks.",
+              "marketing": {
+                "channels": [
+                  {
+                    "cadence": "3-4 per week",
+                    "channel": "TikTok",
+                    "tactic": "Before/after phone layout swaps with link in bio"
+                  },
+                  {
+                    "cadence": "Daily",
+                    "channel": "Pinterest",
+                    "tactic": "Single-wallpaper pins with phone mockups"
+                  }
+                ],
+                "hooks": [
+                  "Your old wallpaper looks wrong with the new small clock. Fix it",
+                  "I made wallpapers for the new lock screen layout",
+                  "POV: you finally moved the clock"
+                ],
+                "keywords": [
+                  "fall phone wallpaper",
+                  "autumn lock screen",
+                  "cozy phone theme",
+                  "small clock wallpaper",
+                  "aesthetic home screen"
+                ],
+                "launchPlan": [
+                  {
+                    "action": "List the pack on Etsy and Payhip",
+                    "day": "Day 0"
+                  },
+                  {
+                    "action": "Post TikTok 1: before/after moving the clock with the new wallpaper",
+                    "day": "Day 1"
+                  },
+                  {
+                    "action": "Post TikTok 2: 'which fall wallpaper are you' scroll; pin 5 designs on Pinterest",
+                    "day": "Day 3"
+                  },
+                  {
+                    "action": "Post TikTok 3: ASMR setup; reply to comments with video replies",
+                    "day": "Day 5"
+                  },
+                  {
+                    "action": "Check Etsy views and conversion; adjust title to whichever phrase gets views",
+                    "day": "Day 7"
+                  },
+                  {
+                    "action": "Release 1 free wallpaper on Pinterest linking to the pack",
+                    "day": "Day 10"
+                  },
+                  {
+                    "action": "Start a Halloween mini pack if fall pack sells",
+                    "day": "Day 14"
+                  },
+                  {
+                    "action": "Go/pivot/stop: continue at 5+ sales or a 10k-view video; pivot to holiday pack with lead magnet if only views; stop under 2 sales and 2k views",
+                    "day": "Day 21"
+                  }
+                ],
+                "positioning": "The first fall pack composed for the new small-clock lock screen"
+              },
+              "platforms": [
+                {
+                  "name": "Etsy",
+                  "role": "primary",
+                  "why": "Buyers already search for lock screen wallpaper packs there"
+                },
+                {
+                  "name": "Payhip",
+                  "role": "secondary",
+                  "why": "Link-in-bio checkout for TikTok traffic"
+                },
+                {
+                  "name": "TikTok",
+                  "role": "traffic",
+                  "why": "Before/after phone setup videos are a native format"
+                },
+                {
+                  "name": "Pinterest",
+                  "role": "traffic",
+                  "why": "Fall phone-aesthetic searches"
+                }
+              ],
+              "pricing": {
+                "basis": "estimate",
+                "currency": "USD",
+                "high": 7,
+                "low": 3,
+                "rationale": "Wallpaper packs are low-ticket impulse buys; 12 pairs with light/dark justifies the mid price",
+                "recommended": 4.5
+              },
+              "productName": "Open Sky Fall Wallpaper Pack (12 lock + home pairs)",
+              "risks": [
+                "Crowded format",
+                "Trademark complaints if Apple marks are misused",
+                "Low price means volume is needed"
+              ],
+              "superPrompt": "You are a digital illustrator and art director designing a sellable phone wallpaper pack. BUYER: Gen Z and millennial iPhone users who restyle their phones every season. Their phone update now lets them shrink the lock-screen clock or move it to the widget row, so far more of the wallpaper is visible. Wallpapers built around a big central clock now look empty or cramped. JOB: give them a cohesive fall pack composed for the new layout. DELIVERABLE: 12 designs. For each one give: title, mood line, a full image-generation prompt, composition notes, and its matching home-screen variant (blurred or simplified version of the same art so icons stay readable). Themes: 1 misty orchard at dawn, 2 maple leaves drifting across open sky, 3 cozy window with rain and candle, 4 pumpkin field at golden hour, 5 abstract fall color blocks, 6 mushroom forest floor, 7 harvest moon over hills, 8 knit texture close-up, 9 apple still life, 10 foggy lake with a rowboat, 11 dried flowers in a jar, 12 night sky with falling leaves. SPEC: 1290x2796 px master (19.5:9), keep the top 22% calm and low-detail (clock and widget zone), the focal subject between 35% and 75% of the height, the bottom 12% low-detail (flashlight/camera controls). Each design in light and dark versions. PALETTE: Pumpkin #D9822B, Maple #A23E2A, Oat #E9DCC3, Moss #5F6B3C, Fog #C9CCD1, Night Plum #2E2433. FONTS (for listing images and the guide in Canva): pairing A, Fraunces with Inter; pairing B, DM Serif Display with DM Sans. CONTENT RULES: everything original; no text in the wallpapers; no recognizable landmarks, brands, characters or real people; no imitation of a named living artist. DIFFERENTIATION: composed for the new compact-clock layout, matched lock/home pairs, light and dark versions, one coherent palette. RIGHTS: never reproduce or reference Apple's official wallpapers, Apple logos or UI; mention the phone brand only as compatibility. OUTPUT: Section 1, pack overview (3 sentences). Sections 2-13, one per design with the fields above. Section 14, a one-page 'How to set your wallpaper and move the clock' guide written generically (Settings path described in plain words, with a note that menus vary by version). Section 15, 3 TikTok video scripts (before/after swap, 'which one are you', ASMR scroll). SELF-CHECK: (1) every design respects the top 22% calm zone, (2) no text in the art, (3) no brands or official wallpapers referenced, (4) each design has light and dark variants and a home-screen variant, (5) palette hexes used consistently."
+            },
+            "rightsNote": "Say 'for iPhone' only as compatibility; no Apple logos, UI screenshots of Apple wallpapers, or 'iOS' in the art",
+            "stopIf": "Fewer than 2 sales and no video over 2k views by Day 21",
+            "theme": "Fall 'open sky' phone wallpaper pack composed for the small or moved lock-screen clock, with matched lock and home pairs",
+            "validationTest": "Post 3 TikToks showing the before/after layout swap with a link to a 12-wallpaper pack. List on Etsy.",
+            "whyBuy": "Their old wallpapers look off with the new layout, and they want a cohesive seasonal set that shows off the extra space"
+          }
+        ],
+        "recommendedAction": "prepare",
+        "rights": {
+          "note": "'iPhone' and 'iOS' are Apple trademarks. Use them only to describe compatibility ('for iPhone lock screens'), never as a brand or in art, and never copy Apple's official wallpapers (such as 'Celosia'). Art must be original.",
+          "risk": "medium"
+        },
+        "scores": {
+          "buyerIntent": {
+            "basis": "qualitative",
+            "rationale": "A proven paid format, but no evidence of buying for this angle",
+            "score": 2
+          },
+          "durability": {
+            "basis": "qualitative",
+            "rationale": "Novelty fades within months; evergreen afterwards",
+            "score": 2
+          },
+          "economics": {
+            "basis": "qualitative",
+            "rationale": "Zero marginal cost, low price point",
+            "score": 4
+          },
+          "productFit": {
+            "basis": "qualitative",
+            "rationale": "Digital wallpapers are the native product",
+            "score": 5
+          },
+          "supplyGap": {
+            "basis": "qualitative",
+            "rationale": "Crowded format; only the layout angle is open",
+            "score": 2
+          },
+          "timing": {
+            "basis": "reported",
+            "rationale": "Shipped mid-Sept; coverage ongoing into October",
+            "score": 4
+          }
+        },
+        "spread": {
+          "evidence": [
+            "e2",
+            "e5",
+            "e6"
+          ],
+          "text": "Covered by MacRumors, 9to5Mac (Oct 2), Cult of Mac, Trend Hunter and a TikTok discover page. The coverage is still mostly tech how-tos, with only early signs of a creator aesthetic forming around it."
+        },
+        "summary": "iOS 27 (mid-September 2026) lets iPhone users shrink and move the lock-screen clock, opening demand for wallpapers composed for the new layout.",
+        "trajectory": {
+          "evidence": [
+            "e1",
+            "e2"
+          ],
+          "stage": "first_spark",
+          "text": "The feature has shipped and coverage is still arriving (Oct 2). Adoption of OS updates grows over weeks, so the number of potential buyers should keep rising through the fall."
+        },
+        "unresolved": [
+          "Do 'iOS 27 wallpaper' TikTok videos get high views and show creators selling packs?",
+          "Do Etsy listings start using 'small clock' or 'new lock screen' phrasing (a sign of demand)?",
+          "What share of users actually move or shrink the clock?"
+        ],
+        "what": "iOS 27 lets users shrink the Lock Screen clock or move it into the widget row, hide Now Playing, and fill photo edges with AI. Much more of the wallpaper is now visible, so art composed around the old large central clock looks wrong. TikTok has started collecting 'iOS 27 wallpaper ideas' videos.",
+        "window": {
+          "endEstimate": null,
+          "estimate": "2-4 months for the 'new layout' hook; wallpapers in general are evergreen",
+          "invalidators": [
+            "Apple's own AI wallpaper tools (Image Playground, Extend) satisfy most users for free",
+            "Few users actually move the clock"
+          ],
+          "reasoning": "The novelty peaks as people update over Oct-Dec 2026. After that the layout is just the default and the angle becomes ordinary SEO.",
+          "seasonality": "Fall/Halloween and holiday wallpaper demand in Oct-Dec overlaps with the update",
+          "sellBy": null
+        }
+      }
+    ],
+    "kind": "discover",
+    "lens": "First-spark hunt: new aesthetics and visual micro-trends",
+    "researchedAt": "2026-10-04T23:58:00Z",
+    "sourcesTried": [
+      {
+        "method": "web search",
+        "note": "~45 queries; primary evidence is search-result snippets",
+        "source": "WebSearch (extended/standard)",
+        "status": "ok"
+      },
+      {
+        "method": "WebFetch",
+        "note": "egress blocked",
+        "source": "newengen.com October/September TikTok trends",
+        "status": "blocked"
+      },
+      {
+        "method": "WebFetch",
+        "note": "egress blocked",
+        "source": "dumblittleman.com fall 2026 trends",
+        "status": "blocked"
+      },
+      {
+        "method": "WebFetch",
+        "note": "egress blocked",
+        "source": "nellyrodi.com TikTok beauty trends Oct 2026",
+        "status": "blocked"
+      },
+      {
+        "method": "WebFetch",
+        "note": "egress blocked; seen via search results only",
+        "source": "socialbee.com TikTok/Instagram trend roundups",
+        "status": "blocked"
+      },
+      {
+        "method": "WebFetch",
+        "note": "egress blocked",
+        "source": "epidemicsound.com TikTok trends",
+        "status": "blocked"
+      },
+      {
+        "method": "WebFetch",
+        "note": "egress blocked; search snippets used",
+        "source": "complex.com, hunker.com, apartmenttherapy.com (Celery coverage)",
+        "status": "blocked"
+      },
+      {
+        "method": "WebFetch",
+        "note": "egress blocked",
+        "source": "wgsn.com press release",
+        "status": "blocked"
+      },
+      {
+        "method": "WebFetch",
+        "note": "egress blocked",
+        "source": "today.com whimsy-maxxing",
+        "status": "blocked"
+      },
+      {
+        "method": "WebFetch",
+        "note": "egress blocked; search snippets used",
+        "source": "macrumors.com iOS 27 lock screen",
+        "status": "blocked"
+      },
+      {
+        "method": "WebFetch",
+        "note": "egress blocked",
+        "source": "drewandjonathan.com 2027 colors",
+        "status": "blocked"
+      },
+      {
+        "method": "web search",
+        "note": "no new aesthetic entries found for Sept 2026",
+        "source": "Know Your Meme (via search)",
+        "status": "ok"
+      },
+      {
+        "method": "web search",
+        "note": "titles only; no view counts readable",
+        "source": "TikTok discover pages",
+        "status": "ok"
+      },
+      {
+        "method": "web search",
+        "note": "market/listing URLs seen in results; not fetched, no counts",
+        "source": "Etsy",
+        "status": "ok"
+      },
+      {
+        "method": "not attempted directly",
+        "note": "typically blocked; no direct measurement",
+        "source": "Pinterest Trends, Google Trends, Reddit",
+        "status": "not_tried"
+      }
+    ]
+  },
+  "report": [
+    {
+      "errors": [],
+      "id": "wallpapers-made-for-the-new-movable-lock-screen-clock-ios-27",
+      "name": "Wallpapers made for the new movable lock-screen clock (iOS 27)",
+      "status": "created",
+      "warnings": 0
+    }
+  ],
+  "runId": "run-hunt-aesthetics-20261004-2",
+  "status": "ingested"
+}

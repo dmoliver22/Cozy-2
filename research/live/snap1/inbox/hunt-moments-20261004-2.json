@@ -1,0 +1,539 @@
+{
+  "createdAt": "2026-10-04T23:55:30Z",
+  "jobId": "hunt-moments-20261004",
+  "raw": {
+    "candidates": [
+      {
+        "actionRationale": "Cheap to build (about a day and a half) and reusable for other parties, but demand is unproven. Build and list by late October so Friendsgiving planners find it, promote organically, and add ads only if favourites appear.",
+        "adopters": {
+          "evidence": [
+            "e1",
+            "e8",
+            "e9",
+            "e11"
+          ],
+          "text": "Millennials and older Gen Z (people who were teens or students in 2016) hosting casual friend gatherings; parents throwing 10th birthdays for 2016-born kids drive separate decor supply."
+        },
+        "aliases": [
+          "2016 Friendsgiving",
+          "Party like it's 2016",
+          "2016 throwback party",
+          "2026 is the new 2016 party"
+        ],
+        "category": "seasonal",
+        "competition": {
+          "evidence": [
+            "e6",
+            "e9"
+          ],
+          "level": "low",
+          "text": "Etsy has 2016 party invitations (mostly birthday 'rewind' templates) and Amazon has 2016 banners and backdrops. No adult Friendsgiving or holiday 2016 game kit surfaced in searches (limited search)."
+        },
+        "evidence": [
+          {
+            "accessMethod": "web_search_result",
+            "claim": "A Friendsgiving planning guide lists '2016 Friendsgiving' as a theme, built on the 2026 social trend of sharing 2016 fashion, music and online trends",
+            "excerpt": "A social media trend that took off in early 2026 had people sharing the fashion, music, and online trends of 2016... play a 2016 playlist, dig up an old group photo and recreate it, and serve the snacks your group ate back then.",
+            "id": "e1",
+            "intent": "utility",
+            "kind": "observed",
+            "publishedAt": null,
+            "publisher": "SignUpGenius",
+            "retrievedAt": "2026-10-04T23:55:30Z",
+            "signalType": "creator",
+            "syndicationOf": null,
+            "title": "Friendsgiving Ideas: Food, Games, and Traditions",
+            "url": "https://www.signupgenius.com/resources/friendsgiving-ideas"
+          },
+          {
+            "accessMethod": "web_search_result",
+            "claim": "The parent trend is documented: started late 2025, widely noticed early 2026, people sharing 2016 fashion, music and online trends",
+            "excerpt": "a phrase connected to a social media trend that started in late 2025 and became widely noticed in early 2026, where Internet users share posts showing the fashion, music, and online trends of 2016",
+            "id": "e2",
+            "intent": "curiosity",
+            "kind": "observed",
+            "publishedAt": null,
+            "publisher": "Wikipedia",
+            "retrievedAt": "2026-10-04T23:55:30Z",
+            "signalType": "community",
+            "syndicationOf": null,
+            "title": "2026 is the new 2016",
+            "url": "https://en.wikipedia.org/wiki/2026_is_the_new_2016"
+          },
+          {
+            "accessMethod": "web_search_result",
+            "claim": "National press commentary on the 2016 nostalgia trend",
+            "excerpt": "We're trapped in 2016 (headline; article not fetched)",
+            "id": "e3",
+            "intent": "curiosity",
+            "kind": "observed",
+            "publishedAt": null,
+            "publisher": "The Spectator",
+            "retrievedAt": "2026-10-04T23:55:30Z",
+            "signalType": "press",
+            "syndicationOf": null,
+            "title": "We're trapped in 2016",
+            "url": "https://spectator.com/article/what-the-2016-social-media-trend-reveals-about-2026/"
+          },
+          {
+            "accessMethod": "web_search_result",
+            "claim": "Fashion press explains 2016 as an emotional and visual shortcut in 2026",
+            "excerpt": "2016 no longer represents just nostalgia, but a real emotional and visual shortcut, an immediate symbol of expressive spontaneity that today feels distant.",
+            "id": "e4",
+            "intent": "curiosity",
+            "kind": "observed",
+            "publishedAt": null,
+            "publisher": "nss G-Club",
+            "retrievedAt": "2026-10-04T23:55:30Z",
+            "signalType": "press",
+            "syndicationOf": null,
+            "title": "2016 aesthetic: why 2016 nostalgia is back in 2026",
+            "url": "https://www.nssgclub.com/en/fashion/43882/2016-aesthetic-nostalgia-2026"
+          },
+          {
+            "accessMethod": "web_search_result",
+            "claim": "Additional independent coverage of the parent trend",
+            "excerpt": "Why 2026 Is The New 2016 (headline; article not fetched)",
+            "id": "e5",
+            "intent": "curiosity",
+            "kind": "observed",
+            "publishedAt": null,
+            "publisher": "IBCO Magazine",
+            "retrievedAt": "2026-10-04T23:55:30Z",
+            "signalType": "press",
+            "syndicationOf": null,
+            "title": "Why 2026 Is The New 2016",
+            "url": "https://ibcomagazine.com/2026/why-2026-is-the-new-2016/"
+          },
+          {
+            "accessMethod": "web_search_result",
+            "claim": "Supply exists for 2016-themed party invitations (mostly 'party like it's 2016' / 2016 rewind birthday templates)",
+            "excerpt": "2016 Rewind Birthday Invitation templates are available for throwback birthday party themes",
+            "id": "e6",
+            "intent": "none",
+            "kind": "observed",
+            "publishedAt": null,
+            "publisher": "Etsy",
+            "retrievedAt": "2026-10-04T23:55:30Z",
+            "signalType": "marketplace",
+            "syndicationOf": null,
+            "title": "2016 Party Invite - Etsy",
+            "url": "https://www.etsy.com/market/2016_party_invite"
+          },
+          {
+            "accessMethod": "web_search_result",
+            "claim": "Pinterest has an ideas hub for '2016 themed party', signalling saved-search interest (no volume available)",
+            "excerpt": "2016 Themed Party (Pinterest ideas page)",
+            "id": "e7",
+            "intent": "utility",
+            "kind": "observed",
+            "publishedAt": null,
+            "publisher": "Pinterest",
+            "retrievedAt": "2026-10-04T23:55:30Z",
+            "signalType": "search",
+            "syndicationOf": null,
+            "title": "2016 Themed Party",
+            "url": "https://www.pinterest.com/ideas/2016-themed-party/941584492822/"
+          },
+          {
+            "accessMethod": "web_search_result",
+            "claim": "TikTok has a discover page for 2016-themed party outfits, indicating people are dressing up for 2016 parties",
+            "excerpt": "2016 Themed Party Outfits Girls (TikTok discover page title)",
+            "id": "e8",
+            "intent": "utility",
+            "kind": "observed",
+            "publishedAt": null,
+            "publisher": "TikTok",
+            "retrievedAt": "2026-10-04T23:55:30Z",
+            "signalType": "social",
+            "syndicationOf": null,
+            "title": "2016 Themed Party Outfits Girls",
+            "url": "https://www.tiktok.com/discover/2016-themed-party-outfits-girls"
+          },
+          {
+            "accessMethod": "web_search_result",
+            "claim": "Physical 2016-theme decorations exist ('Back in 2016' backdrops, 'Slayin' Since 2016' banners), much of it aimed at 10th birthdays",
+            "excerpt": "Banners include \"Slayin' Since 2016\"... and \"Back in 2016\" backdrops",
+            "id": "e9",
+            "intent": "none",
+            "kind": "observed",
+            "publishedAt": null,
+            "publisher": "Amazon",
+            "retrievedAt": "2026-10-04T23:55:30Z",
+            "signalType": "marketplace",
+            "syndicationOf": null,
+            "title": "2016 Theme Party Decorations",
+            "url": "https://www.amazon.com/2016-theme-party-decorations/s?k=2016+theme+party+decorations"
+          },
+          {
+            "accessMethod": "web_search_result",
+            "claim": "Christmas party trend roundups for 2026 cite nostalgia and retro references as a leading theme (attribution between roundups not verified)",
+            "excerpt": "Nostalgia takes center stage in 2026, with parties embracing familiar music, retro references and the kitsch side of Christmas.",
+            "id": "e10",
+            "intent": "curiosity",
+            "kind": "inference",
+            "publishedAt": null,
+            "publisher": "SquareMeal",
+            "retrievedAt": "2026-10-04T23:55:30Z",
+            "signalType": "press",
+            "syndicationOf": null,
+            "title": "Christmas party trends 2026: 12 must-know predictions",
+            "url": "https://www.squaremeal.co.uk/christmas-parties/christmas-party-ideas/christmas-party-trends_10261"
+          },
+          {
+            "accessMethod": "web_search_result",
+            "claim": "Casual, small-group hosting is reported as a 2026 TikTok theme, which suits low-effort themed Friendsgivings",
+            "excerpt": "smaller, meaningful gatherings like casual dinners, book clubs, and pet birthday parties are on the rise",
+            "id": "e11",
+            "intent": "curiosity",
+            "kind": "observed",
+            "publishedAt": null,
+            "publisher": "Bustle",
+            "retrievedAt": "2026-10-04T23:55:30Z",
+            "signalType": "press",
+            "syndicationOf": null,
+            "title": "According To TikTok, 2026 Is The Year Of Casually Hosting Parties",
+            "url": "https://www.bustle.com/wellness/casual-hosting-trend-2026-tiktok"
+          }
+        ],
+        "gap": {
+          "isInference": true,
+          "text": "An adult, holiday-specific 2016 party kit with games built on the group's own memories (photo recreation, then-vs-now cards, fact-based trivia, superlatives) rather than kids' birthday decor."
+        },
+        "name": "2016-themed holiday parties (2016 Friendsgiving)",
+        "observations": [],
+        "origin": {
+          "date": null,
+          "evidence": [
+            "e1",
+            "e2"
+          ],
+          "text": "The parent trend began late 2025 and was widely noticed in early 2026; the holiday-party application appears in a Friendsgiving ideas guide (undated) and 2016 party hubs. No single originating post found."
+        },
+        "productDemand": {
+          "evidence": [
+            "e7",
+            "e8",
+            "e9"
+          ],
+          "text": "No purchase evidence for 2016 holiday-party products. Interest signals are utility (planning hubs on Pinterest and TikTok). Physical 2016 decor exists but is mostly aimed at 10th birthdays."
+        },
+        "products": [
+          {
+            "buyer": "Millennial/older Gen Z hosts planning a Friendsgiving or December friends' party",
+            "channels": [
+              "Etsy",
+              "Pinterest",
+              "TikTok",
+              "Gumroad"
+            ],
+            "continueIf": "3+ sales or 25+ favourites by Nov 15",
+            "differentiation": "Adult holiday kit built on the group's own memories; avoids brand-dependent decor; Friendsgiving and December variants",
+            "effort": "medium",
+            "effortHours": 11,
+            "evidence": [
+              "e1",
+              "e7",
+              "e8"
+            ],
+            "format": "bundle",
+            "fulfillment": "digital",
+            "leadTimeDays": 0,
+            "pivotIf": "Re-angle to NYE or 10th-birthday versions",
+            "playbook": {
+              "assembly": [
+                "Run the super prompt; fact-check every trivia answer yourself and delete any you cannot verify.",
+                "Create the Canva designs at US Letter; build invitations at 5 x 7 in and 1080 x 1920 px.",
+                "Apply the palette and fonts; keep 0.25 in margins for home printing.",
+                "Resize the Letter pages to A4 and fix overflow.",
+                "Export PDF Print at 300 DPI (one Letter PDF, one A4 PDF, one invitations PDF) plus PNG phone invites.",
+                "Make invitations editable via a Canva template link in an 'access' PDF.",
+                "Upload to Etsy as a digital download and test the download."
+              ],
+              "asymmetry": {
+                "badBetIf": "The 2016 trend has already peaked (it was 'widely noticed' early 2026) and holiday hosts don't adopt it",
+                "downside": "About 10-12 hours, $0-14 cash",
+                "upside": "Zero marginal cost; reusable for birthdays and NYE all year while the 2016 nostalgia lasts"
+              },
+              "costs": {
+                "baseCost": null,
+                "basis": "estimate: verify in the provider catalog",
+                "item": null,
+                "provider": null,
+                "shipping": null,
+                "testBudget": 14,
+                "testBudgetNote": "Etsy ads $1/day for 14 days from about Nov 1 only if organic favourites appear"
+              },
+              "extensions": [
+                "New Year's Eve 'back to 2016' edition",
+                "10th-birthday kids' version for children born in 2016",
+                "Bachelorette/30th birthday version",
+                "Editable trivia template"
+              ],
+              "imagePrompts": [
+                {
+                  "prompt": "Soft pastel gradient background in #F4C2C2, #CDB8E8 and #BDE3D0 with tiny fairy-light bokeh dots and a few hand-drawn stars, early-2010s blog aesthetic, large empty center area for text, portrait 5:7 aspect ratio, no text, no logos, no real people, no trademarked characters, no watermarks",
+                  "purpose": "Invitation and cover background",
+                  "tool": "Ideogram or ChatGPT images"
+                },
+                {
+                  "prompt": "Retro chunky serif headline reading exactly \"Party Like It's 2016\" in #2E2A33 with a coral #F28C6F drop shadow, small sparkles, transparent background, 3:1 aspect ratio, no logos, no real people, no trademarked characters, no watermarks",
+                  "purpose": "Headline lettering",
+                  "tool": "Ideogram"
+                },
+                {
+                  "prompt": "Flat lay of printed pastel party cards, trivia sheets and speech-bubble photo props on a white table with string lights and autumn leaves, top-down, 4:5 aspect ratio, no readable brand text, no logos, no real people, no trademarked characters, no watermarks",
+                  "purpose": "Etsy listing mockup",
+                  "tool": "Canva mockup"
+                }
+              ],
+              "listingPrompt": "Write an Etsy listing for a printable throwback party kit for adults: 'Party Like It's 2016' Friendsgiving and holiday party kit. Title under 140 characters starting with '2016 Throwback Party Kit' and including Friendsgiving, printable games and editable invitation. 13 tags of 20 characters or fewer. Description: list every item, US Letter + A4 PDFs, Canva-editable invites, instant download, print at home. FAQ: is it editable?, can I use it for a birthday?, does it include music? (no - playlist planner only). Forbid any brand, app, celebrity, song, film, TV or game names and any 'official' claims.",
+              "marketing": {
+                "channels": [
+                  {
+                    "cadence": "5-7 pins/week until Dec 15",
+                    "channel": "Pinterest",
+                    "tactic": "Friendsgiving theme and throwback party pins"
+                  },
+                  {
+                    "cadence": "3/week",
+                    "channel": "TikTok",
+                    "tactic": "Host-POV videos using the kit; then-vs-now prompts as hooks"
+                  },
+                  {
+                    "cadence": "2/week",
+                    "channel": "Instagram",
+                    "tactic": "Trivia carousels"
+                  }
+                ],
+                "hooks": [
+                  "Hosting a 2016 Friendsgiving this year",
+                  "Recreate your 2016 group photo",
+                  "Who in your friend group is the most 2016?"
+                ],
+                "keywords": [
+                  "2016 party",
+                  "friendsgiving games",
+                  "throwback party",
+                  "friendsgiving theme",
+                  "holiday party games",
+                  "2016 throwback"
+                ],
+                "launchPlan": [
+                  {
+                    "action": "Publish on Etsy and Gumroad",
+                    "day": "Day 0"
+                  },
+                  {
+                    "action": "TikTok/Reel: 'how to host a 2016 Friendsgiving' showing the kit",
+                    "day": "Day 1"
+                  },
+                  {
+                    "action": "10 Pinterest pins: Friendsgiving theme ideas, 2016 party ideas",
+                    "day": "Day 3"
+                  },
+                  {
+                    "action": "Post a sample of 5 trivia questions as a carousel (free value)",
+                    "day": "Day 6"
+                  },
+                  {
+                    "action": "Check views/favourites; test a second main photo",
+                    "day": "Day 10"
+                  },
+                  {
+                    "action": "Add a holiday-party (December) variant to the listing photos",
+                    "day": "Day 14"
+                  },
+                  {
+                    "action": "Go/pivot/stop: continue if 3+ sales; pivot to a '10th birthday 2016' kids' version or New Year's Eve 2016 party if views but no sales; stop if under 150 views",
+                    "day": "Day 21"
+                  }
+                ],
+                "positioning": "The ready-made 2016 throwback Friendsgiving: print it tonight, recreate your old group photo, crown who was most 2016."
+              },
+              "platforms": [
+                {
+                  "name": "Etsy",
+                  "role": "primary",
+                  "why": "Party printables and Friendsgiving games are searched there"
+                },
+                {
+                  "name": "Gumroad",
+                  "role": "secondary",
+                  "why": "Direct link for TikTok/Instagram traffic"
+                },
+                {
+                  "name": "Pinterest",
+                  "role": "traffic",
+                  "why": "Friendsgiving and themed-party planning starts on Pinterest in October"
+                }
+              ],
+              "pricing": {
+                "basis": "estimate",
+                "currency": "USD",
+                "high": 12,
+                "low": 6,
+                "rationale": "Printable party bundles with games and editable invites commonly sell in the high single digits; adult holiday positioning supports the middle of that range",
+                "recommended": 9
+              },
+              "productName": "Party Like It's 2016: Throwback Friendsgiving & Holiday Party Kit",
+              "risks": [
+                "2016 nostalgia may be fading by late 2026",
+                "Hard to be evocative of 2016 without brand/IP references - generic copy may feel flat",
+                "Friendsgiving window ends Nov 26"
+              ],
+              "superPrompt": "You are a party-game writer and printable designer. Produce the complete content for a printable party kit called \"Party Like It's 2016: Throwback Friendsgiving & Holiday Party Kit\".\n\nBUYER AND JOB: Adults 24-35 hosting a Friendsgiving or December holiday party for friends who were in high school or college around 2016. They have seen the \"2026 is the new 2016\" posts and want a ready-made theme: invitations, games and decor they can print tonight and that make the group laugh about who they were ten years ago. Low effort, cheap, casual hosting.\n\nDELIVERABLE SPEC (every printable in US Letter 8.5 x 11 in AND A4; invitations also 5 x 7 in and 1080 x 1920 px phone version):\n1. Invitations (2 versions: Friendsgiving and holiday party) with placeholders [HOST], [DATE], [ADDRESS], [DRESS CODE: 2016 outfits].\n2. \"Recreate the group photo\" challenge card with 5 rules and scoring.\n3. \"2016 Throwback Trivia\": 40 questions with answers, about general 2016 culture and life (technology habits, slang, fashion items, food fads, world events stated neutrally, sports results, weather/space facts). Only verifiable facts; every answer must be checkable on a general encyclopedia. No questions requiring song lyrics, and do not quote lyrics.\n4. \"Then vs Now\" icebreaker cards: 24 prompts (\"Your 2016 phone wallpaper was...\", \"A thing you were sure would last forever\").\n5. \"Who was most 2016?\" superlative award certificates (10 categories, blank name lines).\n6. Food labels / tent cards: 12 generic 2016-era snack and drink descriptions (e.g. \"rainbow everything\", \"avocado on toast\") - generic food names only.\n7. Photo-booth props: 12 speech-bubble signs with original 2016-style slang phrases you write yourself.\n8. Playlist planner page with blank lines (the host fills in songs; you list none).\n9. Host checklist and a 1-page run-of-show (90 minutes).\n\nSTYLE: early-2010s blog look done tastefully: soft pastel gradients, fairy-light dots, washed film-photo frames, a touch of chunky serif. Canva font pairings: (a) \"Abril Fatface\" + \"Quicksand\"; (b) \"Playfair Display\" + \"Montserrat\". Palette: millennial pink #F4C2C2, mint #BDE3D0, lavender #CDB8E8, sunset coral #F28C6F, ink #2E2A33, paper white #FFFDF9.\n\nRIGHTS AND ACCURACY RULES: No brand names, app names, product names, logos, celebrity names, song titles, lyrics, film or TV titles, game titles, or meme characters anywhere. Describe habits generically (e.g. \"everyone added animal-ear photo filters\") and avoid any wording that identifies a specific trademarked product, app or game. Trivia must be facts, phrased neutrally, no politics or tragedies. If unsure a fact is right, drop the question.\n\nDIFFERENTIATION: Existing 2016 supply is mostly 10th-birthday kids' decor and generic invites; this is an adult holiday kit with games built on the group's own memories (photo recreation, then-vs-now).\n\nOUTPUT: Page-by-page text exactly as printed, then the trivia answer key, then a layout note per page for Canva.\n\nSELF-CHECK: no brand/IP/celebrity/song/lyric names anywhere; 40 trivia questions each with a verifiable answer; both sizes noted; placeholders in brackets; tone friendly, no mean jokes."
+            },
+            "rightsNote": "No brands, apps, celebrities, songs, lyrics, films or meme characters; fact-checked trivia",
+            "stopIf": "Under 150 views by Nov 15",
+            "theme": "Party Like It's 2016: printable throwback Friendsgiving and holiday party kit (invites, trivia, photo-recreation game, superlatives)",
+            "validationTest": "List by Oct 25; 25 Pinterest pins and 6 short videos over 3 weeks",
+            "whyBuy": "A ready-made theme that turns the 2016 nostalgia posts into a party in one evening of printing"
+          }
+        ],
+        "recommendedAction": "prepare",
+        "rights": {
+          "note": "2016 nostalgia leans on brands, apps, songs, memes and celebrities. Keep everything generic: no logos, app or product names, song titles, lyrics, celebrity names or meme characters; trivia uses neutral facts only.",
+          "risk": "medium"
+        },
+        "scores": {
+          "buyerIntent": {
+            "basis": "reported",
+            "rationale": "Only planning-interest signals; no purchase evidence",
+            "score": 1
+          },
+          "durability": {
+            "basis": "qualitative",
+            "rationale": "Holiday window ends in December; parent trend aging",
+            "score": 2
+          },
+          "economics": {
+            "basis": "qualitative",
+            "rationale": "Digital, zero marginal cost, reusable for NYE and birthdays",
+            "score": 4
+          },
+          "productFit": {
+            "basis": "qualitative",
+            "rationale": "Party printables are a proven Etsy digital format",
+            "score": 4
+          },
+          "supplyGap": {
+            "basis": "qualitative",
+            "rationale": "No adult holiday 2016 kit surfaced; supply is kids' birthday decor and invites",
+            "score": 4
+          },
+          "timing": {
+            "basis": "qualitative",
+            "rationale": "Seasonal application is new, but the parent trend may be past its peak",
+            "score": 3
+          }
+        },
+        "spread": {
+          "evidence": [
+            "e2",
+            "e3",
+            "e4",
+            "e5",
+            "e7",
+            "e8",
+            "e10"
+          ],
+          "text": "The parent trend has independent press (Wikipedia entry, The Spectator, fashion magazines). The specific holiday-party use is thin: one Friendsgiving guide plus generic 2016-party hubs on Pinterest and TikTok and nostalgia called out in Christmas party trend roundups."
+        },
+        "summary": "Hosts are starting to apply the '2026 is the new 2016' nostalgia trend to Friendsgiving and holiday parties, with outfits, old group-photo recreations and 2016 snacks.",
+        "trajectory": {
+          "evidence": [
+            "e1",
+            "e2"
+          ],
+          "stage": "first_spark",
+          "text": "The parent trend is mature (since early 2026); its seasonal application to Friendsgiving and holiday parties is new and lightly documented. The risk is that the parent trend is past peak."
+        },
+        "unresolved": [
+          "Do '2016 Friendsgiving' or '2016 Christmas party' posts appear on TikTok/Instagram in November?",
+          "Is the parent '2026 is the new 2016' trend still getting new coverage in Q4?",
+          "Do Etsy sellers start listing adult 2016 holiday kits (demand and competition signal)?"
+        ],
+        "what": "An application of the documented '2026 is the new 2016' trend to Nov-Dec gatherings: guests dress in 2016 fashion, recreate an old group photo, play a 2016 playlist and eat the snacks their group ate back then. A Friendsgiving guide lists '2016 Friendsgiving' as a theme, and Pinterest and TikTok have 2016-themed-party hubs.",
+        "window": {
+          "endEstimate": null,
+          "estimate": "Mid-October to mid-December 2026",
+          "invalidators": [
+            "2016 nostalgia coverage dries up in Q4",
+            "No 2016-themed Friendsgiving posts appear in November"
+          ],
+          "reasoning": "Friendsgivings cluster in the weekends before Thanksgiving (Nov 26, 2026), holiday parties run to about Dec 19. Digital delivery is instant, so the last useful sale is around the last pre-Christmas weekend.",
+          "seasonality": "Friendsgiving (early-late Nov) then December parties; reusable for NYE and birthdays",
+          "sellBy": "2026-12-18"
+        }
+      }
+    ],
+    "kind": "discover",
+    "lens": "First-spark hunt: Nov-Dec 2026 cultural moments",
+    "researchedAt": "2026-10-04T23:55:30Z",
+    "sourcesTried": [
+      {
+        "method": "web search",
+        "note": "~45 queries across holidays, gifting formats, word-of-the-year, TikTok/Instagram trend roundups; all evidence below comes from search-result snippets",
+        "source": "WebSearch (standard and extended)",
+        "status": "ok"
+      },
+      {
+        "method": "WebFetch",
+        "note": "egress proxy blocks the domain",
+        "source": "klfy.com (Dipsgiving article)",
+        "status": "blocked"
+      },
+      {
+        "method": "WebFetch",
+        "note": "egress proxy",
+        "source": "insightagent.app (Etsy fall trend report 2026)",
+        "status": "blocked"
+      },
+      {
+        "method": "WebFetch",
+        "note": "egress proxy",
+        "source": "blog.pressloft.com (Christmas 2026 trends)",
+        "status": "blocked"
+      },
+      {
+        "method": "WebFetch",
+        "note": "egress proxy",
+        "source": "newengen.com (October 2026 TikTok trends)",
+        "status": "blocked"
+      },
+      {
+        "method": "WebFetch",
+        "note": "egress proxy",
+        "source": "napoleoncat.com (October 2026 TikTok trends)",
+        "status": "blocked"
+      },
+      {
+        "method": "WebFetch",
+        "note": "egress proxy",
+        "source": "ramd.am (TikTok/Instagram trend roundups)",
+        "status": "blocked"
+      },
+      {
+        "method": "WebFetch",
+        "note": "egress proxy",
+        "source": "socialbee.com (Sept 29 2026 TikTok trends)",
+        "status": "blocked"
+      },
+      {
+        "method": "WebFetch",
+        "note": "egress proxy",
+        "source": "epidemicsound.com (latest TikTok trends)",
+        "status": "blocked"
+      },
+      {
+        "method": "direct fetch",
+        "note": "network policy blocks most direct fetches; seen only as search-result titles",
+        "source": "TikTok, Etsy, Pinterest, Reddit, Google Trends",
+        "status": "not_tried"
+      }
+    ]
+  },
+  "runId": "run-hunt-moments-20261004-2",
+  "status": "new"
+}

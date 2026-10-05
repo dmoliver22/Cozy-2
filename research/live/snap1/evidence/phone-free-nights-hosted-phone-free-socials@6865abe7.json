@@ -1,0 +1,19 @@
+{
+  "accessMethod": "web_search_result",
+  "candidateId": "phone-free-nights-hosted-phone-free-socials",
+  "claim": "Event planners are looking for guidance on running phone-free events.",
+  "excerpt": "Should Your Next Event Be Phone-Free?",
+  "firstRetrievedAt": "2026-10-05T00:00:55Z",
+  "firstSeenRunId": "run-hunt-hobbies-20261004-4",
+  "id": "phone-free-nights-hosted-phone-free-socials~6865abe7",
+  "intent": "utility",
+  "kind": "observed",
+  "lastSeenRunId": "run-hunt-hobbies-20261004-4",
+  "publishedAt": null,
+  "publisher": "BizBash",
+  "retrievedAt": "2026-10-05T00:00:55Z",
+  "signalType": "press",
+  "syndicationOf": null,
+  "title": "Should Your Next Event Be Phone-Free?",
+  "url": "https://www.bizbash.com/event-production-planning/should-your-next-event-be-phone-free"
+}

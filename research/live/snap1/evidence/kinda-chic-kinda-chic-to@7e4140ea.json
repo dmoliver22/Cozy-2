@@ -1,0 +1,19 @@
+{
+  "accessMethod": "web_search_result",
+  "candidateId": "kinda-chic-kinda-chic-to",
+  "claim": "Syndicated copy of the Hola! USA article.",
+  "excerpt": "Same headline on Yahoo.",
+  "firstRetrievedAt": "2026-10-04T20:57:55Z",
+  "firstSeenRunId": "run-2026-10-04-memes",
+  "id": "kinda-chic-kinda-chic-to~7e4140ea",
+  "intent": "curiosity",
+  "kind": "observed",
+  "lastSeenRunId": "run-2026-10-04-memes",
+  "publishedAt": null,
+  "publisher": "Yahoo Entertainment (syndicated)",
+  "retrievedAt": "2026-10-04T20:57:55Z",
+  "signalType": "press",
+  "syndicationOf": "kinda-chic-kinda-chic-to~f7425bec",
+  "title": "Why the 'Kinda Chic' trend has celebrities joining in",
+  "url": "https://www.yahoo.com/entertainment/celebrity/articles/why-kinda-chic-trend-celebrities-220029708.html"
+}

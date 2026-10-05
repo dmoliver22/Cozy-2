@@ -1,0 +1,23 @@
+{
+  "action": "prepare",
+  "analystAction": "prepare",
+  "candidateId": "i-can-t-do-nathan",
+  "competition": "none_found",
+  "confidence": 52,
+  "id": "i-can-t-do-nathan~run-hunt-memes-20261004-4",
+  "independentSources": 8,
+  "purchaseSignals": 0,
+  "runId": "run-hunt-memes-20261004-4",
+  "score": 52,
+  "stage": "early_growth",
+  "takenAt": "2026-10-05T00:00:47Z",
+  "weightsUsed": {
+    "buyerIntent": 20,
+    "durability": 15,
+    "economics": 10,
+    "productFit": 15,
+    "supplyGap": 15,
+    "timing": 25
+  },
+  "windowEstimate": "4-8 weeks"
+}

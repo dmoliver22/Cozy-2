@@ -1,0 +1,19 @@
+{
+  "accessMethod": "web_search_result",
+  "candidateId": "whimsymaxxing-bedazzle-everything-diy",
+  "claim": "International coverage; ties the late-August surge to a viral celebrity birthday cake (context only).",
+  "excerpt": "Bedazzling has suddenly escaped the jewellery box and taken over everything from phone cases and coffee cups to cakes, beauty products, nails, clothes, and accessories.",
+  "firstRetrievedAt": "2026-10-05T00:00:55Z",
+  "firstSeenRunId": "run-hunt-hobbies-20261004-3",
+  "id": "whimsymaxxing-bedazzle-everything-diy~28f9f3a2",
+  "intent": "curiosity",
+  "kind": "observed",
+  "lastSeenRunId": "run-hunt-hobbies-20261004-3",
+  "publishedAt": null,
+  "publisher": "Free Press Journal",
+  "retrievedAt": "2026-10-05T00:00:55Z",
+  "signalType": "press",
+  "syndicationOf": null,
+  "title": "Your Cake Needs Rhinestones Now? Inside The 'Bedazzled-Everything' Trend",
+  "url": "https://www.freepressjournal.in/lifestyle/your-cake-needs-rhinestones-now-inside-the-bedazzled-everything-trend-going-viral-on-internet"
+}

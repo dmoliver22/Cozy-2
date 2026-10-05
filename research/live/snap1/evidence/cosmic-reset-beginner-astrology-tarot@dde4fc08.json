@@ -1,0 +1,19 @@
+{
+  "accessMethod": "web_search_result",
+  "candidateId": "cosmic-reset-beginner-astrology-tarot",
+  "claim": "Commentary from outside the astrology community notes sustained Gen Z interest in astrology before the 2026 Pinterest spike.",
+  "excerpt": "Search summary: Gen Z is driving astrology interest, using it to answer life's big questions.",
+  "firstRetrievedAt": "2026-10-04T21:00:56Z",
+  "firstSeenRunId": "run-2026-10-04-aesthetics",
+  "id": "cosmic-reset-beginner-astrology-tarot~dde4fc08",
+  "intent": "none",
+  "kind": "observed",
+  "lastSeenRunId": "run-2026-10-04-aesthetics",
+  "publishedAt": "2025-06-12",
+  "publisher": "Church & Culture",
+  "retrievedAt": "2026-10-04T21:00:56Z",
+  "signalType": "community",
+  "syndicationOf": null,
+  "title": "Gen Z and the Rise of Astrology",
+  "url": "https://www.churchandculture.org/blog/2025/6/12/gen-z-and-the-rise-of-astrology"
+}

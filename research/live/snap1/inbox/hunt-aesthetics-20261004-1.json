@@ -1,0 +1,658 @@
+{
+  "createdAt": "2026-10-04T23:58:00Z",
+  "jobId": "hunt-aesthetics-20261004",
+  "processedAt": "2026-10-05T00:00:32.474Z",
+  "raw": {
+    "candidates": [
+      {
+        "actionRationale": "Products are cheap to build, the hook lasts about a year, and nobody has clearly claimed the 'celery green' space. Build a small set now and index it on Pinterest before the spring refresh. There is no purchase evidence yet, so do not spend on ads.",
+        "adopters": {
+          "evidence": [
+            "e2",
+            "e4",
+            "e3"
+          ],
+          "text": "So far mostly design press, paint retailers and commenters. No evidence yet of consumers decorating or buying in this color because of the announcement."
+        },
+        "aliases": [
+          "celery green",
+          "soft herbal green",
+          "Soulful Sage",
+          "2027 color of the year green"
+        ],
+        "category": "aesthetic",
+        "competition": {
+          "evidence": [
+            "e8"
+          ],
+          "level": "unknown",
+          "text": "Green wall art in general is heavily supplied. No print or printable sets named for 'celery green' showed up in search, but Etsy was not fetched."
+        },
+        "evidence": [
+          {
+            "accessMethod": "web_search_result",
+            "claim": "Sherwin-Williams named Celery SW 6421 its 2027 Color of the Year, announced Sept. 15",
+            "excerpt": "Sherwin-Williams announced on Sept. 15 that Celery SW 6421, a soft, muted green with subtle yellow undertones, will carry the title into 2027",
+            "id": "e1",
+            "intent": "none",
+            "kind": "observed",
+            "publishedAt": null,
+            "publisher": "PCI Magazine",
+            "retrievedAt": "2026-10-04T23:58:00Z",
+            "signalType": "press",
+            "syndicationOf": null,
+            "title": "Sherwin-Williams Names 2027 Color of the Year",
+            "url": "https://www.pcimag.com/articles/115227-sherwin-williams-names-2027-color-of-the-year"
+          },
+          {
+            "accessMethod": "web_search_result",
+            "claim": "Decor press frames Celery as a new calming green distinct from sage/olive",
+            "excerpt": "Calming Green As Its Color of the Year 2027 – and No, It's Not Sage or Olive",
+            "id": "e2",
+            "intent": "none",
+            "kind": "observed",
+            "publishedAt": "2026-09-15",
+            "publisher": "Homes & Gardens",
+            "retrievedAt": "2026-10-04T23:58:00Z",
+            "signalType": "press",
+            "syndicationOf": "e1",
+            "title": "Sherwin-Williams Just Announced This Calming Green As Its Color of the Year 2027",
+            "url": "https://www.homesandgardens.com/decor/paint/sherwin-williams-color-of-the-year-2027"
+          },
+          {
+            "accessMethod": "web_search_result",
+            "claim": "Social users mocked the color (hospital green, vomit, backrooms), showing attention beyond decor press",
+            "excerpt": "Social media users compared the shade to hospital walls, vomit and \"backrooms colours\"... \"I'm so sick of muted colors\"",
+            "id": "e3",
+            "intent": "criticism",
+            "kind": "observed",
+            "publishedAt": null,
+            "publisher": "Complex",
+            "retrievedAt": "2026-10-04T23:58:00Z",
+            "signalType": "social",
+            "syndicationOf": null,
+            "title": "Celery Just Became a 'Color of the Year' for 2027",
+            "url": "https://www.complex.com/life/a/maggie-ekberg/celery-2027-color-of-the-year"
+          },
+          {
+            "accessMethod": "web_search_result",
+            "claim": "Designers describe Celery as a blend of khaki, butter yellow and sage, a 'tinted neutral'",
+            "excerpt": "a blend of khaki, trending butter yellow, and sage green—a \"tinted neutral\"",
+            "id": "e4",
+            "intent": "none",
+            "kind": "observed",
+            "publishedAt": null,
+            "publisher": "Hunker",
+            "retrievedAt": "2026-10-04T23:58:00Z",
+            "signalType": "press",
+            "syndicationOf": "e1",
+            "title": "Sherwin-Williams' 2027 Color Of The Year Brings A Fresh, Whimsical Calm",
+            "url": "https://www.hunker.com/2257361/sherwin-williams-color-of-the-year-2027-celery-paint/"
+          },
+          {
+            "accessMethod": "web_search_result",
+            "claim": "A second major paint brand independently chose a soft pale green (Soulful Sage) for 2027 a week earlier",
+            "excerpt": "Dulux has announced its 2027 Colour of the Year as 'Soulful Sage'... an ethereal, soft and silvery green",
+            "id": "e5",
+            "intent": "none",
+            "kind": "observed",
+            "publishedAt": "2026-09-08",
+            "publisher": "Dezeen",
+            "retrievedAt": "2026-10-04T23:58:00Z",
+            "signalType": "press",
+            "syndicationOf": null,
+            "title": "Sage green is the Dulux Colour of the Year 2027",
+            "url": "https://dezeen.com/2026/09/08/sage-green-colour-year-2027-dulux"
+          },
+          {
+            "accessMethod": "web_search_result",
+            "claim": "Multiple 2027 colors already announced (PPG Country Soil, Glidden Artifact, Valspar Cottage Door, Dunn-Edwards French Press Coffee), so the green picks compete with other palettes",
+            "excerpt": "Every Color of the Year We Know So Far — The 2027 Shades From the Biggest Paint Brands",
+            "id": "e6",
+            "intent": "none",
+            "kind": "observed",
+            "publishedAt": null,
+            "publisher": "Homes & Gardens",
+            "retrievedAt": "2026-10-04T23:58:00Z",
+            "signalType": "press",
+            "syndicationOf": null,
+            "title": "Every Color of the Year We Know So Far — The 2027 Shades",
+            "url": "https://www.homesandgardens.com/decor/paint/colors-of-the-year-2027"
+          },
+          {
+            "accessMethod": "web_search_result",
+            "claim": "Local-news syndication extends reach of the announcement to general audiences",
+            "excerpt": "Vegetable-named hue picked as 2027 Sherwin-Williams Color of the Year",
+            "id": "e7",
+            "intent": "curiosity",
+            "kind": "observed",
+            "publishedAt": null,
+            "publisher": "MyHighPlains (Nexstar)",
+            "retrievedAt": "2026-10-04T23:58:00Z",
+            "signalType": "press",
+            "syndicationOf": "e1",
+            "title": "Vegetable-named hue picked as 2027 Sherwin-Williams Color of the Year",
+            "url": "https://www.myhighplains.com/entertainment-news/vegetable-named-hue-picked-as-2027-sherwin-williams-color-of-the-year/"
+          },
+          {
+            "accessMethod": "web_search_result",
+            "claim": "Generic green wall art is widely supplied by large retailers; no celery-named print supply surfaced in search",
+            "excerpt": "Green Wall Art Prints",
+            "id": "e8",
+            "intent": "none",
+            "kind": "observed",
+            "publishedAt": null,
+            "publisher": "Crate & Barrel",
+            "retrievedAt": "2026-10-04T23:58:00Z",
+            "signalType": "marketplace",
+            "syndicationOf": null,
+            "title": "Green Wall Art Prints",
+            "url": "https://www.crateandbarrel.com/decorating-and-accessories/prints/1/filters/green-wall-art-prints-3712"
+          }
+        ],
+        "gap": {
+          "isInference": true,
+          "text": "No coordinated 'celery green' printable sets turned up: matched wall-art sets, palette cards with coordinating hexes, and phone wallpapers for people repainting or freshening a room in the new green."
+        },
+        "name": "Celery green: the soft herbal green of 2027",
+        "observations": [],
+        "origin": {
+          "date": "2026-09-15",
+          "evidence": [
+            "e1",
+            "e5"
+          ],
+          "text": "Dulux announced Soulful Sage on 2026-09-08; Sherwin-Williams announced Celery on 2026-09-15."
+        },
+        "productDemand": {
+          "evidence": [
+            "e3"
+          ],
+          "text": "No purchase evidence found. Interest is curiosity and criticism. Any demand for celery-green prints is an inference from how earlier colors of the year turned into decor palettes."
+        },
+        "products": [
+          {
+            "buyer": "US renters and homeowners (25-45) refreshing a room in soft green who want matching art without buying paint",
+            "channels": [
+              "Etsy",
+              "Pinterest",
+              "Payhip"
+            ],
+            "continueIf": "At least 3 sales or 40 favorites in 21 days, or pins with above-average saves",
+            "differentiation": "Built around one named green family, with a palette card of coordinating hexes and both US and A4 sizes. Most generic green art comes as one-off prints.",
+            "effort": "low",
+            "effortHours": 8,
+            "evidence": [
+              "e1",
+              "e5",
+              "e3"
+            ],
+            "format": "printable",
+            "fulfillment": "digital",
+            "leadTimeDays": 3,
+            "pivotIf": "Views but no sales: test celery phone wallpapers or a 'celery + butter yellow' kitchen set",
+            "playbook": {
+              "assembly": [
+                "Generate each print with the image prompts; upscale to at least 7200x10800 px for 2:3",
+                "In Canva create custom-size designs for each ratio (2:3, 3:4, 4:5, 11x14, ISO A) and place art with 0.25 in safe margins",
+                "Add the 'fresh start' text in Canva using pairing A if the AI-rendered text is imperfect",
+                "Build the palette card on US Letter and A4 with 6 swatches, invented names and hexes",
+                "Export every file as PDF Print (300 DPI) and JPG (300 DPI); name files by print and ratio",
+                "Zip by ratio (keep each zip under 20 MB for Etsy) and add a 1-page PDF with download/print instructions",
+                "Create 5 listing images: hero mockup, set overview grid, palette card, sizes chart, 'what you get' page"
+              ],
+              "asymmetry": {
+                "badBetIf": "Consumers reject the color and the general green-art market stays saturated, so the set never ranks",
+                "downside": "About 8 hours and under $5 in listing fees",
+                "upside": "Zero marginal cost, evergreen green-decor keywords, the hook lasts through 2027 and the set extends into a series"
+              },
+              "costs": {
+                "baseCost": null,
+                "basis": "estimate: digital download, only Etsy listing ($0.20) and transaction fees",
+                "item": null,
+                "provider": null,
+                "shipping": null,
+                "testBudget": 0,
+                "testBudgetNote": "No ads until organic favorites/sales show demand"
+              },
+              "extensions": [
+                "Celery green phone wallpaper pack",
+                "Nursery version with baby herbs",
+                "Celery + butter yellow kitchen set",
+                "Seasonal 'spring refresh' bundle"
+              ],
+              "imagePrompts": [
+                {
+                  "prompt": "Loose botanical line drawing of a single celery stalk with leaves, fine ink lines with soft watercolor wash in #C8C99A and #6E7A4E, centered vertical composition with generous margins, warm cream background #F6F1E4, vintage herbarium feel, no text, 2:3 aspect ratio, flat solid background. No logos, no real people, no trademarked characters, no watermarks.",
+                  "purpose": "Print 1 celery botanical",
+                  "tool": "Ideogram or Midjourney"
+                },
+                {
+                  "prompt": "Mid-century abstract composition of overlapping arches and a half circle, matte gouache texture, colors #C8C99A, #DDE0C2, #EFE3B0, #6E7A4E on #F6F1E4, balanced asymmetric layout, subtle paper grain, no text, 2:3 aspect ratio. No logos, no real people, no trademarked characters, no watermarks.",
+                  "purpose": "Print 2 abstract arches",
+                  "tool": "Ideogram or Midjourney"
+                },
+                {
+                  "prompt": "Minimal typographic poster, the exact words 'fresh start' in small caps elegant serif, centered, color #6E7A4E on solid #DDE0C2 background, tiny celery leaf sprig under the text, lots of negative space, 4:5 aspect ratio. No logos, no real people, no trademarked characters, no watermarks.",
+                  "purpose": "Print 5 typography",
+                  "tool": "Ideogram"
+                },
+                {
+                  "prompt": "Bright Scandinavian-style living room wall with three framed prints in thin oak frames above a cream linen sofa, soft daylight, walls in pale herb green #DDE0C2, plants, photographic, 4:5 aspect ratio, frames left blank for compositing. No logos, no real people, no trademarked characters, no watermarks.",
+                  "purpose": "Listing mockup",
+                  "tool": "Canva mockup or Midjourney"
+                }
+              ],
+              "listingPrompt": "Write an Etsy listing for a digital download: a set of 6 printable botanical and abstract wall art prints in soft celery green with a palette card. Title under 140 characters that starts with the buyer's search phrase (for example 'Celery Green Wall Art Set of 6'). Give exactly 13 tags, each 20 characters or fewer, mixing color, room and style terms (sage green decor, botanical print set, kitchen wall art). Description: what's included (6 prints, palette card, print guide), every size and ratio, file formats (PDF, JPG, 300 DPI), that nothing physical ships, how to download, and printing tips. Add a short FAQ: Can I print at a print shop? Will colors match my wall paint? (Answer honestly: screens and printers vary; not matched to any paint brand.) Refund policy for digital items. Do NOT use any paint brand names, paint codes, 'Pantone', or trademarked phrases. Keep a calm, warm tone.",
+              "marketing": {
+                "channels": [
+                  {
+                    "cadence": "1-2 pins daily",
+                    "channel": "Pinterest",
+                    "tactic": "Room-scene mockups and palette pins linking to listing"
+                  },
+                  {
+                    "cadence": "2 per week",
+                    "channel": "TikTok/Instagram Reels",
+                    "tactic": "'Would you paint your room this green?' poll-style video riding the backlash conversation"
+                  }
+                ],
+                "hooks": [
+                  "The internet hates the new color of the year. Here's how to make it work",
+                  "Try the 2027 green without picking up a paintbrush",
+                  "Celery green, but make it calm"
+                ],
+                "keywords": [
+                  "celery green decor",
+                  "sage green wall art",
+                  "soft green printable",
+                  "botanical print set",
+                  "green kitchen art",
+                  "2027 home decor"
+                ],
+                "launchPlan": [
+                  {
+                    "action": "Publish full set and mini set on Etsy and Payhip",
+                    "day": "Day 0"
+                  },
+                  {
+                    "action": "Create Pinterest board 'Celery green home' and post 5 pins (mockups, palette card)",
+                    "day": "Day 1"
+                  },
+                  {
+                    "action": "Post a 15-second Reel/TikTok of the palette card and prints flipping on screen",
+                    "day": "Day 3"
+                  },
+                  {
+                    "action": "Add 5 more pins using room-specific titles (kitchen, bedroom, nursery)",
+                    "day": "Day 5"
+                  },
+                  {
+                    "action": "Check Etsy stats; rewrite title/tags if under 50 views",
+                    "day": "Day 7"
+                  },
+                  {
+                    "action": "Publish a free celery-green phone wallpaper as a lead magnet pin linking to Payhip",
+                    "day": "Day 10"
+                  },
+                  {
+                    "action": "Add 5 pins; test a 'celery + butter yellow' variation listing",
+                    "day": "Day 14"
+                  },
+                  {
+                    "action": "Go/pivot/stop: continue at 3+ sales or 40 favorites; pivot to wallpapers if views but no sales; stop under 150 views",
+                    "day": "Day 21"
+                  }
+                ],
+                "positioning": "The calm, fresh green set for 2027 rooms: matching art plus a palette card, no repainting needed"
+              },
+              "platforms": [
+                {
+                  "name": "Etsy",
+                  "role": "primary",
+                  "why": "Main marketplace for printable wall art buyers"
+                },
+                {
+                  "name": "Payhip",
+                  "role": "secondary",
+                  "why": "Direct link for Pinterest traffic, lower fees"
+                },
+                {
+                  "name": "Pinterest",
+                  "role": "traffic",
+                  "why": "Color-led room inspiration is searched and saved there; free reach without an audience"
+                }
+              ],
+              "pricing": {
+                "basis": "estimate",
+                "currency": "USD",
+                "high": 18,
+                "low": 8,
+                "rationale": "Mid-range for a 6-print digital set; launch at $12 with a 3-print mini at $6 to test",
+                "recommended": 12
+              },
+              "productName": "Celery Green Botanical Wall Art Set (6 prints + palette card)",
+              "risks": [
+                "The backlash may mean consumers never adopt the color",
+                "Green wall art is crowded under generic keywords",
+                "Color accuracy complaints from home printing"
+              ],
+              "superPrompt": "You are a print designer and home-decor copywriter producing a complete, sellable printable wall-art set. BUYER: US renters and homeowners aged 25-45 freshening a living room, kitchen or bedroom in the soft, yellow-leaning herbal green that design press is calling the color of 2027. They want art that matches without repainting, they print at home or at a local print shop, and they want a calm, airy, slightly vintage feel. DELIVERABLE: a 6-print set plus 1 palette card, all designed to hang together. For each print give: title, concept, a full image-generation prompt, layout notes, and any text to place in Canva. Print 1: a single celery stalk and leaves in loose botanical line drawing. Print 2: an abstract arch-and-circle composition in four greens. Print 3: pressed-herb study (parsley, dill, fennel frond) in a vintage plate style. Print 4: soft color-block landscape (hills, sun) in tinted neutrals. Print 5: a minimal typographic print reading 'fresh start' in small caps. Print 6: a still life of a ceramic pitcher with greens. Palette card: 6 swatches with your own invented names (never paint brand names) and hex codes. SIZES: export each print at 2:3 (24x36, 16x24, 8x12 in), 3:4 (18x24, 12x16 in), 4:5 (16x20, 8x10 in), 11x14 in and ISO A1-A5, all at 300 DPI, plus US Letter 8.5x11 in and A4 versions of the palette card. PALETTE: Celery #C8C99A, Pale Herb #DDE0C2, Butter #EFE3B0, Khaki Stone #B8AE88, Deep Fennel #6E7A4E, Warm Cream #F6F1E4. FONTS (Canva): pairing A, Cormorant Garamond headings with Montserrat body; pairing B, Playfair Display with Lato. CONTENT RULES: all art and wording original; do not imitate any living artist's signature style; botanical details must be plausible (a celery stalk has ribbed, U-shaped stalks and toothed leaflets). DIFFERENTIATION: one cohesive green family across all six prints, a palette card that helps the buyer match pillows and paint, and both US and A4 sizes in one download. RIGHTS: never mention Sherwin-Williams, Dulux, any paint brand, paint codes or 'Color of the Year' as a trademarked phrase; never claim an exact paint match; no logos, no real people. OUTPUT FORMAT: Section 1, set overview (3 sentences). Sections 2-7, one per print with the fields above. Section 8, the palette card with swatch names and hexes. Section 9, a printable 'How to print' page (home printer settings, print-shop sizes, paper suggestions). Section 10, a one-page buyer thank-you note with framing tips. SELF-CHECK before answering: (1) no brand names or paint codes anywhere, (2) every hex is from the palette, (3) every print listed with all sizes, (4) all text original, (5) the image prompts include no text except Print 5's 'fresh start'."
+            },
+            "rightsNote": "No paint brand names or codes; use your own hexes; say 'celery green', not a brand color name",
+            "stopIf": "Under 150 listing views in 30 days",
+            "theme": "Celery green botanical and abstract printable wall art set with palette card",
+            "validationTest": "List the 6-print set plus a 3-print mini set. Pin 15 pins over 14 days.",
+            "whyBuy": "A cheap way to try the year's new green on the walls, coordinated as a set"
+          }
+        ],
+        "recommendedAction": "prepare",
+        "rights": {
+          "note": "'Sherwin-Williams', 'Dulux', 'SW 6421' and paint names may be trademarks. Do not use brand names or paint codes in titles, tags or images, and do not claim to match a paint color. Describe the product as 'celery green' and use your own hex values.",
+          "risk": "medium"
+        },
+        "scores": {
+          "buyerIntent": {
+            "basis": "qualitative",
+            "rationale": "Only curiosity and criticism seen",
+            "score": 1
+          },
+          "durability": {
+            "basis": "qualitative",
+            "rationale": "A color-of-the-year cycle lasts about a year; consumer uptake unproven",
+            "score": 3
+          },
+          "economics": {
+            "basis": "qualitative",
+            "rationale": "Digital files cost nothing per sale",
+            "score": 4
+          },
+          "productFit": {
+            "basis": "qualitative",
+            "rationale": "A color trend maps directly to wall art and palette printables",
+            "score": 4
+          },
+          "supplyGap": {
+            "basis": "qualitative",
+            "rationale": "No celery-named printable sets surfaced; general green art is saturated",
+            "score": 3
+          },
+          "timing": {
+            "basis": "reported",
+            "rationale": "Announced 2026-09-15; few products yet",
+            "score": 4
+          }
+        },
+        "spread": {
+          "evidence": [
+            "e3",
+            "e7",
+            "e2"
+          ],
+          "text": "Picked up by decor outlets, syndicated local news and Complex, where the reactions were mostly mockery. That is attention, not adoption. Most press copies restate the one Sherwin-Williams announcement."
+        },
+        "summary": "Two big paint brands picked a soft, yellow-leaning herbal green for 2027 in mid-September 2026, and the pick is being argued about online.",
+        "trajectory": {
+          "evidence": [
+            "e1",
+            "e5",
+            "e6"
+          ],
+          "stage": "first_spark",
+          "text": "Three weeks old. Colors of the year usually feed into retail palettes over the following year. Benjamin Moore and Pantone announce in Oct–Dec and could reinforce the green direction or pull attention away from it."
+        },
+        "unresolved": [
+          "Do Etsy or Pinterest show 'celery green' decor searches or new listings in Oct–Nov 2026?",
+          "Do Benjamin Moore (October) and Pantone (December) also pick greens, which would reinforce the trend?",
+          "Do retailers (Target, H&M Home) launch celery-colored ranges for spring 2027?"
+        ],
+        "what": "Sherwin-Williams named Celery its 2027 Color of the Year on Sept 15, 2026, a week after Dulux chose Soulful Sage, another soft pale green. Both sit in a 'tinted neutral' family between butter yellow, khaki and sage. The news spread from decor press into general and youth media (Complex), largely through people mocking it.",
+        "window": {
+          "endEstimate": null,
+          "estimate": "6-12 months as a color-of-the-year hook",
+          "invalidators": [
+            "Benjamin Moore/Pantone choose a strongly contrasting color and it dominates coverage",
+            "The backlash sticks and the color becomes a joke rather than a palette"
+          ],
+          "reasoning": "Colors of the year stay in the news through their year; this one is Sept 2026 to about Dec 2027. The open question is whether consumers adopt the color.",
+          "seasonality": "Spring refresh (Feb-Apr 2027) is the likely buying peak for paint-led decor",
+          "sellBy": null
+        }
+      }
+    ],
+    "discovered": [
+      {
+        "disposition": "deep_dived",
+        "name": "Soft herbal green 2027 (Celery / Soulful Sage colors of the year)",
+        "rejectReason": "",
+        "whyConsidered": "Two major 2027 color-of-the-year picks in the same soft-green family announced Sept 8 and Sept 15, 2026, with social backlash/chatter"
+      },
+      {
+        "disposition": "deep_dived",
+        "name": "Lock-screen wallpapers for the new movable/smaller clock (iOS 27)",
+        "rejectReason": "",
+        "whyConsidered": "Lock Screen redesign shipped mid-Sept 2026; TikTok wallpaper-idea pages appearing; wallpaper packs are a proven digital format"
+      },
+      {
+        "disposition": "deep_dived",
+        "name": "Whimsigoth fall (lift from Practical Magic 2)",
+        "rejectReason": "",
+        "whyConsidered": "Sequel opened #1 with ~$30M (Sept 2026); fashion/home press calling whimsigoth fall's biggest design trend"
+      },
+      {
+        "disposition": "deep_dived",
+        "name": "Bedazzle everything / gem-maxxing",
+        "rejectReason": "",
+        "whyConsidered": "Bedazzling coverage across Fortune, Cosmopolitan India, Gulf News, The Tab and Latin American/Asian outlets Aug-Sept 2026 with reported search jumps"
+      },
+      {
+        "disposition": "rejected",
+        "name": "Whimsymaxxing (broad)",
+        "rejectReason": "Other sources date the term to 2023-2025 (Today, Vice, Inside Retail June 2026); a broad lens, not a new aesthetic. Its sharpest current form (bedazzling) is filed separately.",
+        "whyConsidered": "Search result said it was 'coined September 2026'"
+      },
+      {
+        "disposition": "rejected",
+        "name": "Autumnaholic",
+        "rejectReason": "Only one roundup (SocialBee) seen; no independent spread found; short seasonal window.",
+        "whyConsidered": "Named in a Sept 29, 2026 Instagram trend roundup as a montage caption trend"
+      },
+      {
+        "disposition": "rejected",
+        "name": "Quiet flex",
+        "rejectReason": "A content style reported since early 2026, not new; no clear product.",
+        "whyConsidered": "Repeated in Oct 2026 TikTok roundups"
+      },
+      {
+        "disposition": "rejected",
+        "name": "Corecore / surreal edits",
+        "rejectReason": "Dates from 2022; video-edit format, poor product fit; unsourced growth figure.",
+        "whyConsidered": "Roundups claim 300% search growth in 2026"
+      },
+      {
+        "disposition": "rejected",
+        "name": "Glitter tattoo revival",
+        "rejectReason": "Single source (fetch blocked); physical beauty product, weak digital fit.",
+        "whyConsidered": "NellyRodi Oct 2026 TikTok beauty report"
+      },
+      {
+        "disposition": "rejected",
+        "name": "Cabbagecore",
+        "rejectReason": "On Pinterest's 2026 radar and covered since spring 2026; not a post-mid-September spark.",
+        "whyConsidered": "TikTok hashtag reportedly +115% in three months"
+      },
+      {
+        "disposition": "rejected",
+        "name": "Scandi-Scot / Highland romance",
+        "rejectReason": "Forecast in 2025/July 2026 and in interiors since 2024; established, not first spark. Worth a later watch.",
+        "whyConsidered": "AW26 retail trend reports and Pinterest 'Scottish Highlands aesthetic' +465%"
+      },
+      {
+        "disposition": "rejected",
+        "name": "Opera aesthetic",
+        "rejectReason": "Pinterest Predicts 2026 (Dec 2025) trend; not new.",
+        "whyConsidered": "Who What Wear Gen Z beauty piece"
+      },
+      {
+        "disposition": "rejected",
+        "name": "Rare aesthetic meme",
+        "rejectReason": "Older KYM entry, ironic meme format; little product demand.",
+        "whyConsidered": "Listed in Oct 2026 trending-memes roundup"
+      },
+      {
+        "disposition": "rejected",
+        "name": "2026 is the new 2016 / Great Meme Reset",
+        "rejectReason": "Originated Nov 2025-Jan 2026; meme IP heavy (Harambe etc.).",
+        "whyConsidered": "Recurring in Sept/Oct roundups"
+      },
+      {
+        "disposition": "rejected",
+        "name": "Ugly-cute Halloween decor",
+        "rejectReason": "Single blog source; driven by branded viral toys (IP).",
+        "whyConsidered": "2026 Halloween trend blog"
+      },
+      {
+        "disposition": "rejected",
+        "name": "Y2K Apocalypse Halloween",
+        "rejectReason": "Single source, no independent spread.",
+        "whyConsidered": "Same Halloween blog"
+      },
+      {
+        "disposition": "rejected",
+        "name": "Mint nails",
+        "rejectReason": "Low-quality source, beauty product, pre-September.",
+        "whyConsidered": "Reported Aug 2026 viral mani"
+      },
+      {
+        "disposition": "rejected",
+        "name": "Friction-maxxing",
+        "rejectReason": "Coined Jan 2026; overlaps existing analog-bag candidate.",
+        "whyConsidered": "'-maxxing' wave"
+      },
+      {
+        "disposition": "rejected",
+        "name": "WGSN Luminous Blue (2027)",
+        "rejectReason": "Announced April 2025; trade forecast, not a new consumer spark.",
+        "whyConsidered": "2027 color hook"
+      },
+      {
+        "disposition": "rejected",
+        "name": "FunHaus / Neo Deco / circus interiors",
+        "rejectReason": "Pinterest Predicts 2026 (Dec 2025); not new.",
+        "whyConsidered": "Gen Z decor roundups"
+      },
+      {
+        "disposition": "rejected",
+        "name": "Poetcore, Kinda chic, Kitchen witch",
+        "rejectReason": "Already covered by existing candidates.",
+        "whyConsidered": "Appeared in searches"
+      }
+    ],
+    "kind": "discover",
+    "lens": "First-spark hunt: new aesthetics and visual micro-trends",
+    "researchedAt": "2026-10-04T23:58:00Z",
+    "sourcesTried": [
+      {
+        "method": "web search",
+        "note": "~45 queries; primary evidence is search-result snippets",
+        "source": "WebSearch (extended/standard)",
+        "status": "ok"
+      },
+      {
+        "method": "WebFetch",
+        "note": "egress blocked",
+        "source": "newengen.com October/September TikTok trends",
+        "status": "blocked"
+      },
+      {
+        "method": "WebFetch",
+        "note": "egress blocked",
+        "source": "dumblittleman.com fall 2026 trends",
+        "status": "blocked"
+      },
+      {
+        "method": "WebFetch",
+        "note": "egress blocked",
+        "source": "nellyrodi.com TikTok beauty trends Oct 2026",
+        "status": "blocked"
+      },
+      {
+        "method": "WebFetch",
+        "note": "egress blocked; seen via search results only",
+        "source": "socialbee.com TikTok/Instagram trend roundups",
+        "status": "blocked"
+      },
+      {
+        "method": "WebFetch",
+        "note": "egress blocked",
+        "source": "epidemicsound.com TikTok trends",
+        "status": "blocked"
+      },
+      {
+        "method": "WebFetch",
+        "note": "egress blocked; search snippets used",
+        "source": "complex.com, hunker.com, apartmenttherapy.com (Celery coverage)",
+        "status": "blocked"
+      },
+      {
+        "method": "WebFetch",
+        "note": "egress blocked",
+        "source": "wgsn.com press release",
+        "status": "blocked"
+      },
+      {
+        "method": "WebFetch",
+        "note": "egress blocked",
+        "source": "today.com whimsy-maxxing",
+        "status": "blocked"
+      },
+      {
+        "method": "WebFetch",
+        "note": "egress blocked; search snippets used",
+        "source": "macrumors.com iOS 27 lock screen",
+        "status": "blocked"
+      },
+      {
+        "method": "WebFetch",
+        "note": "egress blocked",
+        "source": "drewandjonathan.com 2027 colors",
+        "status": "blocked"
+      },
+      {
+        "method": "web search",
+        "note": "no new aesthetic entries found for Sept 2026",
+        "source": "Know Your Meme (via search)",
+        "status": "ok"
+      },
+      {
+        "method": "web search",
+        "note": "titles only; no view counts readable",
+        "source": "TikTok discover pages",
+        "status": "ok"
+      },
+      {
+        "method": "web search",
+        "note": "market/listing URLs seen in results; not fetched, no counts",
+        "source": "Etsy",
+        "status": "ok"
+      },
+      {
+        "method": "not attempted directly",
+        "note": "typically blocked; no direct measurement",
+        "source": "Pinterest Trends, Google Trends, Reddit",
+        "status": "not_tried"
+      }
+    ]
+  },
+  "report": [
+    {
+      "errors": [],
+      "id": "celery-green-the-soft-herbal-green-of-2027",
+      "name": "Celery green: the soft herbal green of 2027",
+      "status": "created",
+      "warnings": 0
+    }
+  ],
+  "runId": "run-hunt-aesthetics-20261004-1",
+  "status": "ingested"
+}

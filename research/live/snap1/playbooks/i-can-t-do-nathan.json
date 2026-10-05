@@ -1,0 +1,143 @@
+{
+  "candidateId": "i-can-t-do-nathan",
+  "id": "i-can-t-do-nathan",
+  "products": [
+    {
+      "assembly": [
+        "Generate copy and prompts with the super prompt; create the 10 images.",
+        "Re-set all text in Canva at 3000x3000 px using the font pairing for crisp lettering.",
+        "Export transparent PNGs at 300 DPI.",
+        "Upload singles to Redbubble (stickers, plus magnets for teachers).",
+        "Build a 3-sticker and 6-sticker sheet on Printify linked to Etsy.",
+        "Create mockups on a binder, laptop and water bottle.",
+        "Publish with the listing prompt; include the parent-friendly explanation."
+      ],
+      "asymmetry": {
+        "badBetIf": "The phrase fades like other Gen Alpha slang before listings are discovered; 6-7 shows how fast this can turn.",
+        "downside": "About 7 hours, $0-$5.",
+        "upside": "Zero marginal cost; parents and teachers are a buyer group beyond the meme's own audience."
+      },
+      "costs": {
+        "baseCost": 2,
+        "basis": "estimate: verify in the provider catalog",
+        "item": "Kiss-cut stickers and sticker sheets",
+        "pages": null,
+        "provider": "Printify (Etsy) / Redbubble",
+        "shipping": 4,
+        "testBudget": 0,
+        "testBudgetNote": "Organic only; minors are the audience so avoid targeted ads."
+      },
+      "extensions": [
+        "Teacher reward-sticker sheet",
+        "Notebook cover printable",
+        "Magnet set"
+      ],
+      "imagePrompts": [
+        {
+          "prompt": "Die-cut sticker, the exact lowercase text \"i can't do nathan.\" in bubbly rounded hand-lettering, bubblegum #FF8FB1 letters with ink #1D1D2B outline and small lime #B6E36B sparkles, flat vector, 1:1, transparent background, thick white die-cut border. No logos, no real people, no trademarked characters, no watermarks.",
+          "purpose": "Lead sticker",
+          "tool": "Ideogram"
+        },
+        {
+          "prompt": "Original cute cartoon cat face-planted on an open textbook, tiny Zzz, speech bubble with exact text \"can't do nathan.\", flat vector, sunshine #FFD447 and electric blue #3A7BFF accents, ink #1D1D2B outlines, 1:1, transparent background, white die-cut border. No logos, no real people, no trademarked characters, no watermarks.",
+          "purpose": "Sleepy cat sticker",
+          "tool": "ChatGPT images or Midjourney"
+        }
+      ],
+      "index": 0,
+      "listingPrompt": "Write an Etsy listing for a school-safe 'i can't do nathan' slang sticker pack for tweens and teens. Title under 140 characters front-loading \"I Can't Do Nathan Sticker\". 13 tags of 20 characters or fewer (e.g. cant do nathan, gen alpha sticker, funny school sticker). Description: designs included, sizes, vinyl per provider, print-on-demand shipping about 1-2 weeks, a two-sentence parent explanation of the phrase. 4-question FAQ. Do not mention any video game, YouTuber, the child in the clip, or trademarked terms.",
+      "marketing": {
+        "channels": [
+          {
+            "cadence": "5/week",
+            "channel": "Pinterest",
+            "tactic": "Parent/teacher-oriented pins"
+          },
+          {
+            "cadence": "2/week",
+            "channel": "TikTok / Reels",
+            "tactic": "Adult-perspective humor clips (no kids on camera)"
+          }
+        ],
+        "hooks": [
+          "Decoding my kid's new favorite phrase:",
+          "When the homework hits at 9pm:"
+        ],
+        "keywords": [
+          "cant do nathan sticker",
+          "gen alpha slang sticker",
+          "funny school sticker",
+          "teen slang gift"
+        ],
+        "launchPlan": [
+          {
+            "action": "Publish 10 singles on Redbubble.",
+            "day": "Day 0"
+          },
+          {
+            "action": "Etsy sheets live via Printify.",
+            "day": "Day 2"
+          },
+          {
+            "action": "Pinterest: 'teen slang explained' pin with the sticker set.",
+            "day": "Day 3"
+          },
+          {
+            "action": "Short video aimed at adults: 'my kid keeps saying I can't do Nathan, so I made stickers'.",
+            "day": "Day 5"
+          },
+          {
+            "action": "Teacher pack pin for classroom rewards.",
+            "day": "Day 10"
+          },
+          {
+            "action": "Go/pivot/stop check.",
+            "day": "Day 14"
+          },
+          {
+            "action": "If selling, add a winter-break variant.",
+            "day": "Day 21"
+          }
+        ],
+        "positioning": "The new school-year slang, on a sticker that's actually teacher-approved."
+      },
+      "platforms": [
+        {
+          "name": "Redbubble",
+          "role": "primary",
+          "why": "Free; teens and parents shop slang stickers there"
+        },
+        {
+          "name": "Etsy",
+          "role": "secondary",
+          "why": "Sticker sheets and teacher buyers"
+        },
+        {
+          "name": "Pinterest",
+          "role": "traffic",
+          "why": "Parents and teachers searching school gifts; avoid targeting minors directly"
+        }
+      ],
+      "pricing": {
+        "basis": "estimate",
+        "currency": "USD",
+        "high": 12,
+        "low": 3,
+        "rationale": "Kids' slang stickers sit at low single digits; sheets about $10-12.",
+        "recommended": 4
+      },
+      "productName": "I Can't Do Nathan School-Survival Sticker Pack",
+      "risks": [
+        "Gen Alpha slang moves fast",
+        "Audience includes minors: no targeted ads, no kids in content",
+        "Some parents/teachers find it annoying"
+      ],
+      "source": "worker",
+      "superPrompt": "You are a sticker illustrator and youth-humor writer creating an original sticker pack built on the 2026 catchphrase \"I can't do Nathan\" (a misheard \"I can't do nothing\"), which kids and teens use to joke about being done with homework, chores and Mondays.\n\nBUYER AND JOB: Tweens and teens (10-17) who say the phrase, plus parents, older siblings and teachers buying a fun, school-safe gift. Stickers go on laptops, binders, water bottles and planners and signal 'I'm in on it'.\n\nDELIVERABLE SPEC: 10 stickers. For each: exact text, illustration subject, layout, palette colors, image-model prompt. Canvas 3000x3000 px transparent PNG, 300 DPI, 60 px white die-cut border, sizes 3 in and 4 in.\n1. \"i can't do nathan.\" in bubbly hand-lettering.\n2. Homework pile with \"i can't do nathan\" in a speech bubble.\n3. Math worksheet version: \"2+2? i can't do nathan.\"\n4. Monday alarm clock melting: \"can't do nathan today.\"\n5. Original cartoon sleepy cat face-planting on a book: \"can't do nathan.\"\n6. Fake ID badge (original design): \"Hi, I'm NOT Nathan.\"\n7. \"who's nathan?\" in retro arcade-style lettering (generic pixel style; no game logos).\n8. Chores list with every item crossed out: \"can't do nathan.\"\n9. Battery at 1%: \"can't do nathan.\"\n10. Teacher-friendly version: \"we CAN do nathan (homework due Friday)\".\n\nFONTS (two Canva pairings): A) \"Fredoka\" + \"Nunito\"; B) \"Press Start 2P\" (accents only) + \"Baloo 2\".\nPALETTE: bubblegum #FF8FB1, electric blue #3A7BFF, lime #B6E36B, sunshine #FFD447, grape #6B4BA1, ink #1D1D2B.\n\nRIGHTS AND SAFETY RULES: Do NOT reference or depict the child in the original clip, the YouTuber, any video game, game characters, weapons, aim-assist or game logos. No real people. Content must be school-appropriate: no insults, no puking jokes, no profanity. Nathan is never a real person and no one named Nathan is mocked.\n\nDIFFERENTIATION: Existing slang merch is generic (\"rizz\", \"6-7\") while this set turns one specific new phrase into situations kids live every day (homework, chores, Mondays), plus a teacher variant that adults can buy.\n\nOUTPUT FORMAT: Numbered list with all fields; then three bundle suggestions (Back-to-school 3-pack, Full 10-pack, Teacher pack); then a parent-friendly description explaining the phrase in 2 sentences.\n\nSELF-CHECK: no game, YouTuber or child references; school-safe language; exact text spelled consistently (\"nathan\" lowercase except item 6); every image prompt ends with the negative list.",
+      "themeKey": "School-safe 'i can't do nathan' sticker pack about homework,"
+    }
+  ],
+  "runId": "run-hunt-memes-20261004-4",
+  "source": "worker",
+  "writtenAt": "2026-10-05T00:00:47Z"
+}

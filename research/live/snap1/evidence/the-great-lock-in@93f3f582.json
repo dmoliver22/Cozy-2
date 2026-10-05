@@ -1,0 +1,19 @@
+{
+  "accessMethod": "web_search_result",
+  "candidateId": "the-great-lock-in",
+  "claim": "Reports that worldwide Google searches for 'winter arc' peaked in the week of Oct 1 in both 2024 and 2025, that the 2025 peak was about a quarter of 2024's, and that searches were climbing again this week.",
+  "excerpt": "Summary: 'The trend is smaller than it was previously' plus the Google Trends description above. Google Trends was not checked directly (blocked).",
+  "firstRetrievedAt": "2026-10-04T20:59:17Z",
+  "firstSeenRunId": "run-2026-10-04-movements",
+  "id": "the-great-lock-in~93f3f582",
+  "intent": "curiosity",
+  "kind": "observed",
+  "lastSeenRunId": "run-2026-10-04-movements",
+  "publishedAt": null,
+  "publisher": "Spike Today",
+  "retrievedAt": "2026-10-04T20:59:17Z",
+  "signalType": "search",
+  "syndicationOf": null,
+  "title": "Winter Arc 2026: What It Is, the Rules and the Start Date",
+  "url": "https://spiketoday.com/winter-arc-challenge/"
+}

@@ -1,0 +1,694 @@
+{
+  "createdAt": "2026-10-05T00:03:41Z",
+  "jobId": "hunt-communities-20261004",
+  "raw": {
+    "candidates": [
+      {
+        "actionRationale": "The audience is real and under-supplied, but there is no purchase evidence. Build the digital club-night kit first (cheapest, solves a learning need) and a small POD sticker set before holiday gifting. Hold off on ads.",
+        "adopters": {
+          "evidence": [
+            "e1",
+            "e8",
+            "e11"
+          ],
+          "text": "Young professionals in their 20s and 30s, with women-specific groups; singles using game nights to meet people."
+        },
+        "aliases": [
+          "backgammon night",
+          "backgammon social club",
+          "gammon girls",
+          "backgammon cafe",
+          "backgammon is back"
+        ],
+        "category": "subculture",
+        "competition": {
+          "evidence": [
+            "e10"
+          ],
+          "level": "low",
+          "text": "Search results show free plain-text rule PDFs and at least one small backgammon brand (Gammn). No designed club-night kits or social-club identity merch surfaced. Etsy was not searched directly, so moderate generic supply (boards, 'backgammon' tees) may exist."
+        },
+        "evidence": [
+          {
+            "accessMethod": "web_search_result",
+            "claim": "Young New Yorkers use backgammon club nights as winter social outings; the women-only Gals Who Gammon group is named.",
+            "excerpt": "20- and 30-somethings networked as they battled against each other in clubs such as the women-only Gals Who Gammon and NYC Backgammon Club.",
+            "id": "e1",
+            "intent": "curiosity",
+            "kind": "observed",
+            "publishedAt": "2026-01-12",
+            "publisher": "NY City News Service",
+            "retrievedAt": "2026-10-05T00:03:41Z",
+            "signalType": "press",
+            "syndicationOf": null,
+            "title": "Beating Seasonal Depression, One Backgammon Game at a Time",
+            "url": "https://www.nycitynewsservice.com/2026/01/12/beating-seasonal-depression-one-backgammon-game-at-a-time/"
+          },
+          {
+            "accessMethod": "web_search_result",
+            "claim": "NYC Backgammon Club grew from 7 participants in early 2023 to 5,200 people on its mailing list.",
+            "excerpt": "Started in early 2023 with seven participants... expanded into a thriving community of 5,200 New Yorkers on the mailing list.",
+            "id": "e2",
+            "intent": "curiosity",
+            "kind": "observed",
+            "publishedAt": "2025-02-01",
+            "publisher": "Village View",
+            "retrievedAt": "2026-10-05T00:03:41Z",
+            "signalType": "press",
+            "syndicationOf": null,
+            "title": "How the NYC Backgammon Club is Revitalizing a Timeless Game",
+            "url": "https://villageview.nyc/2025/02/01/how-the-nyc-backgammon-club-is-revitalizing-a-timeless-game/"
+          },
+          {
+            "accessMethod": "web_search_result",
+            "claim": "A dedicated backgammon cafe opened in NYC in January 2026; Time Out says meetups are multiplying from LA to London.",
+            "excerpt": "Meetups multiplying in cities from Los Angeles to London, but no city has embraced it more than New York City.",
+            "id": "e3",
+            "intent": "none",
+            "kind": "observed",
+            "publishedAt": "2026-01-08",
+            "publisher": "Time Out New York",
+            "retrievedAt": "2026-10-05T00:03:41Z",
+            "signalType": "press",
+            "syndicationOf": null,
+            "title": "The first-ever backgammon cafe in NYC is absolutely stunning",
+            "url": "https://timeout.com/newyork/news/the-first-ever-backgammon-cafe-in-nyc-is-absolutely-stunning-010826"
+          },
+          {
+            "accessMethod": "web_search_result",
+            "claim": "Gen Z pop-ups in Philadelphia; Philly Backgammon Club to become an outpost of Backgammon Social.",
+            "excerpt": "As the old-time Philly clubs dwindle, a new generation is warming to the game.",
+            "id": "e4",
+            "intent": "curiosity",
+            "kind": "observed",
+            "publishedAt": "2025-09-04",
+            "publisher": "Philadelphia Inquirer",
+            "retrievedAt": "2026-10-05T00:03:41Z",
+            "signalType": "press",
+            "syndicationOf": null,
+            "title": "Backgammon in Philadelphia: from boomer clubs to Gen Z pop-ups",
+            "url": "https://www.inquirer.com/opinion/commentary/backgammon-philadelphia-boomer-clubs-genz-popups-20250904.html"
+          },
+          {
+            "accessMethod": "web_search_result",
+            "claim": "Backgammon Social founded in Miami as an 'alternative night out'.",
+            "excerpt": "Backgammon Social was created... to offer an 'alternative night out' for people looking to meet new people.",
+            "id": "e5",
+            "intent": "curiosity",
+            "kind": "observed",
+            "publishedAt": "2025-05-14",
+            "publisher": "Axios Miami",
+            "retrievedAt": "2026-10-05T00:03:41Z",
+            "signalType": "press",
+            "syndicationOf": null,
+            "title": "Backgammon club offers 'alternative night out' for socializing",
+            "url": "https://www.axios.com/local/miami/2025/05/14/backgammon-club-miami-networking"
+          },
+          {
+            "accessMethod": "web_search_result",
+            "claim": "UK lifestyle press says backgammon is more popular than in decades; cites a 22% rise in rules/strategy inquiries (International Backgammon Federation, as reported).",
+            "excerpt": "Unique inquiries for rules and strategy increased by 22% compared to the previous year.",
+            "id": "e6",
+            "intent": "curiosity",
+            "kind": "observed",
+            "publishedAt": "2026-06-12",
+            "publisher": "Influence",
+            "retrievedAt": "2026-10-05T00:03:41Z",
+            "signalType": "press",
+            "syndicationOf": null,
+            "title": "Backgammon is back! Five of the best places to play",
+            "url": "https://influenceonline.co.uk/2026/06/12/backgammon-is-back-five-of-the-best-places-to-play"
+          },
+          {
+            "accessMethod": "web_search_result",
+            "claim": "Local California coverage of a backgammon revival, an independent market from NYC/Miami.",
+            "excerpt": "It's back to backgammon in North County.",
+            "id": "e7",
+            "intent": "curiosity",
+            "kind": "observed",
+            "publishedAt": null,
+            "publisher": "Noozhawk",
+            "retrievedAt": "2026-10-05T00:03:41Z",
+            "signalType": "press",
+            "syndicationOf": null,
+            "title": "It's back to backgammon in North County",
+            "url": "https://www.noozhawk.com/its-back-to-backgammon-in-north-county/"
+          },
+          {
+            "accessMethod": "web_search_result",
+            "claim": "Dating/social blogs recommend backgammon nights as a 2026 way to meet people.",
+            "excerpt": "Mahjong and backgammon nights are trending in 2026 as the city's newest social spaces for singles and friends.",
+            "id": "e8",
+            "intent": "utility",
+            "kind": "observed",
+            "publishedAt": "2026-01-01",
+            "publisher": "Agape Match",
+            "retrievedAt": "2026-10-05T00:03:41Z",
+            "signalType": "creator",
+            "syndicationOf": null,
+            "title": "Mahjong & Backgammon Nights: Unique Ways to Meet People in NYC (2026)",
+            "url": "https://www.agapematch.com/blog/meet-people-nyc-mahjong-backgammon"
+          },
+          {
+            "accessMethod": "web_search_result",
+            "claim": "Members-only backgammon club concept covered in men's lifestyle press.",
+            "excerpt": "This Members-Only Backgammon Club Is Leveling Up The World's Oldest Game.",
+            "id": "e9",
+            "intent": "curiosity",
+            "kind": "observed",
+            "publishedAt": null,
+            "publisher": "Maxim",
+            "retrievedAt": "2026-10-05T00:03:41Z",
+            "signalType": "press",
+            "syndicationOf": null,
+            "title": "This Members-Only Backgammon Club Is Leveling Up The World's Oldest Game",
+            "url": "https://www.maxim.com/sports/this-members-only-backgammon-club-is-leveling-up-the-worlds-oldest-game/"
+          },
+          {
+            "accessMethod": "web_search_result",
+            "claim": "A small backgammon-focused brand (Gammn) exists, run by two players who teach the game; one of few dedicated suppliers seen.",
+            "excerpt": "The founders of Gammn went from casual acquaintances to backgammon buddies... playing, teaching, and winning the game.",
+            "id": "e10",
+            "intent": "none",
+            "kind": "observed",
+            "publishedAt": null,
+            "publisher": "PressHook",
+            "retrievedAt": "2026-10-05T00:03:41Z",
+            "signalType": "marketplace",
+            "syndicationOf": null,
+            "title": "Gammn (brand profile)",
+            "url": "https://presshook.com/brands/gammn"
+          },
+          {
+            "accessMethod": "web_search_result",
+            "claim": "Twenty-somethings joining chess, backgammon and mahjong clubs to combat loneliness.",
+            "excerpt": "Twenty-somethings are joining clubs to play chess, backgammon, and mahjong.",
+            "id": "e11",
+            "intent": "none",
+            "kind": "observed",
+            "publishedAt": "2024-12-18",
+            "publisher": "YPulse",
+            "retrievedAt": "2026-10-05T00:03:41Z",
+            "signalType": "press",
+            "syndicationOf": null,
+            "title": "Gen Z and millennials are joining board game clubs",
+            "url": "https://www.ypulse.com/newsfeed/2024/12/18/gen-z-and-millennials-are-joining-board-game-clubs/"
+          }
+        ],
+        "gap": {
+          "isInference": true,
+          "text": "A designed club-night kit (rules, cube, opening chart, score pads, brackets) and playful, rights-clean identity merch for the new social players."
+        },
+        "name": "Backgammon social-club revival among young adults",
+        "observations": [
+          {
+            "asOf": "2025-02-01",
+            "evidence": "e2",
+            "isAbsolute": true,
+            "metric": "NYC Backgammon Club mailing list",
+            "note": "Reported by Village View; not independently verified.",
+            "unit": "people",
+            "value": 5200
+          },
+          {
+            "asOf": "2026-06-12",
+            "evidence": "e6",
+            "isAbsolute": false,
+            "metric": "Rules and strategy inquiries growth (year over year)",
+            "note": "Reported by Influence citing the International Backgammon Federation; not verified.",
+            "unit": "percent",
+            "value": 22
+          }
+        ],
+        "origin": {
+          "date": "2023-01-01",
+          "evidence": [
+            "e2",
+            "e5",
+            "e3"
+          ],
+          "text": "NYC Backgammon Club started in early 2023 with seven players; Backgammon Social launched in Miami and grew to five cities in 2025; a backgammon cafe opened in NYC in January 2026."
+        },
+        "productDemand": {
+          "evidence": [
+            "e6",
+            "e2"
+          ],
+          "text": "No purchase evidence for printables or merch. Help-seeking is suggested by the reported 22% rise in rules/strategy inquiries (reported by UK press, citing the International Backgammon Federation; not verified). Club growth (5,200 on one mailing list) shows a reachable audience, not buying."
+        },
+        "products": [
+          {
+            "buyer": "New backgammon social-night players and home hosts",
+            "channels": [
+              "Etsy",
+              "Pinterest",
+              "TikTok"
+            ],
+            "continueIf": "3+ sales or 30+ favorites by Day 21",
+            "differentiation": "Designed, club-ready kit instead of plain free rule PDFs.",
+            "effort": "medium",
+            "effortHours": 10,
+            "evidence": [
+              "e6",
+              "e1",
+              "e2"
+            ],
+            "format": "printable",
+            "fulfillment": "digital",
+            "leadTimeDays": 3,
+            "pivotIf": "Views but no sales: sell the opening-moves poster alone at $4",
+            "playbook": {
+              "assembly": [
+                "Generate the content with the super prompt and verify rules against two reputable rule references.",
+                "Build pages in Canva US Letter with pairing A and the palette.",
+                "Make the board setup diagram with Canva shapes (24 triangles, 15 checkers each).",
+                "Lay out score pads 4-up and brackets; test print.",
+                "Resize a copy to A4 and fix overflow.",
+                "Export PDF Print 300 DPI for both sizes; zip with a read-me.",
+                "Create 5 listing images: cover, opening chart, score pad, bracket, contents."
+              ],
+              "asymmetry": {
+                "badBetIf": "Free rule PDFs satisfy most players and the club scene stays NYC-only.",
+                "downside": "About 10 hours; no cash.",
+                "upside": "Evergreen learning need, zero marginal cost, links to merch and gift season."
+              },
+              "costs": {
+                "baseCost": null,
+                "basis": "estimate: digital product, platform fees only",
+                "item": null,
+                "provider": null,
+                "shipping": null,
+                "testBudget": 0,
+                "testBudgetNote": "Organic only at first-spark stage."
+              },
+              "extensions": [
+                "Framed opening-chart poster",
+                "Editable club bracket template",
+                "Mahjong-style host kit crossover for game-night hosts"
+              ],
+              "imagePrompts": [
+                {
+                  "prompt": "Elegant flat illustration of a backgammon board seen from above with cream and oxblood checkers, two dice and a doubling cube, on a deep green felt background, vintage social-club style. Colors #1F4D3A, #F4EEDC, #7A2E2E, #B8924A. Text 'BACKGAMMON CLUB NIGHT KIT' in high-contrast serif at top. 4:5 aspect ratio, solid background. No logos, no real people, no trademarked characters, no watermarks.",
+                  "purpose": "Listing cover",
+                  "tool": "Ideogram"
+                },
+                {
+                  "prompt": "Subtle vintage paper texture with a faint line-art backgammon board border, cream #F4EEDC with brass #B8924A lines, plenty of empty space in the center for a table. 3:4 portrait, solid background, no text. No logos, no real people, no trademarked characters, no watermarks.",
+                  "purpose": "Opening chart poster background",
+                  "tool": "ChatGPT images"
+                }
+              ],
+              "listingPrompt": "Write an Etsy listing for a printable backgammon club night kit (rules cheat sheet, doubling cube guide, opening moves chart, match score pads, tournament brackets). Title under 140 characters starting 'Backgammon Cheat Sheet Printable'. 13 tags of 20 characters or fewer (e.g., backgammon rules, backgammon gift, game night printable). Description listing every page, US Letter and A4 PDFs, instant download, printing tips, FAQ (Is it for beginners? Does it include the doubling cube? Can I print for my club?). Do not mention any real club, cafe, app or brand names; no gambling language.",
+              "marketing": {
+                "channels": [
+                  {
+                    "cadence": "4/week",
+                    "channel": "Pinterest",
+                    "tactic": "Learn-to-play infographic pins"
+                  },
+                  {
+                    "cadence": "3/week",
+                    "channel": "TikTok",
+                    "tactic": "30-second opening-move lessons"
+                  }
+                ],
+                "hooks": [
+                  "Learn backgammon before your first club night",
+                  "Every opening roll on one page"
+                ],
+                "keywords": [
+                  "backgammon rules printable",
+                  "backgammon cheat sheet",
+                  "backgammon score sheet",
+                  "game night tournament bracket"
+                ],
+                "launchPlan": [
+                  {
+                    "action": "Publish listings.",
+                    "day": "Day 0"
+                  },
+                  {
+                    "action": "5 pins: opening chart, cube guide, score pad.",
+                    "day": "Day 1"
+                  },
+                  {
+                    "action": "TikTok: 'The 3-1 opening and why' with the chart.",
+                    "day": "Day 2"
+                  },
+                  {
+                    "action": "Free pocket rules card on Payhip for emails.",
+                    "day": "Day 5"
+                  },
+                  {
+                    "action": "Video: hosting a backgammon night at home.",
+                    "day": "Day 7"
+                  },
+                  {
+                    "action": "Share in backgammon learner groups where allowed (check the community rules).",
+                    "day": "Day 10"
+                  },
+                  {
+                    "action": "Holiday gift angle pins (pair with a board).",
+                    "day": "Day 14"
+                  },
+                  {
+                    "action": "Go/pivot/stop check per validation rules.",
+                    "day": "Day 21"
+                  }
+                ],
+                "positioning": "Everything a new backgammon player or host needs on paper."
+              },
+              "platforms": [
+                {
+                  "name": "Etsy",
+                  "role": "primary",
+                  "why": "Game-night printables sell there."
+                },
+                {
+                  "name": "Payhip",
+                  "role": "secondary",
+                  "why": "Direct link for club organizers."
+                },
+                {
+                  "name": "Pinterest",
+                  "role": "traffic",
+                  "why": "Learn-to-play and game-night pins."
+                }
+              ],
+              "pricing": {
+                "basis": "estimate",
+                "currency": "USD",
+                "high": 12,
+                "low": 6,
+                "rationale": "Above single cheat sheets because it adds score pads and brackets; low enough for impulse.",
+                "recommended": 9
+              },
+              "productName": "Backgammon Club Night Kit (Printable)",
+              "risks": [
+                "Rule errors damage reviews; verify carefully",
+                "Small audience outside big cities"
+              ],
+              "superPrompt": "You are a backgammon teacher and information designer. Produce the complete content for a printable product called \"Backgammon Club Night Kit: Cheat Sheets, Score Pads and a Mini-Tournament Planner\" for [YOUR SHOP NAME].\n\nBUYER AND JOB: Twenty- and thirty-somethings (many women) who just started going to backgammon social nights or want to host one at home or at a bar. They need to learn the rules fast, remember opening moves, keep score in matches and run a small tournament without an app.\n\nDELIVERABLE (US Letter 8.5x11 in and A4; same content):\n1. Cover page with contents.\n2. \"Learn in 10 minutes\" rules sheet (1 page): setup diagram description (checker counts per point: 2 on 24-point, 5 on 13, 3 on 8, 5 on 6, mirrored), movement, doubles, hitting and the bar, entering, bearing off, winning a single game, gammon and backgammon.\n3. Doubling cube one-pager: offering, taking, dropping, beavers optional, Crawford rule, Jacoby rule, with plain-language examples.\n4. Opening moves chart (1 page): a 15-row table for every non-double opening roll (3-1, 4-2, 6-1, 5-3, 6-2, 6-3, 6-4, 5-1, 5-2, 5-4, 4-1, 4-3, 3-2, 2-1, 6-5) with one standard, widely taught play each written in standard notation (e.g. 3-1: 8/5 6/5), and a one-line reason. Use the commonly taught plays; if more than one is standard, give the most common and say \"also played\".\n5. Pip-count quick guide and 5 beginner strategy tips (make points, avoid blots near opponent, prime, race when ahead, when to run).\n6. Notation explainer (points 1-24, bar, off).\n7. Match score pads: 4 per page, for matches to 3, 5 and 7 points, with columns for game #, cube value, points won, running total, Crawford game marker.\n8. Mini-tournament planner: single-elimination brackets for 8 and 16 players, a round-robin grid for 6 players, a sign-up sheet, and house-rules card (blank lines).\n9. Host night checklist and a 2-hour run-of-show for a backgammon social night.\n10. Two pocket cards (3.5x2 in): Rules recap and Cube rules.\n\nACCURACY: Backgammon rules must be correct; double-check setup counts (15 checkers per side), bearing-off rules, gammon (2x) and backgammon (3x) scoring, Crawford and Jacoby definitions. If unsure of an opening play, choose the most widely taught play and mark alternatives as \"also played\"; do not invent statistics.\n\nDESIGN: Canva pairing A: \"Playfair Display\" + \"Lato\". Pairing B: \"Cormorant Garamond\" + \"Montserrat\". Palette (social-club, vintage felt): Felt Green #1F4D3A, Cream #F4EEDC, Oxblood #7A2E2E, Brass #B8924A, Ink #1E1E1E.\n\nRULES: Original wording only; no brand, club, cafe or app names (do not mention NYC Backgammon Club, Gals Who Gammon, Backgammon Social or any software). No gambling encouragement; mention that the doubling cube is a scoring tool.\n\nDIFFERENTIATION: Free rule PDFs are plain text; this is a designed, club-ready kit combining learning sheets, match score pads and tournament brackets for social nights.\n\nOUTPUT: Page by page (\"PAGE 1\"...) with layout notes and every line of text and table. End with a SELF-CHECK: setup counts sum to 15 per side; all 15 non-double opening rolls present; Crawford/Jacoby defined correctly; no brand names; both paper sizes noted."
+            },
+            "rightsNote": "No real club or cafe names; no gambling imagery.",
+            "stopIf": "Under 120 views by Day 21",
+            "theme": "Backgammon Club Night Kit: rules, doubling cube, opening-moves chart, match score pads and tournament brackets",
+            "validationTest": "Etsy + Payhip listing; 10 pins and 4 short videos ('backgammon openings in 30 seconds') over 21 days.",
+            "whyBuy": "New players need a fast reference for rules, the cube and openings, and hosts need score pads and brackets."
+          },
+          {
+            "buyer": "Young backgammon social players and gift-givers",
+            "channels": [
+              "Etsy via Printify",
+              "Redbubble",
+              "Instagram"
+            ],
+            "continueIf": "2+ sales or 25+ favorites",
+            "differentiation": "Playful, social-club identity designs instead of the board-only products that dominate.",
+            "effort": "low",
+            "effortHours": 8,
+            "evidence": [
+              "e1",
+              "e3"
+            ],
+            "format": "sticker",
+            "fulfillment": "pod",
+            "leadTimeDays": 7,
+            "pivotIf": "Favorites but no sales: test a 3-sticker pack price",
+            "playbook": {
+              "assembly": [
+                "Generate designs at 4500x4500 px with transparent backgrounds; clean text manually in Canva.",
+                "Upscale and check 300 DPI at 3x3 in sticker size.",
+                "Upload to Printify: kiss-cut stickers (3x3, 4x4) and a cotton tote.",
+                "Connect Printify to Etsy and publish with mockups.",
+                "Upload the same PNGs to Redbubble as a secondary shop.",
+                "Order one sample sticker to check colors."
+              ],
+              "asymmetry": {
+                "badBetIf": "The audience stays tiny and POD margins (about $2 per sticker) never cover the time.",
+                "downside": "About 8 hours plus about $10 for samples.",
+                "upside": "No inventory; gift season; designs reusable across platforms."
+              },
+              "costs": {
+                "baseCost": 2,
+                "basis": "estimate: verify in the provider catalog",
+                "item": "Kiss-cut vinyl sticker 3x3 in",
+                "provider": "Printify",
+                "shipping": 4,
+                "testBudget": 0,
+                "testBudgetNote": "Organic only."
+              },
+              "extensions": [
+                "Tees and sweatshirts",
+                "Score-pad notepads via POD",
+                "Holiday ornament"
+              ],
+              "imagePrompts": [
+                {
+                  "prompt": "Retro circular badge sticker design: two dice showing double sixes above a small backgammon board, text 'ROLL DOUBLES, MAKE FRIENDS' around the circle in bold groovy type. Colors #1F4D3A, #F4EEDC, #E8A6A1, #7A2E2E. Thick white die-cut border, 1:1 aspect ratio, transparent background. No logos, no real people, no trademarked characters, no watermarks.",
+                  "purpose": "Sticker: Roll Doubles, Make Friends",
+                  "tool": "Ideogram"
+                },
+                {
+                  "prompt": "Isometric doubling cube showing the number 2 with a cheeky face, text 'TAKE OR DROP?' below in chunky serif. Colors #B8924A, #F4EEDC, #1E1E1E. 1:1, transparent background, die-cut white outline. No logos, no real people, no trademarked characters, no watermarks.",
+                  "purpose": "Sticker: Take or Drop?",
+                  "tool": "Ideogram"
+                }
+              ],
+              "listingPrompt": "Write an Etsy listing for a backgammon sticker (kiss-cut vinyl). Title under 140 characters starting 'Backgammon Sticker'. 13 tags of 20 characters or fewer (backgammon gift, board game sticker, game night gift...). Description: size options, material, shipping time via print-on-demand (about 1-2 weeks), care, FAQ. No real club, cafe or brand names; no gambling words.",
+              "marketing": {
+                "channels": [
+                  {
+                    "cadence": "3/week",
+                    "channel": "Instagram",
+                    "tactic": "Flat lays with boards"
+                  },
+                  {
+                    "cadence": "3/week",
+                    "channel": "Pinterest",
+                    "tactic": "Gift-for-backgammon-player pins"
+                  }
+                ],
+                "hooks": [
+                  "For the friend who always wants a rematch",
+                  "Gammon era"
+                ],
+                "keywords": [
+                  "backgammon gift",
+                  "backgammon sticker",
+                  "game night gift",
+                  "board game lover gift"
+                ],
+                "launchPlan": [
+                  {
+                    "action": "Publish 8 stickers and 2 totes.",
+                    "day": "Day 0"
+                  },
+                  {
+                    "action": "Instagram/TikTok: stickers on a backgammon case.",
+                    "day": "Day 2"
+                  },
+                  {
+                    "action": "Pins with gift-guide framing.",
+                    "day": "Day 5"
+                  },
+                  {
+                    "action": "Bundle with printable kit as a 'host gift' suggestion.",
+                    "day": "Day 10"
+                  },
+                  {
+                    "action": "Holiday gift pins.",
+                    "day": "Day 14"
+                  },
+                  {
+                    "action": "Go/pivot/stop check.",
+                    "day": "Day 21"
+                  }
+                ],
+                "positioning": "Merch for the new backgammon social crowd."
+              },
+              "platforms": [
+                {
+                  "name": "Etsy",
+                  "role": "primary",
+                  "why": "Gift searches."
+                },
+                {
+                  "name": "Redbubble",
+                  "role": "secondary",
+                  "why": "Extra stickers reach at no cost."
+                },
+                {
+                  "name": "Instagram",
+                  "role": "traffic",
+                  "why": "Club-night photos and stories."
+                }
+              ],
+              "pricing": {
+                "basis": "estimate",
+                "currency": "USD",
+                "high": 6,
+                "low": 3.5,
+                "rationale": "Typical single vinyl sticker price on Etsy; totes priced around $22-26.",
+                "recommended": 4.5
+              },
+              "productName": "Doubles & Dice Social Sticker Collection",
+              "risks": [
+                "Thin POD margins",
+                "Small niche"
+              ],
+              "superPrompt": "You are a graphic designer creating an original print-on-demand sticker and tote collection called \"Doubles & Dice Social\" for [YOUR SHOP NAME]. The collection name is original; never use the name of any real club, cafe or group.\n\nBUYER AND JOB: Young women and men who play backgammon at social nights and cafes and want to signal the hobby on laptops, water bottles and tote bags, or gift a fellow player.\n\nDELIVERABLE: Concepts and final copy for 8 designs:\n1. \"Roll Doubles, Make Friends\" retro badge.\n2. Backgammon board top-view illustration as a minimalist line art.\n3. \"I'd Rather Be Bearing Off\" script lettering.\n4. Doubling cube with \"Take or Drop?\" text.\n5. Vintage social-club crest with dice and checkers and \"Est. Game Night\" (no real club names).\n6. \"Prime Time\" pun with a row of 6 checkers.\n7. \"Gammon Era\" bold groovy type.\n8. \"Dice Don't Lie (They Do)\" funny tee/sticker.\nFor each design give: concept, exact text, style, colors, composition, and two product placements (die-cut sticker 3x3 in at 900x900 px minimum at 300 DPI; tote print area 12x14 in at 3600x4200 px; tee front 4500x5400 px).\n\nDESIGN: Pairing A in Canva: \"Bagel Fat One\" (display) + \"DM Sans\". Pairing B: \"Abril Fatface\" + \"Poppins\". Palette: Felt Green #1F4D3A, Cream #F4EEDC, Oxblood #7A2E2E, Brass #B8924A, Pink #E8A6A1.\n\nRULES: Original artwork and phrases only. No real club, cafe, brand or tournament names or logos. No gambling or casino imagery (no chips, no money). Avoid copying any existing backgammon board brand's pattern.\n\nDIFFERENTIATION: Most backgammon products are boards; there is little playful, social-club identity merch aimed at the new young players.\n\nOUTPUT: A numbered list of the 8 designs with all fields, then image-generation prompts for each, then a SELF-CHECK (8 designs, sizes listed, no real names, no gambling imagery, text spelled exactly).\n\nPRINT PREP AND QUALITY: For every design also specify: the safe area (keep text at least 0.125 in inside the cut line), the minimum text height for legibility at 3 in (about 0.18 in cap height), whether the design works as a one-color version for vinyl, and a dark-surface variant (swap ink to cream). Limit each design to four palette colors so printing stays crisp. Give each design a short product title (under 60 characters) and a one-sentence description a buyer would understand without context.\n\nAUDIENCE TONE: Warm, in-group humor that a beginner understands; never mock outsiders, beginners or other generations. Avoid slang that will date within months unless it is the joke. Keep all phrases short (under 6 words where possible) so they read from a distance.\n\nMOCKUP AND LISTING SUPPORT: After the designs, propose 3 lifestyle mockup scenes (surface, props, lighting, colors) that show scale, and 5 short hook lines for a TikTok or Reel showing the stickers in use. Do not include real people's faces, brand logos or recognizable products in any scene."
+            },
+            "rightsNote": "No real club names; no casino or money imagery.",
+            "stopIf": "No favorites after 21 days",
+            "theme": "Original backgammon social-club sticker and tote designs (Roll Doubles, Make Friends; Gammon Era; Take or Drop?)",
+            "validationTest": "Publish 8 sticker designs and 2 totes via Printify/Etsy plus Redbubble; track favorites and sales for 21 days.",
+            "whyBuy": "New hobby communities like identity items for laptops and bags and to gift fellow players."
+          }
+        ],
+        "recommendedAction": "prepare",
+        "rights": {
+          "note": "The game itself is public domain. Do not use names of real clubs (NYC Backgammon Club, Gals Who Gammon, Backgammon Social) or cafe names. Avoid gambling imagery.",
+          "risk": "low"
+        },
+        "scores": {
+          "buyerIntent": {
+            "basis": "reported",
+            "rationale": "Only help-seeking (reported 22% rise in rules inquiries); no purchase data.",
+            "score": 1
+          },
+          "durability": {
+            "basis": "qualitative",
+            "rationale": "Multi-year growth pattern similar to the mahjong revival.",
+            "score": 4
+          },
+          "economics": {
+            "basis": "qualitative",
+            "rationale": "Digital kit at zero marginal cost; POD merch needs no inventory.",
+            "score": 4
+          },
+          "productFit": {
+            "basis": "qualitative",
+            "rationale": "Rules and score sheets are a natural printable; stickers suit a social identity.",
+            "score": 4
+          },
+          "supplyGap": {
+            "basis": "qualitative",
+            "rationale": "No designed kits or social merch surfaced; Etsy not checked directly.",
+            "score": 4
+          },
+          "timing": {
+            "basis": "qualitative",
+            "rationale": "Early in product terms, but no fresh mid-September acceleration found.",
+            "score": 3
+          }
+        },
+        "spread": {
+          "evidence": [
+            "e3",
+            "e4",
+            "e5",
+            "e6",
+            "e7"
+          ],
+          "text": "Independent coverage across New York, Miami, Philadelphia, California's North County and the UK, from separate outlets (Time Out, Axios, Inquirer, Noozhawk, Influence)."
+        },
+        "summary": "Twenty- and thirty-somethings, many of them women, are filling backgammon club nights, pop-ups and a new NYC backgammon cafe, and the scene is spreading city by city with almost no products made for these new players.",
+        "trajectory": {
+          "evidence": [
+            "e1",
+            "e3",
+            "e6"
+          ],
+          "stage": "first_spark",
+          "text": "Classified as first spark in product terms: the club scene is two to three years old in NYC, but spread to other US cities is recent (2025-2026) and very few products target the new players. Honest caveat: no evidence found of a specific acceleration since mid-September 2026; the latest dated items are January and June 2026."
+        },
+        "unresolved": [
+          "Signal: new backgammon club chapters or cafes announced in additional US cities in Oct-Nov 2026.",
+          "Signal: TikTok/Pinterest 'backgammon night' or 'how to play backgammon' content rising in trend roundups.",
+          "Signal: Etsy listings for backgammon gifts or printables start appearing with sales badges (demand confirmation)."
+        ],
+        "what": "Backgammon is being repackaged as a stylish 'alternative night out': social clubs (NYC Backgammon Club with a women-only Gals Who Gammon offshoot, Backgammon Social in Miami, Philadelphia, SF, London and NYC), bar pop-ups and a dedicated cafe that opened in New York in January 2026. New players need to learn rules, the doubling cube and opening moves, and they like club identity.",
+        "window": {
+          "endEstimate": null,
+          "estimate": "12+ months while club chapters keep opening; winter months suit indoor game nights",
+          "invalidators": [
+            "Club openings stall or close in 2026-27",
+            "Major retailers launch styled backgammon accessories aimed at young women",
+            "Players move to apps instead of in-person nights"
+          ],
+          "reasoning": "The scene has grown steadily since 2023 and is spreading to new cities; mahjong's similar revival has lasted several years.",
+          "seasonality": "Indoor game nights peak in autumn-winter; holiday gifting window Nov-Dec.",
+          "sellBy": null
+        }
+      }
+    ],
+    "kind": "discover",
+    "lens": "First-spark hunt: fast-growing niche communities",
+    "researchedAt": "2026-10-05T00:03:41Z",
+    "sourcesTried": [
+      {
+        "method": "WebSearch",
+        "note": "About 45 queries; all evidence below comes from search result snippets.",
+        "source": "Web search (standard and extended)",
+        "status": "ok"
+      },
+      {
+        "method": "WebFetch",
+        "note": "Egress proxy blocked; used search snippets and syndicated coverage instead.",
+        "source": "newsroom.pinterest.com (Hobbies Trend Report 2026)",
+        "status": "blocked"
+      },
+      {
+        "method": "WebFetch",
+        "note": "Egress blocked; only the headline/date seen.",
+        "source": "bloomberg.com (miniatures feature, 2026-09-18)",
+        "status": "blocked"
+      },
+      {
+        "method": "WebFetch",
+        "note": "Egress blocked.",
+        "source": "community.pinterest.biz weekly trends",
+        "status": "blocked"
+      },
+      {
+        "method": "WebFetch",
+        "note": "Egress blocked; facts taken from search snippets.",
+        "source": "fortune.com (Gen Z birding, 2026-08-23)",
+        "status": "blocked"
+      },
+      {
+        "method": "WebFetch",
+        "note": "Egress blocked.",
+        "source": "fooddrinklife.com (craft classes filling fast)",
+        "status": "blocked"
+      },
+      {
+        "method": "WebFetch",
+        "note": "Egress blocked.",
+        "source": "ooonyc.substack.com (Fall 2026 hobby guide)",
+        "status": "blocked"
+      },
+      {
+        "method": "WebSearch site results",
+        "note": "Only indirect: listings surfaced in web search; Etsy itself not fetched (assumed blocked per worker notes).",
+        "source": "Etsy marketplace search",
+        "status": "ok"
+      },
+      {
+        "method": "not attempted directly",
+        "note": "Known to be blocked for fetching; relied on press and trend-roundup coverage of these platforms.",
+        "source": "TikTok, Reddit, Google Trends",
+        "status": "not_tried"
+      },
+      {
+        "method": "WebSearch",
+        "note": "Only September 2026 meme-of-the-month roundup surfaced; nothing community-relevant.",
+        "source": "Know Your Meme",
+        "status": "ok"
+      }
+    ]
+  },
+  "runId": "run-hunt-communities-20261004-2",
+  "status": "new"
+}

@@ -1,0 +1,19 @@
+{
+  "accessMethod": "web_search_result",
+  "candidateId": "whimsymaxxing-bedazzle-everything-diy",
+  "claim": "Existing tutorials for honeycomb-pattern tumblers; pattern-based work is the standard method.",
+  "excerpt": "How to Make a Rhinestone Tumbler: Complete Step-by-Step Tutorial",
+  "firstRetrievedAt": "2026-10-05T00:00:55Z",
+  "firstSeenRunId": "run-hunt-hobbies-20261004-3",
+  "id": "whimsymaxxing-bedazzle-everything-diy~bf80ae43",
+  "intent": "utility",
+  "kind": "observed",
+  "lastSeenRunId": "run-hunt-hobbies-20261004-3",
+  "publishedAt": null,
+  "publisher": "Becreateful",
+  "retrievedAt": "2026-10-05T00:00:55Z",
+  "signalType": "marketplace",
+  "syndicationOf": null,
+  "title": "How to Make a Rhinestone Tumbler: Complete Step-by-Step Tutorial",
+  "url": "https://becreateful.com/blogs/tips-and-tricks-from-a-pro/how-to-create-a-rhinestone-tumbler-honeycomb-pattern"
+}

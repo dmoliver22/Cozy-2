@@ -1,0 +1,232 @@
+{
+  "actionRationale": "The trend is real and covered by mainstream press in 2026, but purchase intent is unproven and the 2026 sprint window is closing. A one-day '12 final weeks' tracker is a cheap way to test the name now. The main bet is a 'Lock In 2027' planner listed by Dec 1 for the resolution season.",
+  "adopters": {
+    "evidence": [
+      "the-great-lock-in~5dc9c30d",
+      "the-great-lock-in~903e591e",
+      "the-great-lock-in~cdc5415c",
+      "the-great-lock-in~e897840a",
+      "the-great-lock-in~a47e4ff3"
+    ],
+    "text": "Gen Z and young millennials on TikTok, with coverage of adoption in Black online communities (The Root, TheGrio). Fitness and wellness brands (Gymshark, Johnson Fitness UK) and productivity apps (Motion, HabitHuddle) publish content about it. People want structure and a fresh start without waiting for January."
+  },
+  "aliases": [
+    "The Great Lock In",
+    "Great Lock-In 2026",
+    "lock in 2026",
+    "Winter Arc",
+    "winter lock in",
+    "Last 90 Days challenge",
+    "Lock in for 2027",
+    "The Great Lock-In 2026 (end-of-year self-improvement sprint)"
+  ],
+  "category": "movement",
+  "channels": [
+    "Etsy",
+    "Gumroad",
+    "TikTok",
+    "Pinterest",
+    "Amazon KDP"
+  ],
+  "competition": {
+    "evidence": [
+      "the-great-lock-in~ef192aed",
+      "the-great-lock-in~dd94a10e",
+      "the-great-lock-in~93f3f582"
+    ],
+    "level": "moderate",
+    "text": "Generic printable habit trackers are saturated on Etsy. Free apps (Motion, HabitHuddle) publish Winter Arc and Lock-In guides. Winter Arc journals are sold on Gumroad. A search for lock-in-specific Etsy trackers returned only generic trackers, which suggests few trend-named listings, but Etsy could not be checked directly."
+  },
+  "editorialNotes": [
+    "Editorial review 2026-10-04: Relabeled \"Gumroad seller\" from purchase intent to context only: existing journals for a sibling trend are supply."
+  ],
+  "effortMin": "low",
+  "firstSeenAt": "2026-10-04T21:02:03.000Z",
+  "formats": [
+    "printable",
+    "planner"
+  ],
+  "gap": {
+    "isInference": true,
+    "text": "A dated 'final 12 weeks of 2026' Lock-In tracker that includes a progress log for proving results with numbers (borrowing the 2026 'potential-maxxing' habit of quantifying growth), and especially a 'Lock In 2027' quarterly sprint planner that carries the lock-in identity into January for resolution skeptics. Existing products are either generic trackers or tied to the fading 'Winter Arc' name."
+  },
+  "id": "the-great-lock-in",
+  "jobId": null,
+  "language": "en",
+  "lastRunId": "run-2026-10-04-movements",
+  "lens": "Discovery scan: movements & Q4 seasonal hooks",
+  "name": "The Great Lock-In",
+  "origin": {
+    "date": null,
+    "evidence": [
+      "the-great-lock-in~302b911b",
+      "the-great-lock-in~0964c8b1",
+      "the-great-lock-in~91c6c276"
+    ],
+    "text": "Became widely known on TikTok in late August and early September 2025. Fortune covered it on 2025-09-11 as a Gen Z rejection of the 'soft life'. SEO explainers say it started on TikTok in August 2025 and returns every September. 'Lock in' is described as UK-origin slang for hyper-focusing."
+  },
+  "productDemand": {
+    "evidence": [
+      "the-great-lock-in~a47e4ff3",
+      "the-great-lock-in~dd94a10e",
+      "the-great-lock-in~ef192aed",
+      "the-great-lock-in~e59b44dd"
+    ],
+    "text": "Most signals are participation and curiosity content (videos documenting rules and routines) rather than purchase intent. Paid products exist for the sibling Winter Arc trend (Gumroad and Payhip journals and trackers), and Etsy sells many generic habit trackers at $1-6, which shows people buy trackers in general. No sales data for lock-in-branded products was found. Trill Mag reports Gen Z replacing resolutions with 'rebrands' and 'lock-ins' planned months ahead, which supports a New Year 2027 planner angle."
+  },
+  "products": [
+    {
+      "buyer": "TikTok-native 18-30-year-olds doing a late-year lock-in or winter arc",
+      "channels": [
+        "Etsy",
+        "Gumroad",
+        "TikTok",
+        "Pinterest"
+      ],
+      "continueIf": "Any sales or 20+ favorites within 14 days.",
+      "differentiation": "Dated to the 2026 lock-in and named for it, unlike generic undated trackers. Includes the proof log.",
+      "effort": "low",
+      "effortHours": 5,
+      "evidence": [
+        "the-great-lock-in~5dc9c30d",
+        "the-great-lock-in~a47e4ff3",
+        "the-great-lock-in~6be192c9",
+        "the-great-lock-in~89b0c6ce"
+      ],
+      "format": "printable",
+      "fulfillment": "digital",
+      "leadTimeDays": 1,
+      "pivotIf": "Views but no sales: make it free as a lead magnet for the 2027 planner.",
+      "rightsNote": "Generic slang only. No fitness or health outcome claims.",
+      "stopIf": "Under about 50 views by Oct 25. Fold the design into the 2027 product.",
+      "theme": "'Lock-In: The Final 12 Weeks of 2026' (Oct 6 to Dec 27): pick 3 non-negotiables, a daily check grid, a weekly reflection, and a 'proof log' page for recording numbers (pages read, workouts, dollars saved).",
+      "validationTest": "List on Etsy and Gumroad by Oct 6. Post 3 short 'my last-12-weeks lock-in setup' videos and 5 pins.",
+      "whyBuy": "It turns a free-form TikTok challenge into a dated, printable structure. The proof log matches the 2026 trend of showing growth with numbers."
+    },
+    {
+      "buyer": "Resolution skeptics aged 18-35 who prefer short sprints and a 'rebrand' over January resolutions",
+      "channels": [
+        "Etsy",
+        "Gumroad",
+        "Amazon KDP",
+        "Pinterest",
+        "TikTok"
+      ],
+      "continueIf": "Sales or rising favorites by Dec 20. If so, add the KDP paperback and a Q2 refill.",
+      "differentiation": "Lock-in framing and 12-week sprints instead of a year-long dated planner. Bundles the no-buy and rebrand rituals into one product.",
+      "effort": "medium",
+      "effortHours": 14,
+      "evidence": [
+        "the-great-lock-in~e59b44dd",
+        "the-great-lock-in~c83a76c9",
+        "the-great-lock-in~a47e4ff3"
+      ],
+      "format": "planner",
+      "fulfillment": "digital",
+      "leadTimeDays": 4,
+      "pivotIf": "The lock-in name gets no traction: retitle around '12-week year' or 'Q1 sprint' wording.",
+      "rightsNote": "Avoid the trademarked '12 Week Year' title and the names of commercial planner brands. Use generic wording.",
+      "stopIf": "No sales by Jan 10, 2027.",
+      "theme": "'Lock In 2027': a 12-week Q1 sprint planner with a yearly vision/'rebrand' page, quarterly goal breakdown, weekly non-negotiables, habit and proof logs, and an optional low-buy tracker page. Sold as a printable plus a GoodNotes-compatible PDF, with an optional KDP paperback.",
+      "validationTest": "Pre-list by Nov 15 so the listing ages. Pin weekly. Start TikTok 'plan my 2027 lock-in' content around Dec 15.",
+      "whyBuy": "Carries the lock-in identity into the New Year. Trill Mag and Yahoo report Gen Z replacing resolutions with lock-ins, rebrands and arcs."
+    }
+  ],
+  "qualityFlags": [],
+  "recommendedAction": "prepare",
+  "region": "US",
+  "researchedAt": "2026-10-04T21:02:03Z",
+  "rights": {
+    "note": "'Great Lock-In', 'lock in' and 'winter arc' read as community slang, but trademark filings were not checked (search budget ran out). Avoid brand names (Gymshark), creator names and likenesses, and any health or fitness outcome claims.",
+    "risk": "low"
+  },
+  "runIds": [
+    "run-2026-10-04-movements"
+  ],
+  "scores": {
+    "buyerIntent": {
+      "basis": "qualitative",
+      "rationale": "Evidence is mostly participation and curiosity. Paid winter-arc journals exist but there is no sales evidence.",
+      "score": 2
+    },
+    "durability": {
+      "basis": "reported",
+      "rationale": "The ritual recurs every year, but names churn: Winter Arc's 2025 peak was about a quarter of 2024's, per spiketoday.",
+      "score": 3
+    },
+    "economics": {
+      "basis": "qualitative",
+      "rationale": "Digital at $3-9 with near-zero cost, and an optional KDP paperback. Prices are low.",
+      "score": 3
+    },
+    "productFit": {
+      "basis": "qualitative",
+      "rationale": "A dated tracker or planner is a quick, low-risk printable.",
+      "score": 5
+    },
+    "supplyGap": {
+      "basis": "qualitative",
+      "rationale": "Few trend-named products were seen (unverified, Etsy blocked), but generic trackers and free apps substitute easily.",
+      "score": 3
+    },
+    "timing": {
+      "basis": "qualitative",
+      "rationale": "The 2026 sprint is a month old and a new listing needs weeks to surface. Timing is better for a New Year 2027 product.",
+      "score": 2
+    }
+  },
+  "source": "research",
+  "spread": {
+    "evidence": [
+      "the-great-lock-in~302b911b",
+      "the-great-lock-in~8870d7af",
+      "the-great-lock-in~94799304",
+      "the-great-lock-in~5dc9c30d",
+      "the-great-lock-in~a47e4ff3",
+      "the-great-lock-in~b5586fe4",
+      "the-great-lock-in~0964c8b1"
+    ],
+    "text": "In 2025: Fortune, CTV/CP24, CBC (critical), Newsweek (per explainers), a Know Your Meme entry. In 2026: TheGrio (2026-09-01, syndicated by Yahoo), BuzzFeed ('taking over TikTok again'), a Yahoo homebuying angle, and many SEO explainer pages. Brands and apps produce their own content. Attention is spreading independently, but much of the 2026 coverage restates the explainer."
+  },
+  "summary": "A TikTok-born challenge where people use September 1 to December 31 to build habits and work on goals, instead of waiting for New Year's resolutions.",
+  "topicKeys": [
+    "phrase:the great lock in",
+    "phrase:the great lock in",
+    "phrase:great lock in 2026",
+    "phrase:lock in 2026",
+    "phrase:winter arc",
+    "phrase:winter lock in",
+    "phrase:last 90 days challenge",
+    "phrase:lock in for 2027",
+    "phrase:the great lock in 2026 end of year self improvement sprint"
+  ],
+  "trajectory": {
+    "evidence": [
+      "the-great-lock-in~5dc9c30d",
+      "the-great-lock-in~a47e4ff3",
+      "the-great-lock-in~93f3f582"
+    ],
+    "stage": "mainstream_surge",
+    "text": "This is the second annual cycle, with mainstream coverage in 2026 describing a broader, more holistic version. Within the year, attention likely peaks around Sept 1 (inference from timing), and we are already 34 days in. The sibling alias 'Winter Arc' shows how fast these names churn: spiketoday reports its 2025 Google Trends peak was about a quarter of the 2024 peak. Inference: the end-of-year sprint ritual is durable, but any single name may fade within 1-2 years."
+  },
+  "unresolved": [
+    "Is the 2026 lock-in growing or shrinking compared with 2025? No search-interest data was available (Google Trends blocked).",
+    "Do lock-in-named products sell on Etsy? Listings and reviews could not be checked.",
+    "The '16.5M posts related to Lock in 2026 on TikTok' figure came from a search summary of a result set that included a TikTok discover page. It probably counts unrelated uses of 'lock in' and its source page is unconfirmed.",
+    "Will the January 2027 reset adopt 'lock in' language or a new name?"
+  ],
+  "what": "Participants pick a small set of personal goals (fitness, money, reading, sleep, organization, and in 2026 more mindfulness) and 'lock in' on them for the last four months of the year. There are no official rules. It started on TikTok in August 2025 and returned for 2026. It overlaps with the older 'Winter Arc' (Oct 1 to Dec 31) and 'last 90 days' challenges, and feeds the 'lock-in/rebrand instead of resolutions' framing for the New Year.",
+  "window": {
+    "endEstimate": null,
+    "estimate": "Sprint tracker: now to mid-November at best. 'Lock In 2027' planner: list by Dec 1, sell Dec 15 to Jan 31",
+    "invalidators": [
+      "The 'Great Lock-In' name fades the way 'Winter Arc' did",
+      "TikTok moves to a new name for the January reset",
+      "Backlash about burnout and 'grind culture' (CBC critique) reduces appeal",
+      "Free app templates meet the need"
+    ],
+    "reasoning": "The 2026 lock-in started Sept 1 and is already a month old. A new listing needs weeks to surface, so a Sept-Dec tracker mostly misses the window. New Year planning is the stronger window, and the 'lock-in instead of resolutions' framing is documented.",
+    "seasonality": "Two peaks a year: early September (lock-in start) and late December to early January (resolution season). Winter Arc peaks around Oct 1.",
+    "sellBy": null
+  }
+}

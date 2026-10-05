@@ -1,0 +1,19 @@
+{
+  "accessMethod": "web_search_result",
+  "candidateId": "analog-bag-screen-free-gifting",
+  "claim": "Syndicated copy of the PureWow article.",
+  "excerpt": "Same title as a6, on AOL.",
+  "firstRetrievedAt": "2026-10-04T20:59:17Z",
+  "firstSeenRunId": "run-2026-10-04-movements",
+  "id": "analog-bag-screen-free-gifting~9821535a",
+  "intent": "none",
+  "kind": "observed",
+  "lastSeenRunId": "run-2026-10-04-movements",
+  "publishedAt": null,
+  "publisher": "AOL",
+  "retrievedAt": "2026-10-04T20:59:17Z",
+  "signalType": "press",
+  "syndicationOf": "analog-bag-screen-free-gifting~468db1dc",
+  "title": "I'm Calling It: An 'Analog Bag' is 2025's Hottest Holiday Gift for Tweens, Teens and Grown-Ups Too",
+  "url": "https://www.aol.com/articles/im-calling-analog-bag-2025s-121254703.html"
+}

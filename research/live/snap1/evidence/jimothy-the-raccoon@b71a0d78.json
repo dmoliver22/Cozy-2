@@ -1,0 +1,19 @@
+{
+  "accessMethod": "web_search_result",
+  "candidateId": "jimothy-the-raccoon",
+  "claim": "An e-commerce newsletter also reported the merch flood within a week. It may be derived from Fast Company's reporting.",
+  "excerpt": "Headline only.",
+  "firstRetrievedAt": "2026-10-04T20:57:55Z",
+  "firstSeenRunId": "run-2026-10-04-memes",
+  "id": "jimothy-the-raccoon~b71a0d78",
+  "intent": "none",
+  "kind": "observed",
+  "lastSeenRunId": "run-2026-10-04-memes",
+  "publishedAt": null,
+  "publisher": "Shopifreaks",
+  "retrievedAt": "2026-10-04T20:57:55Z",
+  "signalType": "press",
+  "syndicationOf": "jimothy-the-raccoon~a91fa241",
+  "title": "Jimothy the raccoon merch floods Etsy and Amazon within a week of a Seattle backyard video racking up millions of views",
+  "url": "https://www.shopifreaks.com/jimothy-the-raccoon-merch-floods-etsy-and-amazon-within-a-week-of-a-seattle-backyard-video-racking-up-millions-of-views/"
+}

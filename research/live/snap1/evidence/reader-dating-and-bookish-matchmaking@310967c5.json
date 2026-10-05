@@ -1,0 +1,19 @@
+{
+  "accessMethod": "web_search_result",
+  "candidateId": "reader-dating-and-bookish-matchmaking",
+  "claim": "Libraries host book-themed speed dating, so organizers run these events.",
+  "excerpt": "Speed Dating: Book Edition",
+  "firstRetrievedAt": "2026-10-05T00:00:55Z",
+  "firstSeenRunId": "run-hunt-hobbies-20261004-2",
+  "id": "reader-dating-and-bookish-matchmaking~310967c5",
+  "intent": "utility",
+  "kind": "observed",
+  "lastSeenRunId": "run-hunt-hobbies-20261004-2",
+  "publishedAt": "2026-02-14",
+  "publisher": "Mercantile Library (Cincinnati)",
+  "retrievedAt": "2026-10-05T00:00:55Z",
+  "signalType": "community",
+  "syndicationOf": null,
+  "title": "Speed Dating: Book Edition",
+  "url": "https://www.mercantilelibrary.com/events/calendar/2026/02/14/speed-dating-book-edition"
+}

@@ -1,0 +1,23 @@
+{
+  "action": "pass",
+  "analystAction": "pass",
+  "candidateId": "6-7-six-seven-meme",
+  "competition": "high",
+  "confidence": 48,
+  "id": "6-7-six-seven-meme~run-analyze-muueb7q2-x8paqz",
+  "independentSources": 9,
+  "purchaseSignals": 0,
+  "runId": "run-analyze-muueb7q2-x8paqz",
+  "score": 28,
+  "stage": "declining",
+  "takenAt": "2026-10-04T22:33:00Z",
+  "weightsUsed": {
+    "buyerIntent": 20,
+    "durability": 15,
+    "economics": 10,
+    "productFit": 15,
+    "supplyGap": 15,
+    "timing": 25
+  },
+  "windowEstimate": null
+}

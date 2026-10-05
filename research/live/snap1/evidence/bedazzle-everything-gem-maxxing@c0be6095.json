@@ -1,0 +1,19 @@
+{
+  "accessMethod": "web_search_result",
+  "candidateId": "bedazzle-everything-gem-maxxing",
+  "claim": "US local TV network coverage of the spending side of the trend",
+  "excerpt": "The economy of bedazzling: Why rhinestones are suddenly everywhere",
+  "firstRetrievedAt": "2026-10-04T23:58:00Z",
+  "firstSeenRunId": "run-hunt-aesthetics-20261004-4",
+  "id": "bedazzle-everything-gem-maxxing~c0be6095",
+  "intent": "utility",
+  "kind": "observed",
+  "lastSeenRunId": "run-hunt-aesthetics-20261004-4",
+  "publishedAt": null,
+  "publisher": "10TV (TEGNA)",
+  "retrievedAt": "2026-10-04T23:58:00Z",
+  "signalType": "press",
+  "syndicationOf": null,
+  "title": "The economy of bedazzling: Why rhinestones are suddenly everywhere",
+  "url": "https://www.10tv.com/article/news/nation-world/the-economy-of-bedazzling-why-rhinestones-suddenly-everywhere/507-6ef73384-feab-4757-8f7b-6105c022b454"
+}

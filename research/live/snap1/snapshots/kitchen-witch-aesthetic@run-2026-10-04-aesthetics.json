@@ -1,0 +1,16 @@
+{
+  "action": "prepare",
+  "analystAction": "test_now",
+  "candidateId": "kitchen-witch-aesthetic",
+  "competition": "moderate",
+  "confidence": 52,
+  "id": "kitchen-witch-aesthetic~run-2026-10-04-aesthetics",
+  "independentSources": 13,
+  "purchaseSignals": 0,
+  "runId": "run-2026-10-04-aesthetics",
+  "score": 56,
+  "stage": "mainstream_surge",
+  "takenAt": "2026-10-04T21:00:56Z",
+  "weightsUsed": null,
+  "windowEstimate": "Now through about late December 2026 for digital products; POD only for holiday/Yule gifting, not Halloween."
+}

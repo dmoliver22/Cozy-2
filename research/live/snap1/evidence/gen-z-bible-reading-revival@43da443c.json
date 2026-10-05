@@ -1,0 +1,19 @@
+{
+  "accessMethod": "web_search_result",
+  "candidateId": "gen-z-bible-reading-revival",
+  "claim": "Partner press release for the same dataset.",
+  "excerpt": "Press release title matching the Barna findings.",
+  "firstRetrievedAt": "2026-10-04T20:59:17Z",
+  "firstSeenRunId": "run-2026-10-04-movements",
+  "id": "gen-z-bible-reading-revival~43da443c",
+  "intent": "utility",
+  "kind": "observed",
+  "lastSeenRunId": "run-2026-10-04-movements",
+  "publishedAt": null,
+  "publisher": "Gloo",
+  "retrievedAt": "2026-10-04T20:59:17Z",
+  "signalType": "press",
+  "syndicationOf": "gen-z-bible-reading-revival~fb50f53c",
+  "title": "Millenials and Gen Z are Driving a Bible Reading Comeback",
+  "url": "https://www.gloo.com/press/releases/millenials-and-gen-z-are-driving-a-bible-reading-comeback"
+}

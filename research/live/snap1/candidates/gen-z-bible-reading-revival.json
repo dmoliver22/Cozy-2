@@ -1,0 +1,223 @@
+{
+  "actionRationale": "Durable, measured growth among exactly the young adults who buy printables. But competition is high and the seasonal window opens in late December, so build carefully, with accuracy review and references only, and list by about Dec 1 rather than rushing a test now.",
+  "adopters": {
+    "evidence": [
+      "gen-z-bible-reading-revival~fb50f53c",
+      "gen-z-bible-reading-revival~1cac4c91",
+      "gen-z-bible-reading-revival~63739610",
+      "gen-z-bible-reading-revival~28c6700e"
+    ],
+    "text": "Gen Z and millennials, especially young men, according to Barna. Pastors report higher Gen Z engagement: 45% versus 12% reporting lower (Crosswalk). Press reports first-time Bible buyers, and Gen Z reportedly prefers 'aesthetic' editions and journaling Bibles. Motivations described in press include searching for meaning; this is a reported framing, not an inference about individuals."
+  },
+  "aliases": [
+    "quiet revival",
+    "Bible reading comeback",
+    "Gen Z Bible boom",
+    "young men returning to church",
+    "Gen Z & millennial Bible-reading revival"
+  ],
+  "category": "belief",
+  "channels": [
+    "Etsy",
+    "Pinterest",
+    "Gumroad",
+    "Instagram",
+    "Amazon KDP"
+  ],
+  "competition": {
+    "evidence": [
+      "gen-z-bible-reading-revival~2a8f33c9",
+      "gen-z-bible-reading-revival~70c21293",
+      "gen-z-bible-reading-revival~28c6700e"
+    ],
+    "level": "high",
+    "text": "High. Reading-plan printables and trackers are abundant and cheap on Etsy, free plans are widespread from churches and Bible apps, and journaling Bibles and devotionals are an established publishing category. Beginner orientation guides exist (ilubra). Less visible in results: plans explicitly designed for first-time young-adult readers, and styles aimed at the young-men segment Barna highlights."
+  },
+  "editorialNotes": [
+    "Editorial review 2026-10-04: Counted \"Baptist Press\" with \"Barna Group\" as one signal: reports the same Barna/Gloo dataset.",
+    "Editorial review 2026-10-04: Relabeled \"PRLog via Observer-Reporter\" from help-seeking to context only: a publisher launch is supply.",
+    "Editorial review 2026-10-04: Relabeled \"Etsy\" from purchase intent to context only: existing trackers are supply.",
+    "Editorial review 2026-10-04: Estimated window end set to Jan 15, 2027, matching the research's 'sell through mid-January' reasoning."
+  ],
+  "effortMin": "medium",
+  "firstSeenAt": "2026-10-04T21:02:03.000Z",
+  "formats": [
+    "printable",
+    "journal"
+  ],
+  "gap": {
+    "isInference": true,
+    "text": "A 2027 'first-time reader' plan: references only, two styles (minimal for young men, soft aesthetic), plus factual orientation pages (how the Bible is organized: testaments, books, genres) and a simple tracker. Also a neutral reading-notes journal. Neither should present new teachings or promise outcomes. The opening is in beginner positioning and design rather than content novelty."
+  },
+  "id": "gen-z-bible-reading-revival",
+  "jobId": null,
+  "language": "en",
+  "lastRunId": "run-2026-10-04-movements",
+  "lens": "Discovery scan: movements & Q4 seasonal hooks",
+  "name": "Gen Z Bible-reading revival",
+  "origin": {
+    "date": null,
+    "evidence": [
+      "gen-z-bible-reading-revival~fb50f53c",
+      "gen-z-bible-reading-revival~4ffb19ff",
+      "gen-z-bible-reading-revival~57188f9d",
+      "gen-z-bible-reading-revival~63739610"
+    ],
+    "text": "UK reports of a 'quiet revival' and rising Bible sales date from 2024-2025. US data came from Barna/Gloo's State of the Church release in November 2025, and coverage continued into 2026 (Shoutout UK April 2026; a beginner guide launched for Easter 2026)."
+  },
+  "productDemand": {
+    "evidence": [
+      "gen-z-bible-reading-revival~57188f9d",
+      "gen-z-bible-reading-revival~70c21293",
+      "gen-z-bible-reading-revival~2a8f33c9"
+    ],
+    "text": "There is direct purchase evidence for Bibles themselves (record sales reported). Publishers launched beginner reference guides in 2026, which shows a perceived need for orientation tools. Etsy sells low-priced Bible reading trackers (e.g. a chronological plan at $1.87 from a Star Seller). Demand for printable reading plans for new young readers specifically is plausible but not measured. Free plans from churches and apps are a strong substitute."
+  },
+  "products": [
+    {
+      "buyer": "Adults aged 18-35 who are new to reading the Bible, including first-time Bible buyers; separate design for the young-men segment",
+      "channels": [
+        "Etsy",
+        "Pinterest",
+        "Gumroad",
+        "Instagram"
+      ],
+      "continueIf": "Sales, or favorites growing week over week, during Dec 15 to Jan 10.",
+      "differentiation": "Built for beginners, with factual orientation pages. A minimal style for young men, unlike the mostly floral tracker designs. No copyrighted text.",
+      "effort": "medium",
+      "effortHours": 10,
+      "evidence": [
+        "gen-z-bible-reading-revival~fb50f53c",
+        "gen-z-bible-reading-revival~70c21293",
+        "gen-z-bible-reading-revival~63739610"
+      ],
+      "format": "printable",
+      "fulfillment": "digital",
+      "leadTimeDays": 3,
+      "pivotIf": "Only one style moves: drop the other and add a matching journal or Bible-tab printable in the winning style.",
+      "rightsNote": "References only. No translation text. Do not copy proprietary reading plans. Get an accuracy review.",
+      "stopIf": "No sales by Jan 15, 2027.",
+      "theme": "'2027 First-Time Reader Plan': a references-only, one-year reading schedule based on a standard, verifiable structure (e.g. the whole Bible in canonical or chronological order, or the New Testament in a year), plus orientation pages (how the Bible is organized: testaments, book list, genres), a check-off tracker and a notes page. Offered in two visual styles.",
+      "validationTest": "List both styles by Nov 20 and pin weekly. Watch which style earns more favorites and clicks by Dec 20.",
+      "whyBuy": "Weekly Bible reading among Gen Z is reported up from 30% to 49%, and new readers want structure. Publishers launched beginner guides in 2026. January 1 is the natural start date."
+    },
+    {
+      "buyer": "The same new readers who prefer writing by hand",
+      "channels": [
+        "Amazon KDP",
+        "Etsy"
+      ],
+      "continueIf": "Any organic KDP sales in the first three weeks of January.",
+      "differentiation": "Matches the plan's design and beginner orientation, and pairs with it as a bundle.",
+      "effort": "medium",
+      "effortHours": 8,
+      "evidence": [
+        "gen-z-bible-reading-revival~28c6700e",
+        "gen-z-bible-reading-revival~fb50f53c"
+      ],
+      "format": "journal",
+      "fulfillment": "pod",
+      "leadTimeDays": 5,
+      "pivotIf": "KDP stalls but digital sells: keep digital only.",
+      "rightsNote": "Do not present common journaling methods as new teachings. No scripture text unless public domain.",
+      "stopIf": "No sales in either channel by Jan 31, 2027.",
+      "theme": "An undated 365-entry reading-notes journal with neutral fields (date, passage reference, what stood out, questions, notes or prayer) and orientation pages at the front, in the two matching styles.",
+      "validationTest": "Publish to KDP by Dec 1 (allowing for review time) and sell the digital interior on Etsy.",
+      "whyBuy": "Journaling Bibles and handwritten notes are reported as Gen Z preferences, and this fits the analog/paper trend."
+    }
+  ],
+  "qualityFlags": [],
+  "recommendedAction": "prepare",
+  "region": "US",
+  "researchedAt": "2026-10-04T21:02:03Z",
+  "rights": {
+    "note": "Modern translations (NIV, ESV, NLT, CSB, etc.) are copyrighted and have quotation permissions. Use references only, or quote public-domain text (KJV, World English Bible). Do not use ministry or app brand names (YouVersion, She Reads Truth, BibleProject) or the names of published reading plans unless they are verified public domain. Have content checked for accuracy and denominational neutrality. Make no claims about spiritual or mental-health outcomes.",
+    "risk": "medium"
+  },
+  "runIds": [
+    "run-2026-10-04-movements"
+  ],
+  "scores": {
+    "buyerIntent": {
+      "basis": "reported",
+      "rationale": "Bible purchases are reported at record levels. Intent for printable plans is unmeasured and free substitutes are common.",
+      "score": 3
+    },
+    "durability": {
+      "basis": "reported",
+      "rationale": "Multi-year data (UK sales since 2019; US rebound 2024 to 2025) and continuing 2026 coverage.",
+      "score": 4
+    },
+    "economics": {
+      "basis": "qualitative",
+      "rationale": "Digital $4-9 and KDP journals; prices are pushed down by $2 trackers and free plans.",
+      "score": 3
+    },
+    "productFit": {
+      "basis": "qualitative",
+      "rationale": "Printables and KDP journals are easy to make, but accuracy and sensitivity review add effort.",
+      "score": 4
+    },
+    "supplyGap": {
+      "basis": "qualitative",
+      "rationale": "Crowded category. The opening is narrow positioning: first-time young adults, design for young men.",
+      "score": 2
+    },
+    "timing": {
+      "basis": "qualitative",
+      "rationale": "Ten weeks to prepare for the New Year reading-plan season; the trend is in growth.",
+      "score": 3
+    }
+  },
+  "source": "research",
+  "spread": {
+    "evidence": [
+      "gen-z-bible-reading-revival~fb50f53c",
+      "gen-z-bible-reading-revival~4ffb19ff",
+      "gen-z-bible-reading-revival~819290f6",
+      "gen-z-bible-reading-revival~57188f9d",
+      "gen-z-bible-reading-revival~70c21293",
+      "gen-z-bible-reading-revival~63739610"
+    ],
+    "text": "Reported by research firms (Barna/Gloo), denominational and Christian press (Baptist Press, Christian Post, Crosswalk, Christian Institute), UK youth media (Shoutout UK), retailers (Eden) and publishers (ilubra press release). Mainstream secular coverage was not checked in depth (search budget). Much of the US coverage traces back to one Barna/Gloo dataset, so it counts as one primary signal with many reports."
+  },
+  "summary": "Surveys and sales data report sharply more young US and UK adults reading and buying Bibles, with young men prominent. That creates new readers who need beginner-friendly structure, especially at New Year.",
+  "topicKeys": [
+    "phrase:gen z bible reading revival",
+    "phrase:quiet revival",
+    "phrase:bible reading comeback",
+    "phrase:gen z bible boom",
+    "phrase:young men returning to church",
+    "phrase:gen z millennial bible reading revival"
+  ],
+  "trajectory": {
+    "evidence": [
+      "gen-z-bible-reading-revival~fb50f53c",
+      "gen-z-bible-reading-revival~819290f6",
+      "gen-z-bible-reading-revival~57188f9d",
+      "gen-z-bible-reading-revival~70c21293"
+    ],
+    "stage": "early_growth",
+    "text": "Measured growth from a 2024 low (Barna) and sales reported rising since 2019 (UK +106% per Christian Institute), with 2026 product launches responding to new readers. Inference: early growth within the youth segment of a large, established religious-publishing niche. Christian Post notes fewer respondents believe the Bible is fully accurate, so the picture is mixed rather than uniformly 'revival'."
+  },
+  "unresolved": [
+    "Do Barna's 2025 figures hold in 2026 data, and do other surveys (e.g. Pew, Gallup) agree? Not checked because the search budget ran out.",
+    "No direct evidence that New Year produces a spike in demand for printable reading plans; that is an inference.",
+    "How saturated are beginner and young-men-styled plans on Etsy? (Etsy blocked.)",
+    "The UK figures (37% of young people believing in God; church attendance among 18-24s quadrupled) come from the Bible Society 'Quiet Revival' report as summarized by others; methodology not reviewed."
+  ],
+  "what": "Barna and Gloo's State of the Church research (released November 2025) reports US weekly Bible reading rebounding to 42% of adults, with Gen Z rising from 30% to 49% and young men leading. Physical Bible sales are reported at a 21-year US high in 2025 and record UK levels. Publishers have launched beginner guides for 'a new generation of readers'. This describes reported engagement data, not any particular teaching.",
+  "window": {
+    "endEstimate": "2027-01-15",
+    "estimate": "List by about Dec 1, 2026 and sell through mid-January 2027 (New Year reading-plan season). The underlying trend looks multi-year.",
+    "invalidators": [
+      "2026 State of the Church or other surveys show the rebound reversing or not replicating",
+      "Free app and church plans fully meet the need",
+      "Community reaction to commercial products seen as inauthentic",
+      "Translation-copyright problems if scripture text is included"
+    ],
+    "reasoning": "Year-long reading plans conventionally start January 1 (inference; no search evidence gathered on seasonal spikes). The revival data covers multiple years (sales up since 2019 in the UK; US rebound 2024 to 2025), so the trend should outlast the launch window.",
+    "seasonality": "Peak late December to mid-January for year-long plans. Secondary peaks around Lent/Easter and back-to-school.",
+    "sellBy": null
+  }
+}

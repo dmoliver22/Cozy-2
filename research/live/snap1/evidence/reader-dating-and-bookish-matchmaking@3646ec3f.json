@@ -1,0 +1,19 @@
+{
+  "accessMethod": "web_search_result",
+  "candidateId": "reader-dating-and-bookish-matchmaking",
+  "claim": "A literary magazine covered the app's launch party in NYC and described its 'bookish star signs' matching.",
+  "excerpt": "the dating app has engineered what one might call an Enneagrammatical system of bookish star signs",
+  "firstRetrievedAt": "2026-10-05T00:00:55Z",
+  "firstSeenRunId": "run-hunt-hobbies-20261004-2",
+  "id": "reader-dating-and-bookish-matchmaking~3646ec3f",
+  "intent": "curiosity",
+  "kind": "observed",
+  "lastSeenRunId": "run-hunt-hobbies-20261004-2",
+  "publishedAt": "2026-09-25",
+  "publisher": "The Paris Review",
+  "retrievedAt": "2026-10-05T00:00:55Z",
+  "signalType": "press",
+  "syndicationOf": null,
+  "title": "Dispatch: Readme",
+  "url": "https://theparisreview.org/blog/2026/09/25/co-star-app-dispatch-readme"
+}

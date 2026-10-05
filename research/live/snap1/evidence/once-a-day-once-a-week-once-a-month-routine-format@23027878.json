@@ -1,0 +1,19 @@
+{
+  "accessMethod": "web_search_result",
+  "candidateId": "once-a-day-once-a-week-once-a-month-routine-format",
+  "claim": "Separate September 2026 roundup describes routines broken down into daily/weekly/monthly buckets",
+  "excerpt": "Routines broken down by the clock, with creators splitting their skincare, posting schedule, or training habits into daily/weekly/monthly buckets.",
+  "firstRetrievedAt": "2026-10-05T00:01:02Z",
+  "firstSeenRunId": "run-hunt-foodhome-20261004-2",
+  "id": "once-a-day-once-a-week-once-a-month-routine-format~23027878",
+  "intent": "utility",
+  "kind": "observed",
+  "lastSeenRunId": "run-hunt-foodhome-20261004-2",
+  "publishedAt": null,
+  "publisher": "INFLOW Network",
+  "retrievedAt": "2026-10-05T00:01:02Z",
+  "signalType": "creator",
+  "syndicationOf": null,
+  "title": "Hello Autumn: The latest vibes on TikTok",
+  "url": "https://inflownetwork.com/tiktok-trends-september-2026/"
+}

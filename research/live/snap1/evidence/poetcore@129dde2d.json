@@ -1,0 +1,19 @@
+{
+  "accessMethod": "web_search_result",
+  "candidateId": "poetcore",
+  "claim": "Pinterest Predicts 2026 named Poetcore, reporting searches for 'the poet aesthetic' up 175%.",
+  "excerpt": "Search summary: Poetcore = oversized turtlenecks, vintage blazers, messenger satchels; 'the poet aesthetic' +175%.",
+  "firstRetrievedAt": "2026-10-04T20:56:14Z",
+  "firstSeenRunId": "run-2026-10-04-aesthetics",
+  "id": "poetcore~129dde2d",
+  "intent": "curiosity",
+  "kind": "observed",
+  "lastSeenRunId": "run-2026-10-04-aesthetics",
+  "publishedAt": "2025-12-10",
+  "publisher": "FashionUnited",
+  "retrievedAt": "2026-10-04T20:56:14Z",
+  "signalType": "press",
+  "syndicationOf": "poetcore~96e6d123",
+  "title": "Poetcore, opera aesthetic and brooches: Key style predictions from Pinterest for 2026",
+  "url": "https://fashionunited.com/news/fashion/poetcore-opera-aesthetic-and-brooches-key-style-predictions-from-pinterest-for-2026/2025121069575"
+}

@@ -1,0 +1,102 @@
+{
+  "candidateId": null,
+  "createdAt": "2026-10-04T23:49:30Z",
+  "dispatch": {
+    "at": "2026-10-04T23:49:30Z",
+    "status": "sent"
+  },
+  "error": "Every page fetch was blocked by the egress proxy (Pinterest newsroom, Bloomberg, Fortune, Substack and others), so all evidence comes from search-result snippets. No mid-September 2026 acceleration was measured for any pick. The backgammon item is labeled first spark because almost no products serve it, not because of a new spike. Etsy and Amazon supply were not checked directly.",
+  "finishedAt": "2026-10-05T00:03:58Z",
+  "id": "hunt-communities-20261004",
+  "input": "First-spark hunt: fast-growing niche communities and subcultures",
+  "inputKind": null,
+  "key": "discover:hunt-communities-20261004",
+  "progress": "Done: 4 candidates filed to inbox",
+  "result": null,
+  "sourcesTried": [
+    {
+      "method": "WebSearch",
+      "note": "About 45 queries; all evidence below comes from search result snippets.",
+      "source": "Web search (standard and extended)",
+      "status": "ok"
+    },
+    {
+      "method": "WebFetch",
+      "note": "Egress proxy blocked; used search snippets and syndicated coverage instead.",
+      "source": "newsroom.pinterest.com (Hobbies Trend Report 2026)",
+      "status": "blocked"
+    },
+    {
+      "method": "WebFetch",
+      "note": "Egress blocked; only the headline/date seen.",
+      "source": "bloomberg.com (miniatures feature, 2026-09-18)",
+      "status": "blocked"
+    },
+    {
+      "method": "WebFetch",
+      "note": "Egress blocked.",
+      "source": "community.pinterest.biz weekly trends",
+      "status": "blocked"
+    },
+    {
+      "method": "WebFetch",
+      "note": "Egress blocked; facts taken from search snippets.",
+      "source": "fortune.com (Gen Z birding, 2026-08-23)",
+      "status": "blocked"
+    },
+    {
+      "method": "WebFetch",
+      "note": "Egress blocked.",
+      "source": "fooddrinklife.com (craft classes filling fast)",
+      "status": "blocked"
+    },
+    {
+      "method": "WebFetch",
+      "note": "Egress blocked.",
+      "source": "ooonyc.substack.com (Fall 2026 hobby guide)",
+      "status": "blocked"
+    },
+    {
+      "method": "WebSearch site results",
+      "note": "Only indirect: listings surfaced in web search; Etsy itself not fetched (assumed blocked per worker notes).",
+      "source": "Etsy marketplace search",
+      "status": "ok"
+    },
+    {
+      "method": "not attempted directly",
+      "note": "Known to be blocked for fetching; relied on press and trend-roundup coverage of these platforms.",
+      "source": "TikTok, Reddit, Google Trends",
+      "status": "not_tried"
+    },
+    {
+      "method": "WebSearch",
+      "note": "Only September 2026 meme-of-the-month roundup surfaced; nothing community-relevant.",
+      "source": "Know Your Meme",
+      "status": "ok"
+    }
+  ],
+  "startedAt": "2026-10-04T23:52:00Z",
+  "status": "partial",
+  "steps": [
+    {
+      "label": "Queued",
+      "status": "done"
+    },
+    {
+      "label": "Searching",
+      "status": "done"
+    },
+    {
+      "label": "Verifying sources",
+      "status": "done"
+    },
+    {
+      "label": "Writing results",
+      "status": "done"
+    }
+  ],
+  "summary": "Screened 25 in fast-growing niche communities; filed 4 (2 first spark, 2 early growth).",
+  "topicKey": null,
+  "type": "discover",
+  "updatedAt": "2026-10-05T00:03:58Z"
+}

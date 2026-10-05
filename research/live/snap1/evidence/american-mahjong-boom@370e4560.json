@@ -1,0 +1,19 @@
+{
+  "accessMethod": "web_search_result",
+  "candidateId": "american-mahjong-boom",
+  "claim": "Third-party estimate: 'mahjong instructor' search volume rose 556% between March 2025 and February 2026 (platform/source of volume not stated in the summary).",
+  "excerpt": "Search summary: 'Mahjong instructor' +556% (Mar 2025-Feb 2026); 'mahjong teacher' +175% (May 2025-Apr 2026). WebFetch of this page was blocked, so methodology unverified.",
+  "firstRetrievedAt": "2026-10-04T20:58:18Z",
+  "firstSeenRunId": "run-2026-10-04-hobbies",
+  "id": "american-mahjong-boom~370e4560",
+  "intent": "utility",
+  "kind": "observed",
+  "lastSeenRunId": "run-2026-10-04-hobbies",
+  "publishedAt": null,
+  "publisher": "RankHero (third-party SEO keyword tool)",
+  "retrievedAt": "2026-10-04T20:58:18Z",
+  "signalType": "search",
+  "syndicationOf": null,
+  "title": "mahjong instructor (keyword page)",
+  "url": "https://www.rankhero.com/keywords/mahjong-instructor"
+}

@@ -1,0 +1,19 @@
+{
+  "accessMethod": "web_search_result",
+  "candidateId": "kitchen-witch-aesthetic",
+  "claim": "Separate TikTok discover cluster for witch-kitchen decor (counted with kw12 as one social signal).",
+  "excerpt": "Discover-page title only; content summarized together with kw12.",
+  "firstRetrievedAt": "2026-10-04T21:00:56Z",
+  "firstSeenRunId": "run-2026-10-04-aesthetics",
+  "id": "kitchen-witch-aesthetic~b9f19294",
+  "intent": "utility",
+  "kind": "observed",
+  "lastSeenRunId": "run-2026-10-04-aesthetics",
+  "publishedAt": null,
+  "publisher": "TikTok (discover page)",
+  "retrievedAt": "2026-10-04T21:00:56Z",
+  "signalType": "social",
+  "syndicationOf": "kitchen-witch-aesthetic~4491f321",
+  "title": "Witch Kitchen Decor",
+  "url": "https://www.tiktok.com/discover/witch-kitchen-decor?lang=en"
+}

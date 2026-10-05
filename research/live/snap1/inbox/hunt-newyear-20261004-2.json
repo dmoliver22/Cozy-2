@@ -1,0 +1,549 @@
+{
+  "createdAt": "2026-10-04T23:59:46Z",
+  "jobId": "hunt-newyear-20261004",
+  "raw": {
+    "candidates": [
+      {
+        "actionRationale": "It is a first spark with clear behavior data and no supply. Build the planner cheaply under generic search terms ('2027 planner', 'single life planner') and use 'hobbyamory' only as a hook if it spreads.",
+        "adopters": {
+          "evidence": [
+            "e1",
+            "e6",
+            "e7",
+            "e8"
+          ],
+          "text": "Gen Z and young millennial singles, especially those tired of dating apps, who join hobby classes, clubs and events. Eventbrite data reported by industry press shows hobby events tagged for meeting people growing sharply."
+        },
+        "aliases": [
+          "hobby-amory",
+          "hobbies instead of dating",
+          "side-quest dating",
+          "hobby events over dating apps"
+        ],
+        "category": "movement",
+        "competition": {
+          "evidence": [],
+          "level": "none_found",
+          "text": "No hobbyamory-named products surfaced. Single-life self-care journals and generic hobby planners exist, but direct marketplace checks were not possible."
+        },
+        "evidence": [
+          {
+            "accessMethod": "web_search_result",
+            "claim": "Youth-research firm reports the New York Times coined 'hobbyamory': singles filling their calendars with hobbies instead of dates.",
+            "excerpt": "The New York Times has dubbed this 'hobbyamory'—picking up a range of calendar-packing activities and interests to fill their cup instead of spending time on dates or hookups.",
+            "id": "e1",
+            "intent": "none",
+            "kind": "observed",
+            "publishedAt": "2026-08-12",
+            "publisher": "YPulse",
+            "retrievedAt": "2026-10-04T23:59:46Z",
+            "signalType": "press",
+            "syndicationOf": null,
+            "title": "For some young singles, hobbies replace dating",
+            "url": "https://www.ypulse.com/newsfeed/2026/08/12/for-some-young-singles-hobbies-replace-dating/"
+          },
+          {
+            "accessMethod": "web_search_result",
+            "claim": "Italian newspaper responded to the trend within days, which shows international pickup (skeptical tone).",
+            "excerpt": "Dear twenty-somethings, who take up crochet or watercolour painting to avoid falling in love",
+            "id": "e2",
+            "intent": "criticism",
+            "kind": "observed",
+            "publishedAt": "2026-08-15",
+            "publisher": "Il Foglio",
+            "retrievedAt": "2026-10-04T23:59:46Z",
+            "signalType": "press",
+            "syndicationOf": null,
+            "title": "Dear twenty-somethings, who take up crochet or watercolour painting to avoid falling in love: tell us all about life",
+            "url": "https://www.ilfoglio.it/en/society/2026/08/15/news/dear-twenty-somethings-who-take-up-crochet-or-watercolour-painting-to-avoid-falling-in-love-tell-us-all-about-life--404880"
+          },
+          {
+            "accessMethod": "web_search_result",
+            "claim": "A US regional print edition ran the story, probably a syndicated copy of the original New York Times piece, which did not surface in search.",
+            "excerpt": "'Hobbyamory' replacing hookups for some singles",
+            "id": "e3",
+            "intent": "curiosity",
+            "kind": "observed",
+            "publishedAt": null,
+            "publisher": "Dayton Daily News (e-edition)",
+            "retrievedAt": "2026-10-04T23:59:46Z",
+            "signalType": "press",
+            "syndicationOf": null,
+            "title": "'Hobbyamory' replacing hookups for some singles",
+            "url": "https://www.daytondailynews.com/eedition/page-c1/page_8d5f2469-4ae7-59e2-a13c-0ac82a54ea9e.html"
+          },
+          {
+            "accessMethod": "web_search_result",
+            "claim": "An independent culture newsletter covered hobbyamory.",
+            "excerpt": "issue 338 hobbyamory gen z trend",
+            "id": "e4",
+            "intent": "curiosity",
+            "kind": "observed",
+            "publishedAt": null,
+            "publisher": "The Nod Mag (newsletter)",
+            "retrievedAt": "2026-10-04T23:59:46Z",
+            "signalType": "creator",
+            "syndicationOf": null,
+            "title": "Issue 338: hobbyamory Gen Z trend",
+            "url": "https://thenodmag.com/newsletters/scene/issue-338-hobbyamory-gen-z-trend"
+          },
+          {
+            "accessMethod": "web_search_result",
+            "claim": "A women's health outlet framed hobbyamory as a way to be single.",
+            "excerpt": "The newest way to be single: hobbyamory",
+            "id": "e5",
+            "intent": "curiosity",
+            "kind": "observed",
+            "publishedAt": null,
+            "publisher": "Rescripted",
+            "retrievedAt": "2026-10-04T23:59:46Z",
+            "signalType": "press",
+            "syndicationOf": null,
+            "title": "The newest way to be single: hobbyamory",
+            "url": "https://rescripted.com/spotlight_items/the-newest-way-to-be-single-hobbyamory"
+          },
+          {
+            "accessMethod": "web_search_result",
+            "claim": "Industry outlet reports Eventbrite data: hobby events tagged for singles or meeting people are up sharply year over year.",
+            "excerpt": "trivia (402% increase), mahjong (235% increase), plant swaps (117% increase), and birdwatching (131% increase)",
+            "id": "e6",
+            "intent": "none",
+            "kind": "observed",
+            "publishedAt": null,
+            "publisher": "Global Dating Insights",
+            "retrievedAt": "2026-10-04T23:59:46Z",
+            "signalType": "press",
+            "syndicationOf": null,
+            "title": "Hobby events see massive spike as a dating meetup option",
+            "url": "https://www.globaldatinginsights.com/featured/hobby-events-see-massive-spike-as-a-dating-meetup-option/"
+          },
+          {
+            "accessMethod": "web_search_result",
+            "claim": "Follow-up: dating-app fatigue is pushing Gen Z toward events and hobby groups.",
+            "excerpt": "dating app fatigue is driving platforms to focus on events over swiping",
+            "id": "e7",
+            "intent": "none",
+            "kind": "observed",
+            "publishedAt": "2026-08-19",
+            "publisher": "YPulse",
+            "retrievedAt": "2026-10-04T23:59:46Z",
+            "signalType": "press",
+            "syndicationOf": null,
+            "title": "What's replacing dating apps for Gen Z",
+            "url": "https://www.ypulse.com/newsfeed/2026/08/19/whats-replacing-dating-apps-for-gen-z/"
+          },
+          {
+            "accessMethod": "web_search_result",
+            "claim": "Corroborates the shift from apps to hobby groups.",
+            "excerpt": "gen z shifts from dating apps to hobby groups",
+            "id": "e8",
+            "intent": "none",
+            "kind": "observed",
+            "publishedAt": null,
+            "publisher": "Global Dating Insights",
+            "retrievedAt": "2026-10-04T23:59:46Z",
+            "signalType": "press",
+            "syndicationOf": null,
+            "title": "Gen Z shifts from dating apps to hobby groups",
+            "url": "https://www.globaldatinginsights.com/featured/gen-z-shifts-from-dating-apps-to-hobby-groups/"
+          },
+          {
+            "accessMethod": "web_search_result",
+            "claim": "Adjacent: the earlier 'solo-maxxing' coverage shows the single-by-choice framing building through 2026.",
+            "excerpt": "Gen Z is rejecting $200 dates and choosing 'solo-maxxing'—and dating apps are taking a hit",
+            "id": "e9",
+            "intent": "none",
+            "kind": "observed",
+            "publishedAt": "2026-05-30",
+            "publisher": "Fortune",
+            "retrievedAt": "2026-10-04T23:59:46Z",
+            "signalType": "press",
+            "syndicationOf": null,
+            "title": "Gen Z is rejecting $200 dates and choosing 'solo-maxxing'",
+            "url": "https://fortune.com/2026/05/30/why-does-gen-z-not-like-to-date-solo-maxxing-dates-too-expensive-emotionally-draining/"
+          },
+          {
+            "accessMethod": "web_search_result",
+            "claim": "Context: YPulse data on young adults adopting traditional hobbies.",
+            "excerpt": "Is Gen Z Really Picking Up Granny Hobbies?",
+            "id": "e10",
+            "intent": "none",
+            "kind": "observed",
+            "publishedAt": "2026-07-14",
+            "publisher": "YPulse",
+            "retrievedAt": "2026-10-04T23:59:46Z",
+            "signalType": "press",
+            "syndicationOf": null,
+            "title": "Is Gen Z Really Picking Up Granny Hobbies?",
+            "url": "https://www.ypulse.com/article/2026/07/14/is-gen-z-really-picking-up-granny-hobbies/"
+          },
+          {
+            "accessMethod": "web_search_result",
+            "claim": "Shows that the broader hobby-obsession story kept growing into September.",
+            "excerpt": "Gen Z is turning hobbies into work — and missing the point",
+            "id": "e11",
+            "intent": "criticism",
+            "kind": "observed",
+            "publishedAt": "2026-09-13",
+            "publisher": "The Washington Post",
+            "retrievedAt": "2026-10-04T23:59:46Z",
+            "signalType": "press",
+            "syndicationOf": null,
+            "title": "Gen Z is turning hobbies into work — and missing the point",
+            "url": "https://www.washingtonpost.com/style/2026/09/13/gen-z-hobby-obsession-ruins-point-leisure/"
+          },
+          {
+            "accessMethod": "web_search_result",
+            "claim": "Category demand for analog planners and stationery among Gen Z; not specific to hobbyamory.",
+            "excerpt": "Papier's sales swell to $50M this year fueled by a desire for analog products",
+            "id": "e12",
+            "intent": "purchase",
+            "kind": "observed",
+            "publishedAt": "2025-12-09",
+            "publisher": "Modern Retail",
+            "retrievedAt": "2026-10-04T23:59:46Z",
+            "signalType": "press",
+            "syndicationOf": null,
+            "title": "Papier's sales swell to $50M this year, fueled by a desire for analog products",
+            "url": "https://www.modernretail.co/marketing/brands-briefing-papiers-sales-swell-to-50m-this-year-fueled-by-a-desire-for-analog-products/"
+          }
+        ],
+        "gap": {
+          "isInference": true,
+          "text": "A 2027 planner built around monthly hobby 'side quests', invitations and friendship tracking for happily single people. It is not a self-care journal and not a dating planner."
+        },
+        "name": "Hobbyamory",
+        "observations": [
+          {
+            "asOf": "2026-08-31",
+            "evidence": "e6",
+            "isAbsolute": false,
+            "metric": "YoY growth in Eventbrite trivia events tagged for singles or meeting people",
+            "note": "reported by Global Dating Insights citing Eventbrite; not independently verified; asOf approximate",
+            "unit": "percent",
+            "value": 402
+          }
+        ],
+        "origin": {
+          "date": null,
+          "evidence": [
+            "e1",
+            "e3"
+          ],
+          "text": "YPulse (2026-08-12) credits the New York Times with coining 'hobbyamory'. The original NYT article did not surface in search; a Dayton Daily News print edition carried what appears to be a syndicated version."
+        },
+        "productDemand": {
+          "evidence": [
+            "e6",
+            "e12"
+          ],
+          "text": "No purchase evidence for hobbyamory products. Reported growth in hobby events for singles shows people spend time and money on the behavior, and analog planners sell well with Gen Z in general. Purchase intent for a themed planner is unproven."
+        },
+        "products": [
+          {
+            "buyer": "US single adults aged 22–35 with dating-app fatigue who are filling their lives with hobbies, clubs and friends",
+            "channels": [
+              "Etsy",
+              "Payhip",
+              "Pinterest",
+              "TikTok"
+            ],
+            "continueIf": "At least 1 sale or 20+ favorites in 21 days, or a side-quest pin passing 100 saves.",
+            "differentiation": "Combines monthly side quests, invitations and friendship tracking; existing single-life products are self-care journals and hobby planners track projects.",
+            "effort": "medium",
+            "effortHours": 14,
+            "evidence": [
+              "e1",
+              "e6",
+              "e7",
+              "e12"
+            ],
+            "format": "planner",
+            "fulfillment": "digital",
+            "leadTimeDays": 4,
+            "pivotIf": "Interest in the idea lists but no sales: sell the 100-side-quest deck alone at $4, or reposition as a general 'social planner 2027'.",
+            "playbook": {
+              "assembly": [
+                "Run the super prompt and check every 2027 date against a real calendar.",
+                "In Canva build US Letter masters: cover, year-at-a-glance, side quest menu, monthly spread, weekly page, trackers.",
+                "Fill all pages (about 90 pages for the full undated-weekly version).",
+                "Resize a copy to A4; fix overflow.",
+                "Make the hyperlinked digital version: add month tabs as internal page links and export as PDF Standard.",
+                "Export print versions as PDF Print (300 DPI).",
+                "Create 5–7 listing images, including the side quest menu and a stamp-style sticker preview; upload as an instant download."
+              ],
+              "asymmetry": {
+                "badBetIf": "Buyers read it as 'anti-dating' or a niche joke, or the term never reaches US mainstream use; then it competes as just another planner.",
+                "downside": "About 14 hours and $0 in ads.",
+                "upside": "Zero marginal cost; the 'single and thriving' plus hobby audience is broad and evergreen beyond the trend name, and the planner sells year-round as an undated version."
+              },
+              "costs": {
+                "baseCost": null,
+                "basis": "estimate: verify in the provider catalog",
+                "item": null,
+                "provider": null,
+                "shipping": null,
+                "testBudget": 0,
+                "testBudgetNote": "Organic only until the concept shows favorites; it is a first spark."
+              },
+              "extensions": [
+                "'Side Quest Unlocked' sticker sheet via Printify",
+                "Monthly side-quest cards printable deck",
+                "City-specific side-quest lists (generic, no venue names)",
+                "Undated evergreen version after January"
+              ],
+              "imagePrompts": [
+                {
+                  "prompt": "Playful flat illustration collage of hobby badges arranged like a passport stamp page: a pottery wheel, running shoe, trivia card, potted plant, mahjong-style tile with abstract dots, binoculars, tomato #E4572E, teal #17A398, sunflower #F3C623, plum #5B3758 on cream #FFF8EC, bold title text 'Side Quest Season 2027' in chunky grotesque type at top, portrait 8.5x11 ratio, solid background, no logos, no real people, no trademarked characters, no watermarks",
+                  "purpose": "Cover art",
+                  "tool": "Ideogram"
+                },
+                {
+                  "prompt": "Sticker sheet of 12 round badge stickers with short original phrases: 'Side Quest Unlocked', 'Calendar Full', 'Said Yes', 'New Club Who Dis', 'Solo Date Pro', 'Plant Swap Era', bold flat style, tomato #E4572E, teal #17A398, sunflower #F3C623, plum #5B3758, white die-cut borders, transparent background, square 1:1, no logos, no real people, no trademarked characters, no watermarks",
+                  "purpose": "Sticker sheet / promo graphic",
+                  "tool": "ChatGPT images or Ideogram"
+                }
+              ],
+              "listingPrompt": "Write an Etsy listing for 'Side Quest Season 2027', a printable and digital planner for happily single adults building a full social and hobby life (monthly side quests, 100-idea activity menu, friendship tracker, 52 undated weekly pages; US Letter, A4 and hyperlinked PDF). Title under 140 characters front-loading '2027 planner' and 'single life planner'. 13 tags of 20 characters or fewer (e.g. 2027 planner, single life planner, hobby planner, friendship tracker, digital planner). Description: who it is for, everything included with page counts, file types and sizes, instant download steps, which apps the digital version works with in general terms, and a 5-question FAQ. Never use trademarked terms, newspaper, app, venue or brand names; do not promise finding love or friends; do not shame dating.",
+              "marketing": {
+                "channels": [
+                  {
+                    "cadence": "3 per week",
+                    "channel": "TikTok/Reels",
+                    "tactic": "Single-life and hobby side-quest videos; join conversations about dating-app fatigue"
+                  },
+                  {
+                    "cadence": "daily",
+                    "channel": "Pinterest",
+                    "tactic": "Idea-list pins (side quests, solo dates) linking to the listing"
+                  },
+                  {
+                    "cadence": "weekly",
+                    "channel": "Etsy",
+                    "tactic": "Seasonal tag refresh in December ('2027 planner')"
+                  }
+                ],
+                "hooks": [
+                  "Deleted the apps. Planned 12 side quests for 2027.",
+                  "My calendar is full and I love it",
+                  "100 things to do instead of swiping",
+                  "A planner for the happily hobby-full"
+                ],
+                "keywords": [
+                  "2027 planner",
+                  "single life planner",
+                  "things to do single",
+                  "new hobbies to try",
+                  "friendship planner",
+                  "social planner 2027"
+                ],
+                "launchPlan": [
+                  {
+                    "action": "Publish the Etsy listing and Payhip mirror.",
+                    "day": "Day 0"
+                  },
+                  {
+                    "action": "Pin the free '25 side quests for 2027' graphic with a link to the planner.",
+                    "day": "Day 1"
+                  },
+                  {
+                    "action": "TikTok or Reel: 'Deleted the apps, planned 12 side quests for 2027' flip-through.",
+                    "day": "Day 3"
+                  },
+                  {
+                    "action": "Post a carousel of 10 side-quest ideas from the menu.",
+                    "day": "Day 5"
+                  },
+                  {
+                    "action": "Video: 'My friendship tracker so I actually see people'.",
+                    "day": "Day 8"
+                  },
+                  {
+                    "action": "Share in singles, hobby or city meetup communities that allow promo posts (check the community rules).",
+                    "day": "Day 12"
+                  },
+                  {
+                    "action": "Review visits and favorites; test a second cover image.",
+                    "day": "Day 16"
+                  },
+                  {
+                    "action": "Go/pivot/stop check.",
+                    "day": "Day 21"
+                  }
+                ],
+                "positioning": "The 2027 planner for people whose calendar is full of clubs, classes and friends, not dating apps."
+              },
+              "platforms": [
+                {
+                  "name": "Etsy",
+                  "role": "primary",
+                  "why": "Q4 digital planner demand sits there."
+                },
+                {
+                  "name": "Payhip or Gumroad",
+                  "role": "secondary",
+                  "why": "Direct links from TikTok and Pinterest."
+                },
+                {
+                  "name": "Pinterest",
+                  "role": "traffic",
+                  "why": "'Things to do single' and 'new hobbies to try' pins drive long-tail traffic."
+                }
+              ],
+              "pricing": {
+                "basis": "estimate",
+                "currency": "USD",
+                "high": 16,
+                "low": 8,
+                "rationale": "A full 90-page dated-plus-undated planner with a digital version; priced in line with mid-range Etsy digital planners.",
+                "recommended": 12
+              },
+              "productName": "Side Quest Season 2027 Planner",
+              "risks": [
+                "The term was coined by a newspaper and may not be widely used by consumers.",
+                "Overlap with generic self-care and single-life journals.",
+                "Tone risk: must not read as bitter about dating."
+              ],
+              "superPrompt": "You are a planner designer who writes with warmth and humor. Produce the complete content for a printable and digital planner called \"Side Quest Season: A 2027 Planner for the Happily Hobby-Full\" for [YOUR SHOP NAME].\n\nBUYER AND JOB: Single US adults aged 22–35 who are tired of dating apps and are putting their energy into hobbies, classes, clubs and friends instead (a shift the press has nicknamed \"hobbyamory\"). They want 2027 to feel full and social without centering romance. The planner helps them choose monthly \"side quests\" (try a class, join a club, host a game night), say yes to meetups, track friendships, and celebrate a full single life. It is not anti-dating: dating can happen, it just is not the center of the calendar.\n\nDELIVERABLE SPEC (US Letter 8.5x11 in and A4, portrait, plus a hyperlinked PDF with month tabs):\n1. Cover: \"Side Quest Season 2027\", tagline \"My calendar is full and I love it.\"\n2. Welcome page: what side quests are, and three rules: (1) one new thing a month, (2) invite someone or go solo, both count, (3) no scorekeeping.\n3. 2027 year-at-a-glance calendar: 12 mini months with correct 2027 dates (January 1, 2027 is a Friday).\n4. Side Quest Menu (2 pages): 100 original, low-cost activity ideas grouped into Make, Move, Learn, Play, Gather, Outdoors and Give Back. Include a mix such as pottery class, run club, trivia night, plant swap, mahjong night, birdwatching walk, volunteering shift, supper club, open mic and chess club. Use generic names only, never real businesses.\n5. Monthly spread x12 (2 pages each): month calendar grid with correct dates; \"This month's side quest\"; \"People I want to see\"; \"Invites I'll send\"; and a \"Main character moments\" box.\n6. Weekly page x52 (undated, 1 page each): plans, one small brave thing, a friend check-in, and a three-line \"best part of my week\".\n7. Friendship tracker: 20 friends with last hangout, next idea and a birthday column.\n8. Club & class log: name, schedule, cost, and keep / pause / quit.\n9. Solo date ideas page: 30 original ideas.\n10. Year-end reflection: my 12 side quests, new people I met, skills I picked up, and a letter to 2028 me.\n\nDESIGN: Canva font pairings (1) \"Bricolage Grotesque\" headings + \"Inter\" body; (2) \"Gloock\" headings + \"Work Sans\" body. Palette: Tomato #E4572E, Teal #17A398, Sunflower #F3C623, Plum #5B3758, Cream #FFF8EC. Use playful stamp and badge shapes.\n\nCONTENT RULES: All wording must be original. Use an upbeat, inclusive tone at an 8th-grade reading level, welcoming any gender or orientation. Never shame dating or people in relationships. Make no promises about finding love, friends or happiness. Do not name the New York Times, apps, venues, brands, celebrities or films. Do not use the word \"hobbyamory\" inside the planner pages (the seller may use it in marketing only after checking that it is not trademarked).\n\nDIFFERENTIATION: Most \"single life\" planners are self-care journals and most hobby planners track projects. This one combines monthly side quests, social invitations and friendship tracking for people building a full life outside dating.\n\nOUTPUT: Return the planner page by page (\"PAGE 1 — Cover\", ...), with every heading, field label, all 100 side quests and all 30 solo dates written out, then layout notes for each page type.\n\nSELF-CHECK: (a) the 2027 dates are correct (Jan 1 is a Friday; Dec 31 is a Friday); (b) 100 and 30 ideas, none repeated; (c) no outcome promises, brands or venue names; (d) inclusive language throughout; (e) both page sizes and the digital version are noted."
+            },
+            "rightsNote": "Do not use the New York Times name. Check 'hobbyamory' on USPTO TESS before using it in titles; keep it out of the product pages.",
+            "stopIf": "Under 50 visits after 21 days of promotion.",
+            "theme": "'Side Quest Season 2027': a planner for the happily single and hobby-full, with monthly side quests and a friendship tracker",
+            "validationTest": "List by Oct 25; 10 pins and 3 videos over 14 days.",
+            "whyBuy": "The press says young singles are swapping dates for hobbies ('hobbyamory'), and hobby events for meeting people are reported up sharply. New Year planning is when they will map out 2027's classes and clubs."
+          }
+        ],
+        "recommendedAction": "prepare",
+        "rights": {
+          "note": "Do not reference the New York Times. Check the coined term for trademarks before using it in titles. No venue or app names.",
+          "risk": "low"
+        },
+        "scores": {
+          "buyerIntent": {
+            "basis": "qualitative",
+            "rationale": "Behavior spend is reported (events), but there is no product purchase evidence.",
+            "score": 1
+          },
+          "durability": {
+            "basis": "qualitative",
+            "rationale": "Dating-app fatigue and the hobby revival are durable; the term is uncertain.",
+            "score": 3
+          },
+          "economics": {
+            "basis": "qualitative",
+            "rationale": "A digital product with zero marginal cost.",
+            "score": 4
+          },
+          "productFit": {
+            "basis": "qualitative",
+            "rationale": "Translates into a social or hobby planner, but the term itself may not be what buyers search for.",
+            "score": 3
+          },
+          "supplyGap": {
+            "basis": "qualitative",
+            "rationale": "No themed products found; marketplaces not checked directly.",
+            "score": 4
+          },
+          "timing": {
+            "basis": "reported",
+            "rationale": "The term is about 7 weeks old and the New Year planning window is ahead.",
+            "score": 4
+          }
+        },
+        "spread": {
+          "evidence": [
+            "e1",
+            "e2",
+            "e3",
+            "e4",
+            "e5",
+            "e7"
+          ],
+          "text": "Picked up within days in Italy (Il Foglio), by YPulse twice, a women's health outlet, a culture newsletter and US regional print. That is about 4–5 independent signals over 7 weeks. It has not yet been found on TikTok as a hashtag."
+        },
+        "summary": "A New York Times-coined term (August 2026) for young singles who fill their calendars with hobbies, clubs and friends instead of dating, now spreading through newsletters and international press.",
+        "trajectory": {
+          "evidence": [
+            "e1",
+            "e2",
+            "e6"
+          ],
+          "stage": "first_spark",
+          "text": "A newly coined term (August 2026) with a handful of independent pickups and no product supply found. The underlying behavior (hobby events instead of apps) has reported data behind it, but the term's consumer use is unproven."
+        },
+        "unresolved": [
+          "Confirm spread: a #hobbyamory hashtag appearing on TikTok or Instagram, or US lifestyle outlets (beyond syndication) using the term in October–November.",
+          "Check whether the term appears in end-of-year 'words of 2026' or dating-trend lists in December.",
+          "Verify the Eventbrite figures in the original release."
+        ],
+        "what": "Hobbyamory describes singles putting their time and money into a range of hobbies and friendships rather than dating apps or hookups. Run clubs, pottery, trivia, mahjong and book clubs become their social life, and dating can happen there but is not the goal. It links dating-app fatigue, the Gen Z hobby revival and the 'solo-maxxing' single-by-choice framing.",
+        "window": {
+          "endEstimate": null,
+          "estimate": "Nov 2026 – Feb 2027 (New Year planning plus Valentine's-season single content)",
+          "invalidators": [
+            "The term gets no new pickups after August",
+            "Coverage frames it as a fad and consumers do not adopt the word"
+          ],
+          "reasoning": "Planner buying peaks around New Year, and Valentine's season brings single-life content in early February. The behavior is durable even if the term fades.",
+          "seasonality": "New Year planning; Valentine's / Galentine's in February",
+          "sellBy": "2026-12-15"
+        }
+      }
+    ],
+    "kind": "discover",
+    "lens": "First-spark hunt: New Year 2027 planning, goals and reset formats",
+    "researchedAt": "2026-10-04T23:59:46Z",
+    "sourcesTried": [
+      {
+        "method": "web search",
+        "note": "About 45 queries; all evidence comes from search-result snippets.",
+        "source": "WebSearch (standard and extended)",
+        "status": "ok"
+      },
+      {
+        "method": "fetch",
+        "note": "Network egress proxy blocked every fetch attempted, so no page was read in full.",
+        "source": "WebFetch: upworthy.com, clothandpaper.com, fastcompany.com, napoleoncat.com, later.com, newengen.com, socialbee.com, select.keenable.ai, newsweek.com, mein-mmo.de, en.sedaily.com",
+        "status": "blocked"
+      },
+      {
+        "method": "curl",
+        "note": "CONNECT tunnel 403 from the environment proxy.",
+        "source": "washingtonpost.com",
+        "status": "blocked"
+      },
+      {
+        "method": "web search results only (discover/tag pages)",
+        "note": "Only search snippets of TikTok discover pages; view counts not verifiable.",
+        "source": "TikTok",
+        "status": "ok"
+      },
+      {
+        "method": "web search results only",
+        "note": "Two Etsy listing URLs surfaced in results; Etsy search and sales counts not checked directly.",
+        "source": "Etsy",
+        "status": "ok"
+      },
+      {
+        "method": "none",
+        "note": "Fetching is blocked in this environment.",
+        "source": "Google Trends",
+        "status": "not_tried"
+      },
+      {
+        "method": "none",
+        "note": "Fetching is blocked in this environment.",
+        "source": "Reddit",
+        "status": "not_tried"
+      },
+      {
+        "method": "web search results only",
+        "note": "No Pinterest 2027 Predicts report exists yet (usually released in December).",
+        "source": "Pinterest",
+        "status": "ok"
+      }
+    ]
+  },
+  "runId": "run-hunt-newyear-20261004-2",
+  "status": "new"
+}

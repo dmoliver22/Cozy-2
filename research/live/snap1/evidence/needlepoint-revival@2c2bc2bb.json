@@ -1,0 +1,19 @@
+{
+  "accessMethod": "web_search_result",
+  "candidateId": "needlepoint-revival",
+  "claim": "Regional lifestyle press covers new or growing needlepoint retail (URL path dated May 2026).",
+  "excerpt": "Title/URL only.",
+  "firstRetrievedAt": "2026-10-04T20:53:53Z",
+  "firstSeenRunId": "run-2026-10-04-hobbies",
+  "id": "needlepoint-revival~2c2bc2bb",
+  "intent": "curiosity",
+  "kind": "observed",
+  "lastSeenRunId": "run-2026-10-04-hobbies",
+  "publishedAt": null,
+  "publisher": "D Magazine",
+  "retrievedAt": "2026-10-04T20:53:53Z",
+  "signalType": "press",
+  "syndicationOf": null,
+  "title": "Mimi's needlepoint shop (Dallas)",
+  "url": "https://www.dmagazine.com/home-garden/2026/05/mimis-needlepoint-shodallas/"
+}

@@ -1,0 +1,140 @@
+{
+  "candidateId": null,
+  "createdAt": "2026-10-04T23:49:30Z",
+  "dispatch": {
+    "at": "2026-10-04T23:49:30Z",
+    "status": "sent"
+  },
+  "error": "Results written, but every direct page fetch was blocked by the egress proxy (trend roundups, Fortune, WaPo, Pinterest, Etsy), so all evidence comes from search-result snippets. Marketplace supply (Etsy) was not checked for any candidate, and the first-spark items rest on 2-6 sources with no purchase evidence.",
+  "finishedAt": "2026-10-05T00:01:30Z",
+  "id": "hunt-hobbies-20261004",
+  "ingest": {
+    "at": "2026-10-05T00:01:33.649Z",
+    "candidates": [
+      {
+        "errors": [],
+        "id": "once-a-day-once-a-week-once-a-month-routine-format",
+        "name": "Once a Day, Once a Week, Once a Month routine format",
+        "status": "created",
+        "warnings": 0
+      },
+      {
+        "errors": [],
+        "id": "reader-dating-and-bookish-matchmaking",
+        "name": "Reader dating and bookish matchmaking",
+        "status": "created",
+        "warnings": 0
+      },
+      {
+        "errors": [],
+        "id": "whimsymaxxing-bedazzle-everything-diy",
+        "name": "Whimsymaxxing: bedazzle-everything DIY",
+        "status": "created",
+        "warnings": 0
+      }
+    ],
+    "status": "ingested"
+  },
+  "input": "First-spark hunt: new hobbies, challenges and rituals",
+  "inputKind": null,
+  "key": "discover:hunt-hobbies-20261004",
+  "progress": "Done: 4 candidates filed to inbox",
+  "result": null,
+  "resultCandidateIds": [
+    "once-a-day-once-a-week-once-a-month-routine-format",
+    "reader-dating-and-bookish-matchmaking",
+    "whimsymaxxing-bedazzle-everything-diy"
+  ],
+  "sourcesTried": [
+    {
+      "method": "web search",
+      "note": "About 40 queries across TikTok/Reels trend roundups, Know Your Meme, YPulse, Pinterest, Etsy trend blogs, news.",
+      "source": "WebSearch (standard and extended)",
+      "status": "ok"
+    },
+    {
+      "method": "WebFetch",
+      "note": "Egress blocked; used search snippets.",
+      "source": "newengen.com October TikTok trends",
+      "status": "blocked"
+    },
+    {
+      "method": "WebFetch",
+      "note": "Egress blocked.",
+      "source": "washingtonpost.com (hobbymaxxing, 2026-09-13)",
+      "status": "blocked"
+    },
+    {
+      "method": "WebFetch",
+      "note": "Egress blocked; search snippets only.",
+      "source": "socialbee.com TikTok trends (Sept 29)",
+      "status": "blocked"
+    },
+    {
+      "method": "WebFetch",
+      "note": "Egress blocked; search snippets only.",
+      "source": "later.com TikTok and Reels trend blogs",
+      "status": "blocked"
+    },
+    {
+      "method": "WebFetch",
+      "note": "Egress blocked.",
+      "source": "explodingtopics.com",
+      "status": "blocked"
+    },
+    {
+      "method": "WebFetch",
+      "note": "Egress blocked.",
+      "source": "napoleoncat.com",
+      "status": "blocked"
+    },
+    {
+      "method": "WebFetch",
+      "note": "Egress blocked.",
+      "source": "ramd.am TikTok/Instagram trends",
+      "status": "blocked"
+    },
+    {
+      "method": "WebFetch",
+      "note": "Egress blocked; could not confirm the year of the 9/19 post.",
+      "source": "community.pinterest.biz Pinterest Predicts Weekly",
+      "status": "blocked"
+    },
+    {
+      "method": "WebFetch",
+      "note": "Egress blocked; search snippets only.",
+      "source": "fortune.com",
+      "status": "blocked"
+    },
+    {
+      "method": "direct",
+      "note": "Known to be blocked in this environment; TikTok discover pages seen only as search results.",
+      "source": "TikTok, Reddit, Etsy, Google Trends",
+      "status": "not_tried"
+    }
+  ],
+  "startedAt": "2026-10-04T23:51:30Z",
+  "status": "partial",
+  "steps": [
+    {
+      "label": "Queued",
+      "status": "done"
+    },
+    {
+      "label": "Searching",
+      "status": "done"
+    },
+    {
+      "label": "Verifying sources",
+      "status": "done"
+    },
+    {
+      "label": "Writing results",
+      "status": "done"
+    }
+  ],
+  "summary": "Screened 20 in new hobbies, challenges and rituals; filed 4 (2 first spark, 2 early growth).",
+  "topicKey": null,
+  "type": "discover",
+  "updatedAt": "2026-10-05T00:01:30Z"
+}

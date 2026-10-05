@@ -1,0 +1,19 @@
+{
+  "accessMethod": "web_search_result",
+  "candidateId": "6-7-six-seven-meme",
+  "claim": "Etsy listings for 6-7 merchandise exist, including PNG bundles; this shows supply only. Several other Etsy listings appeared in the same search.",
+  "excerpt": "Etsy listing returned for 6-7 meme merchandise search",
+  "firstRetrievedAt": "2026-10-04T22:33:00Z",
+  "firstSeenRunId": "run-analyze-muueb7q2-x8paqz",
+  "id": "6-7-six-seven-meme~6c4d0f2a",
+  "intent": "none",
+  "kind": "observed",
+  "lastSeenRunId": "run-analyze-muueb7q2-x8paqz",
+  "publishedAt": null,
+  "publisher": "Etsy",
+  "retrievedAt": "2026-10-04T22:33:00Z",
+  "signalType": "marketplace",
+  "syndicationOf": null,
+  "title": "Etsy 6-7 meme listing",
+  "url": "https://www.etsy.com/listing/4384554619"
+}

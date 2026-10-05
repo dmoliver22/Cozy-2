@@ -1,0 +1,19 @@
+{
+  "accessMethod": "web_search_result",
+  "candidateId": "the-great-lock-in",
+  "claim": "Critical coverage questions whether the lock-in is harmful (likely 2025).",
+  "excerpt": "Title only. This is criticism, not demand.",
+  "firstRetrievedAt": "2026-10-04T20:59:17Z",
+  "firstSeenRunId": "run-2026-10-04-movements",
+  "id": "the-great-lock-in~94799304",
+  "intent": "criticism",
+  "kind": "observed",
+  "lastSeenRunId": "run-2026-10-04-movements",
+  "publishedAt": null,
+  "publisher": "CBC",
+  "retrievedAt": "2026-10-04T20:59:17Z",
+  "signalType": "press",
+  "syndicationOf": null,
+  "title": "Is TikTok's 'Great Lock-In' more detrimental than it seems?",
+  "url": "https://www.cbc.ca/lite/story/1.7633944"
+}

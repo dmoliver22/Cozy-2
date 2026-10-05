@@ -1,0 +1,19 @@
+{
+  "accessMethod": "web_search_result",
+  "candidateId": "once-a-day-once-a-week-once-a-month-routine-format",
+  "claim": "Habit-tracker content is an established TikTok category the new format feeds into.",
+  "excerpt": "Habit tracker content is present on TikTok as a content category.",
+  "firstRetrievedAt": "2026-10-05T00:00:55Z",
+  "firstSeenRunId": "run-hunt-hobbies-20261004-1",
+  "id": "once-a-day-once-a-week-once-a-month-routine-format~eb993376",
+  "intent": "utility",
+  "kind": "observed",
+  "lastSeenRunId": "run-hunt-hobbies-20261004-1",
+  "publishedAt": null,
+  "publisher": "TikTok",
+  "retrievedAt": "2026-10-05T00:00:55Z",
+  "signalType": "social",
+  "syndicationOf": null,
+  "title": "Habit Tracker",
+  "url": "https://www.tiktok.com/discover/habit-tracker"
+}

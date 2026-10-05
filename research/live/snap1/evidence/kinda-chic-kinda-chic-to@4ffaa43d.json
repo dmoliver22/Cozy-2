@@ -1,0 +1,19 @@
+{
+  "accessMethod": "web_search_result",
+  "candidateId": "kinda-chic-kinda-chic-to",
+  "claim": "Lifestyle press covered Reese Witherspoon's participation.",
+  "excerpt": "URL/title only.",
+  "firstRetrievedAt": "2026-10-04T20:57:55Z",
+  "firstSeenRunId": "run-2026-10-04-memes",
+  "id": "kinda-chic-kinda-chic-to~4ffaa43d",
+  "intent": "curiosity",
+  "kind": "observed",
+  "lastSeenRunId": "run-2026-10-04-memes",
+  "publishedAt": null,
+  "publisher": "PureWow",
+  "retrievedAt": "2026-10-04T20:57:55Z",
+  "signalType": "press",
+  "syndicationOf": null,
+  "title": "reese witherspoon tik tok trend kinda chic",
+  "url": "https://www.purewow.com/news/reese-witherspoon-tik-tok-trend-kinda-chic"
+}

@@ -1,0 +1,195 @@
+{
+  "actionRationale": "Proven spread (monthly award, many creators, cross-platform) and a utility signal for templates, but no purchase evidence and the meme is maturing. Build the template pack now; the party game is a lower-risk holiday play.",
+  "adopters": {
+    "evidence": [
+      "things-to-say-ironic-advice-lists~80a8d728",
+      "things-to-say-ironic-advice-lists~3aa8e918",
+      "things-to-say-ironic-advice-lists~fbac7832"
+    ],
+    "text": "Many separate TikTok creators making situation variants; Instagram Reels meme pages; people searching for templates to make their own."
+  },
+  "aliases": [
+    "Things to Say meme",
+    "Things to say when meeting her dad"
+  ],
+  "category": "meme",
+  "channels": [
+    "Etsy",
+    "Gumroad",
+    "TikTok",
+    "Instagram",
+    "Pinterest"
+  ],
+  "competition": {
+    "evidence": [
+      "things-to-say-ironic-advice-lists~e54628bc"
+    ],
+    "level": "low",
+    "text": "Generic meme-template packs exist on Gumroad; none found for this format by web search. Marketplaces were not checked directly."
+  },
+  "editorialNotes": [],
+  "effortMin": "medium",
+  "firstSeenAt": "2026-10-05T00:00:55.254Z",
+  "formats": [
+    "template",
+    "printable"
+  ],
+  "gap": {
+    "isInference": true,
+    "text": "Brand-safe, celebrity-free templates (the viral versions rely on celebrity headshots) and an evergreen 'terrible advice' party game that carries the format into the holiday season."
+  },
+  "id": "things-to-say-ironic-advice-lists",
+  "jobId": "hunt-memes-20261004",
+  "language": "en",
+  "lastRunId": "run-hunt-memes-20261004-3",
+  "lens": "First-spark hunt: memes, catchphrases, slang",
+  "name": "Things To Say (ironic advice lists)",
+  "origin": {
+    "date": "2026-08-17",
+    "evidence": [
+      "things-to-say-ironic-advice-lists~80a8d728"
+    ],
+    "text": "TikToker @cawkringinvestor, Aug 17, 2026; breakout variants Aug 30-31 and into September."
+  },
+  "productDemand": {
+    "evidence": [
+      "things-to-say-ironic-advice-lists~fbac7832"
+    ],
+    "text": "Help-seeking (utility) for templates is visible through TikTok template discover pages; no purchase evidence."
+  },
+  "products": [
+    {
+      "buyer": "Small businesses, social media managers and creators",
+      "channels": [
+        "Etsy",
+        "Gumroad",
+        "TikTok",
+        "Instagram"
+      ],
+      "continueIf": "5+ sales in 14 days",
+      "differentiation": "Brand-safe placeholder character, 20 situations x 3 sizes, small-business angles",
+      "effort": "medium",
+      "effortHours": 11,
+      "evidence": [
+        "things-to-say-ironic-advice-lists~fbac7832"
+      ],
+      "format": "template",
+      "fulfillment": "digital",
+      "leadTimeDays": 3,
+      "pivotIf": "Views on demos but no sales: make niche packs (realtors, salons)",
+      "rightsNote": "No celebrity images, creator handles or copied lines",
+      "stopIf": "No sales in 14 days and new variants have stopped",
+      "theme": "Editable Canva 'Things To Say' poster templates with brand-safe original starter lines and no celebrity images",
+      "validationTest": "List and post 6 template demos as native memes over 2 weeks",
+      "whyBuy": "Join the trend quickly without legal risk from celebrity photos"
+    },
+    {
+      "buyer": "Adults hosting game nights and holiday gatherings",
+      "channels": [
+        "Etsy",
+        "Gumroad",
+        "Pinterest"
+      ],
+      "continueIf": "5+ sales by Nov 20",
+      "differentiation": "Ironic hustle-advice voice plus Hustle Mode; ready to print tonight",
+      "effort": "medium",
+      "effortHours": 10,
+      "evidence": [
+        "things-to-say-ironic-advice-lists~631f90bd"
+      ],
+      "format": "printable",
+      "fulfillment": "digital",
+      "leadTimeDays": 3,
+      "pivotIf": "Favorites but few sales: price at $5 and add a holiday expansion",
+      "rightsNote": "Original text; no other game names or celebrities",
+      "stopIf": "No sales by Nov 20",
+      "theme": "Printable 'terrible advice' party card game inspired by the Things To Say format",
+      "validationTest": "List by late October; Pinterest pins for Friendsgiving",
+      "whyBuy": "Instant, cheap, funny game for Friendsgiving and holiday parties"
+    }
+  ],
+  "qualityFlags": [],
+  "recommendedAction": "prepare",
+  "region": "US",
+  "researchedAt": "2026-10-05T00:00:47Z",
+  "rights": {
+    "note": "The list format is not protectable. Viral posts use celebrity headshots; products must not, and must not copy the original creators' lines or handles.",
+    "risk": "low"
+  },
+  "runIds": [
+    "run-hunt-memes-20261004-3"
+  ],
+  "scores": {
+    "buyerIntent": {
+      "basis": "qualitative",
+      "rationale": "Template help-seeking visible; no purchases",
+      "score": 2
+    },
+    "durability": {
+      "basis": "qualitative",
+      "rationale": "Advice-list humor is evergreen; meme itself may fade",
+      "score": 3
+    },
+    "economics": {
+      "basis": "qualitative",
+      "rationale": "Digital products, zero marginal cost",
+      "score": 4
+    },
+    "productFit": {
+      "basis": "qualitative",
+      "rationale": "Text-list format maps directly onto templates and a card game",
+      "score": 4
+    },
+    "supplyGap": {
+      "basis": "qualitative",
+      "rationale": "No format-specific products found; generic templates exist",
+      "score": 3
+    },
+    "timing": {
+      "basis": "reported",
+      "rationale": "About 7 weeks old; recent award but possibly plateauing",
+      "score": 3
+    }
+  },
+  "source": "research",
+  "spread": {
+    "evidence": [
+      "things-to-say-ironic-advice-lists~631f90bd",
+      "things-to-say-ironic-advice-lists~e0af3bc1",
+      "things-to-say-ironic-advice-lists~78587ca3",
+      "things-to-say-ironic-advice-lists~3aa8e918"
+    ],
+    "text": "TikTok to Instagram Reels in early September; KYM weekly roundup (Sept 11), Meme of the Month win, Yahoo syndication and a separate meme.com explainer."
+  },
+  "summary": "An ironic hustle-culture meme format of poster-style lists of terrible things to say in awkward situations; Know Your Meme's September 2026 Meme of the Month.",
+  "topicKeys": [
+    "phrase:things to say ironic advice lists",
+    "phrase:things to say meme",
+    "phrase:things to say when meeting her dad"
+  ],
+  "trajectory": {
+    "evidence": [
+      "things-to-say-ironic-advice-lists~631f90bd",
+      "things-to-say-ironic-advice-lists~fbac7832"
+    ],
+    "stage": "early_growth",
+    "text": "Started mid-August and grew through September into a monthly-award winner; now about 7 weeks old, so it may plateau in October. Template searches suggest people are still making new ones."
+  },
+  "unresolved": [
+    "Are new 'Things to Say' variants still appearing daily in mid-October?",
+    "Do brand accounts adopt the format (would boost template demand)?",
+    "Any template packs for this format appearing on Etsy?"
+  ],
+  "what": "Each post has a bold headline ('Things to say when meeting her dad', 'in a job interview') over a reference image and a bulleted list of confidently bad advice, in the voice of rare-fish hustle memes. It began on TikTok in mid-August 2026, spread to Reels in early September and was voted September's Meme of the Month.",
+  "window": {
+    "endEstimate": null,
+    "estimate": "3-6 weeks for template demand; party game evergreen through the holidays",
+    "invalidators": [
+      "Sharp drop in new variants in October",
+      "Platforms flood with free templates"
+    ],
+    "reasoning": "The format is about 7 weeks old and peaked around the September award; template utility persists while creators keep posting. The party game hooks into Friendsgiving and holiday gatherings.",
+    "seasonality": "Holiday party season (Nov-Dec) for the game",
+    "sellBy": null
+  }
+}

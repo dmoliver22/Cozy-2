@@ -1,0 +1,736 @@
+{
+  "createdAt": "2026-10-05T00:03:41Z",
+  "jobId": "hunt-communities-20261004",
+  "raw": {
+    "candidates": [
+      {
+        "actionRationale": "Real, growing audience with a core paper habit (life lists), but no purchase data and moderate competition. Ship the digital log before Oct 10 if possible and aim the main push at holiday gifting and the December counts.",
+        "adopters": {
+          "evidence": [
+            "e1",
+            "e5",
+            "e6",
+            "e2"
+          ],
+          "text": "College students (campus bird clubs), Gen Z and millennials in cities, and app-led beginners."
+        },
+        "aliases": [
+          "BirdTok",
+          "Gen Z birders",
+          "college bird club",
+          "October Big Day",
+          "young birders"
+        ],
+        "category": "hobby",
+        "competition": {
+          "evidence": [
+            "e11",
+            "e12"
+          ],
+          "level": "moderate",
+          "text": "Moderate: traditional publisher life-list journals and cheap minimalist printable logs exist; youth-styled, goal-driven beginner logs and Gen Z-humor birding stickers were not seen in search results (Etsy not searched directly; generic bird stickers are likely plentiful)."
+        },
+        "evidence": [
+          {
+            "accessMethod": "web_search_result",
+            "claim": "Birding is joining a Gen Z analog-hobby boom; Audubon campus chapters grew from 10 in 2019 to 117.",
+            "excerpt": "The National Audubon Society had only 10 university groups in 2019 but now has 117.",
+            "id": "e1",
+            "intent": "curiosity",
+            "kind": "observed",
+            "publishedAt": "2026-08-23",
+            "publisher": "Fortune",
+            "retrievedAt": "2026-10-05T00:03:41Z",
+            "signalType": "press",
+            "syndicationOf": null,
+            "title": "Gen Z birding joins analog hobby boom",
+            "url": "https://www.fortune.com/2026/08/23/gen-z-birding-analog-hobby-college-bird-watching/"
+          },
+          {
+            "accessMethod": "web_search_result",
+            "claim": "UK study: about 750,000 Gen Z regularly birdwatch, up 1,088% since 2018; second-fastest-growing Gen Z hobby.",
+            "excerpt": "Almost 750,000 Gen Z-ers... now regularly enjoy birdwatching – an uptick of 1,088 per cent since 2018.",
+            "id": "e2",
+            "intent": "none",
+            "kind": "observed",
+            "publishedAt": "2026-05-06",
+            "publisher": "YPulse",
+            "retrievedAt": "2026-10-05T00:03:41Z",
+            "signalType": "press",
+            "syndicationOf": null,
+            "title": "British Gen Z is driving a birdwatching boom",
+            "url": "https://www.ypulse.com/newsfeed/2026/05/06/british-gen-z-is-driving-a-birdwatching-boom/"
+          },
+          {
+            "accessMethod": "web_search_result",
+            "claim": "Same UK RSPB-linked study (syndication of the participation figure).",
+            "excerpt": "Gen Z birdwatching numbers rise tenfold since 2018.",
+            "id": "e3",
+            "intent": "none",
+            "kind": "observed",
+            "publishedAt": null,
+            "publisher": "Rare Bird Alert",
+            "retrievedAt": "2026-10-05T00:03:41Z",
+            "signalType": "press",
+            "syndicationOf": "e2",
+            "title": "Gen Z birdwatching numbers rise tenfold since 2018",
+            "url": "https://www.rarebirdalert.co.uk/v2/Content/Gen_Z_birdwatching_numbers_rise_tenfold_since_2018.aspx"
+          },
+          {
+            "accessMethod": "web_search_result",
+            "claim": "US regional press on young people taking up birding as an alternative to being online.",
+            "excerpt": "In chronically online world, young people turn to radical alternative: birding.",
+            "id": "e4",
+            "intent": "curiosity",
+            "kind": "observed",
+            "publishedAt": "2026-04-18",
+            "publisher": "Cascadia Daily News",
+            "retrievedAt": "2026-10-05T00:03:41Z",
+            "signalType": "press",
+            "syndicationOf": null,
+            "title": "In chronically online world, young people turn to radical alternative: birding",
+            "url": "https://www.cascadiadaily.com/2026/apr/18/in-chronically-online-world-young-people-turn-to-radical-alternative-birding/"
+          },
+          {
+            "accessMethod": "web_search_result",
+            "claim": "A new student bird club grew at Creighton University (campus-level independent signal).",
+            "excerpt": "Bird club takes off.",
+            "id": "e5",
+            "intent": "curiosity",
+            "kind": "observed",
+            "publishedAt": "2026-05-01",
+            "publisher": "The Creightonian",
+            "retrievedAt": "2026-10-05T00:03:41Z",
+            "signalType": "community",
+            "syndicationOf": null,
+            "title": "Bird club takes off",
+            "url": "https://www.creightonian.com/2026/05/bird-club-takes-off/"
+          },
+          {
+            "accessMethod": "web_search_result",
+            "claim": "Birding clubs have sprouted across Las Vegas colleges and universities.",
+            "excerpt": "Birding clubs have sprouted across Las Vegas' colleges and universities.",
+            "id": "e6",
+            "intent": "curiosity",
+            "kind": "observed",
+            "publishedAt": null,
+            "publisher": "City Cast Las Vegas",
+            "retrievedAt": "2026-10-05T00:03:41Z",
+            "signalType": "creator",
+            "syndicationOf": null,
+            "title": "Get in losers, we're going birding",
+            "url": "https://lasvegas.citycast.fm/podcasts/get-in-losers-were-going-birding"
+          },
+          {
+            "accessMethod": "web_search_result",
+            "claim": "US personal finance press frames Gen Z birding as an affordable hobby trend; cites Merlin app growth.",
+            "excerpt": "Merlin... went from over 279,000 U.S. users in July 2019 to over 4.8 million in July 2026.",
+            "id": "e7",
+            "intent": "curiosity",
+            "kind": "observed",
+            "publishedAt": null,
+            "publisher": "Moneywise",
+            "retrievedAt": "2026-10-05T00:03:41Z",
+            "signalType": "press",
+            "syndicationOf": null,
+            "title": "Move over, Grandpa: Gen Z is going birding",
+            "url": "https://moneywise.com/life/lifestyle/gen-z-birding-recession-indicator-affordable-hobby"
+          },
+          {
+            "accessMethod": "web_search_result",
+            "claim": "eBird October Big Day is an annual global count; 2026 edition on October 10.",
+            "excerpt": "October Big Day... thousands of people around the world count birds and post their checklists on eBird.",
+            "id": "e8",
+            "intent": "none",
+            "kind": "observed",
+            "publishedAt": null,
+            "publisher": "BirdingWire",
+            "retrievedAt": "2026-10-05T00:03:41Z",
+            "signalType": "community",
+            "syndicationOf": null,
+            "title": "October Big Day release",
+            "url": "https://www.birdingwire.com/releases/088650a2-cf9b-4251-8dcd-aabd8bca1472"
+          },
+          {
+            "accessMethod": "web_search_result",
+            "claim": "State parks are taking registrations for Big Day events on Oct 10, 2026.",
+            "excerpt": "Big Day 2026 10/10/26.",
+            "id": "e9",
+            "intent": "utility",
+            "kind": "observed",
+            "publishedAt": "2026-10-10",
+            "publisher": "Tennessee State Parks",
+            "retrievedAt": "2026-10-05T00:03:41Z",
+            "signalType": "community",
+            "syndicationOf": null,
+            "title": "Big Day 2026 10-10-26 registration",
+            "url": "https://reserve.tnstateparks.com/register/big-day-2026-10-10-26"
+          },
+          {
+            "accessMethod": "web_search_result",
+            "claim": "October Big Day draws tens of thousands of participants (2023: about 36,000 people from 191 countries submitted about 84,000 checklists).",
+            "excerpt": "Nearly 36,332 people from 191 countries submitted 83,735 checklists.",
+            "id": "e10",
+            "intent": "none",
+            "kind": "observed",
+            "publishedAt": "2024-10-12",
+            "publisher": "eBird / Cornell Lab",
+            "retrievedAt": "2026-10-05T00:03:41Z",
+            "signalType": "community",
+            "syndicationOf": null,
+            "title": "October Big Day 12 Oct 2024",
+            "url": "https://ebird.org/news/october-big-day-12-oct-2024"
+          },
+          {
+            "accessMethod": "web_search_result",
+            "claim": "Cheap printable birding journals exist ($0.99+), mostly minimalist logs.",
+            "excerpt": "Printable birdwatching journal... Bird Sighting Log, freewriting and sketching pages, a blank and customizable bird species checklist.",
+            "id": "e11",
+            "intent": "none",
+            "kind": "observed",
+            "publishedAt": null,
+            "publisher": "Gumroad",
+            "retrievedAt": "2026-10-05T00:03:41Z",
+            "signalType": "marketplace",
+            "syndicationOf": null,
+            "title": "Printable birdwatching journal",
+            "url": "https://leitchliter.gumroad.com/l/ytlmei"
+          },
+          {
+            "accessMethod": "web_search_result",
+            "claim": "Established publisher life-list journals exist, aimed at traditional birders.",
+            "excerpt": "The perfect way to keep a personal record of each new species as it is observed.",
+            "id": "e12",
+            "intent": "none",
+            "kind": "observed",
+            "publishedAt": null,
+            "publisher": "Disney Publishing / National Geographic",
+            "retrievedAt": "2026-10-05T00:03:41Z",
+            "signalType": "marketplace",
+            "syndicationOf": null,
+            "title": "National Geographic Birder's Life List and Journal",
+            "url": "https://books.disney.com/?p=29038"
+          },
+          {
+            "accessMethod": "web_search_result",
+            "claim": "#BirdTok and #MindfulBirding hashtags pulling in millions of views; demand for youth birding events has surged (BTO).",
+            "excerpt": "Gen Z flocks to BirdTok as birding takes flight: 'It's a craving for something real'.",
+            "id": "e13",
+            "intent": "curiosity",
+            "kind": "observed",
+            "publishedAt": null,
+            "publisher": "AOL UK",
+            "retrievedAt": "2026-10-05T00:03:41Z",
+            "signalType": "social",
+            "syndicationOf": null,
+            "title": "Gen Z flocks to BirdTok as birding takes flight",
+            "url": "https://www.aol.co.uk/articles/gen-z-flocks-birdtok-birding-090053000.html"
+          }
+        ],
+        "gap": {
+          "isInference": true,
+          "text": "A beginner-first 'First 100 Birds' log with club and Big Day pages in a modern look, plus youth-culture birding stickers usable as club prizes."
+        },
+        "name": "Gen Z birding and college bird clubs",
+        "observations": [
+          {
+            "asOf": "2026-08-23",
+            "evidence": "e1",
+            "isAbsolute": true,
+            "metric": "Audubon university groups",
+            "note": "Reported by Fortune (up from 10 in 2019); not independently verified.",
+            "unit": "groups",
+            "value": 117
+          },
+          {
+            "asOf": "2026-07-31",
+            "evidence": "e7",
+            "isAbsolute": true,
+            "metric": "Merlin app US users",
+            "note": "Reported by Moneywise; not independently verified.",
+            "unit": "users",
+            "value": 4800000
+          },
+          {
+            "asOf": "2026-05-06",
+            "evidence": "e2",
+            "isAbsolute": true,
+            "metric": "UK Gen Z regular birdwatchers",
+            "note": "Reported by YPulse from a UK multi-year study; UK only.",
+            "unit": "people",
+            "value": 750000
+          }
+        ],
+        "origin": {
+          "date": null,
+          "evidence": [
+            "e1",
+            "e7"
+          ],
+          "text": "Grew after the pandemic as young people sought offline hobbies, helped by free ID apps and campus clubs; heavy press coverage through 2026."
+        },
+        "productDemand": {
+          "evidence": [
+            "e7",
+            "e9",
+            "e10"
+          ],
+          "text": "No direct sales data for birding printables. Participation and app-user growth show a large beginner audience; event registrations (state park Big Day) show utility intent."
+        },
+        "products": [
+          {
+            "buyer": "Beginner Gen Z birders and college bird-club members",
+            "channels": [
+              "Etsy",
+              "Pinterest",
+              "TikTok",
+              "KDP (paperback version)"
+            ],
+            "continueIf": "5+ digital sales or 2+ paperback sales by Day 21",
+            "differentiation": "Goal-driven beginner design (First 100, badges) with club and Big Day pages, unlike traditional taxonomic journals.",
+            "effort": "medium",
+            "effortHours": 12,
+            "evidence": [
+              "e1",
+              "e7",
+              "e10"
+            ],
+            "format": "printable",
+            "fulfillment": "digital",
+            "leadTimeDays": 4,
+            "pivotIf": "Interest but low sales: sell the Big Day kit alone free as an email magnet and keep the log for gifting season",
+            "playbook": {
+              "assembly": [
+                "Generate content with the super prompt; verify bird-topography terms against a reputable field guide glossary.",
+                "Build US Letter pages in Canva with pairing A and palette; keep writing lines 9 mm apart.",
+                "Duplicate to A4; fix overflow.",
+                "Export PDF Print 300 DPI (both sizes).",
+                "For KDP: rebuild interior at 6x9 in with 0.375 in inside margin, export PDF, make a matching cover in KDP Cover Creator or Canva at the calculated spine width.",
+                "Make 5 listing images (cover, life list, Big Day page, badges, club sheet)."
+              ],
+              "asymmetry": {
+                "badBetIf": "Etsy already has strong youth-styled birding logs with many reviews; then compete on niche (club kit) only.",
+                "downside": "About 12 hours; no cash.",
+                "upside": "Evergreen hobby, recurring count events, digital plus paperback, gift season."
+              },
+              "costs": {
+                "baseCost": 2.1,
+                "basis": "estimate: verify in the provider catalog",
+                "item": "6x9 in black-and-white paperback, about 100 pages",
+                "provider": "Amazon KDP (paperback version)",
+                "shipping": null,
+                "testBudget": 0,
+                "testBudgetNote": "Organic first; consider $1/day Etsy ads in December only if organic sales appear."
+              },
+              "extensions": [
+                "Christmas Bird Count edition",
+                "Backyard feeder log for kids",
+                "Regional pre-filled life lists (verify species lists carefully)"
+              ],
+              "imagePrompts": [
+                {
+                  "prompt": "Modern risograph-style illustration of a small round songbird perched on a pair of binoculars resting on an open notebook, autumn leaves around, playful and clean. Colors #EEF1EC background, #2F4A3A, #9CCFC8, #F2C14E, #C2402F accents. Text 'FIRST 100 BIRDS' in chunky serif and 'a field log for new birders' below. 3:4 portrait, solid background. No logos, no real people, no trademarked characters, no watermarks.",
+                  "purpose": "Cover art",
+                  "tool": "Ideogram or Midjourney"
+                },
+                {
+                  "prompt": "Set of 12 circular merit-badge illustrations for birding challenges (owl at night, sunrise with music notes, five ducks, backyard feeder, raindrops with a bird), flat line art suitable for coloring, black #20231F lines on white. 1:1, white background, no text. No logos, no real people, no trademarked characters, no watermarks.",
+                  "purpose": "Badge set art",
+                  "tool": "Ideogram"
+                }
+              ],
+              "listingPrompt": "Write an Etsy listing for a printable beginner birding field log ('First 100 Birds'). Title under 140 characters starting 'Birding Journal Printable for Beginners'. 13 tags of 20 characters or fewer (bird watching log, life list printable, birder gift, bird club...). Description listing every page, US Letter and A4, instant download, printing and binding tips, FAQ (Is it region-specific? Can my club print copies? Is there a paperback?). Do not use any organization, app, publisher or optics brand names.",
+              "marketing": {
+                "channels": [
+                  {
+                    "cadence": "4/week",
+                    "channel": "Pinterest",
+                    "tactic": "Life list and badge pins"
+                  },
+                  {
+                    "cadence": "3/week",
+                    "channel": "TikTok",
+                    "tactic": "Beginner birding moments with the log"
+                  }
+                ],
+                "hooks": [
+                  "My first 100 birds, one page at a time",
+                  "Doing my first Big Day with zero experience"
+                ],
+                "keywords": [
+                  "bird watching journal",
+                  "birding life list",
+                  "beginner birder gift",
+                  "bird club printable",
+                  "big day checklist"
+                ],
+                "launchPlan": [
+                  {
+                    "action": "Publish Etsy digital listing (aim before Oct 10).",
+                    "day": "Day 0"
+                  },
+                  {
+                    "action": "Free Big Day checklist page on Payhip as an email magnet; pin it.",
+                    "day": "Day 1"
+                  },
+                  {
+                    "action": "TikTok: 'how I'm doing my first Big Day' with the plan page.",
+                    "day": "Day 3"
+                  },
+                  {
+                    "action": "Publish KDP paperback (review time applies).",
+                    "day": "Day 6"
+                  },
+                  {
+                    "action": "Post Big Day recap video with the tally page.",
+                    "day": "Day 8"
+                  },
+                  {
+                    "action": "Share in beginner birding groups where self-promotion is allowed (check the community rules).",
+                    "day": "Day 12"
+                  },
+                  {
+                    "action": "Gift-guide pins for birders.",
+                    "day": "Day 16"
+                  },
+                  {
+                    "action": "Go/pivot/stop check per validation rules; plan Christmas Bird Count update.",
+                    "day": "Day 21"
+                  }
+                ],
+                "positioning": "The first birding log made for brand-new birders."
+              },
+              "platforms": [
+                {
+                  "name": "Etsy",
+                  "role": "primary",
+                  "why": "Printable journals sell there."
+                },
+                {
+                  "name": "Amazon KDP",
+                  "role": "secondary",
+                  "why": "Paperback gift for birders."
+                },
+                {
+                  "name": "Pinterest",
+                  "role": "traffic",
+                  "why": "Birding and nature-journal pins."
+                }
+              ],
+              "pricing": {
+                "basis": "estimate",
+                "currency": "USD",
+                "high": 10,
+                "low": 5,
+                "rationale": "Above $1 minimalist logs thanks to goals, club and Big Day pages; paperback about $9.99.",
+                "recommended": 7
+              },
+              "productName": "First 100 Birds Field Log (Printable + Paperback)",
+              "risks": [
+                "Moderate competition",
+                "Missing the Oct 10 date (other events follow)"
+              ],
+              "superPrompt": "You are a birding educator and stationery designer creating a printable product called \"First 100 Birds: A Gen Z Birding Field Log + October Big Day Kit\" for [YOUR SHOP NAME].\n\nBUYER AND JOB: Students and young adults in their first year or two of birding (college bird clubs, Merlin-app users) who want a stylish, low-pressure way to log sightings, set goals and take part in Big Day counts. They are not experts and dislike stuffy, taxonomic journals.\n\nDELIVERABLE (US Letter 8.5x11 in and A4 PDFs, plus an A5 booklet imposition note):\n1. Cover and \"How to use this log\" page (friendly tone, 150 words).\n2. \"My First 100\" life list: 100 numbered lines with columns species, date, place, how I ID'd it (sight/sound/photo), a star for favorites. Leave species blank (no pre-filled list) so it works in any region.\n3. Sighting log pages (template, 6 entries per page) with fields: date, time, place, weather, species, count, behavior, sketch box, sound notes.\n4. Big Day checklist sheet: start/end time, locations visited, running species tally 1-150, group members, and a reminder line to submit counts through the official citizen-science app (refer to it generically as \"your checklist app\"; do not use brand names).\n5. October Big Day plan page: route planner with 4 stops, packing list (binoculars, water, layers, notebook), etiquette list (keep distance, stay on trails, don't play recordings near nesting birds, respect private land).\n6. Bird club meeting page: walk sign-in sheet (15 names), leader notes, species seen together.\n7. Goals and badges page: 12 original challenge badges to color in (e.g., First Owl, Dawn Chorus, Five Ducks, Backyard 20, Rainy Day Bird).\n8. Seasonal tracker: a 12-month grid for one \"patch\" (a local park).\n9. Field marks quick guide: how to describe a bird (size vs. sparrow/robin/crow, shape, bill, wing bars, eye ring, tail, behavior, habitat, voice) with a labeled bird-topography diagram description.\n10. Notes and sketch pages (2).\n\nACCURACY: Bird-topography terms must be correct (crown, nape, mantle, wing bars, primaries, secondaries, rump, undertail coverts, flanks, breast, throat, lores, eye ring, supercilium). Ethics guidance must match widely accepted birding ethics. Do not state population statistics. Do not name specific species as rare or endangered.\n\nDESIGN: Canva pairing A: \"Fraunces\" + \"Nunito Sans\". Pairing B: \"Young Serif\" + \"Karla\". Palette: Fog #EEF1EC, Pine #2F4A3A, Robin Egg #9CCFC8, Goldfinch #F2C14E, Cardinal #C2402F, Ink #20231F. Leave ample white space for handwriting; lines 9 mm apart.\n\nRULES: Original content; no brand names (no app, optics, publisher or organization names). No copied bird illustrations. No claims about mental-health benefits.\n\nDIFFERENTIATION: Existing life lists are traditional publisher journals or bare free PDFs. This log is goal-driven for beginners (First 100, badges), includes club and Big Day pages, and has a modern look.\n\nOUTPUT: Page by page (\"PAGE 1\"...) with layout notes and all text. End with a SELF-CHECK: 100 life-list lines; 12 badges; topography terms correct; no brand names; ethics list present; both paper sizes noted."
+            },
+            "rightsNote": "No organization, app or optics brand names; original art.",
+            "stopIf": "Under 150 views by Day 21",
+            "theme": "First 100 Birds: beginner birding field log with life list, badges, club and October Big Day pages",
+            "validationTest": "Etsy digital listing plus a KDP 6x9 paperback; 12 pins and 4 TikToks by Day 21.",
+            "whyBuy": "New birders keep life lists and want goals; clubs need sign-in and Big Day planning sheets."
+          },
+          {
+            "buyer": "Gen Z birders and campus bird clubs (prizes, swag)",
+            "channels": [
+              "Etsy via Printify",
+              "Redbubble",
+              "Instagram"
+            ],
+            "continueIf": "3+ sales or 30+ favorites",
+            "differentiation": "Youth-culture phrasing for the new birding crowd rather than vintage field-guide art.",
+            "effort": "low",
+            "effortHours": 8,
+            "evidence": [
+              "e1",
+              "e13",
+              "e6"
+            ],
+            "format": "sticker",
+            "fulfillment": "pod",
+            "leadTimeDays": 10,
+            "pivotIf": "Singles outsell sheet: expand singles",
+            "playbook": {
+              "assembly": [
+                "Generate each design at 1500x1500 px transparent; fix text in Canva.",
+                "Arrange 12 on a 1800x2400 px sheet with 0.125 in spacing.",
+                "Upload to Printify sticker sheet product and kiss-cut singles.",
+                "Publish to Etsy with mockups; mirror on Redbubble.",
+                "Order a sample sheet to check cut lines.",
+                "Offer a club 10-pack listing (bulk singles)."
+              ],
+              "asymmetry": {
+                "badBetIf": "Generic bird stickers dominate search and humor designs do not stand out.",
+                "downside": "About 8 hours plus a $10 sample.",
+                "upside": "No inventory, gift season, pairs with the log."
+              },
+              "costs": {
+                "baseCost": 4.5,
+                "basis": "estimate: verify in the provider catalog",
+                "item": "Kiss-cut sticker sheet 6x8 in",
+                "provider": "Printify",
+                "shipping": 4.5,
+                "testBudget": 0,
+                "testBudgetNote": "Organic only."
+              },
+              "extensions": [
+                "Tote and tee versions",
+                "Enamel-pin style designs via POD"
+              ],
+              "imagePrompts": [
+                {
+                  "prompt": "Bold comic-burst sticker with a tiny round songbird wearing sparkles, text 'LIFER!' in thick bubble letters. Colors #F2C14E, #C2402F, #2F4A3A, #FBF7EE. Thick white die-cut border, 1:1, transparent background. No logos, no real people, no trademarked characters, no watermarks.",
+                  "purpose": "Lifer! sticker",
+                  "tool": "Ideogram"
+                },
+                {
+                  "prompt": "Retro groovy text sticker 'TOUCH GRASS, SEE BIRDS' with grass tufts and a small flying bird silhouette, colors #2F4A3A, #9CCFC8, #FBF7EE. 1:1, transparent background, white die-cut border. No logos, no real people, no trademarked characters, no watermarks.",
+                  "purpose": "Touch Grass, See Birds sticker",
+                  "tool": "Ideogram"
+                }
+              ],
+              "listingPrompt": "Write an Etsy listing for a birding sticker sheet for new birders and bird clubs. Title under 140 characters starting 'Birding Sticker Sheet'. 13 tags of 20 characters or fewer. Description: designs, size, material, POD shipping time about 1-2 weeks, club bulk option, FAQ. No organization, app or brand names.",
+              "marketing": {
+                "channels": [
+                  {
+                    "cadence": "3/week",
+                    "channel": "Instagram",
+                    "tactic": "Notebook flat lays"
+                  },
+                  {
+                    "cadence": "3/week",
+                    "channel": "Pinterest",
+                    "tactic": "Gift-guide pins"
+                  }
+                ],
+                "hooks": [
+                  "Lifer!",
+                  "Bird nerd era"
+                ],
+                "keywords": [
+                  "birding stickers",
+                  "bird watcher gift",
+                  "bird nerd sticker",
+                  "bird club gift"
+                ],
+                "launchPlan": [
+                  {
+                    "action": "Publish sheet and singles.",
+                    "day": "Day 0"
+                  },
+                  {
+                    "action": "Reel: decorating a field notebook.",
+                    "day": "Day 3"
+                  },
+                  {
+                    "action": "Pins: 'gifts for birders'.",
+                    "day": "Day 7"
+                  },
+                  {
+                    "action": "Bundle mention in the field log listing.",
+                    "day": "Day 10"
+                  },
+                  {
+                    "action": "Holiday gift pins.",
+                    "day": "Day 14"
+                  },
+                  {
+                    "action": "Go/pivot/stop check.",
+                    "day": "Day 21"
+                  }
+                ],
+                "positioning": "Stickers for the new generation of birders."
+              },
+              "platforms": [
+                {
+                  "name": "Etsy",
+                  "role": "primary",
+                  "why": "Gift and sticker searches."
+                },
+                {
+                  "name": "Redbubble",
+                  "role": "secondary",
+                  "why": "No-cost extra reach."
+                },
+                {
+                  "name": "Instagram",
+                  "role": "traffic",
+                  "why": "Field notebook flat lays."
+                }
+              ],
+              "pricing": {
+                "basis": "estimate",
+                "currency": "USD",
+                "high": 10,
+                "low": 6,
+                "rationale": "Typical sticker-sheet price; singles about $4.",
+                "recommended": 8
+              },
+              "productName": "Bird Club Starter Pack Sticker Sheet",
+              "risks": [
+                "Crowded sticker category",
+                "Thin POD margins"
+              ],
+              "superPrompt": "You are an illustrator creating an original sticker sheet collection called \"Bird Club Starter Pack\" for [YOUR SHOP NAME].\n\nBUYER AND JOB: Gen Z birders and college bird-club members who want fun stickers for field notebooks, laptops and water bottles, and to give as club prizes.\n\nDELIVERABLE: 12 sticker designs on one 6x8 in kiss-cut sheet (1800x2400 px at 300 DPI) plus 4 standalone die-cut stickers (3x3 in):\n1. \"Lifer!\" burst badge. 2. \"Bird Nerd Era\" groovy type. 3. Binoculars with sparkles. 4. Chickadee-style round songbird (generic, not a specific photo). 5. Owl with \"Night Shift\". 6. \"Pishing Expert\" with a tiny bird peeking. 7. Field notebook and pencil. 8. \"I Brake for Warblers\". 9. Duck with \"Dabbler\". 10. Heron silhouette \"Patience\". 11. \"Big Day Survivor\" with a sunrise. 12. \"Touch Grass, See Birds\".\nFor each: concept, exact text, style (bold outline, flat color, playful), colors and placement on the sheet.\n\nDESIGN: Pairing A: \"Bagel Fat One\" + \"Nunito\". Pairing B: \"Lilita One\" + \"Quicksand\". Palette: Pine #2F4A3A, Robin Egg #9CCFC8, Goldfinch #F2C14E, Cardinal #C2402F, Cream #FBF7EE.\n\nRULES: Original illustrations; no organization logos, app icons or optics brands; birds should be stylized and not traced from photos. No claims.\n\nDIFFERENTIATION: Playful youth-culture phrasing for the new birding crowd, not vintage field-guide prints.\n\nOUTPUT: Numbered list of designs with all fields, sheet layout map, image prompts for each, then a SELF-CHECK (12 + 4 designs, exact text spelled, sizes at 300 DPI, no logos).\n\nPRINT PREP AND QUALITY: For every design also specify: the safe area (keep text at least 0.125 in inside the cut line), the minimum text height for legibility at 3 in (about 0.18 in cap height), whether the design works as a one-color version for vinyl, and a dark-surface variant (swap ink to cream). Limit each design to four palette colors so printing stays crisp. Give each design a short product title (under 60 characters) and a one-sentence description a buyer would understand without context.\n\nAUDIENCE TONE: Warm, in-group humor that a beginner understands; never mock outsiders, beginners or other generations. Avoid slang that will date within months unless it is the joke. Keep all phrases short (under 6 words where possible) so they read from a distance.\n\nMOCKUP AND LISTING SUPPORT: After the designs, propose 3 lifestyle mockup scenes (surface, props, lighting, colors) that show scale, and 5 short hook lines for a TikTok or Reel showing the stickers in use. Do not include real people's faces, brand logos or recognizable products in any scene."
+            },
+            "rightsNote": "No organization logos or app icons.",
+            "stopIf": "No sales and under 10 favorites",
+            "theme": "Bird Club Starter Pack: 12-sticker sheet with Gen Z birding humor (Lifer!, Bird Nerd Era, Touch Grass See Birds)",
+            "validationTest": "Publish the sheet and 4 single stickers; 21-day favorites and sales.",
+            "whyBuy": "New hobby identity and club prizes; stickers decorate field notebooks and bottles."
+          }
+        ],
+        "recommendedAction": "prepare",
+        "rights": {
+          "note": "Do not use Audubon, eBird, Merlin, Cornell Lab or optics brand names or logos in products or tags. Bird art must be original and stylized.",
+          "risk": "low"
+        },
+        "scores": {
+          "buyerIntent": {
+            "basis": "reported",
+            "rationale": "Large participation and event registrations; no product sales data.",
+            "score": 2
+          },
+          "durability": {
+            "basis": "reported",
+            "rationale": "Multi-year growth reported across US and UK data.",
+            "score": 4
+          },
+          "economics": {
+            "basis": "qualitative",
+            "rationale": "Digital log at zero marginal cost; stickers via POD.",
+            "score": 4
+          },
+          "productFit": {
+            "basis": "qualitative",
+            "rationale": "Life lists and logs are a core birding behavior.",
+            "score": 5
+          },
+          "supplyGap": {
+            "basis": "qualitative",
+            "rationale": "Traditional journals exist; beginner/youth framing appears thin.",
+            "score": 3
+          },
+          "timing": {
+            "basis": "qualitative",
+            "rationale": "Oct 10 is too close for POD but a digital log can be live in days; more count events follow.",
+            "score": 3
+          }
+        },
+        "spread": {
+          "evidence": [
+            "e1",
+            "e4",
+            "e5",
+            "e6",
+            "e13"
+          ],
+          "text": "Independent US signals (Fortune, Cascadia Daily, a Creighton student paper, City Cast Las Vegas, Moneywise) plus UK data and TikTok hashtag coverage."
+        },
+        "summary": "Young people are taking up birding through campus bird clubs and ID apps, and the October Big Day count on October 10, 2026 gives a dated moment for beginner logs and club merch.",
+        "trajectory": {
+          "evidence": [
+            "e4",
+            "e2",
+            "e1",
+            "e9"
+          ],
+          "stage": "early_growth",
+          "text": "Steady, accelerating coverage through 2026 (Apr, May, Aug); the October Big Day on 2026-10-10 gives a near-term moment. No mid-September-specific spike was measured."
+        },
+        "unresolved": [
+          "Whether youth-styled birding printables already sell well on Etsy (not checked directly).",
+          "October Big Day 2026 participation numbers (to be published after Oct 10).",
+          "Whether campus bird-club growth continues past 117 chapters."
+        ],
+        "what": "Birding has become a Gen Z analog hobby: Audubon campus chapters grew from 10 in 2019 to 117, the Merlin ID app reports 4.8 million US users (July 2026), and a UK study counts about 750,000 regular Gen Z birdwatchers. New birders keep life lists, join club walks and take part in eBird's global Big Day counts, including October Big Day on Oct 10, 2026.",
+        "window": {
+          "endEstimate": null,
+          "estimate": "Evergreen with seasonal peaks: Oct Big Day (Oct 10), holiday gifting, Christmas Bird Count (mid-Dec to early Jan), Great Backyard Bird Count (February), spring migration (Apr-May)",
+          "invalidators": [
+            "Coverage and campus-club growth flatten in 2027",
+            "App features replace paper logs entirely for this audience"
+          ],
+          "reasoning": "Growth is multi-year and tied to recurring events, so a listing missing Oct 10 still has December-May moments.",
+          "seasonality": "Peaks in spring migration and during count events; gifting in Nov-Dec.",
+          "sellBy": "2026-10-09"
+        }
+      }
+    ],
+    "kind": "discover",
+    "lens": "First-spark hunt: fast-growing niche communities",
+    "researchedAt": "2026-10-05T00:03:41Z",
+    "sourcesTried": [
+      {
+        "method": "WebSearch",
+        "note": "About 45 queries; all evidence below comes from search result snippets.",
+        "source": "Web search (standard and extended)",
+        "status": "ok"
+      },
+      {
+        "method": "WebFetch",
+        "note": "Egress proxy blocked; used search snippets and syndicated coverage instead.",
+        "source": "newsroom.pinterest.com (Hobbies Trend Report 2026)",
+        "status": "blocked"
+      },
+      {
+        "method": "WebFetch",
+        "note": "Egress blocked; only the headline/date seen.",
+        "source": "bloomberg.com (miniatures feature, 2026-09-18)",
+        "status": "blocked"
+      },
+      {
+        "method": "WebFetch",
+        "note": "Egress blocked.",
+        "source": "community.pinterest.biz weekly trends",
+        "status": "blocked"
+      },
+      {
+        "method": "WebFetch",
+        "note": "Egress blocked; facts taken from search snippets.",
+        "source": "fortune.com (Gen Z birding, 2026-08-23)",
+        "status": "blocked"
+      },
+      {
+        "method": "WebFetch",
+        "note": "Egress blocked.",
+        "source": "fooddrinklife.com (craft classes filling fast)",
+        "status": "blocked"
+      },
+      {
+        "method": "WebFetch",
+        "note": "Egress blocked.",
+        "source": "ooonyc.substack.com (Fall 2026 hobby guide)",
+        "status": "blocked"
+      },
+      {
+        "method": "WebSearch site results",
+        "note": "Only indirect: listings surfaced in web search; Etsy itself not fetched (assumed blocked per worker notes).",
+        "source": "Etsy marketplace search",
+        "status": "ok"
+      },
+      {
+        "method": "not attempted directly",
+        "note": "Known to be blocked for fetching; relied on press and trend-roundup coverage of these platforms.",
+        "source": "TikTok, Reddit, Google Trends",
+        "status": "not_tried"
+      },
+      {
+        "method": "WebSearch",
+        "note": "Only September 2026 meme-of-the-month roundup surfaced; nothing community-relevant.",
+        "source": "Know Your Meme",
+        "status": "ok"
+      }
+    ]
+  },
+  "runId": "run-hunt-communities-20261004-3",
+  "status": "new"
+}

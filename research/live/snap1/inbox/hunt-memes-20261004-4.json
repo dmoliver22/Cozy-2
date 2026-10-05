@@ -1,0 +1,468 @@
+{
+  "createdAt": "2026-10-05T00:00:47Z",
+  "jobId": "hunt-memes-20261004",
+  "processedAt": "2026-10-05T00:01:08.518Z",
+  "raw": {
+    "candidates": [
+      {
+        "actionRationale": "Real adoption among kids and parent-facing coverage, but no buying evidence and a fast-turning audience. Cheap sticker test on free platforms, marketed to parents and teachers, not to kids.",
+        "adopters": {
+          "evidence": [
+            "e3",
+            "e4",
+            "e6"
+          ],
+          "text": "Gen Alpha kids and young teens on TikTok and Instagram, using it about schoolwork and daily life; parents and educators searching its meaning."
+        },
+        "aliases": [
+          "can't do nathan",
+          "who's nathan"
+        ],
+        "category": "meme",
+        "competition": {
+          "evidence": [
+            "e8"
+          ],
+          "level": "none_found",
+          "text": "No meme-specific products surfaced in a web search; marketplaces were not checked directly."
+        },
+        "evidence": [
+          {
+            "accessMethod": "web_search_result",
+            "claim": "Origin: a child in a mid-August 2026 YouTube gaming video says he 'can't do nothing', heard as 'can't do Nathan'; spread on TikTok and Instagram from late August into September",
+            "excerpt": "The video was uploaded to YouTube in mid-August 2026, and the audio of the kid saying he \"can't do Nathan\" was popularized on sites including TikTok and Instagram later in August and through early September 2026",
+            "id": "e1",
+            "intent": "curiosity",
+            "kind": "observed",
+            "publishedAt": null,
+            "publisher": "Know Your Meme",
+            "retrievedAt": "2026-10-05T00:00:47Z",
+            "signalType": "community",
+            "syndicationOf": null,
+            "title": "I Can't Do Nathan",
+            "url": "https://knowyourmeme.com/memes/i-cant-do-nathan"
+          },
+          {
+            "accessMethod": "web_search_result",
+            "claim": "Headlined KYM's Sept 11 weekly roundup",
+            "excerpt": "The Weekly Meme Roundup: Can't Do Nathan, Elizabeth Holmes, Things To Say And More",
+            "id": "e2",
+            "intent": "curiosity",
+            "kind": "observed",
+            "publishedAt": "2026-09-11",
+            "publisher": "Know Your Meme",
+            "retrievedAt": "2026-10-05T00:00:47Z",
+            "signalType": "community",
+            "syndicationOf": null,
+            "title": "The Weekly Meme Roundup: Can't Do Nathan, Elizabeth Holmes, Things To Say And More",
+            "url": "https://trending.knowyourmeme.com/editorials/meme-review/the-weekly-meme-roundup-cant-do-nathan-elizabeth-holmes-things-to-say-and-more"
+          },
+          {
+            "accessMethod": "web_search_result",
+            "claim": "Listed among 2026's most-searched teen slang terms, i.e. adults are searching its meaning",
+            "excerpt": "Phrases such as \"scuba,\" \"crine,\" and \"i can't do nathan,\" all reign as the most-searched teenage slang of 2026.",
+            "id": "e3",
+            "intent": "curiosity",
+            "kind": "observed",
+            "publishedAt": null,
+            "publisher": "Yahoo Lifestyle",
+            "retrievedAt": "2026-10-05T00:00:47Z",
+            "signalType": "press",
+            "syndicationOf": null,
+            "title": "Google's most-searched teenage slang of 2026 confuses older generations",
+            "url": "https://www.yahoo.com/lifestyle/articles/google-most-searched-teenage-slang-200622939.html"
+          },
+          {
+            "accessMethod": "web_search_result",
+            "claim": "School-year trend roundup that describes the phrase as a way kids express dislike of schoolwork",
+            "excerpt": "\"I can't do Nathan\" is a viral TikTok trend where saying this phrase has become a funny way to loathe schoolwork and daily student life.",
+            "id": "e4",
+            "intent": "curiosity",
+            "kind": "observed",
+            "publishedAt": null,
+            "publisher": "Arizona Daily Star (nation-world)",
+            "retrievedAt": "2026-10-05T00:00:47Z",
+            "signalType": "press",
+            "syndicationOf": null,
+            "title": "The 6 online trends kids are obsessed with this school year",
+            "url": "https://tucson.com/life-entertainment/nation-world/article_57ad51c3-ad7b-4ed5-8b3d-8445885aa256.html"
+          },
+          {
+            "accessMethod": "web_search_result",
+            "claim": "Independent explainer: used as on-screen text 'like a resignation speech'",
+            "excerpt": "Creators drop a short gameplay clip, troll clip, or cursed edit, then slap the line in the title or on-screen text like a resignation speech.",
+            "id": "e5",
+            "intent": "curiosity",
+            "kind": "observed",
+            "publishedAt": null,
+            "publisher": "meme.com",
+            "retrievedAt": "2026-10-05T00:00:47Z",
+            "signalType": "community",
+            "syndicationOf": null,
+            "title": "I Can't Do Nathan Meme: Fortnite Kid's Misheard Line",
+            "url": "https://meme.com/memes/i-cant-do-nathan"
+          },
+          {
+            "accessMethod": "web_search_result",
+            "claim": "TikTok discover pages for meaning/original/name searches show search interest on-platform",
+            "excerpt": "What Does It Mean I Cant Do Nathan Meme; I Cant Do Nathan Meme Original; Nathan Meme Name",
+            "id": "e6",
+            "intent": "curiosity",
+            "kind": "observed",
+            "publishedAt": null,
+            "publisher": "TikTok",
+            "retrievedAt": "2026-10-05T00:00:47Z",
+            "signalType": "social",
+            "syndicationOf": null,
+            "title": "What Does It Mean I Cant Do Nathan Meme",
+            "url": "https://www.tiktok.com/discover/what-does-it-mean-i-cant-do-nathan-meme"
+          },
+          {
+            "accessMethod": "web_search_result",
+            "claim": "Additional meme-database listing",
+            "excerpt": "I Can't Do Nathan (2026)",
+            "id": "e7",
+            "intent": "curiosity",
+            "kind": "observed",
+            "publishedAt": null,
+            "publisher": "Rate The Meme",
+            "retrievedAt": "2026-10-05T00:00:47Z",
+            "signalType": "community",
+            "syndicationOf": null,
+            "title": "I Can't Do Nathan (2026)",
+            "url": "https://ratethememe.com/meme/i-cant-do-nathan"
+          },
+          {
+            "accessMethod": "web_search_result",
+            "claim": "A web search for 'can't do nathan' shirts/stickers returned unrelated shops; no meme-specific products surfaced (search-engine check, not a marketplace count)",
+            "excerpt": "the specific \"can't do nathan\" products aren't directly visible in these top results",
+            "id": "e8",
+            "intent": "none",
+            "kind": "inference",
+            "publishedAt": null,
+            "publisher": "web search (Etsy shop results)",
+            "retrievedAt": "2026-10-05T00:00:47Z",
+            "signalType": "marketplace",
+            "syndicationOf": null,
+            "title": "Search: 'can't do nathan' merch",
+            "url": "https://www.etsy.com/shop/TheStickerFairy"
+          }
+        ],
+        "gap": {
+          "isInference": true,
+          "text": "School-safe stickers tied to situations kids face (homework, chores, Mondays), including a teacher variant that adults can buy."
+        },
+        "name": "I Can't Do Nathan",
+        "observations": [],
+        "origin": {
+          "date": null,
+          "evidence": [
+            "e1"
+          ],
+          "text": "YouTube gaming clip uploaded mid-August 2026; popularized on TikTok and Instagram late August to early September."
+        },
+        "productDemand": {
+          "evidence": [
+            "e3",
+            "e6"
+          ],
+          "text": "No purchase evidence; curiosity from adults decoding the slang."
+        },
+        "products": [
+          {
+            "buyer": "Tweens/teens and the parents, siblings and teachers who buy for them",
+            "channels": [
+              "Redbubble",
+              "Etsy",
+              "Pinterest"
+            ],
+            "continueIf": "5+ sales or 30+ favorites in 14 days",
+            "differentiation": "Situational, school-safe designs plus a teacher pack",
+            "effort": "low",
+            "effortHours": 7,
+            "evidence": [
+              "e3",
+              "e4"
+            ],
+            "format": "sticker",
+            "fulfillment": "pod",
+            "leadTimeDays": 2,
+            "pivotIf": "Teacher variant outperforms: make a classroom reward sheet",
+            "playbook": {
+              "assembly": [
+                "Generate copy and prompts with the super prompt; create the 10 images.",
+                "Re-set all text in Canva at 3000x3000 px using the font pairing for crisp lettering.",
+                "Export transparent PNGs at 300 DPI.",
+                "Upload singles to Redbubble (stickers, plus magnets for teachers).",
+                "Build a 3-sticker and 6-sticker sheet on Printify linked to Etsy.",
+                "Create mockups on a binder, laptop and water bottle.",
+                "Publish with the listing prompt; include the parent-friendly explanation."
+              ],
+              "asymmetry": {
+                "badBetIf": "The phrase fades like other Gen Alpha slang before listings are discovered; 6-7 shows how fast this can turn.",
+                "downside": "About 7 hours, $0-$5.",
+                "upside": "Zero marginal cost; parents and teachers are a buyer group beyond the meme's own audience."
+              },
+              "costs": {
+                "baseCost": 2,
+                "basis": "estimate: verify in the provider catalog",
+                "item": "Kiss-cut stickers and sticker sheets",
+                "provider": "Printify (Etsy) / Redbubble",
+                "shipping": 4,
+                "testBudget": 0,
+                "testBudgetNote": "Organic only; minors are the audience so avoid targeted ads."
+              },
+              "extensions": [
+                "Teacher reward-sticker sheet",
+                "Notebook cover printable",
+                "Magnet set"
+              ],
+              "imagePrompts": [
+                {
+                  "prompt": "Die-cut sticker, the exact lowercase text \"i can't do nathan.\" in bubbly rounded hand-lettering, bubblegum #FF8FB1 letters with ink #1D1D2B outline and small lime #B6E36B sparkles, flat vector, 1:1, transparent background, thick white die-cut border. No logos, no real people, no trademarked characters, no watermarks.",
+                  "purpose": "Lead sticker",
+                  "tool": "Ideogram"
+                },
+                {
+                  "prompt": "Original cute cartoon cat face-planted on an open textbook, tiny Zzz, speech bubble with exact text \"can't do nathan.\", flat vector, sunshine #FFD447 and electric blue #3A7BFF accents, ink #1D1D2B outlines, 1:1, transparent background, white die-cut border. No logos, no real people, no trademarked characters, no watermarks.",
+                  "purpose": "Sleepy cat sticker",
+                  "tool": "ChatGPT images or Midjourney"
+                }
+              ],
+              "listingPrompt": "Write an Etsy listing for a school-safe 'i can't do nathan' slang sticker pack for tweens and teens. Title under 140 characters front-loading \"I Can't Do Nathan Sticker\". 13 tags of 20 characters or fewer (e.g. cant do nathan, gen alpha sticker, funny school sticker). Description: designs included, sizes, vinyl per provider, print-on-demand shipping about 1-2 weeks, a two-sentence parent explanation of the phrase. 4-question FAQ. Do not mention any video game, YouTuber, the child in the clip, or trademarked terms.",
+              "marketing": {
+                "channels": [
+                  {
+                    "cadence": "5/week",
+                    "channel": "Pinterest",
+                    "tactic": "Parent/teacher-oriented pins"
+                  },
+                  {
+                    "cadence": "2/week",
+                    "channel": "TikTok / Reels",
+                    "tactic": "Adult-perspective humor clips (no kids on camera)"
+                  }
+                ],
+                "hooks": [
+                  "Decoding my kid's new favorite phrase:",
+                  "When the homework hits at 9pm:"
+                ],
+                "keywords": [
+                  "cant do nathan sticker",
+                  "gen alpha slang sticker",
+                  "funny school sticker",
+                  "teen slang gift"
+                ],
+                "launchPlan": [
+                  {
+                    "action": "Publish 10 singles on Redbubble.",
+                    "day": "Day 0"
+                  },
+                  {
+                    "action": "Etsy sheets live via Printify.",
+                    "day": "Day 2"
+                  },
+                  {
+                    "action": "Pinterest: 'teen slang explained' pin with the sticker set.",
+                    "day": "Day 3"
+                  },
+                  {
+                    "action": "Short video aimed at adults: 'my kid keeps saying I can't do Nathan, so I made stickers'.",
+                    "day": "Day 5"
+                  },
+                  {
+                    "action": "Teacher pack pin for classroom rewards.",
+                    "day": "Day 10"
+                  },
+                  {
+                    "action": "Go/pivot/stop check.",
+                    "day": "Day 14"
+                  },
+                  {
+                    "action": "If selling, add a winter-break variant.",
+                    "day": "Day 21"
+                  }
+                ],
+                "positioning": "The new school-year slang, on a sticker that's actually teacher-approved."
+              },
+              "platforms": [
+                {
+                  "name": "Redbubble",
+                  "role": "primary",
+                  "why": "Free; teens and parents shop slang stickers there"
+                },
+                {
+                  "name": "Etsy",
+                  "role": "secondary",
+                  "why": "Sticker sheets and teacher buyers"
+                },
+                {
+                  "name": "Pinterest",
+                  "role": "traffic",
+                  "why": "Parents and teachers searching school gifts; avoid targeting minors directly"
+                }
+              ],
+              "pricing": {
+                "basis": "estimate",
+                "currency": "USD",
+                "high": 12,
+                "low": 3,
+                "rationale": "Kids' slang stickers sit at low single digits; sheets about $10-12.",
+                "recommended": 4
+              },
+              "productName": "I Can't Do Nathan School-Survival Sticker Pack",
+              "risks": [
+                "Gen Alpha slang moves fast",
+                "Audience includes minors: no targeted ads, no kids in content",
+                "Some parents/teachers find it annoying"
+              ],
+              "superPrompt": "You are a sticker illustrator and youth-humor writer creating an original sticker pack built on the 2026 catchphrase \"I can't do Nathan\" (a misheard \"I can't do nothing\"), which kids and teens use to joke about being done with homework, chores and Mondays.\n\nBUYER AND JOB: Tweens and teens (10-17) who say the phrase, plus parents, older siblings and teachers buying a fun, school-safe gift. Stickers go on laptops, binders, water bottles and planners and signal 'I'm in on it'.\n\nDELIVERABLE SPEC: 10 stickers. For each: exact text, illustration subject, layout, palette colors, image-model prompt. Canvas 3000x3000 px transparent PNG, 300 DPI, 60 px white die-cut border, sizes 3 in and 4 in.\n1. \"i can't do nathan.\" in bubbly hand-lettering.\n2. Homework pile with \"i can't do nathan\" in a speech bubble.\n3. Math worksheet version: \"2+2? i can't do nathan.\"\n4. Monday alarm clock melting: \"can't do nathan today.\"\n5. Original cartoon sleepy cat face-planting on a book: \"can't do nathan.\"\n6. Fake ID badge (original design): \"Hi, I'm NOT Nathan.\"\n7. \"who's nathan?\" in retro arcade-style lettering (generic pixel style; no game logos).\n8. Chores list with every item crossed out: \"can't do nathan.\"\n9. Battery at 1%: \"can't do nathan.\"\n10. Teacher-friendly version: \"we CAN do nathan (homework due Friday)\".\n\nFONTS (two Canva pairings): A) \"Fredoka\" + \"Nunito\"; B) \"Press Start 2P\" (accents only) + \"Baloo 2\".\nPALETTE: bubblegum #FF8FB1, electric blue #3A7BFF, lime #B6E36B, sunshine #FFD447, grape #6B4BA1, ink #1D1D2B.\n\nRIGHTS AND SAFETY RULES: Do NOT reference or depict the child in the original clip, the YouTuber, any video game, game characters, weapons, aim-assist or game logos. No real people. Content must be school-appropriate: no insults, no puking jokes, no profanity. Nathan is never a real person and no one named Nathan is mocked.\n\nDIFFERENTIATION: Existing slang merch is generic (\"rizz\", \"6-7\") while this set turns one specific new phrase into situations kids live every day (homework, chores, Mondays), plus a teacher variant that adults can buy.\n\nOUTPUT FORMAT: Numbered list with all fields; then three bundle suggestions (Back-to-school 3-pack, Full 10-pack, Teacher pack); then a parent-friendly description explaining the phrase in 2 sentences.\n\nSELF-CHECK: no game, YouTuber or child references; school-safe language; exact text spelled consistently (\"nathan\" lowercase except item 6); every image prompt ends with the negative list."
+            },
+            "rightsNote": "No game, YouTuber, child or clip references",
+            "stopIf": "No sales in 14 days",
+            "theme": "School-safe 'i can't do nathan' sticker pack about homework, chores and Mondays, with a teacher variant",
+            "validationTest": "10 designs live for 14 days with Pinterest and adult-perspective clips",
+            "whyBuy": "Lets kids show they're in on the phrase; an easy, cheap gift for adults to buy"
+          }
+        ],
+        "recommendedAction": "prepare",
+        "rights": {
+          "note": "The phrase is fine to use, but the source is a minor's voice in a YouTuber's gaming video. Never use the clip, audio, the child, the YouTuber's name, the game or its logos. Audience includes minors: no targeted ads.",
+          "risk": "medium"
+        },
+        "scores": {
+          "buyerIntent": {
+            "basis": "qualitative",
+            "rationale": "Curiosity only",
+            "score": 1
+          },
+          "durability": {
+            "basis": "qualitative",
+            "rationale": "Gen Alpha slang turns fast",
+            "score": 2
+          },
+          "economics": {
+            "basis": "qualitative",
+            "rationale": "Free POD platforms, low prices",
+            "score": 3
+          },
+          "productFit": {
+            "basis": "qualitative",
+            "rationale": "Short phrase suits stickers for school gear",
+            "score": 4
+          },
+          "supplyGap": {
+            "basis": "qualitative",
+            "rationale": "No meme-specific products found; slang-sticker market generally busy",
+            "score": 3
+          },
+          "timing": {
+            "basis": "reported",
+            "rationale": "About 7 weeks old; in school-year adoption phase",
+            "score": 3
+          }
+        },
+        "spread": {
+          "evidence": [
+            "e2",
+            "e3",
+            "e4",
+            "e5",
+            "e7"
+          ],
+          "text": "KYM roundup headline (Sept 11), a school-year trends roundup in a regional newspaper, a Yahoo piece on most-searched teen slang, and independent meme databases."
+        },
+        "summary": "A Gen Alpha catchphrase from a misheard 'I can't do nothing' in a mid-August 2026 gaming video, now used as a joking 'I'm done' about school and chores.",
+        "trajectory": {
+          "evidence": [
+            "e3",
+            "e4"
+          ],
+          "stage": "early_growth",
+          "text": "Moved from a meme audio into kids' everyday speech by the school year, as shown by parent-focused coverage. Evidence of continued growth after mid-September is thin."
+        },
+        "unresolved": [
+          "Does the phrase appear in October parent/teacher slang roundups?",
+          "Is it spreading beyond TikTok (school hallway reports, YouTube Shorts)?",
+          "Any 'can't do nathan' merch appearing (demand signal or crowding)?"
+        ],
+        "what": "A kid in a YouTube gaming video says he \"can't do nothing\", which sounds like \"can't do Nathan\". From late August the audio and phrase spread on TikTok and Instagram as an all-purpose resignation line, especially about homework. Adults are now searching what it means.",
+        "window": {
+          "endEstimate": null,
+          "estimate": "4-8 weeks",
+          "invalidators": [
+            "Teachers/parents coverage stops mentioning it",
+            "A new phrase replaces it in kid-trend roundups"
+          ],
+          "reasoning": "Gen Alpha phrases that reach school hallways can last a semester (6-7 did), but they turn fast. Current coverage is from September.",
+          "seasonality": "School year; winter break could be a second hook",
+          "sellBy": null
+        }
+      }
+    ],
+    "kind": "discover",
+    "lens": "First-spark hunt: memes, catchphrases, slang",
+    "researchedAt": "2026-10-05T00:00:47Z",
+    "sourcesTried": [
+      {
+        "method": "WebFetch + WebSearch",
+        "note": "knowyourmeme.com blocked by egress proxy; used search-result snippets only",
+        "source": "Know Your Meme (entries, weekly roundups, Meme of the Month)",
+        "status": "blocked"
+      },
+      {
+        "method": "WebFetch",
+        "note": "egress blocked; snippets only",
+        "source": "meme.com explainers",
+        "status": "blocked"
+      },
+      {
+        "method": "WebFetch",
+        "note": "egress blocked; snippets only",
+        "source": "newengen.com TikTok/Instagram trend pages",
+        "status": "blocked"
+      },
+      {
+        "method": "WebFetch",
+        "note": "egress blocked",
+        "source": "pepperagency.com October 2026 trends",
+        "status": "blocked"
+      },
+      {
+        "method": "WebFetch",
+        "note": "egress blocked; snippets only",
+        "source": "thunderdungeon.com, thebrewnews.com (Chile memes)",
+        "status": "blocked"
+      },
+      {
+        "method": "WebSearch",
+        "note": "about 45 queries; primary evidence channel",
+        "source": "WebSearch (extended/standard) across trend roundups, slang explainers, KYM, Yahoo syndications, Euronews, Daily Dot",
+        "status": "ok"
+      },
+      {
+        "method": "WebSearch for merch terms",
+        "note": "no direct marketplace access; searched for listings via web search only, so supply counts are not measured",
+        "source": "Etsy / Redbubble / TikTok Shop supply checks",
+        "status": "ok"
+      },
+      {
+        "method": "not fetched",
+        "note": "typically blocked; only TikTok discover-page titles seen in search results",
+        "source": "TikTok, Reddit, X, Google Trends",
+        "status": "not_tried"
+      }
+    ]
+  },
+  "report": [
+    {
+      "errors": [],
+      "id": "i-can-t-do-nathan",
+      "name": "I Can't Do Nathan",
+      "status": "created",
+      "warnings": 0
+    }
+  ],
+  "runId": "run-hunt-memes-20261004-4",
+  "status": "ingested"
+}

@@ -1,0 +1,89 @@
+{
+  "candidateIds": [
+    "whimsymaxxing-bedazzle-everything-diy"
+  ],
+  "discovered": [],
+  "id": "run-hunt-hobbies-20261004-3",
+  "ingestedAt": "2026-10-05T00:01:02.893Z",
+  "jobId": "hunt-hobbies-20261004",
+  "kind": "discover",
+  "lens": "First-spark hunt: new hobbies, challenges and rituals",
+  "report": [
+    {
+      "errors": [],
+      "id": "whimsymaxxing-bedazzle-everything-diy",
+      "name": "Whimsymaxxing: bedazzle-everything DIY",
+      "status": "created",
+      "warnings": 0
+    }
+  ],
+  "researchedAt": "2026-10-05T00:00:55Z",
+  "sourcesTried": [
+    {
+      "method": "web search",
+      "note": "About 40 queries across TikTok/Reels trend roundups, Know Your Meme, YPulse, Pinterest, Etsy trend blogs, news.",
+      "source": "WebSearch (standard and extended)",
+      "status": "ok"
+    },
+    {
+      "method": "WebFetch",
+      "note": "Egress blocked; used search snippets.",
+      "source": "newengen.com October TikTok trends",
+      "status": "blocked"
+    },
+    {
+      "method": "WebFetch",
+      "note": "Egress blocked.",
+      "source": "washingtonpost.com (hobbymaxxing, 2026-09-13)",
+      "status": "blocked"
+    },
+    {
+      "method": "WebFetch",
+      "note": "Egress blocked; search snippets only.",
+      "source": "socialbee.com TikTok trends (Sept 29)",
+      "status": "blocked"
+    },
+    {
+      "method": "WebFetch",
+      "note": "Egress blocked; search snippets only.",
+      "source": "later.com TikTok and Reels trend blogs",
+      "status": "blocked"
+    },
+    {
+      "method": "WebFetch",
+      "note": "Egress blocked.",
+      "source": "explodingtopics.com",
+      "status": "blocked"
+    },
+    {
+      "method": "WebFetch",
+      "note": "Egress blocked.",
+      "source": "napoleoncat.com",
+      "status": "blocked"
+    },
+    {
+      "method": "WebFetch",
+      "note": "Egress blocked.",
+      "source": "ramd.am TikTok/Instagram trends",
+      "status": "blocked"
+    },
+    {
+      "method": "WebFetch",
+      "note": "Egress blocked; could not confirm the year of the 9/19 post.",
+      "source": "community.pinterest.biz Pinterest Predicts Weekly",
+      "status": "blocked"
+    },
+    {
+      "method": "WebFetch",
+      "note": "Egress blocked; search snippets only.",
+      "source": "fortune.com",
+      "status": "blocked"
+    },
+    {
+      "method": "direct",
+      "note": "Known to be blocked in this environment; TikTok discover pages seen only as search results.",
+      "source": "TikTok, Reddit, Etsy, Google Trends",
+      "status": "not_tried"
+    }
+  ]
+}

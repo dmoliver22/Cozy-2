@@ -1,0 +1,878 @@
+{
+  "createdAt": "2026-10-04T23:58:50Z",
+  "jobId": "hunt-tech-20261004",
+  "raw": {
+    "candidates": [
+      {
+        "actionRationale": "Very early and cheap to build. Make the script pack and demo videos now, and hold ad spend until buyers show up.",
+        "adopters": {
+          "evidence": [
+            "e1",
+            "e2",
+            "e6"
+          ],
+          "text": "Small creators and small business accounts ('#smallcreators', '#tiktokgrowth' tags), people making lip-sync and tutorial videos, and educators and coaches who film scripted talking heads."
+        },
+        "aliases": [
+          "in-app teleprompter",
+          "teleprompter feature",
+          "scripted talking-head videos"
+        ],
+        "category": "other",
+        "competition": {
+          "evidence": [
+            "e9",
+            "e10"
+          ],
+          "level": "low",
+          "text": "Generic video-script templates exist (a free talking-head teleprompter template, Gumroad script packs). None found that are packaged for in-app phone teleprompters or for specific small-business situations."
+        },
+        "evidence": [
+          {
+            "accessMethod": "web_search_result",
+            "claim": "Creator announces the in-app teleprompter as newly released and spreading; date inferred from the video ID (2026-09-27).",
+            "excerpt": "TikTok just dropped this new feature- it's the TikTok teleprompter and it's taking off like crazy right now! #tiktokgrowth #tiktokupdate #smallcreators",
+            "id": "e1",
+            "intent": "curiosity",
+            "kind": "observed",
+            "publishedAt": "2026-09-27",
+            "publisher": "TikTok (@ceciliabaskett1)",
+            "retrievedAt": "2026-10-04T23:58:50Z",
+            "signalType": "social",
+            "syndicationOf": null,
+            "title": "TikTok just dropped this new feature - it's the TikTok teleprompter and it's taking off like crazy right now",
+            "url": "https://www.tiktok.com/@ceciliabaskett1/video/7690357857656540447"
+          },
+          {
+            "accessMethod": "web_search_result",
+            "claim": "Independent creator posts a how-to tutorial for the new teleprompter; date inferred from the video ID (2026-09-30).",
+            "excerpt": "Tutorial included. Tik Toks New 2026 Teleprompter feature! #tiktoktips #tiktokgrowth #tiktokupdate #newfeature #lyrics",
+            "id": "e2",
+            "intent": "utility",
+            "kind": "observed",
+            "publishedAt": "2026-09-30",
+            "publisher": "TikTok (@ciennaunlocked)",
+            "retrievedAt": "2026-10-04T23:58:50Z",
+            "signalType": "creator",
+            "syndicationOf": null,
+            "title": "Tutorial included. Tik Toks New 2026 Teleprompter feature!",
+            "url": "https://www.tiktok.com/@ciennaunlocked/video/7691431178556984606"
+          },
+          {
+            "accessMethod": "web_search_result",
+            "claim": "TikTok has generated a help-seeking discover page for turning on the teleprompter, which suggests repeated in-app searches.",
+            "excerpt": "How to Turn on Teleprompter TikTok 2026",
+            "id": "e3",
+            "intent": "utility",
+            "kind": "observed",
+            "publishedAt": null,
+            "publisher": "TikTok discover page",
+            "retrievedAt": "2026-10-04T23:58:50Z",
+            "signalType": "search",
+            "syndicationOf": null,
+            "title": "How to Turn on Teleprompter TikTok 2026",
+            "url": "https://www.tiktok.com/discover/how-to-turn-on-teleprompter-tiktok-2026"
+          },
+          {
+            "accessMethod": "web_search_result",
+            "claim": "Users are asking why the teleprompter suddenly appeared, which fits a staged rollout.",
+            "excerpt": "TikTok just came out with a teleprompter, and it's slowly being rolled out, so not everyone has it yet.",
+            "id": "e4",
+            "intent": "curiosity",
+            "kind": "observed",
+            "publishedAt": null,
+            "publisher": "TikTok discover page",
+            "retrievedAt": "2026-10-04T23:58:50Z",
+            "signalType": "search",
+            "syndicationOf": null,
+            "title": "Why Did My TikTok Have Teleprompter",
+            "url": "https://www.tiktok.com/discover/why-did-my-tiktok-have-teleprompter"
+          },
+          {
+            "accessMethod": "web_search_result",
+            "claim": "October 2026 trend roundup reports the built-in teleprompter has rolled out for many users (page fetch blocked).",
+            "excerpt": "TikTok Voice Comments are rolling out... and TikTok's built-in teleprompter has rolled out for many users.",
+            "id": "e5",
+            "intent": "none",
+            "kind": "observed",
+            "publishedAt": null,
+            "publisher": "NapoleonCat",
+            "retrievedAt": "2026-10-04T23:58:50Z",
+            "signalType": "press",
+            "syndicationOf": null,
+            "title": "Current TikTok Trends To Try Right Now - October 2026",
+            "url": "https://napoleoncat.com/blog/tiktok-trends/"
+          },
+          {
+            "accessMethod": "web_search_result",
+            "claim": "Third-party teleprompter vendors are publishing comparison content in response to the native feature.",
+            "excerpt": "scrolling script while filming inside the TikTok app with three scroll speed settings: 0.5x, 1x, and 2x, adjustable font size and color",
+            "id": "e6",
+            "intent": "none",
+            "kind": "observed",
+            "publishedAt": null,
+            "publisher": "teleprompter.works",
+            "retrievedAt": "2026-10-04T23:58:50Z",
+            "signalType": "creator",
+            "syndicationOf": null,
+            "title": "TikTok Built-In Teleprompter vs Teleprompter App (2026)",
+            "url": "https://teleprompter.works/blog/tiktok-teleprompter-vs-teleprompter-app/"
+          },
+          {
+            "accessMethod": "web_search_result",
+            "claim": "A second major platform moved its teleprompter from a companion editing app into the main camera, so in-camera scripting is becoming standard.",
+            "excerpt": "We brought the teleprompter feature from Edits into the main Instagram camera. You can now add a script that scrolls while you record.",
+            "id": "e7",
+            "intent": "none",
+            "kind": "observed",
+            "publishedAt": null,
+            "publisher": "Social Media Today",
+            "retrievedAt": "2026-10-04T23:58:50Z",
+            "signalType": "press",
+            "syndicationOf": null,
+            "title": "Instagram introduces teleprompter tool",
+            "url": "https://www.socialmediatoday.com/news/instagram-introduces-teleprompter-tool/821564/"
+          },
+          {
+            "accessMethod": "web_search_result",
+            "claim": "Restates the same Instagram teleprompter announcement.",
+            "excerpt": "Instagram is rolling out its teleprompter feature to the main app, expanding a tool that was previously available only through its video editing app, Edits.",
+            "id": "e8",
+            "intent": "none",
+            "kind": "observed",
+            "publishedAt": null,
+            "publisher": "Social Samosa",
+            "retrievedAt": "2026-10-04T23:58:50Z",
+            "signalType": "press",
+            "syndicationOf": "e7",
+            "title": "Instagram brings teleprompter feature to the main app",
+            "url": "https://www.socialsamosa.com/news-2/instgram-teleprompter-main-app-11895044"
+          },
+          {
+            "accessMethod": "web_search_result",
+            "claim": "Supply: an existing teleprompter-formatted script template (hook, credibility bridge, teaching block, CTA).",
+            "excerpt": "formatted with natural pauses, pacing notes, and fill-in placeholders so you can record a polished talking-head video without sounding robotic",
+            "id": "e9",
+            "intent": "none",
+            "kind": "observed",
+            "publishedAt": null,
+            "publisher": "Lilach Bullock",
+            "retrievedAt": "2026-10-04T23:58:50Z",
+            "signalType": "marketplace",
+            "syndicationOf": null,
+            "title": "Talking-Head Teleprompter Script Template",
+            "url": "https://www.lilachbullock.com/resources/talking-head-teleprompter-script-template/"
+          },
+          {
+            "accessMethod": "web_search_result",
+            "claim": "Supply: generic video script templates are sold on Gumroad.",
+            "excerpt": "Video Script Creation Templates available on Gumroad that support script creation",
+            "id": "e10",
+            "intent": "none",
+            "kind": "observed",
+            "publishedAt": null,
+            "publisher": "Gumroad seller",
+            "retrievedAt": "2026-10-04T23:58:50Z",
+            "signalType": "marketplace",
+            "syndicationOf": null,
+            "title": "Video Script Creation Templates",
+            "url": "https://haveshun.gumroad.com/l/video-script"
+          },
+          {
+            "accessMethod": "web_search_result",
+            "claim": "A teleprompter vendor targets short-video creators with 2026 content.",
+            "excerpt": "Best Teleprompter App for TikTok (2026)",
+            "id": "e11",
+            "intent": "none",
+            "kind": "observed",
+            "publishedAt": null,
+            "publisher": "Teleprompter.com",
+            "retrievedAt": "2026-10-04T23:58:50Z",
+            "signalType": "creator",
+            "syndicationOf": null,
+            "title": "Best Teleprompter App for TikTok (2026)",
+            "url": "https://www.teleprompter.com/blog/best-teleprompter-app-for-tiktok"
+          }
+        ],
+        "gap": {
+          "isInference": true,
+          "text": "Ready-to-read, teleprompter-formatted script packs by business situation, plus a planner that times scripts and batches filming."
+        },
+        "name": "Built-in Teleprompter Scripted Videos",
+        "observations": [],
+        "origin": {
+          "date": "2026-09-27",
+          "evidence": [
+            "e1",
+            "e2",
+            "e7"
+          ],
+          "text": "A teleprompter first appeared in a companion editing app in June 2025, then moved into a main app camera (date not confirmed). Creator posts about a staged rollout of the teleprompter in the largest short-video app are dated Sept 27 and Sept 30, 2026, inferred from video IDs."
+        },
+        "productDemand": {
+          "evidence": [
+            "e2",
+            "e3"
+          ],
+          "text": "Help-seeking (how to turn it on, how to use it) is visible. There's no direct evidence yet of people buying scripts for it. Purchase intent is unproven."
+        },
+        "products": [
+          {
+            "buyer": "Solo small business owners and new creators who want to film talking-head videos but struggle to write scripts",
+            "channels": [
+              "Etsy",
+              "Payhip",
+              "Pinterest",
+              "short-form video demos"
+            ],
+            "continueIf": "At least 3 sales or 30 favorites within 21 days, or one demo video passes 5,000 views.",
+            "differentiation": "Formatted for phone teleprompters (4-7 word lines, pause marks, timed 20-45 s lengths) and organized by small-business situations; existing templates are generic or long-form.",
+            "effort": "low",
+            "effortHours": 10,
+            "evidence": [
+              "e1",
+              "e2",
+              "e3",
+              "e9"
+            ],
+            "format": "template",
+            "fulfillment": "digital",
+            "leadTimeDays": 3,
+            "pivotIf": "Demos get views but listings get no favorites: narrow to one niche (e.g. realtors or bakers) or bundle with the planner.",
+            "playbook": {
+              "assembly": [
+                "Run the super prompt; paste the output into a Google Doc and fix any script over its word range.",
+                "In Canva, start a US Letter doc; apply the Archivo Black + Inter pairing and the palette.",
+                "Lay out the welcome, hook bank, 60 scripts (one per half-page), calendar and checklist.",
+                "Duplicate and resize to A4 (Canva Resize) and check page breaks.",
+                "Export both as PDF Print, 300 DPI; also share the Google Doc as a 'make a copy' link for editable text.",
+                "Zip the PDFs plus a README with the copy link; test the link in a private window.",
+                "Make 5 listing images and a 15-second screen recording of a script scrolling on a phone."
+              ],
+              "asymmetry": {
+                "badBetIf": "Demo videos get no traction and the platforms' own script-suggestion AI makes templates feel unnecessary.",
+                "downside": "About 10 hours and $0-14. The answer comes in 2-3 weeks.",
+                "upside": "Zero marginal cost, sells on several platforms, easy niche spin-offs, and grows as more apps add teleprompters."
+              },
+              "costs": {
+                "baseCost": null,
+                "basis": "estimate: digital product, only Etsy listing/transaction fees apply",
+                "item": null,
+                "provider": null,
+                "shipping": null,
+                "testBudget": 14,
+                "testBudgetNote": "Optional Etsy Ads at $1/day for 14 days after organic demos are live."
+              },
+              "extensions": [
+                "Niche editions (realtor, bakery, salon, coach)",
+                "Holiday script pack",
+                "Bundle with the Script & Shoot Planner",
+                "Monthly script subscription via email"
+              ],
+              "imagePrompts": [
+                {
+                  "prompt": "Flat vector illustration of a smartphone on a small tripod, screen showing scrolling script lines and a bright coral record dot, surrounded by sticky notes and a coffee cup on a cream desk. Colors #1F2430, #FF6B57, #FFF6E5, #2A9D8F. Bold text at top: \"60 Teleprompter-Ready Scripts\"; smaller text below: \"for small business owners\". 4:5 aspect ratio, solid cream background, clean modern style. No logos, no real people, no trademarked characters, no watermarks, no app interface branding.",
+                  "purpose": "Listing cover image",
+                  "tool": "Ideogram or ChatGPT images"
+                },
+                {
+                  "prompt": "Three stacked document pages fanned out at a slight angle showing headings 'Hook Bank', 'Quick Tip Scripts', '30-Day Calendar' with short lines of text and coral pause markers. Palette #1F2430, #FF6B57, #FFF6E5. 1:1 aspect ratio, soft shadow, light gray #E6E8EC background. No logos, no real people, no trademarked characters, no watermarks.",
+                  "purpose": "What's-inside preview",
+                  "tool": "Canva mockup or ChatGPT images"
+                }
+              ],
+              "listingPrompt": "Write an Etsy listing for a digital download: 60 teleprompter-ready, fill-in-the-blank talking-head video scripts for small business owners, plus a 40-line hook bank, a 30-day posting calendar and a one-take checklist (PDF in US Letter and A4, plus an editable Google Doc copy link). Give a title under 140 characters front-loading 'video script template small business'; 13 tags, each 20 characters or fewer; a description covering what's included, file formats, instant-download delivery, and how to paste a script into any phone teleprompter; and a 5-question FAQ (editing, which apps it works with: 'any app with a teleprompter or notes', refunds for digital items, printing, niches). Do not use any platform, app or brand names or trademarks, and make no promises about views, followers or income.",
+              "marketing": {
+                "channels": [
+                  {
+                    "cadence": "4-5 per week",
+                    "channel": "Short-form video",
+                    "tactic": "Read-a-script demos filmed with the in-camera teleprompter"
+                  },
+                  {
+                    "cadence": "5 pins per week",
+                    "channel": "Pinterest",
+                    "tactic": "Pins for 'video script template' and 'content ideas for small business'"
+                  },
+                  {
+                    "cadence": "Weekly",
+                    "channel": "Email (free sampler)",
+                    "tactic": "Weekly 'script of the week' email"
+                  }
+                ],
+                "hooks": [
+                  "I used my phone's new teleprompter and a $14 script. Here's the take.",
+                  "Stop freezing on camera: read this.",
+                  "60 scripts you can read word for word."
+                ],
+                "keywords": [
+                  "video script template",
+                  "teleprompter script",
+                  "small business content",
+                  "talking head script",
+                  "content ideas",
+                  "reels script",
+                  "30 day content plan"
+                ],
+                "launchPlan": [
+                  {
+                    "action": "Publish the listing with 5 images and a 15-second screen-recorded preview video.",
+                    "day": "Day 0"
+                  },
+                  {
+                    "action": "Post a short video of yourself reading one of the scripts on a phone teleprompter (the demo is the ad).",
+                    "day": "Day 1"
+                  },
+                  {
+                    "action": "Create 5 Pinterest pins (cover, hook bank, calendar, before/after script, checklist) linking to the listing.",
+                    "day": "Day 2"
+                  },
+                  {
+                    "action": "Give away a free 5-script sampler on Payhip/Gumroad in exchange for an email to start a list.",
+                    "day": "Day 4"
+                  },
+                  {
+                    "action": "Post 3 more demo videos, each using a different script section; note which hook type gets saves.",
+                    "day": "Day 7"
+                  },
+                  {
+                    "action": "Share in small-business Facebook groups that allow resource posts (check the community rules).",
+                    "day": "Day 10"
+                  },
+                  {
+                    "action": "Review views, favorites and sales; refresh the title and first image if CTR is low.",
+                    "day": "Day 14"
+                  },
+                  {
+                    "action": "Go/pivot/stop check against the continueIf / pivotIf / stopIf thresholds.",
+                    "day": "Day 21"
+                  }
+                ],
+                "positioning": "The fastest way to use your phone's new teleprompter: scripts already written, already formatted, ready to read."
+              },
+              "platforms": [
+                {
+                  "name": "Etsy",
+                  "role": "primary",
+                  "why": "Buyers search for script and content templates; built-in digital delivery."
+                },
+                {
+                  "name": "Payhip",
+                  "role": "secondary",
+                  "why": "Direct link from video bios plus a free sampler for email capture."
+                },
+                {
+                  "name": "Pinterest",
+                  "role": "traffic",
+                  "why": "Evergreen search traffic for content-planning templates."
+                }
+              ],
+              "pricing": {
+                "basis": "estimate",
+                "currency": "USD",
+                "high": 19,
+                "low": 9,
+                "rationale": "Generic script packs sell around $5-$20 on Gumroad and Etsy. Teleprompter formatting and 60 scripts justify mid-range.",
+                "recommended": 14
+              },
+              "productName": "Teleprompter-Ready Scripts (60 for Small Business)",
+              "risks": [
+                "Platforms may add AI script generation that competes directly.",
+                "Generic script templates already exist; the differentiation must be visible in images.",
+                "Must avoid platform names, which limits keyword targeting."
+              ],
+              "superPrompt": "You are an expert short-form video scriptwriter and instructional designer. Produce a complete, sellable digital product called \"Teleprompter-Ready Scripts: 60 Fill-in-the-Blank Talking-Head Scripts for Small Business Owners\".\n\nBUYER AND JOB: Solo business owners (bakers, realtors, stylists, coaches, Etsy makers, local service pros) who now have a built-in teleprompter in their phone's short-video camera but freeze when they have to write the script. The product gives them ready scripts, already formatted to scroll well on a phone teleprompter, so they can record in one take.\n\nDELIVERABLE SPEC (output in this order):\n1. Welcome page (120 words): how to paste a script into any in-app teleprompter, the best scroll speed for beginners (start slow), and \"look at the lens, not the words\".\n2. \"How to read this kit\" page: explain the formatting rules you will use. Lines of 4-7 words. A blank line between beats. [PAUSE] marks. *Emphasis* words. Each script is 20-45 seconds when read at a calm pace (state the approximate word count: 55-120 words).\n3. Hook Bank: 40 original opening lines grouped into 5 types (question, myth, mistake, before/after, quick win), each with a [BLANK] for the niche.\n4. 60 scripts in 6 sections of 10: Introduce Yourself, Behind the Scenes, Customer FAQ, Myth vs Fact, Quick Tip, Offer/Seasonal (include 3 holiday-season scripts). For each script give: Title; Goal; Length (sec); the script itself in teleprompter formatting with [BLANKS] such as [YOUR PRODUCT], [CITY], [PRICE]; a one-line on-screen caption suggestion; a B-roll idea.\n5. 30-day posting calendar table (Day, Script #, Hook type, B-roll).\n6. \"One-take checklist\" page (lighting, framing, eye line, scroll speed, retake rule).\n7. Script-writing worksheet: a blank teleprompter template with the beat structure Hook / Context / Value / Proof / Call to action.\n\nFORMAT AND DESIGN: Google Docs-friendly plain text with clear headings, plus a printable PDF layout in US Letter (8.5x11 in) and A4. Canva font pairings: (a) \"Archivo Black\" headings + \"Inter\" body; (b) \"Poppins SemiBold\" + \"Lora\". Palette: Ink #1F2430, Signal Coral #FF6B57, Teleprompter Cream #FFF6E5, Studio Teal #2A9D8F, Soft Gray #E6E8EC.\n\nCONTENT RULES: Everything original. Plain, friendly 6th-8th grade reading level. No income, follower or virality promises. No claims about how any platform's algorithm works. Don't name any app, platform or brand: write \"your app's teleprompter\" or \"the in-camera teleprompter\". No medical, legal or financial advice in scripts; mark regulated niches with \"check your industry rules\".\n\nDIFFERENTIATION: Existing script templates are generic or long-form. This kit is formatted for phone teleprompters (short lines, pause marks, timed lengths) and organized by small-business situations, with a hook bank and a 30-day plan.\n\nOUTPUT: Page by page, with headings like \"PAGE 3 - Hook Bank\". End with a self-check: 60 scripts present; each within its word range; no brand or platform names; no outcome promises; every script has [BLANKS], a caption and B-roll; calendar covers 30 days."
+            },
+            "rightsNote": "Do not use platform names or logos in titles, images or tags. Say 'phone teleprompter' or 'in-camera teleprompter'.",
+            "stopIf": "Fewer than 300 listing views and no sales after 21 days.",
+            "theme": "Teleprompter-ready script pack: 60 fill-in-the-blank talking-head scripts in short-line teleprompter format, hook bank, 30-day calendar",
+            "validationTest": "List on Etsy and Payhip and post 6 demo videos of reading a script on a phone teleprompter within 14 days.",
+            "whyBuy": "The in-camera teleprompter removes the filming hurdle, but people still need something to read. Ready scripts in teleprompter formatting turn the new feature into finished videos."
+          },
+          {
+            "buyer": "Creators and small business owners batching scripted talking-head videos",
+            "channels": [
+              "Etsy",
+              "Payhip",
+              "Pinterest"
+            ],
+            "continueIf": "Bundle outsells standalone or the planner gets 2+ sales in 21 days.",
+            "differentiation": "Reading-time and teleprompter line formatting built in; generic content calendars lack both.",
+            "effort": "medium",
+            "effortHours": 14,
+            "evidence": [
+              "e2",
+              "e6",
+              "e7",
+              "e10"
+            ],
+            "format": "template",
+            "fulfillment": "digital",
+            "leadTimeDays": 4,
+            "pivotIf": "Interest only in bundle: keep it as a bundle bonus.",
+            "playbook": {
+              "assembly": [
+                "Run the super prompt and rebuild each tab in a new Google Sheet exactly as specified.",
+                "Test every formula with the sample rows; fix the line formatter or use the documented fallback.",
+                "Apply header colors, conditional formatting and data validation; protect formula columns.",
+                "Create a 'make a copy' link (replace /edit with /copy) and test it in a private window.",
+                "Build the 2-page printable in Canva (US Letter, then resize to A4), and export PDF Print 300 DPI.",
+                "Put the copy link and printables in one PDF delivery file with instructions.",
+                "Record a 20-second screen capture of the planner in use for the listing video."
+              ],
+              "asymmetry": {
+                "badBetIf": "Sold standalone without the teleprompter angle being obvious; it would then compete with hundreds of generic planners.",
+                "downside": "About 14 hours. Planner templates are a crowded category.",
+                "upside": "Raises the order value of the script pack, at zero marginal cost."
+              },
+              "costs": {
+                "baseCost": null,
+                "basis": "estimate: digital product, only platform fees apply",
+                "item": null,
+                "provider": null,
+                "shipping": null,
+                "testBudget": 0,
+                "testBudgetNote": "No paid test; rely on bundle and demo videos."
+              },
+              "extensions": [
+                "Notion version",
+                "Agency/multi-client version",
+                "Bundle with script pack"
+              ],
+              "imagePrompts": [
+                {
+                  "prompt": "Clean laptop mockup showing a spreadsheet with dark navy header row, coral status tags and a small bar chart, beside a phone on a tripod. Text on image: \"Script & Shoot Planner\" and \"Google Sheets template\". Colors #1F2430, #FF6B57, #2A9D8F, #FFF6E5. 4:5 aspect ratio, cream background, flat vector. No logos, no real people, no trademarked characters, no watermarks.",
+                  "purpose": "Listing cover image",
+                  "tool": "Ideogram or ChatGPT images"
+                }
+              ],
+              "listingPrompt": "Write an Etsy listing for a Google Sheets template, 'Script & Shoot Planner', for creators who film scripted talking-head videos with a phone teleprompter: script lab with automatic reading-time estimate, teleprompter line formatter, batch-day shoot list, posting log and dashboard, plus printable checklist (US Letter and A4). Give a title under 140 characters front-loading 'content planner google sheets'; 13 tags, each 20 characters or fewer; a description covering what's included, that it needs a free Google account, delivery as a PDF with a copy link, and no app required; and a 5-question FAQ. No platform, app or brand names or trademarks, and no promises about views or income.",
+              "marketing": {
+                "channels": [
+                  {
+                    "cadence": "4-5 per week",
+                    "channel": "Short-form video",
+                    "tactic": "Read-a-script demos filmed with the in-camera teleprompter"
+                  },
+                  {
+                    "cadence": "5 pins per week",
+                    "channel": "Pinterest",
+                    "tactic": "Pins for 'video script template' and 'content ideas for small business'"
+                  },
+                  {
+                    "cadence": "Weekly",
+                    "channel": "Email (free sampler)",
+                    "tactic": "Weekly 'script of the week' email"
+                  }
+                ],
+                "hooks": [
+                  "My whole week of videos, scripted and timed in one sheet.",
+                  "This formula tells you if your script is too long before you film."
+                ],
+                "keywords": [
+                  "content planner",
+                  "google sheets template",
+                  "video script planner",
+                  "batch content",
+                  "creator planner",
+                  "content calendar"
+                ],
+                "launchPlan": [
+                  {
+                    "action": "Publish the listing with 5 images and a 15-second screen-recorded preview video.",
+                    "day": "Day 0"
+                  },
+                  {
+                    "action": "Post a short video of yourself reading one of the scripts on a phone teleprompter (the demo is the ad).",
+                    "day": "Day 1"
+                  },
+                  {
+                    "action": "Create 5 Pinterest pins (cover, hook bank, calendar, before/after script, checklist) linking to the listing.",
+                    "day": "Day 2"
+                  },
+                  {
+                    "action": "Give away a free 5-script sampler on Payhip/Gumroad in exchange for an email to start a list.",
+                    "day": "Day 4"
+                  },
+                  {
+                    "action": "Post 3 more demo videos, each using a different script section; note which hook type gets saves.",
+                    "day": "Day 7"
+                  },
+                  {
+                    "action": "Share in small-business Facebook groups that allow resource posts (check the community rules).",
+                    "day": "Day 10"
+                  },
+                  {
+                    "action": "Review views, favorites and sales; refresh the title and first image if CTR is low.",
+                    "day": "Day 14"
+                  },
+                  {
+                    "action": "Go/pivot/stop check against the continueIf / pivotIf / stopIf thresholds.",
+                    "day": "Day 21"
+                  }
+                ],
+                "positioning": "Script it, time it, film it in one batch, all from one sheet."
+              },
+              "platforms": [
+                {
+                  "name": "Etsy",
+                  "role": "primary",
+                  "why": "Google Sheets templates are an established Etsy category."
+                },
+                {
+                  "name": "Payhip",
+                  "role": "secondary",
+                  "why": "Bundle sales from video bio links."
+                },
+                {
+                  "name": "Pinterest",
+                  "role": "traffic",
+                  "why": "Content-planning pins drive long-tail traffic."
+                }
+              ],
+              "pricing": {
+                "basis": "estimate",
+                "currency": "USD",
+                "high": 18,
+                "low": 8,
+                "rationale": "Content-planner sheets typically sell in the $8-$20 range. Bundled with the script pack at $22.",
+                "recommended": 12
+              },
+              "productName": "Script & Shoot Planner",
+              "risks": [
+                "Crowded general category",
+                "Formula breakage reports if Sheets functions change",
+                "Support questions from non-spreadsheet users"
+              ],
+              "superPrompt": "You are a content-operations designer. Build a Google Sheets template called \"Script & Shoot Planner: Teleprompter Content System\" plus a printable companion.\n\nBUYER AND JOB: Creators and small business owners who now script talking-head videos with a phone's built-in teleprompter. They need one place to draft scripts in teleprompter format, check reading time, batch-film, and track what got posted and how it performed.\n\nDELIVERABLE SPEC: Describe every tab precisely, including column headers, data validation, formulas and conditional formatting, so it can be rebuilt exactly.\nTab 1 \"Start Here\": setup steps, how to \"Make a copy\", color legend.\nTab 2 \"Script Lab\": columns Script ID | Title | Pillar (dropdown: Teach, Behind the Scenes, FAQ, Story, Offer) | Hook | Script Body | Word Count (formula: words in Hook+Body) | Est. Seconds (formula: word count / 2.5, rounded) | Length Flag (formula: \"Too long\" if over 60 sec) | Status (dropdown: Idea, Drafted, Ready, Filmed, Posted). Conditional formatting by status.\nTab 3 \"Teleprompter Formatter\": paste a paragraph in A2; a formula splits it into lines of about 6 words (use SPLIT/REGEX approaches; explain a fallback if the formula is too complex) for copying into any in-app teleprompter.\nTab 4 \"Batch Day\": a shoot list that filters Ready scripts, with outfit/location/B-roll columns and a checkbox per take.\nTab 5 \"Posting Log\": Date | Script ID (dropdown from Script Lab) | Platform (free text) | Views | Saves | Comments | Notes; a weekly summary with SUMIFS.\nTab 6 \"Hook Library\": 30 original hook formulas with [BLANKS].\nTab 7 \"Dashboard\": counts by status, average est. seconds, scripts posted this month, top 5 by saves (SORTN or QUERY).\nPRINTABLE: a 2-page US Letter + A4 \"Batch Day Checklist\" and \"Script Card\" (fill-in boxes for Hook / Value / CTA).\n\nDESIGN: Header fill Ink #1F2430 with Cream #FFF6E5 text, accent Coral #FF6B57, success Teal #2A9D8F, gridlines #E6E8EC. Fonts: Sheets \"Roboto\"; printable pairings \"Archivo Black\" + \"Inter\" or \"Poppins\" + \"Lora\".\n\nRULES: Original content only. No app, platform or brand names in the template or examples (\"platform\" is a free-text field). No promises about views or income. Formulas must work in Google Sheets and be written out exactly.\n\nDIFFERENTIATION: Combines teleprompter-length checking, line formatting, batching and a results log; generic content calendars don't do this.\n\nOUTPUT: Tab by tab with exact headers, formulas, validation lists and sample rows (3 per tab), then the printable pages. End with a self-check: every formula given; no brand names; reading-time formula present; sample data is fictional."
+            },
+            "rightsNote": "No platform names in the template or listing. Use 'platform' as a free-text field.",
+            "stopIf": "No favorites and no sales in 21 days.",
+            "theme": "Script & Shoot Planner (Google Sheets): script lab with reading-time formula, teleprompter line formatter, batch-day shoot list, posting log and dashboard",
+            "validationTest": "List as a standalone and as a bundle with the script pack, and compare views-to-favorites over 14 days.",
+            "whyBuy": "People who now script every video need to check length, batch-film and track results in one place."
+          }
+        ],
+        "recommendedAction": "prepare",
+        "rights": {
+          "note": "Don't use platform names or logos in product names, images or tags. Scripts must be original.",
+          "risk": "low"
+        },
+        "scores": {
+          "buyerIntent": {
+            "basis": "qualitative",
+            "rationale": "Only help-seeking signals so far; no purchase evidence.",
+            "score": 1
+          },
+          "durability": {
+            "basis": "qualitative",
+            "rationale": "Feature-based habits last while the feature stays; the format could commoditize.",
+            "score": 3
+          },
+          "economics": {
+            "basis": "qualitative",
+            "rationale": "Zero marginal cost digital product with a low build cost.",
+            "score": 4
+          },
+          "productFit": {
+            "basis": "qualitative",
+            "rationale": "Digital templates fit the need directly and are buildable in days.",
+            "score": 4
+          },
+          "supplyGap": {
+            "basis": "qualitative",
+            "rationale": "Generic templates exist but none are teleprompter-specific.",
+            "score": 3
+          },
+          "timing": {
+            "basis": "qualitative",
+            "rationale": "Rollout posts are dated Sept 27-30, 2026, which is very early.",
+            "score": 4
+          }
+        },
+        "spread": {
+          "evidence": [
+            "e1",
+            "e2",
+            "e3",
+            "e4",
+            "e5",
+            "e6",
+            "e11"
+          ],
+          "text": "At least two independent creators posted tutorials within days. The app generated help-seeking discover pages, an October trend roundup mentions the rollout, and teleprompter vendors published comparison posts. Evidence is still thin and mostly platform-internal."
+        },
+        "summary": "Short-video apps are rolling out built-in camera teleprompters, and in late September 2026 creators began posting 'new feature' tutorials, creating a fresh need for teleprompter-ready scripts.",
+        "trajectory": {
+          "evidence": [
+            "e1",
+            "e4",
+            "e5"
+          ],
+          "stage": "first_spark",
+          "text": "Staged rollout 'not everyone has it yet' as of late Sept/early Oct 2026. Adoption should grow as the rollout completes. It's a feature-driven habit, so it will persist if the tool stays."
+        },
+        "unresolved": [
+          "Confirm the rollout reaches most US users (more 'how to' videos from independent creators through October)",
+          "Look for marketplace listings or searches for 'teleprompter script' rising (first competitors would confirm demand)",
+          "Check whether the platform adds AI script suggestions that remove the need"
+        ],
+        "what": "Users can paste a script into the recording screen and it scrolls beside the lens while they film. Another major app has moved the same tool into its main camera. The habit forming is scripting talking-head videos word for word, which favors short-line, timed scripts and planning tools.",
+        "window": {
+          "endEstimate": null,
+          "estimate": "Open now through at least Q1 2027 while the rollout completes and New Year content resolutions kick in",
+          "invalidators": [
+            "The platform removes or restricts the teleprompter",
+            "In-app AI script generation makes templates redundant"
+          ],
+          "reasoning": "Built-in tools tend to persist, and the New Year 'start posting' season (late Dec-Jan) is a natural second wave.",
+          "seasonality": "Peaks likely at New Year and Q1 small-business marketing planning.",
+          "sellBy": null
+        }
+      }
+    ],
+    "discovered": [
+      {
+        "disposition": "deep_dived",
+        "name": "Built-in teleprompter scripted short videos",
+        "rejectReason": "",
+        "whyConsidered": "Two major short-video apps added in-camera teleprompters; creator tutorials posted Sept 27-30, 2026"
+      },
+      {
+        "disposition": "deep_dived",
+        "name": "Category screen-time allowances (new kids' device controls)",
+        "rejectReason": "",
+        "whyConsidered": "Child-safety controls with category time allowances went live Sept 14, 2026, followed by a wave of parent how-to explainers"
+      },
+      {
+        "disposition": "deep_dived",
+        "name": "Kids' landline phones",
+        "rejectReason": "",
+        "whyConsidered": "Screenless kids' landlines are selling out, with fresh coverage Sept 30 and Oct 2, 2026, and holiday gift predictions"
+      },
+      {
+        "disposition": "deep_dived",
+        "name": "30-day phone-free challenge cohorts (campus and neighborhood)",
+        "rejectReason": "",
+        "whyConsidered": "NYU challenge began Sept 27, a college unplug week ran Sept 29, and Month Offline runs October cohorts in five cities"
+      },
+      {
+        "disposition": "rejected",
+        "name": "Dumbphone / flip-phone switch",
+        "rejectReason": "Established multi-year trend with broad coverage. Printable angle overlaps the existing analog-bag candidate.",
+        "whyConsidered": "Gen Z dumbphone coverage"
+      },
+      {
+        "disposition": "rejected",
+        "name": "Gen Z iPod revival",
+        "rejectReason": "Established since 2025, and products would lean on a brand name. Not new since mid-September.",
+        "whyConsidered": "Retro music players instead of streaming"
+      },
+      {
+        "disposition": "rejected",
+        "name": "Point-and-shoot digicam revival",
+        "rejectReason": "Established since 2024-25. Products drift toward camera brand references, and photo-template supply is crowded.",
+        "whyConsidered": "Digicam dumps on social"
+      },
+      {
+        "disposition": "rejected",
+        "name": "Friction-maxxing",
+        "rejectReason": "Coined January 2026, so not a first spark. The habit angle is already covered by the analog-bag and lock-in candidates.",
+        "whyConsidered": "Named movement for choosing inconvenience"
+      },
+      {
+        "disposition": "rejected",
+        "name": "CD revival / performative audiophilia",
+        "rejectReason": "Established, and product ideas depend on music IP.",
+        "whyConsidered": "CD sales up in H1 2026"
+      },
+      {
+        "disposition": "rejected",
+        "name": "Human-made / no-AI labels",
+        "rejectReason": "Sticker supply already exists on Etsy, Redbubble and Microcosm. A fashion brand uses 'HUMAN MADE' as a trademark, which is a rights risk.",
+        "whyConsidered": "Brands and artists labeling work as human-made"
+      },
+      {
+        "disposition": "rejected",
+        "name": "De-Googling / no-AI search switch",
+        "rejectReason": "Peaked May-June 2026, so not new. Guides need brand names.",
+        "whyConsidered": "No-AI search traffic surge"
+      },
+      {
+        "disposition": "rejected",
+        "name": "Chatbot meal planning on TikTok",
+        "rejectReason": "Established and crowded, and the product would hinge on a branded chatbot.",
+        "whyConsidered": "Creators use AI chatbots for weekly meal plans"
+      },
+      {
+        "disposition": "rejected",
+        "name": "Chatbot 'fake goodbye' screenshot trend",
+        "rejectReason": "Entertainment with no product need. The date could not be verified (source fetch blocked).",
+        "whyConsidered": "Viral chatbot screenshot trend"
+      },
+      {
+        "disposition": "rejected",
+        "name": "AI chibi sticker prompt trend",
+        "rejectReason": "Image-generation meme. Users make their own, so there's little to sell, plus likeness issues.",
+        "whyConsidered": "Users generate stickers of themselves"
+      },
+      {
+        "disposition": "rejected",
+        "name": "New conversational phone assistant for older adults",
+        "rejectReason": "Trademark-bound to one platform, launched as a beta with daily usage caps, and help content is free. Watch for holiday 'set up Grandma's phone' demand.",
+        "whyConsidered": "A major phone assistant overhaul launched in beta Sept 14, 2026; senior-focused guides appeared"
+      },
+      {
+        "disposition": "rejected",
+        "name": "Smart glasses as everyday device",
+        "rejectReason": "Broad and brand-tied, with no printable or POD angle.",
+        "whyConsidered": "AI glasses adoption"
+      },
+      {
+        "disposition": "rejected",
+        "name": "Household AI agents and chore robots",
+        "rejectReason": "Industry announcements, not a consumer habit yet.",
+        "whyConsidered": "Domestic AI agent announcements Sept 15, 2026"
+      },
+      {
+        "disposition": "rejected",
+        "name": "'Screen-maxing' toddlers meme",
+        "rejectReason": "Couldn't verify a date. Satire with no clear buyer, and products risk mocking parents.",
+        "whyConsidered": "Parents joke about maximal screen time"
+      },
+      {
+        "disposition": "rejected",
+        "name": "AI toys holiday warning",
+        "rejectReason": "The advisory dates to Nov 2025. No fresh 2026 signal found.",
+        "whyConsidered": "Advocacy advisory against AI toys"
+      },
+      {
+        "disposition": "rejected",
+        "name": "Writerdecks (distraction-free writing devices)",
+        "rejectReason": "Niche maker hobby since 2024-25 with a small buyer pool for printables.",
+        "whyConsidered": "DIY single-purpose writing machines"
+      },
+      {
+        "disposition": "rejected",
+        "name": "Swipe-to-delete photo declutter apps",
+        "rejectReason": "App-driven and established since 2024-25. No printable need.",
+        "whyConsidered": "Gamified camera-roll cleanup"
+      },
+      {
+        "disposition": "rejected",
+        "name": "Virtual pet keychains",
+        "rejectReason": "Toy supply with character-IP risk. No printable angle.",
+        "whyConsidered": "Y2K digital pet revival"
+      },
+      {
+        "disposition": "rejected",
+        "name": "Analog alarm clocks / phone out of bedroom",
+        "rejectReason": "Overlaps the analog-bag candidate, and the sales claim came from a self-flagged unreliable source.",
+        "whyConsidered": "Phones kept out of bedrooms"
+      },
+      {
+        "disposition": "rejected",
+        "name": "AI video app shutdown",
+        "rejectReason": "An ending, not a habit.",
+        "whyConsidered": "API discontinued Sept 24, 2026"
+      },
+      {
+        "disposition": "rejected",
+        "name": "Under-16 social media bans abroad",
+        "rejectReason": "Not US, and implementation is undated.",
+        "whyConsidered": "Philippines Senate bill advanced Oct 2, 2026"
+      },
+      {
+        "disposition": "rejected",
+        "name": "Wait Until 8th / first-phone contracts",
+        "rejectReason": "Long-established, and phone-contract printables are saturated.",
+        "whyConsidered": "Delaying smartphones for kids"
+      },
+      {
+        "disposition": "rejected",
+        "name": "In-app voice comments",
+        "rejectReason": "No product need.",
+        "whyConsidered": "Voice comments rolling out on a short-video app"
+      }
+    ],
+    "kind": "discover",
+    "lens": "First-spark hunt: new consumer tech habits (printables/templates)",
+    "researchedAt": "2026-10-04T23:58:50Z",
+    "sourcesTried": [
+      {
+        "method": "search",
+        "note": "About 45 queries across TikTok trend roundups, Know Your Meme, tech press, parenting and campus news, and marketplace listings.",
+        "source": "WebSearch (standard and extended)",
+        "status": "ok"
+      },
+      {
+        "method": "WebFetch",
+        "note": "Egress blocked; used the search-result summary only.",
+        "source": "napoleoncat.com TikTok trends Oct 2026",
+        "status": "blocked"
+      },
+      {
+        "method": "WebFetch",
+        "note": "Egress blocked; used the search-result summary only.",
+        "source": "newengen.com October and September TikTok trends",
+        "status": "blocked"
+      },
+      {
+        "method": "WebFetch",
+        "note": "Egress blocked.",
+        "source": "anijam.ai TikTok trends Sept 2026",
+        "status": "blocked"
+      },
+      {
+        "method": "WebFetch",
+        "note": "Egress blocked; used search results.",
+        "source": "nyunews.com (Washington Square News)",
+        "status": "blocked"
+      },
+      {
+        "method": "WebFetch",
+        "note": "Egress blocked; used search results.",
+        "source": "offline.community (Month Offline)",
+        "status": "blocked"
+      },
+      {
+        "method": "WebFetch",
+        "note": "Egress blocked; used search results for the wflx/kold copies.",
+        "source": "hometownstations.com (Gray TV syndicated story)",
+        "status": "blocked"
+      },
+      {
+        "method": "WebFetch",
+        "note": "Egress blocked; trend date could not be verified.",
+        "source": "pasqualepillitteri.it (ChatGPT goodbye trend)",
+        "status": "blocked"
+      },
+      {
+        "method": "search results only",
+        "note": "Video and discover pages seen only as search results; dates of two videos inferred from their numeric IDs.",
+        "source": "TikTok",
+        "status": "ok"
+      },
+      {
+        "method": "search results only",
+        "note": "Listings seen as search results; no sales data available.",
+        "source": "Etsy / Gumroad / Payhip",
+        "status": "ok"
+      },
+      {
+        "method": "not attempted",
+        "note": "Usually blocked; no search-interest data used.",
+        "source": "Google Trends",
+        "status": "not_tried"
+      },
+      {
+        "method": "not attempted",
+        "note": "Usually blocked.",
+        "source": "Reddit",
+        "status": "not_tried"
+      }
+    ]
+  },
+  "runId": "run-hunt-tech-20261004-1",
+  "status": "new"
+}

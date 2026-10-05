@@ -1,0 +1,19 @@
+{
+  "accessMethod": "web_search_result",
+  "candidateId": "american-mahjong-boom",
+  "claim": "Appropriation criticism is resurfacing alongside the current boom.",
+  "excerpt": "Title only; date not visible.",
+  "firstRetrievedAt": "2026-10-04T20:53:53Z",
+  "firstSeenRunId": "run-2026-10-04-hobbies",
+  "id": "american-mahjong-boom~69ca2b8f",
+  "intent": "criticism",
+  "kind": "observed",
+  "lastSeenRunId": "run-2026-10-04-hobbies",
+  "publishedAt": null,
+  "publisher": "Title Magazine",
+  "retrievedAt": "2026-10-04T20:53:53Z",
+  "signalType": "press",
+  "syndicationOf": null,
+  "title": "Mahjong, Chinamaxxing & The Cultural Appropriation Comeback",
+  "url": "https://title-mag.com/?p=19781"
+}

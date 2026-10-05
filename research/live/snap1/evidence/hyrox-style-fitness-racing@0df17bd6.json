@@ -1,0 +1,19 @@
+{
+  "accessMethod": "web_search_result",
+  "candidateId": "hyrox-style-fitness-racing",
+  "claim": "In a result set reporting more than 1.5 million athletes in the 2025/26 season and over 2 million expected in 2026/27 (attribution between this article and hx1 not confirmed).",
+  "excerpt": "Search summary: >1.5M athletes in 2025/26 across >200 days of racing; >2M expected in 2026/27; Olympic ambitions.",
+  "firstRetrievedAt": "2026-10-04T20:53:53Z",
+  "firstSeenRunId": "run-2026-10-04-hobbies",
+  "id": "hyrox-style-fitness-racing~0df17bd6",
+  "intent": "purchase",
+  "kind": "observed",
+  "lastSeenRunId": "run-2026-10-04-hobbies",
+  "publishedAt": "2026-08-19",
+  "publisher": "The Star (wire)",
+  "retrievedAt": "2026-10-04T20:53:53Z",
+  "signalType": "press",
+  "syndicationOf": null,
+  "title": "As Hyrox's popularity soars, fitness-racing hybrid chases Olympic dream",
+  "url": "https://www.thestar.com.my/sport/others/2026/08/19/as-hyrox039s-popularity-soars-fitness-racing-hybrid-chases-olympic-dream"
+}

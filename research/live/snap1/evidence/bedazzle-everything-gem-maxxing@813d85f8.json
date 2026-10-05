@@ -1,0 +1,19 @@
+{
+  "accessMethod": "web_search_result",
+  "candidateId": "bedazzle-everything-gem-maxxing",
+  "claim": "International fashion press reports the trend spreading beyond the US",
+  "excerpt": "Nothing is safe from rhinestones",
+  "firstRetrievedAt": "2026-10-04T23:58:00Z",
+  "firstSeenRunId": "run-hunt-aesthetics-20261004-4",
+  "id": "bedazzle-everything-gem-maxxing~813d85f8",
+  "intent": "curiosity",
+  "kind": "observed",
+  "lastSeenRunId": "run-hunt-aesthetics-20261004-4",
+  "publishedAt": "2026-08-20",
+  "publisher": "Cosmopolitan India",
+  "retrievedAt": "2026-10-04T23:58:00Z",
+  "signalType": "press",
+  "syndicationOf": null,
+  "title": "Nothing is safe from rhinestones",
+  "url": "https://www.cosmopolitan.in/fashion/features/story/nothing-is-safe-from-rhinestones-1439940-2026-08-20"
+}

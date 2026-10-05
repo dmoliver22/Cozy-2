@@ -1,0 +1,19 @@
+{
+  "accessMethod": "web_search_result",
+  "candidateId": "reader-dating-and-bookish-matchmaking",
+  "claim": "A competing book-based dating app exists (reported downloads, date unknown).",
+  "excerpt": "book lover dating app bookmark reaches 15000 downloads",
+  "firstRetrievedAt": "2026-10-05T00:00:55Z",
+  "firstSeenRunId": "run-hunt-hobbies-20261004-2",
+  "id": "reader-dating-and-bookish-matchmaking~0d44fcdd",
+  "intent": "none",
+  "kind": "observed",
+  "lastSeenRunId": "run-hunt-hobbies-20261004-2",
+  "publishedAt": null,
+  "publisher": "Global Dating Insights",
+  "retrievedAt": "2026-10-05T00:00:55Z",
+  "signalType": "marketplace",
+  "syndicationOf": null,
+  "title": "Book lover dating app Bookmark reaches 15,000 downloads",
+  "url": "https://www.globaldatinginsights.com/featured/book-lover-dating-app-bookmark-reaches-15000-downloads/"
+}

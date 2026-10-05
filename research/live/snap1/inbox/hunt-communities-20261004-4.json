@@ -1,0 +1,676 @@
+{
+  "createdAt": "2026-10-05T00:03:41Z",
+  "jobId": "hunt-communities-20261004",
+  "raw": {
+    "candidates": [
+      {
+        "actionRationale": "Durable, growing identity group with a real paper need, but no direct demand data. Build the logbook (digital + KDP) and a sticker pack now; use National Apprenticeship Week (typically November) and holiday gifting to test.",
+        "adopters": {
+          "evidence": [
+            "e1",
+            "e4",
+            "e6"
+          ],
+          "text": "Gen Z workers and recent grads entering apprenticeships and trade schools; parents supporting them; employers recruiting them."
+        },
+        "aliases": [
+          "toolbelt generation",
+          "toolbelt turn",
+          "Gen Z trades",
+          "AI-proof jobs",
+          "Gen Z apprentices"
+        ],
+        "category": "movement",
+        "competition": {
+          "evidence": [
+            "e9",
+            "e10"
+          ],
+          "level": "low",
+          "text": "Official state forms and paid apps (GoCanvas-type trainee logs) dominate search results; designed personal logbooks and Gen Z apprentice identity merch were not prominent. Amazon/Etsy not checked directly, so some generic logbooks likely exist."
+        },
+        "evidence": [
+          {
+            "accessMethod": "web_search_result",
+            "claim": "Zety survey of 1,000 Gen Z workers: 53% seriously considering blue-collar or skilled trade work; 65% say a degree won't protect them from AI job loss.",
+            "excerpt": "More than half of Gen Z workers, 53%, are seriously considering blue-collar or skilled trade work, according to a survey by the career site Zety.",
+            "id": "e1",
+            "intent": "curiosity",
+            "kind": "observed",
+            "publishedAt": null,
+            "publisher": "Scripps News",
+            "retrievedAt": "2026-10-05T00:03:41Z",
+            "signalType": "press",
+            "syndicationOf": null,
+            "title": "Gen Z trades tech for tools: Rise of the 'toolbelt generation'",
+            "url": "https://www.scrippsnews.com/politics/economy/gen-z-trades-tech-for-tools-rise-of-the-toolbelt-generation"
+          },
+          {
+            "accessMethod": "web_search_result",
+            "claim": "Syndicated copy of the Scripps story across many Scripps stations.",
+            "excerpt": "Dubbed the 'toolbelt generation'...",
+            "id": "e2",
+            "intent": "curiosity",
+            "kind": "observed",
+            "publishedAt": null,
+            "publisher": "Denver7 (Scripps)",
+            "retrievedAt": "2026-10-05T00:03:41Z",
+            "signalType": "press",
+            "syndicationOf": "e1",
+            "title": "Gen Z trades tech for tools (syndicated)",
+            "url": "https://www.denver7.com/politics/economy/gen-z-trades-tech-for-tools-rise-of-the-toolbelt-generation"
+          },
+          {
+            "accessMethod": "web_search_result",
+            "claim": "Trade press: vocational-focused community college enrollment up 16% to its highest since 2018; construction programs +23% (as reported).",
+            "excerpt": "Enrollment in vocational-focused community colleges rising 16% to its highest level since 2018... construction trade programs enrollment rose 23%.",
+            "id": "e3",
+            "intent": "none",
+            "kind": "observed",
+            "publishedAt": null,
+            "publisher": "Fine Homebuilding",
+            "retrievedAt": "2026-10-05T00:03:41Z",
+            "signalType": "press",
+            "syndicationOf": null,
+            "title": "Gen Z and Trade School: How the Toolbelt Generation Came to Be",
+            "url": "https://finehomebuilding.com/?p=523525"
+          },
+          {
+            "accessMethod": "web_search_result",
+            "claim": "HR press on Gen Z moving into vocational training and trades.",
+            "excerpt": "Gen Z workers are entering hands-on professions at the highest rate in decades.",
+            "id": "e4",
+            "intent": "none",
+            "kind": "observed",
+            "publishedAt": null,
+            "publisher": "SHRM",
+            "retrievedAt": "2026-10-05T00:03:41Z",
+            "signalType": "press",
+            "syndicationOf": null,
+            "title": "Vocational training: Gen Z and blue-collar trades",
+            "url": "https://www.shrm.org/in/topics-tools/news/organizational-employee-development/vocational-training-gen-z-blue-collar-trades"
+          },
+          {
+            "accessMethod": "web_search_result",
+            "claim": "Construction trade press links AI anxiety to Gen Z interest in trades.",
+            "excerpt": "Nearly half of Gen Z is learning or considering a trade career as concerns grow about AI's impact.",
+            "id": "e5",
+            "intent": "none",
+            "kind": "observed",
+            "publishedAt": null,
+            "publisher": "Builder",
+            "retrievedAt": "2026-10-05T00:03:41Z",
+            "signalType": "press",
+            "syndicationOf": null,
+            "title": "AI Anxiety Could Drive Gen Z Toward the Skilled Trades",
+            "url": "https://www.builderonline.com/?p=177354"
+          },
+          {
+            "accessMethod": "web_search_result",
+            "claim": "Regional training institute report on Gen Z embracing trades (independent regional signal).",
+            "excerpt": "Regional report highlighting Gen Z's embrace of skilled trades.",
+            "id": "e6",
+            "intent": "none",
+            "kind": "observed",
+            "publishedAt": null,
+            "publisher": "Northern Kentucky Tribune",
+            "retrievedAt": "2026-10-05T00:03:41Z",
+            "signalType": "press",
+            "syndicationOf": null,
+            "title": "Enzweiler Building Institute releases regional report highlighting Gen Z's embrace of skilled trades",
+            "url": "https://nkytribune.com/?p=463313"
+          },
+          {
+            "accessMethod": "web_search_result",
+            "claim": "Independent newsletter commentary on the toolbelt turn.",
+            "excerpt": "Gen Z's 'Toolbelt Turn'.",
+            "id": "e7",
+            "intent": "curiosity",
+            "kind": "observed",
+            "publishedAt": null,
+            "publisher": "AI Workplace Wellness (Substack)",
+            "retrievedAt": "2026-10-05T00:03:41Z",
+            "signalType": "creator",
+            "syndicationOf": null,
+            "title": "Gen Z's 'Toolbelt Turn'",
+            "url": "https://aiworkplacewellness.substack.com/p/gen-zs-toolbelt-turn"
+          },
+          {
+            "accessMethod": "web_search_result",
+            "claim": "Apprentices must log thousands of supervised hours before journeyman exams; software vendors target this need.",
+            "excerpt": "An electrician apprentice typically has to log thousands of hours of supervised, on-the-job work, verified by supervisors.",
+            "id": "e8",
+            "intent": "utility",
+            "kind": "observed",
+            "publishedAt": null,
+            "publisher": "ShiftFlow",
+            "retrievedAt": "2026-10-05T00:03:41Z",
+            "signalType": "marketplace",
+            "syndicationOf": null,
+            "title": "How to Log Apprentice Hours for an Electrical or Plumbing License",
+            "url": "https://www.shiftflow.app/blog/electrician-plumber-apprentice-hours"
+          },
+          {
+            "accessMethod": "web_search_result",
+            "claim": "State programs provide hourbook templates, showing record-keeping is required.",
+            "excerpt": "Formatted hourbook templates, with daily hourbooks tracking hours for a given month.",
+            "id": "e9",
+            "intent": "utility",
+            "kind": "observed",
+            "publishedAt": "2026-01-01",
+            "publisher": "Montana Registered Apprenticeship",
+            "retrievedAt": "2026-10-05T00:03:41Z",
+            "signalType": "community",
+            "syndicationOf": null,
+            "title": "For Apprentices",
+            "url": "https://apprenticeship.mt.gov/apprentices"
+          },
+          {
+            "accessMethod": "web_search_result",
+            "claim": "Existing supply is mostly apps and official forms rather than designed personal logbooks.",
+            "excerpt": "Electrician trainees and apprentices can log training hours.",
+            "id": "e10",
+            "intent": "none",
+            "kind": "observed",
+            "publishedAt": null,
+            "publisher": "GoCanvas",
+            "retrievedAt": "2026-10-05T00:03:41Z",
+            "signalType": "marketplace",
+            "syndicationOf": null,
+            "title": "Electrical Trainee Log",
+            "url": "https://www.gocanvas.com/mobile-forms-apps/34660-electrical-trainee-log"
+          }
+        ],
+        "gap": {
+          "isInference": true,
+          "text": "A designed, multi-trade personal hours and skills logbook (printable and paperback) and identity stickers for the new young apprentice, plus gift positioning for parents."
+        },
+        "name": "'Toolbelt generation': Gen Z skilled-trades apprentices",
+        "observations": [
+          {
+            "asOf": "2026-10-04",
+            "evidence": "e1",
+            "isAbsolute": false,
+            "metric": "Gen Z workers seriously considering trade work",
+            "note": "Zety survey of 1,000 Gen Z workers as reported by Scripps; survey date not visible.",
+            "unit": "percent",
+            "value": 53
+          },
+          {
+            "asOf": "2026-10-04",
+            "evidence": "e3",
+            "isAbsolute": false,
+            "metric": "Vocational-focused community college enrollment change",
+            "note": "Reported by Fine Homebuilding; underlying data source and period not visible.",
+            "unit": "percent",
+            "value": 16
+          }
+        ],
+        "origin": {
+          "date": null,
+          "evidence": [
+            "e1",
+            "e3",
+            "e5"
+          ],
+          "text": "The label spread in 2025-2026 in national (Scripps) and trade press, tied to AI job anxiety and college costs."
+        },
+        "productDemand": {
+          "evidence": [
+            "e8",
+            "e9",
+            "e10"
+          ],
+          "text": "Utility need is concrete: apprentices must document supervised hours (state programs provide hourbooks; software vendors sell trackers). No direct purchase evidence for printable logbooks or merch."
+        },
+        "products": [
+          {
+            "buyer": "Gen Z apprentices in electrical, plumbing, HVAC and carpentry, and parents buying a starter gift",
+            "channels": [
+              "Amazon KDP",
+              "Etsy",
+              "Pinterest",
+              "TikTok (#tradesTok)"
+            ],
+            "continueIf": "3+ paperback or digital sales in 21 days",
+            "differentiation": "Designed all-in-one personal log in four trade editions, versus bland official forms and paid apps.",
+            "effort": "medium",
+            "effortHours": 14,
+            "evidence": [
+              "e8",
+              "e9"
+            ],
+            "format": "journal",
+            "fulfillment": "digital",
+            "leadTimeDays": 7,
+            "pivotIf": "Interest but no sales: make a Google Sheets hours tracker instead",
+            "playbook": {
+              "assembly": [
+                "Generate content with the super prompt for the electrical edition first.",
+                "Build the 6x9 in KDP interior in Canva (0.375 in inside margin, 0.25 in outside), duplicate weekly pages to 52.",
+                "Export interior PDF; create cover with KDP's spine width for the page count.",
+                "Make the printable PDF (US Letter and A4) with one template page per section.",
+                "Export PDF Print 300 DPI.",
+                "Repeat for plumbing, HVAC, carpentry by swapping the skills list and cover subtitle.",
+                "Upload to KDP (low-content option off since it has structured content) and Etsy."
+              ],
+              "asymmetry": {
+                "badBetIf": "Apprentices rely solely on employer apps and parents do not see it as a gift.",
+                "downside": "About 14 hours; no cash beyond optional ads.",
+                "upside": "Durable structural trend, four editions from one template, Amazon gift traffic."
+              },
+              "costs": {
+                "baseCost": 2.3,
+                "basis": "estimate: verify in the provider catalog",
+                "item": "6x9 in black-and-white paperback, about 120 pages",
+                "provider": "Amazon KDP",
+                "shipping": null,
+                "testBudget": 0,
+                "testBudgetNote": "Organic; optionally $3/day Amazon ads for 10 days around National Apprenticeship Week if early sales appear."
+              },
+              "extensions": [
+                "Google Sheets hours tracker",
+                "Welding and auto-tech editions",
+                "Journeyman exam study planner"
+              ],
+              "imagePrompts": [
+                {
+                  "prompt": "Bold rugged book cover: illustrated tool belt with a pencil, tape measure and wire strippers on a steel-gray background, diagonal hazard stripe band. Colors #3C4A57, #E8711A, #E3E829, #D9D6CF. Text 'APPRENTICE HOURS & SKILLS LOGBOOK' in condensed bold type and 'Electrical Edition' smaller. 6x9 in portrait (2:3), solid background. No logos, no real people, no trademarked characters, no watermarks.",
+                  "purpose": "KDP cover",
+                  "tool": "Ideogram"
+                },
+                {
+                  "prompt": "Photo-style mockup of a paperback logbook lying on a workbench next to a hard hat and work gloves, warm shop light, no readable brand marks on any tool. Colors steel gray #3C4A57 and safety orange #E8711A. 4:5. No logos, no real people, no trademarked characters, no watermarks.",
+                  "purpose": "Listing mockup",
+                  "tool": "ChatGPT images"
+                }
+              ],
+              "listingPrompt": "Write an Amazon KDP description and an Etsy listing for an apprentice hours and skills logbook (electrical edition). Etsy title under 140 characters starting 'Apprentice Hours Log Book'. 13 tags of 20 characters or fewer (apprentice gift, electrician gift, trade school gift...). Description: sections, page count, sizes, a clear note that it is a personal log and not an official record, FAQ (Does it meet my state's requirements? Answer: check your program). No union, company, tool-brand or certification names; no promises about exams or pay.",
+              "marketing": {
+                "channels": [
+                  {
+                    "cadence": "3/week",
+                    "channel": "TikTok",
+                    "tactic": "Day-in-the-life apprentice content featuring the log"
+                  },
+                  {
+                    "cadence": "3/week",
+                    "channel": "Pinterest",
+                    "tactic": "Gift-for-apprentice pins"
+                  }
+                ],
+                "hooks": [
+                  "Debt-free, skill-rich, and tracking every hour",
+                  "What first-year apprentices should log"
+                ],
+                "keywords": [
+                  "apprentice log book",
+                  "electrician apprentice gift",
+                  "trade school graduation gift",
+                  "hours tracker apprentice"
+                ],
+                "launchPlan": [
+                  {
+                    "action": "Upload electrical edition to KDP and Etsy printable.",
+                    "day": "Day 0"
+                  },
+                  {
+                    "action": "TikTok: 'what I track as a first-year apprentice' flip-through.",
+                    "day": "Day 2"
+                  },
+                  {
+                    "action": "Pins: graduation/apprenticeship gift for sons and daughters.",
+                    "day": "Day 5"
+                  },
+                  {
+                    "action": "Release plumbing and HVAC editions.",
+                    "day": "Day 7"
+                  },
+                  {
+                    "action": "Share in apprentice forums or subreddits where self-promotion is allowed (check the community rules).",
+                    "day": "Day 10"
+                  },
+                  {
+                    "action": "Carpentry edition; National Apprenticeship Week content plan.",
+                    "day": "Day 14"
+                  },
+                  {
+                    "action": "Go/pivot/stop check per validation rules.",
+                    "day": "Day 21"
+                  }
+                ],
+                "positioning": "The logbook for the toolbelt generation."
+              },
+              "platforms": [
+                {
+                  "name": "Amazon KDP",
+                  "role": "primary",
+                  "why": "Physical logbook gifts are bought on Amazon."
+                },
+                {
+                  "name": "Etsy",
+                  "role": "secondary",
+                  "why": "Printable version and gift buyers."
+                },
+                {
+                  "name": "TikTok",
+                  "role": "traffic",
+                  "why": "Trades creators and apprentices are active there."
+                }
+              ],
+              "pricing": {
+                "basis": "estimate",
+                "currency": "USD",
+                "high": 14.99,
+                "low": 8.99,
+                "rationale": "Paperback logbook price band; printable version $6.",
+                "recommended": 11.99
+              },
+              "productName": "Apprentice Hours & Skills Logbook",
+              "risks": [
+                "Users may think it replaces official records (mitigate with disclaimer)",
+                "Amazon competition in generic logbooks"
+              ],
+              "superPrompt": "You are a skilled-trades training coordinator and document designer. Create the full content for \"Apprentice Hours & Skills Logbook (Electrical, Plumbing, HVAC, Carpentry editions)\" for [YOUR SHOP NAME].\n\nBUYER AND JOB: A Gen Z apprentice (or their parent buying a gift) in the first years of a registered apprenticeship or trade program. They must keep accurate records of on-the-job hours, tasks and supervisor sign-offs, track classroom hours, and prepare for licensing exams. Official forms are bland and scattered; they want one durable, organized personal log that complements (never replaces) their program's official records.\n\nDELIVERABLE:\nA) Printable PDF (US Letter 8.5x11 in and A4) and B) KDP paperback interior (6x9 in, about 120 pages).\nSections:\n1. Cover page and \"How to use this log\" (state clearly: always follow your program's or state's official record requirements; this log is a personal backup).\n2. My apprenticeship profile: trade, program, employer, start date, required OJT hours and classroom hours (blank), supervisor contacts.\n3. Goals page: 1-year and 4-year milestones with checkboxes.\n4. Weekly hours log (52 weekly pages in the paperback; 1 template page in the PDF): Monday-Sunday rows with job site, task category, hours, supervisor initials; weekly total; running total.\n5. Skills/competency checklist: for the chosen edition, 30 general task categories that are common to the trade (e.g., for electrical: conduit bending, rough-in, panel work under supervision, troubleshooting, blueprint reading, safety/lockout). Keep categories generic and do not claim they match any specific state's required list.\n6. Classroom hours and course log.\n7. Tools inventory with serial numbers and purchase dates.\n8. Safety log: toolbox talks attended, PPE checks, near-miss notes (no legal advice).\n9. Pay and raise tracker (step increases) with blank fields.\n10. Exam prep pages: study schedule, topic tracker, practice score log.\n11. Monthly summary pages for supervisor review and signature.\n12. Notes and sketch/grid pages (5 mm grid).\n\nACCURACY AND SAFETY: Never state specific hour requirements, codes, or legal rules; leave them as blanks the user fills from their program. Add a short disclaimer that the log is not an official record. Use correct, generic trade terminology.\n\nDESIGN: Canva pairing A: \"Oswald\" + \"Roboto\". Pairing B: \"Archivo Black\" + \"IBM Plex Sans\". Palette: Safety Orange #E8711A, Steel #3C4A57, Concrete #D9D6CF, Hi-Vis Yellow #E3E829, Black #151515. Rugged, clean layout; thick rules; large writing fields.\n\nRULES: Original wording; no union, company, tool-brand or certification-body names or logos. No promises about passing exams, earnings or job placement.\n\nDIFFERENTIATION: Current options are official forms or paid apps; this is a designed, all-in-one personal logbook for the new wave of young apprentices, in four trade editions.\n\nOUTPUT: Section by section with page counts per format, layout notes and all text; the four 30-item skills lists (electrical, plumbing, HVAC, carpentry). End with a SELF-CHECK: disclaimer present, no specific legal hour numbers, no brand/union names, 52 weekly pages in paperback plan, both PDF paper sizes."
+            },
+            "rightsNote": "No union, company or tool-brand names; disclaimer that it is not an official record.",
+            "stopIf": "No sales and under 100 Etsy views by Day 21",
+            "theme": "Apprentice Hours & Skills Logbook: weekly hours, supervisor sign-offs, skills checklist, tools and exam prep (4 trade editions)",
+            "validationTest": "KDP paperback (electrical edition first) plus Etsy printable; 21-day sales and page reads.",
+            "whyBuy": "Apprentices must track thousands of supervised hours and skills; a durable organized personal log backs up official records."
+          },
+          {
+            "buyer": "Gen Z apprentices and young tradespeople; family gift-givers",
+            "channels": [
+              "Etsy via Printify",
+              "Redbubble",
+              "TikTok"
+            ],
+            "continueIf": "3+ sales or 30+ favorites",
+            "differentiation": "Speaks to Gen Z apprentice identity rather than veteran trade humor.",
+            "effort": "low",
+            "effortHours": 7,
+            "evidence": [
+              "e1",
+              "e5"
+            ],
+            "format": "sticker",
+            "fulfillment": "pod",
+            "leadTimeDays": 10,
+            "pivotIf": "Packs sell better than singles: focus on packs",
+            "playbook": {
+              "assembly": [
+                "Generate designs at 1500x1500 px transparent; correct text in Canva.",
+                "Check legibility at 3 in.",
+                "Upload to Printify kiss-cut vinyl stickers; create a 5-pack listing.",
+                "Publish to Etsy with hard-hat mockups; mirror on Redbubble.",
+                "Order a sample to test on a hard hat surface.",
+                "Add personalization option for 'Hands-On Since' year."
+              ],
+              "asymmetry": {
+                "badBetIf": "Hard-hat sticker search is dominated by established sellers with many reviews.",
+                "downside": "About 7 hours plus a sample.",
+                "upside": "No inventory; gift market; pairs with the logbook."
+              },
+              "costs": {
+                "baseCost": 2,
+                "basis": "estimate: verify in the provider catalog",
+                "item": "Kiss-cut vinyl sticker 3x3 in",
+                "provider": "Printify",
+                "shipping": 4,
+                "testBudget": 0,
+                "testBudgetNote": "Organic only."
+              },
+              "extensions": [
+                "Tees and hoodies",
+                "Trade-specific packs",
+                "Lunchbox and toolbox decals"
+              ],
+              "imagePrompts": [
+                {
+                  "prompt": "Bold circular badge sticker: crossed wrench and carpenter pencil over a hazard-stripe ring, text 'TOOLBELT GENERATION' in heavy condensed type. Colors #E8711A, #3C4A57, #E3E829, #FFFFFF. Thick white die-cut border, 1:1, transparent background. No logos, no real people, no trademarked characters, no watermarks.",
+                  "purpose": "Toolbelt Generation badge",
+                  "tool": "Ideogram"
+                },
+                {
+                  "prompt": "Retro lightning-bolt badge sticker with text 'FIRST YEAR, STILL HERE' in bold block letters, colors #151515, #E3E829, #E8711A. 1:1, transparent background, white die-cut border. No logos, no real people, no trademarked characters, no watermarks.",
+                  "purpose": "First Year, Still Here",
+                  "tool": "Ideogram"
+                }
+              ],
+              "listingPrompt": "Write an Etsy listing for Gen Z apprentice hard hat stickers. Title under 140 characters starting 'Hard Hat Stickers for Apprentices'. 13 tags of 20 characters or fewer. Description: designs, vinyl material, sizes, POD shipping about 1-2 weeks, FAQ (Will it stick to hard hats? Check your employer's PPE rules). No tool-brand, union or company names.",
+              "marketing": {
+                "channels": [
+                  {
+                    "cadence": "2/week",
+                    "channel": "TikTok",
+                    "tactic": "Hard-hat makeover clips"
+                  },
+                  {
+                    "cadence": "3/week",
+                    "channel": "Pinterest",
+                    "tactic": "Gift pins"
+                  }
+                ],
+                "hooks": [
+                  "AI can't do this",
+                  "First year, still here"
+                ],
+                "keywords": [
+                  "hard hat stickers",
+                  "apprentice gift",
+                  "electrician sticker",
+                  "trade school gift"
+                ],
+                "launchPlan": [
+                  {
+                    "action": "Publish singles and 5-pack.",
+                    "day": "Day 0"
+                  },
+                  {
+                    "action": "TikTok: sticking them on a new hard hat.",
+                    "day": "Day 3"
+                  },
+                  {
+                    "action": "Pins: gifts for new apprentices.",
+                    "day": "Day 7"
+                  },
+                  {
+                    "action": "Cross-promote in logbook listing.",
+                    "day": "Day 10"
+                  },
+                  {
+                    "action": "Holiday gift pins.",
+                    "day": "Day 14"
+                  },
+                  {
+                    "action": "Go/pivot/stop check.",
+                    "day": "Day 21"
+                  }
+                ],
+                "positioning": "Hard-hat stickers for the new generation of tradespeople."
+              },
+              "platforms": [
+                {
+                  "name": "Etsy",
+                  "role": "primary",
+                  "why": "Hard-hat sticker searches."
+                },
+                {
+                  "name": "Redbubble",
+                  "role": "secondary",
+                  "why": "Extra reach."
+                },
+                {
+                  "name": "TikTok",
+                  "role": "traffic",
+                  "why": "Trades content."
+                }
+              ],
+              "pricing": {
+                "basis": "estimate",
+                "currency": "USD",
+                "high": 14,
+                "low": 3.5,
+                "rationale": "Singles around $4.50; 5-pack around $14.",
+                "recommended": 4.5
+              },
+              "productName": "Toolbelt Generation Hard Hat Sticker Pack",
+              "risks": [
+                "Crowded hard-hat sticker category",
+                "Some employers restrict hard-hat stickers"
+              ],
+              "superPrompt": "You are a graphic designer creating an original hard-hat and toolbox sticker pack called \"Toolbelt Generation\" for [YOUR SHOP NAME].\n\nBUYER AND JOB: Gen Z apprentices and young tradespeople who decorate hard hats, toolboxes and water bottles, and parents or partners buying a \"proud of you\" gift when someone starts an apprenticeship.\n\nDELIVERABLE: 10 die-cut sticker designs, each 3x3 in (900x900 px minimum, deliver 1500x1500 px at 300 DPI, transparent background), suitable for vinyl and hard hats:\n1. \"Toolbelt Generation\" bold badge with a crossed wrench and pencil.\n2. \"Apprentice Era\" retro type.\n3. \"Debt Free, Skill Rich\" banner.\n4. \"AI Can't Do This\" with a gloved hand holding a wrench.\n5. \"Measure Twice\" tape measure.\n6. \"First Year, Still Here\" lightning bolt badge.\n7. \"Built Not Bought\" shield.\n8. \"Journey(man) Loading\" progress bar.\n9. \"Ask Me About My Hours\" clipboard.\n10. \"Hands-On Since 20XX\" (blank year for personalization).\nFor each: concept, exact text, style (bold outline, high contrast for distance reading), colors, and a hard-hat placement note.\n\nDESIGN: Pairing A: \"Anton\" + \"Roboto Condensed\". Pairing B: \"Bebas Neue\" + \"Barlow\". Palette: Safety Orange #E8711A, Steel #3C4A57, Hi-Vis Yellow #E3E829, White #FFFFFF, Black #151515.\n\nRULES: Original designs only; no tool brand logos or color schemes copied from brands, no union or company names, no political slogans, no claims about earnings.\n\nDIFFERENTIATION: Generic trade-pride stickers target veterans; these speak to the new Gen Z apprentice identity (debt-free, AI-proof, first-year pride).\n\nOUTPUT: Numbered designs with all fields, image prompts for each, and a SELF-CHECK (10 designs, text spelled exactly, sizes, no brands).\n\nPRINT PREP AND QUALITY: For every design also specify: the safe area (keep text at least 0.125 in inside the cut line), the minimum text height for legibility at 3 in (about 0.18 in cap height), whether the design works as a one-color version for vinyl, and a dark-surface variant (swap ink to cream). Limit each design to four palette colors so printing stays crisp. Give each design a short product title (under 60 characters) and a one-sentence description a buyer would understand without context.\n\nAUDIENCE TONE: Warm, in-group humor that a beginner understands; never mock outsiders, beginners or other generations. Avoid slang that will date within months unless it is the joke. Keep all phrases short (under 6 words where possible) so they read from a distance.\n\nMOCKUP AND LISTING SUPPORT: After the designs, propose 3 lifestyle mockup scenes (surface, props, lighting, colors) that show scale, and 5 short hook lines for a TikTok or Reel showing the stickers in use. Do not include real people's faces, brand logos or recognizable products in any scene."
+            },
+            "rightsNote": "No tool-brand logos, colors or union names.",
+            "stopIf": "No sales by Day 21",
+            "theme": "Toolbelt Generation hard-hat sticker pack (Apprentice Era, Debt Free Skill Rich, First Year Still Here)",
+            "validationTest": "Publish 10 stickers and a 5-pack; track 21-day results.",
+            "whyBuy": "Hard-hat stickers are a trade tradition, and new apprentices want designs that speak to their generation."
+          }
+        ],
+        "recommendedAction": "prepare",
+        "rights": {
+          "note": "No union, company, tool-brand or certification-body names or logos; avoid copying tool-brand color schemes. No claims about exam passing or earnings.",
+          "risk": "low"
+        },
+        "scores": {
+          "buyerIntent": {
+            "basis": "qualitative",
+            "rationale": "Mandatory record-keeping creates a utility need; no product sales data.",
+            "score": 2
+          },
+          "durability": {
+            "basis": "reported",
+            "rationale": "Structural drivers reported across multiple sources.",
+            "score": 5
+          },
+          "economics": {
+            "basis": "qualitative",
+            "rationale": "Printable and KDP log have near-zero marginal cost; stickers via POD.",
+            "score": 4
+          },
+          "productFit": {
+            "basis": "qualitative",
+            "rationale": "Logbooks and hard-hat stickers fit the daily work.",
+            "score": 4
+          },
+          "supplyGap": {
+            "basis": "qualitative",
+            "rationale": "Apps and official forms dominate; designed personal logs appear scarce (marketplaces not checked directly).",
+            "score": 3
+          },
+          "timing": {
+            "basis": "qualitative",
+            "rationale": "Growing structural trend; not a sudden spark.",
+            "score": 3
+          }
+        },
+        "spread": {
+          "evidence": [
+            "e1",
+            "e3",
+            "e4",
+            "e5",
+            "e6",
+            "e7"
+          ],
+          "text": "National syndicated TV coverage (Scripps, counted once), trade press (Fine Homebuilding, Builder), HR press (SHRM), regional training reports and newsletters."
+        },
+        "summary": "A growing share of Gen Z is choosing skilled trades and apprenticeships over college, often citing AI risk and student debt, creating a new young identity group with real record-keeping needs.",
+        "trajectory": {
+          "evidence": [
+            "e3",
+            "e1"
+          ],
+          "stage": "early_growth",
+          "text": "Enrollment and survey signals rising over 2025-2026; the AI job-anxiety narrative is intensifying. Publication dates for several sources were not visible, so the mid-September 2026 acceleration is not confirmed."
+        },
+        "unresolved": [
+          "Exact publication dates of the Scripps and Fine Homebuilding pieces (not visible in search results).",
+          "Whether apprentices actually buy personal logbooks or rely only on employer apps.",
+          "Current Amazon/Etsy supply of trade apprentice logbooks."
+        ],
+        "what": "Press calls them the 'toolbelt generation': Gen Z workers moving into electrical, plumbing, HVAC, construction and other trades. Surveys report majorities considering trades (Zety: 53%), and trade press reports vocational community college enrollment at its highest since 2018. Apprentices must log thousands of supervised hours and track skills, and they form a distinct identity around being debt-free and 'AI-proof'.",
+        "window": {
+          "endEstimate": null,
+          "estimate": "Multi-year; strongest around graduation (May-June), apprenticeship starts (late summer/fall) and holiday gifting",
+          "invalidators": [
+            "Trade enrollment growth reverses",
+            "Programs mandate app-only logging that makes paper redundant"
+          ],
+          "reasoning": "Structural drivers (AI anxiety, college cost, labor shortages) are long-running.",
+          "seasonality": "Graduation gifts (May-June), apprenticeship start dates, holiday gifting; National Apprenticeship Week (typically November) as a hook.",
+          "sellBy": null
+        }
+      }
+    ],
+    "kind": "discover",
+    "lens": "First-spark hunt: fast-growing niche communities",
+    "researchedAt": "2026-10-05T00:03:41Z",
+    "sourcesTried": [
+      {
+        "method": "WebSearch",
+        "note": "About 45 queries; all evidence below comes from search result snippets.",
+        "source": "Web search (standard and extended)",
+        "status": "ok"
+      },
+      {
+        "method": "WebFetch",
+        "note": "Egress proxy blocked; used search snippets and syndicated coverage instead.",
+        "source": "newsroom.pinterest.com (Hobbies Trend Report 2026)",
+        "status": "blocked"
+      },
+      {
+        "method": "WebFetch",
+        "note": "Egress blocked; only the headline/date seen.",
+        "source": "bloomberg.com (miniatures feature, 2026-09-18)",
+        "status": "blocked"
+      },
+      {
+        "method": "WebFetch",
+        "note": "Egress blocked.",
+        "source": "community.pinterest.biz weekly trends",
+        "status": "blocked"
+      },
+      {
+        "method": "WebFetch",
+        "note": "Egress blocked; facts taken from search snippets.",
+        "source": "fortune.com (Gen Z birding, 2026-08-23)",
+        "status": "blocked"
+      },
+      {
+        "method": "WebFetch",
+        "note": "Egress blocked.",
+        "source": "fooddrinklife.com (craft classes filling fast)",
+        "status": "blocked"
+      },
+      {
+        "method": "WebFetch",
+        "note": "Egress blocked.",
+        "source": "ooonyc.substack.com (Fall 2026 hobby guide)",
+        "status": "blocked"
+      },
+      {
+        "method": "WebSearch site results",
+        "note": "Only indirect: listings surfaced in web search; Etsy itself not fetched (assumed blocked per worker notes).",
+        "source": "Etsy marketplace search",
+        "status": "ok"
+      },
+      {
+        "method": "not attempted directly",
+        "note": "Known to be blocked for fetching; relied on press and trend-roundup coverage of these platforms.",
+        "source": "TikTok, Reddit, Google Trends",
+        "status": "not_tried"
+      },
+      {
+        "method": "WebSearch",
+        "note": "Only September 2026 meme-of-the-month roundup surfaced; nothing community-relevant.",
+        "source": "Know Your Meme",
+        "status": "ok"
+      }
+    ]
+  },
+  "runId": "run-hunt-communities-20261004-4",
+  "status": "new"
+}

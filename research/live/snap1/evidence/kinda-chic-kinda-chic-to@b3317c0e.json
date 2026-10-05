@@ -1,0 +1,19 @@
+{
+  "accessMethod": "web_search_result",
+  "candidateId": "kinda-chic-kinda-chic-to",
+  "claim": "An Etsy seller lists a 'Kinda Chic to Be Kind' affirmation sweatshirt.",
+  "excerpt": "Listing title only.",
+  "firstRetrievedAt": "2026-10-04T20:57:55Z",
+  "firstSeenRunId": "run-2026-10-04-memes",
+  "id": "kinda-chic-kinda-chic-to~b3317c0e",
+  "intent": "none",
+  "kind": "observed",
+  "lastSeenRunId": "run-2026-10-04-memes",
+  "publishedAt": null,
+  "publisher": "Etsy",
+  "retrievedAt": "2026-10-04T20:57:55Z",
+  "signalType": "marketplace",
+  "syndicationOf": null,
+  "title": "Kinda Chic to Be Kind Sweatshirt Positive Affirmation Kindness Sweater Be Kind Crewneck Teacher Appreciation Sweatshirt Motivational Sweater - Etsy",
+  "url": "https://www.etsy.com/listing/4554578166/kinda-chic-to-be-kind-sweatshirt"
+}

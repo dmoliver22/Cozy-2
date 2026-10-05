@@ -1,0 +1,740 @@
+{
+  "createdAt": "2026-10-05T00:01:02Z",
+  "jobId": "hunt-foodhome-20261004",
+  "processedAt": "2026-10-05T00:01:34.545Z",
+  "raw": {
+    "candidates": [
+      {
+        "actionRationale": "First spark with no purchase evidence. Build the cheap kit now so it is listed before Halloween and Friendsgiving; hold off on ad spend until the first organic sales or a second wave of creator videos.",
+        "adopters": {
+          "evidence": [
+            "e4",
+            "e8"
+          ],
+          "text": "Lifestyle creators and friend groups filming reaction-style taste tests; other creators (Social Sami, a smaller account) copied the format."
+        },
+        "aliases": [
+          "food combos that taste like something else",
+          "taste bud hacks",
+          "lemon and cinnamon tastes like cola",
+          "my brain is baffled food trend"
+        ],
+        "category": "hobby",
+        "competition": {
+          "evidence": [
+            "e9",
+            "e10"
+          ],
+          "level": "low",
+          "text": "Search found only generic tasting-party kits and a culinary prompt deck on Etsy. We found no kit built specifically around flavor illusions. We did not count listings."
+        },
+        "evidence": [
+          {
+            "accessMethod": "web_search_result",
+            "claim": "A creator (Jaz Hand Made) and friends trying combos that supposedly taste like other foods went viral; search summary dates it to late September 2026",
+            "excerpt": "In just a few weeks, the video has racked up nearly 2 million views on TikTok, as well as receiving tens of thousands of likes.",
+            "id": "e1",
+            "intent": "curiosity",
+            "kind": "observed",
+            "publishedAt": null,
+            "publisher": "Know Your Meme",
+            "retrievedAt": "2026-10-05T00:01:02Z",
+            "signalType": "press",
+            "syndicationOf": null,
+            "title": "'My Brain Is Baffled': Group Of Girls Trying Weird Food Combinations That Trick Your Brain Goes Viral",
+            "url": "https://trending.knowyourmeme.com/editorials/my-brain-is-baffled-group-of-girls-trying-weird-food-combinations-that-trick-your-brain-goes-viral"
+          },
+          {
+            "accessMethod": "web_search_result",
+            "claim": "Syndicated copy of the Know Your Meme editorial",
+            "excerpt": "Same headline as the Know Your Meme editorial.",
+            "id": "e2",
+            "intent": "curiosity",
+            "kind": "observed",
+            "publishedAt": null,
+            "publisher": "Yahoo Entertainment",
+            "retrievedAt": "2026-10-05T00:01:02Z",
+            "signalType": "press",
+            "syndicationOf": "e1",
+            "title": "'My Brain Is Baffled': Group Of Girls Trying Weird Food Combinations That Trick Your Brain Goes Viral",
+            "url": "https://www.yahoo.com/entertainment/articles/brain-baffled-group-girls-trying-162624638.html"
+          },
+          {
+            "accessMethod": "web_search_result",
+            "claim": "Independent national outlet tested the combos; credits UK account Eat with GG with sparking the recent wave",
+            "excerpt": "These flavor combo hacks have been shared around the internet for a few years, but an account called Eat with GG seems to have sparked the recent rash of taste-testers.",
+            "id": "e3",
+            "intent": "curiosity",
+            "kind": "observed",
+            "publishedAt": null,
+            "publisher": "TODAY",
+            "retrievedAt": "2026-10-05T00:01:02Z",
+            "signalType": "press",
+            "syndicationOf": null,
+            "title": "Lemon + Cinnamon = Coke? TikTokers Are Hacking Their Taste Buds, So I Tried It",
+            "url": "https://www.today.com/food/trends/viral-tiktok-trend-taste-buds-flavor-combinations-hack-i-tried-rcna595742"
+          },
+          {
+            "accessMethod": "web_search_result",
+            "claim": "Another creator (Social Sami) did the challenge, inspired by Eat with GG; seven combos listed",
+            "excerpt": "Influencer Social Sami took a flavor-combo challenge inspired by U.K.-based TikToker and Instagrammer Eat with GG.",
+            "id": "e4",
+            "intent": "curiosity",
+            "kind": "observed",
+            "publishedAt": null,
+            "publisher": "Upworthy",
+            "retrievedAt": "2026-10-05T00:01:02Z",
+            "signalType": "press",
+            "syndicationOf": null,
+            "title": "Lemon with cinnamon 'tastes like Coca-Cola' and 6 other weird combos that taste like other foods",
+            "url": "https://www.upworthy.com/lemon-with-cinnamon-tastes-like-coca-cola-and-6-other-weird-combos-that-taste-like-other-foods/"
+          },
+          {
+            "accessMethod": "web_search_result",
+            "claim": "Syndicated copy of the Upworthy article",
+            "excerpt": "Same headline as Upworthy.",
+            "id": "e5",
+            "intent": "curiosity",
+            "kind": "observed",
+            "publishedAt": null,
+            "publisher": "Yahoo Style Canada",
+            "retrievedAt": "2026-10-05T00:01:02Z",
+            "signalType": "press",
+            "syndicationOf": "e4",
+            "title": "Lemon with cinnamon 'tastes like Coca-Cola' and 6 other weird combos that taste like other foods",
+            "url": "https://ca.style.yahoo.com/lemon-cinnamon-tastes-coca-cola-221053297.html"
+          },
+          {
+            "accessMethod": "web_search_result",
+            "claim": "College food outlet covering the same wave; lists cucumber+sugar, tomato+chips, banana+avocado, lemon+cinnamon",
+            "excerpt": "People online have created a viral trend where they try weird food combinations that supposedly taste like something completely different.",
+            "id": "e6",
+            "intent": "curiosity",
+            "kind": "observed",
+            "publishedAt": null,
+            "publisher": "Spoon University",
+            "retrievedAt": "2026-10-05T00:01:02Z",
+            "signalType": "press",
+            "syndicationOf": null,
+            "title": "People Online Are Trying Weird Food Combos Hoping They Taste Like Something Else",
+            "url": "https://spoonuniversity.com/news/people-trying-weird-food-combos-tiktok/"
+          },
+          {
+            "accessMethod": "web_search_result",
+            "claim": "TikTok has a discover page for the search phrase, indicating repeated user searches/posts",
+            "excerpt": "TikTok discover page title: Trying Food Combos That Taste Like Other Foods.",
+            "id": "e7",
+            "intent": "curiosity",
+            "kind": "observed",
+            "publishedAt": null,
+            "publisher": "TikTok",
+            "retrievedAt": "2026-10-05T00:01:02Z",
+            "signalType": "social",
+            "syndicationOf": null,
+            "title": "Trying Food Combos That Taste Like Other Foods",
+            "url": "https://www.tiktok.com/discover/trying-food-combos-that-taste-like-other-foods"
+          },
+          {
+            "accessMethod": "web_search_result",
+            "claim": "A further independent creator posting the format",
+            "excerpt": "Trying weird food combos and seeing if they taste like something else… #fyp #food",
+            "id": "e8",
+            "intent": "curiosity",
+            "kind": "observed",
+            "publishedAt": null,
+            "publisher": "TikTok (@itspeanutbutterjamietime)",
+            "retrievedAt": "2026-10-05T00:01:02Z",
+            "signalType": "social",
+            "syndicationOf": null,
+            "title": "Trying weird food combos and seeing if they taste like something else",
+            "url": "https://www.tiktok.com/@itspeanutbutterjamietime/video/7660972874785688862"
+          },
+          {
+            "accessMethod": "web_search_result",
+            "claim": "Nearest existing supply: a general culinary prompt deck, not a flavor-illusion party kit",
+            "excerpt": "20-card starter deck of tarot-sized culinary prompt cards across 5 themed categories.",
+            "id": "e9",
+            "intent": "none",
+            "kind": "observed",
+            "publishedAt": null,
+            "publisher": "Etsy",
+            "retrievedAt": "2026-10-05T00:01:02Z",
+            "signalType": "marketplace",
+            "syndicationOf": null,
+            "title": "Flavor Sparks Starter Deck",
+            "url": "https://www.etsy.com/listing/4337773528/flavor-sparks-starter-deck-20-printable"
+          },
+          {
+            "accessMethod": "web_search_result",
+            "claim": "Generic food-tasting party printables already exist (adjacent competition)",
+            "excerpt": "Food Tasting Party Kit, Scorecard, Label Tags, Placemat, Sign, 10 Foods, Date Night Game, Gift, Printable",
+            "id": "e10",
+            "intent": "none",
+            "kind": "observed",
+            "publishedAt": null,
+            "publisher": "Etsy",
+            "retrievedAt": "2026-10-05T00:01:02Z",
+            "signalType": "marketplace",
+            "syndicationOf": null,
+            "title": "Food Tasting Party Kit, Scorecard, Label Tags, Placemat, Sign, 10 Foods, Date Night Game",
+            "url": "https://www.etsy.com/listing/1762460710/food-tasting-party-kit-scorecard-label"
+          }
+        ],
+        "gap": {
+          "isInference": true,
+          "text": "A ready-to-run flavor-illusion party game with combo cards, guess sheets and scoring, timed for Halloween, Friendsgiving and holiday parties."
+        },
+        "name": "Flavor-Illusion Food Combos",
+        "observations": [
+          {
+            "asOf": "2026-10-04",
+            "evidence": "e1",
+            "isAbsolute": true,
+            "metric": "TikTok views on the Jaz Hand Made video",
+            "note": "reported by Know Your Meme via search summary; not independently verified",
+            "unit": "views (approx., 'nearly')",
+            "value": 2000000
+          }
+        ],
+        "origin": {
+          "date": null,
+          "evidence": [
+            "e1",
+            "e3"
+          ],
+          "text": "TODAY credits UK-based account Eat with GG with sparking the recent wave, noting such combos have circulated for years. A video by Australian creator Jaz Hand Made and friends then went viral, which Know Your Meme says happened in late September 2026 (we saw this only in a search summary)."
+        },
+        "productDemand": {
+          "evidence": [],
+          "text": "No purchase evidence found. Interest is curiosity and entertainment. The party-game angle is our inference based on the group format of the videos."
+        },
+        "products": [
+          {
+            "buyer": "US adults hosting Halloween, Friendsgiving or holiday game nights for friends or family",
+            "channels": [
+              "Etsy",
+              "Pinterest",
+              "TikTok"
+            ],
+            "continueIf": "At least 1 sale or 15 favorites within 21 days, or a reaction video over 5,000 views",
+            "differentiation": "Existing tasting-party printables are blind taste tests of known foods; this one is built around flavor illusions with a guess-vs-reality score mechanic",
+            "effort": "low",
+            "effortHours": 8,
+            "evidence": [
+              "e1",
+              "e3",
+              "e9",
+              "e10"
+            ],
+            "format": "printable",
+            "fulfillment": "digital",
+            "leadTimeDays": 2,
+            "pivotIf": "Views but no favorites: reposition as a general 'guess the flavor' party game bundle",
+            "playbook": {
+              "assembly": [
+                "Run the super prompt; check the self-check list and remove anything brand-like.",
+                "In Canva create a US Letter design, apply the palette and font pairing A, and build cover, host guide, safety page, guess sheet, answer key, scoreboard.",
+                "Build the combo cards as 4-up 3.5x5 in cards with crop marks; duplicate for backs in matching order for double-sided printing.",
+                "Add certificates and table tents (fold lines marked).",
+                "Duplicate the whole design and resize to A4; fix any text overflow.",
+                "Export each as PDF Print, 300 DPI, crop marks on for card pages; also export a flattened PNG preview of 3 pages for the listing.",
+                "Test print one set at home, play one round, fix any confusing instruction.",
+                "Zip US Letter and A4 PDFs with a README page (how to print double-sided, personal-use license)."
+              ],
+              "asymmetry": {
+                "badBetIf": "The trend stays a two-week curiosity and generic taste-test kits already rank for every party keyword you test.",
+                "downside": "About 6-8 hours and $0-14; the listing stays useful as a general party game even if the trend fades.",
+                "upside": "Zero marginal cost, seasonal reorders every party season, easy holiday variants."
+              },
+              "costs": {
+                "baseCost": null,
+                "basis": "estimate: digital download, only Etsy listing and transaction fees apply",
+                "item": null,
+                "provider": null,
+                "shipping": null,
+                "testBudget": 14,
+                "testBudgetNote": "Optional Etsy Ads $1/day for 14 days only after the first organic sale or favorites signal."
+              },
+              "extensions": [
+                "Kids' classroom version with fruit-only combos",
+                "Holiday edition with winter flavors",
+                "Bundle with a generic blind taste-test game",
+                "Editable Canva version for hosts who want their own combos"
+              ],
+              "imagePrompts": [
+                {
+                  "prompt": "Flat vector illustration of a cartoon brain wearing safety goggles holding a cucumber slice and a lemon wedge, small numbered tasting cups around it, playful science-lab doodles, colors #B9A7E8 #FF8A3D #8FD9B6 #232036 on #FFF8EE background, text rendered exactly: \"Brain-Baffler\", portrait 3:4, clean margins. No logos, no real people, no trademarked characters, no watermarks.",
+                  "purpose": "Cover illustration",
+                  "tool": "Ideogram or ChatGPT images"
+                },
+                {
+                  "prompt": "Seamless repeating pattern of tiny doodled fruits, question marks and tasting spoons, two-tone #B9A7E8 and #FFF8EE, minimal line art, square 1:1, no text. No logos, no real people, no trademarked characters, no watermarks.",
+                  "purpose": "Card back pattern",
+                  "tool": "Ideogram or ChatGPT images"
+                },
+                {
+                  "prompt": "Top-down photo-style flat lay of printed party game cards and score sheets on a light wooden table with small paper cups of cucumber slices and lemon wedges, soft daylight, palette accents #FF8A3D #8FD9B6, landscape 4:3, blank card faces for overlay. No logos, no real people, no trademarked characters, no watermarks.",
+                  "purpose": "Listing mockup",
+                  "tool": "Canva mockup or ChatGPT images"
+                }
+              ],
+              "listingPrompt": "Write an Etsy listing for a printable party game: \"Brain-Baffler Flavor Illusion Tasting Party Kit\". Title under 140 characters front-loading \"Taste Test Party Game Printable\" and including Halloween/Friendsgiving use. Give 13 tags, each 20 characters or fewer (e.g. taste test game, party game printable, friendsgiving game). Description: what's included page by page, US Letter and A4 PDFs, instant download, no physical item, print at home or at a print shop, ingredients not included, check guests' allergies. FAQ: can I print multiple copies for my party (yes, personal use); is it kid-friendly (with adult supervision); do the combos really work (results vary, that's the fun). Do not use any brand, soft-drink trademark, creator or influencer name, and do not make health claims.",
+              "marketing": {
+                "channels": [
+                  {
+                    "cadence": "1-2 pins per day through November",
+                    "channel": "Pinterest",
+                    "tactic": "Fresh pins with party-game keywords"
+                  },
+                  {
+                    "cadence": "3 per week for 3 weeks",
+                    "channel": "TikTok / Reels",
+                    "tactic": "Reaction videos playing the game"
+                  },
+                  {
+                    "cadence": "Once",
+                    "channel": "Facebook party-planning groups",
+                    "tactic": "Share a free sample card only where self-promotion is allowed; check the community rules"
+                  }
+                ],
+                "hooks": [
+                  "Cucumber + sugar = watermelon? Make your guests decide.",
+                  "The viral 'tastes like something else' videos, turned into a party game.",
+                  "12 combos, 1 very confused brain."
+                ],
+                "keywords": [
+                  "taste test game",
+                  "party game printable",
+                  "friendsgiving game",
+                  "halloween party game",
+                  "food combo challenge",
+                  "flavor guessing game"
+                ],
+                "launchPlan": [
+                  {
+                    "action": "Publish the Etsy listing with 5 images and a 10-second flip-through video.",
+                    "day": "Day 0"
+                  },
+                  {
+                    "action": "Pin 5 pins (cover, cards, score sheet, flat lay, 'how to host') linking to the listing.",
+                    "day": "Day 1"
+                  },
+                  {
+                    "action": "Film friends or family playing 3 combos with genuine reactions; post to TikTok and Reels with no brand names.",
+                    "day": "Day 2"
+                  },
+                  {
+                    "action": "Post a 'which combo fooled us most' follow-up and pin it.",
+                    "day": "Day 4"
+                  },
+                  {
+                    "action": "Check views, favorites and saves; rewrite the title if views are under about 50.",
+                    "day": "Day 7"
+                  },
+                  {
+                    "action": "Add a Friendsgiving-themed cover variant as a second listing.",
+                    "day": "Day 10"
+                  },
+                  {
+                    "action": "If any sale or 10+ favorites, start the $1/day ad test.",
+                    "day": "Day 14"
+                  },
+                  {
+                    "action": "Go/pivot/stop check against the continue/pivot/stop rules.",
+                    "day": "Day 21"
+                  }
+                ],
+                "positioning": "The ready-to-play version of the viral 'tastes like something else' food combo videos for your next party."
+              },
+              "platforms": [
+                {
+                  "name": "Etsy",
+                  "role": "primary",
+                  "why": "Buyers already search Etsy for party game printables."
+                },
+                {
+                  "name": "Pinterest",
+                  "role": "traffic",
+                  "why": "Party planners pin game ideas weeks ahead of Halloween and Friendsgiving."
+                },
+                {
+                  "name": "TikTok",
+                  "role": "traffic",
+                  "why": "The trend lives there; a 'we played it' video fits the original format."
+                },
+                {
+                  "name": "Gumroad or Payhip",
+                  "role": "secondary",
+                  "why": "Direct link for social traffic."
+                }
+              ],
+              "pricing": {
+                "basis": "estimate",
+                "currency": "USD",
+                "high": 9,
+                "low": 4.5,
+                "rationale": "Generic tasting-party printables appear in the low single digits; a fuller themed kit with cards and certificates can sit slightly above.",
+                "recommended": 6.5
+              },
+              "productName": "Brain-Baffler Flavor Illusion Tasting Party Kit",
+              "risks": [
+                "Allergy or food-safety complaints: keep the safety page prominent and avoid risky ingredients.",
+                "A combo that 'doesn't work' leads to reviews saying it is fake: frame everything as a game with varied results.",
+                "Accidental brand naming (soft drinks, snacks) in listing or video."
+              ],
+              "superPrompt": "You are a party-game designer and food writer. Produce the complete text content for a printable party kit called \"Brain-Baffler: The Flavor Illusion Tasting Game\".\n\nBUYER AND JOB: A US adult (20s-40s) hosting a Halloween, Friendsgiving or holiday game night who saw the viral videos of friends trying food combos that supposedly taste like something else (for example cucumber with sugar said to taste like watermelon, lemon with cinnamon said to taste like cola). They want a ready-to-run game for 4-16 guests that takes 10 minutes to set up and uses grocery-store ingredients.\n\nDELIVERABLE (US Letter 8.5x11 in AND A4 versions; same content):\n1. Cover page: title, subtitle \"12 combos. 1 confused brain.\", space for [YOUR SHOP NAME].\n2. Host guide (1 page): shopping list grouped by store section, prep steps, how to plate in numbered cups, game timing (about 45 minutes), how to score.\n3. Allergy and safety page: list every ingredient used; tell the host to ask guests about allergies before the party, to label every cup, to offer a skip option, and to wash produce. No health claims of any kind.\n4. Twelve combo cards (4 per page, 3.5x5 in each): front = cup number and the two ingredients with exact amounts; back = \"What do people say it tastes like?\" answer. Use only generic foods (no brand names). Phrase answers as what social media users claim, e.g. \"Many people say this tastes like watermelon\". Include the four widely reported combos (cucumber + sugar -> watermelon; tomato + sugar -> strawberry; banana + avocado -> ice cream; lemon + cinnamon -> cola) and eight more that are plausible, safe and inexpensive; mark these eight as \"house experiments\" so nobody is told they are proven.\n5. Guess sheet (1 per player): 12 rows with columns Cup #, My guess, Fooled me? (Y/N), Rating 1-5.\n6. Host answer key (1 page).\n7. Scoreboard (1 page, up to 16 names).\n8. Three award certificates: \"Most Baffled Brain\", \"Iron Tongue\", \"Best Poker Face\".\n9. Six table tents (folded 4x6 in): \"Taste first, guess second\", \"No peeking at the answer key\", etc.\n10. Blank combo card template so guests can invent their own.\n\nDESIGN NOTES for Canva: palette Lab Lilac #B9A7E8, Tangerine #FF8A3D, Mint Fizz #8FD9B6, Ink #232036, Paper #FFF8EE. Font pairing A: Fredoka (headings) + Nunito (body). Font pairing B: Chewy (headings) + Poppins (body). Playful, science-lab-meets-snack-bar look, generous white space, printer-friendly (light backgrounds).\n\nRULES: All wording must be original. Do not name or reference any brand, restaurant, soft-drink trademark, creator, influencer or TV show; write \"cola\" not any brand. Do not claim any combo works for everyone or explain it with invented science; at most say taste and smell interact and results vary. No nutrition, diet or health claims. Reading level: grade 6-8, upbeat.\n\nDIFFERENTIATION: Existing tasting-party printables are blind taste tests of known foods; this kit is the first built around the flavor-illusion format, with ready combos, a guess-vs-reality score mechanic and a make-your-own card.\n\nOUTPUT FORMAT: Return page by page with headings \"PAGE 1 - Cover\" etc. Put each card's front and back text in clearly labeled blocks so it can be pasted into Canva text boxes. Give character counts under 120 for card texts.\n\nSELF-CHECK before answering: (1) no brand or creator names anywhere; (2) every ingredient appears in the allergy list; (3) all answers phrased as reported claims or house experiments; (4) 12 combos, 12 answer-key rows, 12 guess-sheet rows; (5) both page sizes noted; (6) no health claims."
+            },
+            "rightsNote": "Use generic food names only; never name soft-drink or snack brands or the creators who popularized the combos",
+            "stopIf": "Under 100 listing views after 21 days with active pinning",
+            "theme": "Flavor-illusion tasting party game built on the viral 'tastes like something else' food combos",
+            "validationTest": "List on Etsy and pin 10 pins in 7 days; post 2 reaction videos",
+            "whyBuy": "Turns the viral videos into a ready-to-run party activity with cards, guess sheets and scoring, saving the host planning time"
+          }
+        ],
+        "recommendedAction": "prepare",
+        "rights": {
+          "note": "Combos are generic foods. Do not use soft-drink or snack brand names (sources say 'Coca-Cola'; write 'cola'), creator names or video clips.",
+          "risk": "low"
+        },
+        "scores": {
+          "buyerIntent": {
+            "basis": "unknown",
+            "rationale": "No purchase evidence; curiosity only",
+            "score": null
+          },
+          "durability": {
+            "basis": "qualitative",
+            "rationale": "The viral moment is likely short; the game works year-round",
+            "score": 2
+          },
+          "economics": {
+            "basis": "qualitative",
+            "rationale": "Digital, zero marginal cost, cheap to build",
+            "score": 4
+          },
+          "productFit": {
+            "basis": "qualitative",
+            "rationale": "The group taste-test format maps directly to a printable party game",
+            "score": 4
+          },
+          "supplyGap": {
+            "basis": "qualitative",
+            "rationale": "Found no flavor-illusion-specific kit; generic taste tests exist",
+            "score": 4
+          },
+          "timing": {
+            "basis": "reported",
+            "rationale": "Coverage clusters in late September 2026, just before the party season",
+            "score": 4
+          }
+        },
+        "spread": {
+          "evidence": [
+            "e1",
+            "e3",
+            "e4",
+            "e6",
+            "e7"
+          ],
+          "text": "Coverage from at least four independent outlets (Know Your Meme, TODAY, Upworthy, Spoon University) plus Yahoo syndication, and a TikTok discover page for the phrase. We could not verify article dates directly because every page was blocked."
+        },
+        "summary": "TikTok and Instagram creators taste-test pairs of foods said to mimic a third food (cucumber + sugar as watermelon, lemon + cinnamon as cola), and outlets covered it in late September 2026.",
+        "trajectory": {
+          "evidence": [
+            "e1",
+            "e6"
+          ],
+          "stage": "first_spark",
+          "text": "Recent and spreading across outlets, but evidence is thin: one big video (reported nearly 2M TikTok views) and a handful of copycats. Too early to say whether it grows or fades in a few weeks."
+        },
+        "unresolved": [
+          "Do new US creators (not just the original 2-3) post combo taste tests in October?",
+          "Do searches or pins for 'taste illusion party' or 'food combo challenge' appear on Pinterest/Etsy?",
+          "Does a brand, restaurant or TV segment pick up the format (confirms spread, may add competition)?"
+        ],
+        "what": "Creators and groups of friends try simple two-ingredient combos that people say taste like something else, filming their reactions. Commonly cited pairs are cucumber with sugar (watermelon), tomato with chips (pizza) or sugar (strawberry), banana with avocado (ice cream) and lemon with cinnamon (cola). It works as a group activity, which is what makes a party format possible.",
+        "window": {
+          "endEstimate": null,
+          "estimate": "4-8 weeks of relevance as a viral reference; the party-game use stays seasonal",
+          "invalidators": [
+            "No new creator videos or articles after mid-October",
+            "A major party-supply brand releases a similar game"
+          ],
+          "reasoning": "Food-video curiosities usually fade within weeks, but the product works as a general party game through the November-December hosting season even after the trend fades.",
+          "seasonality": "Halloween through New Year party season",
+          "sellBy": null
+        }
+      }
+    ],
+    "discovered": [
+      {
+        "disposition": "deep_dived",
+        "name": "Flavor-illusion food combos (lemon + cinnamon 'tastes like cola')",
+        "rejectReason": "",
+        "whyConsidered": "KYM editorial says it went viral late September 2026; Today, Upworthy, Spoon University coverage"
+      },
+      {
+        "disposition": "deep_dived",
+        "name": "'Once a Day, Once a Week, Once a Month' routine format",
+        "rejectReason": "",
+        "whyConsidered": "Named in SocialBee 29 Sep 2026 roundup and INFLOW September roundup; explicitly covers cleaning routines"
+      },
+      {
+        "disposition": "deep_dived",
+        "name": "Sunday Butterfly tidying method",
+        "rejectReason": "",
+        "whyConsidered": "Named method from a Homes & Gardens editor, picked up by other blogs as a '2026 decluttering trend'"
+      },
+      {
+        "disposition": "deep_dived",
+        "name": "Pet life-tally thread ('9 years, 3 houses, 2 break ups')",
+        "rejectReason": "",
+        "whyConsidered": "Bored Panda listicle syndicated to AOL and inkl; strong gift-product shape before the holidays"
+      },
+      {
+        "disposition": "rejected",
+        "name": "Swangy / swavory flavor profiles",
+        "rejectReason": "Industry forecast term from early 2026 (Food Dive, Nestle, GlobalData); not new, weak printable demand",
+        "whyConsidered": "Seen in food trend roundups"
+      },
+      {
+        "disposition": "rejected",
+        "name": "Dot cakes / Dotcups",
+        "rejectReason": "Broke out in May 2026; tied to one named bakery (rights risk); past first-spark window",
+        "whyConsidered": "Viral sprinkle cake in a cup"
+      },
+      {
+        "disposition": "rejected",
+        "name": "Loaded pickle fruit roll-up",
+        "rejectReason": "Summer fair-season item tied to a brand-name product; little printable demand",
+        "whyConsidered": "Fair-food viral snack"
+      },
+      {
+        "disposition": "rejected",
+        "name": "Marry Me melting cabbage / cabbage crush",
+        "rejectReason": "Pinterest Predicts item from December 2025; not new",
+        "whyConsidered": "Called the 'year of cabbage'"
+      },
+      {
+        "disposition": "rejected",
+        "name": "Japanese strawberries",
+        "rejectReason": "Year-long ingredient trend, no printable or label angle",
+        "whyConsidered": "Tastewise lists as 2026 breakout food"
+      },
+      {
+        "disposition": "rejected",
+        "name": "Pasta chips",
+        "rejectReason": "Not new (2023 origin); no product angle",
+        "whyConsidered": "Tastewise lists as rising snack"
+      },
+      {
+        "disposition": "rejected",
+        "name": "Soup swap parties",
+        "rejectReason": "Established since 2006 (Soup Swap Day in January); not a first spark",
+        "whyConsidered": "Cozy hosting trend with party printable potential"
+      },
+      {
+        "disposition": "rejected",
+        "name": "Pantry challenge / no-grocery month",
+        "rejectReason": "Long-running evergreen budget content; heavy existing printable supply",
+        "whyConsidered": "High grocery prices, printable inventory sheets"
+      },
+      {
+        "disposition": "rejected",
+        "name": "Pantry decanting",
+        "rejectReason": "Established 2021+ trend; label market saturated",
+        "whyConsidered": "Label demand"
+      },
+      {
+        "disposition": "rejected",
+        "name": "September/fall reset checklist",
+        "rejectReason": "Annual seasonal ritual, already peaked in early September",
+        "whyConsidered": "Checklist printable demand"
+      },
+      {
+        "disposition": "rejected",
+        "name": "Roll-the-dice chore game",
+        "rejectReason": "Covered by Homes & Gardens and Apartment Therapy earlier; no sign of a new wave since mid-September",
+        "whyConsidered": "Gamified cleaning printable"
+      },
+      {
+        "disposition": "rejected",
+        "name": "Whimsymaxxing",
+        "rejectReason": "Fashion/beauty-led and circulating since 2025; outside this lens",
+        "whyConsidered": "SocialBee September roundup"
+      },
+      {
+        "disposition": "rejected",
+        "name": "Autumnaholic (Instagram)",
+        "rejectReason": "Audio/montage format with no specific method or product need beyond generic fall decor",
+        "whyConsidered": "SocialBee Instagram trends 29 Sep"
+      },
+      {
+        "disposition": "rejected",
+        "name": "Chaos gardening / untamed garden",
+        "rejectReason": "Spring-season and established since 2023",
+        "whyConsidered": "Garden trend coverage"
+      },
+      {
+        "disposition": "rejected",
+        "name": "Lasagna bulb layering",
+        "rejectReason": "Long-established technique; no evidence of a new breakout",
+        "whyConsidered": "Fall planting chart potential"
+      },
+      {
+        "disposition": "rejected",
+        "name": "Sniffari / decompression walks",
+        "rejectReason": "Established across 2025-2026; not a recent spark",
+        "whyConsidered": "Dog enrichment printable potential"
+      },
+      {
+        "disposition": "rejected",
+        "name": "AI pet dance videos",
+        "rejectReason": "App-filter entertainment; no printable demand",
+        "whyConsidered": "Pet trend in September"
+      },
+      {
+        "disposition": "rejected",
+        "name": "'I Remember Everything' pet slideshow",
+        "rejectReason": "Built on a commercial song (rights risk); folded into the pet life-tally deep dive without the song",
+        "whyConsidered": "Pet memory trend"
+      },
+      {
+        "disposition": "rejected",
+        "name": "Bring-a-board night",
+        "rejectReason": "Running since 2024 Galentine's; not new",
+        "whyConsidered": "Party printable potential"
+      },
+      {
+        "disposition": "rejected",
+        "name": "Home cafe hosting",
+        "rejectReason": "Covered 2025; no new evidence of a fall 2026 wave",
+        "whyConsidered": "Menu and label printables"
+      },
+      {
+        "disposition": "rejected",
+        "name": "Nonna-stalgic cooking / nonnamaxxing",
+        "rejectReason": "Nonnamaxxing dates to Feb 2026; recipe-story is a syndicated feature, and heirloom recipe books are a crowded Etsy category",
+        "whyConsidered": "Family recipe journal demand before holidays"
+      },
+      {
+        "disposition": "rejected",
+        "name": "Dinner party / supper club revival",
+        "rejectReason": "Covered since 2025 (YPulse); broad movement, not a specific new method",
+        "whyConsidered": "Hosting printables"
+      },
+      {
+        "disposition": "rejected",
+        "name": "Freezer batch-cooking prep days",
+        "rejectReason": "Evergreen; no named new method",
+        "whyConsidered": "Meal plan printables"
+      },
+      {
+        "disposition": "rejected",
+        "name": "Halloween dirt cake / ghost brownies",
+        "rejectReason": "Recurring annual Halloween recipes; recipe cards low value",
+        "whyConsidered": "Seasonal recipe trend"
+      },
+      {
+        "disposition": "rejected",
+        "name": "'Fake foods' TikTok videos",
+        "rejectReason": "August 2026, criticism/outrage content; outrage is not demand and claims are health-adjacent",
+        "whyConsidered": "Food curiosity trend"
+      },
+      {
+        "disposition": "rejected",
+        "name": "Lychee water",
+        "rejectReason": "Product (beverage) trend with health framing; no printable angle",
+        "whyConsidered": "Exploding Topics September list"
+      }
+    ],
+    "kind": "discover",
+    "lens": "First-spark hunt: food, home, pets and household micro-trends",
+    "researchedAt": "2026-10-05T00:01:02Z",
+    "sourcesTried": [
+      {
+        "method": "search",
+        "note": "Primary method; all evidence is from search result titles and summaries.",
+        "source": "WebSearch (standard and extended)",
+        "status": "ok"
+      },
+      {
+        "method": "curl and WebFetch",
+        "note": "Egress proxy 403.",
+        "source": "news.google.com RSS",
+        "status": "blocked"
+      },
+      {
+        "method": "WebFetch",
+        "note": "Seen only through search results.",
+        "source": "today.com",
+        "status": "blocked"
+      },
+      {
+        "method": "WebFetch",
+        "note": "Seen only through search results.",
+        "source": "trending.knowyourmeme.com",
+        "status": "blocked"
+      },
+      {
+        "method": "WebFetch",
+        "note": "Seen only through search results.",
+        "source": "upworthy.com, spoonuniversity.com",
+        "status": "blocked"
+      },
+      {
+        "method": "WebFetch",
+        "note": "Seen only through search results.",
+        "source": "homesandgardens.com, thecalmroost.com",
+        "status": "blocked"
+      },
+      {
+        "method": "WebFetch",
+        "note": "Trend roundups seen only through search results.",
+        "source": "socialbee.com, inflownetwork.com, blog.nuelink.com",
+        "status": "blocked"
+      },
+      {
+        "method": "WebSearch allowed_domains",
+        "note": "Search tool refuses these domains.",
+        "source": "allrecipes, delish, foodandwine, bonappetit, eatingwell, seriouseats, nypost",
+        "status": "error"
+      },
+      {
+        "method": "WebSearch allowed_domains",
+        "note": "Search tool refuses these domains.",
+        "source": "realsimple, thespruce, bhg, marthastewart, goodhousekeeping, housebeautiful",
+        "status": "error"
+      },
+      {
+        "method": "search results only",
+        "note": "Listing titles from search results; no sales data, no counts.",
+        "source": "Etsy",
+        "status": "ok"
+      },
+      {
+        "method": "search results only",
+        "note": "Titles only; no view counts verified.",
+        "source": "TikTok discover/tag pages",
+        "status": "ok"
+      },
+      {
+        "method": "-",
+        "note": "Usually blocked in this environment; not attempted this run.",
+        "source": "Reddit, Pinterest Trends, Google Trends",
+        "status": "not_tried"
+      }
+    ]
+  },
+  "report": [
+    {
+      "errors": [],
+      "id": "flavor-illusion-food-combos",
+      "name": "Flavor-Illusion Food Combos",
+      "status": "created",
+      "warnings": 0
+    }
+  ],
+  "runId": "run-hunt-foodhome-20261004-1",
+  "status": "ingested"
+}

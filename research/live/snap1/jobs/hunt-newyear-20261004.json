@@ -1,0 +1,90 @@
+{
+  "candidateId": null,
+  "createdAt": "2026-10-04T23:49:30Z",
+  "dispatch": {
+    "at": "2026-10-04T23:49:30Z",
+    "status": "sent"
+  },
+  "error": "Every page fetch was blocked by the network proxy, so all evidence comes from search-result snippets. Some publication dates (Newsweek counter-maxxing article, Herald and Yahoo hobbymaxxing pieces, Fast Company punch-card article) could not be confirmed. Etsy, Reddit and Google Trends could not be checked directly.",
+  "finishedAt": "2026-10-05T00:03:03Z",
+  "id": "hunt-newyear-20261004",
+  "input": "First-spark hunt: New Year 2027 planning, goals and reset formats",
+  "inputKind": null,
+  "key": "discover:hunt-newyear-20261004",
+  "progress": "Results written to inbox (4 documents)",
+  "result": null,
+  "sourcesTried": [
+    {
+      "method": "web search",
+      "note": "About 45 queries; all evidence comes from search-result snippets.",
+      "source": "WebSearch (standard and extended)",
+      "status": "ok"
+    },
+    {
+      "method": "fetch",
+      "note": "Network egress proxy blocked every fetch attempted, so no page was read in full.",
+      "source": "WebFetch: upworthy.com, clothandpaper.com, fastcompany.com, napoleoncat.com, later.com, newengen.com, socialbee.com, select.keenable.ai, newsweek.com, mein-mmo.de, en.sedaily.com",
+      "status": "blocked"
+    },
+    {
+      "method": "curl",
+      "note": "CONNECT tunnel 403 from the environment proxy.",
+      "source": "washingtonpost.com",
+      "status": "blocked"
+    },
+    {
+      "method": "web search results only (discover/tag pages)",
+      "note": "Only search snippets of TikTok discover pages; view counts not verifiable.",
+      "source": "TikTok",
+      "status": "ok"
+    },
+    {
+      "method": "web search results only",
+      "note": "Two Etsy listing URLs surfaced in results; Etsy search and sales counts not checked directly.",
+      "source": "Etsy",
+      "status": "ok"
+    },
+    {
+      "method": "none",
+      "note": "Fetching is blocked in this environment.",
+      "source": "Google Trends",
+      "status": "not_tried"
+    },
+    {
+      "method": "none",
+      "note": "Fetching is blocked in this environment.",
+      "source": "Reddit",
+      "status": "not_tried"
+    },
+    {
+      "method": "web search results only",
+      "note": "No Pinterest 2027 Predicts report exists yet (usually released in December).",
+      "source": "Pinterest",
+      "status": "ok"
+    }
+  ],
+  "startedAt": "2026-10-04T23:52:00Z",
+  "status": "partial",
+  "steps": [
+    {
+      "label": "Queued",
+      "status": "done"
+    },
+    {
+      "label": "Searching",
+      "status": "done"
+    },
+    {
+      "label": "Verifying sources",
+      "status": "done"
+    },
+    {
+      "label": "Writing results",
+      "status": "done"
+    }
+  ],
+  "summary": "Screened 22 in New Year 2027 planning, goal and reset formats; filed 4 (2 first spark, 2 early growth).",
+  "topicKey": null,
+  "type": "discover",
+  "updatedAt": "2026-10-05T00:03:03Z"
+}

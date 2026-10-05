@@ -1,0 +1,19 @@
+{
+  "accessMethod": "web_search_result",
+  "candidateId": "the-great-lock-in",
+  "claim": "SEO explainer: the lock-in runs Sept 1 to Dec 31, 2026 (122 days), began on TikTok in August 2025, returns every September and has no official rules.",
+  "excerpt": "The summary attributes these facts to the 2026 explainer pages (takeroon and lock-in.info share the same title).",
+  "firstRetrievedAt": "2026-10-04T20:59:17Z",
+  "firstSeenRunId": "run-2026-10-04-movements",
+  "id": "the-great-lock-in~0964c8b1",
+  "intent": "utility",
+  "kind": "observed",
+  "lastSeenRunId": "run-2026-10-04-movements",
+  "publishedAt": null,
+  "publisher": "Takeroon (blog)",
+  "retrievedAt": "2026-10-04T20:59:17Z",
+  "signalType": "creator",
+  "syndicationOf": null,
+  "title": "The Great Lock In 2026: Dates, Rules, How to Start",
+  "url": "https://www.takeroon.com/blog/the-great-lock-in-2026"
+}

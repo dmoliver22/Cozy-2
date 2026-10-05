@@ -1,0 +1,19 @@
+{
+  "accessMethod": "web_search_result",
+  "candidateId": "whimsigoth-fall-2026-sequel-driven-revival",
+  "claim": "The film sequel, the catalyst for the whimsigoth revival, opened #1 with an estimated $30M domestic (ticket purchases, not decor purchases)",
+  "excerpt": "\"Practical Magic 2\" earned an estimated $30 million from 4,146 theaters in its opening weekend",
+  "firstRetrievedAt": "2026-10-04T23:58:00Z",
+  "firstSeenRunId": "run-hunt-aesthetics-20261004-3",
+  "id": "whimsigoth-fall-2026-sequel-driven-revival~3f7774c6",
+  "intent": "purchase",
+  "kind": "observed",
+  "lastSeenRunId": "run-hunt-aesthetics-20261004-3",
+  "publishedAt": "2026-09-13",
+  "publisher": "AP via Local10",
+  "retrievedAt": "2026-10-04T23:58:00Z",
+  "signalType": "press",
+  "syndicationOf": null,
+  "title": "'Practical Magic 2' conjures a No. 1 box office debut with $30 million",
+  "url": "https://www.local10.com/news/national/2026/09/13/practical-magic-2-conjures-a-no-1-box-office-debut-with-30-million/"
+}

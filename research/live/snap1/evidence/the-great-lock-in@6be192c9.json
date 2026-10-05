@@ -1,0 +1,19 @@
+{
+  "accessMethod": "web_search_result",
+  "candidateId": "the-great-lock-in",
+  "claim": "Creators frame early October as the start of a 'last 90 days of 2026' push.",
+  "excerpt": "Summary: October 3 marks the last 90 days and the last quarter of 2026.",
+  "firstRetrievedAt": "2026-10-04T20:59:17Z",
+  "firstSeenRunId": "run-2026-10-04-movements",
+  "id": "the-great-lock-in~6be192c9",
+  "intent": "curiosity",
+  "kind": "observed",
+  "lastSeenRunId": "run-2026-10-04-movements",
+  "publishedAt": null,
+  "publisher": "Substack (SPARK)",
+  "retrievedAt": "2026-10-04T20:59:17Z",
+  "signalType": "creator",
+  "syndicationOf": null,
+  "title": "Welcome to the last 90 days of 2026 - by Tamera - SPARK",
+  "url": "https://iamtameradarden.substack.com/p/welcome-to-the-last-90-days-of-2026"
+}

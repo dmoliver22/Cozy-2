@@ -1,0 +1,179 @@
+{
+  "actionRationale": "Real multi-country spread and a clear DIY job (where do I put the gems?). Purchase intent is unproven and the trend may be a fad, so build one low-cost pattern pack and test it organically before the holiday DIY season.",
+  "adopters": {
+    "evidence": [
+      "bedazzle-everything-gem-maxxing~1a0d4a41",
+      "bedazzle-everything-gem-maxxing~e0447608"
+    ],
+    "text": "Mostly women aged 18-24 doing it as an affordable, personal, offline craft. Brands' social accounts are copying it."
+  },
+  "aliases": [
+    "bedazzling",
+    "gem maxxing",
+    "rhinestone everything",
+    "whimsymaxxing (adjacent)"
+  ],
+  "category": "hobby",
+  "channels": [
+    "Etsy",
+    "TikTok",
+    "Pinterest"
+  ],
+  "competition": {
+    "evidence": [
+      "bedazzle-everything-gem-maxxing~fa81f6ee"
+    ],
+    "level": "moderate",
+    "text": "Physical rhinestone supplies are commodity products. Free rhinestone templates are widely published online (low-quality SEO sites seen in search). Paid design-pattern packs aimed at this new audience were not verified."
+  },
+  "editorialNotes": [
+    "Merged into 'Whimsymaxxing: bedazzle-everything DIY' as a duplicate. Two hunts found the same rhinestone-everything trend; its sources now count toward that record."
+  ],
+  "effortMin": "medium",
+  "firstSeenAt": "2026-10-05T00:00:22.542Z",
+  "formats": [
+    "printable"
+  ],
+  "gap": {
+    "isInference": true,
+    "text": "Beginner-friendly printable gem-placement patterns (trace-and-stick guides for phone cases, cups, compacts, notebooks), styled for current trends (bows, cherries, stars, initials). Most existing templates target hotfix-transfer pros using cutting machines."
+  },
+  "id": "bedazzle-everything-gem-maxxing",
+  "jobId": "hunt-aesthetics-20261004",
+  "language": "en",
+  "lastRunId": "run-hunt-aesthetics-20261004-4",
+  "lens": "First-spark hunt: new aesthetics and visual micro-trends",
+  "name": "Bedazzle everything (gem-maxxing)",
+  "origin": {
+    "date": "2026-08-17",
+    "evidence": [
+      "bedazzle-everything-gem-maxxing~44ad2a83",
+      "bedazzle-everything-gem-maxxing~297f0cd4"
+    ],
+    "text": "Covered in marketing press by mid-August 2026. Youth press credits a viral celebrity birthday cake in August 2026 as the spark. Bedazzling itself is a Y2K revival."
+  },
+  "productDemand": {
+    "evidence": [
+      "bedazzle-everything-gem-maxxing~1a0d4a41",
+      "bedazzle-everything-gem-maxxing~fa81f6ee"
+    ],
+    "text": "People are looking for how-tos and supplies (utility): gem stickers, glue, rhinestone kits. No sales figures found. Search growth figures appeared in search summaries but could not be traced to a fetched source, so they are recorded as unverified."
+  },
+  "products": [
+    {
+      "buyer": "Women 16-30 bedazzling phone cases, cups and notebooks for themselves or as gifts",
+      "channels": [
+        "Etsy",
+        "TikTok",
+        "Pinterest"
+      ],
+      "continueIf": "At least 5 sales in 21 days or a video over 10k views",
+      "differentiation": "Beginner-friendly, trend motifs (bows, cherries, stars, hearts, initials), with gem counts and sizes per design and a color key, sized for common objects. Existing templates mostly serve cutting-machine hotfix pros.",
+      "effort": "medium",
+      "effortHours": 12,
+      "evidence": [
+        "bedazzle-everything-gem-maxxing~1a0d4a41",
+        "bedazzle-everything-gem-maxxing~e0447608",
+        "bedazzle-everything-gem-maxxing~fa81f6ee"
+      ],
+      "format": "printable",
+      "fulfillment": "digital",
+      "leadTimeDays": 4,
+      "pivotIf": "Views but no sales: test a gift version (DIY gift kit instructions + patterns) for the holidays",
+      "rightsNote": "No brand logos, celebrity names or branded product names; generic object names only",
+      "stopIf": "Under 2 sales and under 150 listing views by Day 21",
+      "theme": "Printable trace-and-stick gem placement patterns for phone cases, cups and notebooks",
+      "validationTest": "List a 30-pattern pack. Film 3 TikToks of a phone case done with a pattern under a clear case.",
+      "whyBuy": "Getting a symmetrical, pro-looking design freehand is hard; a printed guide under clear cases or taped inside cups makes it easy"
+    }
+  ],
+  "qualityFlags": [],
+  "recommendedAction": "prepare",
+  "region": "US",
+  "researchedAt": "2026-10-04T23:58:00Z",
+  "rights": {
+    "note": "Do not use the celebrity's name or likeness, or brand names of tumblers, phones or caf\u00e9s, in titles, tags or patterns. Patterns must be original. No branded logos in rhinestone form.",
+    "risk": "low"
+  },
+  "runIds": [
+    "run-hunt-aesthetics-20261004-4"
+  ],
+  "scores": {
+    "buyerIntent": {
+      "basis": "qualitative",
+      "rationale": "How-to and supply-seeking, no sales data",
+      "score": 2
+    },
+    "durability": {
+      "basis": "qualitative",
+      "rationale": "Fad-like; holiday extension possible",
+      "score": 2
+    },
+    "economics": {
+      "basis": "qualitative",
+      "rationale": "Digital, zero marginal cost",
+      "score": 4
+    },
+    "productFit": {
+      "basis": "qualitative",
+      "rationale": "Printable patterns fit a DIY craft well",
+      "score": 4
+    },
+    "supplyGap": {
+      "basis": "qualitative",
+      "rationale": "Templates exist but are aimed at pros; beginner patterns appear thin (inference)",
+      "score": 3
+    },
+    "timing": {
+      "basis": "reported",
+      "rationale": "Spreading since August; still growing in September",
+      "score": 3
+    }
+  },
+  "source": "research",
+  "spread": {
+    "evidence": [
+      "bedazzle-everything-gem-maxxing~1a0d4a41",
+      "bedazzle-everything-gem-maxxing~813d85f8",
+      "bedazzle-everything-gem-maxxing~e0447608",
+      "bedazzle-everything-gem-maxxing~44ad2a83",
+      "bedazzle-everything-gem-maxxing~2868b79b"
+    ],
+    "text": "Independent coverage on several continents, in English, Spanish, Vietnamese and Arabic outlets, across business, fashion and youth media."
+  },
+  "summary": "Gen Z is gluing rhinestones and gems onto everyday objects (cups, phone cases, skincare, cameras), a DIY trend that spread worldwide from August into September 2026.",
+  "topicKeys": [
+    "phrase:bedazzle everything gem maxxing",
+    "phrase:bedazzling",
+    "phrase:gem maxxing",
+    "phrase:rhinestone everything",
+    "phrase:whimsymaxxing adjacent"
+  ],
+  "trajectory": {
+    "evidence": [
+      "bedazzle-everything-gem-maxxing~1a0d4a41",
+      "bedazzle-everything-gem-maxxing~2868b79b"
+    ],
+    "stage": "early_growth",
+    "text": "Spread from August into a named sub-trend (gem maxxing) by September. Holiday DIY gifting could extend it."
+  },
+  "unresolved": [
+    "Do Etsy searches for bedazzle and rhinestone patterns rise into November?",
+    "Is there retailer evidence of rhinestone or gem-sticker sell-outs?",
+    "Does 'gem maxxing' get adopted as a TikTok hashtag?"
+  ],
+  "what": "People decorate everyday objects with stick-on rhinestones, gems and charms, often as a screen-free craft. It took off on TikTok in August 2026 after a celebrity's gem-covered cake went viral. Business and fashion press in the US, India, the Gulf, Latin America and Vietnam picked it up, and it is now being called 'gem maxxing'.",
+  "window": {
+    "endEstimate": null,
+    "estimate": "3-6 months",
+    "invalidators": [
+      "The trend fades with the celebrity moment",
+      "Free templates satisfy demand"
+    ],
+    "reasoning": "A DIY trend with global press. Holiday DIY gifts (Nov-Dec) are a natural extension; craft fads usually fade after the holidays.",
+    "seasonality": "Holiday DIY gifting Nov-Dec",
+    "sellBy": null
+  },
+  "duplicateOf": "whimsymaxxing-bedazzle-everything-diy",
+  "duplicateNote": "Same trend: gluing rhinestones onto everyday objects, found separately by two hunts."
+}

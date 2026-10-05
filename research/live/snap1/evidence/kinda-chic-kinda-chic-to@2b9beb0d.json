@@ -1,0 +1,19 @@
+{
+  "accessMethod": "web_search_result",
+  "candidateId": "kinda-chic-kinda-chic-to",
+  "claim": "Critical backlash describes the trend as a glossed-up humblebrag.",
+  "excerpt": "Critics call it 'the 2026 gloss over the good old fashioned humblebrag' (per search summary).",
+  "firstRetrievedAt": "2026-10-04T21:01:02Z",
+  "firstSeenRunId": "run-2026-10-04-memes",
+  "id": "kinda-chic-kinda-chic-to~2b9beb0d",
+  "intent": "criticism",
+  "kind": "observed",
+  "lastSeenRunId": "run-2026-10-04-memes",
+  "publishedAt": null,
+  "publisher": "The Spectator",
+  "retrievedAt": "2026-10-04T21:01:02Z",
+  "signalType": "press",
+  "syndicationOf": null,
+  "title": "The 'Kinda chic' trend is mere humblebrag",
+  "url": "https://spectator.com/article/kinda-chic-is-mere-humblebrag/"
+}

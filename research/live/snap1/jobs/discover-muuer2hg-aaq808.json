@@ -1,0 +1,28 @@
+{
+  "candidateId": null,
+  "createdAt": "2026-10-04T22:44:03.027Z",
+  "dispatch": {
+    "at": "2026-10-04T22:44:08.224Z",
+    "code": "upstream_error",
+    "message": "connector access isn't confirmed for this artifact right now",
+    "status": "failed"
+  },
+  "error": "Cancelled from the dashboard.",
+  "id": "discover-muuer2hg-aaq808",
+  "input": "Scan for new trends",
+  "inputKind": null,
+  "key": "discover",
+  "progress": "Waiting for the research worker",
+  "result": null,
+  "status": "cancelled",
+  "steps": [
+    {
+      "at": "2026-10-04T22:44:03.027Z",
+      "label": "Queued",
+      "status": "done"
+    }
+  ],
+  "topicKey": null,
+  "type": "discover",
+  "updatedAt": "2026-10-04T23:41:34.427Z"
+}

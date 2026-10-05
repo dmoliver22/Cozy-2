@@ -1,0 +1,19 @@
+{
+  "accessMethod": "web_search_result",
+  "candidateId": "needlepoint-revival",
+  "claim": "Stitch clubs of millennials and Gen Z meet monthly and weekly in shops (Atlanta).",
+  "excerpt": "Search summary: dozens of women at Stitch Club Atlanta gatherings and weekly stitch nights at local stores.",
+  "firstRetrievedAt": "2026-10-04T20:53:53Z",
+  "firstSeenRunId": "run-2026-10-04-hobbies",
+  "id": "needlepoint-revival~fccc46ba",
+  "intent": "curiosity",
+  "kind": "observed",
+  "lastSeenRunId": "run-2026-10-04-hobbies",
+  "publishedAt": null,
+  "publisher": "CBS News Atlanta",
+  "retrievedAt": "2026-10-04T20:53:53Z",
+  "signalType": "press",
+  "syndicationOf": null,
+  "title": "In Atlanta, needlepoint finds new life and a new generation at weekly stitch nights",
+  "url": "https://www.cbsnews.com/atlanta/news/in-atlanta-needlepoint-finds-new-life-and-a-new-generation-at-weekly-stitch-nights/"
+}

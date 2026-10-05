@@ -1,0 +1,203 @@
+{
+  "actionRationale": "Demand was real, but the market was flooded within days, licensed and 'official' products exist, and a new solo seller has no edge in October. Pass on general Jimothy merch. Revisit only if a new catalyst appears (e.g., a TV project, which The Hill hinted at) or for a narrow Seattle-local holiday item with original art.",
+  "adopters": {
+    "evidence": [
+      "jimothy-the-raccoon~43741148",
+      "jimothy-the-raccoon~5e175533",
+      "jimothy-the-raccoon~459ee4ce",
+      "jimothy-the-raccoon~8d3312a4",
+      "jimothy-the-raccoon~9019e0d9",
+      "jimothy-the-raccoon~ca04aa30"
+    ],
+    "text": "A broad, wholesome-content audience. Seattle locals and Mariners fans (Salmon Run feature, card giveaway for Ballard Food Bank). Artists (fan art, tattoos, figurines, knit dolls). Faith and wellness writers framing him as a resilience symbol. Gamers and kids via Fortnite. Crypto speculators (a meme coin)."
+  },
+  "aliases": [
+    "Jimothy",
+    "Saint Jimothy",
+    "King Jimothy",
+    "Jimothy Summer",
+    "hot Jimothy summer"
+  ],
+  "category": "character",
+  "channels": [
+    "Etsy",
+    "Instagram"
+  ],
+  "competition": {
+    "evidence": [
+      "jimothy-the-raccoon~a91fa241",
+      "jimothy-the-raccoon~b71a0d78",
+      "jimothy-the-raccoon~2883c526",
+      "jimothy-the-raccoon~f334722d",
+      "jimothy-the-raccoon~ef0fb350"
+    ],
+    "level": "saturated",
+    "text": "Saturated. Bootleg-style tees, mugs and stickers flooded Etsy and Amazon within a week of the video. Redbubble has a Jimothy shop page. An 'Official Jimothy Raccoon Store' sells Mariners-themed and 'Make Noise For Jimothy 2026' shirts. A licensed bobblehead exists. Slogans like 'In a world full of trash pandas, be a Jimothy' and 'if jimothy can i can' are already used."
+  },
+  "editorialNotes": [
+    "Editorial review 2026-10-04: Relabeled \"Fast Company\" from purchase intent to context only: a flood of bootleg merch is supply; it does not show how much buyers purchased.",
+    "Editorial review 2026-10-04: Relabeled \"Yahoo Entertainment (likely syndicated)\" from purchase intent to context only: syndicated copy of jm5.",
+    "Editorial review 2026-10-04: Relabeled \"Shopifreaks\" from purchase intent to context only: likely derived from the Fast Company merch report; supply, not purchases.",
+    "Editorial review 2026-10-04: Counted \"Shopifreaks\" with \"Fast Company\" as one signal: likely derived from the Fast Company merch report; supply, not purchases.",
+    "Editorial review 2026-10-04: Relabeled \"National Bobblehead Hall of Fame and Museum store\" from purchase intent to context only: a licensed product on presale is supply."
+  ],
+  "effortMin": "low",
+  "firstSeenAt": "2026-10-04T21:01:02.000Z",
+  "formats": [
+    "other"
+  ],
+  "gap": {
+    "isInference": true,
+    "text": "There's little room for generic Jimothy merch. The only plausible gap is a narrow Seattle-local holiday item (e.g., an original-art 'Saint Jimothy' ornament or holiday card for Seattle gift buyers), and even that is probably already contested."
+  },
+  "id": "jimothy-the-raccoon",
+  "jobId": null,
+  "language": "en",
+  "lastRunId": "run-2026-10-04-memes",
+  "lens": "Discovery scan: memes & phrases",
+  "name": "Jimothy the raccoon",
+  "origin": {
+    "date": "2026-07-14",
+    "evidence": [
+      "jimothy-the-raccoon~43741148",
+      "jimothy-the-raccoon~3cf69d31"
+    ],
+    "text": "Seattle resident Kiana Hall posted an Instagram video of the raccoon on 2026-07-14 and named him 'Jimothy' because 'he just looked like a Jimothy'."
+  },
+  "productDemand": {
+    "evidence": [
+      "jimothy-the-raccoon~a91fa241",
+      "jimothy-the-raccoon~b71a0d78",
+      "jimothy-the-raccoon~ef0fb350",
+      "jimothy-the-raccoon~4456187d",
+      "jimothy-the-raccoon~43741148",
+      "jimothy-the-raccoon~02646349"
+    ],
+    "text": "The strongest merch evidence in this lens. Fast Company reported that Jimothy shirts, mugs, sticker packs and figurines took over Etsy and Amazon within about a week. An officially licensed bobblehead is on presale. The Mariners made special merchandise. A Yahoo headline reports a teenager turned a free raccoon baseball card into more than $20K (collectible resale). This is real buyer activity, though the card is an outlier."
+  },
+  "products": [
+    {
+      "buyer": "Seattle-area gift buyers and Jimothy fans shopping for holiday ornaments and cards (only if revisited)",
+      "channels": [
+        "Etsy",
+        "Instagram"
+      ],
+      "continueIf": "Search shows few holiday-specific Jimothy items AND the listing gets 5+ sales by Dec 1",
+      "differentiation": "Holiday and local framing rather than generic tees. Probably still contested.",
+      "effort": "low",
+      "effortHours": 4,
+      "evidence": [
+        "jimothy-the-raccoon~8d3312a4",
+        "jimothy-the-raccoon~a91fa241"
+      ],
+      "format": "other",
+      "fulfillment": "pod",
+      "leadTimeDays": 4,
+      "pivotIf": "n/a",
+      "rightsNote": "Original art only. No traced photos, no Mariners or Fortnite marks, no 'official' claims.",
+      "stopIf": "Holiday Jimothy items are already abundant, or there's no sale within 3 weeks",
+      "theme": "Original-art 'Saint Jimothy' round-raccoon ceramic ornament or holiday card with 'Season's Scurryings from Ballard'. No team or game marks.",
+      "validationTest": "Not recommended now. If revisited, list one ornament and check whether 'jimothy ornament' search results are already crowded before investing.",
+      "whyBuy": "Local-pride holiday gift for a city that officially celebrated 'Jimothy Summer'"
+    }
+  ],
+  "qualityFlags": [],
+  "recommendedAction": "pass",
+  "region": "US",
+  "researchedAt": "2026-10-04T21:01:02Z",
+  "rights": {
+    "note": "IP attorneys quoted by ABA Journal and Bloomberg Law say the name and a generic drawn image likely can't be trademarked, though Kiana Hall might have a claim (a high bar). The original video and photos are copyrighted, so don't trace them. Mariners logos and uniforms, the Fortnite sidekick design, and the licensed bobblehead design are off-limits. 'Official' store and licensing activity means takedown risk could grow.",
+    "risk": "medium"
+  },
+  "runIds": [
+    "run-2026-10-04-memes"
+  ],
+  "scores": {
+    "buyerIntent": {
+      "basis": "reported",
+      "rationale": "Press reports describe a merch boom, licensed products are on presale, and a card resale is reported. Real but unquantified consumer purchasing.",
+      "score": 3
+    },
+    "durability": {
+      "basis": "qualitative",
+      "rationale": "Local-mascot status and the Fortnite tie-in help, but viral-animal interest usually decays and the subject is a wild animal with health issues.",
+      "score": 2
+    },
+    "economics": {
+      "basis": "qualitative",
+      "rationale": "Heavy price competition from many bootleg sellers compresses POD margins.",
+      "score": 2
+    },
+    "productFit": {
+      "basis": "qualitative",
+      "rationale": "An original cartoon raccoon is easy, but avoiding photo-derived art and team or game IP takes care.",
+      "score": 3
+    },
+    "supplyGap": {
+      "basis": "reported",
+      "rationale": "Fast Company and Shopifreaks report Etsy and Amazon flooded, plus official and licensed products.",
+      "score": 1
+    },
+    "timing": {
+      "basis": "qualitative",
+      "rationale": "Entering about 3 months after a merch flood that began within a week of the video.",
+      "score": 1
+    }
+  },
+  "source": "research",
+  "spread": {
+    "evidence": [
+      "jimothy-the-raccoon~43741148",
+      "jimothy-the-raccoon~2ec295e9",
+      "jimothy-the-raccoon~5948f390",
+      "jimothy-the-raccoon~5e175533",
+      "jimothy-the-raccoon~a91fa241",
+      "jimothy-the-raccoon~b71a0d78",
+      "jimothy-the-raccoon~941d071d",
+      "jimothy-the-raccoon~3cf69d31",
+      "jimothy-the-raccoon~459ee4ce",
+      "jimothy-the-raccoon~d969f878",
+      "jimothy-the-raccoon~56245f5f",
+      "jimothy-the-raccoon~eeb8a5b6"
+    ],
+    "text": "Far beyond the original post: national press (Washington Post opinion, ABC/GMA, Today, The Hill syndicated to WGN), local TV (KOMO), legal press (Bloomberg Law, ABA Journal), e-commerce press (Fast Company, Shopifreaks), and gaming press (TheGamer, Vice) covering the Fortnite sidekick."
+  },
+  "summary": "A round, short-spined wild raccoon in Seattle's Ballard neighborhood that went viral in July 2026 and turned into a local mascot and merch phenomenon.",
+  "topicKeys": [
+    "phrase:jimothy the raccoon",
+    "phrase:jimothy",
+    "phrase:saint jimothy",
+    "phrase:king jimothy",
+    "phrase:jimothy summer",
+    "phrase:hot jimothy summer"
+  ],
+  "trajectory": {
+    "evidence": [
+      "jimothy-the-raccoon~43741148",
+      "jimothy-the-raccoon~ef0fb350",
+      "jimothy-the-raccoon~459ee4ce",
+      "jimothy-the-raccoon~8d3312a4"
+    ],
+    "stage": "established_niche",
+    "text": "Viral explosion in July 2026, then ongoing institutional tie-ins through August and September (Mariners, bobblehead, city proclamation) and an Oct 1 Fortnite sidekick that keeps him in youth culture. Inference: past the novelty peak but settled as a durable Seattle mascot. No September/October interest data was retrieved; the session search budget ran out before follow-up checks."
+  },
+  "unresolved": [
+    "September/October trajectory not verified (search budget ran out)",
+    "Who operates the 'Official Jimothy Raccoon Store', and whether any trademark has been filed",
+    "Whether holiday-specific Jimothy products are already common",
+    "The Hill headline hints at TV; details unknown"
+  ],
+  "what": "Jimothy is a wild Seattle raccoon with an unusually short, rounded body (believed to be short spine syndrome) who scurries instead of walking. A resident's Instagram video named him 'Jimothy', went viral in July 2026, and made him a symbol of resilience and wholesomeness. He picked up Mariners tie-ins, an officially licensed bobblehead, a Google animation, a city 'Jimothy Summer' declaration, and a free Fortnite sidekick for Fortnitemares (Oct 1, 2026).",
+  "window": {
+    "endEstimate": null,
+    "estimate": "Already mature. Holiday 2026 is the last obvious gifting moment.",
+    "invalidators": [
+      "News about the raccoon's health or death changes the tone",
+      "Someone (e.g., the original videographer) asserts trademark or copyright claims and triggers marketplace takedowns",
+      "Interest fades after Fortnitemares"
+    ],
+    "reasoning": "Merch supply has been flooding since July. The Fortnite tie-in sustains awareness among kids through October, but a new seller with no audience entering in October faces months of entrenched competition and weeks of discovery lag.",
+    "seasonality": "Summer 2026 peak ('Jimothy Summer'). Holiday gifting is a possible last wave.",
+    "sellBy": null
+  }
+}

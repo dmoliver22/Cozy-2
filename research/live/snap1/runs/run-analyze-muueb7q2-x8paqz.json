@@ -1,0 +1,59 @@
+{
+  "candidateIds": [
+    "6-7-six-seven-meme"
+  ],
+  "discovered": [],
+  "id": "run-analyze-muueb7q2-x8paqz",
+  "ingestedAt": "2026-10-04T22:33:14.817Z",
+  "jobId": "analyze-muueb7q2-x8paqz",
+  "kind": "analyze",
+  "lens": "Analyze: 6-7 meme",
+  "report": [
+    {
+      "errors": [],
+      "id": "6-7-six-seven-meme",
+      "name": "6-7 (Six Seven) meme",
+      "status": "created",
+      "warnings": 0
+    }
+  ],
+  "researchedAt": "2026-10-04T22:33:00Z",
+  "sourcesTried": [
+    {
+      "method": "web_search",
+      "note": "Origin, Word of the Year, decline and merch queries returned results; only snippets read.",
+      "source": "Web search (general)",
+      "status": "ok"
+    },
+    {
+      "method": "WebFetch",
+      "note": "Blocked by egress proxy; search snippet only.",
+      "source": "thenightly.com.au (page fetch)",
+      "status": "blocked"
+    },
+    {
+      "method": "WebFetch",
+      "note": "Blocked by egress proxy; search snippet only.",
+      "source": "skylinehorizon.org (page fetch)",
+      "status": "blocked"
+    },
+    {
+      "method": "WebFetch",
+      "note": "Blocked by egress proxy; search snippet only.",
+      "source": "en.wikipedia.org",
+      "status": "blocked"
+    },
+    {
+      "method": "web_search",
+      "note": "Listing titles seen in search results only; no sales or counts.",
+      "source": "Etsy",
+      "status": "ok"
+    },
+    {
+      "method": "none",
+      "note": "Typically blocked; not attempted.",
+      "source": "Google Trends / TikTok / Reddit",
+      "status": "not_tried"
+    }
+  ]
+}

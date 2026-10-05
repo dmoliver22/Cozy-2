@@ -1,0 +1,19 @@
+{
+  "accessMethod": "web_search_result",
+  "candidateId": "needlepoint-revival",
+  "claim": "A needlepoint business is described as multimillion-dollar, consistent with strong consumer spending in the category.",
+  "excerpt": "Title only.",
+  "firstRetrievedAt": "2026-10-04T20:53:53Z",
+  "firstSeenRunId": "run-2026-10-04-hobbies",
+  "id": "needlepoint-revival~54b00bc8",
+  "intent": "purchase",
+  "kind": "observed",
+  "lastSeenRunId": "run-2026-10-04-hobbies",
+  "publishedAt": null,
+  "publisher": "University of Kentucky UKNow",
+  "retrievedAt": "2026-10-04T20:53:53Z",
+  "signalType": "press",
+  "syndicationOf": null,
+  "title": "Sew old, sew new: UK alumnae stitch success into multimillion-dollar needlepoint empire",
+  "url": "https://uknow.uky.edu/professional-news/sew-old-sew-new-uk-alumnae-stitch-success-multimillion-dollar-needlepoint-empire"
+}

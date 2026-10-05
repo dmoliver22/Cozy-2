@@ -1,0 +1,23 @@
+{
+  "action": "prepare",
+  "analystAction": "prepare",
+  "candidateId": "bedazzle-everything-gem-maxxing",
+  "competition": "moderate",
+  "confidence": 49,
+  "id": "bedazzle-everything-gem-maxxing~run-hunt-aesthetics-20261004-4",
+  "independentSources": 9,
+  "purchaseSignals": 0,
+  "runId": "run-hunt-aesthetics-20261004-4",
+  "score": 58,
+  "stage": "early_growth",
+  "takenAt": "2026-10-04T23:58:00Z",
+  "weightsUsed": {
+    "buyerIntent": 20,
+    "durability": 15,
+    "economics": 10,
+    "productFit": 15,
+    "supplyGap": 15,
+    "timing": 25
+  },
+  "windowEstimate": "3-6 months"
+}

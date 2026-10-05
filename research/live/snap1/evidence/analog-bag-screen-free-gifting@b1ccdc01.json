@@ -1,0 +1,19 @@
+{
+  "accessMethod": "web_search_result",
+  "candidateId": "analog-bag-screen-free-gifting",
+  "claim": "Basis's 2026 Winter Holiday Shopping Trends Report (July 2026) says 83% of shoppers decide on a gift within a few days of discovering it, and 71% use digital tools (search, social, AI) to find gift ideas.",
+  "excerpt": "Summary: 35% plan to spend more than in 2025 (64% of those cite inflation); 83% decide within a few days or less; consumers want gifts that feel meaningful and smart.",
+  "firstRetrievedAt": "2026-10-04T20:53:52Z",
+  "firstSeenRunId": "run-2026-10-04-movements",
+  "id": "analog-bag-screen-free-gifting~b1ccdc01",
+  "intent": "none",
+  "kind": "observed",
+  "lastSeenRunId": "run-2026-10-04-movements",
+  "publishedAt": null,
+  "publisher": "Basis",
+  "retrievedAt": "2026-10-04T20:53:52Z",
+  "signalType": "press",
+  "syndicationOf": null,
+  "title": "One Third of Holiday Shoppers Expect to Spend More on Gifts in 2026, Largely Due to Inflation | Basis",
+  "url": "https://basis.com/news/one-third-of-holiday-shoppers-expect-to-spend-more-on-gifts-in-2026-due-to-inflation"
+}

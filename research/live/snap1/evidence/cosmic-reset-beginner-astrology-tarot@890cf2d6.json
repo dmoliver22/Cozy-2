@@ -1,0 +1,19 @@
+{
+  "accessMethod": "web_search_result",
+  "candidateId": "cosmic-reset-beginner-astrology-tarot",
+  "claim": "Mainstream shopping editorial uses astrology as a gift-guide frame, showing astrology is used to sell products.",
+  "excerpt": "Search result title only.",
+  "firstRetrievedAt": "2026-10-04T21:00:56Z",
+  "firstSeenRunId": "run-2026-10-04-aesthetics",
+  "id": "cosmic-reset-beginner-astrology-tarot~890cf2d6",
+  "intent": "none",
+  "kind": "observed",
+  "lastSeenRunId": "run-2026-10-04-aesthetics",
+  "publishedAt": null,
+  "publisher": "E! Online",
+  "retrievedAt": "2026-10-04T21:00:56Z",
+  "signalType": "press",
+  "syndicationOf": null,
+  "title": "Products Each Zodiac Sign Needs, According to 2026's Astrology",
+  "url": "https://www.eonline.com/news/1426792/products-each-zodiac-sign-needs-according-to-2026s-astrology"
+}

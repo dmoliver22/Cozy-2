@@ -1,0 +1,19 @@
+{
+  "accessMethod": "web_search_result",
+  "candidateId": "american-mahjong-boom",
+  "claim": "Reports Yelp data showing searches for mahjong clubs up almost 4,500% versus the prior year.",
+  "excerpt": "Search summary: Yelp data shows searches for Mahjong clubs up almost 4,500% since last year; story originally by WBUR, features Nicole Wong (author of 'Mahjong: House Rules from Across the Asian Diaspora', founder of The Mahjong Project).",
+  "firstRetrievedAt": "2026-10-04T20:53:53Z",
+  "firstSeenRunId": "run-2026-10-04-hobbies",
+  "id": "american-mahjong-boom~4555b985",
+  "intent": "curiosity",
+  "kind": "observed",
+  "lastSeenRunId": "run-2026-10-04-hobbies",
+  "publishedAt": "2026-04-29",
+  "publisher": "WUSF (NPR syndication of a WBUR story)",
+  "retrievedAt": "2026-10-04T20:53:53Z",
+  "signalType": "press",
+  "syndicationOf": null,
+  "title": "Why Mahjong is surging in popularity",
+  "url": "https://www.wusf.org/2026-04-29/why-mahjong-is-surging-in-popularity"
+}

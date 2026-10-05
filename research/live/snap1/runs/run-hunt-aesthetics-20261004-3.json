@@ -1,0 +1,113 @@
+{
+  "candidateIds": [
+    "whimsigoth-fall-2026-sequel-driven-revival"
+  ],
+  "discovered": [],
+  "id": "run-hunt-aesthetics-20261004-3",
+  "ingestedAt": "2026-10-05T00:00:22.311Z",
+  "jobId": "hunt-aesthetics-20261004",
+  "kind": "discover",
+  "lens": "First-spark hunt: new aesthetics and visual micro-trends",
+  "report": [
+    {
+      "errors": [],
+      "id": "whimsigoth-fall-2026-sequel-driven-revival",
+      "name": "Whimsigoth fall 2026 (sequel-driven revival)",
+      "status": "created",
+      "warnings": 0
+    }
+  ],
+  "researchedAt": "2026-10-04T23:58:00Z",
+  "sourcesTried": [
+    {
+      "method": "web search",
+      "note": "~45 queries; primary evidence is search-result snippets",
+      "source": "WebSearch (extended/standard)",
+      "status": "ok"
+    },
+    {
+      "method": "WebFetch",
+      "note": "egress blocked",
+      "source": "newengen.com October/September TikTok trends",
+      "status": "blocked"
+    },
+    {
+      "method": "WebFetch",
+      "note": "egress blocked",
+      "source": "dumblittleman.com fall 2026 trends",
+      "status": "blocked"
+    },
+    {
+      "method": "WebFetch",
+      "note": "egress blocked",
+      "source": "nellyrodi.com TikTok beauty trends Oct 2026",
+      "status": "blocked"
+    },
+    {
+      "method": "WebFetch",
+      "note": "egress blocked; seen via search results only",
+      "source": "socialbee.com TikTok/Instagram trend roundups",
+      "status": "blocked"
+    },
+    {
+      "method": "WebFetch",
+      "note": "egress blocked",
+      "source": "epidemicsound.com TikTok trends",
+      "status": "blocked"
+    },
+    {
+      "method": "WebFetch",
+      "note": "egress blocked; search snippets used",
+      "source": "complex.com, hunker.com, apartmenttherapy.com (Celery coverage)",
+      "status": "blocked"
+    },
+    {
+      "method": "WebFetch",
+      "note": "egress blocked",
+      "source": "wgsn.com press release",
+      "status": "blocked"
+    },
+    {
+      "method": "WebFetch",
+      "note": "egress blocked",
+      "source": "today.com whimsy-maxxing",
+      "status": "blocked"
+    },
+    {
+      "method": "WebFetch",
+      "note": "egress blocked; search snippets used",
+      "source": "macrumors.com iOS 27 lock screen",
+      "status": "blocked"
+    },
+    {
+      "method": "WebFetch",
+      "note": "egress blocked",
+      "source": "drewandjonathan.com 2027 colors",
+      "status": "blocked"
+    },
+    {
+      "method": "web search",
+      "note": "no new aesthetic entries found for Sept 2026",
+      "source": "Know Your Meme (via search)",
+      "status": "ok"
+    },
+    {
+      "method": "web search",
+      "note": "titles only; no view counts readable",
+      "source": "TikTok discover pages",
+      "status": "ok"
+    },
+    {
+      "method": "web search",
+      "note": "market/listing URLs seen in results; not fetched, no counts",
+      "source": "Etsy",
+      "status": "ok"
+    },
+    {
+      "method": "not attempted directly",
+      "note": "typically blocked; no direct measurement",
+      "source": "Pinterest Trends, Google Trends, Reddit",
+      "status": "not_tried"
+    }
+  ]
+}

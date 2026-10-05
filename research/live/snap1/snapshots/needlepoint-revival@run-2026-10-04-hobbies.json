@@ -1,0 +1,16 @@
+{
+  "action": "prepare",
+  "analystAction": "prepare",
+  "candidateId": "needlepoint-revival",
+  "competition": "moderate",
+  "confidence": 67,
+  "id": "needlepoint-revival~run-2026-10-04-hobbies",
+  "independentSources": 16,
+  "purchaseSignals": 2,
+  "runId": "run-2026-10-04-hobbies",
+  "score": 66,
+  "stage": "early_growth",
+  "takenAt": "2026-10-04T21:01:01Z",
+  "weightsUsed": null,
+  "windowEstimate": "Nov 2026 to Jan 2027 (gifts for stitchers, New-Year stitch goals), then evergreen."
+}

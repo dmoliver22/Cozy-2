@@ -1,0 +1,19 @@
+{
+  "accessMethod": "web_search_result",
+  "candidateId": "celery-green-the-soft-herbal-green-of-2027",
+  "claim": "A second major paint brand independently chose a soft pale green (Soulful Sage) for 2027 a week earlier",
+  "excerpt": "Dulux has announced its 2027 Colour of the Year as 'Soulful Sage'... an ethereal, soft and silvery green",
+  "firstRetrievedAt": "2026-10-04T23:58:00Z",
+  "firstSeenRunId": "run-hunt-aesthetics-20261004-1",
+  "id": "celery-green-the-soft-herbal-green-of-2027~ff58790e",
+  "intent": "none",
+  "kind": "observed",
+  "lastSeenRunId": "run-hunt-aesthetics-20261004-1",
+  "publishedAt": "2026-09-08",
+  "publisher": "Dezeen",
+  "retrievedAt": "2026-10-04T23:58:00Z",
+  "signalType": "press",
+  "syndicationOf": null,
+  "title": "Sage green is the Dulux Colour of the Year 2027",
+  "url": "https://dezeen.com/2026/09/08/sage-green-colour-year-2027-dulux"
+}

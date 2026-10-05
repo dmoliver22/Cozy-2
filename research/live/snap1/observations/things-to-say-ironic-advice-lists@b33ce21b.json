@@ -1,0 +1,13 @@
+{
+  "asOf": "2026-10-01",
+  "candidateId": "things-to-say-ironic-advice-lists",
+  "evidenceId": "things-to-say-ironic-advice-lists~631f90bd",
+  "id": "things-to-say-ironic-advice-lists~b33ce21b",
+  "isAbsolute": false,
+  "metric": "Share of KYM Sept 2026 Meme of the Month vote",
+  "note": "reader poll, not reach",
+  "recordedAt": "2026-10-05T00:00:55.254Z",
+  "runId": "run-hunt-memes-20261004-3",
+  "unit": "percent",
+  "value": 11.6
+}

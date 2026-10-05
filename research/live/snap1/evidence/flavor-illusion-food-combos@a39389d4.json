@@ -1,0 +1,19 @@
+{
+  "accessMethod": "web_search_result",
+  "candidateId": "flavor-illusion-food-combos",
+  "claim": "Another creator (Social Sami) did the challenge, inspired by Eat with GG; seven combos listed",
+  "excerpt": "Influencer Social Sami took a flavor-combo challenge inspired by U.K.-based TikToker and Instagrammer Eat with GG.",
+  "firstRetrievedAt": "2026-10-05T00:01:02Z",
+  "firstSeenRunId": "run-hunt-foodhome-20261004-1",
+  "id": "flavor-illusion-food-combos~a39389d4",
+  "intent": "curiosity",
+  "kind": "observed",
+  "lastSeenRunId": "run-hunt-foodhome-20261004-1",
+  "publishedAt": null,
+  "publisher": "Upworthy",
+  "retrievedAt": "2026-10-05T00:01:02Z",
+  "signalType": "press",
+  "syndicationOf": null,
+  "title": "Lemon with cinnamon 'tastes like Coca-Cola' and 6 other weird combos that taste like other foods",
+  "url": "https://www.upworthy.com/lemon-with-cinnamon-tastes-like-coca-cola-and-6-other-weird-combos-that-taste-like-other-foods/"
+}

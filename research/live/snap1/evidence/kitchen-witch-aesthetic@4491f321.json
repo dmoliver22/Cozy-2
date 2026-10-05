@@ -1,0 +1,19 @@
+{
+  "accessMethod": "web_search_result",
+  "candidateId": "kitchen-witch-aesthetic",
+  "claim": "TikTok creators post Practical Magic-inspired kitchen makeovers built around apothecary jars, labeled spice jars and dried herbs.",
+  "excerpt": "Search summary across TikTok discover pages ('Practical Magic Kitchen Inspo', 'Witch Kitchen Decor', 'Cottage Witch Kitchen Decor'): renter-friendly and full makeovers, apothecary storage with cork-lid jars, labeled spice jars, amber bottles, copper pots, brass moons. No view counts seen.",
+  "firstRetrievedAt": "2026-10-04T21:00:56Z",
+  "firstSeenRunId": "run-2026-10-04-aesthetics",
+  "id": "kitchen-witch-aesthetic~4491f321",
+  "intent": "utility",
+  "kind": "observed",
+  "lastSeenRunId": "run-2026-10-04-aesthetics",
+  "publishedAt": null,
+  "publisher": "TikTok (discover page)",
+  "retrievedAt": "2026-10-04T21:00:56Z",
+  "signalType": "social",
+  "syndicationOf": null,
+  "title": "Practical Magic Kitchen Inspo",
+  "url": "https://www.tiktok.com/discover/practical-magic-kitchen-inspo"
+}

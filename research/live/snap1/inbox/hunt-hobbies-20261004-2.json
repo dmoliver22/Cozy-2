@@ -1,0 +1,563 @@
+{
+  "createdAt": "2026-10-05T00:00:55Z",
+  "jobId": "hunt-hobbies-20261004",
+  "processedAt": "2026-10-05T00:01:31.166Z",
+  "raw": {
+    "candidates": [
+      {
+        "actionRationale": "The spark is one app launch with broad press, sitting on an existing event format that organizers already run. Build the kit now so it is listed well ahead of Valentine's season. No ads until more venues or creators adopt reader-matching nights.",
+        "adopters": {
+          "evidence": [
+            "e2",
+            "e8",
+            "e9",
+            "e10"
+          ],
+          "text": "Gen Z and young millennial readers, NYC launch crowd; libraries, bookstores and universities running book speed-dating events."
+        },
+        "aliases": [
+          "date someone who reads",
+          "book speed dating",
+          "literary speed dating",
+          "reader identity dating"
+        ],
+        "category": "hobby",
+        "competition": {
+          "evidence": [
+            "e7"
+          ],
+          "level": "unknown",
+          "text": "Competing apps exist. Printable speed-dating and book-club kits likely exist on Etsy, but marketplaces were not checked."
+        },
+        "evidence": [
+          {
+            "accessMethod": "web_search_result",
+            "claim": "A youth-research outlet reports a new reading-based dating app from the team behind an astrology app.",
+            "excerpt": "There's a new dating app for Gen Z's fave hobby: reading.",
+            "id": "e1",
+            "intent": "curiosity",
+            "kind": "observed",
+            "publishedAt": "2026-09-15",
+            "publisher": "YPulse",
+            "retrievedAt": "2026-10-05T00:00:55Z",
+            "signalType": "press",
+            "syndicationOf": null,
+            "title": "There's a new dating app for Gen Z's fave hobby: reading.",
+            "url": "https://www.ypulse.com/newsfeed/2026/09/15/theres-a-new-dating-app-for-gen-zs-fave-hobby-reading/"
+          },
+          {
+            "accessMethod": "web_search_result",
+            "claim": "A literary magazine covered the app's launch party in NYC and described its 'bookish star signs' matching.",
+            "excerpt": "the dating app has engineered what one might call an Enneagrammatical system of bookish star signs",
+            "id": "e2",
+            "intent": "curiosity",
+            "kind": "observed",
+            "publishedAt": "2026-09-25",
+            "publisher": "The Paris Review",
+            "retrievedAt": "2026-10-05T00:00:55Z",
+            "signalType": "press",
+            "syndicationOf": null,
+            "title": "Dispatch: Readme",
+            "url": "https://theparisreview.org/blog/2026/09/25/co-star-app-dispatch-readme"
+          },
+          {
+            "accessMethod": "web_search_result",
+            "claim": "A women's lifestyle outlet covered whether shared books can spark romance; the creators bet on 'reader identity'.",
+            "excerpt": "The creators are betting on the power of the reader identity",
+            "id": "e3",
+            "intent": "curiosity",
+            "kind": "observed",
+            "publishedAt": null,
+            "publisher": "Bustle",
+            "retrievedAt": "2026-10-05T00:00:55Z",
+            "signalType": "press",
+            "syndicationOf": null,
+            "title": "Plot Twist",
+            "url": "https://www.bustle.com/life/readme-dating-app-readers-books-costar"
+          },
+          {
+            "accessMethod": "web_search_result",
+            "claim": "Fashion press coverage of the launch, a third independent outlet.",
+            "excerpt": "Grazia US article returned for Readme dating app search",
+            "id": "e4",
+            "intent": "curiosity",
+            "kind": "observed",
+            "publishedAt": null,
+            "publisher": "Grazia US",
+            "retrievedAt": "2026-10-05T00:00:55Z",
+            "signalType": "press",
+            "syndicationOf": null,
+            "title": "Grazia US article on Readme",
+            "url": "https://graziamagazine.com/us/?p=116095"
+          },
+          {
+            "accessMethod": "web_search_result",
+            "claim": "Italian press commentary on the reader-dating idea; coverage beyond the US.",
+            "excerpt": "scremature, bugie, social club del libro: Readme, app di dating per lettori",
+            "id": "e5",
+            "intent": "criticism",
+            "kind": "observed",
+            "publishedAt": null,
+            "publisher": "Editoriale Domani",
+            "retrievedAt": "2026-10-05T00:00:55Z",
+            "signalType": "press",
+            "syndicationOf": null,
+            "title": "Readme app dating lettori",
+            "url": "https://www.editorialedomani.it/idee/cultura/scremature-bugie-social-club-libro-readme-app-dating-lettori-incognite-tti6nk9b"
+          },
+          {
+            "accessMethod": "web_search_result",
+            "claim": "The idea reached local news briefs.",
+            "excerpt": "reading makes you more attractive according to new dating app",
+            "id": "e6",
+            "intent": "curiosity",
+            "kind": "observed",
+            "publishedAt": null,
+            "publisher": "Oakdale Leader",
+            "retrievedAt": "2026-10-05T00:00:55Z",
+            "signalType": "press",
+            "syndicationOf": null,
+            "title": "Reading makes you more attractive according to new dating app",
+            "url": "https://www.oakdaleleader.com/news/news-briefs/reading-makes-you-more-attractive-according-to-new-dating-app/"
+          },
+          {
+            "accessMethod": "web_search_result",
+            "claim": "A competing book-based dating app exists (reported downloads, date unknown).",
+            "excerpt": "book lover dating app bookmark reaches 15000 downloads",
+            "id": "e7",
+            "intent": "none",
+            "kind": "observed",
+            "publishedAt": null,
+            "publisher": "Global Dating Insights",
+            "retrievedAt": "2026-10-05T00:00:55Z",
+            "signalType": "marketplace",
+            "syndicationOf": null,
+            "title": "Book lover dating app Bookmark reaches 15,000 downloads",
+            "url": "https://www.globaldatinginsights.com/featured/book-lover-dating-app-bookmark-reaches-15000-downloads/"
+          },
+          {
+            "accessMethod": "web_search_result",
+            "claim": "Context: the NYT-dubbed 'hobbyamory'; young singles organize social life around hobbies.",
+            "excerpt": "For some young singles, hobbies replace dating.",
+            "id": "e8",
+            "intent": "curiosity",
+            "kind": "observed",
+            "publishedAt": "2026-08-12",
+            "publisher": "YPulse",
+            "retrievedAt": "2026-10-05T00:00:55Z",
+            "signalType": "press",
+            "syndicationOf": null,
+            "title": "For some young singles, hobbies replace dating.",
+            "url": "https://www.ypulse.com/newsfeed/2026/08/12/for-some-young-singles-hobbies-replace-dating/"
+          },
+          {
+            "accessMethod": "web_search_result",
+            "claim": "Libraries host book-themed speed dating, so organizers run these events.",
+            "excerpt": "Speed Dating: Book Edition",
+            "id": "e9",
+            "intent": "utility",
+            "kind": "observed",
+            "publishedAt": "2026-02-14",
+            "publisher": "Mercantile Library (Cincinnati)",
+            "retrievedAt": "2026-10-05T00:00:55Z",
+            "signalType": "community",
+            "syndicationOf": null,
+            "title": "Speed Dating: Book Edition",
+            "url": "https://www.mercantilelibrary.com/events/calendar/2026/02/14/speed-dating-book-edition"
+          },
+          {
+            "accessMethod": "web_search_result",
+            "claim": "A university also runs genre-based book speed dating.",
+            "excerpt": "Book Genre Speed Dating",
+            "id": "e10",
+            "intent": "utility",
+            "kind": "observed",
+            "publishedAt": "2026-01-28",
+            "publisher": "University of Nottingham Student Living",
+            "retrievedAt": "2026-10-05T00:00:55Z",
+            "signalType": "community",
+            "syndicationOf": null,
+            "title": "Book Genre Speed Dating",
+            "url": "https://studentliving.nottingham.ac.uk/event/40753738/book-genre-speed-dating/2026-01-28"
+          },
+          {
+            "accessMethod": "web_search_result",
+            "claim": "A book distributor advises bookstores on running speed-dating events, showing organizers need how-to material.",
+            "excerpt": "Literary Love: The Secret to Bookstore Speed Dating",
+            "id": "e11",
+            "intent": "utility",
+            "kind": "observed",
+            "publishedAt": null,
+            "publisher": "Ingram Content Group",
+            "retrievedAt": "2026-10-05T00:00:55Z",
+            "signalType": "creator",
+            "syndicationOf": null,
+            "title": "Literary Love: The Secret to Bookstore Speed Dating",
+            "url": "https://ingramcontent.com/retailers-blog/literary-love-the-secret-to-bookstore-speed-dating"
+          },
+          {
+            "accessMethod": "web_search_result",
+            "claim": "Earlier context: reading as a dating signal, and backlash to it.",
+            "excerpt": "some young singles are bookfishing to appear more dateable",
+            "id": "e12",
+            "intent": "criticism",
+            "kind": "observed",
+            "publishedAt": "2025-11-18",
+            "publisher": "YPulse",
+            "retrievedAt": "2026-10-05T00:00:55Z",
+            "signalType": "press",
+            "syndicationOf": null,
+            "title": "Some young singles are 'bookfishing' to appear more dateable",
+            "url": "https://www.ypulse.com/newsfeed/2025/11/18/some-young-singles-are-bookfishing-to-appear-more-dateable/"
+          }
+        ],
+        "gap": {
+          "isInference": true,
+          "text": "A complete, original host kit for reader matchmaking nights (genre rounds, reader-type icebreaker, friendship edition) for venues and book clubs."
+        },
+        "name": "Reader dating and bookish matchmaking",
+        "observations": [],
+        "origin": {
+          "date": "2026-09-15",
+          "evidence": [
+            "e1",
+            "e2",
+            "e12"
+          ],
+          "text": "Reading as a dating signal has been discussed since at least 2025 ('bookfishing'). The new spark is the September 2026 launch of a reading-only dating app from the team behind a popular astrology app."
+        },
+        "productDemand": {
+          "evidence": [
+            "e9",
+            "e10",
+            "e11"
+          ],
+          "text": "No purchase evidence for kits or printables. There is utility demand from organizers: libraries and bookstores run book speed dating, and a distributor publishes how-to advice for it."
+        },
+        "products": [
+          {
+            "buyer": "Indie bookstore and library event coordinators, book club organizers and friends hosting a 'readers' singles or friend-dating night",
+            "channels": [
+              "Etsy",
+              "Pinterest",
+              "Instagram",
+              "library and bookstore Facebook groups (check community rules)"
+            ],
+            "continueIf": "3+ sales or 2+ organizer replies asking for the full kit within 21 days",
+            "differentiation": "A complete, printable run-of-show for reader matchmaking: genre rounds, an original 'reader type' icebreaker (no app branding), friend-or-date match slips, and versions for romance and friendship nights.",
+            "effort": "medium",
+            "effortHours": 12,
+            "evidence": [
+              "e9",
+              "e10",
+              "e11",
+              "e2"
+            ],
+            "format": "printable",
+            "fulfillment": "digital",
+            "leadTimeDays": 4,
+            "pivotIf": "Interest only from friend groups: reframe as a 'book club mixer' party kit",
+            "playbook": {
+              "assembly": [
+                "Run the super prompt and keep each section as its own Canva page set.",
+                "Build table tents as US Letter landscape with a center fold line; build question cards on an 8-up 3.5x2.5 in grid with crop marks.",
+                "Apply the palette and font pairing as a brand kit; check text contrast on Dusty Rose.",
+                "Duplicate and adapt everything for A4.",
+                "Make the friendship edition as separate pages so hosts can print one version.",
+                "Export PDF Print at 300 DPI with crop marks for the card sheets; flatten everything else.",
+                "Package romance and friendship PDFs plus a one-page printing guide; test-print one card sheet."
+              ],
+              "asymmetry": {
+                "badBetIf": "Venues prefer free templates and the reader-dating buzz stays inside one app's launch news",
+                "downside": "About 12 hours, no cash",
+                "upside": "Evergreen event use, a Valentine's season spike, venues can buy repeatedly or recommend it"
+              },
+              "costs": {
+                "baseCost": null,
+                "basis": "estimate: digital product, Etsy fees only",
+                "item": null,
+                "provider": null,
+                "shipping": null,
+                "testBudget": 0,
+                "testBudgetNote": "Use direct outreach to venues instead of ads at first"
+              },
+              "extensions": [
+                "Valentine's 'Blind Date with a Book' edition",
+                "Book club mixer kit",
+                "Reader-type art prints and stickers (original types only)"
+              ],
+              "imagePrompts": [
+                {
+                  "prompt": "Cozy bookstore table set for a speed-dating event: two chairs facing each other, a small table tent card, a stack of blank-spined books with no titles, warm lamp light, palette #6E2A2F #1F2A44 #F4ECDD #D8A7A1 #B08D57, text on the table tent reads 'Book Lovers Night', 3:2 aspect ratio, painterly editorial illustration style. No logos, no real people, no trademarked characters, no watermarks.",
+                  "purpose": "Cover and mockup background",
+                  "tool": "Ideogram or Midjourney"
+                },
+                {
+                  "prompt": "Vertical flat-lay of printable cards and a scorecard on parchment #F4ECDD with oxblood #6E2A2F headings, a brass #B08D57 paperclip, headline 'Host a Book Lovers Speed-Dating Night' in serif type, 2:3 aspect ratio. No logos, no real people, no trademarked characters, no watermarks.",
+                  "purpose": "Pinterest pin",
+                  "tool": "Ideogram"
+                }
+              ],
+              "listingPrompt": "Write an Etsy listing for a printable digital download 'Book Lovers Speed-Dating Night Kit'. Title under 140 characters starting with 'Book Speed Dating Printable Kit'. Exactly 13 tags of 20 characters or fewer (e.g. book speed dating, book club party, library event, bookstore event, singles mixer). Description: what's included (run-of-show, 6 genre table tents, 48 question cards, reader-type icebreaker, scorecards, match slips, name tags, signs, friendship edition), US Letter and A4 PDFs, instant download, nothing ships, and personal plus single-venue event-use license. FAQ: printing, card cutting, friendship vs romance version, group size, editing. Do not use any app, publisher, author or book names or trademarks, and make no promises about finding a match.",
+              "marketing": {
+                "channels": [
+                  {
+                    "cadence": "10 venues every 5 days",
+                    "channel": "Direct outreach to venues",
+                    "tactic": "Free scorecard plus link to the full kit"
+                  },
+                  {
+                    "cadence": "4 pins per week",
+                    "channel": "Pinterest",
+                    "tactic": "Event-planning pins"
+                  }
+                ],
+                "hooks": [
+                  "Date someone who reads, IRL",
+                  "Your bookstore's easiest sold-out event",
+                  "Six genres, six minutes, one match"
+                ],
+                "keywords": [
+                  "book speed dating",
+                  "book club party ideas",
+                  "library event ideas",
+                  "bookish singles night",
+                  "book lovers mixer"
+                ],
+                "launchPlan": [
+                  {
+                    "action": "Publish the Etsy and Payhip listings",
+                    "day": "Day 0"
+                  },
+                  {
+                    "action": "Post 4 Pinterest pins (kit overview, question cards, reader types, scorecard)",
+                    "day": "Day 1"
+                  },
+                  {
+                    "action": "Email or DM 10 indie bookstores and libraries that already list book clubs, offering the free scorecard",
+                    "day": "Day 2"
+                  },
+                  {
+                    "action": "Instagram carousel: 'how to host a book lovers night in 90 minutes'",
+                    "day": "Day 4"
+                  },
+                  {
+                    "action": "Contact 10 more venues; post in book-club organizer groups where rules allow",
+                    "day": "Day 7"
+                  },
+                  {
+                    "action": "Short video flipping through the kit",
+                    "day": "Day 10"
+                  },
+                  {
+                    "action": "Review replies, views and sales; add a holiday 'Galentine's/Valentine's' variant if traction",
+                    "day": "Day 14"
+                  },
+                  {
+                    "action": "Go/pivot/stop check",
+                    "day": "Day 21"
+                  }
+                ],
+                "positioning": "Everything a bookstore, library or book club needs to run a readers' speed-dating or friend-dating night, ready to print."
+              },
+              "platforms": [
+                {
+                  "name": "Etsy",
+                  "role": "primary",
+                  "why": "Party and event printables are searched there"
+                },
+                {
+                  "name": "Pinterest",
+                  "role": "traffic",
+                  "why": "Event-planning pins reach organizers"
+                },
+                {
+                  "name": "Payhip",
+                  "role": "secondary",
+                  "why": "Direct link for outreach emails to venues"
+                }
+              ],
+              "pricing": {
+                "basis": "estimate",
+                "currency": "USD",
+                "high": 18,
+                "low": 8,
+                "rationale": "Event kits with many components sell above single printables; organizers value the time saved.",
+                "recommended": 12
+              },
+              "productName": "Book Lovers Speed-Dating Night Kit",
+              "risks": [
+                "Demand evidence is for events existing, not for buying kits",
+                "Press attention centers on one app, so the spark may not spread",
+                "Free question lists are widely available"
+              ],
+              "superPrompt": "You are an experienced bookstore events manager and party-game writer. Write the full content of a printable kit called 'Book Lovers Speed-Dating Night Kit'. BUYER AND JOB: indie bookstore and library event coordinators, book club organizers and friends hosting a readers' singles night or friend-matching night. The kit lets them run a 90-minute event with no prep beyond printing: every round, card and sign is ready. DELIVERABLE SPEC (US Letter 8.5x11 in and A4; card sheets 8 cards per page at 3.5x2.5 in with crop marks): 1) Host run-of-show: a minute-by-minute 90-minute plan (check-in, welcome script of about 120 words, 6 rounds of 6 minutes, rotation instructions, break, match-slip collection, closing script) plus a setup checklist and a romance/friendship toggle. 2) Six genre rounds (Romance, Mystery & Thriller, Fantasy & Sci-Fi, Literary & Classics, Nonfiction & Memoir, Wildcard), each a table tent with the round name and 4 original conversation prompts. 3) 48 question cards in 4 decks (Light, Bookish, Deep, Silly), 12 each; every question original, inclusive and non-sexual. 4) 'What kind of reader are you?' icebreaker: 8 original reader types (e.g. The Annotator, The Midnight Page-Turner) with a 2-line description each and a 6-question pick-one sheet. Fun only, with no claims about compatibility. 5) Scorecard per guest: name tag number, 10 rows (seat number, 'favorite book they mentioned', yes/maybe/friend tick boxes). 6) Match slip and host matching sheet; privacy note to use first names and contact details only with mutual yes. 7) Name tags (8 per page) with 'Currently reading:' line. 8) Signs: welcome sign, 'Phones down, books up' table card, rotation arrows, photo-consent note. 9) Friendship edition swaps: replacement text for the welcome script, scorecard ticks and closing script. STYLE: cozy library meets modern stationery. Canva font pairings: (1) Cormorant Garamond headings + Lato body; (2) Libre Baskerville + Work Sans. Palette: Oxblood #6E2A2F, Ink Navy #1F2A44, Parchment #F4ECDD, Dusty Rose #D8A7A1, Brass #B08D57. CONTENT RULES: all prompts and reader types original; do not name real books, authors, apps, publishers or companies; inclusive of all genders and orientations (use 'guests'); no alcohol-required activities; no claims that the event or quiz predicts compatibility; reading level grade 7-9. DIFFERENTIATION: a complete run-of-show plus printables, with genre rounds and a friendship edition, instead of a single question list. OUTPUT FORMAT: section by section, headed 'SECTION n - name', giving every text element with layout notes in brackets, then a print guide (paper weight, cut lines). SELF-CHECK before answering: 6 rounds x 4 prompts present; 48 unique questions with no duplicates; 8 reader types; no real book, author or brand names; inclusive language throughout; the run-of-show adds up to 90 minutes."
+            },
+            "rightsNote": "Do not use Readme, Co-Star or any app name, book titles as cover art, or author names. Prompts in the kit must be original.",
+            "stopIf": "No sales, no replies and under 300 listing views by day 21",
+            "theme": "Book Lovers Speed-Dating Night host kit: genre round cards, scorecards, question cards, match slips and signage",
+            "validationTest": "List on Etsy and pitch the free scorecard page to 20 indie bookstores/libraries by email or Instagram DM within 10 days.",
+            "whyBuy": "Bookstores and libraries already run book speed dating and need ready, good-looking materials; new reader-dating buzz gives hosts a reason to run one this fall."
+          }
+        ],
+        "recommendedAction": "prepare",
+        "rights": {
+          "note": "Do not use the app's name, its parent company or its 'sign' system; use real book titles only as guest-supplied text, never in artwork.",
+          "risk": "low"
+        },
+        "scores": {
+          "buyerIntent": {
+            "basis": "qualitative",
+            "rationale": "Organizer utility signals only; no purchase data",
+            "score": 1
+          },
+          "durability": {
+            "basis": "qualitative",
+            "rationale": "Book speed dating has existed for years; the reading-identity theme has lasted since 2025",
+            "score": 3
+          },
+          "economics": {
+            "basis": "qualitative",
+            "rationale": "Digital, higher price point than single printables",
+            "score": 4
+          },
+          "productFit": {
+            "basis": "qualitative",
+            "rationale": "Events need printed cards, scorecards and signs",
+            "score": 4
+          },
+          "supplyGap": {
+            "basis": "unknown",
+            "rationale": "Etsy not checked",
+            "score": null
+          },
+          "timing": {
+            "basis": "reported",
+            "rationale": "Launch coverage within the last 3 weeks",
+            "score": 4
+          }
+        },
+        "spread": {
+          "evidence": [
+            "e1",
+            "e2",
+            "e3",
+            "e4",
+            "e5",
+            "e6"
+          ],
+          "text": "Covered within about 10 days by YPulse, The Paris Review, Bustle, Grazia US, Italian press and a local news brief: several independent outlets, all pegged to one app launch. Event programming predates it."
+        },
+        "summary": "Reading is turning into a dating filter: a reading-based dating app launched in NYC in September 2026 with wide press coverage, alongside library and bookstore book speed-dating nights.",
+        "trajectory": {
+          "evidence": [
+            "e1",
+            "e2",
+            "e9"
+          ],
+          "stage": "first_spark",
+          "text": "The app-launch news is about 3 weeks old. Whether reader-matching becomes a wider ritual (more events, more hosts) beyond one app is unproven."
+        },
+        "unresolved": [
+          "Whether more bookstores and libraries announce reader-dating nights in October and November",
+          "Whether TikTok/BookTok creators post about reader matchmaking beyond the app news",
+          "Whether existing Etsy kits for book speed dating are numerous"
+        ],
+        "what": "Young singles are using reading taste as a way to meet people. In September 2026 an app matching people by books launched with a NYC party and press in several outlets. It sits next to an existing calendar of 'book speed dating' events at libraries, bookstores and universities, and to the wider idea of hobbies replacing dating apps.",
+        "window": {
+          "endEstimate": null,
+          "estimate": "Through Valentine's Day 2027",
+          "invalidators": [
+            "Press attention stops after the launch cycle",
+            "Venues report low turnout for book speed dating"
+          ],
+          "reasoning": "Event hosts plan seasonally, and February is the natural peak for dating events; the kit is evergreen otherwise.",
+          "seasonality": "Peaks before Valentine's Day; book clubs are active in fall and winter",
+          "sellBy": null
+        }
+      }
+    ],
+    "kind": "discover",
+    "lens": "First-spark hunt: new hobbies, challenges and rituals",
+    "researchedAt": "2026-10-05T00:00:55Z",
+    "sourcesTried": [
+      {
+        "method": "web search",
+        "note": "About 40 queries across TikTok/Reels trend roundups, Know Your Meme, YPulse, Pinterest, Etsy trend blogs, news.",
+        "source": "WebSearch (standard and extended)",
+        "status": "ok"
+      },
+      {
+        "method": "WebFetch",
+        "note": "Egress blocked; used search snippets.",
+        "source": "newengen.com October TikTok trends",
+        "status": "blocked"
+      },
+      {
+        "method": "WebFetch",
+        "note": "Egress blocked.",
+        "source": "washingtonpost.com (hobbymaxxing, 2026-09-13)",
+        "status": "blocked"
+      },
+      {
+        "method": "WebFetch",
+        "note": "Egress blocked; search snippets only.",
+        "source": "socialbee.com TikTok trends (Sept 29)",
+        "status": "blocked"
+      },
+      {
+        "method": "WebFetch",
+        "note": "Egress blocked; search snippets only.",
+        "source": "later.com TikTok and Reels trend blogs",
+        "status": "blocked"
+      },
+      {
+        "method": "WebFetch",
+        "note": "Egress blocked.",
+        "source": "explodingtopics.com",
+        "status": "blocked"
+      },
+      {
+        "method": "WebFetch",
+        "note": "Egress blocked.",
+        "source": "napoleoncat.com",
+        "status": "blocked"
+      },
+      {
+        "method": "WebFetch",
+        "note": "Egress blocked.",
+        "source": "ramd.am TikTok/Instagram trends",
+        "status": "blocked"
+      },
+      {
+        "method": "WebFetch",
+        "note": "Egress blocked; could not confirm the year of the 9/19 post.",
+        "source": "community.pinterest.biz Pinterest Predicts Weekly",
+        "status": "blocked"
+      },
+      {
+        "method": "WebFetch",
+        "note": "Egress blocked; search snippets only.",
+        "source": "fortune.com",
+        "status": "blocked"
+      },
+      {
+        "method": "direct",
+        "note": "Known to be blocked in this environment; TikTok discover pages seen only as search results.",
+        "source": "TikTok, Reddit, Etsy, Google Trends",
+        "status": "not_tried"
+      }
+    ]
+  },
+  "report": [
+    {
+      "errors": [],
+      "id": "reader-dating-and-bookish-matchmaking",
+      "name": "Reader dating and bookish matchmaking",
+      "status": "created",
+      "warnings": 0
+    }
+  ],
+  "runId": "run-hunt-hobbies-20261004-2",
+  "status": "ingested"
+}

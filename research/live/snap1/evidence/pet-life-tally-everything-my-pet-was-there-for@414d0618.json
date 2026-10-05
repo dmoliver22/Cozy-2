@@ -1,0 +1,19 @@
+{
+  "accessMethod": "web_search_result",
+  "candidateId": "pet-life-tally-everything-my-pet-was-there-for",
+  "claim": "Pet-life posters exist; none found using the tally format",
+  "excerpt": "Life of Pets Poster - Etsy",
+  "firstRetrievedAt": "2026-10-05T00:01:02Z",
+  "firstSeenRunId": "run-hunt-foodhome-20261004-4",
+  "id": "pet-life-tally-everything-my-pet-was-there-for~414d0618",
+  "intent": "none",
+  "kind": "observed",
+  "lastSeenRunId": "run-hunt-foodhome-20261004-4",
+  "publishedAt": null,
+  "publisher": "Etsy",
+  "retrievedAt": "2026-10-05T00:01:02Z",
+  "signalType": "marketplace",
+  "syndicationOf": null,
+  "title": "Life of Pets Poster - Etsy",
+  "url": "https://www.etsy.com/market/life_of_pets_poster"
+}

@@ -1,0 +1,19 @@
+{
+  "accessMethod": "web_search_result",
+  "candidateId": "american-mahjong-boom",
+  "claim": "Syndicated copy of the same NPR/WBUR story (one signal, not two).",
+  "excerpt": "Same story carried by many NPR member stations (WHQR, WNIJ, WQLN, SC Public Radio, Wyoming Public Media, Iowa Public Radio, WSHU, WWNO, WSKG, WHRO).",
+  "firstRetrievedAt": "2026-10-04T20:53:53Z",
+  "firstSeenRunId": "run-2026-10-04-hobbies",
+  "id": "american-mahjong-boom~8f80e370",
+  "intent": "curiosity",
+  "kind": "observed",
+  "lastSeenRunId": "run-2026-10-04-hobbies",
+  "publishedAt": "2026-04-29",
+  "publisher": "WHQR (NPR syndication)",
+  "retrievedAt": "2026-10-04T20:53:53Z",
+  "signalType": "press",
+  "syndicationOf": "american-mahjong-boom~4555b985",
+  "title": "Why mahjong is surging in popularity",
+  "url": "https://www.whqr.org/2026-04-29/why-mahjong-is-surging-in-popularity"
+}

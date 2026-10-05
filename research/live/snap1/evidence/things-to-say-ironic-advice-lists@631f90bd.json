@@ -1,0 +1,19 @@
+{
+  "accessMethod": "web_search_result",
+  "candidateId": "things-to-say-ironic-advice-lists",
+  "claim": "Won KYM's September 2026 Meme of the Month with 11.6% of votes",
+  "excerpt": "\"Things to Say\" meme won September's Meme of the Month award with 11.6 percent of the total votes.",
+  "firstRetrievedAt": "2026-10-05T00:00:47Z",
+  "firstSeenRunId": "run-hunt-memes-20261004-3",
+  "id": "things-to-say-ironic-advice-lists~631f90bd",
+  "intent": "curiosity",
+  "kind": "observed",
+  "lastSeenRunId": "run-hunt-memes-20261004-3",
+  "publishedAt": null,
+  "publisher": "Know Your Meme",
+  "retrievedAt": "2026-10-05T00:00:47Z",
+  "signalType": "community",
+  "syndicationOf": null,
+  "title": "See The Winner Of September 2026's Meme Of The Month!",
+  "url": "https://knowyourmeme.com/editorials/poll/see-the-winner-of-september-2026s-meme-of-the-month"
+}

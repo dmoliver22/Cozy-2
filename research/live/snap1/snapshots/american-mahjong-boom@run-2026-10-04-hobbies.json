@@ -1,0 +1,16 @@
+{
+  "action": "test_now",
+  "analystAction": "test_now",
+  "candidateId": "american-mahjong-boom",
+  "competition": "high",
+  "confidence": 67,
+  "id": "american-mahjong-boom~run-2026-10-04-hobbies",
+  "independentSources": 28,
+  "purchaseSignals": 3,
+  "runId": "run-2026-10-04-hobbies",
+  "score": 72,
+  "stage": "mainstream_surge",
+  "takenAt": "2026-10-04T21:01:01Z",
+  "weightsUsed": null,
+  "windowEstimate": "Now through Dec 2026 for holiday hosting and gifting; organizer/instructor tools likely stay relevant through 2027."
+}

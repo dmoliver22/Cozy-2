@@ -1,0 +1,19 @@
+{
+  "accessMethod": "web_search_result",
+  "candidateId": "i-can-t-do-nathan",
+  "claim": "Listed among 2026's most-searched teen slang terms, i.e. adults are searching its meaning",
+  "excerpt": "Phrases such as \"scuba,\" \"crine,\" and \"i can't do nathan,\" all reign as the most-searched teenage slang of 2026.",
+  "firstRetrievedAt": "2026-10-05T00:00:47Z",
+  "firstSeenRunId": "run-hunt-memes-20261004-4",
+  "id": "i-can-t-do-nathan~d1cb5c89",
+  "intent": "curiosity",
+  "kind": "observed",
+  "lastSeenRunId": "run-hunt-memes-20261004-4",
+  "publishedAt": null,
+  "publisher": "Yahoo Lifestyle",
+  "retrievedAt": "2026-10-05T00:00:47Z",
+  "signalType": "press",
+  "syndicationOf": null,
+  "title": "Google's most-searched teenage slang of 2026 confuses older generations",
+  "url": "https://www.yahoo.com/lifestyle/articles/google-most-searched-teenage-slang-200622939.html"
+}

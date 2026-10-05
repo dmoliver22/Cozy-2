@@ -1,0 +1,561 @@
+{
+  "createdAt": "2026-10-04T23:58:00Z",
+  "jobId": "hunt-aesthetics-20261004",
+  "processedAt": "2026-10-05T00:00:34.412Z",
+  "raw": {
+    "candidates": [
+      {
+        "actionRationale": "Press interest is real and spread across independent outlets, and Halloween sets a deadline, but no evidence shows people buying decor because of it, and supply is heavy. Build and list the set this week, since listing costs almost nothing. Spend nothing on ads unless organic views show traction.",
+        "adopters": {
+          "evidence": [
+            "e2",
+            "e5",
+            "e6"
+          ],
+          "text": "Women 20-45 into seasonal and witchy decor and fashion, home stagers, gardeners. Editors are styling it explicitly."
+        },
+        "aliases": [
+          "whimsigoth",
+          "whimsigothic decor",
+          "90s witchy aesthetic"
+        ],
+        "category": "aesthetic",
+        "competition": {
+          "evidence": [
+            "e8",
+            "e9"
+          ],
+          "level": "high",
+          "text": "Celestial and witchy printables are well supplied on Etsy and other marketplaces."
+        },
+        "evidence": [
+          {
+            "accessMethod": "web_search_result",
+            "claim": "The film sequel, the catalyst for the whimsigoth revival, opened #1 with an estimated $30M domestic (ticket purchases, not decor purchases)",
+            "excerpt": "\"Practical Magic 2\" earned an estimated $30 million from 4,146 theaters in its opening weekend",
+            "id": "e1",
+            "intent": "purchase",
+            "kind": "observed",
+            "publishedAt": "2026-09-13",
+            "publisher": "AP via Local10",
+            "retrievedAt": "2026-10-04T23:58:00Z",
+            "signalType": "press",
+            "syndicationOf": null,
+            "title": "'Practical Magic 2' conjures a No. 1 box office debut with $30 million",
+            "url": "https://www.local10.com/news/national/2026/09/13/practical-magic-2-conjures-a-no-1-box-office-debut-with-30-million/"
+          },
+          {
+            "accessMethod": "web_search_result",
+            "claim": "Whimsigoth is listed among the top fall 2026 home design trends, with stagers using apothecary jars and botanicals",
+            "excerpt": "Whimsigoth is among the hottest fall home design trends of 2026... Staging professionals are leaning into the apothecary vibes of whimsigoth",
+            "id": "e2",
+            "intent": "none",
+            "kind": "observed",
+            "publishedAt": "2026-09-11",
+            "publisher": "Inman",
+            "retrievedAt": "2026-10-04T23:58:00Z",
+            "signalType": "press",
+            "syndicationOf": null,
+            "title": "5 Fall Design Trends That Real Estate Agents Should Know In 2026",
+            "url": "https://www.inman.com/2026/09/11/fall-home-design-trends-2026/"
+          },
+          {
+            "accessMethod": "web_search_result",
+            "claim": "A national TV shopping segment promotes whimsigoth fashion, decor and beauty (supply/editorial)",
+            "excerpt": "It's the season of the witch! Harness the whimsigoth vibe and add a little magic to your life",
+            "id": "e3",
+            "intent": "none",
+            "kind": "observed",
+            "publishedAt": null,
+            "publisher": "Good Morning America",
+            "retrievedAt": "2026-10-04T23:58:00Z",
+            "signalType": "press",
+            "syndicationOf": null,
+            "title": "It's the season of the witch! Harness the whimsigoth vibe and add a little magic to your life",
+            "url": "https://www.goodmorningamerica.com/shop/story/whimsigoth-magic-fashion-decor-beauty-136424470"
+          },
+          {
+            "accessMethod": "web_search_result",
+            "claim": "Design press calls whimsigoth fall's biggest design trend and cites millions of social impressions tied to the film",
+            "excerpt": "These trends have driven millions of impressions on social media—especially whimsigoth with the premiere of Practical Magic 2",
+            "id": "e4",
+            "intent": "none",
+            "kind": "observed",
+            "publishedAt": null,
+            "publisher": "AOL (syndicated)",
+            "retrievedAt": "2026-10-04T23:58:00Z",
+            "signalType": "press",
+            "syndicationOf": null,
+            "title": "Whimsigoth Is Fall's Biggest Design Trend—Here's How to Add it to Your Home",
+            "url": "https://www.aol.com/lifestyle/whimsigoth-falls-biggest-design-trend-140100643.html"
+          },
+          {
+            "accessMethod": "web_search_result",
+            "claim": "Fashion editors explicitly tie their fall whimsigoth styling to the sequel",
+            "excerpt": "I'm Leaning Into A Whimsigoth Fall, Thanks To 'Practical Magic 2'",
+            "id": "e5",
+            "intent": "curiosity",
+            "kind": "observed",
+            "publishedAt": null,
+            "publisher": "The Zoe Report",
+            "retrievedAt": "2026-10-04T23:58:00Z",
+            "signalType": "creator",
+            "syndicationOf": null,
+            "title": "I'm Leaning Into A Whimsigoth Fall, Thanks To 'Practical Magic 2'",
+            "url": "https://www.thezoereport.com/fashion/whimsigoth-fall-practical-magic-2"
+          },
+          {
+            "accessMethod": "web_search_result",
+            "claim": "The spillover reaches gardening and home how-to content",
+            "excerpt": "Practical Magic 2 Is Reviving the Romantic Cottage Garden Trend – Recreate the Owens Sisters' Look",
+            "id": "e6",
+            "intent": "utility",
+            "kind": "observed",
+            "publishedAt": null,
+            "publisher": "Gardening Know How",
+            "retrievedAt": "2026-10-04T23:58:00Z",
+            "signalType": "press",
+            "syndicationOf": null,
+            "title": "Practical Magic 2 Is Reviving the Romantic Cottage Garden Trend",
+            "url": "https://www.gardeningknowhow.com/garden-how-to/practical-magic-romantic-cottage-garden-trend"
+          },
+          {
+            "accessMethod": "web_search_result",
+            "claim": "Reviews are mixed, so the film's own staying power may be limited",
+            "excerpt": "Lackluster Sequel Can't Recreate the Magic",
+            "id": "e7",
+            "intent": "criticism",
+            "kind": "observed",
+            "publishedAt": "2026-09-22",
+            "publisher": "The Harvard Crimson",
+            "retrievedAt": "2026-10-04T23:58:00Z",
+            "signalType": "press",
+            "syndicationOf": null,
+            "title": "'Practical Magic 2' Review: Lackluster Sequel Can't Recreate the Magic",
+            "url": "https://www.thecrimson.com/article/2026/9/22/practical-magic-2-review/"
+          },
+          {
+            "accessMethod": "web_search_result",
+            "claim": "Whimsical celestial prints already sell on Etsy (supply exists)",
+            "excerpt": "a dreamy celestial library with rich colors and whimsy... $15.00+",
+            "id": "e8",
+            "intent": "none",
+            "kind": "observed",
+            "publishedAt": null,
+            "publisher": "Etsy",
+            "retrievedAt": "2026-10-04T23:58:00Z",
+            "signalType": "marketplace",
+            "syndicationOf": null,
+            "title": "Celestial Library",
+            "url": "https://www.etsy.com/listing/4336726310/celestial-library"
+          },
+          {
+            "accessMethod": "web_search_result",
+            "claim": "Moon/celestial printable sets exist as instant downloads (competition)",
+            "excerpt": "12 Moon Aesthetic Printable Wall Art Posters... 300 DPI PDF",
+            "id": "e9",
+            "intent": "none",
+            "kind": "observed",
+            "publishedAt": null,
+            "publisher": "Getly",
+            "retrievedAt": "2026-10-04T23:58:00Z",
+            "signalType": "marketplace",
+            "syndicationOf": null,
+            "title": "12 moon aesthetic printable wall art posters A4 300 DPI",
+            "url": "https://www.getly.store/product/12-moon-aesthetic-printable-wall-art-posters-a4-300-dpi-instant-download"
+          }
+        ],
+        "gap": {
+          "isInference": true,
+          "text": "The open space is a tight fall/Halloween whimsigoth set in a real jewel-tone palette (plum, peacock, antique gold), sold as a coordinated gallery wall. Most supply is single moon prints or huge generic bundles."
+        },
+        "name": "Whimsigoth fall 2026 (sequel-driven revival)",
+        "observations": [
+          {
+            "asOf": "2026-09-13",
+            "evidence": "e1",
+            "isAbsolute": true,
+            "metric": "Domestic opening weekend box office (catalyst film)",
+            "note": "reported by AP; estimate; interest in the film, not decor demand",
+            "unit": "USD",
+            "value": 30000000
+          }
+        ],
+        "origin": {
+          "date": "2026-09-13",
+          "evidence": [
+            "e1",
+            "e2"
+          ],
+          "text": "Whimsigoth is a 1990s aesthetic, documented on Wikipedia. The current surge dates from fall-trend coverage (Inman, Sept 11) and the sequel's #1 opening (reported Sept 13, 2026)."
+        },
+        "productDemand": {
+          "evidence": [
+            "e1",
+            "e3"
+          ],
+          "text": "Ticket sales show interest in the film, not demand for decor. Editorial shopping guides are supply. No direct evidence of decor purchases tied to the trend was found."
+        },
+        "products": [
+          {
+            "buyer": "Women 20-45 decorating for fall and Halloween in a moody, romantic witchy style",
+            "channels": [
+              "Etsy",
+              "Pinterest",
+              "TikTok"
+            ],
+            "continueIf": "At least 5 sales by Oct 31",
+            "differentiation": "A tight 9-print gallery wall in one jewel-tone palette with a layout guide, rather than single moon prints or 100-file dumps",
+            "effort": "low",
+            "effortHours": 8,
+            "evidence": [
+              "e2",
+              "e4",
+              "e5"
+            ],
+            "format": "printable",
+            "fulfillment": "digital",
+            "leadTimeDays": 2,
+            "pivotIf": "Favorites but few sales: split into 3-print sets at $5 and add a winter-solstice version",
+            "playbook": {
+              "assembly": [
+                "Generate the 9 prints and upscale to 300 DPI at the largest size",
+                "Set up Canva designs per ratio; place art with safe margins; add text for print 9 using pairing A",
+                "Create the layout guide pages with frame-size maps (US Letter and A4)",
+                "Export PDF Print 300 DPI and JPG; name files by print number and ratio",
+                "Zip by ratio, keeping each under 20 MB; add the instructions PDF",
+                "Make 6 listing images: gallery mockup, 9-up grid, close-up details, layout guide, sizes chart, what's included",
+                "Film 3 short videos from the scripts (layout reveal, print-and-frame, close-up pan)"
+              ],
+              "asymmetry": {
+                "badBetIf": "The listing is not indexed before about Oct 20, or competition buries it; this is not a high-asymmetry bet because supply is heavy",
+                "downside": "About 8 hours and under $1 in fees (ads optional, max $7)",
+                "upside": "Seasonal sales now plus an evergreen witchy/celestial tail; the set reuses into stickers and wallpapers"
+              },
+              "costs": {
+                "baseCost": null,
+                "basis": "estimate: digital, Etsy fees only",
+                "item": null,
+                "provider": null,
+                "shipping": null,
+                "testBudget": 0,
+                "testBudgetNote": "No ads unless organic views exceed 100 in week 1; then at most $1/day for 7 days"
+              },
+              "extensions": [
+                "Winter solstice whimsigoth set",
+                "Sticker sheet of the motifs",
+                "Whimsigoth phone wallpapers",
+                "Planner/journal covers"
+              ],
+              "imagePrompts": [
+                {
+                  "prompt": "Vintage-style illustration of a serene crescent moon with a sleeping face, surrounded by an ornate antique gold #B8913A filigree frame, deep plum velvet background #4B2142 with tiny cream stars #EFE4CF, 90s whimsical gothic mood, subtle engraving texture, no text, 2:3 aspect ratio. No logos, no real people, no trademarked characters, no watermarks.",
+                  "purpose": "Print 1 crescent moon",
+                  "tool": "Midjourney or Ideogram"
+                },
+                {
+                  "prompt": "Moody apothecary shelf with glass jars of dried herbs, small hand-lettered labels reading exactly 'Lavender', 'Rosemary', 'Moonwater', 'Sage', candlelight, peacock teal #1F5C5C wall, gold accents #B8913A, painterly, 4:5 aspect ratio. No logos, no real people, no trademarked characters, no watermarks.",
+                  "purpose": "Print 2 apothecary shelf",
+                  "tool": "Ideogram"
+                },
+                {
+                  "prompt": "Original tarot-style card design titled exactly 'The Lantern' at the bottom, a cloaked figure's hand holding a glowing lantern in a starry forest, art nouveau border in antique gold #B8913A on midnight #1A1A2E, invented design not based on any existing deck, 2:3 aspect ratio. No logos, no real people, no trademarked characters, no watermarks.",
+                  "purpose": "Print 5 original tarot-style card",
+                  "tool": "Ideogram"
+                },
+                {
+                  "prompt": "Dark plum painted wall #4B2142 with nine mismatched vintage gold and black frames in a salon arrangement above a velvet sofa, candles and dried flowers, warm evening light, photographic, 4:5 aspect ratio, frames blank for compositing. No logos, no real people, no trademarked characters, no watermarks.",
+                  "purpose": "Gallery wall mockup",
+                  "tool": "Canva mockup or Midjourney"
+                }
+              ],
+              "listingPrompt": "Write an Etsy listing for a digital download: 9 printable whimsigoth gallery wall prints in jewel tones (plum, peacock, antique gold) with a layout guide. Title under 140 characters, starting with 'Whimsigoth Gallery Wall Set of 9'. 13 tags of 20 characters or fewer (e.g. whimsigoth decor, celestial wall art, witchy print set, dark academia art, moon print). Description: what's included, sizes and ratios, PDF/JPG 300 DPI, instant download and nothing ships, printing and framing tips, and a FAQ (print shops, color differences, personal use only). Do NOT mention any movie, TV show, book, character, actor or trademarked term, and do not imply affiliation with any film.",
+              "marketing": {
+                "channels": [
+                  {
+                    "cadence": "2-3 pins daily",
+                    "channel": "Pinterest",
+                    "tactic": "Gallery wall and single-print pins on fall decor keywords"
+                  },
+                  {
+                    "cadence": "3 per week through Oct 31",
+                    "channel": "TikTok/Instagram Reels",
+                    "tactic": "Wall reveal, close-up pans, 'print tonight for Halloween'"
+                  }
+                ],
+                "hooks": [
+                  "Your whimsigoth wall in one download",
+                  "Print it tonight, hang it before Halloween",
+                  "90s witchy energy, jewel-tone edition"
+                ],
+                "keywords": [
+                  "whimsigoth decor",
+                  "celestial wall art",
+                  "witchy gallery wall",
+                  "moon print set",
+                  "dark romantic decor",
+                  "fall printable art"
+                ],
+                "launchPlan": [
+                  {
+                    "action": "Publish listing on Etsy (aim for Oct 6-8)",
+                    "day": "Day 0"
+                  },
+                  {
+                    "action": "10 pins: mockup, grid, each print",
+                    "day": "Day 1"
+                  },
+                  {
+                    "action": "TikTok/Reel: gallery wall reveal",
+                    "day": "Day 2"
+                  },
+                  {
+                    "action": "10 more pins with room-specific titles",
+                    "day": "Day 4"
+                  },
+                  {
+                    "action": "Second video: print-and-frame process",
+                    "day": "Day 6"
+                  },
+                  {
+                    "action": "Review views; consider $1/day Etsy Ads for 7 days only if 100+ organic views",
+                    "day": "Day 7"
+                  },
+                  {
+                    "action": "Release a 3-print mini set at $5",
+                    "day": "Day 12"
+                  },
+                  {
+                    "action": "Last-minute Halloween push: 'print tonight' pins and video",
+                    "day": "Day 18"
+                  },
+                  {
+                    "action": "Go/pivot/stop: continue (add winter-solstice set) at 5+ sales; pivot to mini sets if favorites only; stop under 100 views",
+                    "day": "Day 25"
+                  }
+                ],
+                "positioning": "A curated, jewel-tone whimsigoth wall in one download, ready before Halloween"
+              },
+              "platforms": [
+                {
+                  "name": "Etsy",
+                  "role": "primary",
+                  "why": "Heavy seasonal search for witchy/celestial printables"
+                },
+                {
+                  "name": "Pinterest",
+                  "role": "traffic",
+                  "why": "Fall and Halloween decor boards peak now"
+                },
+                {
+                  "name": "TikTok",
+                  "role": "traffic",
+                  "why": "Gallery wall reveals perform well"
+                }
+              ],
+              "pricing": {
+                "basis": "estimate",
+                "currency": "USD",
+                "high": 19,
+                "low": 9,
+                "rationale": "A 9-print curated set sits above single prints but below large bundles; seasonal urgency supports $14",
+                "recommended": 14
+              },
+              "productName": "Velvet Moon Whimsigoth Gallery Wall (9 prints)",
+              "risks": [
+                "High competition",
+                "Late in the Halloween season",
+                "Accidental IP drift (film references in tags)"
+              ],
+              "superPrompt": "You are an illustrator and art director creating a sellable printable gallery-wall set in the whimsigoth aesthetic: 90s whimsical gothic, romantic and celestial, jewel-toned, slightly vintage. BUYER: women aged 20-45 decorating for fall and Halloween who want a moody, magical wall without buying framed art. JOB: a cohesive 9-print gallery wall they can print at home or at a print shop this week. DELIVERABLE: 9 prints plus a layout guide. For each print give: title, concept, a full image-generation prompt, composition notes, and any text. Print 1: crescent moon with a serene face in an ornate gold frame motif. Print 2: apothecary shelf with labeled jars (labels read only: Lavender, Rosemary, Moonwater, Sage). Print 3: celestial chart of original invented constellations. Print 4: velvet-dark botanical of foxglove and ivy. Print 5: an original tarot-style card titled 'The Lantern' (invented, not from any published deck). Print 6: a candle-lit window with stars. Print 7: a black cat silhouette on a crescent moon. Print 8: moon phases strip. Print 9: a small typographic print reading 'stay a little magic'. SIZES: 2:3, 3:4, 4:5, 11x14 in, ISO A-series, all 300 DPI; layout guide on US Letter and A4. PALETTE: Plum Velvet #4B2142, Peacock #1F5C5C, Antique Gold #B8913A, Midnight #1A1A2E, Candle Cream #EFE4CF, Rosewood #8C3B4A. FONTS (Canva): pairing A, Cinzel Decorative headings with Cormorant Garamond body; pairing B, IM Fell English with EB Garamond. CONTENT RULES: everything original. Do not reference any film, TV show, book, character, house or quote. Do not copy any published tarot deck. Herb names must be real plants. No occult claims or promises. DIFFERENTIATION: one jewel-tone palette across 9 prints with a layout guide and frame-size map, so the wall looks curated. RIGHTS: no film titles, names, stills, or recognizable sets; no logos; no real people. OUTPUT: Section 1, set overview. Sections 2-10, one per print. Section 11, a layout guide with 3 arrangements (3x3 grid, salon-style, mantel trio) with frame sizes. Section 12, a 'printing tips' page. Section 13, 3 short video scripts. SELF-CHECK: (1) no film or IP references anywhere, (2) the tarot card is invented, (3) palette hexes used consistently, (4) every print has all sizes, (5) the only text in the art is the jar labels, card title and print 9."
+            },
+            "rightsNote": "No film references in title, tags or art; original tarot-style imagery only",
+            "stopIf": "Under 100 views by Oct 20",
+            "theme": "Whimsigoth jewel-tone gallery wall set: celestial, apothecary and botanical prints",
+            "validationTest": "List the 9-print set by Oct 8; 20 Pinterest pins; 3 Reels/TikToks of the layout",
+            "whyBuy": "Instant, cheap way to get the season's witchy look on the wall before Halloween, as a set that matches"
+          }
+        ],
+        "recommendedAction": "prepare",
+        "rights": {
+          "note": "Never use the film title, character names, the house design, quotes or stills. 'Whimsigoth' is a generic aesthetic term. Keep all imagery original. Tarot imagery must be original, not a copy of a published deck.",
+          "risk": "medium"
+        },
+        "scores": {
+          "buyerIntent": {
+            "basis": "qualitative",
+            "rationale": "Editorial and shopping interest, no direct purchase data",
+            "score": 2
+          },
+          "durability": {
+            "basis": "qualitative",
+            "rationale": "Witchy/celestial decor is perennial",
+            "score": 4
+          },
+          "economics": {
+            "basis": "qualitative",
+            "rationale": "Digital, zero marginal cost",
+            "score": 4
+          },
+          "productFit": {
+            "basis": "qualitative",
+            "rationale": "Wall art and stickers fit the aesthetic perfectly",
+            "score": 5
+          },
+          "supplyGap": {
+            "basis": "qualitative",
+            "rationale": "Heavy celestial/witchy supply",
+            "score": 1
+          },
+          "timing": {
+            "basis": "reported",
+            "rationale": "Mainstream press is already on it; late for Halloween",
+            "score": 3
+          }
+        },
+        "spread": {
+          "evidence": [
+            "e2",
+            "e3",
+            "e4",
+            "e5",
+            "e6"
+          ],
+          "text": "Independent pickup across real-estate trade press, a national TV shopping segment, design press, fashion and gardening sites, all within about three weeks."
+        },
+        "summary": "The 90s whimsical-gothic aesthetic (velvet, celestial motifs, apothecary jars, jewel tones) is being pushed as fall 2026's top design trend after a witch-film sequel opened at #1 in September.",
+        "trajectory": {
+          "evidence": [
+            "e1",
+            "e4",
+            "e7"
+          ],
+          "stage": "early_growth",
+          "text": "Rising into Halloween with mainstream press support. The film got mixed reviews, so the aesthetic has to carry itself after October. Celestial and witchy decor has a long evergreen tail."
+        },
+        "unresolved": [
+          "Do Etsy/Pinterest show whimsigoth search spikes in October 2026?",
+          "Does interest hold after Halloween without the film?"
+        ],
+        "what": "Whimsigoth mixes dark gothic tones with romantic, celestial and botanical touches: jewel-tone velvet, moons and stars, dried herbs in jars, ornate frames. The aesthetic already existed. In September 2026, home, fashion and gardening press tied a fresh surge to a 90s witch-film sequel that opened #1 at the box office.",
+        "window": {
+          "endEstimate": null,
+          "estimate": "Peak now through Halloween; evergreen tail into winter",
+          "invalidators": [
+            "Film interest collapses after mixed reviews",
+            "Halloween demand ends before listings index"
+          ],
+          "reasoning": "Seasonal demand plus the film boost peaks by Oct 31. Witchy and celestial decor sells all year at lower volume.",
+          "seasonality": "September-October peak; secondary bump at winter solstice",
+          "sellBy": "2026-10-24"
+        }
+      }
+    ],
+    "kind": "discover",
+    "lens": "First-spark hunt: new aesthetics and visual micro-trends",
+    "researchedAt": "2026-10-04T23:58:00Z",
+    "sourcesTried": [
+      {
+        "method": "web search",
+        "note": "~45 queries; primary evidence is search-result snippets",
+        "source": "WebSearch (extended/standard)",
+        "status": "ok"
+      },
+      {
+        "method": "WebFetch",
+        "note": "egress blocked",
+        "source": "newengen.com October/September TikTok trends",
+        "status": "blocked"
+      },
+      {
+        "method": "WebFetch",
+        "note": "egress blocked",
+        "source": "dumblittleman.com fall 2026 trends",
+        "status": "blocked"
+      },
+      {
+        "method": "WebFetch",
+        "note": "egress blocked",
+        "source": "nellyrodi.com TikTok beauty trends Oct 2026",
+        "status": "blocked"
+      },
+      {
+        "method": "WebFetch",
+        "note": "egress blocked; seen via search results only",
+        "source": "socialbee.com TikTok/Instagram trend roundups",
+        "status": "blocked"
+      },
+      {
+        "method": "WebFetch",
+        "note": "egress blocked",
+        "source": "epidemicsound.com TikTok trends",
+        "status": "blocked"
+      },
+      {
+        "method": "WebFetch",
+        "note": "egress blocked; search snippets used",
+        "source": "complex.com, hunker.com, apartmenttherapy.com (Celery coverage)",
+        "status": "blocked"
+      },
+      {
+        "method": "WebFetch",
+        "note": "egress blocked",
+        "source": "wgsn.com press release",
+        "status": "blocked"
+      },
+      {
+        "method": "WebFetch",
+        "note": "egress blocked",
+        "source": "today.com whimsy-maxxing",
+        "status": "blocked"
+      },
+      {
+        "method": "WebFetch",
+        "note": "egress blocked; search snippets used",
+        "source": "macrumors.com iOS 27 lock screen",
+        "status": "blocked"
+      },
+      {
+        "method": "WebFetch",
+        "note": "egress blocked",
+        "source": "drewandjonathan.com 2027 colors",
+        "status": "blocked"
+      },
+      {
+        "method": "web search",
+        "note": "no new aesthetic entries found for Sept 2026",
+        "source": "Know Your Meme (via search)",
+        "status": "ok"
+      },
+      {
+        "method": "web search",
+        "note": "titles only; no view counts readable",
+        "source": "TikTok discover pages",
+        "status": "ok"
+      },
+      {
+        "method": "web search",
+        "note": "market/listing URLs seen in results; not fetched, no counts",
+        "source": "Etsy",
+        "status": "ok"
+      },
+      {
+        "method": "not attempted directly",
+        "note": "typically blocked; no direct measurement",
+        "source": "Pinterest Trends, Google Trends, Reddit",
+        "status": "not_tried"
+      }
+    ]
+  },
+  "report": [
+    {
+      "errors": [],
+      "id": "whimsigoth-fall-2026-sequel-driven-revival",
+      "name": "Whimsigoth fall 2026 (sequel-driven revival)",
+      "status": "created",
+      "warnings": 0
+    }
+  ],
+  "runId": "run-hunt-aesthetics-20261004-3",
+  "status": "ingested"
+}

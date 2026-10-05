@@ -1,0 +1,19 @@
+{
+  "accessMethod": "web_search_result",
+  "candidateId": "needlepoint-revival",
+  "claim": "An app now tracks needlepoint projects, canvases, thread stash and shopping lists.",
+  "excerpt": "Search summary: track active and finished projects, thread inventory by brand/color, mark canvases as kitted.",
+  "firstRetrievedAt": "2026-10-04T20:53:53Z",
+  "firstSeenRunId": "run-2026-10-04-hobbies",
+  "id": "needlepoint-revival~10e0970f",
+  "intent": "utility",
+  "kind": "observed",
+  "lastSeenRunId": "run-2026-10-04-hobbies",
+  "publishedAt": null,
+  "publisher": "Apple App Store",
+  "retrievedAt": "2026-10-04T20:53:53Z",
+  "signalType": "marketplace",
+  "syndicationOf": null,
+  "title": "NeedlePointer",
+  "url": "https://apps.apple.com/bm/app/needlepointer/id6757410129"
+}

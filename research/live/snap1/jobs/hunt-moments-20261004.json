@@ -1,0 +1,102 @@
+{
+  "candidateId": null,
+  "createdAt": "2026-10-04T23:49:30Z",
+  "dispatch": {
+    "at": "2026-10-04T23:49:30Z",
+    "status": "sent"
+  },
+  "error": "All page fetches were blocked by the network egress policy, so every source was seen only as a search-result snippet or summary; several attributions (e.g. the coloring-calendar out-of-stock status and the Etsy 2.9k-sales figure) come from search summaries and are not verified on the page. Etsy, TikTok and Pinterest could not be checked directly for competition counts.",
+  "finishedAt": "2026-10-05T00:03:30Z",
+  "id": "hunt-moments-20261004",
+  "input": "First-spark hunt: upcoming Nov–Dec 2026 cultural moments (original angles only)",
+  "inputKind": null,
+  "key": "discover:hunt-moments-20261004",
+  "progress": "Finished: 4 candidates written to inbox",
+  "result": null,
+  "sourcesTried": [
+    {
+      "method": "web search",
+      "note": "~45 queries across holidays, gifting formats, word-of-the-year, TikTok/Instagram trend roundups; all evidence below comes from search-result snippets",
+      "source": "WebSearch (standard and extended)",
+      "status": "ok"
+    },
+    {
+      "method": "WebFetch",
+      "note": "egress proxy blocks the domain",
+      "source": "klfy.com (Dipsgiving article)",
+      "status": "blocked"
+    },
+    {
+      "method": "WebFetch",
+      "note": "egress proxy",
+      "source": "insightagent.app (Etsy fall trend report 2026)",
+      "status": "blocked"
+    },
+    {
+      "method": "WebFetch",
+      "note": "egress proxy",
+      "source": "blog.pressloft.com (Christmas 2026 trends)",
+      "status": "blocked"
+    },
+    {
+      "method": "WebFetch",
+      "note": "egress proxy",
+      "source": "newengen.com (October 2026 TikTok trends)",
+      "status": "blocked"
+    },
+    {
+      "method": "WebFetch",
+      "note": "egress proxy",
+      "source": "napoleoncat.com (October 2026 TikTok trends)",
+      "status": "blocked"
+    },
+    {
+      "method": "WebFetch",
+      "note": "egress proxy",
+      "source": "ramd.am (TikTok/Instagram trend roundups)",
+      "status": "blocked"
+    },
+    {
+      "method": "WebFetch",
+      "note": "egress proxy",
+      "source": "socialbee.com (Sept 29 2026 TikTok trends)",
+      "status": "blocked"
+    },
+    {
+      "method": "WebFetch",
+      "note": "egress proxy",
+      "source": "epidemicsound.com (latest TikTok trends)",
+      "status": "blocked"
+    },
+    {
+      "method": "direct fetch",
+      "note": "network policy blocks most direct fetches; seen only as search-result titles",
+      "source": "TikTok, Etsy, Pinterest, Reddit, Google Trends",
+      "status": "not_tried"
+    }
+  ],
+  "startedAt": "2026-10-04T23:52:00Z",
+  "status": "partial",
+  "steps": [
+    {
+      "label": "Queued",
+      "status": "done"
+    },
+    {
+      "label": "Searching",
+      "status": "done"
+    },
+    {
+      "label": "Verifying sources",
+      "status": "done"
+    },
+    {
+      "label": "Writing results",
+      "status": "done"
+    }
+  ],
+  "summary": "Screened 30 in Nov-Dec 2026 cultural moments; filed 4 (2 first spark, 2 early growth).",
+  "topicKey": null,
+  "type": "discover",
+  "updatedAt": "2026-10-05T00:03:30Z"
+}

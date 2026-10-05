@@ -1,0 +1,528 @@
+[
+ {
+  "op": "update",
+  "collection": "inbox",
+  "doc_id": "hunt-communities-20261004-1",
+  "if_version": 1,
+  "data": {
+   "status": "ingested",
+   "processedAt": "2026-10-05T13:00:00Z",
+   "report": [
+    {
+     "id": "campus-and-city-offline-club-phone-free-socials",
+     "name": "Campus and city 'Offline Club' phone-free socials",
+     "status": "created",
+     "errors": [],
+     "warnings": 0
+    }
+   ]
+  }
+ },
+ {
+  "op": "update",
+  "collection": "inbox",
+  "doc_id": "hunt-communities-20261004-2",
+  "if_version": 1,
+  "data": {
+   "status": "ingested",
+   "processedAt": "2026-10-05T13:00:00Z",
+   "report": [
+    {
+     "id": "backgammon-social-club-revival-among-young-adults",
+     "name": "Backgammon social-club revival among young adults",
+     "status": "created",
+     "errors": [],
+     "warnings": 0
+    }
+   ]
+  }
+ },
+ {
+  "op": "update",
+  "collection": "inbox",
+  "doc_id": "hunt-communities-20261004-3",
+  "if_version": 1,
+  "data": {
+   "status": "ingested",
+   "processedAt": "2026-10-05T13:00:00Z",
+   "report": [
+    {
+     "id": "gen-z-birding-and-college-bird-clubs",
+     "name": "Gen Z birding and college bird clubs",
+     "status": "created",
+     "errors": [],
+     "warnings": 0
+    }
+   ]
+  }
+ },
+ {
+  "op": "update",
+  "collection": "inbox",
+  "doc_id": "hunt-communities-20261004-4",
+  "if_version": 1,
+  "data": {
+   "status": "ingested",
+   "processedAt": "2026-10-05T13:00:00Z",
+   "report": [
+    {
+     "id": "toolbelt-generation-gen-z-skilled-trades-apprentices",
+     "name": "'Toolbelt generation': Gen Z skilled-trades apprentices",
+     "status": "created",
+     "errors": [],
+     "warnings": 0
+    }
+   ]
+  }
+ },
+ {
+  "op": "update",
+  "collection": "inbox",
+  "doc_id": "hunt-moments-20261004-1",
+  "if_version": 1,
+  "data": {
+   "status": "ingested",
+   "processedAt": "2026-10-05T13:00:00Z",
+   "report": [
+    {
+     "id": "gold-star-behaviour-holiday-edition",
+     "name": "Gold Star Behaviour (holiday edition)",
+     "status": "created",
+     "errors": [],
+     "warnings": 0
+    }
+   ]
+  }
+ },
+ {
+  "op": "update",
+  "collection": "inbox",
+  "doc_id": "hunt-moments-20261004-2",
+  "if_version": 1,
+  "data": {
+   "status": "ingested",
+   "processedAt": "2026-10-05T13:00:00Z",
+   "report": [
+    {
+     "id": "2016-themed-holiday-parties-2016-friendsgiving",
+     "name": "2016-themed holiday parties (2016 Friendsgiving)",
+     "status": "created",
+     "errors": [],
+     "warnings": 0
+    }
+   ]
+  }
+ },
+ {
+  "op": "update",
+  "collection": "inbox",
+  "doc_id": "hunt-moments-20261004-3",
+  "if_version": 1,
+  "data": {
+   "status": "ingested",
+   "processedAt": "2026-10-05T13:00:00Z",
+   "report": [
+    {
+     "id": "coloring-advent-calendars-cozy-coloring-countdown",
+     "name": "Coloring advent calendars (cozy coloring countdown)",
+     "status": "created",
+     "errors": [],
+     "warnings": 0
+    }
+   ]
+  }
+ },
+ {
+  "op": "update",
+  "collection": "inbox",
+  "doc_id": "hunt-moments-20261004-4",
+  "if_version": 1,
+  "data": {
+   "status": "ingested",
+   "processedAt": "2026-10-05T13:00:00Z",
+   "report": [
+    {
+     "id": "pto-maxxing-for-2027-year-end-pto-planning",
+     "name": "PTO-maxxing for 2027 (year-end PTO planning)",
+     "status": "created",
+     "errors": [],
+     "warnings": 0
+    }
+   ]
+  }
+ },
+ {
+  "op": "update",
+  "collection": "inbox",
+  "doc_id": "hunt-newyear-20261004-1",
+  "if_version": 1,
+  "data": {
+   "status": "ingested",
+   "processedAt": "2026-10-05T13:00:00Z",
+   "report": [
+    {
+     "id": "hobbymaxxing",
+     "name": "Hobbymaxxing",
+     "status": "created",
+     "errors": [],
+     "warnings": 0
+    }
+   ]
+  }
+ },
+ {
+  "op": "update",
+  "collection": "inbox",
+  "doc_id": "hunt-newyear-20261004-2",
+  "if_version": 1,
+  "data": {
+   "status": "ingested",
+   "processedAt": "2026-10-05T13:00:00Z",
+   "report": [
+    {
+     "id": "hobbyamory",
+     "name": "Hobbyamory",
+     "status": "created",
+     "errors": [],
+     "warnings": 0
+    }
+   ]
+  }
+ },
+ {
+  "op": "update",
+  "collection": "inbox",
+  "doc_id": "hunt-newyear-20261004-3",
+  "if_version": 1,
+  "data": {
+   "status": "ingested",
+   "processedAt": "2026-10-05T13:00:00Z",
+   "report": [
+    {
+     "id": "counter-maxxing-good-enough-anti-optimization",
+     "name": "Counter-maxxing ('good enough' anti-optimization)",
+     "status": "created",
+     "errors": [],
+     "warnings": 0
+    }
+   ]
+  }
+ },
+ {
+  "op": "update",
+  "collection": "inbox",
+  "doc_id": "hunt-newyear-20261004-4",
+  "if_version": 1,
+  "data": {
+   "status": "ingested",
+   "processedAt": "2026-10-05T13:00:00Z",
+   "report": [
+    {
+     "id": "goal-punch-cards-2027-cycle",
+     "name": "Goal punch cards (2027 cycle)",
+     "status": "created",
+     "errors": [],
+     "warnings": 0
+    }
+   ]
+  }
+ },
+ {
+  "op": "update",
+  "collection": "inbox",
+  "doc_id": "hunt-tech-20261004-1",
+  "if_version": 1,
+  "data": {
+   "status": "ingested",
+   "processedAt": "2026-10-05T13:00:00Z",
+   "report": [
+    {
+     "id": "built-in-teleprompter-scripted-videos",
+     "name": "Built-in Teleprompter Scripted Videos",
+     "status": "created",
+     "errors": [],
+     "warnings": 0
+    }
+   ]
+  }
+ },
+ {
+  "op": "update",
+  "collection": "inbox",
+  "doc_id": "hunt-tech-20261004-2",
+  "if_version": 1,
+  "data": {
+   "status": "ingested",
+   "processedAt": "2026-10-05T13:00:00Z",
+   "report": [
+    {
+     "id": "category-screen-time-allowances-new-kids-device-controls",
+     "name": "Category Screen-Time Allowances (New Kids' Device Controls)",
+     "status": "created",
+     "errors": [],
+     "warnings": 0
+    }
+   ]
+  }
+ },
+ {
+  "op": "update",
+  "collection": "inbox",
+  "doc_id": "hunt-tech-20261004-3",
+  "if_version": 1,
+  "data": {
+   "status": "ingested",
+   "processedAt": "2026-10-05T13:00:00Z",
+   "report": [
+    {
+     "id": "kids-landline-phones",
+     "name": "Kids' Landline Phones",
+     "status": "created",
+     "errors": [],
+     "warnings": 0
+    }
+   ]
+  }
+ },
+ {
+  "op": "update",
+  "collection": "inbox",
+  "doc_id": "hunt-tech-20261004-4",
+  "if_version": 1,
+  "data": {
+   "status": "ingested",
+   "processedAt": "2026-10-05T13:00:00Z",
+   "report": [
+    {
+     "id": "30-day-phone-free-challenge-cohorts",
+     "name": "30-Day Phone-Free Challenge Cohorts",
+     "status": "created",
+     "errors": [],
+     "warnings": 0
+    }
+   ]
+  }
+ },
+ {
+  "op": "update",
+  "collection": "jobs",
+  "doc_id": "hunt-communities-20261004",
+  "if_version": 4,
+  "data": {
+   "ingest": {
+    "status": "ingested",
+    "at": "2026-10-05T13:00:00Z",
+    "candidates": [
+     {
+      "id": "campus-and-city-offline-club-phone-free-socials",
+      "name": "Campus and city 'Offline Club' phone-free socials",
+      "status": "created",
+      "errors": [],
+      "warnings": 0
+     },
+     {
+      "id": "backgammon-social-club-revival-among-young-adults",
+      "name": "Backgammon social-club revival among young adults",
+      "status": "created",
+      "errors": [],
+      "warnings": 0
+     },
+     {
+      "id": "gen-z-birding-and-college-bird-clubs",
+      "name": "Gen Z birding and college bird clubs",
+      "status": "created",
+      "errors": [],
+      "warnings": 0
+     },
+     {
+      "id": "toolbelt-generation-gen-z-skilled-trades-apprentices",
+      "name": "'Toolbelt generation': Gen Z skilled-trades apprentices",
+      "status": "created",
+      "errors": [],
+      "warnings": 0
+     }
+    ]
+   },
+   "resultCandidateIds": [
+    "campus-and-city-offline-club-phone-free-socials",
+    "backgammon-social-club-revival-among-young-adults",
+    "gen-z-birding-and-college-bird-clubs",
+    "toolbelt-generation-gen-z-skilled-trades-apprentices"
+   ]
+  }
+ },
+ {
+  "op": "update",
+  "collection": "jobs",
+  "doc_id": "hunt-moments-20261004",
+  "if_version": 4,
+  "data": {
+   "ingest": {
+    "status": "ingested",
+    "at": "2026-10-05T13:00:00Z",
+    "candidates": [
+     {
+      "id": "gold-star-behaviour-holiday-edition",
+      "name": "Gold Star Behaviour (holiday edition)",
+      "status": "created",
+      "errors": [],
+      "warnings": 0
+     },
+     {
+      "id": "2016-themed-holiday-parties-2016-friendsgiving",
+      "name": "2016-themed holiday parties (2016 Friendsgiving)",
+      "status": "created",
+      "errors": [],
+      "warnings": 0
+     },
+     {
+      "id": "coloring-advent-calendars-cozy-coloring-countdown",
+      "name": "Coloring advent calendars (cozy coloring countdown)",
+      "status": "created",
+      "errors": [],
+      "warnings": 0
+     },
+     {
+      "id": "pto-maxxing-for-2027-year-end-pto-planning",
+      "name": "PTO-maxxing for 2027 (year-end PTO planning)",
+      "status": "created",
+      "errors": [],
+      "warnings": 0
+     }
+    ]
+   },
+   "resultCandidateIds": [
+    "gold-star-behaviour-holiday-edition",
+    "2016-themed-holiday-parties-2016-friendsgiving",
+    "coloring-advent-calendars-cozy-coloring-countdown",
+    "pto-maxxing-for-2027-year-end-pto-planning"
+   ]
+  }
+ },
+ {
+  "op": "update",
+  "collection": "jobs",
+  "doc_id": "hunt-newyear-20261004",
+  "if_version": 4,
+  "data": {
+   "ingest": {
+    "status": "ingested",
+    "at": "2026-10-05T13:00:00Z",
+    "candidates": [
+     {
+      "id": "hobbymaxxing",
+      "name": "Hobbymaxxing",
+      "status": "created",
+      "errors": [],
+      "warnings": 0
+     },
+     {
+      "id": "hobbyamory",
+      "name": "Hobbyamory",
+      "status": "created",
+      "errors": [],
+      "warnings": 0
+     },
+     {
+      "id": "counter-maxxing-good-enough-anti-optimization",
+      "name": "Counter-maxxing ('good enough' anti-optimization)",
+      "status": "created",
+      "errors": [],
+      "warnings": 0
+     },
+     {
+      "id": "goal-punch-cards-2027-cycle",
+      "name": "Goal punch cards (2027 cycle)",
+      "status": "created",
+      "errors": [],
+      "warnings": 0
+     }
+    ]
+   },
+   "resultCandidateIds": [
+    "hobbymaxxing",
+    "hobbyamory",
+    "counter-maxxing-good-enough-anti-optimization",
+    "goal-punch-cards-2027-cycle"
+   ]
+  }
+ },
+ {
+  "op": "update",
+  "collection": "jobs",
+  "doc_id": "hunt-tech-20261004",
+  "if_version": 5,
+  "data": {
+   "ingest": {
+    "status": "ingested",
+    "at": "2026-10-05T13:00:00Z",
+    "candidates": [
+     {
+      "id": "built-in-teleprompter-scripted-videos",
+      "name": "Built-in Teleprompter Scripted Videos",
+      "status": "created",
+      "errors": [],
+      "warnings": 0
+     },
+     {
+      "id": "category-screen-time-allowances-new-kids-device-controls",
+      "name": "Category Screen-Time Allowances (New Kids' Device Controls)",
+      "status": "created",
+      "errors": [],
+      "warnings": 0
+     },
+     {
+      "id": "kids-landline-phones",
+      "name": "Kids' Landline Phones",
+      "status": "created",
+      "errors": [],
+      "warnings": 0
+     },
+     {
+      "id": "30-day-phone-free-challenge-cohorts",
+      "name": "30-Day Phone-Free Challenge Cohorts",
+      "status": "created",
+      "errors": [],
+      "warnings": 0
+     }
+    ]
+   },
+   "resultCandidateIds": [
+    "built-in-teleprompter-scripted-videos",
+    "category-screen-time-allowances-new-kids-device-controls",
+    "kids-landline-phones",
+    "30-day-phone-free-challenge-cohorts"
+   ]
+  }
+ },
+ {
+  "op": "update",
+  "collection": "candidates",
+  "doc_id": "relax-pal",
+  "if_version": 1,
+  "data": {
+   "recommendedAction": "pass",
+   "rights": {
+    "risk": "high",
+    "note": "The phrase is common English, but the meme's origin is a local news clip of a private university student during coverage of a hazing case with injured students. Selling merchandise built on that clip profits from a private person caught in a criminal story. Never use the student's image, the footage, the station, the university or Greek letters."
+   },
+   "actionRationale": "Pass. The phrase is generic, but the joke depends on a private student filmed during hazing-arrest coverage. Profiting from that moment is not worth the ethical and reputational risk, and the meme is likely to fade within weeks.",
+   "editorialNotes": [
+    "Changed to Pass with high rights risk at editorial review: the meme's subject is a private individual filmed during coverage of a hazing case in which students were injured. The earlier memes screen had already rejected it for this reason."
+   ]
+  }
+ },
+ {
+  "op": "update",
+  "collection": "candidates",
+  "doc_id": "bedazzle-everything-gem-maxxing",
+  "if_version": 1,
+  "data": {
+   "duplicateOf": "whimsymaxxing-bedazzle-everything-diy",
+   "duplicateNote": "Same trend: gluing rhinestones onto everyday objects, found separately by two hunts.",
+   "editorialNotes": [
+    "Merged into 'Whimsymaxxing: bedazzle-everything DIY' as a duplicate. Two hunts found the same rhinestone-everything trend; its sources now count toward that record."
+   ]
+  }
+ }
+]

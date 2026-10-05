@@ -1,0 +1,122 @@
+{
+  "candidateId": null,
+  "createdAt": "2026-10-04T23:49:30Z",
+  "dispatch": {
+    "at": "2026-10-04T23:49:30Z",
+    "status": "sent"
+  },
+  "error": "All page fetches (Know Your Meme, meme.com, trend blogs, news sites) were blocked by the egress proxy, so evidence comes from search-result snippets only; no direct marketplace checks, so competition levels are search-based, not counts.",
+  "finishedAt": "2026-10-05T00:00:59Z",
+  "id": "hunt-memes-20261004",
+  "ingest": {
+    "at": "2026-10-05T00:01:20.288Z",
+    "candidates": [
+      {
+        "errors": [],
+        "id": "relax-pal",
+        "name": "Relax, Pal",
+        "status": "created",
+        "warnings": 0
+      },
+      {
+        "errors": [],
+        "id": "things-to-say-ironic-advice-lists",
+        "name": "Things To Say (ironic advice lists)",
+        "status": "created",
+        "warnings": 0
+      },
+      {
+        "errors": [],
+        "id": "chile-memes-everything-is-narrow",
+        "name": "Chile memes (everything is narrow)",
+        "status": "created",
+        "warnings": 0
+      }
+    ],
+    "status": "ingested"
+  },
+  "input": "First-spark hunt: memes, phrases and slang (last 3 weeks)",
+  "inputKind": null,
+  "key": "discover:hunt-memes-20261004",
+  "progress": "Done",
+  "result": null,
+  "resultCandidateIds": [
+    "relax-pal",
+    "things-to-say-ironic-advice-lists",
+    "chile-memes-everything-is-narrow"
+  ],
+  "sourcesTried": [
+    {
+      "method": "WebFetch + WebSearch",
+      "note": "knowyourmeme.com blocked by egress proxy; used search-result snippets only",
+      "source": "Know Your Meme (entries, weekly roundups, Meme of the Month)",
+      "status": "blocked"
+    },
+    {
+      "method": "WebFetch",
+      "note": "egress blocked; snippets only",
+      "source": "meme.com explainers",
+      "status": "blocked"
+    },
+    {
+      "method": "WebFetch",
+      "note": "egress blocked; snippets only",
+      "source": "newengen.com TikTok/Instagram trend pages",
+      "status": "blocked"
+    },
+    {
+      "method": "WebFetch",
+      "note": "egress blocked",
+      "source": "pepperagency.com October 2026 trends",
+      "status": "blocked"
+    },
+    {
+      "method": "WebFetch",
+      "note": "egress blocked; snippets only",
+      "source": "thunderdungeon.com, thebrewnews.com (Chile memes)",
+      "status": "blocked"
+    },
+    {
+      "method": "WebSearch",
+      "note": "about 45 queries; primary evidence channel",
+      "source": "WebSearch (extended/standard) across trend roundups, slang explainers, KYM, Yahoo syndications, Euronews, Daily Dot",
+      "status": "ok"
+    },
+    {
+      "method": "WebSearch for merch terms",
+      "note": "no direct marketplace access; searched for listings via web search only, so supply counts are not measured",
+      "source": "Etsy / Redbubble / TikTok Shop supply checks",
+      "status": "ok"
+    },
+    {
+      "method": "not fetched",
+      "note": "typically blocked; only TikTok discover-page titles seen in search results",
+      "source": "TikTok, Reddit, X, Google Trends",
+      "status": "not_tried"
+    }
+  ],
+  "startedAt": "2026-10-04T23:51:00Z",
+  "status": "partial",
+  "steps": [
+    {
+      "label": "Queued",
+      "status": "done"
+    },
+    {
+      "label": "Searching",
+      "status": "done"
+    },
+    {
+      "label": "Verifying sources",
+      "status": "done"
+    },
+    {
+      "label": "Writing results",
+      "status": "done"
+    }
+  ],
+  "summary": "Screened 22 in memes, catchphrases and slang; filed 4 (2 first spark, 2 early growth).",
+  "topicKey": null,
+  "type": "discover",
+  "updatedAt": "2026-10-05T00:00:59Z"
+}

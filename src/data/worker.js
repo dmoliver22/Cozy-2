@@ -17,7 +17,25 @@ const MESSAGES = {
   capability_disabled: 'This view cannot reach connectors.',
   capability_removed: 'This view cannot reach connectors.',
   consent_required: 'Allow Claude Code Remote for this page, then try again.',
+  upstream_error: "claude.ai couldn't confirm the Claude Code Remote connector for this page just now. If it asks, approve the connector, then press Try again.",
 };
+
+const RETRY_CODES = ['upstream_error', 'server_unavailable'];
+const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
+
+/**
+ * Run a connector call, retrying once after a short wait when the failure is temporary
+ * (the error says retryable, or it is an upstream/availability hiccup).
+ */
+export async function withRetry(fn, { wait = sleep, maxWaitMs = 15000 } = {}) {
+  try {
+    return await fn();
+  } catch (e) {
+    if (!(e?.retryable || RETRY_CODES.includes(e?.code))) throw e;
+    await wait(Math.min(maxWaitMs, Math.max(1000, Number(e?.retryAfterMs) || 3000)));
+    return fn();
+  }
+}
 
 export function describeMcpError(e) {
   const code = e?.code || 'upstream_error';
@@ -33,7 +51,7 @@ export function createWorker(mcp) {
   return {
     available: !!mcp,
     /** Start the routine for one job. The job id is the only thing passed; the worker reads the job from the database. */
-    fire: (triggerId, jobId) => call('fire_trigger', { trigger_id: triggerId, text: `Trendjack job id: ${jobId}` }),
+    fire: (triggerId, jobId, opts) => withRetry(() => call('fire_trigger', { trigger_id: triggerId, text: `Trendjack job id: ${jobId}` }), opts),
     get: (triggerId) => call('get_trigger', { trigger_id: triggerId }),
     update: (triggerId, patch) => call('update_trigger', { trigger_id: triggerId, ...patch }),
   };

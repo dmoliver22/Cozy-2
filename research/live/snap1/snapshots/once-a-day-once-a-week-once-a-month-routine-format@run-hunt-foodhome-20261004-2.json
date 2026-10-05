@@ -1,0 +1,23 @@
+{
+  "action": "prepare",
+  "analystAction": "prepare",
+  "candidateId": "once-a-day-once-a-week-once-a-month-routine-format",
+  "competition": "high",
+  "confidence": 48,
+  "id": "once-a-day-once-a-week-once-a-month-routine-format~run-hunt-foodhome-20261004-2",
+  "independentSources": 7,
+  "purchaseSignals": 0,
+  "runId": "run-hunt-foodhome-20261004-2",
+  "score": 47,
+  "stage": "first_spark",
+  "takenAt": "2026-10-05T00:01:02Z",
+  "weightsUsed": {
+    "buyerIntent": 20,
+    "durability": 15,
+    "economics": 10,
+    "productFit": 15,
+    "supplyGap": 15,
+    "timing": 25
+  },
+  "windowEstimate": null
+}

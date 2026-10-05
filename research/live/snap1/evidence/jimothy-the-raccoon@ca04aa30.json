@@ -1,0 +1,19 @@
+{
+  "accessMethod": "web_search_result",
+  "candidateId": "jimothy-the-raccoon",
+  "claim": "A crypto exchange blog describes a meme coin tied to the raccoon video. This is speculation, not product demand.",
+  "excerpt": "Headline only; '52x' is the blog's claim, not verified.",
+  "firstRetrievedAt": "2026-10-04T20:57:55Z",
+  "firstSeenRunId": "run-2026-10-04-memes",
+  "id": "jimothy-the-raccoon~ca04aa30",
+  "intent": "none",
+  "kind": "observed",
+  "lastSeenRunId": "run-2026-10-04-memes",
+  "publishedAt": null,
+  "publisher": "Phemex Academy",
+  "retrievedAt": "2026-10-04T20:57:55Z",
+  "signalType": "press",
+  "syndicationOf": null,
+  "title": "Who Is Kiana Hall? The Raccoon Video Behind a 52x Meme Coin",
+  "url": "https://phemex.com/academy/kiana-hall-raccoon-meme-coin"
+}

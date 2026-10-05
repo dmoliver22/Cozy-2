@@ -1,0 +1,19 @@
+{
+  "accessMethod": "web_search_result",
+  "candidateId": "american-mahjong-boom",
+  "claim": "July 2026 shopping guide shows an established accessories/merch ecosystem.",
+  "excerpt": "Title/date only.",
+  "firstRetrievedAt": "2026-10-04T20:53:53Z",
+  "firstSeenRunId": "run-2026-10-04-hobbies",
+  "id": "american-mahjong-boom~a68ff073",
+  "intent": "none",
+  "kind": "observed",
+  "lastSeenRunId": "run-2026-10-04-hobbies",
+  "publishedAt": "2026-07-31",
+  "publisher": "The Nod",
+  "retrievedAt": "2026-10-04T20:53:53Z",
+  "signalType": "press",
+  "syndicationOf": null,
+  "title": "Mahjong accessories, tiles, bags, merch shopping guide",
+  "url": "https://thenodmag.com/content/mahjong-accessories-tiles-bags-merch-shopping-guide"
+}

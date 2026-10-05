@@ -1,0 +1,270 @@
+{
+  "actionRationale": "Evidence of demand comes from several independent sources: Pinterest-reported utility searches, a No. 1 film, and broad retail licensing. There is a credible original product angle (functional herb-pantry labels and a herb/recipe journal) that avoids the film's IP. Digital products can launch within days and still catch the autumn-to-Yule window. Test with digital only. Skip Halloween-specific designs and POD for Halloween.",
+  "adopters": {
+    "evidence": [
+      "kitchen-witch-aesthetic~d2e1f12c",
+      "kitchen-witch-aesthetic~0ccb2b16",
+      "kitchen-witch-aesthetic~4491f321",
+      "kitchen-witch-aesthetic~bdbe9627"
+    ],
+    "text": "Pinterest hobby users pursuing herbal crafts (herbal apothecary, spice blends, candle making); TikTok creators doing Practical Magic-inspired kitchen makeovers, including renters; nostalgic millennial fans of the 1998 film; whimsigoth and dark-cottage decor fans. Why they care: hands-on, offline hobbies plus a nostalgic, cozy seasonal look."
+  },
+  "aliases": [
+    "Kitchen Witch",
+    "witch's kitchen",
+    "cottage witch kitchen",
+    "Practical Magic aesthetic",
+    "hearth witch",
+    "whimsigoth (adjacent)",
+    "witchy apothecary",
+    "Kitchen Witch (Practical Magic 2-era witchy apothecary kitchen)"
+  ],
+  "category": "aesthetic",
+  "channels": [
+    "Etsy",
+    "Pinterest",
+    "Gumroad",
+    "Amazon KDP",
+    "Redbubble"
+  ],
+  "competition": {
+    "evidence": [
+      "kitchen-witch-aesthetic~08aa1605",
+      "kitchen-witch-aesthetic~928381a1",
+      "kitchen-witch-aesthetic~49f0b89f",
+      "kitchen-witch-aesthetic~db383d77"
+    ],
+    "level": "moderate",
+    "text": "Halloween-style potion/apothecary labels (Eye of Newt and similar) are already sold as downloads on Payhip and Etsy, and Practical Magic-inspired signs, pins, sweaters and prints exist. Licensed brands now hold the film-branded space. Counts could not be measured. The visible supply leans toward Halloween novelty and film references, not functional year-round herb/pantry systems."
+  },
+  "editorialNotes": [
+    "Editorial review 2026-10-04: Counted \"WWD\" with \"Pinterest Newsroom\" as one signal: restates the Pinterest Hobbies report data.",
+    "Editorial review 2026-10-04: Counted \"Yahoo Lifestyle\" with \"Pinterest Newsroom\" as one signal: restates the Pinterest Hobbies report data.",
+    "Editorial review 2026-10-04: Counted \"Deadline\" with \"ABC News (AP wire)\" as one signal: same box-office figure as the AP story.",
+    "Editorial review 2026-10-04: Counted \"TikTok (discover page)\" with \"TikTok (discover page)\" as one signal: the research already counted both TikTok discover pages as one social signal.",
+    "Editorial review 2026-10-04: Relabeled \"Fashionista\" from purchase intent to context only: brand partnerships show supply and licensing, not consumer purchases.",
+    "Editorial review 2026-10-04: Relabeled \"PureWow\" from purchase intent to context only: a licensed collection launching is supply.",
+    "Editorial review 2026-10-04: Relabeled \"Yahoo Shopping\" from purchase intent to context only: a licensed collection on discount is supply; discounting may even suggest slow sell-through.",
+    "Editorial review 2026-10-04: Relabeled \"Book Riot\" from purchase intent to context only: existing fan merch is supply.",
+    "Editorial review 2026-10-04: Relabeled \"Etsy (listing)\" from purchase intent to context only: an existing listing is supply.",
+    "Editorial review 2026-10-04: Relabeled \"Payhip\" from purchase intent to context only: existing printable labels are supply.",
+    "Editorial review 2026-10-04: Changed buyerIntent from 3 (qualitative) to 2 (qualitative): No consumer purchase evidence was found. Licensed collections and existing listings show supply; Pinterest's reported searches show hobby and utility interest (herbal apothecary, spice blends), which fits functional printables but is not proof of buying.",
+    "Editorial review 2026-10-04: Estimated window end set to the winter solstice (Dec 21), matching the research's 'autumn to Yule' reasoning. It is an estimate, not a deadline."
+  ],
+  "effortMin": "low",
+  "firstSeenAt": "2026-10-04T21:00:56.000Z",
+  "formats": [
+    "printable",
+    "journal",
+    "poster"
+  ],
+  "gap": {
+    "isInference": true,
+    "text": "An original, non-film, non-Halloween 'kitchen witch pantry' system: functional labels for real culinary herbs, spices, teas and homemade blends (plus editable blanks) in a vintage-apothecary look, paired with a herb/recipe 'grimoire' journal. This serves the utility searches (herbal apothecary, spice blends) and stays sellable after Oct 31 and as Yule/holiday gifts."
+  },
+  "id": "kitchen-witch-aesthetic",
+  "jobId": null,
+  "language": "en",
+  "lastRunId": "run-2026-10-04-aesthetics",
+  "lens": "Discovery scan: aesthetics & decor",
+  "name": "Kitchen Witch aesthetic",
+  "origin": {
+    "date": "2026-08-25",
+    "evidence": [
+      "kitchen-witch-aesthetic~d2e1f12c",
+      "kitchen-witch-aesthetic~5afb1d6b",
+      "kitchen-witch-aesthetic~685be181"
+    ],
+    "text": "Long-standing witchy/cottage-witch subculture and 1998 Practical Magic nostalgia. Pinterest named 'Kitchen Witch' in its 2026 Hobbies Trend Report (released around 2026-08-25, data May 2025 vs May 2026), shortly before Practical Magic 2 opened at No. 1 on the weekend of Sept 11-13, 2026."
+  },
+  "productDemand": {
+    "evidence": [
+      "kitchen-witch-aesthetic~d2e1f12c",
+      "kitchen-witch-aesthetic~2783aa90",
+      "kitchen-witch-aesthetic~c0c7b6cd",
+      "kitchen-witch-aesthetic~db383d77",
+      "kitchen-witch-aesthetic~08aa1605",
+      "kitchen-witch-aesthetic~928381a1"
+    ],
+    "text": "Purchase-adjacent signals: big retailers licensed decor and apparel (Wayfair, MacKenzie-Childs, Target), and fan goods sell on Etsy at $8 (digital prints) to $44 (sweaters). The Pinterest searches are utility/hobby intent ('herbal apothecary', 'homemade spice blends', 'candle making tutorial'), which fits functional printables like jar labels and recipe/herb journals. No sales figures were seen."
+  },
+  "products": [
+    {
+      "buyer": "Home cooks and herbal hobbyists (mostly US women 25-45) restyling open shelves or a spice cabinet in the witchy-cottage look",
+      "channels": [
+        "Etsy",
+        "Pinterest",
+        "Gumroad"
+      ],
+      "continueIf": "Pins earn saves/outbound clicks above your account baseline and the listing gets favorites plus at least a few sales within 21 days.",
+      "differentiation": "Functional and year-round (real ingredients, editable), not Halloween novelty labels like 'Eye of Newt'; no film references.",
+      "effort": "low",
+      "effortHours": 8,
+      "evidence": [
+        "kitchen-witch-aesthetic~d2e1f12c",
+        "kitchen-witch-aesthetic~0ccb2b16",
+        "kitchen-witch-aesthetic~4491f321",
+        "kitchen-witch-aesthetic~49f0b89f"
+      ],
+      "format": "printable",
+      "fulfillment": "digital",
+      "leadTimeDays": 2,
+      "pivotIf": "Pins get saves but no sales: try a free 12-label sampler as a lead magnet or bundle with the journal; or reposition as 'apothecary spice labels' without the witch framing.",
+      "rightsNote": "Original typography and ornament only; avoid film names, quotes and imagery; use public-domain or self-made botanical art.",
+      "stopIf": "Almost no impressions or saves after 21 days and 20+ pins, or clicks without conversions after two price/thumbnail changes.",
+      "theme": "'Kitchen Witch Pantry' apothecary label system: 60+ labels for real culinary herbs, spices, teas and homemade blends (rosemary, sage, chamomile, lavender, cinnamon, 'Hearth Blend'...), vintage-apothecary typography with moon and botanical ornament, plus editable blanks (Canva link + PDF) and round/rectangular sizes for mason and spice jars",
+      "validationTest": "Publish one Etsy listing and one Gumroad page, plus 10 Pinterest pins (styled shelf mockups) that link to them; run for 21 days.",
+      "whyBuy": "Matches the Pinterest utility searches ('herbal apothecary', homemade spice blends) and the labeled-jar look central to TikTok kitchen makeovers; still useful after Halloween."
+    },
+    {
+      "buyer": "Gift buyers for witchy, cottagecore or herb-loving friends (Yule/solstice and holiday gifts), and the hobbyists themselves",
+      "channels": [
+        "Amazon KDP",
+        "Etsy",
+        "Gumroad",
+        "Pinterest"
+      ],
+      "continueIf": "The PDF converts at least as well as the label set, or KDP shows organic sales by mid-November.",
+      "differentiation": "Practical recipe/herb log with an old-world look rather than a spell book; no film IP; content framed as culinary and traditional folklore.",
+      "effort": "medium",
+      "effortHours": 16,
+      "evidence": [
+        "kitchen-witch-aesthetic~d2e1f12c",
+        "kitchen-witch-aesthetic~0ccb2b16",
+        "kitchen-witch-aesthetic~931bdd29"
+      ],
+      "format": "journal",
+      "fulfillment": "pod",
+      "leadTimeDays": 5,
+      "pivotIf": "Buyers prefer the labels: fold journal pages into a larger 'Kitchen Witch Pantry' bundle.",
+      "rightsNote": "Write original herb notes; do not present herbs as remedies or promise effects; no film references.",
+      "stopIf": "No sales from either format by early December.",
+      "theme": "'Kitchen Grimoire' herb and recipe journal: herb profile pages (culinary use, harvest, storage), blend recipe cards, a seasonal 'wheel of the year' kitchen calendar, and pressed-flower pages; sold as a printable PDF and as an Amazon KDP paperback",
+      "validationTest": "Sell the printable PDF on Etsy first (instant) for two weeks; publish the KDP paperback in parallel by about mid-October so it is live for holiday shopping.",
+      "whyBuy": "Ties to Pinterest-reported spice-blend, candle and herbal-apothecary hobby searches; journal format suits holiday gifting."
+    },
+    {
+      "buyer": "Renters and homeowners styling a kitchen or coffee nook in the whimsigoth/kitchen-witch look",
+      "channels": [
+        "Etsy",
+        "Pinterest",
+        "Redbubble"
+      ],
+      "continueIf": "The bundle with prints sells as well as or better than labels alone.",
+      "differentiation": "Functional chart content (culinary pairings, harvest months) instead of a film-quote sign; consistent with the label set for cross-selling.",
+      "effort": "low",
+      "effortHours": 6,
+      "evidence": [
+        "kitchen-witch-aesthetic~84a7044e",
+        "kitchen-witch-aesthetic~4491f321",
+        "kitchen-witch-aesthetic~08aa1605"
+      ],
+      "format": "poster",
+      "fulfillment": "digital",
+      "leadTimeDays": 2,
+      "pivotIf": "Prints don't attach: offer them free as Pinterest-traffic bait.",
+      "rightsNote": "Use public-domain botanical illustrations (verify pre-1931 publication) or original art; no film imagery.",
+      "stopIf": "Zero standalone sales and no bundle lift after 3 weeks.",
+      "theme": "Vintage herbarium-style culinary herb chart and moon-phase apothecary prints (set of 3) in deep jewel tones, sold as digital downloads with an optional POD print",
+      "validationTest": "Add as a digital listing and as a bundle add-on to the label set; track attach rate.",
+      "whyBuy": "Design press recommends botanicals and apothecary-flair decor for the fall 2026 whimsigoth look; renters can decorate without remodeling."
+    }
+  ],
+  "qualityFlags": [],
+  "recommendedAction": "test_now",
+  "region": "US",
+  "researchedAt": "2026-10-04T21:00:56Z",
+  "rights": {
+    "note": "Do NOT use 'Practical Magic', Owens-family names, film stills, logos, or film lines such as 'midnight margaritas' in designs, titles or tags. Warner Bros. is actively licensing (Target, Wayfair, MacKenzie-Childs), so enforcement is likely. Generic 'kitchen witch', apothecary, herb and moon motifs are fine. Treat witchcraft respectfully: frame herb content as culinary or traditional folklore, never as promised effects.",
+    "risk": "medium"
+  },
+  "runIds": [
+    "run-2026-10-04-aesthetics"
+  ],
+  "scores": {
+    "buyerIntent": {
+      "basis": "qualitative",
+      "rationale": "No consumer purchase evidence was found. Licensed collections and existing listings show supply; Pinterest's reported searches show hobby and utility interest (herbal apothecary, spice blends), which fits functional printables but is not proof of buying.",
+      "score": 2
+    },
+    "durability": {
+      "basis": "qualitative",
+      "rationale": "The film spike will fade, but witchy/cottage-witch decor and herbal hobbies have persisted for years (Practical Magic 1998 cult status, whimsigoth).",
+      "score": 3
+    },
+    "economics": {
+      "basis": "qualitative",
+      "rationale": "Digital downloads carry near-zero marginal cost at typical low price points; KDP/POD prints have thinner margins. No revenue forecast implied.",
+      "score": 3
+    },
+    "productFit": {
+      "basis": "qualitative",
+      "rationale": "Labels, journals and herb charts are quick to design with common tools and AI-assisted ornament; no inventory.",
+      "score": 4
+    },
+    "supplyGap": {
+      "basis": "qualitative",
+      "rationale": "Halloween potion labels and film-inspired goods already exist; the gap is narrower: functional, non-IP, year-round herb/pantry systems.",
+      "score": 2
+    },
+    "timing": {
+      "basis": "qualitative",
+      "rationale": "Strong, current catalyst (Sept 2026 film + Aug 2026 Pinterest report), but Halloween is too close for new-listing discovery; digital products can still catch the autumn-to-Yule tail.",
+      "score": 3
+    }
+  },
+  "source": "research",
+  "spread": {
+    "evidence": [
+      "kitchen-witch-aesthetic~d2e1f12c",
+      "kitchen-witch-aesthetic~0ccb2b16",
+      "kitchen-witch-aesthetic~2783aa90",
+      "kitchen-witch-aesthetic~c0c7b6cd",
+      "kitchen-witch-aesthetic~db383d77",
+      "kitchen-witch-aesthetic~84a7044e",
+      "kitchen-witch-aesthetic~4491f321"
+    ],
+    "text": "The trend shows up independently in Pinterest's own data, consumer press, real-estate/design press (Inman), TikTok creator clusters, and retail licensing (Target, Wayfair, MacKenzie-Childs). Much of the press restates Pinterest's numbers, so those articles are one signal. The film is a strong, separate catalyst."
+  },
+  "summary": "A cozy, old-world witchy kitchen look - labeled herb and apothecary jars, dried flowers, candles, copper, moons - that Pinterest named a fall-2026 trend and that Practical Magic 2 pushed into the mainstream.",
+  "topicKeys": [
+    "phrase:kitchen witch aesthetic",
+    "phrase:kitchen witch",
+    "phrase:witchs kitchen",
+    "phrase:cottage witch kitchen",
+    "phrase:practical magic aesthetic",
+    "phrase:hearth witch",
+    "phrase:whimsigoth adjacent",
+    "phrase:witchy apothecary",
+    "phrase:kitchen witch practical magic 2 era witchy apothecary kitchen"
+  ],
+  "trajectory": {
+    "evidence": [
+      "kitchen-witch-aesthetic~d2e1f12c",
+      "kitchen-witch-aesthetic~685be181",
+      "kitchen-witch-aesthetic~2783aa90",
+      "kitchen-witch-aesthetic~84a7044e"
+    ],
+    "stage": "mainstream_surge",
+    "text": "Accelerating into October: Pinterest reports large increases (May-to-May), and the film's No. 1 opening plus licensed collections pushed the look into mass retail in September. Expect the film spike to fade after Halloween. The underlying witchy/herbal hobby is long-lived, so a smaller winter (Yule/solstice) tail is plausible (inference). No time-series data (Google Trends) could be measured."
+  },
+  "unresolved": [
+    "When Practical Magic 2 reaches home viewing (digital/streaming) - not verified, and it could create a second spike.",
+    "Actual Etsy listing counts and sales velocity for 'kitchen witch labels' / 'apothecary spice labels' (Etsy not accessible).",
+    "Whether Pinterest's global May-to-May increases reflect US buyers specifically, and how much of the interest ends at Halloween.",
+    "Pinterest figures were seen only through search summaries of the newsroom page, not the page itself."
+  ],
+  "what": "Kitchen Witch is a decor and hobby aesthetic built on herbs and home craft: apothecary-style labeled jars on open shelves, drying herbs and flowers, homemade spice blends, beeswax candles and vintage 'old-world' decor. It sits between cottagecore and the 90s whimsigoth look made famous by the 1998 film Practical Magic. In 2026 Pinterest gave it a name, and the September 2026 sequel brought licensed retail collections.",
+  "window": {
+    "endEstimate": "2026-12-21",
+    "estimate": "Now through about late December 2026 for digital products; POD only for holiday/Yule gifting, not Halloween.",
+    "invalidators": [
+      "Interest collapses right after Halloween (watch Pinterest/Etsy engagement on test pins and listings in early November)",
+      "Licensed Practical Magic 2 goods and Halloween label sellers crowd out new listings",
+      "IP complaints if listings use the film's name, characters or lines"
+    ],
+    "reasoning": "Digital delivery is instant, but new listings take weeks to be discovered, so Halloween demand (27 days away) is mostly out of reach. The aesthetic is autumn-winter rather than Halloween-only: herbs, candles and cozy kitchens carry into winter solstice/Yule (Dec 21) and holiday gifting. The film's home release could create a second spike, but its date was not verified.",
+    "seasonality": "Peaks Sept-Oct (Halloween + film); secondary tail around winter solstice/Yule and holiday gifting; herb-pantry labels are useful year-round.",
+    "sellBy": null
+  }
+}

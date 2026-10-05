@@ -1,0 +1,23 @@
+{
+  "action": "prepare",
+  "analystAction": "prepare",
+  "candidateId": "wallpapers-made-for-the-new-movable-lock-screen-clock-ios-27",
+  "competition": "moderate",
+  "confidence": 53,
+  "id": "wallpapers-made-for-the-new-movable-lock-screen-clock-ios-27~run-hunt-aesthetics-20261004-2",
+  "independentSources": 8,
+  "purchaseSignals": 0,
+  "runId": "run-hunt-aesthetics-20261004-2",
+  "score": 63,
+  "stage": "first_spark",
+  "takenAt": "2026-10-04T23:58:00Z",
+  "weightsUsed": {
+    "buyerIntent": 20,
+    "durability": 15,
+    "economics": 10,
+    "productFit": 15,
+    "supplyGap": 15,
+    "timing": 25
+  },
+  "windowEstimate": "2-4 months for the 'new layout' hook; wallpapers in general are evergreen"
+}

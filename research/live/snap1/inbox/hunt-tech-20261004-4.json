@@ -1,0 +1,728 @@
+{
+  "createdAt": "2026-10-05T00:04:05Z",
+  "jobId": "hunt-tech-20261004",
+  "raw": {
+    "candidates": [
+      {
+        "actionRationale": "Build the group kit now and test with direct outreach. Aim the paperback at the January window. Don't spend on ads until organizers respond.",
+        "adopters": {
+          "evidence": [
+            "e2",
+            "e7",
+            "e8"
+          ],
+          "text": "College students and staff, young urban adults in neighborhood pods, and phone-free social event goers."
+        },
+        "aliases": [
+          "phone-free month",
+          "Month Offline",
+          "phone breakup challenge",
+          "unplug week"
+        ],
+        "category": "movement",
+        "competition": {
+          "evidence": [
+            "e9",
+            "e10",
+            "e11"
+          ],
+          "level": "moderate",
+          "text": "Individual 30-day detox printables and free challenges are common, and the challenge author has a workbook. No organizer or group kits found."
+        },
+        "evidence": [
+          {
+            "accessMethod": "web_search_result",
+            "claim": "A major university launched a 30-day phone challenge starting Sept 27, 2026, open to its global community.",
+            "excerpt": "The NYU Phone Breakup Challenge begins on Sunday, September 27, 2026. It's a 30-day program, open to all members of the global NYU community",
+            "id": "e1",
+            "intent": "utility",
+            "kind": "observed",
+            "publishedAt": null,
+            "publisher": "New York University",
+            "retrievedAt": "2026-10-05T00:04:05Z",
+            "signalType": "community",
+            "syndicationOf": null,
+            "title": "Phone Breakup Challenge",
+            "url": "https://www.nyu.edu/about/university-initiatives/nyu-irl/phone-breakup-challenge.html"
+          },
+          {
+            "accessMethod": "web_search_result",
+            "claim": "Student press covers the challenge format: weekly challenges, physical prompts (rubber band on phone), in-person events.",
+            "excerpt": "formatted as a weekly set of challenges... putting a rubber band around your phone to remind you when you are using it",
+            "id": "e2",
+            "intent": "none",
+            "kind": "observed",
+            "publishedAt": "2026-09-30",
+            "publisher": "Washington Square News",
+            "retrievedAt": "2026-10-05T00:04:05Z",
+            "signalType": "press",
+            "syndicationOf": null,
+            "title": "NYU IRL launches 30-day phone-free challenge",
+            "url": "https://nyunews.com/news/2026/09/30/irl-launches-30-day-phone-free-challenge/"
+          },
+          {
+            "accessMethod": "web_search_result",
+            "claim": "Student opinion piece engaging with the challenge.",
+            "excerpt": "NYU IRL's 'Phone Breakup Challenge' restores individuality",
+            "id": "e3",
+            "intent": "curiosity",
+            "kind": "observed",
+            "publishedAt": "2026-09-29",
+            "publisher": "Washington Square News",
+            "retrievedAt": "2026-10-05T00:04:05Z",
+            "signalType": "community",
+            "syndicationOf": null,
+            "title": "Opinion: NYU IRL's 'Phone Breakup Challenge' restores individuality",
+            "url": "https://nyunews.com/opinion/2026/09/29/irl-phone-breakup-challenge-individuality/"
+          },
+          {
+            "accessMethod": "web_search_result",
+            "claim": "A second campus ran a phone-free week in late September 2026.",
+            "excerpt": "College of Charleston hosts unplug week to get students, faculty off phones",
+            "id": "e4",
+            "intent": "none",
+            "kind": "observed",
+            "publishedAt": "2026-09-29",
+            "publisher": "Live 5 News (WCSC)",
+            "retrievedAt": "2026-10-05T00:04:05Z",
+            "signalType": "press",
+            "syndicationOf": null,
+            "title": "College of Charleston hosts unplug week to get students, faculty off phones",
+            "url": "https://www.live5news.com/2026/09/29/college-charleston-hosts-unplug-week-get-students-faculty-off-phones/"
+          },
+          {
+            "accessMethod": "web_search_result",
+            "claim": "Syndicated TV feature on Month Offline: participants sign a pledge and get a dumb phone for 30 days.",
+            "excerpt": "Participants sign a pledge to commit to getting off their touch screen for 30 days and receive a working dumb phone.",
+            "id": "e5",
+            "intent": "none",
+            "kind": "observed",
+            "publishedAt": "2026-09-10",
+            "publisher": "WFLX (Gray Media)",
+            "retrievedAt": "2026-10-05T00:04:05Z",
+            "signalType": "press",
+            "syndicationOf": null,
+            "title": "Inside a growing movement to ditch smartphones and unplug by choice",
+            "url": "https://www.wflx.com/2026/09/10/inside-growing-movement-ditch-smartphones-unplug-by-choice/"
+          },
+          {
+            "accessMethod": "web_search_result",
+            "claim": "Same syndicated story.",
+            "excerpt": "Inside a growing movement to ditch smartphones and unplug by choice",
+            "id": "e6",
+            "intent": "none",
+            "kind": "observed",
+            "publishedAt": "2026-09-10",
+            "publisher": "KOLD (Gray Media)",
+            "retrievedAt": "2026-10-05T00:04:05Z",
+            "signalType": "press",
+            "syndicationOf": "e5",
+            "title": "Inside a growing movement to ditch smartphones and unplug by choice",
+            "url": "https://www.kold.com/2026/09/10/inside-growing-movement-ditch-smartphones-unplug-by-choice/"
+          },
+          {
+            "accessMethod": "web_search_result",
+            "claim": "October 2026 cohorts in NYC (6 neighborhood pods), Seattle, Las Vegas, Philadelphia and Oakland; groups of 10-30 meet weekly.",
+            "excerpt": "a community of practice for groups of 10-30 where participants gather at a local venue, sign a pledge to forgo the use of their smartphone for 30 days",
+            "id": "e7",
+            "intent": "utility",
+            "kind": "observed",
+            "publishedAt": null,
+            "publisher": "Month Offline",
+            "retrievedAt": "2026-10-05T00:04:05Z",
+            "signalType": "community",
+            "syndicationOf": null,
+            "title": "Month Offline",
+            "url": "https://offline.community/"
+          },
+          {
+            "accessMethod": "web_search_result",
+            "claim": "Phone-free social events are getting lifestyle coverage.",
+            "excerpt": "A phone-free Friday night social where people read or nap, then do puzzles and art? Sign me up.",
+            "id": "e8",
+            "intent": "curiosity",
+            "kind": "observed",
+            "publishedAt": null,
+            "publisher": "Upworthy",
+            "retrievedAt": "2026-10-05T00:04:05Z",
+            "signalType": "press",
+            "syndicationOf": null,
+            "title": "A phone-free Friday night social where people read or nap, then do puzzles and art? Sign me up.",
+            "url": "https://www.upworthy.com/a-phone-free-friday-night-social-where-people-read-or-nap-then-do-puzzles-and-art-sign-me-up/"
+          },
+          {
+            "accessMethod": "web_search_result",
+            "claim": "Supply: the author behind the campus challenge offers a workbook.",
+            "excerpt": "How to Break Up With Your Phone Workbook",
+            "id": "e9",
+            "intent": "none",
+            "kind": "observed",
+            "publishedAt": null,
+            "publisher": "Catherine Price (Substack)",
+            "retrievedAt": "2026-10-05T00:04:05Z",
+            "signalType": "marketplace",
+            "syndicationOf": null,
+            "title": "How to Break Up With Your Phone Workbook",
+            "url": "https://catherineprice.substack.com/p/how-to-break-up-with-your-phone-workbook"
+          },
+          {
+            "accessMethod": "web_search_result",
+            "claim": "Supply: individual 30-day detox printables (contract, calendar, journals, certificate) exist.",
+            "excerpt": "a printable 30-day digital detox that includes a phone setup guide, detox contract, 30-day challenge calendar with daily micro-challenges, 50 analog activities",
+            "id": "e10",
+            "intent": "none",
+            "kind": "observed",
+            "publishedAt": null,
+            "publisher": "Payhip seller",
+            "retrievedAt": "2026-10-05T00:04:05Z",
+            "signalType": "marketplace",
+            "syndicationOf": null,
+            "title": "Unplug: 30-day digital detox printable",
+            "url": "https://payhip.com/b/gQ3fY"
+          },
+          {
+            "accessMethod": "web_search_result",
+            "claim": "Supply: free 30-day challenges exist.",
+            "excerpt": "a free 30-day digital detox challenge with one task per day taking 10-20 minutes",
+            "id": "e11",
+            "intent": "none",
+            "kind": "observed",
+            "publishedAt": null,
+            "publisher": "Unplugging (beehiiv)",
+            "retrievedAt": "2026-10-05T00:04:05Z",
+            "signalType": "marketplace",
+            "syndicationOf": null,
+            "title": "Get the free 30-day digital detox challenge",
+            "url": "https://unplugging.beehiiv.com/p/get-the-free-30-day-digital-detox-challenge"
+          },
+          {
+            "accessMethod": "web_search_result",
+            "claim": "A European phone-free event brand is recruiting city leaders, including for the US.",
+            "excerpt": "people can apply to open up a club chapter in their own city",
+            "id": "e12",
+            "intent": "none",
+            "kind": "observed",
+            "publishedAt": null,
+            "publisher": "The Offline Club",
+            "retrievedAt": "2026-10-05T00:04:05Z",
+            "signalType": "community",
+            "syndicationOf": null,
+            "title": "Start a Chapter",
+            "url": "https://www.theoffline-club.com/start-city-chapter"
+          }
+        ],
+        "gap": {
+          "isInference": true,
+          "text": "A done-for-you group kit for organizers, and a pocket-size physical log that takes over the phone's jobs."
+        },
+        "name": "30-Day Phone-Free Challenge Cohorts",
+        "observations": [],
+        "origin": {
+          "date": "2026-09-27",
+          "evidence": [
+            "e1",
+            "e5",
+            "e7"
+          ],
+          "text": "Neighborhood 30-day offline cohorts began in Washington, DC in May 2025. The university challenge launched Sept 27, 2026, building on an earlier campus phone-free space initiative."
+        },
+        "productDemand": {
+          "evidence": [
+            "e7",
+            "e10"
+          ],
+          "text": "Participation (utility) is visible: people sign pledges and join cohorts. No evidence yet of people buying printables for group challenges. Individual detox printables are sold, but no sales figures are available."
+        },
+        "products": [
+          {
+            "buyer": "Organizers (student clubs, residence advisors, small-group leaders, office wellness champions, neighbors) who want to run a 30-day phone-free challenge for a group",
+            "channels": [
+              "Etsy",
+              "Payhip",
+              "Pinterest",
+              "direct outreach"
+            ],
+            "continueIf": "3+ sales or 3+ organizers asking for the full kit within 21 days.",
+            "differentiation": "Built for running a group (meetups, cohort logistics, celebration). Existing detox printables are for individuals.",
+            "effort": "medium",
+            "effortHours": 14,
+            "evidence": [
+              "e1",
+              "e2",
+              "e4",
+              "e7"
+            ],
+            "format": "bundle",
+            "fulfillment": "digital",
+            "leadTimeDays": 4,
+            "pivotIf": "Individuals buy, not organizers: lead with the participant log and sell the group kit as an upgrade.",
+            "playbook": {
+              "assembly": [
+                "Run the super prompt and review the 28 challenges for duplicates.",
+                "Build the guide, agendas, cards, pledge, log and certificate in Canva (US Letter).",
+                "Make the flyer, sign-in sheet and name tags editable via a Canva template link.",
+                "Resize to A4 and check card cut lines.",
+                "Export PDF Print 300 DPI for both sizes; zip with a README and template links.",
+                "Create a 2-page free sample (Week 1 plan plus 7 cards) for outreach.",
+                "Make 5 mockups and a short flip video."
+              ],
+              "asymmetry": {
+                "badBetIf": "Organizers rely on free university or nonprofit materials, so only individuals buy at low prices.",
+                "downside": "About 14 hours. Organizers are a smaller market than individuals.",
+                "upside": "A higher price point, institutional repeat buyers each semester, and a New Year peak."
+              },
+              "costs": {
+                "baseCost": null,
+                "basis": "estimate: digital product, platform fees only",
+                "item": null,
+                "provider": null,
+                "shipping": null,
+                "testBudget": 0,
+                "testBudgetNote": "Use direct outreach instead of ads for the first test."
+              },
+              "extensions": [
+                "January 2027 New Year edition",
+                "Office/team license",
+                "Family edition",
+                "Participant pocket log (paperback)"
+              ],
+              "imagePrompts": [
+                {
+                  "prompt": "Flat-lay on a wooden table: printed challenge cards, a pledge poster, name tags, coffee cups and a basket of parked phones face down (generic, no logos). Text: \"Phone-Free Month Group Kit\". Palette #2F4B3A, #F7F3EA, #F28C38, #B7C9A8. 4:5 aspect ratio, warm natural light, illustrated style. No logos, no real people, no trademarked characters, no watermarks.",
+                  "purpose": "Listing cover",
+                  "tool": "Ideogram or ChatGPT images"
+                },
+                {
+                  "prompt": "Grid of 4 cut-out cards, each with a day number and a one-line action, sage and forest green on paper #F7F3EA with orange #F28C38 day numbers. 1:1. No logos, no real people, no trademarked characters, no watermarks.",
+                  "purpose": "Challenge cards preview",
+                  "tool": "Canva mockup"
+                }
+              ],
+              "listingPrompt": "Write an Etsy listing for a printable 'Phone-Free Month Group Kit' to run a 30-day phone-free or phone-light challenge with a club, class, church group, office or neighborhood: organizer guide, 4 weekly meetup plans, 28 daily challenge cards, pledge cards and poster, participant log, sign-in and contact sheets, editable flyer and completion certificates (US Letter and A4 plus editable template). Give a title under 140 characters front-loading 'digital detox challenge group'; 13 tags, each 20 characters or fewer; a description; and a 5-question FAQ (group size, people who need phones for work, editing, printing, refunds). Do not use book titles, author names, program names or brand trademarks, and make no health or productivity claims.",
+              "marketing": {
+                "channels": [
+                  {
+                    "cadence": "5 pins per week",
+                    "channel": "Pinterest",
+                    "tactic": "Challenge-card and pledge-poster pins"
+                  },
+                  {
+                    "cadence": "10 contacts per week",
+                    "channel": "Direct outreach",
+                    "tactic": "Campus wellness and student-club leaders, church small groups"
+                  },
+                  {
+                    "cadence": "2-3 per week",
+                    "channel": "Short-form video",
+                    "tactic": "Run-it-with-friends explainers"
+                  }
+                ],
+                "hooks": [
+                  "Universities are running phone-free months. Here's how to run one with your friends.",
+                  "28 cards, 4 meetups, 1 month without scrolling.",
+                  "The organizer kit I wish I had for our phone-free month."
+                ],
+                "keywords": [
+                  "digital detox",
+                  "phone free challenge",
+                  "screen free challenge",
+                  "30 day challenge",
+                  "group challenge",
+                  "unplug challenge",
+                  "phone detox"
+                ],
+                "launchPlan": [
+                  {
+                    "action": "Publish the listing with mockups of the challenge cards, pledge poster and meetup plan.",
+                    "day": "Day 0"
+                  },
+                  {
+                    "action": "Pin 6 images aimed at 'phone free challenge' and 'digital detox group' searches.",
+                    "day": "Day 1"
+                  },
+                  {
+                    "action": "Email 10 campus wellness offices, student clubs or church small-group leaders with a free sample week (check each organization's policies).",
+                    "day": "Day 3"
+                  },
+                  {
+                    "action": "Post a short video: 'how to run a phone-free month with friends' with the printed kit.",
+                    "day": "Day 5"
+                  },
+                  {
+                    "action": "Offer the 28 challenge cards free on Payhip for email sign-ups.",
+                    "day": "Day 8"
+                  },
+                  {
+                    "action": "Share in organizer and wellness communities that allow resources (check the community rules).",
+                    "day": "Day 12"
+                  },
+                  {
+                    "action": "Add a 'January 2027 phone-free month' variant and New Year keywords.",
+                    "day": "Day 16"
+                  },
+                  {
+                    "action": "Go/pivot/stop check against thresholds.",
+                    "day": "Day 21"
+                  }
+                ],
+                "positioning": "Run a phone-free month with your people. Everything is planned for you."
+              },
+              "platforms": [
+                {
+                  "name": "Etsy",
+                  "role": "primary",
+                  "why": "Searchable digital-download marketplace."
+                },
+                {
+                  "name": "Payhip",
+                  "role": "secondary",
+                  "why": "Direct links for outreach and an organization-license version."
+                },
+                {
+                  "name": "Pinterest",
+                  "role": "traffic",
+                  "why": "Digital detox printables pin well."
+                }
+              ],
+              "pricing": {
+                "basis": "estimate",
+                "currency": "USD",
+                "high": 29,
+                "low": 12,
+                "rationale": "Individual detox printables sell for free to about $15. A group kit with organizer value supports a higher price, and campus or office buyers are less price-sensitive.",
+                "recommended": 18
+              },
+              "productName": "Phone-Free Month Group Kit",
+              "risks": [
+                "Free institutional resources compete",
+                "Book-title phrasing must be avoided",
+                "Selling to organizations needs direct outreach"
+              ],
+              "superPrompt": "You are a community-program designer and facilitator. Create a complete, ready-to-run \"Phone-Free Month Group Kit\" for anyone organizing a 30-day phone-light or phone-free challenge with a group: a campus club, residence hall, church small group, book club, office team or neighborhood.\n\nBUYER AND JOB: Organizers inspired by campus 'break up with your phone' months and neighborhood offline cohorts. They want to run one themselves but don't want to design it. The kit must let a first-time organizer launch within a week, keep 10-30 people engaged for 4 weeks, and end with a celebration.\n\nDELIVERABLE SPEC (US Letter 8.5x11 in and A4; editable text where noted):\n1. Organizer Guide (4 pages): the recruiting timeline (Week -1), how to pick a format (phone-free, phone-light with a basic phone, or \"phone parked\" hours), how to set group norms, safety and accessibility notes (people who need phones for work, caregiving or health keep them; the goal is intention, not purity), and FAQs.\n2. Four weekly meetup plans (60 minutes each): an opener question, a 20-minute analog activity, a reflection round and next week's challenge. Themes: Week 1 Notice, Week 2 Replace, Week 3 Reconnect, Week 4 Keep.\n3. 28 daily challenge cards (cut-out, 4-up), each with a 1-sentence action (e.g., \"Leave your phone in another room during dinner\").\n4. Pledge card (wallet size) and a group pledge poster with signature space.\n5. Participant 30-day log: one page with a daily check grid, \"minutes I got back\" box and a mood scale (1-5, no medical framing).\n6. Sign-in sheet, name tags and a contact sheet for exchanging emails or landline/basic-phone numbers.\n7. Recruitment flyer (editable) and 3 social-graphic text blocks (no platform names).\n8. Week 4 celebration: a completion certificate and a \"What I'm keeping\" reflection card.\n9. Optional \"Phone Parking\" sign for meetups.\n\nDESIGN: Pairings: (a) \"DM Serif Display\" + \"DM Sans\"; (b) \"Space Grotesk\" + \"Inter\". Palette: Forest #2F4B3A, Paper #F7F3EA, Signal Orange #F28C38, Slate #4A5568, Sage #B7C9A8. Simple original line art (a parked phone, a coffee cup, a board game, a book).\n\nCONTENT RULES: Original wording only. Do not quote, adapt or name any book, author, university program or company. Make no health, mental-health or productivity promises; use \"people often notice\" language. Inclusive and non-shaming. 8th-grade reading level.\n\nDIFFERENTIATION: Existing 30-day detox printables are for individuals. This kit is for running a group, with meetup plans, organizer timeline, cohort materials and celebration.\n\nOUTPUT: Page by page with exact text and layout notes, the 28 challenge cards listed in full, and the 4 meetup agendas minute by minute. End with a self-check: 28 unique challenges; 4 agendas; accessibility note present; no names of books, authors, programs or brands; no health claims; both paper sizes noted."
+            },
+            "rightsNote": "Don't name or imitate any book, author, university program or company. The phrase 'break up with your phone' is tied to a bestselling book title, so avoid it in titles and tags.",
+            "stopIf": "No sales and no organizer replies after 21 days.",
+            "theme": "Phone-Free Month Group Kit: organizer guide, 4 weekly meetup plans, 28 daily challenge cards, pledge cards/poster, participant log, sign-in and contact sheets, flyer, completion certificates",
+            "validationTest": "List the kit and contact 30 organizers over 3 weeks with a free sample week.",
+            "whyBuy": "Campus and neighborhood cohorts show the group format works, but organizers have to design everything themselves. A done-for-you kit removes that work."
+          },
+          {
+            "buyer": "Adults and students doing a 30-day phone-free or phone-light challenge",
+            "channels": [
+              "Amazon KDP",
+              "Etsy (printable)",
+              "Pinterest"
+            ],
+            "continueIf": "10+ KDP sales in the first 6 weeks or by Jan 31.",
+            "differentiation": "Pocket-size and built to replace phone functions; competitors are letter-size PDFs.",
+            "effort": "medium",
+            "effortHours": 12,
+            "evidence": [
+              "e5",
+              "e7",
+              "e10"
+            ],
+            "format": "journal",
+            "fulfillment": "pod",
+            "leadTimeDays": 7,
+            "pivotIf": "Printable sells but paperback doesn't: drop to printable only plus a group-kit bundle.",
+            "playbook": {
+              "assembly": [
+                "Generate the interior with the super prompt.",
+                "Lay out a 5x8 in interior in Canva or Affinity (0.5 in margins, 0.625 in gutter), 96 pages.",
+                "Export the interior as PDF Print, black and white, fonts embedded.",
+                "Use the KDP cover calculator for 96 pages (white paper) and build the full wrap cover in Canva at the calculated size, 300 DPI.",
+                "Upload to KDP, order a proof copy and check margins.",
+                "Make an A5/half-letter printable PDF of the same interior for Etsy.",
+                "Create mockups (paperback in a coat pocket, open daily spread)."
+              ],
+              "asymmetry": {
+                "badBetIf": "Launched after mid-December, which misses the January discovery window.",
+                "downside": "About 12 hours plus a proof copy (about $5). KDP discovery is slow.",
+                "upside": "Evergreen New Year demand, pairs with the group kit, and no inventory."
+              },
+              "costs": {
+                "baseCost": 2.3,
+                "basis": "estimate: verify in the provider catalog (KDP printing cost calculator)",
+                "item": "5x8 in paperback, 96 pages, black and white",
+                "provider": "Amazon KDP",
+                "shipping": null,
+                "testBudget": 0,
+                "testBudgetNote": "No ads until the New Year window shows organic sales."
+              },
+              "extensions": [
+                "Group bulk-order discount",
+                "7-day mini version",
+                "New Year 2027 edition cover"
+              ],
+              "imagePrompts": [
+                {
+                  "prompt": "Minimal book cover art: a small line drawing of a smartphone resting in a nest of leaves, lots of negative space, deep forest green #2F4B3A background with paper-cream #F7F3EA line art and a small orange #F28C38 sun. Text: \"Thirty Days Unplugged\" and subtitle \"A Pocket Log for a Phone-Free Month\". Portrait 5x8 ratio (1600x2560 px), solid background. No logos, no real people, no trademarked characters, no watermarks.",
+                  "purpose": "KDP cover front art",
+                  "tool": "Ideogram or ChatGPT images"
+                }
+              ],
+              "listingPrompt": "Write an Amazon KDP description and 7 backend keyword phrases, plus an Etsy listing (title under 140 characters front-loading 'digital detox journal'; 13 tags of 20 characters or fewer) for 'Thirty Days Unplugged: A Pocket Log for a Phone-Free Month', a 5x8 in, 96-page log with daily spreads, numbers and directions pages, a plans calendar, 60 analog ideas and a Day-30 reflection. Include a 4-question FAQ. Do not mention any book titles, authors, programs or trademarks, and make no health or productivity claims.",
+              "marketing": {
+                "channels": [
+                  {
+                    "cadence": "5 pins per week",
+                    "channel": "Pinterest",
+                    "tactic": "Challenge-card and pledge-poster pins"
+                  },
+                  {
+                    "cadence": "10 contacts per week",
+                    "channel": "Direct outreach",
+                    "tactic": "Campus wellness and student-club leaders, church small groups"
+                  },
+                  {
+                    "cadence": "2-3 per week",
+                    "channel": "Short-form video",
+                    "tactic": "Run-it-with-friends explainers"
+                  }
+                ],
+                "hooks": [
+                  "What I carried instead of my phone for 30 days.",
+                  "Your phone-free month needs a place for numbers and plans."
+                ],
+                "keywords": [
+                  "digital detox journal",
+                  "phone free journal",
+                  "30 day challenge log",
+                  "screen free journal",
+                  "pocket journal"
+                ],
+                "launchPlan": [
+                  {
+                    "action": "Publish the listing with mockups of the challenge cards, pledge poster and meetup plan.",
+                    "day": "Day 0"
+                  },
+                  {
+                    "action": "Pin 6 images aimed at 'phone free challenge' and 'digital detox group' searches.",
+                    "day": "Day 1"
+                  },
+                  {
+                    "action": "Email 10 campus wellness offices, student clubs or church small-group leaders with a free sample week (check each organization's policies).",
+                    "day": "Day 3"
+                  },
+                  {
+                    "action": "Post a short video: 'how to run a phone-free month with friends' with the printed kit.",
+                    "day": "Day 5"
+                  },
+                  {
+                    "action": "Offer the 28 challenge cards free on Payhip for email sign-ups.",
+                    "day": "Day 8"
+                  },
+                  {
+                    "action": "Share in organizer and wellness communities that allow resources (check the community rules).",
+                    "day": "Day 12"
+                  },
+                  {
+                    "action": "Add a 'January 2027 phone-free month' variant and New Year keywords.",
+                    "day": "Day 16"
+                  },
+                  {
+                    "action": "Go/pivot/stop check against thresholds.",
+                    "day": "Day 21"
+                  }
+                ],
+                "positioning": "The pocket notebook that does your phone's jobs for a month."
+              },
+              "platforms": [
+                {
+                  "name": "Amazon KDP",
+                  "role": "primary",
+                  "why": "Physical pocket journal with print-on-demand fulfillment."
+                },
+                {
+                  "name": "Etsy",
+                  "role": "secondary",
+                  "why": "Printable version and bundle with the group kit."
+                },
+                {
+                  "name": "Pinterest",
+                  "role": "traffic",
+                  "why": "New Year detox planning pins."
+                }
+              ],
+              "pricing": {
+                "basis": "estimate",
+                "currency": "USD",
+                "high": 10.99,
+                "low": 7.99,
+                "rationale": "Typical low-content 5x8 journal pricing. The printable sells at $6.",
+                "recommended": 8.99
+              },
+              "productName": "Thirty Days Unplugged Pocket Log",
+              "risks": [
+                "Crowded low-content journal market",
+                "Slow KDP discovery",
+                "Thin margins at low prices"
+              ],
+              "superPrompt": "You are a minimalist journal designer. Write the complete interior for a pocket-size paperback and printable called \"Thirty Days Unplugged: A Pocket Log for a Phone-Free Month\".\n\nBUYER AND JOB: Adults and college students joining a 30-day phone-free or phone-light challenge (alone or with a group) who want something physical to carry instead of their phone: a place to log each day, jot plans, keep important numbers and notice what changes.\n\nDELIVERABLE SPEC: KDP paperback interior at 5x8 in (no bleed, 0.5 in margins, 0.625 in gutter), 96 pages, plus a printable A5/half-letter version.\n- Pages 1-4: title page; \"How to use this log\" (120 words); \"My why\" page; \"My rules\" page with checkboxes (phone parked overnight, no phone at meals, basic phone only, etc.).\n- Pages 5-6: \"Numbers I need\" (20 lines: name, number) and \"Places and directions\" (8 lines).\n- Pages 7-66: 30 two-page daily spreads. Left page: Day __ / Date, check boxes (phone-free morning, meal, evening), \"Urges I noticed\" tally boxes, \"What I did instead\". Right page: a short original prompt (30 unique prompts across four weekly themes: Notice, Replace, Reconnect, Keep) plus lined space.\n- Pages 67-74: four weekly review pages and four \"Plans and meetups\" pages (calendar-style).\n- Pages 75-86: \"Analog ideas\" list of 60 original activities, a reading log, and a \"people I talked to\" log.\n- Pages 87-92: \"Day 30: What I'm keeping\" reflection, a \"Rules for after\" page, and a completion page.\n- Pages 93-96: blank notes.\n\nDESIGN: Pairings: (a) \"Cormorant Garamond\" + \"Karla\"; (b) \"Fraunces\" + \"Work Sans\". Palette for the cover: Forest #2F4B3A, Paper #F7F3EA, Signal Orange #F28C38; interior in black on white for print cost.\n\nRULES: Original prompts and text only; do not reference or imitate any book, author, program or company. No health or productivity guarantees. Neutral, encouraging voice.\n\nDIFFERENTIATION: A pocket-size physical companion designed to replace the phone's jobs (numbers, plans, notes) during the month; most competitors are letter-size PDFs.\n\nOUTPUT: Page-by-page content with exact headings, all 30 prompts written out, the 60 analog ideas listed, and layout notes per page type. End with a self-check: 96 pages accounted for; 30 unique prompts; 60 ideas; KDP trim and margin specs stated; no IP or health claims."
+            },
+            "rightsNote": "No book titles, author names or program names on the cover or in keywords.",
+            "stopIf": "Fewer than 3 sales by Jan 31, 2027.",
+            "theme": "'Thirty Days Unplugged' 5x8 in pocket log (KDP paperback + printable): daily spreads, numbers and directions pages, plans calendar, 60 analog ideas, Day-30 'what I'm keeping'",
+            "validationTest": "Publish on KDP and list the printable on Etsy; track sales through the January 2027 New Year window.",
+            "whyBuy": "Without a phone, participants need somewhere to keep numbers, plans and notes. A pocket log does the phone's jobs and records the month."
+          }
+        ],
+        "recommendedAction": "prepare",
+        "rights": {
+          "note": "Avoid book titles (e.g. the 'break up with your phone' phrasing), author names, university program names and company names. No health claims.",
+          "risk": "low"
+        },
+        "scores": {
+          "buyerIntent": {
+            "basis": "qualitative",
+            "rationale": "Participation, not purchases. No sales evidence for group kits.",
+            "score": 1
+          },
+          "durability": {
+            "basis": "qualitative",
+            "rationale": "Digital detox is durable; the cohort format is still proving itself.",
+            "score": 3
+          },
+          "economics": {
+            "basis": "qualitative",
+            "rationale": "Digital kit has zero marginal cost; KDP margins are thin.",
+            "score": 3
+          },
+          "productFit": {
+            "basis": "qualitative",
+            "rationale": "Printables and a pocket log fit the format.",
+            "score": 4
+          },
+          "supplyGap": {
+            "basis": "qualitative",
+            "rationale": "Individual kits are common; group kits weren't found.",
+            "score": 3
+          },
+          "timing": {
+            "basis": "reported",
+            "rationale": "The group format launched in new places in late Sept and Oct 2026, but the broader movement is older.",
+            "score": 3
+          }
+        },
+        "spread": {
+          "evidence": [
+            "e1",
+            "e4",
+            "e5",
+            "e7",
+            "e8",
+            "e12"
+          ],
+          "text": "Several independent institutions within about three weeks (two campuses, a multi-city neighborhood program), a syndicated TV feature, lifestyle press, and a European offline-events brand recruiting US chapters."
+        },
+        "summary": "Universities and neighborhood groups launched structured 30-day phone-free or phone-light challenges in late September and October 2026, with pledges, weekly meetups and basic phones.",
+        "trajectory": {
+          "evidence": [
+            "e1",
+            "e4",
+            "e7"
+          ],
+          "stage": "early_growth",
+          "text": "The broader digital-detox movement is established. The organized 30-day group format is newer and expanding (new cities, new campuses this fall). A second wave is likely in January."
+        },
+        "unresolved": [
+          "Whether more campuses or cities announce phone-free months for spring 2027",
+          "Whether organizers ask for materials (outreach replies)",
+          "Search interest in 'phone free challenge' around January 2027"
+        ],
+        "what": "Rather than solo detoxes, people are doing month-long phone challenges as a group: they sign a pledge, swap to a basic phone or set phone-light rules, and meet weekly. A major university started a 30-day challenge on Sept 27, 2026. Another campus ran an unplug week. A neighborhood program runs October cohorts in five US cities.",
+        "window": {
+          "endEstimate": null,
+          "estimate": "October 2026 through February 2027, peaking in January",
+          "invalidators": [
+            "Programs stay one-offs",
+            "Free institutional materials satisfy organizers"
+          ],
+          "reasoning": "Fall cohorts are running now, and New Year resolutions are the natural next wave. Campus programs may repeat each semester.",
+          "seasonality": "January resets, back-to-school (September), and spring semester.",
+          "sellBy": null
+        }
+      }
+    ],
+    "kind": "discover",
+    "lens": "First-spark hunt: new consumer tech habits (printables/templates)",
+    "researchedAt": "2026-10-05T00:04:05Z",
+    "sourcesTried": [
+      {
+        "method": "search",
+        "note": "About 45 queries across TikTok trend roundups, Know Your Meme, tech press, parenting and campus news, and marketplace listings.",
+        "source": "WebSearch (standard and extended)",
+        "status": "ok"
+      },
+      {
+        "method": "WebFetch",
+        "note": "Egress blocked; used the search-result summary only.",
+        "source": "napoleoncat.com TikTok trends Oct 2026",
+        "status": "blocked"
+      },
+      {
+        "method": "WebFetch",
+        "note": "Egress blocked; used the search-result summary only.",
+        "source": "newengen.com October and September TikTok trends",
+        "status": "blocked"
+      },
+      {
+        "method": "WebFetch",
+        "note": "Egress blocked.",
+        "source": "anijam.ai TikTok trends Sept 2026",
+        "status": "blocked"
+      },
+      {
+        "method": "WebFetch",
+        "note": "Egress blocked; used search results.",
+        "source": "nyunews.com (Washington Square News)",
+        "status": "blocked"
+      },
+      {
+        "method": "WebFetch",
+        "note": "Egress blocked; used search results.",
+        "source": "offline.community (Month Offline)",
+        "status": "blocked"
+      },
+      {
+        "method": "WebFetch",
+        "note": "Egress blocked; used search results for the wflx/kold copies.",
+        "source": "hometownstations.com (Gray TV syndicated story)",
+        "status": "blocked"
+      },
+      {
+        "method": "WebFetch",
+        "note": "Egress blocked; trend date could not be verified.",
+        "source": "pasqualepillitteri.it (ChatGPT goodbye trend)",
+        "status": "blocked"
+      },
+      {
+        "method": "search results only",
+        "note": "Video and discover pages seen only as search results; dates of two videos inferred from their numeric IDs.",
+        "source": "TikTok",
+        "status": "ok"
+      },
+      {
+        "method": "search results only",
+        "note": "Listings seen as search results; no sales data available.",
+        "source": "Etsy / Gumroad / Payhip",
+        "status": "ok"
+      },
+      {
+        "method": "not attempted",
+        "note": "Usually blocked; no search-interest data used.",
+        "source": "Google Trends",
+        "status": "not_tried"
+      },
+      {
+        "method": "not attempted",
+        "note": "Usually blocked.",
+        "source": "Reddit",
+        "status": "not_tried"
+      }
+    ]
+  },
+  "runId": "run-hunt-tech-20261004-4",
+  "status": "new"
+}

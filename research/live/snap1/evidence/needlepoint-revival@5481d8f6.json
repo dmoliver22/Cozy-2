@@ -1,0 +1,19 @@
+{
+  "accessMethod": "web_search_result",
+  "candidateId": "needlepoint-revival",
+  "claim": "Public beginner classes are scheduled outside big-city shop hubs.",
+  "excerpt": "Event listing title.",
+  "firstRetrievedAt": "2026-10-04T20:53:53Z",
+  "firstSeenRunId": "run-2026-10-04-hobbies",
+  "id": "needlepoint-revival~5481d8f6",
+  "intent": "utility",
+  "kind": "observed",
+  "lastSeenRunId": "run-2026-10-04-hobbies",
+  "publishedAt": "2026-02-12",
+  "publisher": "Mobile County, AL",
+  "retrievedAt": "2026-10-04T20:53:53Z",
+  "signalType": "community",
+  "syndicationOf": null,
+  "title": "Needlepoint for Beginners (2026-02-12)",
+  "url": "https://www.mobilecountyal.gov/community_events/needlepoint-for-beginners-2026-02-12/"
+}

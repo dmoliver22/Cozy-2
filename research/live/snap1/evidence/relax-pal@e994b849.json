@@ -1,0 +1,19 @@
+{
+  "accessMethod": "web_search_result",
+  "candidateId": "relax-pal",
+  "claim": "Separate creators posting about the clip",
+  "excerpt": "relax pal frat — incident at University of Wisconsin fraternity",
+  "firstRetrievedAt": "2026-10-05T00:00:47Z",
+  "firstSeenRunId": "run-hunt-memes-20261004-1",
+  "id": "relax-pal~e994b849",
+  "intent": "curiosity",
+  "kind": "observed",
+  "lastSeenRunId": "run-hunt-memes-20261004-1",
+  "publishedAt": null,
+  "publisher": "TikTok",
+  "retrievedAt": "2026-10-05T00:00:47Z",
+  "signalType": "social",
+  "syndicationOf": null,
+  "title": "relax pal frat — incident at University of Wisconsin fraternity",
+  "url": "https://www.tiktok.com/@cokafree/video/7689706072185048351"
+}

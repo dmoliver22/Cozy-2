@@ -1,0 +1,160 @@
+{
+  "candidateId": "wallpapers-made-for-the-new-movable-lock-screen-clock-ios-27",
+  "id": "wallpapers-made-for-the-new-movable-lock-screen-clock-ios-27",
+  "products": [
+    {
+      "assembly": [
+        "Generate all 12 designs at the highest resolution, then upscale and crop to 1290x2796 px",
+        "Check each against a transparent overlay marking the top 22% and bottom 12% zones; regenerate any that break them",
+        "Make dark variants (re-prompt) and home-screen variants (Canva blur 30-40% or simplified crop)",
+        "Export PNG at full resolution; name files 01-maple-lock-light.png etc.",
+        "Build a 2-page PDF guide plus a link page; zip everything (under 20 MB per Etsy file or split into two zips)",
+        "Make 5 listing images: hero mockup, all-12 grid, before/after layout, light vs dark, what's included",
+        "Record the 3 TikTok videos from the generated scripts using screen recording of your own phone"
+      ],
+      "asymmetry": {
+        "badBetIf": "Free AI wallpaper tools built into the phone remove the reason to buy, or videos fail to get past 1k views",
+        "downside": "About 6 hours, about $1 in fees",
+        "upside": "A repeatable seasonal series with zero marginal cost and a TikTok-native format"
+      },
+      "costs": {
+        "baseCost": null,
+        "basis": "estimate: digital, Etsy listing and transaction fees only",
+        "item": null,
+        "pages": null,
+        "provider": null,
+        "shipping": null,
+        "testBudget": 0,
+        "testBudgetNote": "Organic TikTok first; ads are not worth it at this price point"
+      },
+      "extensions": [
+        "Halloween mini pack",
+        "Winter/holiday pack",
+        "Celery-green spring pack",
+        "Matching app-icon set"
+      ],
+      "imagePrompts": [
+        {
+          "prompt": "Vertical phone wallpaper, a few red-orange maple leaves #A23E2A #D9822B drifting across a soft open sky gradient from #C9CCD1 to #E9DCC3, upper fifth of the frame empty and calm, leaves clustered in the middle third, painterly gouache texture, no text, 9:19.5 aspect ratio, full-bleed. No logos, no real people, no trademarked characters, no watermarks.",
+          "purpose": "Design 2 maple leaves in open sky",
+          "tool": "Midjourney or Ideogram"
+        },
+        {
+          "prompt": "Vertical phone wallpaper, large warm harvest moon low over rolling hills, deep night plum sky #2E2433, moss hills #5F6B3C, subtle grain, the top 22% plain dark sky, moon centered at mid-height, bottom area simple dark hills, no text, 9:19.5 aspect ratio. No logos, no real people, no trademarked characters, no watermarks.",
+          "purpose": "Design 7 harvest moon (dark variant)",
+          "tool": "Midjourney or Ideogram"
+        },
+        {
+          "prompt": "Flat-lay of three generic smartphones without brand marks showing three wallpapers from the pack, on an oat linen background #E9DCC3 with dried leaves, soft daylight, 4:5 aspect ratio, phone screens left blank for compositing. No logos, no real people, no trademarked characters, no watermarks.",
+          "purpose": "Listing mockup",
+          "tool": "Canva"
+        }
+      ],
+      "index": 0,
+      "listingPrompt": "Write an Etsy listing for a digital download: 12 original fall phone wallpapers with matching home-screen versions, light and dark, composed for phones whose lock-screen clock can be made small or moved. Title under 140 characters, starting with 'Fall Phone Wallpaper Pack'. Give 13 tags of 20 characters or fewer (e.g. fall wallpaper, autumn lock screen, cozy phone theme). Description: what's included, pixel size (1290x2796) and that it fits most modern phones, PNG format, instant download and nothing ships, how to set it, and a short FAQ (Will it fit my phone? Can I use it on Android? Can I share it? It is for personal use only). You may write 'for iPhone' only as a compatibility phrase; do NOT use Apple logos, 'iOS' in the title, official wallpaper names, or any other trademarks.",
+      "marketing": {
+        "channels": [
+          {
+            "cadence": "3-4 per week",
+            "channel": "TikTok",
+            "tactic": "Before/after phone layout swaps with link in bio"
+          },
+          {
+            "cadence": "Daily",
+            "channel": "Pinterest",
+            "tactic": "Single-wallpaper pins with phone mockups"
+          }
+        ],
+        "hooks": [
+          "Your old wallpaper looks wrong with the new small clock. Fix it",
+          "I made wallpapers for the new lock screen layout",
+          "POV: you finally moved the clock"
+        ],
+        "keywords": [
+          "fall phone wallpaper",
+          "autumn lock screen",
+          "cozy phone theme",
+          "small clock wallpaper",
+          "aesthetic home screen"
+        ],
+        "launchPlan": [
+          {
+            "action": "List the pack on Etsy and Payhip",
+            "day": "Day 0"
+          },
+          {
+            "action": "Post TikTok 1: before/after moving the clock with the new wallpaper",
+            "day": "Day 1"
+          },
+          {
+            "action": "Post TikTok 2: 'which fall wallpaper are you' scroll; pin 5 designs on Pinterest",
+            "day": "Day 3"
+          },
+          {
+            "action": "Post TikTok 3: ASMR setup; reply to comments with video replies",
+            "day": "Day 5"
+          },
+          {
+            "action": "Check Etsy views and conversion; adjust title to whichever phrase gets views",
+            "day": "Day 7"
+          },
+          {
+            "action": "Release 1 free wallpaper on Pinterest linking to the pack",
+            "day": "Day 10"
+          },
+          {
+            "action": "Start a Halloween mini pack if fall pack sells",
+            "day": "Day 14"
+          },
+          {
+            "action": "Go/pivot/stop: continue at 5+ sales or a 10k-view video; pivot to holiday pack with lead magnet if only views; stop under 2 sales and 2k views",
+            "day": "Day 21"
+          }
+        ],
+        "positioning": "The first fall pack composed for the new small-clock lock screen"
+      },
+      "platforms": [
+        {
+          "name": "Etsy",
+          "role": "primary",
+          "why": "Buyers already search for lock screen wallpaper packs there"
+        },
+        {
+          "name": "Payhip",
+          "role": "secondary",
+          "why": "Link-in-bio checkout for TikTok traffic"
+        },
+        {
+          "name": "TikTok",
+          "role": "traffic",
+          "why": "Before/after phone setup videos are a native format"
+        },
+        {
+          "name": "Pinterest",
+          "role": "traffic",
+          "why": "Fall phone-aesthetic searches"
+        }
+      ],
+      "pricing": {
+        "basis": "estimate",
+        "currency": "USD",
+        "high": 7,
+        "low": 3,
+        "rationale": "Wallpaper packs are low-ticket impulse buys; 12 pairs with light/dark justifies the mid price",
+        "recommended": 4.5
+      },
+      "productName": "Open Sky Fall Wallpaper Pack (12 lock + home pairs)",
+      "risks": [
+        "Crowded format",
+        "Trademark complaints if Apple marks are misused",
+        "Low price means volume is needed"
+      ],
+      "source": "worker",
+      "superPrompt": "You are a digital illustrator and art director designing a sellable phone wallpaper pack. BUYER: Gen Z and millennial iPhone users who restyle their phones every season. Their phone update now lets them shrink the lock-screen clock or move it to the widget row, so far more of the wallpaper is visible. Wallpapers built around a big central clock now look empty or cramped. JOB: give them a cohesive fall pack composed for the new layout. DELIVERABLE: 12 designs. For each one give: title, mood line, a full image-generation prompt, composition notes, and its matching home-screen variant (blurred or simplified version of the same art so icons stay readable). Themes: 1 misty orchard at dawn, 2 maple leaves drifting across open sky, 3 cozy window with rain and candle, 4 pumpkin field at golden hour, 5 abstract fall color blocks, 6 mushroom forest floor, 7 harvest moon over hills, 8 knit texture close-up, 9 apple still life, 10 foggy lake with a rowboat, 11 dried flowers in a jar, 12 night sky with falling leaves. SPEC: 1290x2796 px master (19.5:9), keep the top 22% calm and low-detail (clock and widget zone), the focal subject between 35% and 75% of the height, the bottom 12% low-detail (flashlight/camera controls). Each design in light and dark versions. PALETTE: Pumpkin #D9822B, Maple #A23E2A, Oat #E9DCC3, Moss #5F6B3C, Fog #C9CCD1, Night Plum #2E2433. FONTS (for listing images and the guide in Canva): pairing A, Fraunces with Inter; pairing B, DM Serif Display with DM Sans. CONTENT RULES: everything original; no text in the wallpapers; no recognizable landmarks, brands, characters or real people; no imitation of a named living artist. DIFFERENTIATION: composed for the new compact-clock layout, matched lock/home pairs, light and dark versions, one coherent palette. RIGHTS: never reproduce or reference Apple's official wallpapers, Apple logos or UI; mention the phone brand only as compatibility. OUTPUT: Section 1, pack overview (3 sentences). Sections 2-13, one per design with the fields above. Section 14, a one-page 'How to set your wallpaper and move the clock' guide written generically (Settings path described in plain words, with a note that menus vary by version). Section 15, 3 TikTok video scripts (before/after swap, 'which one are you', ASMR scroll). SELF-CHECK: (1) every design respects the top 22% calm zone, (2) no text in the art, (3) no brands or official wallpapers referenced, (4) each design has light and dark variants and a home-screen variant, (5) palette hexes used consistently.",
+      "themeKey": "Fall 'open sky' phone wallpaper pack composed for the small"
+    }
+  ],
+  "runId": "run-hunt-aesthetics-20261004-2",
+  "source": "worker",
+  "writtenAt": "2026-10-04T23:58:00Z"
+}

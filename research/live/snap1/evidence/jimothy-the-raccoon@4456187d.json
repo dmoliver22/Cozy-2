@@ -1,0 +1,19 @@
+{
+  "accessMethod": "web_search_result",
+  "candidateId": "jimothy-the-raccoon",
+  "claim": "A teenager reportedly turned a free raccoon baseball card (likely the Mariners Jimothy giveaway) into more than $20K. That's collectible-resale demand, and an outlier.",
+  "excerpt": "Headline only; the link to the Jimothy card giveaway is inferred from the search context.",
+  "firstRetrievedAt": "2026-10-04T20:57:55Z",
+  "firstSeenRunId": "run-2026-10-04-memes",
+  "id": "jimothy-the-raccoon~4456187d",
+  "intent": "purchase",
+  "kind": "observed",
+  "lastSeenRunId": "run-2026-10-04-memes",
+  "publishedAt": null,
+  "publisher": "Yahoo Entertainment",
+  "retrievedAt": "2026-10-04T20:57:55Z",
+  "signalType": "press",
+  "syndicationOf": null,
+  "title": "Teenager Turns Free Raccoon Baseball Card Into More Than $20K",
+  "url": "https://yahoo.com/entertainment/articles/teenager-turns-free-raccoon-baseball-110003532.html"
+}

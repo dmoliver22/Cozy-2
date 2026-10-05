@@ -1,0 +1,170 @@
+{
+  "actionRationale": "Real adoption among kids and parent-facing coverage, but no buying evidence and a fast-turning audience. Cheap sticker test on free platforms, marketed to parents and teachers, not to kids.",
+  "adopters": {
+    "evidence": [
+      "i-can-t-do-nathan~d1cb5c89",
+      "i-can-t-do-nathan~06286d1d",
+      "i-can-t-do-nathan~ae9c67ae"
+    ],
+    "text": "Gen Alpha kids and young teens on TikTok and Instagram, using it about schoolwork and daily life; parents and educators searching its meaning."
+  },
+  "aliases": [
+    "can't do nathan",
+    "who's nathan"
+  ],
+  "category": "meme",
+  "channels": [
+    "Redbubble",
+    "Etsy",
+    "Pinterest"
+  ],
+  "competition": {
+    "evidence": [
+      "i-can-t-do-nathan~22941ebc"
+    ],
+    "level": "none_found",
+    "text": "No meme-specific products surfaced in a web search; marketplaces were not checked directly."
+  },
+  "editorialNotes": [],
+  "effortMin": "low",
+  "firstSeenAt": "2026-10-05T00:00:55.487Z",
+  "formats": [
+    "sticker"
+  ],
+  "gap": {
+    "isInference": true,
+    "text": "School-safe stickers tied to situations kids face (homework, chores, Mondays), including a teacher variant that adults can buy."
+  },
+  "id": "i-can-t-do-nathan",
+  "jobId": "hunt-memes-20261004",
+  "language": "en",
+  "lastRunId": "run-hunt-memes-20261004-4",
+  "lens": "First-spark hunt: memes, catchphrases, slang",
+  "name": "I Can't Do Nathan",
+  "origin": {
+    "date": null,
+    "evidence": [
+      "i-can-t-do-nathan~3564fd0a"
+    ],
+    "text": "YouTube gaming clip uploaded mid-August 2026; popularized on TikTok and Instagram late August to early September."
+  },
+  "productDemand": {
+    "evidence": [
+      "i-can-t-do-nathan~d1cb5c89",
+      "i-can-t-do-nathan~ae9c67ae"
+    ],
+    "text": "No purchase evidence; curiosity from adults decoding the slang."
+  },
+  "products": [
+    {
+      "buyer": "Tweens/teens and the parents, siblings and teachers who buy for them",
+      "channels": [
+        "Redbubble",
+        "Etsy",
+        "Pinterest"
+      ],
+      "continueIf": "5+ sales or 30+ favorites in 14 days",
+      "differentiation": "Situational, school-safe designs plus a teacher pack",
+      "effort": "low",
+      "effortHours": 7,
+      "evidence": [
+        "i-can-t-do-nathan~d1cb5c89",
+        "i-can-t-do-nathan~06286d1d"
+      ],
+      "format": "sticker",
+      "fulfillment": "pod",
+      "leadTimeDays": 2,
+      "pivotIf": "Teacher variant outperforms: make a classroom reward sheet",
+      "rightsNote": "No game, YouTuber, child or clip references",
+      "stopIf": "No sales in 14 days",
+      "theme": "School-safe 'i can't do nathan' sticker pack about homework, chores and Mondays, with a teacher variant",
+      "validationTest": "10 designs live for 14 days with Pinterest and adult-perspective clips",
+      "whyBuy": "Lets kids show they're in on the phrase; an easy, cheap gift for adults to buy"
+    }
+  ],
+  "qualityFlags": [],
+  "recommendedAction": "prepare",
+  "region": "US",
+  "researchedAt": "2026-10-05T00:00:47Z",
+  "rights": {
+    "note": "The phrase is fine to use, but the source is a minor's voice in a YouTuber's gaming video. Never use the clip, audio, the child, the YouTuber's name, the game or its logos. Audience includes minors: no targeted ads.",
+    "risk": "medium"
+  },
+  "runIds": [
+    "run-hunt-memes-20261004-4"
+  ],
+  "scores": {
+    "buyerIntent": {
+      "basis": "qualitative",
+      "rationale": "Curiosity only",
+      "score": 1
+    },
+    "durability": {
+      "basis": "qualitative",
+      "rationale": "Gen Alpha slang turns fast",
+      "score": 2
+    },
+    "economics": {
+      "basis": "qualitative",
+      "rationale": "Free POD platforms, low prices",
+      "score": 3
+    },
+    "productFit": {
+      "basis": "qualitative",
+      "rationale": "Short phrase suits stickers for school gear",
+      "score": 4
+    },
+    "supplyGap": {
+      "basis": "qualitative",
+      "rationale": "No meme-specific products found; slang-sticker market generally busy",
+      "score": 3
+    },
+    "timing": {
+      "basis": "reported",
+      "rationale": "About 7 weeks old; in school-year adoption phase",
+      "score": 3
+    }
+  },
+  "source": "research",
+  "spread": {
+    "evidence": [
+      "i-can-t-do-nathan~e0af3bc1",
+      "i-can-t-do-nathan~d1cb5c89",
+      "i-can-t-do-nathan~06286d1d",
+      "i-can-t-do-nathan~f39da37a",
+      "i-can-t-do-nathan~4034d62c"
+    ],
+    "text": "KYM roundup headline (Sept 11), a school-year trends roundup in a regional newspaper, a Yahoo piece on most-searched teen slang, and independent meme databases."
+  },
+  "summary": "A Gen Alpha catchphrase from a misheard 'I can't do nothing' in a mid-August 2026 gaming video, now used as a joking 'I'm done' about school and chores.",
+  "topicKeys": [
+    "phrase:i cant do nathan",
+    "phrase:cant do nathan",
+    "phrase:whos nathan"
+  ],
+  "trajectory": {
+    "evidence": [
+      "i-can-t-do-nathan~d1cb5c89",
+      "i-can-t-do-nathan~06286d1d"
+    ],
+    "stage": "early_growth",
+    "text": "Moved from a meme audio into kids' everyday speech by the school year, as shown by parent-focused coverage. Evidence of continued growth after mid-September is thin."
+  },
+  "unresolved": [
+    "Does the phrase appear in October parent/teacher slang roundups?",
+    "Is it spreading beyond TikTok (school hallway reports, YouTube Shorts)?",
+    "Any 'can't do nathan' merch appearing (demand signal or crowding)?"
+  ],
+  "what": "A kid in a YouTube gaming video says he \"can't do nothing\", which sounds like \"can't do Nathan\". From late August the audio and phrase spread on TikTok and Instagram as an all-purpose resignation line, especially about homework. Adults are now searching what it means.",
+  "window": {
+    "endEstimate": null,
+    "estimate": "4-8 weeks",
+    "invalidators": [
+      "Teachers/parents coverage stops mentioning it",
+      "A new phrase replaces it in kid-trend roundups"
+    ],
+    "reasoning": "Gen Alpha phrases that reach school hallways can last a semester (6-7 did), but they turn fast. Current coverage is from September.",
+    "seasonality": "School year; winter break could be a second hook",
+    "sellBy": null
+  }
+}

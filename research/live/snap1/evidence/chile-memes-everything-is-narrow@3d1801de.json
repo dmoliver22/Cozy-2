@@ -1,0 +1,19 @@
+{
+  "accessMethod": "web_search_result",
+  "candidateId": "chile-memes-everything-is-narrow",
+  "claim": "Explainer syndicated to Yahoo",
+  "excerpt": "memes imagining everything in Chile, from houses to cars, as being as narrow and long as the country's shape",
+  "firstRetrievedAt": "2026-10-05T00:00:47Z",
+  "firstSeenRunId": "run-hunt-memes-20261004-2",
+  "id": "chile-memes-everything-is-narrow~3d1801de",
+  "intent": "curiosity",
+  "kind": "observed",
+  "lastSeenRunId": "run-hunt-memes-20261004-2",
+  "publishedAt": null,
+  "publisher": "Yahoo Entertainment (KYM syndication)",
+  "retrievedAt": "2026-10-05T00:00:47Z",
+  "signalType": "press",
+  "syndicationOf": "chile-memes-everything-is-narrow~7634faca",
+  "title": "What's Up With All The 'Chile' Memes? The Meaning Of The Narrow Country's Viral Memes Explained",
+  "url": "https://www.yahoo.com/entertainment/articles/whats-chile-memes-meaning-narrow-174500297.html"
+}

@@ -1,0 +1,19 @@
+{
+  "accessMethod": "web_search_result",
+  "candidateId": "the-great-lock-in",
+  "claim": "A major fitness brand produced lock-in content in 2025.",
+  "excerpt": "Title only.",
+  "firstRetrievedAt": "2026-10-04T20:59:17Z",
+  "firstSeenRunId": "run-2026-10-04-movements",
+  "id": "the-great-lock-in~cdc5415c",
+  "intent": "utility",
+  "kind": "observed",
+  "lastSeenRunId": "run-2026-10-04-movements",
+  "publishedAt": null,
+  "publisher": "Gymshark",
+  "retrievedAt": "2026-10-04T20:59:17Z",
+  "signalType": "creator",
+  "syndicationOf": null,
+  "title": "What is The Great Lock-In of 2025? TikTok's New Viral Trend Explained",
+  "url": "https://row.gymshark.com/blog/article/the-great-lock-in"
+}

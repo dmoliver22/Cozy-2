@@ -1,0 +1,23 @@
+{
+  "action": "prepare",
+  "analystAction": "prepare",
+  "candidateId": "flavor-illusion-food-combos",
+  "competition": "low",
+  "confidence": 46,
+  "id": "flavor-illusion-food-combos~run-hunt-foodhome-20261004-1",
+  "independentSources": 8,
+  "purchaseSignals": 0,
+  "runId": "run-hunt-foodhome-20261004-1",
+  "score": 58,
+  "stage": "first_spark",
+  "takenAt": "2026-10-05T00:01:02Z",
+  "weightsUsed": {
+    "buyerIntent": 20,
+    "durability": 15,
+    "economics": 10,
+    "productFit": 15,
+    "supplyGap": 15,
+    "timing": 25
+  },
+  "windowEstimate": "4-8 weeks of relevance as a viral reference; the party-game use stays seasonal"
+}

@@ -1,0 +1,19 @@
+{
+  "accessMethod": "web_search_result",
+  "candidateId": "american-mahjong-boom",
+  "claim": "August 2026 commentary frames the revival as global and rooted in Chinese tradition.",
+  "excerpt": "Title only; URL path indicates August 2026.",
+  "firstRetrievedAt": "2026-10-04T20:53:53Z",
+  "firstSeenRunId": "run-2026-10-04-hobbies",
+  "id": "american-mahjong-boom~df9a4767",
+  "intent": "curiosity",
+  "kind": "observed",
+  "lastSeenRunId": "run-2026-10-04-hobbies",
+  "publishedAt": null,
+  "publisher": "Asia Times",
+  "retrievedAt": "2026-10-04T20:53:53Z",
+  "signalType": "press",
+  "syndicationOf": null,
+  "title": "The global revival of mahjong, a centuries-old Chinese tradition",
+  "url": "https://asiatimes.com/2026/08/the-global-revival-of-mahjong-a-centuries-old-chinese-tradition/"
+}

@@ -1,0 +1,19 @@
+{
+  "accessMethod": "web_search_result",
+  "candidateId": "jimothy-the-raccoon",
+  "claim": "Restates the same legal-expert view. Likely derivative of ABA Journal/Bloomberg Law coverage.",
+  "excerpt": "Headline only.",
+  "firstRetrievedAt": "2026-10-04T20:57:55Z",
+  "firstSeenRunId": "run-2026-10-04-memes",
+  "id": "jimothy-the-raccoon~56245f5f",
+  "intent": "utility",
+  "kind": "observed",
+  "lastSeenRunId": "run-2026-10-04-memes",
+  "publishedAt": null,
+  "publisher": "IIPLA",
+  "retrievedAt": "2026-10-04T20:57:55Z",
+  "signalType": "press",
+  "syndicationOf": "jimothy-the-raccoon~941d071d",
+  "title": "Legal Experts Say Viral Raccoon Jimothy's Name and Image Resist Trademark Ownership",
+  "url": "https://iipla.org/news/legal-experts-say-viral-raccoon-jimothy-s-name-and-image-resist-trademark-ownership"
+}

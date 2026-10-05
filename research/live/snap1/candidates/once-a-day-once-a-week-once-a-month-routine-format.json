@@ -1,0 +1,169 @@
+{
+  "actionRationale": "Cheap to build (about 5 hours) and the trend format gives free content hooks, but supply is saturated, so treat it as a low-cost add-on, not a main bet. No ad spend.",
+  "adopters": {
+    "evidence": [
+      "once-a-day-once-a-week-once-a-month-routine-format~97eca2a2",
+      "once-a-day-once-a-week-once-a-month-routine-format~23027878"
+    ],
+    "text": "Creators across niches, including skincare, fitness, home cleaning and social media management (per roundups)."
+  },
+  "aliases": [
+    "once a day once a week once a month trend",
+    "daily weekly monthly routine trend"
+  ],
+  "category": "other",
+  "channels": [
+    "Etsy",
+    "Pinterest",
+    "TikTok"
+  ],
+  "competition": {
+    "evidence": [
+      "once-a-day-once-a-week-once-a-month-routine-format~cf2d2a40",
+      "once-a-day-once-a-week-once-a-month-routine-format~98be4589",
+      "once-a-day-once-a-week-once-a-month-routine-format~868b7378"
+    ],
+    "level": "high",
+    "text": "Daily/weekly/monthly cleaning schedules and planner bundles are common on Etsy and free on blogs. Generic supply is high; we found no products using the exact three-bucket wording."
+  },
+  "editorialNotes": [],
+  "effortMin": "low",
+  "firstSeenAt": "2026-10-05T00:01:10.949Z",
+  "formats": [
+    "printable"
+  ],
+  "gap": {
+    "isInference": true,
+    "text": "A short (5-per-bucket) version using the trend's exact wording, with pet, plant and car add-ons and vertical slides for people who want to post their own version."
+  },
+  "id": "once-a-day-once-a-week-once-a-month-routine-format",
+  "jobId": "hunt-foodhome-20261004",
+  "language": "en",
+  "lastRunId": "run-hunt-foodhome-20261004-2",
+  "lens": "First-spark hunt: food, home, pets and household micro-trend",
+  "name": "Once a Day, Once a Week, Once a Month Routine Format",
+  "origin": {
+    "date": null,
+    "evidence": [
+      "once-a-day-once-a-week-once-a-month-routine-format~97eca2a2",
+      "once-a-day-once-a-week-once-a-month-routine-format~23027878"
+    ],
+    "text": "Named in SocialBee's 29 September 2026 TikTok roundup and described in INFLOW Network's September 2026 roundup. We did not identify the originating video."
+  },
+  "productDemand": {
+    "evidence": [
+      "once-a-day-once-a-week-once-a-month-routine-format~cf2d2a40",
+      "once-a-day-once-a-week-once-a-month-routine-format~98be4589"
+    ],
+    "text": "No purchase evidence tied to the trend. Search snippets show sellers already list daily/weekly/monthly cleaning schedules, which is supply, not demand."
+  },
+  "products": [
+    {
+      "buyer": "US renters and homeowners who saved three-bucket routine videos and want a short fridge checklist",
+      "channels": [
+        "Etsy",
+        "Pinterest",
+        "TikTok"
+      ],
+      "continueIf": "1+ sale or 10+ favorites in 21 days",
+      "differentiation": "Uses the trend's exact three-bucket wording, caps lists at 5, adds pet/plant/car add-ons and vertical slide templates",
+      "effort": "low",
+      "effortHours": 5,
+      "evidence": [
+        "once-a-day-once-a-week-once-a-month-routine-format~97eca2a2",
+        "once-a-day-once-a-week-once-a-month-routine-format~23027878",
+        "once-a-day-once-a-week-once-a-month-routine-format~cf2d2a40"
+      ],
+      "format": "printable",
+      "fulfillment": "digital",
+      "leadTimeDays": 1,
+      "pivotIf": "Pet or plant add-on pins outperform: spin those into their own listings",
+      "rightsNote": "The phrase is a generic format, not a brand; avoid cleaning-product brands and creator names",
+      "stopIf": "Under 75 views in 21 days",
+      "theme": "Once a Day / Once a Week / Once a Month home rhythm sheets with room, pet and plant add-ons",
+      "validationTest": "List plus 2 trend-format TikToks and 10 pins in 7 days",
+      "whyBuy": "A ready, editable version of the exact three-bucket format they saw, capped at 5 tasks per list"
+    }
+  ],
+  "qualityFlags": [],
+  "recommendedAction": "prepare",
+  "region": "US",
+  "researchedAt": "2026-10-05T00:01:02Z",
+  "rights": {
+    "note": "Generic phrase. Avoid cleaning-product brands and creator names.",
+    "risk": "low"
+  },
+  "runIds": [
+    "run-hunt-foodhome-20261004-2"
+  ],
+  "scores": {
+    "buyerIntent": {
+      "basis": "unknown",
+      "rationale": "No purchase evidence",
+      "score": null
+    },
+    "durability": {
+      "basis": "qualitative",
+      "rationale": "Formats churn quickly; the category itself lasts",
+      "score": 2
+    },
+    "economics": {
+      "basis": "qualitative",
+      "rationale": "Digital, but low price points in a crowded category",
+      "score": 3
+    },
+    "productFit": {
+      "basis": "qualitative",
+      "rationale": "Format translates directly into a checklist",
+      "score": 4
+    },
+    "supplyGap": {
+      "basis": "qualitative",
+      "rationale": "Generic daily/weekly/monthly schedules are plentiful",
+      "score": 1
+    },
+    "timing": {
+      "basis": "reported",
+      "rationale": "Listed in a 29 Sep 2026 roundup",
+      "score": 4
+    }
+  },
+  "source": "research",
+  "spread": {
+    "evidence": [
+      "once-a-day-once-a-week-once-a-month-routine-format~97eca2a2",
+      "once-a-day-once-a-week-once-a-month-routine-format~23027878"
+    ],
+    "text": "Two independent marketing-trend roundups list it in September 2026. We have no view counts and no direct TikTok access."
+  },
+  "summary": "A September 2026 TikTok format where creators split a routine (skincare, fitness, cleaning, business) into three buckets: once a day, once a week, once a month.",
+  "topicKeys": [
+    "phrase:once a day once a week once a month routine format",
+    "phrase:once a day once a week once a month trend",
+    "phrase:daily weekly monthly routine trend"
+  ],
+  "trajectory": {
+    "evidence": [
+      "once-a-day-once-a-week-once-a-month-routine-format~97eca2a2"
+    ],
+    "stage": "first_spark",
+    "text": "A newly named format in late-September roundups. Formats like this often last a few weeks; evidence is thin."
+  },
+  "unresolved": [
+    "Does the format appear in October roundups or keep spreading into home/cleaning creators specifically?",
+    "Do Etsy listings start using the exact phrase (signals buyers search it)?",
+    "Do pet or plant care versions appear on TikTok?"
+  ],
+  "what": "A short-video or carousel format: the creator shows their routine in three labeled buckets. Roundups say it covers skincare, fitness, cleaning, content creation and business routines. It is a format rather than a method, so it can be applied to home care, pets and plants.",
+  "window": {
+    "endEstimate": null,
+    "estimate": null,
+    "invalidators": [
+      "The format disappears from roundups in October",
+      "Etsy floods with copies using the phrase"
+    ],
+    "reasoning": "Format trends typically fade fast, but the underlying product category (cleaning schedules) is evergreen, so the main risk is low visibility, not expiry.",
+    "seasonality": "Evergreen; January reset season is the stronger sales period for routine printables",
+    "sellBy": null
+  }
+}

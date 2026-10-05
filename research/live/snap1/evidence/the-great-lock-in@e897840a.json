@@ -1,0 +1,19 @@
+{
+  "accessMethod": "web_search_result",
+  "candidateId": "the-great-lock-in",
+  "claim": "Fitness retailers publish lock-in content.",
+  "excerpt": "Title only.",
+  "firstRetrievedAt": "2026-10-04T20:59:17Z",
+  "firstSeenRunId": "run-2026-10-04-movements",
+  "id": "the-great-lock-in~e897840a",
+  "intent": "utility",
+  "kind": "observed",
+  "lastSeenRunId": "run-2026-10-04-movements",
+  "publishedAt": null,
+  "publisher": "Johnson Fitness UK",
+  "retrievedAt": "2026-10-04T20:59:17Z",
+  "signalType": "creator",
+  "syndicationOf": null,
+  "title": "The Great Lock-In: September to December",
+  "url": "https://uk.johnsonfitness.com/blogs/fitness/the-great-lock-in-september-to-december"
+}

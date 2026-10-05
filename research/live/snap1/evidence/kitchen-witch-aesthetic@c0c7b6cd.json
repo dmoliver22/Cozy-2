@@ -1,0 +1,19 @@
+{
+  "accessMethod": "web_search_result",
+  "candidateId": "kitchen-witch-aesthetic",
+  "claim": "A premium home brand released a licensed Practical Magic 2 decor collection, framed as whimsigoth.",
+  "excerpt": "Search summary: MacKenzie-Childs released a Practical Magic 2 collection for the film's premiere.",
+  "firstRetrievedAt": "2026-10-04T21:00:56Z",
+  "firstSeenRunId": "run-2026-10-04-aesthetics",
+  "id": "kitchen-witch-aesthetic~c0c7b6cd",
+  "intent": "none",
+  "kind": "observed",
+  "lastSeenRunId": "run-2026-10-04-aesthetics",
+  "publishedAt": null,
+  "publisher": "PureWow",
+  "retrievedAt": "2026-10-04T21:00:56Z",
+  "signalType": "press",
+  "syndicationOf": null,
+  "title": "The MacKenzie-Childs 'Practical Magic 2' Decor Collection Is a Whimsigoth Dream",
+  "url": "https://www.purewow.com/home/mackenzie-childs-practical-magic-2-collection"
+}

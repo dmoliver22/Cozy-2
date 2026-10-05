@@ -1,0 +1,603 @@
+{
+  "createdAt": "2026-10-05T00:01:27Z",
+  "jobId": "hunt-newyear-20261004",
+  "raw": {
+    "candidates": [
+      {
+        "actionRationale": "There is a credible growth signal and a strong New Year fit, but competition from imperfect planners and no purchase evidence. Build now, push pins in November, and concentrate effort on Dec 26–Jan 10.",
+        "adopters": {
+          "evidence": [
+            "e1",
+            "e2",
+            "e4",
+            "e6",
+            "e7"
+          ],
+          "text": "Gen Z and young millennials fatigued by looksmaxxing and optimization content; wellness and fashion media; independent newsletters. Reported in US and German press."
+        },
+        "aliases": [
+          "anti-maxxing",
+          "counter-maxxing",
+          "good enough era",
+          "half-assing",
+          "cosymaxxing",
+          "nonnamaxxing",
+          "Gen Z 'gut genug' trend"
+        ],
+        "category": "movement",
+        "competition": {
+          "evidence": [
+            "e12",
+            "e13"
+          ],
+          "level": "moderate",
+          "text": "Anti-perfection and chaos-friendly planners exist (Goodnotes, Payhip, a 2022 'unsolicited advice' planner). No planner tied to counter-maxxing or anti-resolution 2027 surfaced. Marketplaces not checked directly."
+        },
+        "evidence": [
+          {
+            "accessMethod": "web_search_result",
+            "claim": "Newsweek reports Pulsar data: anti-maxxing ('counter-maxxing') talk has overtaken pro-maxxing; anti-maxxers embrace being 'good enough'.",
+            "excerpt": "'Pro-maxxing' volume keeps growing, but 'counter-maxxing' is growing even faster - and has now overtaken it.",
+            "id": "e1",
+            "intent": "curiosity",
+            "kind": "observed",
+            "publishedAt": null,
+            "publisher": "Newsweek",
+            "retrievedAt": "2026-10-05T00:01:27Z",
+            "signalType": "press",
+            "syndicationOf": null,
+            "title": "The Internet Is Changing Its Mind on Maxxing Mania",
+            "url": "https://www.newsweek.com/the-internet-is-changing-its-mind-on-maxxing-mania-12276740"
+          },
+          {
+            "accessMethod": "web_search_result",
+            "claim": "German network coverage: Gen Z turning its back on self-optimization ('gut genug' instead of optimization mania).",
+            "excerpt": "Jahrelang alles optimiert, jetzt reicht es der Gen Z – ein 'Maxxing'-Trend kippt gerade massiv",
+            "id": "e2",
+            "intent": "curiosity",
+            "kind": "observed",
+            "publishedAt": null,
+            "publisher": "echo24 (Ippen Media, Germany)",
+            "retrievedAt": "2026-10-05T00:01:27Z",
+            "signalType": "press",
+            "syndicationOf": null,
+            "title": "Jahrelang alles optimiert, jetzt reicht es der Gen Z – ein 'Maxxing'-Trend kippt gerade massiv",
+            "url": "https://www.echo24.de/welt/anti-maxxing-gen-z-kehrt-selbstoptimierungstrends-den-ruecken-zr-94450592.html"
+          },
+          {
+            "accessMethod": "web_search_result",
+            "claim": "Same article as e2 on a sister site.",
+            "excerpt": "'Gut genug' statt Optimierungswahn: Gen Z dreht den Maxxing-Trend um",
+            "id": "e3",
+            "intent": "curiosity",
+            "kind": "observed",
+            "publishedAt": null,
+            "publisher": "leinetal24 (Ippen Media)",
+            "retrievedAt": "2026-10-05T00:01:27Z",
+            "signalType": "press",
+            "syndicationOf": "e2",
+            "title": "'Gut genug' statt Optimierungswahn: Gen Z dreht den Maxxing-Trend um",
+            "url": "https://www.leinetal24.de/welt/anti-maxxing-gen-z-kehrt-selbstoptimierungstrends-den-ruecken-zr-94450592.html"
+          },
+          {
+            "accessMethod": "web_search_result",
+            "claim": "A separate German outlet covered counter-maxxing.",
+            "excerpt": "Gen Z wollte ständig alles an sich 'maxxen', jetzt hat sie eine Alternative gefunden",
+            "id": "e4",
+            "intent": "curiosity",
+            "kind": "observed",
+            "publishedAt": null,
+            "publisher": "Mein-MMO",
+            "retrievedAt": "2026-10-05T00:01:27Z",
+            "signalType": "press",
+            "syndicationOf": null,
+            "title": "Gen Z wollte ständig alles an sich 'maxxen', jetzt hat sie eine Alternative gefunden",
+            "url": "https://mein-mmo.de/gen-z-counter-maxxing/"
+          },
+          {
+            "accessMethod": "web_search_result",
+            "claim": "Earlier US backlash essay against maxxing culture (May 2026).",
+            "excerpt": "Enough with the '-maxxing'",
+            "id": "e5",
+            "intent": "criticism",
+            "kind": "observed",
+            "publishedAt": "2026-05-07",
+            "publisher": "Salon",
+            "retrievedAt": "2026-10-05T00:01:27Z",
+            "signalType": "press",
+            "syndicationOf": null,
+            "title": "Enough with the '-maxxing'",
+            "url": "https://www.salon.com/2026/05/07/enough-with-the-maxxing/"
+          },
+          {
+            "accessMethod": "web_search_result",
+            "claim": "An independent creator newsletter adopted the anti-optimization stance.",
+            "excerpt": "This Summer Will Not Be Optimized",
+            "id": "e6",
+            "intent": "utility",
+            "kind": "observed",
+            "publishedAt": null,
+            "publisher": "Scrollsick (Substack)",
+            "retrievedAt": "2026-10-05T00:01:27Z",
+            "signalType": "creator",
+            "syndicationOf": null,
+            "title": "#8: This Summer Will Not Be Optimized",
+            "url": "https://scrollsick.substack.com/p/this-summer-will-not-be-optimized"
+          },
+          {
+            "accessMethod": "web_search_result",
+            "claim": "Fashion and wellness media declared hyper-optimization 'out' for summer 2026.",
+            "excerpt": "Summer 2026 seems ready to leave the collective obsession with constant optimization behind",
+            "id": "e7",
+            "intent": "none",
+            "kind": "observed",
+            "publishedAt": null,
+            "publisher": "nss G-club",
+            "retrievedAt": "2026-10-05T00:01:27Z",
+            "signalType": "press",
+            "syndicationOf": null,
+            "title": "Summer 2026 wellness trends: in and out",
+            "url": "https://www.nssgclub.com/en/beauty/45652/summer-2026-wellness-trends-in-and-out"
+          },
+          {
+            "accessMethod": "web_search_result",
+            "claim": "A counter-maxxing sub-trend (nonnamaxxing) was covered by Forbes in March 2026.",
+            "excerpt": "Gen Z is embracing 'nonna-maxxing,' a trend countering hustle culture and screen fatigue",
+            "id": "e8",
+            "intent": "curiosity",
+            "kind": "observed",
+            "publishedAt": "2026-03-27",
+            "publisher": "Forbes",
+            "retrievedAt": "2026-10-05T00:01:27Z",
+            "signalType": "press",
+            "syndicationOf": null,
+            "title": "What Is 'Nonna Maxxing'? Why Gen Z Is Returning to Slow Cooking",
+            "url": "https://www.forbes.com/sites/stephaniegravalese/2026/03/27/gen-z-is-nonna-maxxing---and-cooking-like-their-grandmothers-again/"
+          },
+          {
+            "accessMethod": "web_search_result",
+            "claim": "Social listening shows the maxxing suffix surging, the language the counter-trend reacts to.",
+            "excerpt": "Usage of 'maxxing' words increased by 96% between January and May 2026",
+            "id": "e9",
+            "intent": "none",
+            "kind": "observed",
+            "publishedAt": null,
+            "publisher": "Meltwater",
+            "retrievedAt": "2026-10-05T00:01:27Z",
+            "signalType": "search",
+            "syndicationOf": null,
+            "title": "What 'Maxxing' Trends Reveal About Social Media Culture in 2026",
+            "url": "https://www.meltwater.com/en/blog/maxxing-trend-analysis"
+          },
+          {
+            "accessMethod": "web_search_result",
+            "claim": "The New Year angle: Gen Z choosing reflection over reinvention, so goals feel calmer and realistic.",
+            "excerpt": "In 2026, Gen Z is choosing reflection over reinvention and embracing slow living with the return of hobbies.",
+            "id": "e10",
+            "intent": "none",
+            "kind": "observed",
+            "publishedAt": null,
+            "publisher": "Trill Mag",
+            "retrievedAt": "2026-10-05T00:01:27Z",
+            "signalType": "press",
+            "syndicationOf": null,
+            "title": "Reflection over rebranding: how Gen Z is choosing slow living in 2026",
+            "url": "https://www.trillmag.com/lifestyle/health-wellbeing/reflection-over-rebranding-how-gen-z-is-choosing-slow-living-in-2026/"
+          },
+          {
+            "accessMethod": "web_search_result",
+            "claim": "Context: a large share of Americans still set resolutions, so the anti-resolution framing addresses a big market.",
+            "excerpt": "42% of Americans making 2026 New Year's resolutions",
+            "id": "e11",
+            "intent": "none",
+            "kind": "observed",
+            "publishedAt": null,
+            "publisher": "Stagwell",
+            "retrievedAt": "2026-10-05T00:01:27Z",
+            "signalType": "press",
+            "syndicationOf": null,
+            "title": "What the data say: 42% of Americans making 2026 New Year's resolutions",
+            "url": "https://www.stagwellglobal.com/what-the-data-say-42-of-americans-making-2026-new-years-resolutions/"
+          },
+          {
+            "accessMethod": "web_search_result",
+            "claim": "Supply: progress-over-perfection planners exist.",
+            "excerpt": "designed to help you make progress rather than chase perfection",
+            "id": "e12",
+            "intent": "none",
+            "kind": "observed",
+            "publishedAt": null,
+            "publisher": "Goodnotes Marketplace",
+            "retrievedAt": "2026-10-05T00:01:27Z",
+            "signalType": "marketplace",
+            "syndicationOf": null,
+            "title": "Im Hero planner and journal",
+            "url": "https://marketplace.goodnotes.com/listing/creator/68492802d7542716010525db-im-hero?page=1"
+          },
+          {
+            "accessMethod": "web_search_result",
+            "claim": "Supply precedent: 'perfectly imperfect' anti-toxic-positivity planners have existed since at least 2022. The article was about a 2022 planner.",
+            "excerpt": "sheds light on 'toxic positivity' by proving nothing has to be perfect",
+            "id": "e13",
+            "intent": "none",
+            "kind": "observed",
+            "publishedAt": null,
+            "publisher": "PRINT Magazine",
+            "retrievedAt": "2026-10-05T00:01:27Z",
+            "signalType": "press",
+            "syndicationOf": null,
+            "title": "Unsolicited advice planner (2022)",
+            "url": "https://www.printmag.com/graphic-design/want-some-unsolicited-advice-adam-j-kurtz-made-a-2022-weekly-planner-and-journal-for-that/"
+          },
+          {
+            "accessMethod": "web_search_result",
+            "claim": "Category demand for paper planners among Gen Z; not specific to this trend.",
+            "excerpt": "Papier's sales swell to $50M this year fueled by a desire for analog products",
+            "id": "e14",
+            "intent": "purchase",
+            "kind": "observed",
+            "publishedAt": "2025-12-09",
+            "publisher": "Modern Retail",
+            "retrievedAt": "2026-10-05T00:01:27Z",
+            "signalType": "press",
+            "syndicationOf": null,
+            "title": "Papier's sales swell to $50M this year, fueled by a desire for analog products",
+            "url": "https://www.modernretail.co/marketing/brands-briefing-papiers-sales-swell-to-50m-this-year-fueled-by-a-desire-for-analog-products/"
+          }
+        ],
+        "gap": {
+          "isInference": true,
+          "text": "A dated 2027 planner that turns the counter-maxxing ideas into tools: 'enough lines' minimums, a half-do list, 'resolutions I'm not making' and 'this was enough' check-ins, timed for anti-resolution content in late December."
+        },
+        "name": "Counter-maxxing ('good enough' anti-optimization)",
+        "observations": [
+          {
+            "asOf": "2026-09-30",
+            "evidence": "e1",
+            "isAbsolute": false,
+            "metric": "Growth in anti-maxxing conversation over six months",
+            "note": "reported by Pulsar via Newsweek; not independently verified; asOf approximate because the article date was not visible",
+            "unit": "times (fold)",
+            "value": 15
+          },
+          {
+            "asOf": "2026-09-30",
+            "evidence": "e1",
+            "isAbsolute": false,
+            "metric": "Change in pro-maxxing discourse over the same period",
+            "note": "reported by Pulsar via Newsweek; not independently verified",
+            "unit": "percent",
+            "value": -19
+          }
+        ],
+        "origin": {
+          "date": null,
+          "evidence": [
+            "e5",
+            "e8",
+            "e1"
+          ],
+          "text": "The backlash built through 2026. Salon's 'Enough with the -maxxing' (2026-05-07), nonnamaxxing coverage (Forbes, 2026-03-27), and a January 2026 Instagram post encouraging 'half-assing' that press reported at 464,000 likes. Newsweek then reported Pulsar data that counter-maxxing had overtaken pro-maxxing; the Newsweek date was not visible in search."
+        },
+        "productDemand": {
+          "evidence": [
+            "e11",
+            "e14",
+            "e10"
+          ],
+          "text": "No direct purchase evidence for counter-maxxing products. Resolution-setting is still common (Stagwell: 42% of Americans for 2026), and paper planners sell to Gen Z. Demand for a 'good enough' planner is an inference."
+        },
+        "products": [
+          {
+            "buyer": "US adults aged 20–40 burned out on self-optimization and failed resolutions who still want a gentle structure for 2027",
+            "channels": [
+              "Etsy",
+              "Gumroad",
+              "Pinterest",
+              "TikTok"
+            ],
+            "continueIf": "At least 2 sales or 30+ favorites by Dec 1, or anti-resolution pins passing 200 saves.",
+            "differentiation": "Built around 'enough lines' (minimums), permission to half-do and celebrating enough; most existing imperfect planners are generic or chaos-themed.",
+            "effort": "low",
+            "effortHours": 12,
+            "evidence": [
+              "e1",
+              "e10",
+              "e11",
+              "e14"
+            ],
+            "format": "planner",
+            "fulfillment": "digital",
+            "leadTimeDays": 3,
+            "pivotIf": "Pins save but listing does not convert: sell the 'enough lines' worksheet bundle alone at $4, or bundle it with a generic 2027 planner.",
+            "playbook": {
+              "assembly": [
+                "Run the super prompt; check the 2027 dates.",
+                "Build US Letter masters in Canva (cover, manifesto, worksheet, monthly, weekly, review).",
+                "Fill all pages (about 90).",
+                "Resize to A4; fix overflow.",
+                "Add internal links for the digital version (month and quarter tabs); export as PDF Standard.",
+                "Export print PDFs as PDF Print (300 DPI); zip the Letter, A4 and Digital versions.",
+                "Create 5–7 listing images led by the 'Resolutions I'm Not Making' page."
+              ],
+              "asymmetry": {
+                "badBetIf": "The market reads it as generic 'imperfect planner' supply with no distinct search term; ranking then depends on ads.",
+                "downside": "About 12 hours and up to $20 in ads.",
+                "upside": "Zero marginal cost; anti-resolution content gets seasonal reach every December, and the concept is evergreen and can extend to KDP and POD."
+              },
+              "costs": {
+                "baseCost": null,
+                "basis": "estimate: verify in the provider catalog",
+                "item": null,
+                "provider": null,
+                "shipping": null,
+                "testBudget": 20,
+                "testBudgetNote": "Etsy Ads at $1/day from mid-December into early January only if organic favorites appear."
+              },
+              "extensions": [
+                "'Good Enough' sticker sheet and mug via Printify",
+                "6x9 KDP paperback version",
+                "Undated evergreen version",
+                "Matching 'Enough Lines' Google Sheet"
+              ],
+              "imagePrompts": [
+                {
+                  "prompt": "Minimal editorial cover: a single hand-drawn imperfect circle in brick #B4533C around the words 'Good Enough 2027' set in an elegant serif in charcoal #2B2B2B, small subtitle 'The anti-resolution planner', butter #F2E2A0 band at bottom with a tiny moss #6E7F55 sprig doodle, off-white #FAF7F0 background, portrait 8.5x11 ratio, no logos, no real people, no trademarked characters, no watermarks",
+                  "purpose": "Cover art",
+                  "tool": "Ideogram"
+                },
+                {
+                  "prompt": "Vertical 2:3 pin graphic in off-white #FAF7F0 with a checklist titled 'Resolutions I'm not making in 2027' in charcoal serif, five crossed-out handwritten-style items such as 'wake up at 5am', 'become a new person', 'drink a gallon of water', brick #B4533C strike-through marks, moss #6E7F55 accent doodles, no logos, no real people, no trademarked characters, no watermarks",
+                  "purpose": "Pinterest pin graphic",
+                  "tool": "ChatGPT images"
+                }
+              ],
+              "listingPrompt": "Write an Etsy listing for 'Good Enough 2027', a printable and digital anti-resolution planner (enough-lines worksheet, half-do list, 12 monthly spreads, 52 undated weekly pages, quarterly reviews; US Letter, A4, hyperlinked PDF). Title under 140 characters front-loading '2027 planner' and 'anti resolution'. 13 tags of 20 characters or fewer (e.g. 2027 planner, anti resolution, new year planner, gentle planner, minimalist planner). Description: who it is for (people tired of perfect routines and failed resolutions), what's included, file types and sizes, instant download steps, and a 5-question FAQ. No profanity in the title or tags; no brand, app or book names; no health, productivity or money promises.",
+              "marketing": {
+                "channels": [
+                  {
+                    "cadence": "daily from mid-November",
+                    "channel": "Pinterest",
+                    "tactic": "Anti-resolution list pins and worksheet freebies"
+                  },
+                  {
+                    "cadence": "3 per week",
+                    "channel": "TikTok/Reels",
+                    "tactic": "Humorous 'not doing that in 2027' lists; stitch over-optimized routine videos"
+                  },
+                  {
+                    "cadence": "weekly",
+                    "channel": "Etsy",
+                    "tactic": "Refresh tags to 'new year planner' in late December"
+                  }
+                ],
+                "hooks": [
+                  "Resolutions I'm not making in 2027",
+                  "Good enough is the new goal",
+                  "Floors, not goals",
+                  "A planner that celebrates half-doing things"
+                ],
+                "keywords": [
+                  "2027 planner",
+                  "anti resolution planner",
+                  "new year planner",
+                  "gentle planner",
+                  "no pressure planner",
+                  "minimalist planner 2027"
+                ],
+                "launchPlan": [
+                  {
+                    "action": "Publish the Etsy and Gumroad listings.",
+                    "day": "Day 0"
+                  },
+                  {
+                    "action": "Pin 'Resolutions I'm not making in 2027' graphics (3 variants).",
+                    "day": "Day 1"
+                  },
+                  {
+                    "action": "TikTok or Reel: 'My 2027 anti-resolution list' reading the crossed-out items aloud.",
+                    "day": "Day 3"
+                  },
+                  {
+                    "action": "Carousel: 'Enough lines: the minimum that counts'.",
+                    "day": "Day 6"
+                  },
+                  {
+                    "action": "Video replying to maxxing or 5 a.m.-routine content with a 'good enough' planner flip-through.",
+                    "day": "Day 9"
+                  },
+                  {
+                    "action": "Share a free 'enough lines' worksheet in communities that allow freebies (check the community rules).",
+                    "day": "Day 13"
+                  },
+                  {
+                    "action": "Review visits and favorites; adjust the title toward whichever search terms are converting.",
+                    "day": "Day 17"
+                  },
+                  {
+                    "action": "Go/pivot/stop check; plan the Dec 26–Jan 10 push.",
+                    "day": "Day 21"
+                  }
+                ],
+                "positioning": "The 2027 planner for people done with optimizing everything: floors, not goals."
+              },
+              "platforms": [
+                {
+                  "name": "Etsy",
+                  "role": "primary",
+                  "why": "New Year planner searches peak there in December and January."
+                },
+                {
+                  "name": "Gumroad",
+                  "role": "secondary",
+                  "why": "Direct link for social traffic."
+                },
+                {
+                  "name": "Pinterest",
+                  "role": "traffic",
+                  "why": "'New year resolutions' and anti-resolution pins get seasonal saves."
+                },
+                {
+                  "name": "Amazon KDP",
+                  "role": "secondary",
+                  "why": "An optional 6x9 paperback version for gift buyers."
+                }
+              ],
+              "pricing": {
+                "basis": "estimate",
+                "currency": "USD",
+                "high": 15,
+                "low": 7,
+                "rationale": "Mid-range digital planner price; the anti-resolution concept supports a small premium over generic trackers.",
+                "recommended": 10
+              },
+              "productName": "Good Enough 2027: The Anti-Resolution Planner",
+              "risks": [
+                "Anti-perfection planners already exist, so differentiation rests on the copy.",
+                "Profanity in marketing could limit Etsy and Pinterest reach; keep it out of titles.",
+                "The counter-maxxing data comes from one vendor (Pulsar) via press."
+              ],
+              "superPrompt": "You are a planner writer with a dry, kind sense of humor. Produce the complete content for a printable and digital planner called \"Good Enough 2027: The Anti-Resolution Planner\" for [YOUR SHOP NAME].\n\nBUYER AND JOB: US adults aged 20–40 who are tired of self-optimization culture (endless \"maxxing\", perfect routines, 5 a.m. clubs) and of failing resolutions by February. They still want 2027 to go well, just with less pressure. The planner replaces resolutions with \"enough lines\" (the minimum that counts as a win), a list of things they are allowed to half-do, and monthly check-ins that celebrate what got done.\n\nDELIVERABLE SPEC (US Letter 8.5x11 in and A4, portrait; plus a hyperlinked PDF):\n1. Cover: \"Good Enough 2027\", subtitle \"The anti-resolution planner.\"\n2. Manifesto page: 10 original short principles (e.g. \"Done beats perfect\", \"Rest is not a reward, it's the plan\"). Write all ten fresh; do not copy known quotes.\n3. \"Resolutions I'm Not Making\" page: a playful list with checkboxes, plus a lined box for their own.\n4. Enough Lines worksheet (2 pages): for 8 life areas (home, body, money, work, people, fun, mind, rest), write the floor (\"good enough is...\") and the ceiling (\"on a great week...\").\n5. Half-Ass List: things allowed to be done at 50%, with 20 examples and blank lines.\n6. 2027 year at a glance with correct dates (January 1, 2027 is a Friday).\n7. Monthly spread x12 (2 pages each): calendar grid with correct dates, \"one thing that matters this month\", \"things I'm letting slide\", and a \"this was enough\" box at month end.\n8. Weekly page x52 (undated, 1 page each): three must-dos max, a \"could-do if I feel like it\" list, an energy check (low / medium / high tick boxes), and \"wins, including tiny ones\".\n9. Quarterly \"Good Enough Review\" x4: what worked, what I dropped and don't miss, and what I'll keep doing at minimum.\n10. Year-end page: \"2027 was enough because...\" with 10 lines.\n\nDESIGN: Canva font pairings (1) \"Instrument Serif\" headings + \"Space Grotesk\" body; (2) \"Young Serif\" headings + \"Karla\" body. Palette: Butter #F2E2A0, Moss #6E7F55, Brick #B4533C, Charcoal #2B2B2B, Off-white #FAF7F0. Hand-drawn underlines and imperfect circles are welcome; keep the design minimal.\n\nCONTENT RULES: All wording must be original. Use a warm, witty, never mean tone at a 7th-grade reading level. No profanity (make the \"half-ass\" wording \"half-do\" in the product title and listing; it can appear on one inner page only as \"the Half-Ass List (we said it)\"). Make no claims about mental health, productivity, weight or money results, and never name therapy techniques as treatment. Do not name brands, apps, influencers, celebrities, books or films. Do not mock people who enjoy routines.\n\nDIFFERENTIATION: Existing \"imperfect\" planners are mostly generic or chaos-themed. This one is built around the 2026 move away from optimization: floors instead of goals, permission to half-do, and celebrating \"enough\".\n\nOUTPUT: Return every page in order (\"PAGE 1 — Cover\", ...), with full text, all 20 half-ass examples, the 10 principles and all field labels, followed by Canva layout notes for each page type.\n\nSELF-CHECK: (a) the 2027 dates are correct (Jan 1 and Dec 31 are Fridays); (b) no outcome claims; (c) no brands or names; (d) the tone stays kind; (e) both sizes and the digital version are specified; (f) profanity is limited to the one inner page as instructed."
+            },
+            "rightsNote": "Generic phrases. Avoid book titles (several 'good enough' books exist), so do not reference them. No brand or app names.",
+            "stopIf": "Under 75 visits by Dec 10 despite daily pinning.",
+            "theme": "'Good Enough 2027': an anti-resolution planner with floors instead of goals, a half-do list and 'this was enough' check-ins",
+            "validationTest": "List by Nov 1; push pins and 4 videos through November, then a heavier push Dec 26–Jan 10.",
+            "whyBuy": "The 2026 shift from maxxing to 'good enough' (counter-maxxing reported up fifteenfold) meets New Year planning season, when many still set resolutions and want a kinder alternative."
+          }
+        ],
+        "recommendedAction": "prepare",
+        "rights": {
+          "note": "Generic phrases. Avoid referencing books titled 'Good Enough' and creator handles. No brand names.",
+          "risk": "low"
+        },
+        "scores": {
+          "buyerIntent": {
+            "basis": "qualitative",
+            "rationale": "No purchase evidence for themed products.",
+            "score": 1
+          },
+          "durability": {
+            "basis": "qualitative",
+            "rationale": "Anti-perfectionism is durable; the 'counter-maxxing' label may not be.",
+            "score": 3
+          },
+          "economics": {
+            "basis": "qualitative",
+            "rationale": "A digital product with zero marginal cost.",
+            "score": 4
+          },
+          "productFit": {
+            "basis": "qualitative",
+            "rationale": "Anti-resolution maps directly onto a New Year planner.",
+            "score": 4
+          },
+          "supplyGap": {
+            "basis": "qualitative",
+            "rationale": "Imperfect and chaos planners already exist.",
+            "score": 2
+          },
+          "timing": {
+            "basis": "reported",
+            "rationale": "Growth is reported and New Year is ahead, but the discourse has been building since spring, so this is not first-mover timing.",
+            "score": 3
+          }
+        },
+        "spread": {
+          "evidence": [
+            "e1",
+            "e2",
+            "e4",
+            "e5",
+            "e6",
+            "e7",
+            "e8"
+          ],
+          "text": "US (Newsweek, Salon, Forbes), Germany (Ippen network, Mein-MMO), European fashion and wellness media, and creator newsletters. That is several independent outlets over spring–autumn 2026."
+        },
+        "summary": "A 2026 backlash against '-maxxing' self-optimization, where people embrace being 'good enough' and half-doing things. Audience data reports it now outpaces pro-maxxing talk.",
+        "trajectory": {
+          "evidence": [
+            "e1",
+            "e2",
+            "e4"
+          ],
+          "stage": "early_growth",
+          "text": "Pulsar data reported by Newsweek says anti-maxxing conversation rose fifteenfold over six months while pro-maxxing discourse fell 19%. That points to growth, but it comes from one vendor and was not verified independently. Coverage is widening into German-language press."
+        },
+        "unresolved": [
+          "Find the Newsweek article's date and Pulsar's methodology.",
+          "Look for anti-resolution creator content naming 'good enough 2027' or 'counter-maxxing' in December.",
+          "Check whether US search for 'anti resolution' rises in late December compared with last year."
+        ],
+        "what": "Counter-maxxing (or anti-maxxing) rejects relentless, visible, expensive self-optimization in favor of 'good enough', playfulness and pleasure. Related labels include half-assing, cosymaxxing and nonnamaxxing. For New Year 2027 it is a natural anti-resolution format: minimums instead of goals, and permission to do less.",
+        "window": {
+          "endEstimate": null,
+          "estimate": "Mid-Nov 2026 – late Jan 2027 for the dated planner",
+          "invalidators": [
+            "The counter-maxxing data turns out to be a single-vendor artifact with no consumer pickup",
+            "Optimization content rebounds strongly in January"
+          ],
+          "reasoning": "Anti-resolution content peaks around New Year, and the broader 'good enough' sentiment has been building all year.",
+          "seasonality": "New Year resolution season",
+          "sellBy": "2026-12-20"
+        }
+      }
+    ],
+    "kind": "discover",
+    "lens": "First-spark hunt: New Year 2027 planning, goals and reset formats",
+    "researchedAt": "2026-10-05T00:01:27Z",
+    "sourcesTried": [
+      {
+        "method": "web search",
+        "note": "About 45 queries; all evidence comes from search-result snippets.",
+        "source": "WebSearch (standard and extended)",
+        "status": "ok"
+      },
+      {
+        "method": "fetch",
+        "note": "Network egress proxy blocked every fetch attempted, so no page was read in full.",
+        "source": "WebFetch: upworthy.com, clothandpaper.com, fastcompany.com, napoleoncat.com, later.com, newengen.com, socialbee.com, select.keenable.ai, newsweek.com, mein-mmo.de, en.sedaily.com",
+        "status": "blocked"
+      },
+      {
+        "method": "curl",
+        "note": "CONNECT tunnel 403 from the environment proxy.",
+        "source": "washingtonpost.com",
+        "status": "blocked"
+      },
+      {
+        "method": "web search results only (discover/tag pages)",
+        "note": "Only search snippets of TikTok discover pages; view counts not verifiable.",
+        "source": "TikTok",
+        "status": "ok"
+      },
+      {
+        "method": "web search results only",
+        "note": "Two Etsy listing URLs surfaced in results; Etsy search and sales counts not checked directly.",
+        "source": "Etsy",
+        "status": "ok"
+      },
+      {
+        "method": "none",
+        "note": "Fetching is blocked in this environment.",
+        "source": "Google Trends",
+        "status": "not_tried"
+      },
+      {
+        "method": "none",
+        "note": "Fetching is blocked in this environment.",
+        "source": "Reddit",
+        "status": "not_tried"
+      },
+      {
+        "method": "web search results only",
+        "note": "No Pinterest 2027 Predicts report exists yet (usually released in December).",
+        "source": "Pinterest",
+        "status": "ok"
+      }
+    ]
+  },
+  "runId": "run-hunt-newyear-20261004-3",
+  "status": "new"
+}

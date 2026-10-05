@@ -1,0 +1,19 @@
+{
+  "accessMethod": "web_search_result",
+  "candidateId": "jimothy-the-raccoon",
+  "claim": "Local TV coverage of Jimothy, fan art and the Mariners link.",
+  "excerpt": "Headline and URL keywords: fan art, tourism, Ballard, Mariners.",
+  "firstRetrievedAt": "2026-10-04T20:57:55Z",
+  "firstSeenRunId": "run-2026-10-04-memes",
+  "id": "jimothy-the-raccoon~5e175533",
+  "intent": "curiosity",
+  "kind": "observed",
+  "lastSeenRunId": "run-2026-10-04-memes",
+  "publishedAt": null,
+  "publisher": "KOMO News",
+  "retrievedAt": "2026-10-04T20:57:55Z",
+  "signalType": "press",
+  "syndicationOf": null,
+  "title": "Who is Jimothy? Seattle's viral rotund raccoon takes the Internet by storm",
+  "url": "https://komonews.com/news/local/who-is-jimothy-viral-rotund-raccoon-takes-seattle-and-the-internet-by-storm-video-social-media-short-spine-syndome-ballard-cute-animal-fan-art-residents-tourism-travel-summer-ballard-neighborhood-mariners"
+}

@@ -1,0 +1,19 @@
+{
+  "accessMethod": "web_search_result",
+  "candidateId": "the-great-lock-in",
+  "claim": "The 2025 trend is documented as a meme entry.",
+  "excerpt": "Title only.",
+  "firstRetrievedAt": "2026-10-04T20:59:17Z",
+  "firstSeenRunId": "run-2026-10-04-movements",
+  "id": "the-great-lock-in~91c6c276",
+  "intent": "curiosity",
+  "kind": "observed",
+  "lastSeenRunId": "run-2026-10-04-movements",
+  "publishedAt": null,
+  "publisher": "Know Your Meme",
+  "retrievedAt": "2026-10-04T20:59:17Z",
+  "signalType": "community",
+  "syndicationOf": null,
+  "title": "The Great Lock In of 2025",
+  "url": "https://amp.knowyourmeme.com/memes/the-great-lock-in-of-2025"
+}

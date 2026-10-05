@@ -1,0 +1,19 @@
+{
+  "accessMethod": "web_search_result",
+  "candidateId": "hyrox-style-fitness-racing",
+  "claim": "Logbook sellers already publish Hyrox race-day logging content.",
+  "excerpt": "Blog title and summary only.",
+  "firstRetrievedAt": "2026-10-04T20:53:53Z",
+  "firstSeenRunId": "run-2026-10-04-hobbies",
+  "id": "hyrox-style-fitness-racing~408656cd",
+  "intent": "utility",
+  "kind": "observed",
+  "lastSeenRunId": "run-2026-10-04-hobbies",
+  "publishedAt": null,
+  "publisher": "The Battle Bunker (logbook seller blog)",
+  "retrievedAt": "2026-10-04T20:53:53Z",
+  "signalType": "creator",
+  "syndicationOf": null,
+  "title": "Hyrox Race Day Preparation Log",
+  "url": "https://thebattlebunker.com/blogs/logbook/hyrox-race-day-preparation-log-your-ultimate-guide-to-peak-performance"
+}

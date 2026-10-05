@@ -1,0 +1,19 @@
+{
+  "accessMethod": "web_search_result",
+  "candidateId": "kitchen-witch-aesthetic",
+  "claim": "Practical Magic 2 opened at No. 1 in North America with an estimated $30M, a mainstream catalyst for the witchy-kitchen aesthetic.",
+  "excerpt": "Search summary: estimated $30 million from 4,146 theaters; ended Spider-Man: Brand New Day's six-weekend run at No. 1; about $16M from 77 international markets, roughly $46M worldwide.",
+  "firstRetrievedAt": "2026-10-04T20:56:14Z",
+  "firstSeenRunId": "run-2026-10-04-aesthetics",
+  "id": "kitchen-witch-aesthetic~685be181",
+  "intent": "none",
+  "kind": "observed",
+  "lastSeenRunId": "run-2026-10-04-aesthetics",
+  "publishedAt": "2026-09-13",
+  "publisher": "ABC News (AP wire)",
+  "retrievedAt": "2026-10-04T20:56:14Z",
+  "signalType": "press",
+  "syndicationOf": null,
+  "title": "'Practical Magic 2' conjures a No. 1 box office debut",
+  "url": "https://abcnews.com/Entertainment/wireStory/practical-magic-2-conjures-1-box-office-debut-136406662"
+}

@@ -1,0 +1,19 @@
+{
+  "accessMethod": "web_search_result",
+  "candidateId": "reader-dating-and-bookish-matchmaking",
+  "claim": "A youth-research outlet reports a new reading-based dating app from the team behind an astrology app.",
+  "excerpt": "There's a new dating app for Gen Z's fave hobby: reading.",
+  "firstRetrievedAt": "2026-10-05T00:00:55Z",
+  "firstSeenRunId": "run-hunt-hobbies-20261004-2",
+  "id": "reader-dating-and-bookish-matchmaking~4d07dd63",
+  "intent": "curiosity",
+  "kind": "observed",
+  "lastSeenRunId": "run-hunt-hobbies-20261004-2",
+  "publishedAt": "2026-09-15",
+  "publisher": "YPulse",
+  "retrievedAt": "2026-10-05T00:00:55Z",
+  "signalType": "press",
+  "syndicationOf": null,
+  "title": "There's a new dating app for Gen Z's fave hobby: reading.",
+  "url": "https://www.ypulse.com/newsfeed/2026/09/15/theres-a-new-dating-app-for-gen-zs-fave-hobby-reading/"
+}

@@ -1,0 +1,19 @@
+{
+  "accessMethod": "web_search_result",
+  "candidateId": "american-mahjong-boom",
+  "claim": "Local report of club growth among younger adults; summary cited a Philadelphia club's weekly attendance rising from 20-25 to 50-55.",
+  "excerpt": "Search summary: Philly Mah-jawns club newcomers doubled over the past year, weekly attendance from 20-25 to regularly 50-55 (attribution to this article likely but not confirmed).",
+  "firstRetrievedAt": "2026-10-04T20:58:18Z",
+  "firstSeenRunId": "run-2026-10-04-hobbies",
+  "id": "american-mahjong-boom~73a1e9ce",
+  "intent": "curiosity",
+  "kind": "observed",
+  "lastSeenRunId": "run-2026-10-04-hobbies",
+  "publishedAt": null,
+  "publisher": "6abc (WPVI Philadelphia)",
+  "retrievedAt": "2026-10-04T20:58:18Z",
+  "signalType": "press",
+  "syndicationOf": null,
+  "title": "Mahjong clubs see surge in popularity among younger adults",
+  "url": "https://6abc.com/post/mahjong-clubs-see-surge-popularity-among-younger-adults/19636787/"
+}

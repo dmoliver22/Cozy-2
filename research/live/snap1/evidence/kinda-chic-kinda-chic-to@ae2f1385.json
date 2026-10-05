@@ -1,0 +1,19 @@
+{
+  "accessMethod": "web_search_result",
+  "candidateId": "kinda-chic-kinda-chic-to",
+  "claim": "UK business press recommended Kinda Chic to brands in September 2026 and reported 100k+ Instagram hashtag uses.",
+  "excerpt": "Butter-yellow 'kinda chic to' overlay; romanticises the mundane; 'over 100k hashtags on Instagram'; adopted by Reese Witherspoon and Drew Barrymore; easy for brands to join.",
+  "firstRetrievedAt": "2026-10-04T21:01:02Z",
+  "firstSeenRunId": "run-2026-10-04-memes",
+  "id": "kinda-chic-kinda-chic-to~ae2f1385",
+  "intent": "utility",
+  "kind": "observed",
+  "lastSeenRunId": "run-2026-10-04-memes",
+  "publishedAt": null,
+  "publisher": "Startups.co.uk",
+  "retrievedAt": "2026-10-04T21:01:02Z",
+  "signalType": "press",
+  "syndicationOf": null,
+  "title": "6 social media trends you shouldn't miss this September 2026",
+  "url": "https://startups.co.uk/news/social-media-trends-september/"
+}

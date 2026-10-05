@@ -1,0 +1,13 @@
+{
+  "asOf": "2026-10-04",
+  "candidateId": "the-great-lock-in",
+  "evidenceId": "the-great-lock-in~0964c8b1",
+  "id": "the-great-lock-in~c38f9649",
+  "isAbsolute": true,
+  "metric": "Duration of the 2026 Great Lock-In window",
+  "note": "As stated by explainer pages. A calendar fact, not a demand measure.",
+  "recordedAt": "2026-10-04T21:02:03.000Z",
+  "runId": "run-2026-10-04-movements",
+  "unit": "days (Sept 1 to Dec 31, 2026)",
+  "value": 122
+}

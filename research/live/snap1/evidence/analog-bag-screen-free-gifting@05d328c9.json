@@ -1,0 +1,19 @@
+{
+  "accessMethod": "web_search_result",
+  "candidateId": "analog-bag-screen-free-gifting",
+  "claim": "Regional press tied the analog lifestyle to planners, journals and hobbies at the start of 2026.",
+  "excerpt": "Title and URL indicate a New Year 2026 piece on staying off the phone with planners, journals and hobbies.",
+  "firstRetrievedAt": "2026-10-04T20:59:17Z",
+  "firstSeenRunId": "run-2026-10-04-movements",
+  "id": "analog-bag-screen-free-gifting~05d328c9",
+  "intent": "utility",
+  "kind": "observed",
+  "lastSeenRunId": "run-2026-10-04-movements",
+  "publishedAt": "2026-01-05",
+  "publisher": "Deseret News",
+  "retrievedAt": "2026-10-04T20:59:17Z",
+  "signalType": "press",
+  "syndicationOf": null,
+  "title": "2026: The rise of the analog lifestyle",
+  "url": "https://www.deseret.com/entertainment/2026/01/05/how-to-get-organized-and-stay-off-the-phone-in-the-new-year-2026-planners-journals-hobbies/"
+}

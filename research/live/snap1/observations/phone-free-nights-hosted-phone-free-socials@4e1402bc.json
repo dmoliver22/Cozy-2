@@ -1,0 +1,13 @@
+{
+  "asOf": "2026-04-28",
+  "candidateId": "phone-free-nights-hosted-phone-free-socials",
+  "evidenceId": "phone-free-nights-hosted-phone-free-socials~cac21af6",
+  "id": "phone-free-nights-hosted-phone-free-socials~4e1402bc",
+  "isAbsolute": false,
+  "metric": "US attendance growth at phone-free events",
+  "note": "Reported by Eventbrite; US listings growth given as 337% or 388% in different summaries.",
+  "recordedAt": "2026-10-05T00:01:03.096Z",
+  "runId": "run-hunt-hobbies-20261004-4",
+  "unit": "percent",
+  "value": 913
+}

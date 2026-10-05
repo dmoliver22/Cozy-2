@@ -225,6 +225,32 @@ export function createLocalStore() {
 }
 
 /** Group a flat state into lookups the UI uses everywhere. */
+/**
+ * Fold candidates an editor marked `duplicateOf` another into that candidate: the duplicate
+ * leaves the feed, and its evidence and names join the surviving record. Evidence is clustered
+ * by canonical URL downstream, so a source both runs found still counts once.
+ */
+export function mergeDuplicates(all, evidenceBy) {
+  const byId = new Map(all.map((c) => [c.id, c]));
+  const target = (c) => (c.duplicateOf && c.duplicateOf !== c.id && byId.has(c.duplicateOf) && !byId.get(c.duplicateOf).duplicateOf ? c.duplicateOf : null);
+  const dupes = all.filter(target);
+  if (!dupes.length) return { candidates: all, evidenceBy };
+  const merged = new Map(evidenceBy);
+  const candidates = all
+    .filter((c) => !target(c))
+    .map((c) => {
+      const from = dupes.filter((d) => d.duplicateOf === c.id);
+      if (!from.length) return c;
+      merged.set(c.id, [...(evidenceBy.get(c.id) || []), ...from.flatMap((d) => evidenceBy.get(d.id) || [])]);
+      return {
+        ...c,
+        topicKeys: [...new Set([...(c.topicKeys || []), ...from.flatMap((d) => d.topicKeys || [])])],
+        mergedFrom: from.map((d) => ({ id: d.id, name: d.name, note: d.duplicateNote || '' })),
+      };
+    });
+  return { candidates, evidenceBy: merged };
+}
+
 export function indexState(state) {
   const byCandidate = (list) => {
     const m = new Map();
@@ -236,9 +262,11 @@ export function indexState(state) {
     return m;
   };
   const config = Object.fromEntries((state.config || []).map((d) => [d.id, d]));
+  const { candidates, evidenceBy } = mergeDuplicates(state.candidates || [], byCandidate(state.evidence || []));
   return {
-    candidates: state.candidates || [],
-    evidenceBy: byCandidate(state.evidence || []),
+    candidates,
+    allCandidates: state.candidates || [],
+    evidenceBy,
     observationsBy: byCandidate(state.observations || []),
     snapshotsBy: byCandidate(state.snapshots || []),
     watch: new Map((state.watchlist || []).map((w) => [w.id, w])),

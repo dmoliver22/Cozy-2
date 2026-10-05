@@ -1,0 +1,19 @@
+{
+  "accessMethod": "web_search_result",
+  "candidateId": "american-mahjong-boom",
+  "claim": "Wire coverage of young mahjong clubs (May 2026) shows the story spreading beyond US local press.",
+  "excerpt": "Title only from search result.",
+  "firstRetrievedAt": "2026-10-04T20:53:53Z",
+  "firstSeenRunId": "run-2026-10-04-hobbies",
+  "id": "american-mahjong-boom~01f09ae1",
+  "intent": "curiosity",
+  "kind": "observed",
+  "lastSeenRunId": "run-2026-10-04-hobbies",
+  "publishedAt": "2026-05-03",
+  "publisher": "Gulf Today (wire)",
+  "retrievedAt": "2026-10-04T20:53:53Z",
+  "signalType": "press",
+  "syndicationOf": null,
+  "title": "These Mahjong sports clubs are hot, young — and play by different rules",
+  "url": "https://www.gulftoday.ae/lifestyle/2026/05/03/these-mahjong-sports-clubs-are-hot-young-and-play-by-different-rules"
+}

@@ -1,0 +1,19 @@
+{
+  "accessMethod": "web_search_result",
+  "candidateId": "6-7-six-seven-meme",
+  "claim": "Search result lists the meme's origin entry.",
+  "excerpt": "67 Meme / Six Seven",
+  "firstRetrievedAt": "2026-10-04T22:33:00Z",
+  "firstSeenRunId": "run-analyze-muueb7q2-x8paqz",
+  "id": "6-7-six-seven-meme~9b398f08",
+  "intent": "none",
+  "kind": "observed",
+  "lastSeenRunId": "run-analyze-muueb7q2-x8paqz",
+  "publishedAt": null,
+  "publisher": "Know Your Meme",
+  "retrievedAt": "2026-10-04T22:33:00Z",
+  "signalType": "community",
+  "syndicationOf": null,
+  "title": "67 Meme / Six Seven",
+  "url": "https://knowyourmeme.com/memes/67-meme-six-seven"
+}

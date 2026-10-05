@@ -1,0 +1,196 @@
+{
+  "actionRationale": "Pass. The phrase is generic, but the joke depends on a private student filmed during hazing-arrest coverage. Profiting from that moment is not worth the ethical and reputational risk, and the meme is likely to fade within weeks.",
+  "adopters": {
+    "evidence": [
+      "relax-pal~9d0daf91",
+      "relax-pal~fbd266e0",
+      "relax-pal~e994b849"
+    ],
+    "text": "TikTok edit creators and college-age users, especially frat-humor and looksmaxxing-commentary accounts; viewers searching who the student is."
+  },
+  "aliases": [
+    "relax pal",
+    "Relax, Pal frat guy"
+  ],
+  "category": "meme",
+  "channels": [
+    "Redbubble",
+    "Etsy",
+    "TikTok"
+  ],
+  "competition": {
+    "evidence": [
+      "relax-pal~a7d131ef"
+    ],
+    "level": "none_found",
+    "text": "A web search found no merch tied to the meme, only generic 'relax' stickers. Marketplaces were not checked directly, so this is not a count."
+  },
+  "editorialNotes": [
+    "Changed to Pass with high rights risk at editorial review: the meme's subject is a private individual filmed during coverage of a hazing case in which students were injured. The earlier memes screen had already rejected it for this reason."
+  ],
+  "effortMin": "low",
+  "firstSeenAt": "2026-10-05T00:00:54.839Z",
+  "formats": [
+    "sticker",
+    "tshirt"
+  ],
+  "gap": {
+    "isInference": true,
+    "text": "A tasteful deadpan 'relax, pal.' line that ignores the origin (no frat, school or hazing cues) could catch meme-aware buyers and also general dry-humor buyers."
+  },
+  "id": "relax-pal",
+  "jobId": "hunt-memes-20261004",
+  "language": "en",
+  "lastRunId": "run-hunt-memes-20261004-1",
+  "lens": "First-spark hunt: memes, catchphrases, slang",
+  "name": "Relax, Pal",
+  "origin": {
+    "date": "2026-09-27",
+    "evidence": [
+      "relax-pal~239c13e1"
+    ],
+    "text": "WISN 12 News clip posted late September 2026 after two arrests on Sept 25, 2026; first big edit Sept 27."
+  },
+  "productDemand": {
+    "evidence": [
+      "relax-pal~fbd266e0"
+    ],
+    "text": "No purchase evidence. A TikTok discover page named 'Relax Pal Sticker Meme' exists but most likely refers to in-app stickers or video overlays, not purchases. Interest is curiosity."
+  },
+  "products": [
+    {
+      "buyer": "College students and 18-30s in on the meme",
+      "channels": [
+        "Redbubble",
+        "Etsy",
+        "TikTok"
+      ],
+      "continueIf": "5+ sales or 30+ favorites in 14 days",
+      "differentiation": "Situational variants and tasteful serif type instead of screenshot memes",
+      "effort": "low",
+      "effortHours": 7,
+      "evidence": [
+        "relax-pal~239c13e1",
+        "relax-pal~fbd266e0"
+      ],
+      "format": "sticker",
+      "fulfillment": "pod",
+      "leadTimeDays": 2,
+      "pivotIf": "Views but no sales: test the office/midterms variants only",
+      "rightsNote": "No frat, Greek letters, UW, hazing, reporter, station or student likeness",
+      "stopIf": "Under 3 favorites and no sales after 14 days, or backlash ties the phrase to hazing",
+      "theme": "Deadpan 'relax, pal.' sticker set placed in everyday situations (work, gym, exams), no reference to the original clip",
+      "validationTest": "List 4 designs on Redbubble + Etsy; post 6 TikToks over 2 weeks",
+      "whyBuy": "Cheap way to signal being in on the joke; works as a dry-humor gift"
+    },
+    {
+      "buyer": "18-30s who like minimalist deadpan apparel",
+      "channels": [
+        "Etsy",
+        "TikTok"
+      ],
+      "continueIf": "3+ tee sales in 21 days",
+      "differentiation": "Quiet-luxury type treatment, outlasts screenshot meme shirts",
+      "effort": "medium",
+      "effortHours": 6,
+      "evidence": [
+        "relax-pal~9d0daf91"
+      ],
+      "format": "tshirt",
+      "fulfillment": "pod",
+      "leadTimeDays": 10,
+      "pivotIf": "Favorites but no sales: try a crewneck at the same price",
+      "rightsNote": "Same limits as the stickers",
+      "stopIf": "No sales in 21 days",
+      "theme": "Minimal serif 'relax, pal.' left-chest tee and embroidered dad hat",
+      "validationTest": "Launch only after stickers get favorites; 2 designs for 3 weeks",
+      "whyBuy": "Understated inside-joke apparel that reads as dry wit to everyone else"
+    }
+  ],
+  "qualityFlags": [],
+  "recommendedAction": "pass",
+  "region": "US",
+  "researchedAt": "2026-10-05T00:00:47Z",
+  "rights": {
+    "risk": "high",
+    "note": "The phrase is common English, but the meme's origin is a local news clip of a private university student during coverage of a hazing case with injured students. Selling merchandise built on that clip profits from a private person caught in a criminal story. Never use the student's image, the footage, the station, the university or Greek letters."
+  },
+  "runIds": [
+    "run-hunt-memes-20261004-1"
+  ],
+  "scores": {
+    "buyerIntent": {
+      "basis": "qualitative",
+      "rationale": "Curiosity only; no purchase signals",
+      "score": 1
+    },
+    "durability": {
+      "basis": "qualitative",
+      "rationale": "Meme likely short; generic phrase gives some afterlife",
+      "score": 2
+    },
+    "economics": {
+      "basis": "qualitative",
+      "rationale": "Low-cost POD stickers; thin tee margins",
+      "score": 3
+    },
+    "productFit": {
+      "basis": "qualitative",
+      "rationale": "Two-word deadpan text suits stickers and minimal tees",
+      "score": 4
+    },
+    "supplyGap": {
+      "basis": "qualitative",
+      "rationale": "Web search found no meme-tied merch; not a marketplace count",
+      "score": 4
+    },
+    "timing": {
+      "basis": "reported",
+      "rationale": "Clip from Sept 25-27; product supply not found",
+      "score": 5
+    }
+  },
+  "source": "research",
+  "spread": {
+    "evidence": [
+      "relax-pal~239c13e1",
+      "relax-pal~9d0daf91",
+      "relax-pal~10159b38",
+      "relax-pal~fbd266e0",
+      "relax-pal~e994b849"
+    ],
+    "text": "Within about a week: KYM and meme.com entries, a YouTube explainer, several separate TikTok creators and multiple TikTok discover pages for variants. No mainstream press beyond the original local news and meme sites was found."
+  },
+  "summary": "A deadpan two-word catchphrase from a late-September 2026 local news clip that TikTok turned into an 'unbothered comeback' meme within days.",
+  "topicKeys": [
+    "phrase:relax pal",
+    "phrase:relax pal",
+    "phrase:relax pal frat guy"
+  ],
+  "trajectory": {
+    "evidence": [
+      "relax-pal~239c13e1",
+      "relax-pal~9d0daf91",
+      "relax-pal~10159b38"
+    ],
+    "stage": "first_spark",
+    "text": "About one week old with one documented multi-million-view edit and several independent explainers; too early to tell whether it moves beyond frat/edit circles into everyday speech."
+  },
+  "unresolved": [
+    "Does 'relax, pal' show up as a caption outside frat/edit content (e.g. office, sports, brand accounts) in the next 7-10 days?",
+    "Any mainstream press coverage, or backlash calling the meme pro-hazing?",
+    "Any merch appearing on Etsy/Redbubble (shows demand or a crowding market)?"
+  ],
+  "what": "During WISN 12 coverage of a late-September 2026 hazing arrest at UW-Madison, a student answered a reporter's question with a flat \"Relax, pal.\" TikTok editors flipped it into a 'mogged the reporter' comeback and paired it with frat, gym and action edits. The phrase itself is ordinary English and works as a dry, unbothered retort detached from the clip.",
+  "window": {
+    "endEstimate": null,
+    "estimate": "2-6 weeks of meme relevance; the phrase itself is evergreen",
+    "invalidators": [
+      "Backlash framing the meme as glorifying hazing",
+      "No new edits after early October"
+    ],
+    "reasoning": "Clip-based catchphrases usually peak within 1-3 weeks. Because the words are generic, products can keep selling as deadpan humor after the meme fades.",
+    "seasonality": "Fall semester; midterms (mid-Oct) give a natural hook",
+    "sellBy": null
+  }
+}

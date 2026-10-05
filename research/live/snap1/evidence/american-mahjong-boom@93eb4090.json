@@ -1,0 +1,19 @@
+{
+  "accessMethod": "web_search_result",
+  "candidateId": "american-mahjong-boom",
+  "claim": "National TV segment describing a coast-to-coast mahjong resurgence and noting the 2021 cultural-appropriation controversy.",
+  "excerpt": "Search summary: players of all ages at tables coast to coast; features Lucky Danger's hidden parlor in DC Chinatown and Nicole Wong; mentions a Texas company accused of appropriation in 2021 for tiles without Chinese symbols (some sets >$400).",
+  "firstRetrievedAt": "2026-10-04T20:53:53Z",
+  "firstSeenRunId": "run-2026-10-04-hobbies",
+  "id": "american-mahjong-boom~93eb4090",
+  "intent": "curiosity",
+  "kind": "observed",
+  "lastSeenRunId": "run-2026-10-04-hobbies",
+  "publishedAt": null,
+  "publisher": "PBS NewsHour",
+  "retrievedAt": "2026-10-04T20:53:53Z",
+  "signalType": "press",
+  "syndicationOf": null,
+  "title": "Mahjong thriving as players embrace community and connection",
+  "url": "https://pbs.org/newshour/show/mahjong-thriving-as-players-embrace-community-and-connection"
+}

@@ -1,0 +1,184 @@
+{
+  "actionRationale": "The spark is one app launch with broad press, sitting on an existing event format that organizers already run. Build the kit now so it is listed well ahead of Valentine's season. No ads until more venues or creators adopt reader-matching nights.",
+  "adopters": {
+    "evidence": [
+      "reader-dating-and-bookish-matchmaking~3646ec3f",
+      "reader-dating-and-bookish-matchmaking~3ce7c300",
+      "reader-dating-and-bookish-matchmaking~310967c5",
+      "reader-dating-and-bookish-matchmaking~455e20c9"
+    ],
+    "text": "Gen Z and young millennial readers, NYC launch crowd; libraries, bookstores and universities running book speed-dating events."
+  },
+  "aliases": [
+    "date someone who reads",
+    "book speed dating",
+    "literary speed dating",
+    "reader identity dating"
+  ],
+  "category": "hobby",
+  "channels": [
+    "Etsy",
+    "Pinterest",
+    "Instagram",
+    "library and bookstore Facebook groups (c"
+  ],
+  "competition": {
+    "evidence": [
+      "reader-dating-and-bookish-matchmaking~0d44fcdd"
+    ],
+    "level": "unknown",
+    "text": "Competing apps exist. Printable speed-dating and book-club kits likely exist on Etsy, but marketplaces were not checked."
+  },
+  "editorialNotes": [],
+  "effortMin": "medium",
+  "firstSeenAt": "2026-10-05T00:01:02.687Z",
+  "formats": [
+    "printable"
+  ],
+  "gap": {
+    "isInference": true,
+    "text": "A complete, original host kit for reader matchmaking nights (genre rounds, reader-type icebreaker, friendship edition) for venues and book clubs."
+  },
+  "id": "reader-dating-and-bookish-matchmaking",
+  "jobId": "hunt-hobbies-20261004",
+  "language": "en",
+  "lastRunId": "run-hunt-hobbies-20261004-2",
+  "lens": "First-spark hunt: new hobbies, challenges and rituals",
+  "name": "Reader dating and bookish matchmaking",
+  "origin": {
+    "date": "2026-09-15",
+    "evidence": [
+      "reader-dating-and-bookish-matchmaking~4d07dd63",
+      "reader-dating-and-bookish-matchmaking~3646ec3f",
+      "reader-dating-and-bookish-matchmaking~5dc40bb7"
+    ],
+    "text": "Reading as a dating signal has been discussed since at least 2025 ('bookfishing'). The new spark is the September 2026 launch of a reading-only dating app from the team behind a popular astrology app."
+  },
+  "productDemand": {
+    "evidence": [
+      "reader-dating-and-bookish-matchmaking~310967c5",
+      "reader-dating-and-bookish-matchmaking~455e20c9",
+      "reader-dating-and-bookish-matchmaking~195b87ea"
+    ],
+    "text": "No purchase evidence for kits or printables. There is utility demand from organizers: libraries and bookstores run book speed dating, and a distributor publishes how-to advice for it."
+  },
+  "products": [
+    {
+      "buyer": "Indie bookstore and library event coordinators, book club organizers and friends hosting a 'readers' singles or friend-dating night",
+      "channels": [
+        "Etsy",
+        "Pinterest",
+        "Instagram",
+        "library and bookstore Facebook groups (c"
+      ],
+      "continueIf": "3+ sales or 2+ organizer replies asking for the full kit within 21 days",
+      "differentiation": "A complete, printable run-of-show for reader matchmaking: genre rounds, an original 'reader type' icebreaker (no app branding), friend-or-date match slips, and versions for romance and friendship nights.",
+      "effort": "medium",
+      "effortHours": 12,
+      "evidence": [
+        "reader-dating-and-bookish-matchmaking~310967c5",
+        "reader-dating-and-bookish-matchmaking~455e20c9",
+        "reader-dating-and-bookish-matchmaking~195b87ea",
+        "reader-dating-and-bookish-matchmaking~3646ec3f"
+      ],
+      "format": "printable",
+      "fulfillment": "digital",
+      "leadTimeDays": 4,
+      "pivotIf": "Interest only from friend groups: reframe as a 'book club mixer' party kit",
+      "rightsNote": "Do not use Readme, Co-Star or any app name, book titles as cover art, or author names. Prompts in the kit must be original.",
+      "stopIf": "No sales, no replies and under 300 listing views by day 21",
+      "theme": "Book Lovers Speed-Dating Night host kit: genre round cards, scorecards, question cards, match slips and signage",
+      "validationTest": "List on Etsy and pitch the free scorecard page to 20 indie bookstores/libraries by email or Instagram DM within 10 days.",
+      "whyBuy": "Bookstores and libraries already run book speed dating and need ready, good-looking materials; new reader-dating buzz gives hosts a reason to run one this fall."
+    }
+  ],
+  "qualityFlags": [],
+  "recommendedAction": "prepare",
+  "region": "US",
+  "researchedAt": "2026-10-05T00:00:55Z",
+  "rights": {
+    "note": "Do not use the app's name, its parent company or its 'sign' system; use real book titles only as guest-supplied text, never in artwork.",
+    "risk": "low"
+  },
+  "runIds": [
+    "run-hunt-hobbies-20261004-2"
+  ],
+  "scores": {
+    "buyerIntent": {
+      "basis": "qualitative",
+      "rationale": "Organizer utility signals only; no purchase data",
+      "score": 1
+    },
+    "durability": {
+      "basis": "qualitative",
+      "rationale": "Book speed dating has existed for years; the reading-identity theme has lasted since 2025",
+      "score": 3
+    },
+    "economics": {
+      "basis": "qualitative",
+      "rationale": "Digital, higher price point than single printables",
+      "score": 4
+    },
+    "productFit": {
+      "basis": "qualitative",
+      "rationale": "Events need printed cards, scorecards and signs",
+      "score": 4
+    },
+    "supplyGap": {
+      "basis": "unknown",
+      "rationale": "Etsy not checked",
+      "score": null
+    },
+    "timing": {
+      "basis": "reported",
+      "rationale": "Launch coverage within the last 3 weeks",
+      "score": 4
+    }
+  },
+  "source": "research",
+  "spread": {
+    "evidence": [
+      "reader-dating-and-bookish-matchmaking~4d07dd63",
+      "reader-dating-and-bookish-matchmaking~3646ec3f",
+      "reader-dating-and-bookish-matchmaking~1b90e37c",
+      "reader-dating-and-bookish-matchmaking~9eaaa623",
+      "reader-dating-and-bookish-matchmaking~5067182a",
+      "reader-dating-and-bookish-matchmaking~197b4759"
+    ],
+    "text": "Covered within about 10 days by YPulse, The Paris Review, Bustle, Grazia US, Italian press and a local news brief: several independent outlets, all pegged to one app launch. Event programming predates it."
+  },
+  "summary": "Reading is turning into a dating filter: a reading-based dating app launched in NYC in September 2026 with wide press coverage, alongside library and bookstore book speed-dating nights.",
+  "topicKeys": [
+    "phrase:reader dating and bookish matchmaking",
+    "phrase:date someone who reads",
+    "phrase:book speed dating",
+    "phrase:literary speed dating",
+    "phrase:reader identity dating"
+  ],
+  "trajectory": {
+    "evidence": [
+      "reader-dating-and-bookish-matchmaking~4d07dd63",
+      "reader-dating-and-bookish-matchmaking~3646ec3f",
+      "reader-dating-and-bookish-matchmaking~310967c5"
+    ],
+    "stage": "first_spark",
+    "text": "The app-launch news is about 3 weeks old. Whether reader-matching becomes a wider ritual (more events, more hosts) beyond one app is unproven."
+  },
+  "unresolved": [
+    "Whether more bookstores and libraries announce reader-dating nights in October and November",
+    "Whether TikTok/BookTok creators post about reader matchmaking beyond the app news",
+    "Whether existing Etsy kits for book speed dating are numerous"
+  ],
+  "what": "Young singles are using reading taste as a way to meet people. In September 2026 an app matching people by books launched with a NYC party and press in several outlets. It sits next to an existing calendar of 'book speed dating' events at libraries, bookstores and universities, and to the wider idea of hobbies replacing dating apps.",
+  "window": {
+    "endEstimate": null,
+    "estimate": "Through Valentine's Day 2027",
+    "invalidators": [
+      "Press attention stops after the launch cycle",
+      "Venues report low turnout for book speed dating"
+    ],
+    "reasoning": "Event hosts plan seasonally, and February is the natural peak for dating events; the kit is evergreen otherwise.",
+    "seasonality": "Peaks before Valentine's Day; book clubs are active in fall and winter",
+    "sellBy": null
+  }
+}

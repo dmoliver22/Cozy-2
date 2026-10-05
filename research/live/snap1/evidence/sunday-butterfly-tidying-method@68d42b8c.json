@@ -1,0 +1,19 @@
+{
+  "accessMethod": "web_search_result",
+  "candidateId": "sunday-butterfly-tidying-method",
+  "claim": "The H&G article is being pinned on Pinterest",
+  "excerpt": "Pin of the Homes & Gardens Sunday Butterfly article.",
+  "firstRetrievedAt": "2026-10-05T00:01:02Z",
+  "firstSeenRunId": "run-hunt-foodhome-20261004-3",
+  "id": "sunday-butterfly-tidying-method~68d42b8c",
+  "intent": "utility",
+  "kind": "observed",
+  "lastSeenRunId": "run-hunt-foodhome-20261004-3",
+  "publishedAt": null,
+  "publisher": "Pinterest",
+  "retrievedAt": "2026-10-05T00:01:02Z",
+  "signalType": "social",
+  "syndicationOf": null,
+  "title": "'I Struggle to Focus but Tried the Sunday Butterfly ...",
+  "url": "https://za.pinterest.com/pin/535646949455185373/"
+}

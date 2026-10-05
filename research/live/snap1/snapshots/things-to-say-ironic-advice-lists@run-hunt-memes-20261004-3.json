@@ -1,0 +1,23 @@
+{
+  "action": "prepare",
+  "analystAction": "prepare",
+  "candidateId": "things-to-say-ironic-advice-lists",
+  "competition": "low",
+  "confidence": 49,
+  "id": "things-to-say-ironic-advice-lists~run-hunt-memes-20261004-3",
+  "independentSources": 6,
+  "purchaseSignals": 0,
+  "runId": "run-hunt-memes-20261004-3",
+  "score": 61,
+  "stage": "early_growth",
+  "takenAt": "2026-10-05T00:00:47Z",
+  "weightsUsed": {
+    "buyerIntent": 20,
+    "durability": 15,
+    "economics": 10,
+    "productFit": 15,
+    "supplyGap": 15,
+    "timing": 25
+  },
+  "windowEstimate": "3-6 weeks for template demand; party game evergreen through the holidays"
+}

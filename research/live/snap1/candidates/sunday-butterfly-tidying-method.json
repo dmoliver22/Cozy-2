@@ -1,0 +1,173 @@
+{
+  "actionRationale": "Low-cost digital kit with a distinctive keyword and little paid supply, but spread is modest and purchase intent is unproven. Build it, test through Pinterest, and don't spend on ads.",
+  "adopters": {
+    "evidence": [
+      "sunday-butterfly-tidying-method~cb561221",
+      "sunday-butterfly-tidying-method~65347c8e"
+    ],
+    "text": "Home and decluttering bloggers who write about it first-person and offer trackers, aimed at people who dislike rigid cleaning systems."
+  },
+  "aliases": [
+    "Sunday Butterfly method",
+    "butterfly cleaning method",
+    "butterfly decluttering"
+  ],
+  "category": "hobby",
+  "channels": [
+    "Etsy",
+    "Pinterest",
+    "Instagram Reels"
+  ],
+  "competition": {
+    "evidence": [
+      "sunday-butterfly-tidying-method~65347c8e",
+      "sunday-butterfly-tidying-method~2faf1dd6",
+      "sunday-butterfly-tidying-method~0d3db1bf"
+    ],
+    "level": "low",
+    "text": "We found no paid butterfly-method-specific product in search results. Adjacent neurodivergent-friendly cleaning planners exist on Etsy and Creative Fabrica, and a free blog tracker exists."
+  },
+  "editorialNotes": [],
+  "effortMin": "low",
+  "firstSeenAt": "2026-10-05T00:01:11.190Z",
+  "formats": [
+    "printable"
+  ],
+  "gap": {
+    "isInference": true,
+    "text": "A paid, well-designed kit with color-in trackers and finishable landing cards built around the butterfly idea rather than a schedule."
+  },
+  "id": "sunday-butterfly-tidying-method",
+  "jobId": "hunt-foodhome-20261004",
+  "language": "en",
+  "lastRunId": "run-hunt-foodhome-20261004-3",
+  "lens": "First-spark hunt: food, home, pets and household micro-trend",
+  "name": "Sunday Butterfly Tidying Method",
+  "origin": {
+    "date": null,
+    "evidence": [
+      "sunday-butterfly-tidying-method~20b37310",
+      "sunday-butterfly-tidying-method~e29fb2f0"
+    ],
+    "text": "Described by Homes & Gardens kitchen and appliance editor Lydia Hayman, who says she developed it with her mother. We could not establish the publication date because the pages were blocked."
+  },
+  "productDemand": {
+    "evidence": [
+      "sunday-butterfly-tidying-method~65347c8e"
+    ],
+    "text": "No purchase evidence. Interest is utility (how-to). One blog gives away a free tracker, which shows demand for a printable form but also free competition."
+  },
+  "products": [
+    {
+      "buyer": "US adults who find rigid cleaning schedules hard to follow and like low-pressure, wander-and-finish tidying",
+      "channels": [
+        "Etsy",
+        "Pinterest",
+        "Instagram Reels"
+      ],
+      "continueIf": "1+ sale or 15+ favorites in 21 days, or pins on the method name getting saves",
+      "differentiation": "Built around landings and petals rather than a schedule; includes finishable task cards and a listening log",
+      "effort": "low",
+      "effortHours": 7,
+      "evidence": [
+        "sunday-butterfly-tidying-method~20b37310",
+        "sunday-butterfly-tidying-method~cb561221",
+        "sunday-butterfly-tidying-method~65347c8e"
+      ],
+      "format": "printable",
+      "fulfillment": "digital",
+      "leadTimeDays": 2,
+      "pivotIf": "Saves but no sales: offer the tracker as a free lead magnet and bundle cards into a general gentle-cleaning kit",
+      "rightsNote": "Describe the method generically; don't use the editor's or publication's name or imply endorsement",
+      "stopIf": "Under 75 views in 21 days",
+      "theme": "Butterfly-style Sunday tidying kit: color-in flower trackers, 48 finishable landing cards and a listening log",
+      "validationTest": "List plus 10 pins and 2 Reels in 10 days",
+      "whyBuy": "Makes the butterfly approach tangible and visible without a schedule"
+    }
+  ],
+  "qualityFlags": [],
+  "recommendedAction": "prepare",
+  "region": "US",
+  "researchedAt": "2026-10-05T00:01:02Z",
+  "rights": {
+    "note": "The method name is associated with a specific editor and publication; no trademark found but none checked. Use it only descriptively in keywords, title the product originally, never use the person's name, and never imply endorsement. Avoid ADHD/neurodivergence claims.",
+    "risk": "medium"
+  },
+  "runIds": [
+    "run-hunt-foodhome-20261004-3"
+  ],
+  "scores": {
+    "buyerIntent": {
+      "basis": "unknown",
+      "rationale": "No purchase evidence",
+      "score": null
+    },
+    "durability": {
+      "basis": "qualitative",
+      "rationale": "Named cleaning methods tend to persist in search",
+      "score": 3
+    },
+    "economics": {
+      "basis": "qualitative",
+      "rationale": "Digital, zero marginal cost",
+      "score": 4
+    },
+    "productFit": {
+      "basis": "qualitative",
+      "rationale": "Visual tracker and task cards suit the method",
+      "score": 4
+    },
+    "supplyGap": {
+      "basis": "qualitative",
+      "rationale": "No paid method-specific kit found; free tracker and adjacent planners exist",
+      "score": 3
+    },
+    "timing": {
+      "basis": "qualitative",
+      "rationale": "Early, but the start date is unverified",
+      "score": 3
+    }
+  },
+  "source": "research",
+  "spread": {
+    "evidence": [
+      "sunday-butterfly-tidying-method~20b37310",
+      "sunday-butterfly-tidying-method~cb561221",
+      "sunday-butterfly-tidying-method~65347c8e",
+      "sunday-butterfly-tidying-method~68d42b8c"
+    ],
+    "text": "Seen on the originating publisher (two articles), two independent blogs and Pinterest. No TikTok or press coverage beyond these was found."
+  },
+  "summary": "A named low-pressure tidying method from a Homes & Gardens editor: drift through the home, land on one small task, finish it, move on. Other blogs now call it a 2026 decluttering trend.",
+  "topicKeys": [
+    "phrase:sunday butterfly tidying method",
+    "phrase:sunday butterfly method",
+    "phrase:butterfly cleaning method",
+    "phrase:butterfly decluttering"
+  ],
+  "trajectory": {
+    "evidence": [
+      "sunday-butterfly-tidying-method~cb561221",
+      "sunday-butterfly-tidying-method~65347c8e"
+    ],
+    "stage": "early_growth",
+    "text": "Moving from one publisher to independent blogs that label it a 2026 trend. Dates are unverified, so it may predate mid-September. Spread is modest."
+  },
+  "unresolved": [
+    "Does the method appear on TikTok or in more outlets in October?",
+    "Do Pinterest pins of the method keep getting saved?",
+    "Does the originating publisher release its own printable?"
+  ],
+  "what": "Instead of following a room-by-room order, you move through the house and handle whatever you notice, finishing each small thing completely before moving on. Practitioners pair it with a timer, zones and an audiobook. Sources frame it as suited to people who struggle with focus. Products must not repeat that framing as a claim.",
+  "window": {
+    "endEstimate": null,
+    "estimate": "Several months if the name keeps spreading",
+    "invalidators": [
+      "No new articles or pins mentioning the name by November",
+      "The originating publisher sells its own printable"
+    ],
+    "reasoning": "Named cleaning methods (e.g., earlier CleanTok methods) tend to keep long-tail search interest once blogs adopt them, but this one has thin spread.",
+    "seasonality": "Evergreen; January and spring cleaning peaks",
+    "sellBy": null
+  }
+}

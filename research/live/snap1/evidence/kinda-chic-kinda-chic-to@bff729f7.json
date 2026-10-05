@@ -1,0 +1,19 @@
+{
+  "accessMethod": "web_search_result",
+  "candidateId": "kinda-chic-kinda-chic-to",
+  "claim": "A US local alt-weekly covered the trend, showing spread into regional media.",
+  "excerpt": "Headline only seen in results.",
+  "firstRetrievedAt": "2026-10-04T20:57:55Z",
+  "firstSeenRunId": "run-2026-10-04-memes",
+  "id": "kinda-chic-kinda-chic-to~bff729f7",
+  "intent": "curiosity",
+  "kind": "observed",
+  "lastSeenRunId": "run-2026-10-04-memes",
+  "publishedAt": null,
+  "publisher": "Riverfront Times",
+  "retrievedAt": "2026-10-04T20:57:55Z",
+  "signalType": "press",
+  "syndicationOf": null,
+  "title": "Kinda Chic To Understand the Value of a Trend - St. Louis Riverfront Times",
+  "url": "https://www.riverfronttimes.com/kinda-chic-trend/"
+}

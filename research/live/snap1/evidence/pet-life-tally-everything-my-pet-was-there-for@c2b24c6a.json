@@ -1,0 +1,19 @@
+{
+  "accessMethod": "web_search_result",
+  "candidateId": "pet-life-tally-everything-my-pet-was-there-for",
+  "claim": "Pet memory books and life trackers exist on Etsy (adjacent supply)",
+  "excerpt": "Pet Record Book Printable - Etsy",
+  "firstRetrievedAt": "2026-10-05T00:01:02Z",
+  "firstSeenRunId": "run-hunt-foodhome-20261004-4",
+  "id": "pet-life-tally-everything-my-pet-was-there-for~c2b24c6a",
+  "intent": "none",
+  "kind": "observed",
+  "lastSeenRunId": "run-hunt-foodhome-20261004-4",
+  "publishedAt": null,
+  "publisher": "Etsy",
+  "retrievedAt": "2026-10-05T00:01:02Z",
+  "signalType": "marketplace",
+  "syndicationOf": null,
+  "title": "Pet Record Book Printable - Etsy",
+  "url": "https://www.etsy.com/market/pet_record_book_printable"
+}

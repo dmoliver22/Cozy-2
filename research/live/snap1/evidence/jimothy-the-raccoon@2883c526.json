@@ -1,0 +1,19 @@
+{
+  "accessMethod": "web_search_result",
+  "candidateId": "jimothy-the-raccoon",
+  "claim": "A self-described official store sells Mariners-themed and 'Make Noise For Jimothy 2026' shirts. Its 'official' status is unverified.",
+  "excerpt": "Store homepage per search summary.",
+  "firstRetrievedAt": "2026-10-04T20:57:55Z",
+  "firstSeenRunId": "run-2026-10-04-memes",
+  "id": "jimothy-the-raccoon~2883c526",
+  "intent": "none",
+  "kind": "observed",
+  "lastSeenRunId": "run-2026-10-04-memes",
+  "publishedAt": null,
+  "publisher": "officialjimothyraccoonstore.com",
+  "retrievedAt": "2026-10-04T20:57:55Z",
+  "signalType": "marketplace",
+  "syndicationOf": null,
+  "title": "Official Jimothy Raccoon Store - Unisex Apparel & Merchandise",
+  "url": "https://officialjimothyraccoonstore.com/"
+}

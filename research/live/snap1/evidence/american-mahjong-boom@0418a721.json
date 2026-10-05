@@ -1,0 +1,19 @@
+{
+  "accessMethod": "web_search_result",
+  "candidateId": "american-mahjong-boom",
+  "claim": "August 2026 coverage that American mahjong is still expanding, especially among women.",
+  "excerpt": "Search summary: American mahjong expanding rapidly in 2026 with industry data pointing to thousands of clubs and sharp increases in searches for lessons and meetups.",
+  "firstRetrievedAt": "2026-10-04T20:53:53Z",
+  "firstSeenRunId": "run-2026-10-04-hobbies",
+  "id": "american-mahjong-boom~0418a721",
+  "intent": "curiosity",
+  "kind": "observed",
+  "lastSeenRunId": "run-2026-10-04-hobbies",
+  "publishedAt": "2026-08-15",
+  "publisher": "Deseret News",
+  "retrievedAt": "2026-10-04T20:53:53Z",
+  "signalType": "press",
+  "syndicationOf": null,
+  "title": "women are obsessed with mahjong america",
+  "url": "https://www.deseret.com/lifestyle/2026/08/15/women-are-obsessed-with-mahjong-america/"
+}

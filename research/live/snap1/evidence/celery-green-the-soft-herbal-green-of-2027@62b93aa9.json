@@ -1,0 +1,19 @@
+{
+  "accessMethod": "web_search_result",
+  "candidateId": "celery-green-the-soft-herbal-green-of-2027",
+  "claim": "Sherwin-Williams named Celery SW 6421 its 2027 Color of the Year, announced Sept. 15",
+  "excerpt": "Sherwin-Williams announced on Sept. 15 that Celery SW 6421, a soft, muted green with subtle yellow undertones, will carry the title into 2027",
+  "firstRetrievedAt": "2026-10-04T23:58:00Z",
+  "firstSeenRunId": "run-hunt-aesthetics-20261004-1",
+  "id": "celery-green-the-soft-herbal-green-of-2027~62b93aa9",
+  "intent": "none",
+  "kind": "observed",
+  "lastSeenRunId": "run-hunt-aesthetics-20261004-1",
+  "publishedAt": null,
+  "publisher": "PCI Magazine",
+  "retrievedAt": "2026-10-04T23:58:00Z",
+  "signalType": "press",
+  "syndicationOf": null,
+  "title": "Sherwin-Williams Names 2027 Color of the Year",
+  "url": "https://www.pcimag.com/articles/115227-sherwin-williams-names-2027-color-of-the-year"
+}

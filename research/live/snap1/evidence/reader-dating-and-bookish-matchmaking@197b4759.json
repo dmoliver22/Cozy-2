@@ -1,0 +1,19 @@
+{
+  "accessMethod": "web_search_result",
+  "candidateId": "reader-dating-and-bookish-matchmaking",
+  "claim": "The idea reached local news briefs.",
+  "excerpt": "reading makes you more attractive according to new dating app",
+  "firstRetrievedAt": "2026-10-05T00:00:55Z",
+  "firstSeenRunId": "run-hunt-hobbies-20261004-2",
+  "id": "reader-dating-and-bookish-matchmaking~197b4759",
+  "intent": "curiosity",
+  "kind": "observed",
+  "lastSeenRunId": "run-hunt-hobbies-20261004-2",
+  "publishedAt": null,
+  "publisher": "Oakdale Leader",
+  "retrievedAt": "2026-10-05T00:00:55Z",
+  "signalType": "press",
+  "syndicationOf": null,
+  "title": "Reading makes you more attractive according to new dating app",
+  "url": "https://www.oakdaleleader.com/news/news-briefs/reading-makes-you-more-attractive-according-to-new-dating-app/"
+}

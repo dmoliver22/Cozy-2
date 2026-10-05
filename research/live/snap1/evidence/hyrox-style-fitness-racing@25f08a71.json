@@ -1,0 +1,19 @@
+{
+  "accessMethod": "web_search_result",
+  "candidateId": "hyrox-style-fitness-racing",
+  "claim": "Workout apps explicitly support HYROX planning and tracking.",
+  "excerpt": "Search summary: app covers strength, functional fitness, HYROX, running, timers, planning, progress tracking.",
+  "firstRetrievedAt": "2026-10-04T20:53:53Z",
+  "firstSeenRunId": "run-2026-10-04-hobbies",
+  "id": "hyrox-style-fitness-racing~25f08a71",
+  "intent": "utility",
+  "kind": "observed",
+  "lastSeenRunId": "run-2026-10-04-hobbies",
+  "publishedAt": null,
+  "publisher": "Apple App Store",
+  "retrievedAt": "2026-10-04T20:53:53Z",
+  "signalType": "marketplace",
+  "syndicationOf": null,
+  "title": "Haile Training - Workout Log",
+  "url": "https://apps.apple.com/app/id1590662196"
+}

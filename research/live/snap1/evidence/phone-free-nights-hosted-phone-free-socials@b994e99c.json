@@ -1,0 +1,19 @@
+{
+  "accessMethod": "web_search_result",
+  "candidateId": "phone-free-nights-hosted-phone-free-socials",
+  "claim": "Music trade press asks whether phone-free events are surging in mid-September 2026.",
+  "excerpt": "Are Phone-Free Events Suddenly Surging?",
+  "firstRetrievedAt": "2026-10-05T00:00:55Z",
+  "firstSeenRunId": "run-hunt-hobbies-20261004-4",
+  "id": "phone-free-nights-hosted-phone-free-socials~b994e99c",
+  "intent": "curiosity",
+  "kind": "observed",
+  "lastSeenRunId": "run-hunt-hobbies-20261004-4",
+  "publishedAt": "2026-09-16",
+  "publisher": "Digital Music News",
+  "retrievedAt": "2026-10-05T00:00:55Z",
+  "signalType": "press",
+  "syndicationOf": null,
+  "title": "Are Phone-Free Events Suddenly Surging?",
+  "url": "https://www.digitalmusicnews.com/2026/09/16/are-phone-free-events-surging/"
+}

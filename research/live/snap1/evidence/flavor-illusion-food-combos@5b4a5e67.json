@@ -1,0 +1,19 @@
+{
+  "accessMethod": "web_search_result",
+  "candidateId": "flavor-illusion-food-combos",
+  "claim": "Nearest existing supply: a general culinary prompt deck, not a flavor-illusion party kit",
+  "excerpt": "20-card starter deck of tarot-sized culinary prompt cards across 5 themed categories.",
+  "firstRetrievedAt": "2026-10-05T00:01:02Z",
+  "firstSeenRunId": "run-hunt-foodhome-20261004-1",
+  "id": "flavor-illusion-food-combos~5b4a5e67",
+  "intent": "none",
+  "kind": "observed",
+  "lastSeenRunId": "run-hunt-foodhome-20261004-1",
+  "publishedAt": null,
+  "publisher": "Etsy",
+  "retrievedAt": "2026-10-05T00:01:02Z",
+  "signalType": "marketplace",
+  "syndicationOf": null,
+  "title": "Flavor Sparks Starter Deck",
+  "url": "https://www.etsy.com/listing/4337773528/flavor-sparks-starter-deck-20-printable"
+}

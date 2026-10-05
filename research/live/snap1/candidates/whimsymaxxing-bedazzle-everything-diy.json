@@ -1,0 +1,187 @@
+{
+  "actionRationale": "Broad press spread shows a real craft wave, but demand for digital patterns is unproven and supply is heavy. Build the pack and process videos now; test with organic posts first.",
+  "adopters": {
+    "evidence": [
+      "whimsymaxxing-bedazzle-everything-diy~1a0d4a41",
+      "whimsymaxxing-bedazzle-everything-diy~97eca2a2"
+    ],
+    "text": "Gen Z social media users; major beauty and coffee brands joined in on their social feeds, according to Fortune."
+  },
+  "aliases": [
+    "bedazzling era",
+    "bedazzled everything",
+    "rhinestone everything",
+    "gem everything"
+  ],
+  "category": "hobby",
+  "channels": [
+    "Etsy",
+    "TikTok",
+    "Pinterest",
+    "Instagram Reels"
+  ],
+  "competition": {
+    "evidence": [
+      "whimsymaxxing-bedazzle-everything-diy~2f01bf3f",
+      "whimsymaxxing-bedazzle-everything-diy~bf80ae43",
+      "whimsymaxxing-bedazzle-everything-diy~a5c5d752"
+    ],
+    "level": "moderate",
+    "text": "Physical rhinestone supplies are abundant, and free single-project tutorials exist. Digital pattern-template supply was not checked on Etsy."
+  },
+  "editorialNotes": [],
+  "effortMin": "medium",
+  "firstSeenAt": "2026-10-05T00:01:02.893Z",
+  "formats": [
+    "printable"
+  ],
+  "gap": {
+    "isInference": true,
+    "text": "A beginner multi-object printable pattern pack with true-scale templates and a stone-size chart."
+  },
+  "id": "whimsymaxxing-bedazzle-everything-diy",
+  "jobId": "hunt-hobbies-20261004",
+  "language": "en",
+  "lastRunId": "run-hunt-hobbies-20261004-3",
+  "lens": "First-spark hunt: new hobbies, challenges and rituals",
+  "name": "Whimsymaxxing: bedazzle-everything DIY",
+  "origin": {
+    "date": "2026-08-27",
+    "evidence": [
+      "whimsymaxxing-bedazzle-everything-diy~1a0d4a41",
+      "whimsymaxxing-bedazzle-everything-diy~35b4d7cb",
+      "whimsymaxxing-bedazzle-everything-diy~28f9f3a2",
+      "whimsymaxxing-bedazzle-everything-diy~81424df4",
+      "whimsymaxxing-bedazzle-everything-diy~2722c940"
+    ],
+    "text": "Whimsymaxxing as a general mood was covered in summer 2026; the bedazzling wave broke out in late August 2026, with coverage dated Aug 27-28. Press links the spike partly to a viral gem-covered celebrity birthday cake (context only, not needed for products)."
+  },
+  "productDemand": {
+    "evidence": [
+      "whimsymaxxing-bedazzle-everything-diy~1a0d4a41",
+      "whimsymaxxing-bedazzle-everything-diy~2f01bf3f",
+      "whimsymaxxing-bedazzle-everything-diy~a5c5d752"
+    ],
+    "text": "No direct purchase figures were found for digital products. Fortune frames the trend as a spending indicator, and beginners are looking for help (supplier guides). Physical rhinestone supplies are widely sold."
+  },
+  "products": [
+    {
+      "buyer": "Teens and young women (about 14-30) trying rhinestone DIY on phone cases, tumblers, cups, notebooks and compacts for the first time",
+      "channels": [
+        "Etsy",
+        "TikTok",
+        "Pinterest",
+        "Instagram Reels"
+      ],
+      "continueIf": "3+ sales or a video above 10,000 views within 21 days",
+      "differentiation": "An original, beginner-first pattern pack across many object types, with stone-size charts and printable trace-your-object pages. Supplier tutorials cover one project at a time.",
+      "effort": "medium",
+      "effortHours": 14,
+      "evidence": [
+        "whimsymaxxing-bedazzle-everything-diy~1a0d4a41",
+        "whimsymaxxing-bedazzle-everything-diy~2f01bf3f",
+        "whimsymaxxing-bedazzle-everything-diy~bf80ae43"
+      ],
+      "format": "printable",
+      "fulfillment": "digital",
+      "leadTimeDays": 4,
+      "pivotIf": "Interest centers on one object type: release that as a focused pack (e.g. tumbler wraps only)",
+      "rightsNote": "No brand-name tumblers (do not name any drinkware brand in the title or tags), no logos, no characters, no celebrity references.",
+      "stopIf": "No sales and under 300 views by day 21",
+      "theme": "Bedazzle pattern templates: printable rhinestone layout guides (monograms, hearts, stars, ombre, honeycomb wraps) with a beginner guide",
+      "validationTest": "List the pack and post 4 short process videos of a phone case and a cup bedazzled with the printable under them within 10 days.",
+      "whyBuy": "Beginners struggle with spacing and patterns; a printable layout under a clear case or inside a tumbler makes a neat result far easier."
+    }
+  ],
+  "qualityFlags": [],
+  "recommendedAction": "prepare",
+  "region": "US",
+  "researchedAt": "2026-10-05T00:00:55Z",
+  "rights": {
+    "note": "Keep patterns original; avoid drinkware/phone brand names, logos, characters and celebrity references.",
+    "risk": "low"
+  },
+  "runIds": [
+    "run-hunt-hobbies-20261004-3"
+  ],
+  "scores": {
+    "buyerIntent": {
+      "basis": "qualitative",
+      "rationale": "Spending framing in press and tutorial demand, but no sales data for digital products",
+      "score": 2
+    },
+    "durability": {
+      "basis": "qualitative",
+      "rationale": "Rhinestone crafting is a long-running niche even if the spike fades",
+      "score": 3
+    },
+    "economics": {
+      "basis": "qualitative",
+      "rationale": "Digital, low cost; demo supplies are cheap",
+      "score": 4
+    },
+    "productFit": {
+      "basis": "qualitative",
+      "rationale": "Printable layouts solve a real beginner spacing problem",
+      "score": 4
+    },
+    "supplyGap": {
+      "basis": "qualitative",
+      "rationale": "Many tutorials and supplies; digital packs not checked",
+      "score": 2
+    },
+    "timing": {
+      "basis": "reported",
+      "rationale": "Spreading fast, about 5 weeks in",
+      "score": 3
+    }
+  },
+  "source": "research",
+  "spread": {
+    "evidence": [
+      "whimsymaxxing-bedazzle-everything-diy~1a0d4a41",
+      "whimsymaxxing-bedazzle-everything-diy~35b4d7cb",
+      "whimsymaxxing-bedazzle-everything-diy~28f9f3a2",
+      "whimsymaxxing-bedazzle-everything-diy~e0447608",
+      "whimsymaxxing-bedazzle-everything-diy~21186b7f",
+      "whimsymaxxing-bedazzle-everything-diy~97eca2a2",
+      "whimsymaxxing-bedazzle-everything-diy~32bd9fc1",
+      "whimsymaxxing-bedazzle-everything-diy~45cfd638"
+    ],
+    "text": "Independent coverage across US business press, fashion press (Zoe Report, Vogue Singapore), retail trade press, Indian and Gulf outlets, and a TikTok trend tracker for September."
+  },
+  "summary": "A late-August 2026 surge of gluing rhinestones onto everyday objects (cups, phone cases, skincare), framed as 'whimsymaxxing' and covered by business, fashion and international press through September.",
+  "topicKeys": [
+    "phrase:whimsymaxxing bedazzle everything diy",
+    "phrase:bedazzling era",
+    "phrase:bedazzled everything",
+    "phrase:rhinestone everything",
+    "phrase:gem everything"
+  ],
+  "trajectory": {
+    "evidence": [
+      "whimsymaxxing-bedazzle-everything-diy~1a0d4a41",
+      "whimsymaxxing-bedazzle-everything-diy~e0447608",
+      "whimsymaxxing-bedazzle-everything-diy~97eca2a2",
+      "whimsymaxxing-bedazzle-everything-diy~2f01bf3f"
+    ],
+    "stage": "early_growth",
+    "text": "About 5 weeks old with broad multi-country coverage. Beginner guides are appearing from suppliers. No sign of decline found, but late-August celebrity-driven spikes can fade."
+  },
+  "unresolved": [
+    "How many rhinestone pattern templates already sell on Etsy",
+    "Whether the wave persists into November holiday DIY coverage"
+  ],
+  "what": "People are decorating ordinary items with rhinestones, gems and charms as a hands-on, playful craft. Fortune framed it as a Gen Z 'Lipstick Index'. Coverage spans phone cases, cups, cakes, skincare and nails, and some pieces frame it as a way to log off.",
+  "window": {
+    "endEstimate": null,
+    "estimate": "Through the 2026 holiday gifting season",
+    "invalidators": [
+      "Coverage stops by mid-October",
+      "Supplier and tutorial content saturates searches"
+    ],
+    "reasoning": "DIY gifts (decorated cups, cases) fit holiday making; the craft has a long tail after the social spike.",
+    "seasonality": "Holiday DIY gifts in Nov-Dec",
+    "sellBy": null
+  }
+}

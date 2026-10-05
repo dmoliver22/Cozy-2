@@ -1,0 +1,19 @@
+{
+  "accessMethod": "web_search_result",
+  "candidateId": "phone-free-nights-hosted-phone-free-socials",
+  "claim": "Restates Eventbrite's figure.",
+  "excerpt": "\"Phone-free\" club events rose by 567% globally in 2025",
+  "firstRetrievedAt": "2026-10-05T00:00:55Z",
+  "firstSeenRunId": "run-hunt-hobbies-20261004-4",
+  "id": "phone-free-nights-hosted-phone-free-socials~6e657ca7",
+  "intent": "curiosity",
+  "kind": "observed",
+  "lastSeenRunId": "run-hunt-hobbies-20261004-4",
+  "publishedAt": null,
+  "publisher": "Mixmag",
+  "retrievedAt": "2026-10-05T00:00:55Z",
+  "signalType": "press",
+  "syndicationOf": "phone-free-nights-hosted-phone-free-socials~cac21af6",
+  "title": "'Phone-free' club events rose by 567% globally in 2025, new data reveals",
+  "url": "https://mixmag.net/read/phone-free-club-events-up-by-567-new-data-reveals-news"
+}

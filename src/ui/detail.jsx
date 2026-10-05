@@ -88,6 +88,11 @@ export function Dossier({ c, a, evidence, observations, snapshots, bets = [], fe
         </div>
         <h2>{c.name}</h2>
         {c.aliases?.length ? <p class="aka">Also called: {c.aliases.join(' · ')}</p> : null}
+        {c.mergedFrom?.length ? (
+          <p class="aka">
+            Merged duplicate research: {c.mergedFrom.map((d) => d.name).join(' · ')}. Its sources are included below.
+          </p>
+        ) : null}
         <div style={{ display: 'flex', gap: '18px', flexWrap: 'wrap', alignItems: 'center' }}>
           <ActionChip action={a.gate.action} big />
           <ScoreMeter score={a.opportunity.score} provisional={a.provisional} />

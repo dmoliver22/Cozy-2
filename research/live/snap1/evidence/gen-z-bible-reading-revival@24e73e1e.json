@@ -1,0 +1,19 @@
+{
+  "accessMethod": "web_search_result",
+  "candidateId": "gen-z-bible-reading-revival",
+  "claim": "Duplicate host of the same Barna article.",
+  "excerpt": "Same title on a production subdomain.",
+  "firstRetrievedAt": "2026-10-04T20:59:17Z",
+  "firstSeenRunId": "run-2026-10-04-movements",
+  "id": "gen-z-bible-reading-revival~24e73e1e",
+  "intent": "utility",
+  "kind": "observed",
+  "lastSeenRunId": "run-2026-10-04-movements",
+  "publishedAt": null,
+  "publisher": "Barna Group",
+  "retrievedAt": "2026-10-04T20:59:17Z",
+  "signalType": "community",
+  "syndicationOf": "gen-z-bible-reading-revival~fb50f53c",
+  "title": "How Millennials and Gen Z Are Driving a Bible Reading Comeback",
+  "url": "https://production.barna.com/articles/bible-reading-trends"
+}

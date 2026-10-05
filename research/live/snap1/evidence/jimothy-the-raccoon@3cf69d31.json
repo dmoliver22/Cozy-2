@@ -1,0 +1,19 @@
+{
+  "accessMethod": "web_search_result",
+  "candidateId": "jimothy-the-raccoon",
+  "claim": "Legal press: viral popularity undermines anyone's ability to own the Jimothy name and image.",
+  "excerpt": "Headline only; summary notes Kiana Hall named him.",
+  "firstRetrievedAt": "2026-10-04T20:57:55Z",
+  "firstSeenRunId": "run-2026-10-04-memes",
+  "id": "jimothy-the-raccoon~3cf69d31",
+  "intent": "utility",
+  "kind": "observed",
+  "lastSeenRunId": "run-2026-10-04-memes",
+  "publishedAt": null,
+  "publisher": "Bloomberg Law",
+  "retrievedAt": "2026-10-04T20:57:55Z",
+  "signalType": "press",
+  "syndicationOf": null,
+  "title": "Jimothy the Raccoon's Popularity Undermines the Right to Own Him",
+  "url": "https://news.bloomberglaw.com/litigation/jimothy-the-raccoons-popularity-undermines-the-right-to-own-him"
+}

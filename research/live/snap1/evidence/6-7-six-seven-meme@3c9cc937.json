@@ -1,0 +1,19 @@
+{
+  "accessMethod": "web_search_result",
+  "candidateId": "6-7-six-seven-meme",
+  "claim": "Educators were reacting to the trend in classrooms in November 2025; the date is taken from the URL path.",
+  "excerpt": "Educators on the six seven trend: embrace the chaos",
+  "firstRetrievedAt": "2026-10-04T22:33:00Z",
+  "firstSeenRunId": "run-analyze-muueb7q2-x8paqz",
+  "id": "6-7-six-seven-meme~3c9cc937",
+  "intent": "none",
+  "kind": "observed",
+  "lastSeenRunId": "run-analyze-muueb7q2-x8paqz",
+  "publishedAt": "2025-11-01",
+  "publisher": "Education Week",
+  "retrievedAt": "2026-10-04T22:33:00Z",
+  "signalType": "press",
+  "syndicationOf": null,
+  "title": "Educators on the six-seven trend: embrace the chaos",
+  "url": "https://www.edweek.org/teaching-learning/educators-on-the-six-seven-trend-embrace-the-chaos/2025/11"
+}

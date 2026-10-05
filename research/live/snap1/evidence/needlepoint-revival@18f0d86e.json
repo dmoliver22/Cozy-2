@@ -1,0 +1,19 @@
+{
+  "accessMethod": "web_search_result",
+  "candidateId": "needlepoint-revival",
+  "claim": "Youth-research firm reports Gen Z adoption of needlepoint, #Needlepoint at 119K TikTok videos, and beginner kits selling out at New York shops.",
+  "excerpt": "Search summary: #Needlepoint 119K TikTok videos; 'analog hobbies' Google searches up 160% in the past month; NY shops' beginner kits selling out within days; one owner hit her eight-year sales projection in 'five' (unit differs between summaries; treat as unverified); home stitch nights and studios thriving as third spaces.",
+  "firstRetrievedAt": "2026-10-04T20:53:53Z",
+  "firstSeenRunId": "run-2026-10-04-hobbies",
+  "id": "needlepoint-revival~18f0d86e",
+  "intent": "purchase",
+  "kind": "observed",
+  "lastSeenRunId": "run-2026-10-04-hobbies",
+  "publishedAt": "2026-01-20",
+  "publisher": "YPulse",
+  "retrievedAt": "2026-10-04T20:53:53Z",
+  "signalType": "press",
+  "syndicationOf": null,
+  "title": "Needlepoint is the latest granny hobby Gen Z can't put down",
+  "url": "https://www.ypulse.com/newsfeed/2026/01/20/needlepoint-is-the-latest-granny-hobby-gen-z-cant-put-down/"
+}

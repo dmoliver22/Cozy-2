@@ -1,0 +1,19 @@
+{
+  "accessMethod": "web_search_result",
+  "candidateId": "chile-memes-everything-is-narrow",
+  "claim": "A large pop-culture outlet posted about it",
+  "excerpt": "Chile Has Officially Become the Internet's Newest Meme",
+  "firstRetrievedAt": "2026-10-05T00:00:47Z",
+  "firstSeenRunId": "run-hunt-memes-20261004-2",
+  "id": "chile-memes-everything-is-narrow~bc7629b8",
+  "intent": "curiosity",
+  "kind": "observed",
+  "lastSeenRunId": "run-hunt-memes-20261004-2",
+  "publishedAt": null,
+  "publisher": "Complex (X)",
+  "retrievedAt": "2026-10-05T00:00:47Z",
+  "signalType": "press",
+  "syndicationOf": null,
+  "title": "Complex on X: Chile Has Officially Become the Internet's Newest Meme",
+  "url": "https://x.com/Complex/status/2104246935289016768"
+}

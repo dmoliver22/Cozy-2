@@ -1,0 +1,545 @@
+{
+  "createdAt": "2026-10-05T00:00:55Z",
+  "jobId": "hunt-hobbies-20261004",
+  "processedAt": "2026-10-05T00:01:31.593Z",
+  "raw": {
+    "candidates": [
+      {
+        "actionRationale": "The trend is real and durable, but whether people buy kits for it is unproven. Build before holiday party season and test organically and with venues.",
+        "adopters": {
+          "evidence": [
+            "e1",
+            "e6"
+          ],
+          "text": "Gen Z and millennial nightlife-goers. Eventbrite reports 49% want live experiences to feel less curated. Bars and restaurants in several US cities."
+        },
+        "aliases": [
+          "phone-free events",
+          "no-phone night",
+          "phone-free bars",
+          "analog night"
+        ],
+        "category": "hobby",
+        "competition": {
+          "evidence": [],
+          "level": "unknown",
+          "text": "Lockable phone pouches exist for venues. Generic game-night printables are common. Phone-free-night-specific host kits were not checked."
+        },
+        "evidence": [
+          {
+            "accessMethod": "web_search_result",
+            "claim": "Eventbrite reports phone-free experiences up 567% globally, with US attendance growth far ahead of listing growth.",
+            "excerpt": "Phone-free experiences are up 567% globally, with 49% of Gen Z and Millennials wanting live experiences to feel less curated and more real.",
+            "id": "e1",
+            "intent": "utility",
+            "kind": "observed",
+            "publishedAt": null,
+            "publisher": "Eventbrite",
+            "retrievedAt": "2026-10-05T00:00:55Z",
+            "signalType": "marketplace",
+            "syndicationOf": null,
+            "title": "Offline by Design: The Rise of Phone-Free Experiences in 2026's Analog Era",
+            "url": "https://www.eventbrite.com/blog/press/newsroom/the-rise-of-phone-free-experiences/"
+          },
+          {
+            "accessMethod": "web_search_result",
+            "claim": "Restates Eventbrite's figure.",
+            "excerpt": "\"Phone-free\" club events rose by 567% globally in 2025",
+            "id": "e2",
+            "intent": "curiosity",
+            "kind": "observed",
+            "publishedAt": null,
+            "publisher": "Mixmag",
+            "retrievedAt": "2026-10-05T00:00:55Z",
+            "signalType": "press",
+            "syndicationOf": "e1",
+            "title": "'Phone-free' club events rose by 567% globally in 2025, new data reveals",
+            "url": "https://mixmag.net/read/phone-free-club-events-up-by-567-new-data-reveals-news"
+          },
+          {
+            "accessMethod": "web_search_result",
+            "claim": "New monthly phone-free nights launching in Atlanta in September 2026, with board games and a phone lockbox.",
+            "excerpt": "Seventh House launched its first phone-free event in September... guests leave their phones in a secure lockbox and enjoy screen-free nights of cocktails, food, and experiential activities like board games.",
+            "id": "e3",
+            "intent": "utility",
+            "kind": "observed",
+            "publishedAt": "2026-09-30",
+            "publisher": "Rough Draft Atlanta",
+            "retrievedAt": "2026-10-05T00:00:55Z",
+            "signalType": "press",
+            "syndicationOf": null,
+            "title": "Atlanta venues launch phone-free events for connection",
+            "url": "https://roughdraftatlanta.com/2026/09/30/atlanta-venues-phone-free-events/"
+          },
+          {
+            "accessMethod": "web_search_result",
+            "claim": "Music trade press asks whether phone-free events are surging in mid-September 2026.",
+            "excerpt": "Are Phone-Free Events Suddenly Surging?",
+            "id": "e4",
+            "intent": "curiosity",
+            "kind": "observed",
+            "publishedAt": "2026-09-16",
+            "publisher": "Digital Music News",
+            "retrievedAt": "2026-10-05T00:00:55Z",
+            "signalType": "press",
+            "syndicationOf": null,
+            "title": "Are Phone-Free Events Suddenly Surging?",
+            "url": "https://www.digitalmusicnews.com/2026/09/16/are-phone-free-events-surging/"
+          },
+          {
+            "accessMethod": "web_search_result",
+            "claim": "Earlier national coverage of phone-free bars.",
+            "excerpt": "Some bars and restaurants are going phone free",
+            "id": "e5",
+            "intent": "curiosity",
+            "kind": "observed",
+            "publishedAt": "2026-03-31",
+            "publisher": "NPR",
+            "retrievedAt": "2026-10-05T00:00:55Z",
+            "signalType": "press",
+            "syndicationOf": null,
+            "title": "'Life needs to be more like this': Some bars and restaurants are going phone free",
+            "url": "https://www.npr.org/2026/03/31/nx-s1-5766124/life-needs-to-be-more-like-this-some-bars-and-restaurants-are-going-phone-free"
+          },
+          {
+            "accessMethod": "web_search_result",
+            "claim": "Names cities with phone-free venues (Austin, Phoenix, Charlotte, DC).",
+            "excerpt": "Phone-free bars and restaurants are popping up across America",
+            "id": "e6",
+            "intent": "curiosity",
+            "kind": "observed",
+            "publishedAt": "2026-05-15",
+            "publisher": "InvestigateTV",
+            "retrievedAt": "2026-10-05T00:00:55Z",
+            "signalType": "press",
+            "syndicationOf": null,
+            "title": "Phone-free bars and restaurants are popping up across America",
+            "url": "https://www.investigatetv.com/2026/05/15/phone-free-bars-restaurants-are-popping-up-across-america/"
+          },
+          {
+            "accessMethod": "web_search_result",
+            "claim": "Further national coverage.",
+            "excerpt": "US bars and restaurants are pushing a growing phone-free dining trend",
+            "id": "e7",
+            "intent": "curiosity",
+            "kind": "observed",
+            "publishedAt": null,
+            "publisher": "Fox News",
+            "retrievedAt": "2026-10-05T00:00:55Z",
+            "signalType": "press",
+            "syndicationOf": null,
+            "title": "US bars and restaurants are pushing a growing phone-free dining trend",
+            "url": "https://www.foxnews.com/tech/phone-free-restaurants-trending-across-us"
+          },
+          {
+            "accessMethod": "web_search_result",
+            "claim": "Event planners are looking for guidance on running phone-free events.",
+            "excerpt": "Should Your Next Event Be Phone-Free?",
+            "id": "e8",
+            "intent": "utility",
+            "kind": "observed",
+            "publishedAt": null,
+            "publisher": "BizBash",
+            "retrievedAt": "2026-10-05T00:00:55Z",
+            "signalType": "press",
+            "syndicationOf": null,
+            "title": "Should Your Next Event Be Phone-Free?",
+            "url": "https://www.bizbash.com/event-production-planning/should-your-next-event-be-phone-free"
+          },
+          {
+            "accessMethod": "web_search_result",
+            "claim": "Restates Eventbrite data.",
+            "excerpt": "phone free events restore connection eventbrite",
+            "id": "e9",
+            "intent": "curiosity",
+            "kind": "observed",
+            "publishedAt": "2026-04-28",
+            "publisher": "Fitt Insider",
+            "retrievedAt": "2026-10-05T00:00:55Z",
+            "signalType": "press",
+            "syndicationOf": "e1",
+            "title": "Phone-free events restore connection (Eventbrite)",
+            "url": "https://insider.fitt.co/phone-free-events-restore-connection-eventbrite/"
+          },
+          {
+            "accessMethod": "web_search_result",
+            "claim": "Youth-research context: 'going analog' is a 2026 theme.",
+            "excerpt": "Going Analog Trend Report",
+            "id": "e10",
+            "intent": "curiosity",
+            "kind": "observed",
+            "publishedAt": "2026-07-09",
+            "publisher": "YPulse",
+            "retrievedAt": "2026-10-05T00:00:55Z",
+            "signalType": "press",
+            "syndicationOf": null,
+            "title": "Going Analog Trend Report",
+            "url": "https://www.ypulse.com/report/2026/07/09/going-analog-trend-report/"
+          }
+        ],
+        "gap": {
+          "isInference": true,
+          "text": "A combined phone-logistics plus activities kit for home hosts and small venues."
+        },
+        "name": "Phone-free nights (hosted phone-free socials)",
+        "observations": [
+          {
+            "asOf": "2026-04-28",
+            "evidence": "e1",
+            "isAbsolute": false,
+            "metric": "Global growth in phone-free experiences",
+            "note": "Reported by Eventbrite; not independently verified. Period described as 2025 in some restatements.",
+            "unit": "percent",
+            "value": 567
+          },
+          {
+            "asOf": "2026-04-28",
+            "evidence": "e1",
+            "isAbsolute": false,
+            "metric": "US attendance growth at phone-free events",
+            "note": "Reported by Eventbrite; US listings growth given as 337% or 388% in different summaries.",
+            "unit": "percent",
+            "value": 913
+          }
+        ],
+        "origin": {
+          "date": null,
+          "evidence": [
+            "e1",
+            "e5",
+            "e3"
+          ],
+          "text": "Phone-free venues and events grew through 2025 and spring 2026 (Eventbrite report; NPR in March 2026). The September 2026 step is new recurring monthly nights at bars and lounges."
+        },
+        "productDemand": {
+          "evidence": [
+            "e1",
+            "e8"
+          ],
+          "text": "Attendance growth is real per Eventbrite (attendance, not purchases). Organizers seek guidance (BizBash). There is no evidence that anyone buys host kits, so purchase intent for printables is unproven."
+        },
+        "products": [
+          {
+            "buyer": "People hosting a phone-free game night, dinner or birthday at home, plus small bars, cafes and community groups starting a monthly phone-free night",
+            "channels": [
+              "Etsy",
+              "Pinterest",
+              "Instagram",
+              "local venue outreach"
+            ],
+            "continueIf": "3+ sales or 2+ venue inquiries within 21 days",
+            "differentiation": "Combines the 'collect phones' logistics (numbered check tickets, signs) with screen-free activities (original paper games and conversation cards) in one kit, in home and venue editions.",
+            "effort": "medium",
+            "effortHours": 12,
+            "evidence": [
+              "e1",
+              "e3",
+              "e8"
+            ],
+            "format": "printable",
+            "fulfillment": "digital",
+            "leadTimeDays": 4,
+            "pivotIf": "Home hosts buy, venues do not: lean into holiday party and Friendsgiving phone-free editions",
+            "playbook": {
+              "assembly": [
+                "Run the super prompt and lay out each section in Canva on US Letter pages.",
+                "Build the 40 ticket pairs with Canva's bulk-create or a numbered table; check numbering.",
+                "Set card sheets 8-up at 3.5x2.5 in with crop marks; set label strips at 1x0.5 in.",
+                "Make the venue edition by duplicating signs and adding an editable venue-name field; share it as a Canva template link.",
+                "Resize to A4 and fix overflow.",
+                "Export PDF Print at 300 DPI (with crop marks for cards and tickets).",
+                "Bundle home and venue PDFs plus the Canva link page; test-print tickets and one card sheet."
+              ],
+              "asymmetry": {
+                "badBetIf": "Phone-free events stay venue-run with venue-made materials, and home hosts do not search for kits",
+                "downside": "About 12 hours and up to $14 in ads",
+                "upside": "Evergreen party category with holiday peaks; venue edition can bring repeat or referral buyers"
+              },
+              "costs": {
+                "baseCost": null,
+                "basis": "estimate: digital product, Etsy fees only",
+                "item": null,
+                "provider": null,
+                "shipping": null,
+                "testBudget": 14,
+                "testBudgetNote": "Optional Etsy Ads $1/day for 14 days before holiday party season"
+              },
+              "extensions": [
+                "Friendsgiving and holiday editions",
+                "Phone-free birthday kit",
+                "Venue monthly-night poster series"
+              ],
+              "imagePrompts": [
+                {
+                  "prompt": "Cozy living-room table with a woven basket holding several face-down generic phones with numbered paper tickets, printed conversation cards and a score sheet with pencils, warm lamp light, retro palette #E4572E #FFF4E0 #F2B134 #2F5D50 #1E1E24, a small sign reading 'Phones are resting tonight', 4:3 aspect ratio. No logos, no real people, no trademarked characters, no watermarks.",
+                  "purpose": "Listing hero",
+                  "tool": "Ideogram or ChatGPT images"
+                },
+                {
+                  "prompt": "Vertical retro poster-style graphic, headline 'Host a Phone-Free Night' in bold blocky type in tomato #E4572E on cream #FFF4E0, icons of a basket, cards and a pencil in forest #2F5D50 and mustard #F2B134, subline 'printable kit: tickets, signs, games', 2:3 aspect ratio. No logos, no real people, no trademarked characters, no watermarks.",
+                  "purpose": "Pinterest pin",
+                  "tool": "Ideogram"
+                }
+              ],
+              "listingPrompt": "Write an Etsy listing for a digital download 'Phone-Free Night Host Kit'. Title under 140 characters starting with 'Phone Free Party Printable Kit'. Exactly 13 tags of 20 characters or fewer (e.g. phone free party, game night printable, conversation cards, screen free night, party games adults). Description: what's included (40 numbered phone check tickets, signs, 60 conversation cards, 6 original paper games with score sheets, guestbook, label strips, venue edition with Canva link), US Letter and A4, instant download, nothing ships. FAQ: printing, venue use license, ages, group size, editing. Do not use any brand, device, app or commercial game names, and make no mental-health or wellbeing claims.",
+              "marketing": {
+                "channels": [
+                  {
+                    "cadence": "3-4 pins per week",
+                    "channel": "Pinterest",
+                    "tactic": "Party-planning and game-night pins"
+                  },
+                  {
+                    "cadence": "Weekly batch of 7-8",
+                    "channel": "Venue outreach",
+                    "tactic": "Venue edition plus a free sample"
+                  }
+                ],
+                "hooks": [
+                  "Phones in the basket, fun on the table",
+                  "Your friends' new favorite rule",
+                  "Host the night nobody posts"
+                ],
+                "keywords": [
+                  "phone free party",
+                  "game night printable",
+                  "screen free night",
+                  "conversation cards printable",
+                  "friendsgiving games"
+                ],
+                "launchPlan": [
+                  {
+                    "action": "Publish the Etsy and Payhip listings",
+                    "day": "Day 0"
+                  },
+                  {
+                    "action": "Post 4 pins (kit overview, tickets, games, signs)",
+                    "day": "Day 1"
+                  },
+                  {
+                    "action": "Reel or TikTok: guests dropping phones in the basket with tickets, then playing a game",
+                    "day": "Day 2"
+                  },
+                  {
+                    "action": "DM 8 local bars and cafes that post about game or analog nights",
+                    "day": "Day 4"
+                  },
+                  {
+                    "action": "Pin and post a Friendsgiving phone-free angle",
+                    "day": "Day 7"
+                  },
+                  {
+                    "action": "Contact 7 more venues; share a free conversation-card sheet",
+                    "day": "Day 10"
+                  },
+                  {
+                    "action": "Review results; start $1/day Etsy Ads if favorites are coming in",
+                    "day": "Day 14"
+                  },
+                  {
+                    "action": "Go/pivot/stop check, with holiday party edition planning",
+                    "day": "Day 21"
+                  }
+                ],
+                "positioning": "Everything you need to host a phone-free night that's fun, not awkward."
+              },
+              "platforms": [
+                {
+                  "name": "Etsy",
+                  "role": "primary",
+                  "why": "Party printables are searched there"
+                },
+                {
+                  "name": "Pinterest",
+                  "role": "traffic",
+                  "why": "Game-night and party-planning pins"
+                },
+                {
+                  "name": "Payhip",
+                  "role": "secondary",
+                  "why": "Direct link for venue outreach"
+                }
+              ],
+              "pricing": {
+                "basis": "estimate",
+                "currency": "USD",
+                "high": 15,
+                "low": 6,
+                "rationale": "Party kit pricing; the venue edition justifies the upper range.",
+                "recommended": 9
+              },
+              "productName": "Phone-Free Night Host Kit",
+              "risks": [
+                "Overlaps generic game-night printables",
+                "Growth data comes mostly from one company's report",
+                "Trend may stay concentrated in nightlife and concerts"
+              ],
+              "superPrompt": "You are an event host and party-game designer. Write the full content of a printable product called 'Phone-Free Night Host Kit'. BUYER AND JOB: people hosting a phone-free dinner, game night or birthday at home, and small bars, cafes and community groups starting a monthly phone-free night. The kit makes collecting phones feel friendly, and fills the evening with things to do once phones are away. DELIVERABLE SPEC (US Letter 8.5x11 in and A4; cards 8-up at 3.5x2.5 in with crop marks): 1) Host guide (1 page): how to announce it in the invite (3 sample invite lines), where to put phones, an emergency-contact rule (a host phone or landline number guests can share with family), timing for a 2-3 hour night. 2) Phone check-in tickets: 40 numbered ticket pairs (one for the guest, one to tape to the phone or pouch). 3) Signs: welcome sign 'Phones are resting tonight', phone basket label, house-rules poster with 5 friendly rules, 'Photo time' card for an optional 5-minute group photo moment, and a venue edition of each with space for the venue name. 4) 60 conversation cards in 4 decks (Warm-up, Nostalgia, Would-You-Rather, Deeper), 15 each, all original and inclusive. 5) Six original pen-and-paper party games, each with a one-page rule sheet and printable score sheet: a category-listing game, a drawing-telephone style game, a 'two truths' variant, a team trivia template with blank question slots, a word-chain race, and a group story game. Give each an original name; write rules in your own words. 6) A 'What we did instead of scrolling' guestbook page and a 'next phone-free night' sign-up sheet. 7) A camera-cover reminder strip sheet (small printable labels reading 'In the moment' sized 1x0.5 in) with a note to use removable label paper. STYLE: warm, retro analog. Canva font pairings: (1) Archivo Black headings + IBM Plex Mono body; (2) Recoleta + Karla. Palette: Tomato #E4572E, Cream #FFF4E0, Mustard #F2B134, Forest #2F5D50, Night #1E1E24. CONTENT RULES: everything original; do not name or copy any commercial game, app, device or brand; no claims about mental health benefits; keep it friendly and never shaming about phone use; inclusive and alcohol-optional. DIFFERENTIATION: one kit that covers both the phone logistics and the activities, in home and venue editions. OUTPUT FORMAT: section by section, headed 'SECTION n - name', all text with layout notes in brackets, then a short print guide. SELF-CHECK before answering: 40 ticket pairs numbered 1-40; 60 unique cards; 6 games each with rules and a score sheet; an emergency-contact note present; no brand or game trademarks; no health claims; palette and fonts used."
+            },
+            "rightsNote": "Original games only (no copyrighted game names or rules copied verbatim); no device brand names or logos.",
+            "stopIf": "No sales and under 300 listing views by day 21",
+            "theme": "Phone-Free Night host kit: phone check-in tickets, house-rules signs, table conversation cards and pen-and-paper party games",
+            "validationTest": "List on Etsy and pitch the venue edition to 15 bars, cafes or bookstores that announce analog or phone-free nights within 10 days.",
+            "whyBuy": "Venues launching phone-free nights add board games and a phone lockbox; home hosts need the same structure: a polite way to collect phones and enough to do once phones are away."
+          }
+        ],
+        "recommendedAction": "prepare",
+        "rights": {
+          "note": "Original games and copy; no device, pouch or venue brand names.",
+          "risk": "low"
+        },
+        "scores": {
+          "buyerIntent": {
+            "basis": "qualitative",
+            "rationale": "Attendance growth, not product buying",
+            "score": 1
+          },
+          "durability": {
+            "basis": "reported",
+            "rationale": "Analog theme sustained through 2026",
+            "score": 4
+          },
+          "economics": {
+            "basis": "qualitative",
+            "rationale": "Digital and reusable",
+            "score": 4
+          },
+          "productFit": {
+            "basis": "qualitative",
+            "rationale": "Hosts need tickets, signs and activities",
+            "score": 4
+          },
+          "supplyGap": {
+            "basis": "unknown",
+            "rationale": "Marketplaces not checked",
+            "score": null
+          },
+          "timing": {
+            "basis": "reported",
+            "rationale": "The trend is a year old, but new recurring nights launched in September",
+            "score": 3
+          }
+        },
+        "spread": {
+          "evidence": [
+            "e3",
+            "e4",
+            "e5",
+            "e6",
+            "e7",
+            "e8"
+          ],
+          "text": "National, local and trade coverage across 2026, with a new cluster of local launches and trade coverage in mid-to-late September."
+        },
+        "summary": "Bars, venues and organizers are launching recurring phone-free nights (new monthly nights in Atlanta and Miami in September 2026), on top of Eventbrite-reported strong growth in phone-free events.",
+        "trajectory": {
+          "evidence": [
+            "e1",
+            "e3",
+            "e4"
+          ],
+          "stage": "early_growth",
+          "text": "Growing through 2026, and new recurring venue nights are launching now. Not yet a household home-hosting ritual."
+        },
+        "unresolved": [
+          "Whether home 'phone-free party' content appears on TikTok/Pinterest",
+          "How many phone-free host printables already exist on Etsy"
+        ],
+        "what": "Guests hand over or put away phones for a night of food, drinks, games and conversation. Venues use lockboxes, locked pouches or camera stickers. New monthly phone-free nights launched in September 2026 in Atlanta and Miami, and music press asked whether phone-free events are 'suddenly surging'.",
+        "window": {
+          "endEstimate": null,
+          "estimate": "Through the 2026 holiday party season and into 2027",
+          "invalidators": [
+            "Coverage stays limited to concerts and clubs",
+            "No home-hosting content appears"
+          ],
+          "reasoning": "Holiday gatherings are a natural use; the analog theme has persisted all year.",
+          "seasonality": "Friendsgiving, holiday parties, New Year",
+          "sellBy": null
+        }
+      }
+    ],
+    "kind": "discover",
+    "lens": "First-spark hunt: new hobbies, challenges and rituals",
+    "researchedAt": "2026-10-05T00:00:55Z",
+    "sourcesTried": [
+      {
+        "method": "web search",
+        "note": "About 40 queries across TikTok/Reels trend roundups, Know Your Meme, YPulse, Pinterest, Etsy trend blogs, news.",
+        "source": "WebSearch (standard and extended)",
+        "status": "ok"
+      },
+      {
+        "method": "WebFetch",
+        "note": "Egress blocked; used search snippets.",
+        "source": "newengen.com October TikTok trends",
+        "status": "blocked"
+      },
+      {
+        "method": "WebFetch",
+        "note": "Egress blocked.",
+        "source": "washingtonpost.com (hobbymaxxing, 2026-09-13)",
+        "status": "blocked"
+      },
+      {
+        "method": "WebFetch",
+        "note": "Egress blocked; search snippets only.",
+        "source": "socialbee.com TikTok trends (Sept 29)",
+        "status": "blocked"
+      },
+      {
+        "method": "WebFetch",
+        "note": "Egress blocked; search snippets only.",
+        "source": "later.com TikTok and Reels trend blogs",
+        "status": "blocked"
+      },
+      {
+        "method": "WebFetch",
+        "note": "Egress blocked.",
+        "source": "explodingtopics.com",
+        "status": "blocked"
+      },
+      {
+        "method": "WebFetch",
+        "note": "Egress blocked.",
+        "source": "napoleoncat.com",
+        "status": "blocked"
+      },
+      {
+        "method": "WebFetch",
+        "note": "Egress blocked.",
+        "source": "ramd.am TikTok/Instagram trends",
+        "status": "blocked"
+      },
+      {
+        "method": "WebFetch",
+        "note": "Egress blocked; could not confirm the year of the 9/19 post.",
+        "source": "community.pinterest.biz Pinterest Predicts Weekly",
+        "status": "blocked"
+      },
+      {
+        "method": "WebFetch",
+        "note": "Egress blocked; search snippets only.",
+        "source": "fortune.com",
+        "status": "blocked"
+      },
+      {
+        "method": "direct",
+        "note": "Known to be blocked in this environment; TikTok discover pages seen only as search results.",
+        "source": "TikTok, Reddit, Etsy, Google Trends",
+        "status": "not_tried"
+      }
+    ]
+  },
+  "report": [
+    {
+      "errors": [],
+      "id": "phone-free-nights-hosted-phone-free-socials",
+      "name": "Phone-free nights (hosted phone-free socials)",
+      "status": "created",
+      "warnings": 0
+    }
+  ],
+  "runId": "run-hunt-hobbies-20261004-4",
+  "status": "ingested"
+}

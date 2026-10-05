@@ -1,0 +1,19 @@
+{
+  "accessMethod": "web_search_result",
+  "candidateId": "analog-bag-screen-free-gifting",
+  "claim": "National press covered the analog bag as a screen-free wellness trend by October 2025.",
+  "excerpt": "Appeared in results for the analog-lifestyle query. That query's summary named micro-influencers including Siece Campbell as developing the analog bag; tying that sentence to this page specifically is not confirmed.",
+  "firstRetrievedAt": "2026-10-04T20:59:17Z",
+  "firstSeenRunId": "run-2026-10-04-movements",
+  "id": "analog-bag-screen-free-gifting~66209b08",
+  "intent": "curiosity",
+  "kind": "observed",
+  "lastSeenRunId": "run-2026-10-04-movements",
+  "publishedAt": "2025-10-23",
+  "publisher": "Axios",
+  "retrievedAt": "2026-10-04T20:59:17Z",
+  "signalType": "press",
+  "syndicationOf": null,
+  "title": "analog bag screen free wellness (Axios)",
+  "url": "https://www.axios.com/2025/10/23/analog-bag-screen-free-wellness"
+}

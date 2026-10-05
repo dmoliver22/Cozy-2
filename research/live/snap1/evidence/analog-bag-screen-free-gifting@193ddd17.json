@@ -1,0 +1,19 @@
+{
+  "accessMethod": "web_search_result",
+  "candidateId": "analog-bag-screen-free-gifting",
+  "claim": "Business press covered the analog bag as a Gen Z behavior.",
+  "excerpt": "Title seen in results; publication date not shown (likely 2026 judging by the article ID, which is an inference).",
+  "firstRetrievedAt": "2026-10-04T20:59:17Z",
+  "firstSeenRunId": "run-2026-10-04-movements",
+  "id": "analog-bag-screen-free-gifting~193ddd17",
+  "intent": "curiosity",
+  "kind": "observed",
+  "lastSeenRunId": "run-2026-10-04-movements",
+  "publishedAt": null,
+  "publisher": "Fast Company",
+  "retrievedAt": "2026-10-04T20:59:17Z",
+  "signalType": "press",
+  "syndicationOf": null,
+  "title": "Why Gen Z is suddenly carrying 'analog bags' everywhere—and what they put inside them - Fast Company",
+  "url": "https://www.fastcompany.com/91586986/why-gen-z-is-suddenly-carrying-analog-bags-everywhere-and-what-they-put-inside-them"
+}

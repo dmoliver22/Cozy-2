@@ -1,0 +1,19 @@
+{
+  "accessMethod": "web_search_result",
+  "candidateId": "gen-z-bible-reading-revival",
+  "claim": "A UK Christian retailer's guidance indicates Gen Z prefers aesthetic editions, the NLT, and journaling Bibles with wide margins.",
+  "excerpt": "The search summary made these points across a result set that included this page; exact attribution to this page is not confirmed. It also mentioned UK 18-24 Bible sales up 134% since 2019.",
+  "firstRetrievedAt": "2026-10-04T20:59:17Z",
+  "firstSeenRunId": "run-2026-10-04-movements",
+  "id": "gen-z-bible-reading-revival~28c6700e",
+  "intent": "purchase",
+  "kind": "observed",
+  "lastSeenRunId": "run-2026-10-04-movements",
+  "publishedAt": null,
+  "publisher": "Eden.co.uk",
+  "retrievedAt": "2026-10-04T20:59:17Z",
+  "signalType": "marketplace",
+  "syndicationOf": null,
+  "title": "Youth Bibles (Eden blog)",
+  "url": "https://www.eden.co.uk/blog/youth-bibles/"
+}

@@ -1,0 +1,19 @@
+{
+  "accessMethod": "web_search_result",
+  "candidateId": "the-great-lock-in",
+  "claim": "The Great Lock-In returned for a second year in September 2026.",
+  "excerpt": "Title and date seen. Summary: it runs Sept 1 to Dec 31, 2026; people use the last four months to lock in on goals.",
+  "firstRetrievedAt": "2026-10-04T20:59:17Z",
+  "firstSeenRunId": "run-2026-10-04-movements",
+  "id": "the-great-lock-in~5dc9c30d",
+  "intent": "curiosity",
+  "kind": "observed",
+  "lastSeenRunId": "run-2026-10-04-movements",
+  "publishedAt": "2026-09-01",
+  "publisher": "TheGrio",
+  "retrievedAt": "2026-10-04T20:59:17Z",
+  "signalType": "press",
+  "syndicationOf": null,
+  "title": "The \"Great Lock-In\" is back, but is it for you? - TheGrio",
+  "url": "https://thegrio.com/2026/09/01/the-great-lock-in-is-back-but-is-it-for-you/"
+}

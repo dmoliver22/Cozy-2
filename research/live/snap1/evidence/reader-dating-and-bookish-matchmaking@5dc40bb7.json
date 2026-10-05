@@ -1,0 +1,19 @@
+{
+  "accessMethod": "web_search_result",
+  "candidateId": "reader-dating-and-bookish-matchmaking",
+  "claim": "Earlier context: reading as a dating signal, and backlash to it.",
+  "excerpt": "some young singles are bookfishing to appear more dateable",
+  "firstRetrievedAt": "2026-10-05T00:00:55Z",
+  "firstSeenRunId": "run-hunt-hobbies-20261004-2",
+  "id": "reader-dating-and-bookish-matchmaking~5dc40bb7",
+  "intent": "criticism",
+  "kind": "observed",
+  "lastSeenRunId": "run-hunt-hobbies-20261004-2",
+  "publishedAt": "2025-11-18",
+  "publisher": "YPulse",
+  "retrievedAt": "2026-10-05T00:00:55Z",
+  "signalType": "press",
+  "syndicationOf": null,
+  "title": "Some young singles are 'bookfishing' to appear more dateable",
+  "url": "https://www.ypulse.com/newsfeed/2025/11/18/some-young-singles-are-bookfishing-to-appear-more-dateable/"
+}

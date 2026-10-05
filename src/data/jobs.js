@@ -112,7 +112,8 @@ export async function ingestInboxItem(store, item, ix, settings, holder) {
   const fresh = store.get().inbox.find((x) => x.id === item.id);
   if (!fresh || fresh.status !== 'new') return null;
   const existing = {
-    candidates: new Map(ix.candidates.map((c) => [c.id, c])),
+    // Every stored record, including merged duplicates, so a refresh never drops an editor's merge.
+    candidates: new Map((ix.allCandidates || ix.candidates).map((c) => [c.id, c])),
     evidence: [...ix.evidenceBy.values()].flat(),
   };
   let result;

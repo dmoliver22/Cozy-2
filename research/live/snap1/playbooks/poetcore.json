@@ -1,0 +1,367 @@
+{
+  "candidateId": "poetcore",
+  "id": "poetcore",
+  "products": [
+    {
+      "assembly": [
+        "Verify each poem word for word against a scan of the named edition (Internet Archive, HathiTrust or Project Gutenberg); resolve every [VERIFY]; record the edition, year and scan URL for each poem in a Google Sheet as your rights log.",
+        "Canva: create a custom 18 x 24 in master; place the upscaled paper texture, set the type per the AI spec, add the ornament and colophon; duplicate for all six poems so the set matches.",
+        "Make the other ratios (24 x 36 in, 16 x 20 in, 11 x 14 in, A2 420 x 594 mm) with Resize (Canva Pro) or by duplicating into new custom sizes; recheck margins and confirm no poem line wraps.",
+        "Export each ratio as one 6-page PDF Print file (one poem per page, 300 DPI). If you also offer JPGs, check their pixel dimensions and state the honest maximum print size in the listing.",
+        "Package five files for Etsy (one per ratio), each under the 20 MB limit (verify). If any is too large, deliver a 1-page PDF with a cloud-folder link instead.",
+        "Mockups: place the finished art into the frame mockups in Canva; make a 2 x 3 set image, one close-up per poem and a size-guide image (at least 2000 px wide).",
+        "Pinterest: make one 1000 x 1500 px pin per poem plus one set pin, each linking to the Etsy listing.",
+        "Redbubble (secondary): upload each poem as its own work at the highest resolution you have; enable posters, art prints and greeting cards; set your markup."
+      ],
+      "asymmetry": {
+        "badBetIf": "Literary prints turn out saturated with no premium for the Poetcore framing (competition was not measured), Pinterest traffic is too slow to show signal in 4 weeks, or transcription errors slip through and earn bad reviews.",
+        "downside": "About 8 hours and $0 cash. The answer comes in about 4 weeks.",
+        "upside": "Zero marginal cost and rights-free text; thousands of public-domain poems make an endless series; sells on Etsy and Redbubble with Pinterest traffic; evergreen with seasonal peaks (Valentine's, April)."
+      },
+      "costs": {
+        "baseCost": null,
+        "basis": "estimate: verify in the provider catalog. Digital product with no production cost. Etsy fees (estimate): $0.20 listing, 6.5% transaction, about 3% + $0.25 payment processing. Redbubble sets the base p",
+        "item": null,
+        "pages": null,
+        "provider": null,
+        "shipping": null,
+        "testBudget": 0,
+        "testBudgetNote": "No ads; the input's test is 20 Pinterest pins over 4 weeks. Consider Etsy Ads only after saves show interest."
+      },
+      "extensions": [
+        "'Ink Night' dark colorway of the same six",
+        "Single-poem listings at a lower price",
+        "Seasonal sets: autumn (Keats, 'To Autumn'), winter, Valentine's love poems, April for National Poetry Month",
+        "Greeting-card versions of each broadside",
+        "Bundle with the Commonplace Book journal",
+        "'Pick your poem' from a pre-verified public-domain list"
+      ],
+      "imagePrompts": [
+        {
+          "prompt": "antique laid paper texture, warm cream #F3EBDD with faint chain lines, gentle foxing spots near the edges, soft uneven deckled edges, flat even scan lighting, clean center area, no folds --ar 3:4 --style raw --no text, letters, logos, watermark, people, trademarked characters (upscale to at least 5400 px on the long side; crop for the other ratios)",
+          "purpose": "Aged paper background texture for all six broadsides",
+          "tool": "Midjourney"
+        },
+        {
+          "prompt": "Set of 6 original ink ornaments on a transparent background, 1:1, 2048 x 2048 px, even grid: a small symmetrical ink blot, a splatter with three droplets, a quill-stroke flourish, a simple fleuron, a horizontal ornamental rule, a tiny ink drip. Iron Gall Ink #1F1B16 with slightly translucent edges, hand-printed feel. No text, no letters, no logos, no real people, no trademarked characters, no watermarks.",
+          "purpose": "Original ink-blot and ornament set",
+          "tool": "ChatGPT images"
+        },
+        {
+          "prompt": "Photorealistic interior, 4:5 portrait: a warm off-white plaster wall above an old wooden desk with stacked cloth-bound books with blank spines, a brass candle holder, a folded tweed scarf on a chair and a leather satchel. On the wall, a thin dark wood frame (3:4) with a cream mat and blank paper inside for overlay. Soft afternoon window light, Oxblood #6B1E1E and Sepia #8A6F4D tones. No people, no readable text, no book titles, no logos, no trademarked characters, no watermarks.",
+          "purpose": "Room mockup for a single framed broadside",
+          "tool": "ChatGPT images"
+        },
+        {
+          "prompt": "Photorealistic reading nook, 4:3 landscape: six matching thin black frames (3:4) hung in a 2 x 3 grid above a worn leather armchair with a wool throw and a stack of old books with blank spines; each frame holds blank Aged Paper #F3EBDD paper for overlay; wall in warm off-white, chair in Oxblood #6B1E1E. Soft lamp light. No people, no readable text, no logos, no trademarked characters, no watermarks.",
+          "purpose": "Gallery-wall mockup for the set of six",
+          "tool": "ChatGPT images"
+        }
+      ],
+      "index": 0,
+      "listingPrompt": "You are an Etsy SEO copywriter. Write the Etsy listing for a printable set of six letterpress-style poetry broadsides.\nProduct facts: poems by Emily Dickinson (\"Hope is the thing with feathers\", 1891 text), John Keats (\"Bright Star\"), Christina Rossetti (\"Remember\"), Walt Whitman (\"A Noiseless Patient Spider\"), Elizabeth Barrett Browning (Sonnet 43) and W. B. Yeats (\"He Wishes for the Cloths of Heaven\"); every poem first published before 1930 and in the US public domain, transcribed from early printed editions with a source line on each print. Files: five PDFs, one per ratio (2:3 up to 24x36 in, 3:4 up to 18x24 in, 4:5 up to 16x20 in, 11x14 in, ISO A-series up to A2), 300 DPI. Instant download; no physical item.\nProduce:\n1. A title under 140 characters starting with \"Poetry Print Set of 6\" or \"Literary Wall Art Printable\", then poetcore, dark academia decor, book lover gift. Show the count.\n2. Exactly 13 tags of 20 characters or fewer, with counts (ideas: poetcore, poetry print, literary wall art, dark academia, poem print set, book lover gift, reading nook decor, emily dickinson, keats poem, vintage poem print).\n3. A description: hook; the six poems with poets and years; sizes and formats; how delivery works (download from Etsy Purchases; print at home or at a print shop; frame not included); printing tips (matte or textured paper, print at 100%); a 5-question FAQ: Are the poems public domain? (Yes, all first published before 1930; each print shows its source edition.) Can I buy one poem? [YES/NO]. Will colors match my screen? (Close; paper and printer vary.) Personal or commercial use? (Personal use only.) Refunds? [YOUR DIGITAL-FILE POLICY].\n4. Alt text for 6 images.\nRules: no modern poets, song lyrics, film, TV or celebrity references; no brand names (frame, paper or print-shop brands); no claims about mood or wellbeing; poet names only as accurate attribution.",
+      "marketing": {
+        "channels": [
+          {
+            "cadence": "5 pins per week (20 in 4 weeks)",
+            "channel": "Pinterest",
+            "tactic": "One pin per poem plus set and mockup pins, tagged with poetcore and literary-decor phrases"
+          },
+          {
+            "cadence": "1 per week",
+            "channel": "TikTok / Instagram Reels",
+            "tactic": "Slideshows of the prints in a styled nook; caption with the poem's first line"
+          },
+          {
+            "cadence": "Weekly",
+            "channel": "Etsy",
+            "tactic": "Swap the thumbnail to the best-saved poem"
+          },
+          {
+            "cadence": "Set up once",
+            "channel": "Redbubble",
+            "tactic": "Passive; tag each work accurately"
+          }
+        ],
+        "hooks": [
+          "Poetcore is a look. These are the poems that go with it.",
+          "Six poems old enough to be free, typeset like 1890.",
+          "Your reading nook needs a broadside, not a quote poster.",
+          "Dickinson as first printed in 1891, checked line by line."
+        ],
+        "keywords": [
+          "poetcore",
+          "poetry wall art",
+          "literary print set",
+          "dark academia decor",
+          "poem print",
+          "book lover gift",
+          "reading nook decor",
+          "vintage poem print",
+          "public domain poetry",
+          "romantic poem print"
+        ],
+        "launchPlan": [
+          {
+            "action": "Suggested Mon Oct 12, 2026. Run the super prompt and verify all six poems against scans; start the rights log.",
+            "day": "Day 0"
+          },
+          {
+            "action": "Build all ratios, export, make mockups; list the set on Etsy at $9 and upload to Redbubble.",
+            "day": "Day 2"
+          },
+          {
+            "action": "Create a Pinterest board ('Poetcore Reading Nook') and publish pins 1-5 (set pin plus four poems).",
+            "day": "Day 3"
+          },
+          {
+            "action": "Pins 6-10; first TikTok/Reel slideshow: '6 public-domain poems for your poetcore reading nook'.",
+            "day": "Day 7"
+          },
+          {
+            "action": "Pins 11-15; compare saves per pin and note which poem leads.",
+            "day": "Day 14"
+          },
+          {
+            "action": "Pins 16-20 focused on the leading poem; second Reel.",
+            "day": "Day 21"
+          },
+          {
+            "action": "Wed Nov 11, 4 weeks after listing: continue if saves and favorites are steady and a few sales have come; pivot if saves but no sales (make one poem a free pin download and push the commonplace book instead); stop if no traction after 4 weeks and 20 pins.",
+            "day": "Day 30"
+          }
+        ],
+        "positioning": "Poetcore is a look; these are the poems that go with it: six public-domain classics, source-checked and typeset like a 19th-century broadside."
+      },
+      "platforms": [
+        {
+          "name": "Etsy",
+          "role": "primary",
+          "why": "Printable wall art and book-lover gifts are bought here; zero marginal cost."
+        },
+        {
+          "name": "Pinterest",
+          "role": "traffic",
+          "why": "Poetcore and literary-decor are visual, saveable searches; the input's test is built on pins."
+        },
+        {
+          "name": "Redbubble",
+          "role": "secondary",
+          "why": "Physical posters and art prints for buyers who don't want to print, with no inventory."
+        },
+        {
+          "name": "TikTok and Instagram Reels",
+          "role": "traffic",
+          "why": "Slideshow 'poems for your poetcore nook' posts suit the fashion-driven audience."
+        }
+      ],
+      "pricing": {
+        "basis": "estimate; competition was not measured in the research",
+        "currency": "USD",
+        "high": 14,
+        "low": 6,
+        "rationale": "Digital literary print sets commonly sit in the single digits to low teens (background knowledge, unverified); $9 for six curated, source-checked prints undercuts physical prints while signaling more craft than single quote posters.",
+        "recommended": 9
+      },
+      "productName": "Six Poems Broadside Set: Letterpress-Style Public-Domain Poetry Prints",
+      "risks": [
+        "Transcription errors from the AI; every poem must be checked against a scan",
+        "Edition rights: later scholarly editions (notably of Dickinson) can still be under copyright; use only the named early printings",
+        "Competition in literary wall art was not measured and is likely heavy",
+        "Poetcore fashion coverage may drop after autumn 2026",
+        "Canva image exports may not reach 300 DPI at the largest sizes; state the true maximum size",
+        "AI textures can carry artifacts or fake letters; inspect at 100% zoom"
+      ],
+      "source": "written",
+      "superPrompt": "You are a typographer and literary editor who designs letterpress-style broadsides. Produce a curated set of six public-domain poem broadsides for a Poetcore audience.\n\nBUYER AND JOB\nBook lovers and Poetcore / dark-academia fans decorating reading nooks, desks and dorms, plus gift buyers. Poems and books are core props of the look; they want wall art that feels like a sheet from an old printing house, not a generic quote poster.\n\nTHE SIX POEMS (each first published in English before 1930 and in the US public domain)\n1. Emily Dickinson, \"Hope is the thing with feathers\": the text as printed in Poems, Second Series (1891), titled \"Hope\". Do not use later scholarly editions; their edited texts may still be under copyright.\n2. John Keats, \"Bright Star\" (\"Bright star, would I were stedfast as thou art\"), a 19th-century printed text (first published 1838).\n3. Christina Rossetti, \"Remember\", from Goblin Market and Other Poems (1862).\n4. Walt Whitman, \"A Noiseless Patient Spider\", Leaves of Grass text (1881-82 edition).\n5. Elizabeth Barrett Browning, Sonnet 43 (\"How do I love thee? Let me count the ways\"), Sonnets from the Portuguese (1850).\n6. W. B. Yeats, \"He Wishes for the Cloths of Heaven\", The Wind Among the Reeds (1899).\n\nACCURACY\nReproduce every word, line break, stanza break, capital and punctuation mark from the named edition. Give the line count. If you are not certain of any word or mark, put [VERIFY] at the end of that line instead of guessing; the seller will check against a scan. Do not modernize spelling (\"stedfast\" stays). Never add, merge, trim or \"improve\" lines.\n\nDELIVERABLE SPEC\nMaster layout per poem at 18 x 24 in (3:4), then specs for 24 x 36 in (2:3), 16 x 20 in (4:5), 11 x 14 in and ISO A2 (420 x 594 mm), all at 300 DPI. Layout: aged-paper background; ornamental rule at top; title in letter-spaced small caps; poem set flush left in a centered text block no wider than 60% of the sheet; poet name and life dates below; one original ink-blot ornament; a small colophon at the foot, e.g. \"Text from Poems, Second Series, 1891. Public domain.\" Margins at least 9% of the short side. Give point sizes per ratio so the longest poem fits without crowding and no line wraps.\nFonts: Cormorant Garamond (poem), Cormorant SC or Playfair Display SC (titles), IM Fell English if available. Palette \"Iron Gall\": Aged Paper #F3EBDD, Iron Gall Ink #1F1B16, Oxblood #6B1E1E, Faded Ink Blue #2F3E57, Sepia #8A6F4D. Text in Iron Gall Ink; one accent color per sheet. Optional subtle letterpress impression (inner shadow under 10% opacity).\n\nCONTENT REQUIREMENTS\nAlso write: a set title; a 40-word original note per poem for the listing (facts only if certain: publication year and collection; no invented biography or interpretation presented as fact); a pin headline per poem under 60 characters. Tone: quiet, literary, plain English.\n\nDIFFERENTIATION\nCurated, accurately transcribed texts with real typographic craft and a printed source line, versus generic quote posters with misattributed or altered lines.\n\nCONSTRAINTS\nPublic-domain texts only; original layout and ornaments; no poet portraits or likenesses; no modern poets, translations, song lyrics, film, TV or celebrity references.\n\nOUTPUT FORMAT\nFor each poem: (a) title, poet, life dates, source edition and year; (b) the full text in a code block exactly as it should be typeset; (c) line count; (d) layout notes per ratio with point sizes; (e) colophon line; (f) listing note and pin headline. Then describe a 2 x 3 grid \"set preview\" image.\nSelf-check, fixing failures before answering: [ ] six poems, each first published before 1930; [ ] Dickinson text from the 1891 printing; [ ] line counts match the texts; [ ] uncertain words marked [VERIFY]; [ ] no portraits, translations or modern references; [ ] five ratios specified.",
+      "themeKey": "Letterpress-style broadsides of public-domain poems (set of"
+    },
+    {
+      "assembly": [
+        "Verify all twelve poems word for word against scans of the named editions (Internet Archive, HathiTrust or Project Gutenberg); resolve every [VERIFY]; record edition, year and scan URL in a rights-log sheet, which also feeds page 139.",
+        "Canva: create a 6 x 9 in design with guides at 0.75 in (gutter) and 0.5 in. Build masters for the left and right copying pages, the monthly spread, the annotation spread, word hoard, drafting page and the index grid; duplicate per the repeat map to exactly 140 pages.",
+        "Export the interior as PDF Print, no bleed or crop marks, Flatten PDF on; confirm 140 pages.",
+        "Cover: download KDP's paperback cover template for 6 x 9 in, 140 pages, cream paper (spine roughly 0.35 in; estimate, use the template's numbers). Build the wrap in Canva at that size: cover art, title and subtitle in IM Fell English or Cormorant, spine text, back blurb, barcode area clear. Export PDF Print.",
+        "KDP: Paperback, 6 x 9 in, black & white interior on cream paper, no bleed, matte cover; upload both PDFs, review every page in the Previewer, price $10.99, choose up to 3 categories (journals / poetry-related writing), order one proof.",
+        "Printable: resize copies to US Letter and A4 (or rebuild key masters at those sizes), export PDF Print, and list on Etsy and Gumroad at $6.",
+        "When the proof arrives, film a 20-second flip-through and photograph the index, a monthly poem spread and the marginalia pages for listings and pins."
+      ],
+      "asymmetry": {
+        "badBetIf": "KDP journals are crowded and Amazon rarely surfaces a new journal with no reviews or outside traffic, so if you cannot drive Pinterest or video traffic it may sit unseen. Low cash risk, but slow feedback; moderately asymmetric.",
+        "downside": "About 12 hours, a proof copy (a few dollars plus shipping, estimate) and an optional $28 ad test. The signal is slow: real data only arrives in January, with a final call by end of February.",
+        "upside": "No inventory; rights-free content; sells on Amazon, Etsy and Gumroad; evergreen with yearly New-Year, Valentine's and April peaks; easy editions and colorways from one master."
+      },
+      "costs": {
+        "baseCost": 2.68,
+        "basis": "estimate: verify in the provider catalog. KDP print cost estimated at about $1.00 + $0.012 per page for 140 black-ink pages (about $2.68); at $10.99 and a 60% royalty rate that leaves roughly $3.90 pe",
+        "item": "6x9 in black-ink paperback, 140 pages, cream paper",
+        "pages": null,
+        "provider": "Amazon KDP",
+        "shipping": null,
+        "testBudget": 28,
+        "testBudgetNote": "Optional Amazon Sponsored Products at $2/day for 14 days around New Year (Dec 26 to Jan 8); stop after 7 days if there are no clicks."
+      },
+      "extensions": [
+        "Valentine's love-poems edition (the input's pivot)",
+        "Cover colorways (oxblood, forest, ink blue) as separate listings",
+        "Hardcover edition through KDP",
+        "April National Poetry Month edition with a poem a week",
+        "Bundle the printable with the broadside set",
+        "Student edition with study prompts for literature classes"
+      ],
+      "imagePrompts": [
+        {
+          "prompt": "flat front view of a 19th-century cloth-bound book cover, deep oxblood #6B1E1E bookcloth texture, thin flat antique-gold #B08D57 double-rule border, small centered fleuron, empty aged-paper #F3EBDD rectangular label area in the upper center, even studio lighting, no perspective --ar 2:3 --style raw --no text, letters, logos, watermark, people, trademarked characters",
+          "purpose": "Front cover art (cloth-bound book look; title set in Canva)",
+          "tool": "Midjourney"
+        },
+        {
+          "prompt": "Set of 4 original small fleurons and dividers on a transparent background, 1:1, 2048 x 2048 px: a leaf fleuron, a quill-and-ink flourish, a short ornamental rule, a tiny open-book ornament. Solid Iron Gall Ink #1F1B16 only, crisp edges suitable for black-ink printing. No text, no letters, no logos, no real people, no trademarked characters, no watermarks.",
+          "purpose": "Section fleurons for the interior (grayscale)",
+          "tool": "ChatGPT images"
+        },
+        {
+          "prompt": "Photorealistic, 4:5 portrait: an open 6x9 paperback journal with blank cream pages on a dark wooden desk, a fountain pen, a cup of tea, a stack of old books with blank spines, a sprig of dried lavender, soft window light, Oxblood #6B1E1E and Sepia #8A6F4D tones. Leave the pages blank for overlay. No people, no hands, no readable text, no logos, no trademarked characters, no watermarks.",
+          "purpose": "Lifestyle mockup for listing images and pins",
+          "tool": "ChatGPT images"
+        }
+      ],
+      "index": 1,
+      "listingPrompt": "You are an Amazon KDP listing copywriter. Write the KDP listing for a 6 x 9 in, 140-page paperback poetry journal, \"The Commonplace Book\".\nProduct facts: [PASTE THE PAGE TABLE FROM THE SUPER PROMPT OUTPUT]; includes a Locke-inspired topic index, 12 monthly public-domain poems to learn by heart (first published before 1930), 80 copying pages with a marginalia column, annotation spreads, word hoard, drafting pages and a reading log; cream paper; matte cover.\nProduce:\n1. Title plus subtitle, combined under 200 characters, front-loading \"Commonplace Book\" and \"Poetry Journal\" (e.g. \"The Commonplace Book: A Poetry Journal for Copying, Annotating and Keeping Lines\"). Also give a version under 140 characters.\n2. Seven backend keyword phrases (each under 50 characters), generic only: no poet names, no other authors, brands or \"bestseller\".\n3. A description under 1,500 characters using simple HTML (<b>, <br>, <ul><li>): what it is, what's inside, the twelve poems listed by poet and title, size and page count, who it suits; no claims about memory, wellbeing or creativity.\n4. Three suggested KDP categories.\n5. An Etsy version for the printable PDF (US Letter and A4, instant download from Etsy Purchases, print at home): title under 140 characters, exactly 13 tags of 20 characters or fewer with counts (ideas: commonplace book, poetry journal, reading journal, poetcore, dark academia, book lover gift, literary journal, quote journal), a description with a 4-question FAQ (Is it a physical book? Can I print it more than once for myself? Are the poems public domain? Refunds? [YOUR POLICY]).\nRules: never use trademarked notebook or brand names, film, TV or celebrity references, or modern poets; poet names appear only as accurate attribution in the description.",
+      "marketing": {
+        "channels": [
+          {
+            "cadence": "3 pins per week, 6 in the New-Year week",
+            "channel": "Pinterest",
+            "tactic": "Interior page pins and journaling-idea pins linking to Amazon and Etsy"
+          },
+          {
+            "cadence": "1-2 per week; 3 in the New-Year week",
+            "channel": "TikTok / Instagram Reels",
+            "tactic": "Flip-throughs, copying a stanza, the Locke index explained"
+          },
+          {
+            "cadence": "At most 1 post per week",
+            "channel": "Book and journaling communities",
+            "tactic": "Share how to keep a commonplace book; link only where allowed (check the community rules)"
+          },
+          {
+            "cadence": "14 days around New Year",
+            "channel": "Amazon",
+            "tactic": "Optional small Sponsored Products test"
+          }
+        ],
+        "hooks": [
+          "A notebook for the lines you can't stop thinking about.",
+          "The 300-year-old way to index a notebook, built in.",
+          "One poem a month to learn by heart.",
+          "Poetcore, but make it a habit."
+        ],
+        "keywords": [
+          "commonplace book",
+          "poetry journal",
+          "reading journal",
+          "book lover gift",
+          "poetcore",
+          "dark academia gift",
+          "literary journal",
+          "quote journal",
+          "new year journal",
+          "poetry notebook"
+        ],
+        "launchPlan": [
+          {
+            "action": "Mon Nov 30, 2026. Run the super prompt, verify the 12 poems, build and export the interior.",
+            "day": "Day 0"
+          },
+          {
+            "action": "Build the cover from KDP's template, upload the paperback, order a proof.",
+            "day": "Day 1"
+          },
+          {
+            "action": "List the printable PDF on Etsy and Gumroad at $6.",
+            "day": "Day 2"
+          },
+          {
+            "action": "Paperback live on Amazon (KDP review usually takes up to 72 hours); add the link to the Etsy listing and your bio.",
+            "day": "Day 4"
+          },
+          {
+            "action": "5 Pinterest pins (index spread, monthly poem page, marginalia page, mockup, 'what is a commonplace book'); first flip-through Reel/TikTok from digital pages.",
+            "day": "Day 7"
+          },
+          {
+            "action": "Proof arrives: real photos, a second video copying a stanza into the margin column.",
+            "day": "Day 14"
+          },
+          {
+            "action": "Sat Dec 26: New-Year push, 'start a commonplace book in 2027' pins and videos 3 times this week; optional Amazon ads at $2/day for 14 days.",
+            "day": "Day 26"
+          },
+          {
+            "action": "Fri Jan 1, 2027: New-Year post featuring January's poem.",
+            "day": "Day 32"
+          },
+          {
+            "action": "Sun Jan 31 check: continue if there were organic KDP sales in January. If January is flat, pivot: re-theme for Valentine's with a love-poems edition, live by about Feb 5.",
+            "day": "Day 62"
+          },
+          {
+            "action": "Sun Feb 28: stop if there are still no sales by the end of February.",
+            "day": "Day 90"
+          }
+        ],
+        "positioning": "A commonplace book built for poetry: a working index, a margin for annotations and one sourced public-domain poem to learn each month."
+      },
+      "platforms": [
+        {
+          "name": "Amazon KDP",
+          "role": "primary",
+          "why": "A journal is a paperback purchase; print on demand, no inventory, Amazon handles shipping."
+        },
+        {
+          "name": "Etsy",
+          "role": "secondary",
+          "why": "Printable PDF for journalers who print or use tablets; cross-sells the broadside set."
+        },
+        {
+          "name": "Gumroad",
+          "role": "secondary",
+          "why": "Direct link for social bios and an email list."
+        },
+        {
+          "name": "Pinterest",
+          "role": "traffic",
+          "why": "Commonplace-book and reading-journal ideas are saved on Pinterest; New-Year journaling pins."
+        },
+        {
+          "name": "TikTok and Instagram Reels",
+          "role": "traffic",
+          "why": "Flip-throughs and 'copying a Keats stanza' videos suit book and journaling audiences."
+        }
+      ],
+      "pricing": {
+        "basis": "estimate; competitor prices were not measured in the research",
+        "currency": "USD",
+        "high": 13.99,
+        "low": 9.99,
+        "rationale": "Positions above bare lined notebooks because of the structured content and sourced poems, below gift-shop literary journals; staying at $9.99 or above avoids KDP's possible lower royalty rate on cheaper paperbacks (verify). Printable PDF at $6 on Etsy and Gumroad.",
+        "recommended": 10.99
+      },
+      "productName": "The Commonplace Book: A Poetry Journal for Copying, Annotating & Keeping Lines",
+      "risks": [
+        "Poem transcription errors; verify every line against a scan",
+        "Later scholarly editions (e.g., of Dickinson) may be under copyright; use only the named early printings",
+        "KDP low-content saturation and slow organic discovery",
+        "KDP royalty rules and print costs change; recheck before pricing",
+        "Poetcore may fade before the New-Year window",
+        "Cover text rendered by AI can contain errors; set all type in Canva"
+      ],
+      "source": "written",
+      "superPrompt": "You are a book designer and literary editor. Produce the complete interior of \"The Commonplace Book\", a poetry journal for copying, annotating and keeping lines.\n\nBUYER AND JOB\nPoetcore adopters who journal, and New-Year journaling buyers. Notebooks are part of the look, and a commonplace book suits the trend's slow, literary habits. Job: a notebook for engaging with poetry (copy, annotate, collect words, draft, learn one poem a month), not a blank notebook.\n\nDELIVERABLES\nA) KDP paperback interior: 6 x 9 in, no bleed, exactly 140 pages, inside margin 0.75 in, other margins 0.5 in, black ink, suits cream paper.\nB) Printable PDF: US Letter and A4, same pages with 0.5 in margins.\n\nPAGE LIST (KDP numbering)\n1 Half-title. 2 Ownership: \"This commonplace book belongs to\", \"begun on\", \"if found, please return to\".\n3 \"What is a commonplace book?\": original 200-word essay (readers have long copied passages into notebooks arranged by topic; the name comes from the Latin loci communes). Keep every factual claim general and certain.\n4 How to use this book: copy, annotate, collect words, draft, learn by heart (one short paragraph each).\n5-6 Index spread inspired by the topic index John Locke described (English edition 1706): letters A-Z down the side, each row split into five columns a, e, i, o, u. Instructions: file a topic under its first letter and first vowel (\"Love\" goes under L, column o) and write the page number.\n7-8 \"My headings\": 40 numbered lines.\n9-32 Twelve months x 2 pages. Left: \"Poem to learn by heart\": month, poem, poet, life dates, source and year, 31 small \"days I read it aloud\" boxes. Right: \"Annotations\": lined prompts (an image, a sound, where it turns, a word to look up, a line to borrow).\n33-112 Copying pages: header \"Heading ____ Source ____ p. ____\", 7 mm ruled lines, a 1.6 in outer \"marginalia\" column; mirrored left and right.\n113-124 Six annotation spreads: double-spaced copying lines left, close-reading prompts right.\n125-128 Word hoard: word | meaning | where I found it | my sentence, 16 rows per page.\n129-136 Drafting pages, line numbers every 5 lines.\n137-138 Reading log: date | title | poet or author | favorite line.\n139 Sources: each monthly poem with first publication and the edition used.\n140 Notes.\n\nMONTHLY POEMS (all first published before 1930; use these texts)\nJan: Alfred, Lord Tennyson, \"Ring Out, Wild Bells\", first three stanzas (In Memoriam A. H. H., 1850).\nFeb: Elizabeth Barrett Browning, Sonnet 43 (Sonnets from the Portuguese, 1850).\nMar: Christina Rossetti, \"Who Has Seen the Wind?\" (Sing-Song, 1872).\nApr: William Wordsworth, \"I Wandered Lonely as a Cloud\" (1815 text).\nMay: Walt Whitman, \"When I Heard the Learn'd Astronomer\" (1865).\nJun: William Shakespeare, Sonnet 18 (1609, standard modern spelling).\nJul: Emily Dickinson, \"I'm Nobody! Who are you?\" (as printed in Poems, Second Series, 1891; not later scholarly editions).\nAug: Robert Frost, \"Nothing Gold Can Stay\" (New Hampshire, 1923).\nSep: John Keats, \"To Autumn\", first stanza (1820).\nOct: Paul Laurence Dunbar, \"We Wear the Mask\" (Majors and Minors, 1895).\nNov: Sara Teasdale, \"There Will Come Soft Rains\" (Flame and Shadow, 1920).\nDec: W. B. Yeats, \"When You Are Old\" (first published 1892).\nReproduce each text exactly, every word, line break and mark. If unsure of a word, add [VERIFY] at the end of that line instead of guessing. Give line counts. No references to films, novels, songs or celebrities.\n\nDESIGN\nFonts: Cormorant Garamond (body 10.5 pt), IM Fell English or Cormorant SC (headings, small-caps running heads). Interior grayscale: text Iron Gall Ink #1F1B16, rules 40% gray. Cover and printable palette \"Iron Gall\": Aged Paper #F3EBDD, Iron Gall Ink #1F1B16, Oxblood #6B1E1E, Faded Ink Blue #2F3E57, Sepia #8A6F4D. A small original fleuron opens each section.\n\nCONTENT RULES\nOriginal wording, quietly literary, grade 8-9 reading level. Public-domain poems only; no modern poets or translations. No promises about memory, wellbeing or creativity.\n\nDIFFERENTIATION\nBlank notebooks have no structure; this has a working index, an annotation margin, a word hoard and twelve accurately sourced poems.\n\nOUTPUT FORMAT\n1) Page table: page | title | elements | layout notes. 2) Final text of pages 1-8, all twelve poem pages (poem, credit line, line count) and page 139. 3) A 150-word back-cover blurb with no claims. 4) Repeat map of master pages.\nSelf-check, fixing failures first: [ ] exactly 140 pages; [ ] 12 poems, each first published before 1930, with source and year; [ ] Dickinson from the 1891 printing; [ ] [VERIFY] used wherever unsure; [ ] index instructions match the grid; [ ] no claims or modern references.",
+      "themeKey": "'Commonplace Book' journal: pages for copying lines, annotat"
+    }
+  ],
+  "source": "written",
+  "writtenAt": "2026-10-04T23:12:02Z"
+}

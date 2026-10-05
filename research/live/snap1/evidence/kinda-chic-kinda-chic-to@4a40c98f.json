@@ -1,0 +1,19 @@
+{
+  "accessMethod": "web_search_result",
+  "candidateId": "kinda-chic-kinda-chic-to",
+  "claim": "Spanish-language media covered the trend in mid-September, showing international spread.",
+  "excerpt": "Headline frames Kinda Chic as a trend Gen Z loves.",
+  "firstRetrievedAt": "2026-10-04T20:57:55Z",
+  "firstSeenRunId": "run-2026-10-04-memes",
+  "id": "kinda-chic-kinda-chic-to~4a40c98f",
+  "intent": "curiosity",
+  "kind": "observed",
+  "lastSeenRunId": "run-2026-10-04-memes",
+  "publishedAt": "2026-09-17",
+  "publisher": "Emisoras Unidas",
+  "retrievedAt": "2026-10-04T20:57:55Z",
+  "signalType": "press",
+  "syndicationOf": null,
+  "title": "Kinda Chic: La Tendencia que Enamora a la Generación Z",
+  "url": "https://emisorasunidas.com/tendencias/2026/09/17/kinda-chic-tendencia-que-enamora-generacion-z/"
+}

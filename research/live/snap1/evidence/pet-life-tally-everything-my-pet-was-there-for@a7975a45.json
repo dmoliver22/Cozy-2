@@ -1,0 +1,19 @@
+{
+  "accessMethod": "web_search_result",
+  "candidateId": "pet-life-tally-everything-my-pet-was-there-for",
+  "claim": "Syndicated version of the Bored Panda piece; includes the tally-style comment example",
+  "excerpt": "9 years, 3 houses, 2 break ups, 3 jobs, and every single tear",
+  "firstRetrievedAt": "2026-10-05T00:01:02Z",
+  "firstSeenRunId": "run-hunt-foodhome-20261004-4",
+  "id": "pet-life-tally-everything-my-pet-was-there-for~a7975a45",
+  "intent": "curiosity",
+  "kind": "observed",
+  "lastSeenRunId": "run-hunt-foodhome-20261004-4",
+  "publishedAt": null,
+  "publisher": "AOL",
+  "retrievedAt": "2026-10-05T00:01:02Z",
+  "signalType": "press",
+  "syndicationOf": "pet-life-tally-everything-my-pet-was-there-for~78ab863d",
+  "title": "A Viral TikTok Thread Has People Opening Up About Everything Their Pets Have Been There For (100 Pics)",
+  "url": "https://www.aol.com/articles/viral-tiktok-trend-people-sharing-122621000.html"
+}

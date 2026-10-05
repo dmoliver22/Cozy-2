@@ -1,0 +1,19 @@
+{
+  "accessMethod": "web_search_result",
+  "candidateId": "hyrox-style-fitness-racing",
+  "claim": "Gym affiliation growth (UK) shows training infrastructure growing around the race format.",
+  "excerpt": "Title only; also syndicated on leisureopportunities.co.uk.",
+  "firstRetrievedAt": "2026-10-04T20:53:53Z",
+  "firstSeenRunId": "run-2026-10-04-hobbies",
+  "id": "hyrox-style-fitness-racing~83fb2e35",
+  "intent": "utility",
+  "kind": "observed",
+  "lastSeenRunId": "run-2026-10-04-hobbies",
+  "publishedAt": null,
+  "publisher": "Health Club Management",
+  "retrievedAt": "2026-10-04T20:53:53Z",
+  "signalType": "press",
+  "syndicationOf": null,
+  "title": "Fitness racing company Hyrox sees UK gym affiliation scheme jump from 18 to 120 in one year",
+  "url": "https://www.healthclubmanagement.co.uk/health-club-management-news/Fitness-racing-company-Hyrox-sees-UK-gym-affiliation-scheme-jump-from-18-to-120-in-one-year/350601"
+}

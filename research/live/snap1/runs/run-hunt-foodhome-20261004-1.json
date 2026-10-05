@@ -1,0 +1,276 @@
+{
+  "candidateIds": [
+    "flavor-illusion-food-combos"
+  ],
+  "discovered": [
+    {
+      "disposition": "deep_dived",
+      "name": "Flavor-illusion food combos (lemon + cinnamon 'tastes like cola')",
+      "rejectReason": "",
+      "whyConsidered": "KYM editorial says it went viral late September 2026; Today, Upworthy, Spoon University coverage"
+    },
+    {
+      "disposition": "deep_dived",
+      "name": "'Once a Day, Once a Week, Once a Month' routine format",
+      "rejectReason": "",
+      "whyConsidered": "Named in SocialBee 29 Sep 2026 roundup and INFLOW September roundup; explicitly covers cleaning routines"
+    },
+    {
+      "disposition": "deep_dived",
+      "name": "Sunday Butterfly tidying method",
+      "rejectReason": "",
+      "whyConsidered": "Named method from a Homes & Gardens editor, picked up by other blogs as a '2026 decluttering trend'"
+    },
+    {
+      "disposition": "deep_dived",
+      "name": "Pet life-tally thread ('9 years, 3 houses, 2 break ups')",
+      "rejectReason": "",
+      "whyConsidered": "Bored Panda listicle syndicated to AOL and inkl; strong gift-product shape before the holidays"
+    },
+    {
+      "disposition": "rejected",
+      "name": "Swangy / swavory flavor profiles",
+      "rejectReason": "Industry forecast term from early 2026 (Food Dive, Nestle, GlobalData); not new, weak printable demand",
+      "whyConsidered": "Seen in food trend roundups"
+    },
+    {
+      "disposition": "rejected",
+      "name": "Dot cakes / Dotcups",
+      "rejectReason": "Broke out in May 2026; tied to one named bakery (rights risk); past first-spark window",
+      "whyConsidered": "Viral sprinkle cake in a cup"
+    },
+    {
+      "disposition": "rejected",
+      "name": "Loaded pickle fruit roll-up",
+      "rejectReason": "Summer fair-season item tied to a brand-name product; little printable demand",
+      "whyConsidered": "Fair-food viral snack"
+    },
+    {
+      "disposition": "rejected",
+      "name": "Marry Me melting cabbage / cabbage crush",
+      "rejectReason": "Pinterest Predicts item from December 2025; not new",
+      "whyConsidered": "Called the 'year of cabbage'"
+    },
+    {
+      "disposition": "rejected",
+      "name": "Japanese strawberries",
+      "rejectReason": "Year-long ingredient trend, no printable or label angle",
+      "whyConsidered": "Tastewise lists as 2026 breakout food"
+    },
+    {
+      "disposition": "rejected",
+      "name": "Pasta chips",
+      "rejectReason": "Not new (2023 origin); no product angle",
+      "whyConsidered": "Tastewise lists as rising snack"
+    },
+    {
+      "disposition": "rejected",
+      "name": "Soup swap parties",
+      "rejectReason": "Established since 2006 (Soup Swap Day in January); not a first spark",
+      "whyConsidered": "Cozy hosting trend with party printable potential"
+    },
+    {
+      "disposition": "rejected",
+      "name": "Pantry challenge / no-grocery month",
+      "rejectReason": "Long-running evergreen budget content; heavy existing printable supply",
+      "whyConsidered": "High grocery prices, printable inventory sheets"
+    },
+    {
+      "disposition": "rejected",
+      "name": "Pantry decanting",
+      "rejectReason": "Established 2021+ trend; label market saturated",
+      "whyConsidered": "Label demand"
+    },
+    {
+      "disposition": "rejected",
+      "name": "September/fall reset checklist",
+      "rejectReason": "Annual seasonal ritual, already peaked in early September",
+      "whyConsidered": "Checklist printable demand"
+    },
+    {
+      "disposition": "rejected",
+      "name": "Roll-the-dice chore game",
+      "rejectReason": "Covered by Homes & Gardens and Apartment Therapy earlier; no sign of a new wave since mid-September",
+      "whyConsidered": "Gamified cleaning printable"
+    },
+    {
+      "disposition": "rejected",
+      "name": "Whimsymaxxing",
+      "rejectReason": "Fashion/beauty-led and circulating since 2025; outside this lens",
+      "whyConsidered": "SocialBee September roundup"
+    },
+    {
+      "disposition": "rejected",
+      "name": "Autumnaholic (Instagram)",
+      "rejectReason": "Audio/montage format with no specific method or product need beyond generic fall decor",
+      "whyConsidered": "SocialBee Instagram trends 29 Sep"
+    },
+    {
+      "disposition": "rejected",
+      "name": "Chaos gardening / untamed garden",
+      "rejectReason": "Spring-season and established since 2023",
+      "whyConsidered": "Garden trend coverage"
+    },
+    {
+      "disposition": "rejected",
+      "name": "Lasagna bulb layering",
+      "rejectReason": "Long-established technique; no evidence of a new breakout",
+      "whyConsidered": "Fall planting chart potential"
+    },
+    {
+      "disposition": "rejected",
+      "name": "Sniffari / decompression walks",
+      "rejectReason": "Established across 2025-2026; not a recent spark",
+      "whyConsidered": "Dog enrichment printable potential"
+    },
+    {
+      "disposition": "rejected",
+      "name": "AI pet dance videos",
+      "rejectReason": "App-filter entertainment; no printable demand",
+      "whyConsidered": "Pet trend in September"
+    },
+    {
+      "disposition": "rejected",
+      "name": "'I Remember Everything' pet slideshow",
+      "rejectReason": "Built on a commercial song (rights risk); folded into the pet life-tally deep dive without the song",
+      "whyConsidered": "Pet memory trend"
+    },
+    {
+      "disposition": "rejected",
+      "name": "Bring-a-board night",
+      "rejectReason": "Running since 2024 Galentine's; not new",
+      "whyConsidered": "Party printable potential"
+    },
+    {
+      "disposition": "rejected",
+      "name": "Home cafe hosting",
+      "rejectReason": "Covered 2025; no new evidence of a fall 2026 wave",
+      "whyConsidered": "Menu and label printables"
+    },
+    {
+      "disposition": "rejected",
+      "name": "Nonna-stalgic cooking / nonnamaxxing",
+      "rejectReason": "Nonnamaxxing dates to Feb 2026; recipe-story is a syndicated feature, and heirloom recipe books are a crowded Etsy category",
+      "whyConsidered": "Family recipe journal demand before holidays"
+    },
+    {
+      "disposition": "rejected",
+      "name": "Dinner party / supper club revival",
+      "rejectReason": "Covered since 2025 (YPulse); broad movement, not a specific new method",
+      "whyConsidered": "Hosting printables"
+    },
+    {
+      "disposition": "rejected",
+      "name": "Freezer batch-cooking prep days",
+      "rejectReason": "Evergreen; no named new method",
+      "whyConsidered": "Meal plan printables"
+    },
+    {
+      "disposition": "rejected",
+      "name": "Halloween dirt cake / ghost brownies",
+      "rejectReason": "Recurring annual Halloween recipes; recipe cards low value",
+      "whyConsidered": "Seasonal recipe trend"
+    },
+    {
+      "disposition": "rejected",
+      "name": "'Fake foods' TikTok videos",
+      "rejectReason": "August 2026, criticism/outrage content; outrage is not demand and claims are health-adjacent",
+      "whyConsidered": "Food curiosity trend"
+    },
+    {
+      "disposition": "rejected",
+      "name": "Lychee water",
+      "rejectReason": "Product (beverage) trend with health framing; no printable angle",
+      "whyConsidered": "Exploding Topics September list"
+    }
+  ],
+  "id": "run-hunt-foodhome-20261004-1",
+  "ingestedAt": "2026-10-05T00:01:10.739Z",
+  "jobId": "hunt-foodhome-20261004",
+  "kind": "discover",
+  "lens": "First-spark hunt: food, home, pets and household micro-trend",
+  "report": [
+    {
+      "errors": [],
+      "id": "flavor-illusion-food-combos",
+      "name": "Flavor-Illusion Food Combos",
+      "status": "created",
+      "warnings": 0
+    }
+  ],
+  "researchedAt": "2026-10-05T00:01:02Z",
+  "sourcesTried": [
+    {
+      "method": "search",
+      "note": "Primary method; all evidence is from search result titles and summaries.",
+      "source": "WebSearch (standard and extended)",
+      "status": "ok"
+    },
+    {
+      "method": "curl and WebFetch",
+      "note": "Egress proxy 403.",
+      "source": "news.google.com RSS",
+      "status": "blocked"
+    },
+    {
+      "method": "WebFetch",
+      "note": "Seen only through search results.",
+      "source": "today.com",
+      "status": "blocked"
+    },
+    {
+      "method": "WebFetch",
+      "note": "Seen only through search results.",
+      "source": "trending.knowyourmeme.com",
+      "status": "blocked"
+    },
+    {
+      "method": "WebFetch",
+      "note": "Seen only through search results.",
+      "source": "upworthy.com, spoonuniversity.com",
+      "status": "blocked"
+    },
+    {
+      "method": "WebFetch",
+      "note": "Seen only through search results.",
+      "source": "homesandgardens.com, thecalmroost.com",
+      "status": "blocked"
+    },
+    {
+      "method": "WebFetch",
+      "note": "Trend roundups seen only through search results.",
+      "source": "socialbee.com, inflownetwork.com, blog.nuelink.com",
+      "status": "blocked"
+    },
+    {
+      "method": "WebSearch allowed_domains",
+      "note": "Search tool refuses these domains.",
+      "source": "allrecipes, delish, foodandwine, bonappetit, eatingwell, seriouseats, nypost",
+      "status": "error"
+    },
+    {
+      "method": "WebSearch allowed_domains",
+      "note": "Search tool refuses these domains.",
+      "source": "realsimple, thespruce, bhg, marthastewart, goodhousekeeping, housebeautiful",
+      "status": "error"
+    },
+    {
+      "method": "search results only",
+      "note": "Listing titles from search results; no sales data, no counts.",
+      "source": "Etsy",
+      "status": "ok"
+    },
+    {
+      "method": "search results only",
+      "note": "Titles only; no view counts verified.",
+      "source": "TikTok discover/tag pages",
+      "status": "ok"
+    },
+    {
+      "method": "-",
+      "note": "Usually blocked in this environment; not attempted this run.",
+      "source": "Reddit, Pinterest Trends, Google Trends",
+      "status": "not_tried"
+    }
+  ]
+}

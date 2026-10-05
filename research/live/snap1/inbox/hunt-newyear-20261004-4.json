@@ -1,0 +1,604 @@
+{
+  "createdAt": "2026-10-05T00:02:47Z",
+  "jobId": "hunt-newyear-20261004",
+  "raw": {
+    "candidates": [
+      {
+        "actionRationale": "It is the most product-ready format in this lens. Build the kit now and list by mid-November, then concentrate promotion on Dec 26–Jan 15. Wait on ads until December favorites confirm the format is returning.",
+        "adopters": {
+          "evidence": [
+            "e7",
+            "e8",
+            "e11",
+            "e13"
+          ],
+          "text": "Gen Z and young millennial goal-setters, college students (residence-hall craft events), stationery shoppers (retailer workshops) and kids and teens via parents."
+        },
+        "aliases": [
+          "2026 punch cards",
+          "2027 punch cards",
+          "goal punch cards",
+          "resolution punch cards",
+          "#2026punchcards"
+        ],
+        "category": "seasonal",
+        "competition": {
+          "evidence": [
+            "e9",
+            "e10",
+            "e11"
+          ],
+          "level": "low",
+          "text": "A handful of 2026 digital sets (Ko-fi with 6 designs, Gumroad, an Etsy kids and teens listing) plus free DIY tutorials. Competition will likely rise for 2027; Etsy could not be counted directly."
+        },
+        "evidence": [
+          {
+            "accessMethod": "web_search_result",
+            "claim": "Business press covered handmade goal punch cards as a TikTok trend for tracking 2026 goals and reported the hashtag's size.",
+            "excerpt": "The #2026punchcards hashtag already has over 200 videos.",
+            "id": "e1",
+            "intent": "curiosity",
+            "kind": "observed",
+            "publishedAt": null,
+            "publisher": "Fast Company",
+            "retrievedAt": "2026-10-05T00:02:47Z",
+            "signalType": "press",
+            "syndicationOf": null,
+            "title": "This cute, crafty life hack could help you knock out your 2026 goals",
+            "url": "https://www.fastcompany.com/91471368/this-cute-crafty-lifehack-could-help-knock-out-your-2026-goals"
+          },
+          {
+            "accessMethod": "web_search_result",
+            "claim": "A mainstream explainer describes how people make and use punch cards for resolutions.",
+            "excerpt": "They're meant to be punched, stamped, or checked off, one square at a time, whenever you make progress on your goals",
+            "id": "e2",
+            "intent": "utility",
+            "kind": "observed",
+            "publishedAt": null,
+            "publisher": "Yahoo Lifestyle",
+            "retrievedAt": "2026-10-05T00:02:47Z",
+            "signalType": "press",
+            "syndicationOf": null,
+            "title": "What Are 2026 Punch Cards? The Viral Tool Helping People Keep Their Resolutions (Exclusive)",
+            "url": "https://www.yahoo.com/lifestyle/articles/2026-punch-cards-viral-tool-211440601.html"
+          },
+          {
+            "accessMethod": "web_search_result",
+            "claim": "Syndicated copy of e2.",
+            "excerpt": "What Are 2026 Punch Cards? The Viral Tool Helping People Keep Their Resolutions",
+            "id": "e3",
+            "intent": "utility",
+            "kind": "observed",
+            "publishedAt": null,
+            "publisher": "AOL",
+            "retrievedAt": "2026-10-05T00:02:47Z",
+            "signalType": "press",
+            "syndicationOf": "e2",
+            "title": "What Are 2026 Punch Cards? The Viral Tool Helping People Keep Their Resolutions (Exclusive)",
+            "url": "https://www.aol.com/articles/2026-punch-cards-viral-tool-211440518.html"
+          },
+          {
+            "accessMethod": "web_search_result",
+            "claim": "Internet-culture outlet positioned punch cards as the successor to goal bingo cards.",
+            "excerpt": "Forget bingo cards—2026 punch cards are how TikTok is tracking goals now",
+            "id": "e4",
+            "intent": "curiosity",
+            "kind": "observed",
+            "publishedAt": null,
+            "publisher": "The Daily Dot",
+            "retrievedAt": "2026-10-05T00:02:47Z",
+            "signalType": "press",
+            "syndicationOf": null,
+            "title": "Forget bingo cards—2026 punch cards are how TikTok is tracking goals now",
+            "url": "https://dailydot.com/2026-punch-cards-tiktok"
+          },
+          {
+            "accessMethod": "web_search_result",
+            "claim": "A further independent explainer.",
+            "excerpt": "Ditch the bingo card, TikTok has a cuter goal hack for 2026",
+            "id": "e5",
+            "intent": "curiosity",
+            "kind": "observed",
+            "publishedAt": null,
+            "publisher": "Attack of the Fanboy",
+            "retrievedAt": "2026-10-05T00:02:47Z",
+            "signalType": "press",
+            "syndicationOf": null,
+            "title": "Ditch the bingo card, TikTok has a cuter goal hack for 2026",
+            "url": "https://attackofthefanboy.com/social-media/ditch-the-bingo-card-tiktok-has-a-cuter-goal-hack-for-2026/"
+          },
+          {
+            "accessMethod": "web_search_result",
+            "claim": "Campus coverage in February 2026 (from the URL path) shows the format kept going past January.",
+            "excerpt": "punch card goals a new way to stay motivated",
+            "id": "e6",
+            "intent": "utility",
+            "kind": "observed",
+            "publishedAt": null,
+            "publisher": "The Cornell Daily Sun",
+            "retrievedAt": "2026-10-05T00:02:47Z",
+            "signalType": "community",
+            "syndicationOf": null,
+            "title": "Punch card goals: a new way to stay motivated",
+            "url": "https://www.cornellsun.com/article/2026/02/punch-card-goals-a-new-way-to-stay-motivated"
+          },
+          {
+            "accessMethod": "web_search_result",
+            "claim": "Residence-hall craft event built around making 2026 punch cards, which shows offline adoption.",
+            "excerpt": "2026 Punchcard Making with Cayuga Hall",
+            "id": "e7",
+            "intent": "utility",
+            "kind": "observed",
+            "publishedAt": null,
+            "publisher": "Binghamton University",
+            "retrievedAt": "2026-10-05T00:02:47Z",
+            "signalType": "community",
+            "syndicationOf": null,
+            "title": "2026 Punchcard Making with Cayuga Hall",
+            "url": "https://www.binghamton.edu/apps/calendar/event/details/be-2297744"
+          },
+          {
+            "accessMethod": "web_search_result",
+            "claim": "A stationery retailer ran a punch-card-making event (retail interest; supply, not proof of purchase).",
+            "excerpt": "Come make 2026 goal punch cards with us",
+            "id": "e8",
+            "intent": "none",
+            "kind": "observed",
+            "publishedAt": null,
+            "publisher": "The Penny Post (stationery shop)",
+            "retrievedAt": "2026-10-05T00:02:47Z",
+            "signalType": "marketplace",
+            "syndicationOf": null,
+            "title": "Come make 2026 goal punch cards with us",
+            "url": "https://shoppennypost.com/blogs/news/come-make-2026-goal-punch-cards-with-us"
+          },
+          {
+            "accessMethod": "web_search_result",
+            "claim": "Supply: a seller offers 6 punch card designs plus an 8.5x11 sheet.",
+            "excerpt": "6 different cards as individual files (PDF + PNG) plus a full 8.5\" x 11\" sheet with all cards together",
+            "id": "e9",
+            "intent": "none",
+            "kind": "observed",
+            "publishedAt": null,
+            "publisher": "Ko-fi seller",
+            "retrievedAt": "2026-10-05T00:02:47Z",
+            "signalType": "marketplace",
+            "syndicationOf": null,
+            "title": "2026 goal punch card designs (PDF + PNG)",
+            "url": "https://ko-fi.com/s/4ce224e0f5"
+          },
+          {
+            "accessMethod": "web_search_result",
+            "claim": "Supply: digital punch card product on Gumroad.",
+            "excerpt": "2026 Punch Cards",
+            "id": "e10",
+            "intent": "none",
+            "kind": "observed",
+            "publishedAt": null,
+            "publisher": "Gumroad seller",
+            "retrievedAt": "2026-10-05T00:02:47Z",
+            "signalType": "marketplace",
+            "syndicationOf": null,
+            "title": "2026 Punch Cards",
+            "url": "https://daryaalexander.gumroad.com/l/punchcards"
+          },
+          {
+            "accessMethod": "web_search_result",
+            "claim": "Supply: an Etsy printable goal punch card listing for kids and teens. The result page showed 'Low in stock, only 2 left' text, which is ambiguous for a digital item and not treated as demand.",
+            "excerpt": "printable template designed for kids and teens to set their goals and plan resolutions for 2026",
+            "id": "e11",
+            "intent": "none",
+            "kind": "observed",
+            "publishedAt": null,
+            "publisher": "Etsy",
+            "retrievedAt": "2026-10-05T00:02:47Z",
+            "signalType": "marketplace",
+            "syndicationOf": null,
+            "title": "Goal punch card printable for kids and teens (2026)",
+            "url": "https://www.etsy.com/listing/4431915348"
+          },
+          {
+            "accessMethod": "web_search_result",
+            "claim": "TikTok discover pages exist for the format ('2026 punch cards', 'goal punch cards').",
+            "excerpt": "2026 Punch Cards (TikTok discover page)",
+            "id": "e12",
+            "intent": "utility",
+            "kind": "observed",
+            "publishedAt": null,
+            "publisher": "TikTok",
+            "retrievedAt": "2026-10-05T00:02:47Z",
+            "signalType": "social",
+            "syndicationOf": null,
+            "title": "2026 Punch Cards",
+            "url": "https://www.tiktok.com/discover/2026-punch-cards"
+          },
+          {
+            "accessMethod": "web_search_result",
+            "claim": "Creators on Lemon8 also posted punch card setups.",
+            "excerpt": "My 2026 Punch Cards: Fun DIY Ideas for Goals & Productivity",
+            "id": "e13",
+            "intent": "utility",
+            "kind": "observed",
+            "publishedAt": null,
+            "publisher": "Lemon8",
+            "retrievedAt": "2026-10-05T00:02:47Z",
+            "signalType": "social",
+            "syndicationOf": null,
+            "title": "My 2026 Punch Cards: Fun DIY Ideas for Goals & Productivity",
+            "url": "https://www.lemon8-app.com/@brandielo/7591204409380487735?region=us"
+          },
+          {
+            "accessMethod": "web_search_result",
+            "claim": "3D-printing makers published a related punch card model, which shows the format spreading into maker communities.",
+            "excerpt": "makerworld.com/models/2200146",
+            "id": "e14",
+            "intent": "none",
+            "kind": "observed",
+            "publishedAt": null,
+            "publisher": "MakerWorld",
+            "retrievedAt": "2026-10-05T00:02:47Z",
+            "signalType": "marketplace",
+            "syndicationOf": null,
+            "title": "Punch card model",
+            "url": "https://makerworld.com/models/2200146"
+          },
+          {
+            "accessMethod": "web_search_result",
+            "claim": "Category demand for analog stationery and planners among Gen Z; not specific to punch cards.",
+            "excerpt": "Papier's sales swell to $50M this year fueled by a desire for analog products",
+            "id": "e15",
+            "intent": "purchase",
+            "kind": "observed",
+            "publishedAt": "2025-12-09",
+            "publisher": "Modern Retail",
+            "retrievedAt": "2026-10-05T00:02:47Z",
+            "signalType": "press",
+            "syndicationOf": null,
+            "title": "Papier's sales swell to $50M this year, fueled by a desire for analog products",
+            "url": "https://www.modernretail.co/marketing/brands-briefing-papiers-sales-swell-to-50m-this-year-fueled-by-a-desire-for-analog-products/"
+          }
+        ],
+        "gap": {
+          "isInference": true,
+          "text": "A complete, ready-to-print 2027 kit (40 pre-written goals, blank editable cards, correct 2027 month cards, reward slips, 3 colorways, jumbo size, kids add-on) that saves DIY time and outclasses small 2026 sets."
+        },
+        "name": "Goal punch cards (2027 cycle)",
+        "observations": [
+          {
+            "asOf": "2026-01-31",
+            "evidence": "e1",
+            "isAbsolute": true,
+            "metric": "Videos under #2026punchcards at time of Fast Company report",
+            "note": "reported by Fast Company; not independently verified; asOf approximate (January 2026 report)",
+            "unit": "videos (more than)",
+            "value": 200
+          }
+        ],
+        "origin": {
+          "date": null,
+          "evidence": [
+            "e1",
+            "e2",
+            "e4",
+            "e6"
+          ],
+          "text": "Rose on TikTok around New Year 2026 as '2026 punch cards'. Fast Company, Yahoo (exclusive explainer), Daily Dot and others covered it in January, and Cornell's student paper in February 2026."
+        },
+        "productDemand": {
+          "evidence": [
+            "e9",
+            "e10",
+            "e11",
+            "e15"
+          ],
+          "text": "People adopted the format widely in 2026, but evidence of purchases is thin. A few sellers offer digital card sets (Ko-fi, Gumroad, Etsy) with no sales figures. Category demand for analog stationery among Gen Z supports a printable kit. Buyer intent for 2027 is inferred."
+        },
+        "products": [
+          {
+            "buyer": "US teens and adults aged 16–40 who saw the 2026 TikTok goal punch card trend and want ready-made cards for 2027",
+            "channels": [
+              "Etsy",
+              "Gumroad",
+              "Pinterest",
+              "TikTok",
+              "Lemon8"
+            ],
+            "continueIf": "At least 3 sales or 40+ favorites by Dec 20, or the free sampler pin passing 150 saves.",
+            "differentiation": "Larger and more complete than the 2026 files found (6–16 designs): 40 pre-written goals, an editable template, 2027 month cards, 3 colorways, a jumbo size and a kids add-on.",
+            "effort": "low",
+            "effortHours": 10,
+            "evidence": [
+              "e1",
+              "e2",
+              "e4",
+              "e7",
+              "e8",
+              "e9"
+            ],
+            "format": "printable",
+            "fulfillment": "digital",
+            "leadTimeDays": 3,
+            "pivotIf": "Favorites but few sales: drop to $4 or bundle with a goal bingo card; if kids-card interest dominates, spin out a family or classroom version.",
+            "playbook": {
+              "assembly": [
+                "Run the super prompt; verify the goal counts and month day counts.",
+                "In Canva make a 3.5x2 in card master per colorway and duplicate it for all 40 goals and 20 blanks.",
+                "Lay out the 10-up US Letter sheets with crop marks (use a grid template), then repeat for A4 and the 4-up jumbo.",
+                "Create an editable Canva template link for the blank cards (share a 'use as template' link in a PDF).",
+                "Export print sheets as PDF Print (300 DPI) with crop marks; export the icons as transparent PNGs.",
+                "Zip by colorway and size; include a one-page start guide.",
+                "Shoot or mock up 6 listing images: fanned cards, sheet preview, colorways, month cards, kids add-on, and 'what's included'."
+              ],
+              "asymmetry": {
+                "badBetIf": "The format does not return for 2027, or many sellers flood Etsy with cheap 2027 punch cards in December. Price and differentiation then matter more than timing.",
+                "downside": "About 10 hours and up to $30 in ads.",
+                "upside": "Proven 2026 format with press and campus adoption; zero marginal cost; reusable every year with a date swap; bundles well."
+              },
+              "costs": {
+                "baseCost": null,
+                "basis": "estimate: verify in the provider catalog",
+                "item": null,
+                "provider": null,
+                "shipping": null,
+                "testBudget": 30,
+                "testBudgetNote": "Etsy Ads at $1/day from Dec 20 to Jan 20 if organic favorites appear in early December."
+              },
+              "extensions": [
+                "POD sticker sheet of the doodle icons",
+                "Friend-group bundle (6 matching sets)",
+                "Classroom or teacher version",
+                "Spring 'reset' edition and undated evergreen kit"
+              ],
+              "imagePrompts": [
+                {
+                  "prompt": "Flat-lay of a fanned stack of cute printed goal punch cards on a binder ring, retro café style, cherry #D7263D, cream #FFF4E0, espresso #3E2723 and mint #9ED8C3, some circles punched out, small doodle icons (sneaker, book, coin), a vintage hole punch beside them, soft daylight, card text reads '10 walks outside' and 'Reward: fancy coffee', 4:3 landscape, light wood background, no logos, no real people, no trademarked characters, no watermarks",
+                  "purpose": "Hero mockup",
+                  "tool": "Ideogram or ChatGPT images"
+                },
+                {
+                  "prompt": "Set of 8 simple hand-drawn line icons in espresso #3E2723 on transparent background: sneaker, open book, coin, little house, heart, pencil, crescent moon, star, consistent 3px line, cute rounded style, each on its own square tile, 1:1, no text, no logos, no real people, no trademarked characters, no watermarks",
+                  "purpose": "Doodle icon set",
+                  "tool": "Ideogram"
+                }
+              ],
+              "listingPrompt": "Write an Etsy listing for '2027 Goal Punch Cards: The Complete Kit', a printable kit with 40 pre-written goal cards in 8 categories, 20 blank cards plus an editable Canva template, 12 month cards for 2027, 30 reward ideas, a kids and teens add-on, in 3 colorways, business-card and 4x6 sizes, on US Letter and A4 sheets. Title under 140 characters front-loading 'goal punch cards' and '2027'. 13 tags of 20 characters or fewer (e.g. goal punch cards, punch card printable, 2027 goals, habit tracker card, new year goals, reward chart). Description: what's included with counts, sizes, file types, how to print and cut, cardstock tips, how instant download and the Canva link work, and a 6-question FAQ. Do not use brand, store, app or character names; no diet, weight or money-outcome claims.",
+              "marketing": {
+                "channels": [
+                  {
+                    "cadence": "3–4 per week from mid-November, daily Dec 26–Jan 10",
+                    "channel": "TikTok/Reels/Lemon8",
+                    "tactic": "Punching ASMR, setup videos, 'goal ideas' carousels"
+                  },
+                  {
+                    "cadence": "daily",
+                    "channel": "Pinterest",
+                    "tactic": "Colorway mockups and goal-idea pins"
+                  },
+                  {
+                    "cadence": "weekly",
+                    "channel": "Etsy",
+                    "tactic": "Tags around 'punch card' and '2027 goals'"
+                  }
+                ],
+                "hooks": [
+                  "Bingo cards are out. Punch cards are in.",
+                  "40 punch cards for your 2027 goals",
+                  "Punch a hole every time you show up",
+                  "The most satisfying way to track goals"
+                ],
+                "keywords": [
+                  "goal punch cards",
+                  "2027 punch cards",
+                  "punch card printable",
+                  "new year goals",
+                  "habit tracker cards",
+                  "reward punch card"
+                ],
+                "launchPlan": [
+                  {
+                    "action": "List on Etsy and Gumroad by mid-November.",
+                    "day": "Day 0"
+                  },
+                  {
+                    "action": "Pin the 3 colorway mockups and a 'punch card vs bingo card' pin.",
+                    "day": "Day 1"
+                  },
+                  {
+                    "action": "TikTok or Reel: cutting and punching the first card, ASMR-style.",
+                    "day": "Day 3"
+                  },
+                  {
+                    "action": "Post a free 3-card sampler on Pinterest that links to the full kit.",
+                    "day": "Day 6"
+                  },
+                  {
+                    "action": "Lemon8 and Instagram carousel: '40 goal ideas for 2027 punch cards'.",
+                    "day": "Day 10"
+                  },
+                  {
+                    "action": "Review favorites and visits; add a 'friends' accountability' bundle if comments ask.",
+                    "day": "Day 14"
+                  },
+                  {
+                    "action": "Go/pivot/stop check; then a big push Dec 26–Jan 15.",
+                    "day": "Day 21"
+                  }
+                ],
+                "positioning": "The biggest, cutest ready-to-print goal punch card kit for 2027."
+              },
+              "platforms": [
+                {
+                  "name": "Etsy",
+                  "role": "primary",
+                  "why": "Printable buyers and resolution-season search."
+                },
+                {
+                  "name": "Gumroad or Ko-fi",
+                  "role": "secondary",
+                  "why": "Direct links from TikTok and Lemon8, where the trend lives."
+                },
+                {
+                  "name": "Pinterest",
+                  "role": "traffic",
+                  "why": "Punch card setups are very pinnable."
+                }
+              ],
+              "pricing": {
+                "basis": "estimate",
+                "currency": "USD",
+                "high": 9,
+                "low": 4,
+                "rationale": "2026 punch card files were small sets; a larger kit justifies a modest premium while staying an impulse buy.",
+                "recommended": 6
+              },
+              "productName": "2027 Goal Punch Cards: The Complete Kit",
+              "risks": [
+                "Seasonal: most sales will fall between Dec 20 and Jan 31.",
+                "Easy to copy; competition may rise fast.",
+                "The 'low in stock' snippet on one listing is not demand evidence."
+              ],
+              "superPrompt": "You are a stationery designer. Produce the complete content and design spec for a printable kit called \"2027 Goal Punch Cards: The Complete Kit\" for [YOUR SHOP NAME].\n\nBUYER AND JOB: US teens and adults aged 16–40 who saw the 2026 TikTok goal punch card trend (loyalty-card-style cards you punch or stamp each time you make progress, with a reward when the card is full). They want cute, ready-made cards for 2027 without designing their own. The kit gives them pre-written goal cards, blank cards, reward slips and a binder ring setup.\n\nDELIVERABLE SPEC:\n- Card size 3.5 x 2 in (business card) on a 10-up US Letter sheet (8.5x11 in, 0.5 in margins, crop marks) and an A4 version (10-up, adjusted margins). Also offer a 4 x 6 in jumbo version, 4-up per Letter sheet.\n- 40 pre-written goal cards in 8 categories (5 each): Move, Read & Learn, Money, Home, Friends & Family, Creativity, Rest & Calm, Brave Things. Each card has a short original goal name (e.g. \"10 walks outside\", \"Cook at home 12 times\", \"Text a friend first x10\"), 10 or 12 punch circles numbered, a \"Reward:\" line and a \"Started / Finished\" date line.\n- 20 blank editable cards with 10, 12, 20 and 30 circle layouts.\n- 12 monthly mini-cards (\"January 2027\" to \"December 2027\"), each with a 4x7-style grid sized to that month (31, 28, 31... days; 2027 is not a leap year).\n- Reward slips page: 30 original reward ideas under $10 or free (e.g. \"fancy coffee\", \"new library book\", \"long bath\") with checkboxes.\n- Cover/instructions page: how to print on cardstock (65–110 lb), cut, round corners, punch with a 1/4 in hole punch or stamp, store on a 1.5 in binder ring.\n- Kids & Teens add-on: 10 cards with simpler goals.\n\nDESIGN: Three colorway sets so buyers can choose: (1) Retro Café: Cherry #D7263D, Cream #FFF4E0, Espresso #3E2723, Mint #9ED8C3; (2) Soft Pastel: Blush #F7C6C7, Butter #FFE8A3, Sky #BFE3F5, Lilac #D9C8F0, Ink #3A3A48; (3) Monochrome: Black #1E1E1E, Paper #FFFFFF, Gray #BDBDBD. Canva font pairings: (a) \"Cooper Black\"-style display alternative \"Shrikhand\" with \"Poppins\"; (b) \"Fraunces\" with \"Nunito\". Each card has a small original doodle icon related to its category (sneaker, book, coin, house, heart, pencil, moon, star).\n\nCONTENT RULES: All goals and rewards must be original, positive and achievable. Make no health, weight, diet or money-result claims: avoid weight-loss goals and calorie or diet language, and keep money goals behavioral (\"no-spend day x10\"). Use no brand names (no coffee chains, apps or stores), no characters and no copying of any creator's cards. Write in plain English, under 6 words per goal name.\n\nDIFFERENTIATION: Most 2026 punch card files offered 6–16 designs. This kit has 40 pre-written goals across 8 life areas, blank editable cards, 12 month cards sized correctly for 2027, three colorways, a jumbo size, and a kids and teens add-on.\n\nOUTPUT: Return (1) the full list of 40 goal names by category with circle counts, (2) the 10 kids and teens goals, (3) 12 month cards with correct day counts, (4) 30 rewards, (5) instruction page text, and (6) a sheet-by-sheet layout plan for Canva listing which cards go on which page for each size.\n\nSELF-CHECK: (a) 40 + 10 goals, none repeated, each under 6 words; (b) February has 28 days; (c) no diet, weight or brand language; (d) the card count per sheet matches the sizes; (e) all three colorways are specified."
+            },
+            "rightsNote": "The punch card concept is generic. Do not copy any creator's designs or wording; no brand rewards (coffee chains, stores).",
+            "stopIf": "Under 60 visits by Dec 20 despite steady pinning.",
+            "theme": "2027 goal punch card kit: 40 pre-written goal cards, blank editable cards, month cards, rewards, 3 colorways",
+            "validationTest": "List by Nov 15; 10 pins and 3 videos before Dec 1.",
+            "whyBuy": "Punch cards replaced bingo cards as January 2026's goal-tracking craft with press, campus and retail events. Buyers who DIY'd in 2026 will likely look for ready-made 2027 sets."
+          }
+        ],
+        "recommendedAction": "prepare",
+        "rights": {
+          "note": "Generic format. Do not copy creator designs; no brand names on reward ideas.",
+          "risk": "low"
+        },
+        "scores": {
+          "buyerIntent": {
+            "basis": "qualitative",
+            "rationale": "Sellers and workshops exist and adoption was broad, but no sales figures were found.",
+            "score": 2
+          },
+          "durability": {
+            "basis": "qualitative",
+            "rationale": "A seasonal format that could recur yearly like bingo cards.",
+            "score": 3
+          },
+          "economics": {
+            "basis": "qualitative",
+            "rationale": "A digital download with zero marginal cost and a low build effort.",
+            "score": 4
+          },
+          "productFit": {
+            "basis": "qualitative",
+            "rationale": "The trend is a printable object, so the product is the trend itself.",
+            "score": 5
+          },
+          "supplyGap": {
+            "basis": "qualitative",
+            "rationale": "Only small sets found; supply will likely grow for 2027.",
+            "score": 3
+          },
+          "timing": {
+            "basis": "reported",
+            "rationale": "Building now positions the kit before the second season; 2026 coverage is documented.",
+            "score": 4
+          }
+        },
+        "spread": {
+          "evidence": [
+            "e1",
+            "e4",
+            "e5",
+            "e6",
+            "e7",
+            "e8",
+            "e13",
+            "e14"
+          ],
+          "text": "Several independent press pieces, campus coverage and events, a retailer event, Lemon8 creators and maker communities. It spread in 2026; no 2027-labeled spread yet."
+        },
+        "summary": "Handmade loyalty-card-style goal punch cards became January 2026's viral way to track resolutions. The format is set to return for 2027, when buyers may want ready-made kits.",
+        "trajectory": {
+          "evidence": [
+            "e1",
+            "e6",
+            "e12"
+          ],
+          "stage": "early_growth",
+          "text": "A young format (one season old) heading into its second New Year. It peaked in January–February 2026, and the 2027 return is expected but unconfirmed: a search for '2027 punch cards' found no content yet. Supply is still small and creator-made."
+        },
+        "unresolved": [
+          "Confirm the return: '2027 punch cards' content appearing on TikTok, Lemon8 or Pinterest in November–December.",
+          "Count Etsy listings for '2027 punch cards' in early December to judge saturation.",
+          "Look for any 2026 seller sales figures."
+        ],
+        "what": "Goal punch cards are small cards with a row of circles you punch or stamp each time you make progress on a goal, with a reward when the card is full. They went viral on TikTok and Lemon8 in January 2026 as a cuter alternative to goal bingo cards and spread to campus craft nights and stationery-shop events.",
+        "window": {
+          "endEstimate": "2027-02-15",
+          "estimate": "Mid-Nov 2026 – early Feb 2027",
+          "invalidators": [
+            "No 2027 punch card content appears on TikTok or Lemon8 by late December",
+            "Etsy floods with cheap 2027 sets in early December"
+          ],
+          "reasoning": "The 2026 coverage clustered from January into February. Resolution products sell from late December through January, and listings need about 3–4 weeks to be indexed.",
+          "seasonality": "New Year resolution season; possible spring and back-to-school reprises",
+          "sellBy": "2026-12-26"
+        }
+      }
+    ],
+    "kind": "discover",
+    "lens": "First-spark hunt: New Year 2027 planning, goals and reset formats",
+    "researchedAt": "2026-10-05T00:02:47Z",
+    "sourcesTried": [
+      {
+        "method": "web search",
+        "note": "About 45 queries; all evidence comes from search-result snippets.",
+        "source": "WebSearch (standard and extended)",
+        "status": "ok"
+      },
+      {
+        "method": "fetch",
+        "note": "Network egress proxy blocked every fetch attempted, so no page was read in full.",
+        "source": "WebFetch: upworthy.com, clothandpaper.com, fastcompany.com, napoleoncat.com, later.com, newengen.com, socialbee.com, select.keenable.ai, newsweek.com, mein-mmo.de, en.sedaily.com",
+        "status": "blocked"
+      },
+      {
+        "method": "curl",
+        "note": "CONNECT tunnel 403 from the environment proxy.",
+        "source": "washingtonpost.com",
+        "status": "blocked"
+      },
+      {
+        "method": "web search results only (discover/tag pages)",
+        "note": "Only search snippets of TikTok discover pages; view counts not verifiable.",
+        "source": "TikTok",
+        "status": "ok"
+      },
+      {
+        "method": "web search results only",
+        "note": "Two Etsy listing URLs surfaced in results; Etsy search and sales counts not checked directly.",
+        "source": "Etsy",
+        "status": "ok"
+      },
+      {
+        "method": "none",
+        "note": "Fetching is blocked in this environment.",
+        "source": "Google Trends",
+        "status": "not_tried"
+      },
+      {
+        "method": "none",
+        "note": "Fetching is blocked in this environment.",
+        "source": "Reddit",
+        "status": "not_tried"
+      },
+      {
+        "method": "web search results only",
+        "note": "No Pinterest 2027 Predicts report exists yet (usually released in December).",
+        "source": "Pinterest",
+        "status": "ok"
+      }
+    ]
+  },
+  "runId": "run-hunt-newyear-20261004-4",
+  "status": "new"
+}

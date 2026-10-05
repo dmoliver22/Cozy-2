@@ -1,0 +1,19 @@
+{
+  "accessMethod": "web_search_result",
+  "candidateId": "once-a-day-once-a-week-once-a-month-routine-format",
+  "claim": "Evergreen daily/weekly/monthly routine guides already exist (supply of free articles, not of fill-in templates).",
+  "excerpt": "An Effortless Daily, Weekly, and Monthly Guide to Better Skin",
+  "firstRetrievedAt": "2026-10-05T00:00:55Z",
+  "firstSeenRunId": "run-hunt-hobbies-20261004-1",
+  "id": "once-a-day-once-a-week-once-a-month-routine-format~8b20f117",
+  "intent": "none",
+  "kind": "observed",
+  "lastSeenRunId": "run-hunt-hobbies-20261004-1",
+  "publishedAt": null,
+  "publisher": "Healthline",
+  "retrievedAt": "2026-10-05T00:00:55Z",
+  "signalType": "press",
+  "syndicationOf": null,
+  "title": "An Effortless Daily, Weekly, and Monthly Guide to Better Skin",
+  "url": "https://www.healthline.com/health/beauty-skin-care/routine-daily-monthly-weekly"
+}

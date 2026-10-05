@@ -1,0 +1,581 @@
+{
+  "createdAt": "2026-10-05T00:00:55Z",
+  "jobId": "hunt-hobbies-20261004",
+  "processedAt": "2026-10-05T00:01:32.674Z",
+  "raw": {
+    "candidates": [
+      {
+        "actionRationale": "Broad press spread shows a real craft wave, but demand for digital patterns is unproven and supply is heavy. Build the pack and process videos now; test with organic posts first.",
+        "adopters": {
+          "evidence": [
+            "e1",
+            "e6"
+          ],
+          "text": "Gen Z social media users; major beauty and coffee brands joined in on their social feeds, according to Fortune."
+        },
+        "aliases": [
+          "bedazzling era",
+          "bedazzled everything",
+          "rhinestone everything",
+          "gem everything"
+        ],
+        "category": "hobby",
+        "competition": {
+          "evidence": [
+            "e10",
+            "e11",
+            "e12"
+          ],
+          "level": "moderate",
+          "text": "Physical rhinestone supplies are abundant, and free single-project tutorials exist. Digital pattern-template supply was not checked on Etsy."
+        },
+        "evidence": [
+          {
+            "accessMethod": "web_search_result",
+            "claim": "Business press reports Gen Z gluing rhinestones to everyday objects, with large brands joining in on social media.",
+            "excerpt": "Social media users have spent the last month meticulously gluing rhinestones to everyday objects, including coffee cups, skincare, phone cases, and even puppies.",
+            "id": "e1",
+            "intent": "curiosity",
+            "kind": "observed",
+            "publishedAt": "2026-08-28",
+            "publisher": "Fortune",
+            "retrievedAt": "2026-10-05T00:00:55Z",
+            "signalType": "press",
+            "syndicationOf": null,
+            "title": "Gen Z's bedazzling era is the latest Lipstick Index as youths put gems on everything from coffee cups to skincare",
+            "url": "https://fortune.com/2026/08/28/gen-z-bedazzling-era-lipstick-index-youths-gems-coffee-skincare/"
+          },
+          {
+            "accessMethod": "web_search_result",
+            "claim": "Independent lifestyle coverage on the same dates.",
+            "excerpt": "what the bedazzl a trend you will see everywhere",
+            "id": "e2",
+            "intent": "curiosity",
+            "kind": "observed",
+            "publishedAt": "2026-08-27",
+            "publisher": "MWN Lifestyle",
+            "retrievedAt": "2026-10-05T00:00:55Z",
+            "signalType": "press",
+            "syndicationOf": null,
+            "title": "What the bedazzl: a trend you will see everywhere",
+            "url": "https://mwnlifestyle.com/2026/08/27/what-the-bedazzl-a-trend-you-will-see-everywhere/"
+          },
+          {
+            "accessMethod": "web_search_result",
+            "claim": "International coverage; ties the late-August surge to a viral celebrity birthday cake (context only).",
+            "excerpt": "Bedazzling has suddenly escaped the jewellery box and taken over everything from phone cases and coffee cups to cakes, beauty products, nails, clothes, and accessories.",
+            "id": "e3",
+            "intent": "curiosity",
+            "kind": "observed",
+            "publishedAt": null,
+            "publisher": "Free Press Journal",
+            "retrievedAt": "2026-10-05T00:00:55Z",
+            "signalType": "press",
+            "syndicationOf": null,
+            "title": "Your Cake Needs Rhinestones Now? Inside The 'Bedazzled-Everything' Trend",
+            "url": "https://www.freepressjournal.in/lifestyle/your-cake-needs-rhinestones-now-inside-the-bedazzled-everything-trend-going-viral-on-internet"
+          },
+          {
+            "accessMethod": "web_search_result",
+            "claim": "Frames bedazzling as an offline, hands-on craft.",
+            "excerpt": "Why everyone is bedazzling everything right now — and logging off while they do it",
+            "id": "e4",
+            "intent": "curiosity",
+            "kind": "observed",
+            "publishedAt": null,
+            "publisher": "Gulf News",
+            "retrievedAt": "2026-10-05T00:00:55Z",
+            "signalType": "press",
+            "syndicationOf": null,
+            "title": "Why everyone is bedazzling everything right now - and logging off while they do it",
+            "url": "https://gulfnews.com/lifestyle/why-everyone-is-bedazzling-everything-right-now-and-logging-off-while-they-do-it-1.500602107"
+          },
+          {
+            "accessMethod": "web_search_result",
+            "claim": "Fashion press uses the 'whimsymaxxing' label; the piece is a shopping roundup (supply).",
+            "excerpt": "'Whimsymaxx' With These Gemstone-Covered Accessories & Clothes",
+            "id": "e5",
+            "intent": "none",
+            "kind": "observed",
+            "publishedAt": null,
+            "publisher": "The Zoe Report",
+            "retrievedAt": "2026-10-05T00:00:55Z",
+            "signalType": "press",
+            "syndicationOf": null,
+            "title": "'Whimsymaxx' With These Gemstone-Covered Accessories & Clothes",
+            "url": "https://www.thezoereport.com/fashion/whimsymaxxing-gemstone-trend"
+          },
+          {
+            "accessMethod": "web_search_result",
+            "claim": "A trend tracker lists whimsymaxxing as a September 2026 TikTok trend.",
+            "excerpt": "Creators are decorating products, accessories, nails, hair, makeup looks, and everyday objects with rhinestones, gems, charms, and stickers",
+            "id": "e6",
+            "intent": "curiosity",
+            "kind": "observed",
+            "publishedAt": "2026-09-29",
+            "publisher": "SocialBee",
+            "retrievedAt": "2026-10-05T00:00:55Z",
+            "signalType": "creator",
+            "syndicationOf": null,
+            "title": "(September 29) 2026 TikTok trends you can't miss",
+            "url": "https://socialbee.com/blog/tiktok-trends-you-cant-miss/"
+          },
+          {
+            "accessMethod": "web_search_result",
+            "claim": "Fashion press picks up rhinestones.",
+            "excerpt": "rhinestones fashion trend",
+            "id": "e7",
+            "intent": "curiosity",
+            "kind": "observed",
+            "publishedAt": null,
+            "publisher": "Vogue Singapore",
+            "retrievedAt": "2026-10-05T00:00:55Z",
+            "signalType": "press",
+            "syndicationOf": null,
+            "title": "Rhinestones fashion trend",
+            "url": "https://vogue.sg/rhinestones-fashion-trend/"
+          },
+          {
+            "accessMethod": "web_search_result",
+            "claim": "Retail trade coverage of whimsymaxxing in beauty.",
+            "excerpt": "whimsymaxxing is giving beauty a sparkly new mood",
+            "id": "e8",
+            "intent": "curiosity",
+            "kind": "observed",
+            "publishedAt": null,
+            "publisher": "Retail Boss",
+            "retrievedAt": "2026-10-05T00:00:55Z",
+            "signalType": "press",
+            "syndicationOf": null,
+            "title": "Whimsymaxxing is giving beauty a sparkly new mood",
+            "url": "https://retailboss.co/whimsymaxxing-is-giving-beauty-a-sparkly-new-mood/"
+          },
+          {
+            "accessMethod": "web_search_result",
+            "claim": "Earlier mainstream explainer of the broader whimsymaxxing idea (summer).",
+            "excerpt": "What Is Whimsy Maxxing? Inside the Trend That's Bringing Fun into the Everyday",
+            "id": "e9",
+            "intent": "curiosity",
+            "kind": "observed",
+            "publishedAt": null,
+            "publisher": "TODAY",
+            "retrievedAt": "2026-10-05T00:00:55Z",
+            "signalType": "press",
+            "syndicationOf": null,
+            "title": "What Is Whimsy Maxxing? Inside the Trend That's Bringing Fun into the Everyday",
+            "url": "https://www.today.com/life/whimsy-maxxing-trend-rcna587664"
+          },
+          {
+            "accessMethod": "web_search_result",
+            "claim": "Rhinestone suppliers publish beginner guides, a sign of newcomer help-seeking (and of supply).",
+            "excerpt": "How To Bedazzle Anything: Your DIY Sparkle Guide",
+            "id": "e10",
+            "intent": "utility",
+            "kind": "observed",
+            "publishedAt": null,
+            "publisher": "Planet Rhinestone",
+            "retrievedAt": "2026-10-05T00:00:55Z",
+            "signalType": "marketplace",
+            "syndicationOf": null,
+            "title": "How To Bedazzle Anything: Your DIY Sparkle Guide",
+            "url": "https://planetrhinestone.com/blogs/news/how-to-bedazzle-guide"
+          },
+          {
+            "accessMethod": "web_search_result",
+            "claim": "Existing tutorials for honeycomb-pattern tumblers; pattern-based work is the standard method.",
+            "excerpt": "How to Make a Rhinestone Tumbler: Complete Step-by-Step Tutorial",
+            "id": "e11",
+            "intent": "utility",
+            "kind": "observed",
+            "publishedAt": null,
+            "publisher": "Becreateful",
+            "retrievedAt": "2026-10-05T00:00:55Z",
+            "signalType": "marketplace",
+            "syndicationOf": null,
+            "title": "How to Make a Rhinestone Tumbler: Complete Step-by-Step Tutorial",
+            "url": "https://becreateful.com/blogs/tips-and-tricks-from-a-pro/how-to-create-a-rhinestone-tumbler-honeycomb-pattern"
+          },
+          {
+            "accessMethod": "web_search_result",
+            "claim": "Mass-market physical supply of rhinestone stickers.",
+            "excerpt": "Craft And Party Crystal Rhinestone Adhesive Stickers",
+            "id": "e12",
+            "intent": "none",
+            "kind": "observed",
+            "publishedAt": null,
+            "publisher": "Walmart",
+            "retrievedAt": "2026-10-05T00:00:55Z",
+            "signalType": "marketplace",
+            "syndicationOf": null,
+            "title": "Craft And Party Crystal Rhinestone Adhesive Stickers",
+            "url": "https://www.walmart.com/ip/913564195"
+          },
+          {
+            "accessMethod": "web_search_result",
+            "claim": "Retail trade press tracked whimsymaxxing before the bedazzling wave (URL suggests June 2026).",
+            "excerpt": "What is whimsymaxxing and why should retailers care?",
+            "id": "e13",
+            "intent": "curiosity",
+            "kind": "observed",
+            "publishedAt": null,
+            "publisher": "Inside Retail Australia",
+            "retrievedAt": "2026-10-05T00:00:55Z",
+            "signalType": "press",
+            "syndicationOf": null,
+            "title": "What is whimsymaxxing and why should retailers care?",
+            "url": "https://insideretail.com.au/business/what-is-whimsymaxxing-and-why-should-retailers-care-202606"
+          }
+        ],
+        "gap": {
+          "isInference": true,
+          "text": "A beginner multi-object printable pattern pack with true-scale templates and a stone-size chart."
+        },
+        "name": "Whimsymaxxing: bedazzle-everything DIY",
+        "observations": [],
+        "origin": {
+          "date": "2026-08-27",
+          "evidence": [
+            "e1",
+            "e2",
+            "e3",
+            "e9",
+            "e13"
+          ],
+          "text": "Whimsymaxxing as a general mood was covered in summer 2026; the bedazzling wave broke out in late August 2026, with coverage dated Aug 27-28. Press links the spike partly to a viral gem-covered celebrity birthday cake (context only, not needed for products)."
+        },
+        "productDemand": {
+          "evidence": [
+            "e1",
+            "e10",
+            "e12"
+          ],
+          "text": "No direct purchase figures were found for digital products. Fortune frames the trend as a spending indicator, and beginners are looking for help (supplier guides). Physical rhinestone supplies are widely sold."
+        },
+        "products": [
+          {
+            "buyer": "Teens and young women (about 14-30) trying rhinestone DIY on phone cases, tumblers, cups, notebooks and compacts for the first time",
+            "channels": [
+              "Etsy",
+              "TikTok",
+              "Pinterest",
+              "Instagram Reels"
+            ],
+            "continueIf": "3+ sales or a video above 10,000 views within 21 days",
+            "differentiation": "An original, beginner-first pattern pack across many object types, with stone-size charts and printable trace-your-object pages. Supplier tutorials cover one project at a time.",
+            "effort": "medium",
+            "effortHours": 14,
+            "evidence": [
+              "e1",
+              "e10",
+              "e11"
+            ],
+            "format": "printable",
+            "fulfillment": "digital",
+            "leadTimeDays": 4,
+            "pivotIf": "Interest centers on one object type: release that as a focused pack (e.g. tumbler wraps only)",
+            "playbook": {
+              "assembly": [
+                "Run the super prompt and rebuild each pattern in Canva (or Illustrator) using circle elements on a snapped grid at the stated spacing.",
+                "Add a 1-inch test square to every pattern page and verify it measures 1 in when printed.",
+                "Set the palette and font pairing as a brand kit; keep pattern dots light gray so stones cover them.",
+                "Duplicate to A4 with patterns kept at true physical size (do not scale patterns).",
+                "Export PDF Print at 300 DPI, flattened, and remind buyers in the guide to print at 'Actual size'.",
+                "Test-print 3 pages and try one pattern under a clear case to confirm spacing.",
+                "Record 15-second process clips of the test for listing videos."
+              ],
+              "asymmetry": {
+                "badBetIf": "The bedazzling wave fades before the listing is indexed, and evergreen rhinestone-template searches are already saturated",
+                "downside": "About 14 hours plus $25 of supplies",
+                "upside": "Evergreen craft-template demand, easy seasonal add-on packs"
+              },
+              "costs": {
+                "baseCost": null,
+                "basis": "estimate: digital product; about $15-25 of stones and a clear case for demo videos",
+                "item": null,
+                "provider": null,
+                "shipping": null,
+                "testBudget": 25,
+                "testBudgetNote": "Craft supplies for process videos; no ads at first"
+              },
+              "extensions": [
+                "Holiday motif pack",
+                "Hotfix designs for apparel (iron-on layout guides)",
+                "Kids' sticker-gem version with chunky patterns"
+              ],
+              "imagePrompts": [
+                {
+                  "prompt": "Top-down craft table with a clear phone case half-covered in pastel rhinestones in a heart pattern, a printed dot-grid template visible underneath, small trays of gems in #FF8FC7 #C9A7FF #7FE0E8 #FFE36E, tweezers and a wax pick, bright soft lighting, 4:3 aspect ratio, white background, no text. No logos, no real people, no trademarked characters, no watermarks.",
+                  "purpose": "Listing hero image",
+                  "tool": "Midjourney or ChatGPT images"
+                },
+                {
+                  "prompt": "Vertical graphic showing three printed rhinestone pattern sheets (heart cluster, honeycomb band, monogram letter dot grid) fanned out, headline text 'Bedazzle Anything: 25 printable patterns' in rounded bold font in charcoal #2B2B33, sparkle accents in #FF8FC7 and #7FE0E8, 2:3 aspect ratio, white background. No logos, no real people, no trademarked characters, no watermarks.",
+                  "purpose": "Pinterest pin",
+                  "tool": "Ideogram"
+                }
+              ],
+              "listingPrompt": "Write an Etsy listing for a digital download 'Bedazzle Anything Pattern Pack'. Title under 140 characters starting with 'Rhinestone Pattern Template Printable'. Exactly 13 tags of 20 characters or fewer (e.g. rhinestone pattern, bedazzle template, gem art template, phone case diy, rhinestone tumbler). Description: 25 pages, true-scale templates with test squares, US Letter and A4 PDFs, instant download, no physical items or stones included, beginner guide and safety notes. FAQ: printing at actual size, sizing to your object, which stone sizes, can I sell items I make (yes, finished handmade items; not the templates), refunds. Never use any phone, tumbler, cup or celebrity brand names or other trademarks.",
+              "marketing": {
+                "channels": [
+                  {
+                    "cadence": "4 per week",
+                    "channel": "TikTok",
+                    "tactic": "Satisfying placement timelapses with the template visible"
+                  },
+                  {
+                    "cadence": "3 pins every 2 days",
+                    "channel": "Pinterest",
+                    "tactic": "Pattern previews"
+                  }
+                ],
+                "hooks": [
+                  "Your bedazzle, but neat",
+                  "Print it, place it, sparkle",
+                  "The template under my case"
+                ],
+                "keywords": [
+                  "rhinestone pattern template",
+                  "bedazzle phone case",
+                  "rhinestone tumbler pattern",
+                  "gem art template",
+                  "monogram rhinestone"
+                ],
+                "launchPlan": [
+                  {
+                    "action": "Publish the listing with a process video",
+                    "day": "Day 0"
+                  },
+                  {
+                    "action": "TikTok: bedazzle a phone case over the template, timelapse",
+                    "day": "Day 1"
+                  },
+                  {
+                    "action": "Post 4 Pinterest pins (pack overview, monogram, tumbler wrap, size chart)",
+                    "day": "Day 2"
+                  },
+                  {
+                    "action": "TikTok: 'beginner mistakes' video showing spacing with vs without the template",
+                    "day": "Day 4"
+                  },
+                  {
+                    "action": "Reel: cup band pattern",
+                    "day": "Day 7"
+                  },
+                  {
+                    "action": "Offer a free single-heart pattern as a pin and a link-in-bio freebie",
+                    "day": "Day 10"
+                  },
+                  {
+                    "action": "Review views and sales; make the most-viewed object a standalone pack",
+                    "day": "Day 14"
+                  },
+                  {
+                    "action": "Go/pivot/stop check",
+                    "day": "Day 21"
+                  }
+                ],
+                "positioning": "Neat bedazzling for first-timers: print, place, sparkle."
+              },
+              "platforms": [
+                {
+                  "name": "Etsy",
+                  "role": "primary",
+                  "why": "Craft templates sell there"
+                },
+                {
+                  "name": "TikTok",
+                  "role": "traffic",
+                  "why": "Bedazzling is a process-video trend"
+                },
+                {
+                  "name": "Pinterest",
+                  "role": "traffic",
+                  "why": "DIY pattern pins"
+                }
+              ],
+              "pricing": {
+                "basis": "estimate",
+                "currency": "USD",
+                "high": 9,
+                "low": 4,
+                "rationale": "Mid-priced craft pattern pack; impulse level for teen and young-adult buyers.",
+                "recommended": 6
+              },
+              "productName": "Bedazzle Anything Pattern Pack",
+              "risks": [
+                "Physical rhinestone supply is huge and free tutorials exist",
+                "Peak may already have passed with the late-August spike",
+                "Template sizing must be accurate or reviews suffer"
+              ],
+              "superPrompt": "You are a craft-pattern designer and patient beginner teacher. Write the full content and layout specification for a printable digital product called 'Bedazzle Anything Pattern Pack'. BUYER AND JOB: teens and young women trying rhinestone DIY for the first time on phone cases, cups, tumblers, notebooks, compacts and hair clips. They need layouts that keep stones evenly spaced and patterns that look neat, plus clear first-timer guidance. DELIVERABLE SPEC (US Letter 8.5x11 in and A4 PDFs; all patterns printed at 100% scale; include a 1-inch test square on every pattern page): Page 1 Cover. Page 2 How to use: print at 100%, check the test square, place the pattern under a clear case or inside a clear cup, or tape it beside the object, then place stones dot by dot. Page 3 Stone size chart: circles for SS6, SS10, SS16, SS20 and SS30 at true size, with a 'how many stones per square inch' table worked out geometrically (state it as approximate). Page 4 Safety and care basics: ventilation and following the adhesive maker's label; keep small stones away from young children and pets; never decorate anything that goes in the mouth or on the lip area of a cup; hand-wash only. No medical claims. Pages 5-12 Phone-case patterns on a generic rounded-rectangle outline sized 3x6 in, with 'trace your own case' instructions: full ombre, border only, heart cluster, star scatter, checkerboard, flower, wavy stripes, initial monogram frame. Pages 13-18 Monogram alphabet A-Z as dot grids, 5 letters per page, 1.5 in tall, at SS10 spacing. Pages 19-22 Cup and tumbler wraps: honeycomb dot grid, gradient band, scattered sparkle, and checker band, each as a rectangle 9x8 in with a 'measure your cup' formula (circumference = diameter x 3.14). Pages 23-24 Small-object motifs: 12 motifs for compacts, clips and notebook corners (heart, star, bow, cherry, moon, sparkle, flower, butterfly, initial circle, smile, lightning bolt, shell). Page 25 Project planner: object, pattern, stone sizes, color plan, stone count, date, photo box. Pattern drawing rules: describe each pattern precisely as dot positions or grid rules (e.g. 'offset rows, 3 mm center-to-center') so a designer can rebuild it in Canva or Illustrator. STYLE: playful maximalist on clean white. Canva font pairings: (1) Fredoka headings + Nunito body; (2) Bagel Fat One + Poppins. Palette: Bubblegum #FF8FC7, Lilac #C9A7FF, Aqua #7FE0E8, Lemon #FFE36E, Charcoal #2B2B33. CONTENT RULES: original patterns only; no logos, brand-shaped silhouettes, characters, sports-team marks or celebrity references; do not name any drinkware or phone brand; no claims that adhesives are food-safe. DIFFERENTIATION: one pack covering many object types with true-scale templates and a beginner stone-size chart, rather than single-project tutorials. OUTPUT FORMAT: page by page, headed 'PAGE n - name', with all text and a precise pattern specification in brackets. SELF-CHECK before answering: every page listed is present; every pattern page has a test square; the safety page warns against decorating lip areas and keeps stones away from small children; no brands or characters named; both font pairings and all 5 hex colors used."
+            },
+            "rightsNote": "No brand-name tumblers (do not name any drinkware brand in the title or tags), no logos, no characters, no celebrity references.",
+            "stopIf": "No sales and under 300 views by day 21",
+            "theme": "Bedazzle pattern templates: printable rhinestone layout guides (monograms, hearts, stars, ombre, honeycomb wraps) with a beginner guide",
+            "validationTest": "List the pack and post 4 short process videos of a phone case and a cup bedazzled with the printable under them within 10 days.",
+            "whyBuy": "Beginners struggle with spacing and patterns; a printable layout under a clear case or inside a tumbler makes a neat result far easier."
+          }
+        ],
+        "recommendedAction": "prepare",
+        "rights": {
+          "note": "Keep patterns original; avoid drinkware/phone brand names, logos, characters and celebrity references.",
+          "risk": "low"
+        },
+        "scores": {
+          "buyerIntent": {
+            "basis": "qualitative",
+            "rationale": "Spending framing in press and tutorial demand, but no sales data for digital products",
+            "score": 2
+          },
+          "durability": {
+            "basis": "qualitative",
+            "rationale": "Rhinestone crafting is a long-running niche even if the spike fades",
+            "score": 3
+          },
+          "economics": {
+            "basis": "qualitative",
+            "rationale": "Digital, low cost; demo supplies are cheap",
+            "score": 4
+          },
+          "productFit": {
+            "basis": "qualitative",
+            "rationale": "Printable layouts solve a real beginner spacing problem",
+            "score": 4
+          },
+          "supplyGap": {
+            "basis": "qualitative",
+            "rationale": "Many tutorials and supplies; digital packs not checked",
+            "score": 2
+          },
+          "timing": {
+            "basis": "reported",
+            "rationale": "Spreading fast, about 5 weeks in",
+            "score": 3
+          }
+        },
+        "spread": {
+          "evidence": [
+            "e1",
+            "e2",
+            "e3",
+            "e4",
+            "e5",
+            "e6",
+            "e7",
+            "e8"
+          ],
+          "text": "Independent coverage across US business press, fashion press (Zoe Report, Vogue Singapore), retail trade press, Indian and Gulf outlets, and a TikTok trend tracker for September."
+        },
+        "summary": "A late-August 2026 surge of gluing rhinestones onto everyday objects (cups, phone cases, skincare), framed as 'whimsymaxxing' and covered by business, fashion and international press through September.",
+        "trajectory": {
+          "evidence": [
+            "e1",
+            "e4",
+            "e6",
+            "e10"
+          ],
+          "stage": "early_growth",
+          "text": "About 5 weeks old with broad multi-country coverage. Beginner guides are appearing from suppliers. No sign of decline found, but late-August celebrity-driven spikes can fade."
+        },
+        "unresolved": [
+          "How many rhinestone pattern templates already sell on Etsy",
+          "Whether the wave persists into November holiday DIY coverage"
+        ],
+        "what": "People are decorating ordinary items with rhinestones, gems and charms as a hands-on, playful craft. Fortune framed it as a Gen Z 'Lipstick Index'. Coverage spans phone cases, cups, cakes, skincare and nails, and some pieces frame it as a way to log off.",
+        "window": {
+          "endEstimate": null,
+          "estimate": "Through the 2026 holiday gifting season",
+          "invalidators": [
+            "Coverage stops by mid-October",
+            "Supplier and tutorial content saturates searches"
+          ],
+          "reasoning": "DIY gifts (decorated cups, cases) fit holiday making; the craft has a long tail after the social spike.",
+          "seasonality": "Holiday DIY gifts in Nov-Dec",
+          "sellBy": null
+        }
+      }
+    ],
+    "kind": "discover",
+    "lens": "First-spark hunt: new hobbies, challenges and rituals",
+    "researchedAt": "2026-10-05T00:00:55Z",
+    "sourcesTried": [
+      {
+        "method": "web search",
+        "note": "About 40 queries across TikTok/Reels trend roundups, Know Your Meme, YPulse, Pinterest, Etsy trend blogs, news.",
+        "source": "WebSearch (standard and extended)",
+        "status": "ok"
+      },
+      {
+        "method": "WebFetch",
+        "note": "Egress blocked; used search snippets.",
+        "source": "newengen.com October TikTok trends",
+        "status": "blocked"
+      },
+      {
+        "method": "WebFetch",
+        "note": "Egress blocked.",
+        "source": "washingtonpost.com (hobbymaxxing, 2026-09-13)",
+        "status": "blocked"
+      },
+      {
+        "method": "WebFetch",
+        "note": "Egress blocked; search snippets only.",
+        "source": "socialbee.com TikTok trends (Sept 29)",
+        "status": "blocked"
+      },
+      {
+        "method": "WebFetch",
+        "note": "Egress blocked; search snippets only.",
+        "source": "later.com TikTok and Reels trend blogs",
+        "status": "blocked"
+      },
+      {
+        "method": "WebFetch",
+        "note": "Egress blocked.",
+        "source": "explodingtopics.com",
+        "status": "blocked"
+      },
+      {
+        "method": "WebFetch",
+        "note": "Egress blocked.",
+        "source": "napoleoncat.com",
+        "status": "blocked"
+      },
+      {
+        "method": "WebFetch",
+        "note": "Egress blocked.",
+        "source": "ramd.am TikTok/Instagram trends",
+        "status": "blocked"
+      },
+      {
+        "method": "WebFetch",
+        "note": "Egress blocked; could not confirm the year of the 9/19 post.",
+        "source": "community.pinterest.biz Pinterest Predicts Weekly",
+        "status": "blocked"
+      },
+      {
+        "method": "WebFetch",
+        "note": "Egress blocked; search snippets only.",
+        "source": "fortune.com",
+        "status": "blocked"
+      },
+      {
+        "method": "direct",
+        "note": "Known to be blocked in this environment; TikTok discover pages seen only as search results.",
+        "source": "TikTok, Reddit, Etsy, Google Trends",
+        "status": "not_tried"
+      }
+    ]
+  },
+  "report": [
+    {
+      "errors": [],
+      "id": "whimsymaxxing-bedazzle-everything-diy",
+      "name": "Whimsymaxxing: bedazzle-everything DIY",
+      "status": "created",
+      "warnings": 0
+    }
+  ],
+  "runId": "run-hunt-hobbies-20261004-3",
+  "status": "ingested"
+}

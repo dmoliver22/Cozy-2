@@ -1,0 +1,19 @@
+{
+  "accessMethod": "web_search_result",
+  "candidateId": "bedazzle-everything-gem-maxxing",
+  "claim": "Participants describe bedazzling as an offline, screen-free hobby, not just a look",
+  "excerpt": "when she's bedazzling, she's focused on what she's making instead of scrolling through her phone",
+  "firstRetrievedAt": "2026-10-04T23:58:00Z",
+  "firstSeenRunId": "run-hunt-aesthetics-20261004-4",
+  "id": "bedazzle-everything-gem-maxxing~e0447608",
+  "intent": "utility",
+  "kind": "observed",
+  "lastSeenRunId": "run-hunt-aesthetics-20261004-4",
+  "publishedAt": null,
+  "publisher": "Gulf News",
+  "retrievedAt": "2026-10-04T23:58:00Z",
+  "signalType": "press",
+  "syndicationOf": null,
+  "title": "Why everyone is bedazzling everything right now — and logging off while they do it",
+  "url": "https://gulfnews.com/lifestyle/why-everyone-is-bedazzling-everything-right-now-and-logging-off-while-they-do-it-1.500602107"
+}

@@ -1,0 +1,23 @@
+{
+  "action": "prepare",
+  "analystAction": "prepare",
+  "candidateId": "pet-life-tally-everything-my-pet-was-there-for",
+  "competition": "moderate",
+  "confidence": 44,
+  "id": "pet-life-tally-everything-my-pet-was-there-for~run-hunt-foodhome-20261004-4",
+  "independentSources": 5,
+  "purchaseSignals": 0,
+  "runId": "run-hunt-foodhome-20261004-4",
+  "score": 51,
+  "stage": "early_growth",
+  "takenAt": "2026-10-05T00:01:02Z",
+  "weightsUsed": {
+    "buyerIntent": 20,
+    "durability": 15,
+    "economics": 10,
+    "productFit": 15,
+    "supplyGap": 15,
+    "timing": 25
+  },
+  "windowEstimate": "Through the 2026 holiday gift season"
+}

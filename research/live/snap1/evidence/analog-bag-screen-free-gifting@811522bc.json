@@ -1,0 +1,19 @@
+{
+  "accessMethod": "web_search_result",
+  "candidateId": "analog-bag-screen-free-gifting",
+  "claim": "Citing PwC's 2026 Holiday Outlook, 78% of Gen Z (versus 64% of all consumers) are interested in screen-free gifts this holiday season.",
+  "excerpt": "Summary: 78% of Gen Z interested in screen-free gifts such as puzzles, art supplies and gift cards; 81% of 1,006 Gen Z respondents prioritize in-person holiday activities; 63% say a shared meal matters more than a present; Gen Z gift spending projected down 9% to $533 from $586. WebFetch was blocked.",
+  "firstRetrievedAt": "2026-10-04T20:59:17Z",
+  "firstSeenRunId": "run-2026-10-04-movements",
+  "id": "analog-bag-screen-free-gifting~811522bc",
+  "intent": "purchase",
+  "kind": "observed",
+  "lastSeenRunId": "run-2026-10-04-movements",
+  "publishedAt": "2026-09-16",
+  "publisher": "Fortune",
+  "retrievedAt": "2026-10-04T20:59:17Z",
+  "signalType": "press",
+  "syndicationOf": "analog-bag-screen-free-gifting~b6565b2d",
+  "title": "gen z analog gifts christmas holidays (Fortune)",
+  "url": "https://fortune.com/2026/09/16/gen-z-analog-gifts-christmas-holidays/"
+}

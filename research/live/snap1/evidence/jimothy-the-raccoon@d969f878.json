@@ -1,0 +1,19 @@
+{
+  "accessMethod": "web_search_result",
+  "candidateId": "jimothy-the-raccoon",
+  "claim": "National politics/media outlet coverage hints at a TV angle (details not visible).",
+  "excerpt": "Headline only; also carried by WGN.",
+  "firstRetrievedAt": "2026-10-04T20:57:55Z",
+  "firstSeenRunId": "run-2026-10-04-memes",
+  "id": "jimothy-the-raccoon~d969f878",
+  "intent": "curiosity",
+  "kind": "observed",
+  "lastSeenRunId": "run-2026-10-04-memes",
+  "publishedAt": null,
+  "publisher": "The Hill",
+  "retrievedAt": "2026-10-04T20:57:55Z",
+  "signalType": "press",
+  "syndicationOf": null,
+  "title": "Who is Jimothy, the short-spined raccoon taking over social media (and maybe your TV)",
+  "url": "https://thehill.com/media/5983866-who-is-jimothy-the-short-spined-raccoon-taking-over-social-media-and-maybe-your-tv/"
+}

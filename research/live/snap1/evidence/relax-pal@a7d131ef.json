@@ -1,0 +1,19 @@
+{
+  "accessMethod": "web_search_result",
+  "candidateId": "relax-pal",
+  "claim": "A web search for 'relax pal' shirts/stickers returned only generic 'relax' products, no listings tied to the meme (search-engine check only, not a marketplace count)",
+  "excerpt": "the search results don't show a specific product line called \"Relax Pal\" merchandise",
+  "firstRetrievedAt": "2026-10-05T00:00:47Z",
+  "firstSeenRunId": "run-hunt-memes-20261004-1",
+  "id": "relax-pal~a7d131ef",
+  "intent": "none",
+  "kind": "inference",
+  "lastSeenRunId": "run-hunt-memes-20261004-1",
+  "publishedAt": null,
+  "publisher": "web search (Etsy, eBay, Faire results)",
+  "retrievedAt": "2026-10-05T00:00:47Z",
+  "signalType": "marketplace",
+  "syndicationOf": null,
+  "title": "Search for 'relax pal' shirt/sticker merch",
+  "url": "https://www.etsy.com/au/listing/1359818208/t-shirt-sticker-pack-bundle"
+}

@@ -1,0 +1,19 @@
+{
+  "accessMethod": "web_search_result",
+  "candidateId": "poetcore",
+  "claim": "Regional edition of the same FashionUnited article.",
+  "excerpt": "Same article as pc1.",
+  "firstRetrievedAt": "2026-10-04T20:56:14Z",
+  "firstSeenRunId": "run-2026-10-04-aesthetics",
+  "id": "poetcore~1d0b064b",
+  "intent": "curiosity",
+  "kind": "observed",
+  "lastSeenRunId": "run-2026-10-04-aesthetics",
+  "publishedAt": "2025-12-10",
+  "publisher": "FashionUnited UK",
+  "retrievedAt": "2026-10-04T20:56:14Z",
+  "signalType": "press",
+  "syndicationOf": "poetcore~129dde2d",
+  "title": "Poetcore, opera aesthetic and brooches: Key style predictions from Pinterest for 2026",
+  "url": "https://fashionunited.uk/news/fashion/poetcore-opera-aesthetic-and-brooches-key-style-predictions-from-pinterest-for-2026/2025121085277"
+}

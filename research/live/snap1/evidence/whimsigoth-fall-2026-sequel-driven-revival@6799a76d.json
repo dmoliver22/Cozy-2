@@ -1,0 +1,19 @@
+{
+  "accessMethod": "web_search_result",
+  "candidateId": "whimsigoth-fall-2026-sequel-driven-revival",
+  "claim": "Reviews are mixed, so the film's own staying power may be limited",
+  "excerpt": "Lackluster Sequel Can't Recreate the Magic",
+  "firstRetrievedAt": "2026-10-04T23:58:00Z",
+  "firstSeenRunId": "run-hunt-aesthetics-20261004-3",
+  "id": "whimsigoth-fall-2026-sequel-driven-revival~6799a76d",
+  "intent": "criticism",
+  "kind": "observed",
+  "lastSeenRunId": "run-hunt-aesthetics-20261004-3",
+  "publishedAt": "2026-09-22",
+  "publisher": "The Harvard Crimson",
+  "retrievedAt": "2026-10-04T23:58:00Z",
+  "signalType": "press",
+  "syndicationOf": null,
+  "title": "'Practical Magic 2' Review: Lackluster Sequel Can't Recreate the Magic",
+  "url": "https://www.thecrimson.com/article/2026/9/22/practical-magic-2-review/"
+}

@@ -1,0 +1,19 @@
+{
+  "accessMethod": "web_search_result",
+  "candidateId": "sunday-butterfly-tidying-method",
+  "claim": "Independent home blog explains and adopts the method",
+  "excerpt": "Each closed drawer is a complete win, not a step toward some far-off finish line.",
+  "firstRetrievedAt": "2026-10-05T00:01:02Z",
+  "firstSeenRunId": "run-hunt-foodhome-20261004-3",
+  "id": "sunday-butterfly-tidying-method~cb561221",
+  "intent": "utility",
+  "kind": "observed",
+  "lastSeenRunId": "run-hunt-foodhome-20261004-3",
+  "publishedAt": null,
+  "publisher": "The Simplicity Habit",
+  "retrievedAt": "2026-10-05T00:01:02Z",
+  "signalType": "creator",
+  "syndicationOf": null,
+  "title": "How the Proven 'Sunday Butterfly Method' Turns Overwhelming Cleaning Into Simple Weekly Wins",
+  "url": "https://thesimplicityhabit.com/sunday-butterfly-method/"
+}

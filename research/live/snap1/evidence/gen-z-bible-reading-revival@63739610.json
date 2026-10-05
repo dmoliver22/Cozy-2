@@ -1,0 +1,19 @@
+{
+  "accessMethod": "web_search_result",
+  "candidateId": "gen-z-bible-reading-revival",
+  "claim": "Youth media in April 2026 reported first-time Bible buying among Gen Z.",
+  "excerpt": "Title and date seen.",
+  "firstRetrievedAt": "2026-10-04T20:59:17Z",
+  "firstSeenRunId": "run-2026-10-04-movements",
+  "id": "gen-z-bible-reading-revival~63739610",
+  "intent": "purchase",
+  "kind": "observed",
+  "lastSeenRunId": "run-2026-10-04-movements",
+  "publishedAt": "2026-04-10",
+  "publisher": "Shoutout UK",
+  "retrievedAt": "2026-10-04T20:59:17Z",
+  "signalType": "press",
+  "syndicationOf": null,
+  "title": "'I bought my first Bible.' (What's driving Gen Z towards faith)",
+  "url": "https://www.shoutoutuk.org/2026/04/10/whats-driving-gen-z-towards-faith/"
+}

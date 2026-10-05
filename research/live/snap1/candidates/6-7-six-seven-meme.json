@@ -1,0 +1,143 @@
+{
+  "actionRationale": "Peak attention has passed, competition is high, and I found no purchase-intent evidence. Reconsider only if trend data shows a rebound.",
+  "adopters": {
+    "evidence": [
+      "6-7-six-seven-meme~b96a2316",
+      "6-7-six-seven-meme~3c9cc937",
+      "6-7-six-seven-meme~c4bf3208"
+    ],
+    "text": "Mainly children, teens and Gen Z, with heavy use in schools. Teachers and schools reacted, and some banned it. Brands such as Buc-ee's and Southwest Airlines joined in."
+  },
+  "aliases": [
+    "67",
+    "six seven",
+    "Doot Doot (6 7)"
+  ],
+  "category": "meme",
+  "channels": [],
+  "competition": {
+    "evidence": [
+      "6-7-six-seven-meme~6c4d0f2a",
+      "6-7-six-seven-meme~4baf292d"
+    ],
+    "level": "high",
+    "text": "Etsy has many 6-7 listings, including PNG design bundles, sweatshirts and embroidered shirts. Walmart and Buc-ee's also carry products. I could not count listings."
+  },
+  "editorialNotes": [],
+  "effortMin": null,
+  "firstSeenAt": "2026-10-04T22:33:14.817Z",
+  "formats": [],
+  "gap": {
+    "isInference": true,
+    "text": "No clear gap is visible. Existing listings already cover tees, PNG bundles and gifts. Any remaining angle, such as teacher classroom humor printables, would target a fading trend. This is an inference, not an observation."
+  },
+  "id": "6-7-six-seven-meme",
+  "jobId": "analyze-muueb7q2-x8paqz",
+  "language": "en",
+  "lastRunId": "run-analyze-muueb7q2-x8paqz",
+  "lens": "Analyze: 6-7 meme",
+  "name": "6-7 (Six Seven) meme",
+  "origin": {
+    "date": "2024-12-01",
+    "evidence": [
+      "6-7-six-seven-meme~9b398f08",
+      "6-7-six-seven-meme~2eea8d1b"
+    ],
+    "text": "Rapper Skrilla released 'Doot Doot' on 2024-12-01, with the line '6-7' reportedly referring to 67th Street in Philadelphia. TikTok edits of LaMelo Ball (listed at 6 ft 7 in) popularized it through 2025."
+  },
+  "productDemand": {
+    "evidence": [
+      "6-7-six-seven-meme~6c4d0f2a",
+      "6-7-six-seven-meme~4baf292d"
+    ],
+    "text": "Many 6-7 products are listed on Etsy, and Buc-ee's sells a 67 T-shirt. These are supply, not demand. I found no sales figures, sell-outs or purchase-intent surveys."
+  },
+  "products": [],
+  "qualityFlags": [],
+  "recommendedAction": "pass",
+  "region": "US",
+  "researchedAt": "2026-10-04T22:33:00Z",
+  "rights": {
+    "note": "Skrilla's song and lyrics, LaMelo Ball's name and likeness, and brand marks (e.g. Buc-ee's) should be avoided. The bare number is generic, but I did not find trademark status either way.",
+    "risk": "medium"
+  },
+  "runIds": [
+    "run-analyze-muueb7q2-x8paqz"
+  ],
+  "scores": {
+    "buyerIntent": {
+      "basis": "qualitative",
+      "rationale": "Brand merch exists but no sales or purchase-intent evidence was found.",
+      "score": 1
+    },
+    "durability": {
+      "basis": "reported",
+      "rationale": "Described as declining; brainrot memes are typically short-lived (inference).",
+      "score": 1
+    },
+    "economics": {
+      "basis": "qualitative",
+      "rationale": "Low cost to produce, but high competition and a shrinking window.",
+      "score": 2
+    },
+    "productFit": {
+      "basis": "qualitative",
+      "rationale": "A text-based meme suits tees, stickers and digital PNG bundles, and each is quick to make.",
+      "score": 3
+    },
+    "supplyGap": {
+      "basis": "qualitative",
+      "rationale": "Etsy and big retailers already supply the obvious products.",
+      "score": 1
+    },
+    "timing": {
+      "basis": "reported",
+      "rationale": "Reports of decline in 2026 after the late-2025 peak.",
+      "score": 1
+    }
+  },
+  "source": "research",
+  "spread": {
+    "evidence": [
+      "6-7-six-seven-meme~2eea8d1b",
+      "6-7-six-seven-meme~b96a2316",
+      "6-7-six-seven-meme~3c9cc937",
+      "6-7-six-seven-meme~c4bf3208"
+    ],
+    "text": "It spread well beyond its source: sports edits, then school culture, then brands and dictionaries. Searches reportedly rose sixfold by June 2025."
+  },
+  "summary": "A nonsensical Gen Z/Gen Alpha catchphrase and hand gesture from Skrilla's 'Doot Doot (6 7)' and LaMelo Ball edits, named Dictionary.com's 2025 Word of the Year and now reported to be declining.",
+  "topicKeys": [
+    "phrase:6 7 six seven meme",
+    "phrase:67",
+    "phrase:six seven",
+    "phrase:doot doot 6 7"
+  ],
+  "trajectory": {
+    "evidence": [
+      "6-7-six-seven-meme~b96a2316",
+      "6-7-six-seven-meme~4a00af15",
+      "6-7-six-seven-meme~6d1fdd06"
+    ],
+    "stage": "declining",
+    "text": "Dictionary.com named it Word of the Year in late 2025, which marks the peak of mainstream attention. 2026 snippets say it is 'in a decline in popularity' and has become 'no longer trendy'. One snippet says it is still going strong among younger kids, so evidence is mixed. I could not read the pages or any trend data."
+  },
+  "unresolved": [
+    "No trend data (Google Trends, TikTok) read",
+    "No sales evidence",
+    "Trademark status not found",
+    "Decline sources were snippets only"
+  ],
+  "what": "'6-7' is a meaningless, ironic interjection, often paired with a shrug-like hand gesture. It is used for 'so-so' or 'maybe' and in jokes such as scoring 67% on an exam. It spread from basketball edits to school playgrounds and mainstream brands. Dictionary.com classed it as brainrot.",
+  "window": {
+    "endEstimate": null,
+    "estimate": null,
+    "invalidators": [
+      "A new viral revival or a related event, such as a sports moment or brand campaign",
+      "Trend data showing renewed growth"
+    ],
+    "reasoning": "Reported decline in 2026 and a POD delivery time of 1-2 weeks plus weeks for a new listing to be discovered leave little time to earn from it. I cannot give a dated estimate from the available evidence.",
+    "seasonality": "School-year humor; no fixed deadline found.",
+    "sellBy": null
+  }
+}

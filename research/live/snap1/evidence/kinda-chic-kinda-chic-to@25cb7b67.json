@@ -1,0 +1,19 @@
+{
+  "accessMethod": "web_search_result",
+  "candidateId": "kinda-chic-kinda-chic-to",
+  "claim": "Optical businesses adopted the format in their marketing (trade-press coverage).",
+  "excerpt": "Trade publication on the optical industry joining the trend.",
+  "firstRetrievedAt": "2026-10-04T20:57:55Z",
+  "firstSeenRunId": "run-2026-10-04-memes",
+  "id": "kinda-chic-kinda-chic-to~25cb7b67",
+  "intent": "utility",
+  "kind": "observed",
+  "lastSeenRunId": "run-2026-10-04-memes",
+  "publishedAt": null,
+  "publisher": "Vision Monday",
+  "retrievedAt": "2026-10-04T20:57:55Z",
+  "signalType": "press",
+  "syndicationOf": null,
+  "title": "its kinda chic optical joins in on the newest social media trend 3",
+  "url": "https://www.visionmonday.com/scene-and-heard/discover/article/its-kinda-chic-optical-joins-in-on-the-newest-social-media-trend-3/"
+}

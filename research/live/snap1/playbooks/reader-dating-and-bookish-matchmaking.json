@@ -1,0 +1,149 @@
+{
+  "candidateId": "reader-dating-and-bookish-matchmaking",
+  "id": "reader-dating-and-bookish-matchmaking",
+  "products": [
+    {
+      "assembly": [
+        "Run the super prompt and keep each section as its own Canva page set.",
+        "Build table tents as US Letter landscape with a center fold line; build question cards on an 8-up 3.5x2.5 in grid with crop marks.",
+        "Apply the palette and font pairing as a brand kit; check text contrast on Dusty Rose.",
+        "Duplicate and adapt everything for A4.",
+        "Make the friendship edition as separate pages so hosts can print one version.",
+        "Export PDF Print at 300 DPI with crop marks for the card sheets; flatten everything else.",
+        "Package romance and friendship PDFs plus a one-page printing guide; test-print one card sheet."
+      ],
+      "asymmetry": {
+        "badBetIf": "Venues prefer free templates and the reader-dating buzz stays inside one app's launch news",
+        "downside": "About 12 hours, no cash",
+        "upside": "Evergreen event use, a Valentine's season spike, venues can buy repeatedly or recommend it"
+      },
+      "costs": {
+        "baseCost": null,
+        "basis": "estimate: digital product, Etsy fees only",
+        "item": null,
+        "pages": null,
+        "provider": null,
+        "shipping": null,
+        "testBudget": 0,
+        "testBudgetNote": "Use direct outreach to venues instead of ads at first"
+      },
+      "extensions": [
+        "Valentine's 'Blind Date with a Book' edition",
+        "Book club mixer kit",
+        "Reader-type art prints and stickers (original types only)"
+      ],
+      "imagePrompts": [
+        {
+          "prompt": "Cozy bookstore table set for a speed-dating event: two chairs facing each other, a small table tent card, a stack of blank-spined books with no titles, warm lamp light, palette #6E2A2F #1F2A44 #F4ECDD #D8A7A1 #B08D57, text on the table tent reads 'Book Lovers Night', 3:2 aspect ratio, painterly editorial illustration style. No logos, no real people, no trademarked characters, no watermarks.",
+          "purpose": "Cover and mockup background",
+          "tool": "Ideogram or Midjourney"
+        },
+        {
+          "prompt": "Vertical flat-lay of printable cards and a scorecard on parchment #F4ECDD with oxblood #6E2A2F headings, a brass #B08D57 paperclip, headline 'Host a Book Lovers Speed-Dating Night' in serif type, 2:3 aspect ratio. No logos, no real people, no trademarked characters, no watermarks.",
+          "purpose": "Pinterest pin",
+          "tool": "Ideogram"
+        }
+      ],
+      "index": 0,
+      "listingPrompt": "Write an Etsy listing for a printable digital download 'Book Lovers Speed-Dating Night Kit'. Title under 140 characters starting with 'Book Speed Dating Printable Kit'. Exactly 13 tags of 20 characters or fewer (e.g. book speed dating, book club party, library event, bookstore event, singles mixer). Description: what's included (run-of-show, 6 genre table tents, 48 question cards, reader-type icebreaker, scorecards, match slips, name tags, signs, friendship edition), US Letter and A4 PDFs, instant download, nothing ships, and personal plus single-venue event-use license. FAQ: printing, card cutting, friendship vs romance version, group size, editing. Do not use any app, publisher, author or book names or trademarks, and make no promises about finding a match.",
+      "marketing": {
+        "channels": [
+          {
+            "cadence": "10 venues every 5 days",
+            "channel": "Direct outreach to venues",
+            "tactic": "Free scorecard plus link to the full kit"
+          },
+          {
+            "cadence": "4 pins per week",
+            "channel": "Pinterest",
+            "tactic": "Event-planning pins"
+          }
+        ],
+        "hooks": [
+          "Date someone who reads, IRL",
+          "Your bookstore's easiest sold-out event",
+          "Six genres, six minutes, one match"
+        ],
+        "keywords": [
+          "book speed dating",
+          "book club party ideas",
+          "library event ideas",
+          "bookish singles night",
+          "book lovers mixer"
+        ],
+        "launchPlan": [
+          {
+            "action": "Publish the Etsy and Payhip listings",
+            "day": "Day 0"
+          },
+          {
+            "action": "Post 4 Pinterest pins (kit overview, question cards, reader types, scorecard)",
+            "day": "Day 1"
+          },
+          {
+            "action": "Email or DM 10 indie bookstores and libraries that already list book clubs, offering the free scorecard",
+            "day": "Day 2"
+          },
+          {
+            "action": "Instagram carousel: 'how to host a book lovers night in 90 minutes'",
+            "day": "Day 4"
+          },
+          {
+            "action": "Contact 10 more venues; post in book-club organizer groups where rules allow",
+            "day": "Day 7"
+          },
+          {
+            "action": "Short video flipping through the kit",
+            "day": "Day 10"
+          },
+          {
+            "action": "Review replies, views and sales; add a holiday 'Galentine's/Valentine's' variant if traction",
+            "day": "Day 14"
+          },
+          {
+            "action": "Go/pivot/stop check",
+            "day": "Day 21"
+          }
+        ],
+        "positioning": "Everything a bookstore, library or book club needs to run a readers' speed-dating or friend-dating night, ready to print."
+      },
+      "platforms": [
+        {
+          "name": "Etsy",
+          "role": "primary",
+          "why": "Party and event printables are searched there"
+        },
+        {
+          "name": "Pinterest",
+          "role": "traffic",
+          "why": "Event-planning pins reach organizers"
+        },
+        {
+          "name": "Payhip",
+          "role": "secondary",
+          "why": "Direct link for outreach emails to venues"
+        }
+      ],
+      "pricing": {
+        "basis": "estimate",
+        "currency": "USD",
+        "high": 18,
+        "low": 8,
+        "rationale": "Event kits with many components sell above single printables; organizers value the time saved.",
+        "recommended": 12
+      },
+      "productName": "Book Lovers Speed-Dating Night Kit",
+      "risks": [
+        "Demand evidence is for events existing, not for buying kits",
+        "Press attention centers on one app, so the spark may not spread",
+        "Free question lists are widely available"
+      ],
+      "source": "worker",
+      "superPrompt": "You are an experienced bookstore events manager and party-game writer. Write the full content of a printable kit called 'Book Lovers Speed-Dating Night Kit'. BUYER AND JOB: indie bookstore and library event coordinators, book club organizers and friends hosting a readers' singles night or friend-matching night. The kit lets them run a 90-minute event with no prep beyond printing: every round, card and sign is ready. DELIVERABLE SPEC (US Letter 8.5x11 in and A4; card sheets 8 cards per page at 3.5x2.5 in with crop marks): 1) Host run-of-show: a minute-by-minute 90-minute plan (check-in, welcome script of about 120 words, 6 rounds of 6 minutes, rotation instructions, break, match-slip collection, closing script) plus a setup checklist and a romance/friendship toggle. 2) Six genre rounds (Romance, Mystery & Thriller, Fantasy & Sci-Fi, Literary & Classics, Nonfiction & Memoir, Wildcard), each a table tent with the round name and 4 original conversation prompts. 3) 48 question cards in 4 decks (Light, Bookish, Deep, Silly), 12 each; every question original, inclusive and non-sexual. 4) 'What kind of reader are you?' icebreaker: 8 original reader types (e.g. The Annotator, The Midnight Page-Turner) with a 2-line description each and a 6-question pick-one sheet. Fun only, with no claims about compatibility. 5) Scorecard per guest: name tag number, 10 rows (seat number, 'favorite book they mentioned', yes/maybe/friend tick boxes). 6) Match slip and host matching sheet; privacy note to use first names and contact details only with mutual yes. 7) Name tags (8 per page) with 'Currently reading:' line. 8) Signs: welcome sign, 'Phones down, books up' table card, rotation arrows, photo-consent note. 9) Friendship edition swaps: replacement text for the welcome script, scorecard ticks and closing script. STYLE: cozy library meets modern stationery. Canva font pairings: (1) Cormorant Garamond headings + Lato body; (2) Libre Baskerville + Work Sans. Palette: Oxblood #6E2A2F, Ink Navy #1F2A44, Parchment #F4ECDD, Dusty Rose #D8A7A1, Brass #B08D57. CONTENT RULES: all prompts and reader types original; do not name real books, authors, apps, publishers or companies; inclusive of all genders and orientations (use 'guests'); no alcohol-required activities; no claims that the event or quiz predicts compatibility; reading level grade 7-9. DIFFERENTIATION: a complete run-of-show plus printables, with genre rounds and a friendship edition, instead of a single question list. OUTPUT FORMAT: section by section, headed 'SECTION n - name', giving every text element with layout notes in brackets, then a print guide (paper weight, cut lines). SELF-CHECK before answering: 6 rounds x 4 prompts present; 48 unique questions with no duplicates; 8 reader types; no real book, author or brand names; inclusive language throughout; the run-of-show adds up to 90 minutes.",
+      "themeKey": "Book Lovers Speed-Dating Night host kit: genre round cards,"
+    }
+  ],
+  "runId": "run-hunt-hobbies-20261004-2",
+  "source": "worker",
+  "writtenAt": "2026-10-05T00:00:55Z"
+}

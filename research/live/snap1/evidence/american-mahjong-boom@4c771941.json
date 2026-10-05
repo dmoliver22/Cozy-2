@@ -1,0 +1,19 @@
+{
+  "accessMethod": "web_search_result",
+  "candidateId": "american-mahjong-boom",
+  "claim": "Trade press reports manufacturers meeting rising demand for mahjong gifts (themed sets, pillows, ornaments) seen at summer markets.",
+  "excerpt": "Search summary: players requesting themed sets as gifts; manufacturers adding pillows, tile ornaments, decor; noticeable at summer markets.",
+  "firstRetrievedAt": "2026-10-04T20:53:53Z",
+  "firstSeenRunId": "run-2026-10-04-hobbies",
+  "id": "american-mahjong-boom~4c771941",
+  "intent": "purchase",
+  "kind": "observed",
+  "lastSeenRunId": "run-2026-10-04-hobbies",
+  "publishedAt": "2025-08-18",
+  "publisher": "Gifts & Decorative Accessories (trade press)",
+  "retrievedAt": "2026-10-04T20:53:53Z",
+  "signalType": "press",
+  "syndicationOf": null,
+  "title": "Mahjong mania: 15 gifts that appeal to new and old mahjong players",
+  "url": "https://www.giftsanddec.com/trending-gifts/product-trends/mahjong-mania-15-gifts-that-appeal-to-new-and-old-mahjong-players"
+}

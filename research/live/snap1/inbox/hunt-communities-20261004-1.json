@@ -1,0 +1,868 @@
+{
+  "createdAt": "2026-10-05T00:03:41Z",
+  "jobId": "hunt-communities-20261004",
+  "raw": {
+    "candidates": [
+      {
+        "actionRationale": "First spark with thin evidence and no demand data. Build the host kit and deck now (cheap, evergreen-ish) and list them before finals-week events. Spend no ads money until more campus clubs or venue chains appear.",
+        "adopters": {
+          "evidence": [
+            "e1",
+            "e2",
+            "e3",
+            "e8"
+          ],
+          "text": "College students and campus staff (RAs, libraries), Gen Z and young millennials in cities, and bars and venues that want younger patrons."
+        },
+        "aliases": [
+          "offline club",
+          "phone-free social",
+          "phone-free night",
+          "offline night",
+          "digital detox club"
+        ],
+        "category": "subculture",
+        "competition": {
+          "evidence": [
+            "e11"
+          ],
+          "level": "low",
+          "text": "Generic printable conversation-card decks exist on Etsy and Gumroad. In search results, no product was framed as a phone-free club host system (check-in tickets, stations, run-of-show). Etsy was not searched directly."
+        },
+        "evidence": [
+          {
+            "accessMethod": "web_search_result",
+            "claim": "US colleges and students are organizing screen-free zones and phone-free social events.",
+            "excerpt": "College leaders and students are organizing phone-free spaces to foster real-life connections.",
+            "id": "e1",
+            "intent": "utility",
+            "kind": "observed",
+            "publishedAt": "2026-05-06",
+            "publisher": "The Washington Post",
+            "retrievedAt": "2026-10-05T00:03:41Z",
+            "signalType": "press",
+            "syndicationOf": null,
+            "title": "How college students are learning to socialize without cellphones",
+            "url": "https://www.washingtonpost.com/education/2026/05/06/college-socializing-screen-free-zones/"
+          },
+          {
+            "accessMethod": "web_search_result",
+            "claim": "A student founded an Offline Club at Christopher Newport University, covered at the start of fall 2026 semester.",
+            "excerpt": "The Offline Club at Christopher Newport University, founded by student Emma Baumanis, gives students a fun way to connect and meet new friends.",
+            "id": "e2",
+            "intent": "utility",
+            "kind": "observed",
+            "publishedAt": "2026-09-03",
+            "publisher": "Christopher Newport University",
+            "retrievedAt": "2026-10-05T00:03:41Z",
+            "signalType": "community",
+            "syndicationOf": null,
+            "title": "No to Phones, Yes to IRL Connections",
+            "url": "https://cnu.edu/news/2026/09/03-busn-s26-baumanis/"
+          },
+          {
+            "accessMethod": "web_search_result",
+            "claim": "A campus Offline Club meets weekly at the University of Victoria (multiple fall event listings).",
+            "excerpt": "An Offline Club at the University of Victoria meets every Tuesday in the KULA Lounge, a tech-free space to meet new people with snacks provided.",
+            "id": "e3",
+            "intent": "utility",
+            "kind": "observed",
+            "publishedAt": null,
+            "publisher": "University of Victoria Libraries",
+            "retrievedAt": "2026-10-05T00:03:41Z",
+            "signalType": "community",
+            "syndicationOf": null,
+            "title": "Offline Club (University of Victoria library events)",
+            "url": "https://libcal.uvic.ca/event/3981741"
+          },
+          {
+            "accessMethod": "web_search_result",
+            "claim": "The Amsterdam-founded Offline Club runs phone-free events and lets people apply to open chapters in their own city.",
+            "excerpt": "People can apply to open up a club chapter in their own city.",
+            "id": "e4",
+            "intent": "none",
+            "kind": "observed",
+            "publishedAt": null,
+            "publisher": "The Offline Club",
+            "retrievedAt": "2026-10-05T00:03:41Z",
+            "signalType": "community",
+            "syndicationOf": null,
+            "title": "On a Mission to Reconnect People",
+            "url": "https://www.theoffline-club.com/our-mission"
+          },
+          {
+            "accessMethod": "web_search_result",
+            "claim": "Offline Club began in Amsterdam (first event Feb 2024), expanded to Milan, Berlin, London, Paris, Barcelona and has 500k+ followers.",
+            "excerpt": "Founded by a Dutch startup... first event in February 2024 in Amsterdam... expanded to Milan, Berlin, London, Paris, and Barcelona, collecting more than half a million followers.",
+            "id": "e5",
+            "intent": "curiosity",
+            "kind": "observed",
+            "publishedAt": null,
+            "publisher": "9colonne",
+            "retrievedAt": "2026-10-05T00:03:41Z",
+            "signalType": "press",
+            "syndicationOf": null,
+            "title": "Escape the web: offline clubs on the rise for those seeking a digital detox",
+            "url": "https://www.9colonne.it/550946/escape-the-web-offline-clubs-on-the-rise-for-those-seeking-a-digital-detox"
+          },
+          {
+            "accessMethod": "web_search_result",
+            "claim": "US lifestyle press is covering phone-free Friday socials (reading, puzzles, art).",
+            "excerpt": "A phone-free Friday night social where people read or nap, then do puzzles and art? Sign me up.",
+            "id": "e6",
+            "intent": "curiosity",
+            "kind": "observed",
+            "publishedAt": null,
+            "publisher": "Yahoo Lifestyle",
+            "retrievedAt": "2026-10-05T00:03:41Z",
+            "signalType": "press",
+            "syndicationOf": null,
+            "title": "A phone-free Friday night social where people read or nap, then do puzzles and art? Sign me up.",
+            "url": "https://www.yahoo.com/lifestyle/articles/phone-free-friday-night-social-194812554.html"
+          },
+          {
+            "accessMethod": "web_search_result",
+            "claim": "Phone-free club nights and parties are framed as a Gen Z nightlife trend.",
+            "excerpt": "The most exclusive guest list in town now comes with one simple rule: no phones allowed.",
+            "id": "e7",
+            "intent": "curiosity",
+            "kind": "observed",
+            "publishedAt": null,
+            "publisher": "Young Hollywood",
+            "retrievedAt": "2026-10-05T00:03:41Z",
+            "signalType": "press",
+            "syndicationOf": null,
+            "title": "The Rise of Phone-Free Parties and Offline Club Nights",
+            "url": "https://younghollywood.com/scene/phone-free-parties-offline-club-night-trend.html"
+          },
+          {
+            "accessMethod": "web_search_result",
+            "claim": "Bars and restaurants adopting phone-free environments to attract younger patrons.",
+            "excerpt": "The number of bars and restaurants establishing a phone-free environment is growing, appealing to younger patrons.",
+            "id": "e8",
+            "intent": "curiosity",
+            "kind": "observed",
+            "publishedAt": "2026-04-08",
+            "publisher": "Fortune",
+            "retrievedAt": "2026-10-05T00:03:41Z",
+            "signalType": "press",
+            "syndicationOf": null,
+            "title": "Gen Z phone ban at restaurants and bars",
+            "url": "https://fortune.com/2026/04/08/gen-z-phone-ban-restaurants-bars"
+          },
+          {
+            "accessMethod": "web_search_result",
+            "claim": "Fortune frames the analog/offline economy as at least a $5B opportunity, including phone-free clubs.",
+            "excerpt": "Analog and pre-smartphone experiences — digital detox cabins, phone-free clubs, dumb phones — are scaling fast.",
+            "id": "e9",
+            "intent": "none",
+            "kind": "observed",
+            "publishedAt": "2026-04-01",
+            "publisher": "Fortune",
+            "retrievedAt": "2026-10-05T00:03:41Z",
+            "signalType": "press",
+            "syndicationOf": null,
+            "title": "Gen Z is engineering an analog future — and it's at least a $5 billion opportunity",
+            "url": "https://fortune.com/2026/04/01/gen-z-analog-economy-5-billion-market-nostalgia/"
+          },
+          {
+            "accessMethod": "web_search_result",
+            "claim": "Independent newsletter claims phone-free nightlife is up 567% since 2024 (source of the figure not given).",
+            "excerpt": "Phone free nightlife is up 567% since 2024.",
+            "id": "e10",
+            "intent": "curiosity",
+            "kind": "observed",
+            "publishedAt": null,
+            "publisher": "Logging Off Club (Substack)",
+            "retrievedAt": "2026-10-05T00:03:41Z",
+            "signalType": "creator",
+            "syndicationOf": null,
+            "title": "Offline is the new online",
+            "url": "https://loggingoffclub.substack.com/p/offline-is-the-new-online"
+          },
+          {
+            "accessMethod": "web_search_result",
+            "claim": "Generic printable conversation cards exist on Etsy; none surfaced framed as an offline-club host kit.",
+            "excerpt": "200-card set with easy-to-download, low-ink options covering basic, classic, funny and deep questions.",
+            "id": "e11",
+            "intent": "none",
+            "kind": "observed",
+            "publishedAt": null,
+            "publisher": "Etsy",
+            "retrievedAt": "2026-10-05T00:03:41Z",
+            "signalType": "marketplace",
+            "syndicationOf": null,
+            "title": "Printable conversation starter cards (Etsy listing)",
+            "url": "https://www.etsy.com/listing/1413500207"
+          },
+          {
+            "accessMethod": "web_search_result",
+            "claim": "Earlier first-person press coverage of Offline Club events (phones checked at the door).",
+            "excerpt": "I went to The Offline Club, a new event series where phones are banned.",
+            "id": "e12",
+            "intent": "curiosity",
+            "kind": "observed",
+            "publishedAt": null,
+            "publisher": "Dazed",
+            "retrievedAt": "2026-10-05T00:03:41Z",
+            "signalType": "press",
+            "syndicationOf": null,
+            "title": "I went to The Offline Club, a new event series where phones are banned",
+            "url": "https://www.dazeddigital.com/life-culture/article/66400/1/the-offline-club-event-series-phones-banned-smartphones-iphones-digital-detox"
+          }
+        ],
+        "gap": {
+          "isInference": true,
+          "text": "A complete 'host an offline night' kit for students and venues, plus a conversation deck written for strangers at phone-free events. Both are cheap to make and fit the campus semester rhythm (club fairs, finals-week de-stress nights, January restarts)."
+        },
+        "name": "Campus and city 'Offline Club' phone-free socials",
+        "observations": [
+          {
+            "asOf": "2026-10-04",
+            "evidence": "e5",
+            "isAbsolute": true,
+            "metric": "Offline Club social followers (all chapters)",
+            "note": "Reported by 9colonne as 'more than half a million'; publication date unknown; not independently verified.",
+            "unit": "followers",
+            "value": 500000
+          }
+        ],
+        "origin": {
+          "date": "2024-02-01",
+          "evidence": [
+            "e5",
+            "e1",
+            "e2"
+          ],
+          "text": "The Offline Club held its first event in Amsterdam in February 2024 and expanded to several European cities. Phone-free campus socials appear in US press by May 2026, and new student Offline Clubs were covered at the start of the fall 2026 semester."
+        },
+        "productDemand": {
+          "evidence": [
+            "e9",
+            "e2"
+          ],
+          "text": "No direct purchase evidence for host kits. Demand is inferred from organizers who need to run recurring events (utility). Fortune frames the analog economy as a $5B+ opportunity, but that is a framing, not sales of this product."
+        },
+        "products": [
+          {
+            "buyer": "College club officers, RAs, librarians and young adults starting a phone-free social",
+            "channels": [
+              "Etsy",
+              "Pinterest",
+              "TikTok",
+              "campus Facebook/Discord groups (check rules)"
+            ],
+            "continueIf": "3+ sales or 40+ favorites by Day 21",
+            "differentiation": "A complete host system rather than another generic conversation deck.",
+            "effort": "medium",
+            "effortHours": 12,
+            "evidence": [
+              "e2",
+              "e3",
+              "e1"
+            ],
+            "format": "bundle",
+            "fulfillment": "digital",
+            "leadTimeDays": 4,
+            "pivotIf": "Views but no sales: test a $4 single 'door sign + tickets' mini kit",
+            "playbook": {
+              "assembly": [
+                "Run the super prompt and paste each PAGE section into a Canva US Letter doc (8.5x11 in).",
+                "Apply font pairing A and the hex palette as Canva brand colors.",
+                "Build cut lines with dashed lines #B8B2A6 and test-print the ticket and card pages.",
+                "Duplicate the design and resize to A4 (Canva Resize), fixing any overflow.",
+                "Export both as PDF Print with crop marks off, 300 DPI.",
+                "Create a 1-page 'Read me' PDF with download and printing tips.",
+                "Make 5 listing images: cover, contents grid, ticket close-up, station cards, night plans."
+              ],
+              "asymmetry": {
+                "badBetIf": "Campus clubs stay rare and venues make their own materials; then it is just another party printable in a crowded category.",
+                "downside": "About 12 hours of work and $0.20 per listing; no inventory.",
+                "upside": "Zero marginal cost, evergreen anti-screen theme, bundle with the conversation deck; possible repeat buyers among campus organizations."
+              },
+              "costs": {
+                "baseCost": null,
+                "basis": "estimate: digital product, Etsy listing and transaction fees only",
+                "item": null,
+                "provider": null,
+                "shipping": null,
+                "testBudget": 0,
+                "testBudgetNote": "No ads during first-spark stage; organic Pinterest and TikTok only."
+              },
+              "extensions": [
+                "Finals-week quiet study night add-on",
+                "Library edition with book-swap station",
+                "Holiday offline party edition",
+                "Canva-editable template version at a higher price"
+              ],
+              "imagePrompts": [
+                {
+                  "prompt": "Flat-lay illustration of a cozy phone-free social table: open paperback, jigsaw pieces, a journal, a basket holding smartphones face-down with numbered paper tickets, warm lamp light. Muted risograph style. Colors #F6F1E7 background, #5B6B4E, #C46A4A, #F2D27A accents, #2B2A28 lines. Render text 'OFFLINE NIGHT HOST KIT' in bold serif at top. 4:5 aspect ratio, solid background. No logos, no real people, no trademarked characters, no watermarks.",
+                  "purpose": "Listing cover / hero image",
+                  "tool": "Ideogram or ChatGPT images"
+                },
+                {
+                  "prompt": "Minimal poster illustration of a sleeping smartphone wearing a tiny night cap on a pillow, hand-drawn line art, warm paper texture. Colors #F6F1E7, #2B2A28, #C46A4A. Text 'PHONES ASLEEP, PEOPLE AWAKE' in chunky serif. 8.5x11 portrait (3:4 approx), solid background. No logos, no real people, no trademarked characters, no watermarks.",
+                  "purpose": "Door sign poster art",
+                  "tool": "Ideogram"
+                }
+              ],
+              "listingPrompt": "Write an Etsy listing for a printable 'phone-free social host kit' for college clubs and young adults. Title under 140 characters starting with 'Phone Free Party Printable Kit'. Give 13 tags of 20 characters or fewer (e.g., phone free party, offline night, digital detox party, college club ideas). Description: what is included (page list), US Letter and A4 PDFs, instant download and printing tips, a note that the kit is not affiliated with any organization, and an FAQ (Can I print multiple copies for my club? Is it editable? What paper size?). Do not use the phrase 'The Offline Club' or any brand, app or trademarked term, and make no health claims.",
+              "marketing": {
+                "channels": [
+                  {
+                    "cadence": "5 pins/week",
+                    "channel": "Pinterest",
+                    "tactic": "Pins of each kit page with event keywords"
+                  },
+                  {
+                    "cadence": "3/week",
+                    "channel": "TikTok",
+                    "tactic": "Process and 'phone check-in' demo videos"
+                  },
+                  {
+                    "cadence": "once per group",
+                    "channel": "Campus groups",
+                    "tactic": "Share the free door sign where allowed"
+                  }
+                ],
+                "hooks": [
+                  "We locked our phones in a basket for 90 minutes. Here is the kit.",
+                  "How to start a phone-free club on campus this semester",
+                  "Phones asleep, people awake"
+                ],
+                "keywords": [
+                  "phone free party",
+                  "offline night ideas",
+                  "digital detox party",
+                  "college club event ideas",
+                  "screen free social"
+                ],
+                "launchPlan": [
+                  {
+                    "action": "Publish Etsy and Payhip listings with 5 images.",
+                    "day": "Day 0"
+                  },
+                  {
+                    "action": "Post 5 Pinterest pins (poster, tickets, stations) linking to Etsy.",
+                    "day": "Day 1"
+                  },
+                  {
+                    "action": "TikTok: 'How to host a phone-free night in 90 minutes' using the kit.",
+                    "day": "Day 2"
+                  },
+                  {
+                    "action": "Offer a free door-sign PDF on Payhip to collect emails.",
+                    "day": "Day 4"
+                  },
+                  {
+                    "action": "5 more pins; TikTok of the phone check-in system in use.",
+                    "day": "Day 7"
+                  },
+                  {
+                    "action": "Share in campus-life or RA-resource groups where self-promotion is allowed (check the community rules).",
+                    "day": "Day 10"
+                  },
+                  {
+                    "action": "Add a finals-week 'Quiet Study Offline Night' plan as a free update; repost.",
+                    "day": "Day 14"
+                  },
+                  {
+                    "action": "Go/pivot/stop check: 3+ sales or 40+ favorites continue; views but no sales pivot to $4 mini kit; under 150 views stop.",
+                    "day": "Day 21"
+                  }
+                ],
+                "positioning": "The easiest way to host a phone-free night on campus or with friends."
+              },
+              "platforms": [
+                {
+                  "name": "Etsy",
+                  "role": "primary",
+                  "why": "Buyers search for party printables there."
+                },
+                {
+                  "name": "Payhip",
+                  "role": "secondary",
+                  "why": "Direct link for campus groups and TikTok bio."
+                },
+                {
+                  "name": "Pinterest",
+                  "role": "traffic",
+                  "why": "Event and party ideas are found on Pinterest."
+                }
+              ],
+              "pricing": {
+                "basis": "estimate",
+                "currency": "USD",
+                "high": 16,
+                "low": 8,
+                "rationale": "Above generic card decks ($3-6) because it is a full event system; still an impulse buy for student clubs.",
+                "recommended": 12
+              },
+              "productName": "Offline Club Host Kit (Printable)",
+              "risks": [
+                "Thin first-spark evidence; demand may not appear",
+                "Confusion with an organization's name if wording is careless",
+                "Copycats can replicate quickly"
+              ],
+              "superPrompt": "You are a product designer and event host writing a complete, sellable printable kit called \"Offline Club Host Kit\" for [YOUR SHOP NAME].\n\nBUYER AND JOB: The buyer is a college student, RA, campus club officer, librarian or 20-something who wants to start or run a phone-free social (an \"offline club\" night: phones checked at the door, then reading, journaling, puzzles, crafts and conversation). They need everything to run the first four nights without designing anything: signs, a phone check-in system, prompts, activity stations and a simple way to grow attendance.\n\nDELIVERABLE (produce the full text for every page; US Letter 8.5x11 in and A4 versions share the same content):\n1. Cover page: kit title, one-line promise (\"Everything you need to host a phone-free night\"), contents list.\n2. Host guide (2 pages): what an offline night is, a 90-minute run-of-show (arrival and phone check-in 10 min, quiet hour 40 min, conversation and games 30 min, close 10 min), venue checklist, supplies list under $30, accessibility and inclusion notes (alternatives for people on call, caregivers, medical needs), and a line saying participation is voluntary.\n3. Door sign (poster, 1 page): \"Phones asleep, people awake\" style headline you write yourself, plus 3 house rules.\n4. Phone check-in tickets: 24 numbered tear-off tickets per page (2 matching halves each) and a check-in log sheet with columns: ticket #, first name, emergency contact OK? (Y/N).\n5. Station cards (6 half-page cards): Reading Nook, Journal Corner, Puzzle Table, Analog Art, Letter Writing, Board Games, each with 3 short instructions.\n6. Conversation prompt cards: 60 original prompts on 6 pages (10 per page, 2.5x3.5 in cards with cut lines), grouped as Light, Curious, Nostalgic, Deep, Funny, Future. No therapy or trauma prompts.\n7. Journal prompt strips: 30 original prompts.\n8. Event poster template (1 page) with blanks: date, time, place, what to bring; plus a 1080x1920 px story version layout description.\n9. Four themed night plans (1 page each): Cozy Reading Night, Puzzle and Pie, Letters to Future You, Analog Art Jam, each with supplies, run-of-show tweaks and 5 themed prompts.\n10. Feedback slip (4 per page) and a simple attendance tracker for 8 weeks.\n\nDESIGN: Canva font pairing A: \"Fraunces\" (headings) + \"Inter\" (body). Pairing B: \"DM Serif Display\" + \"Work Sans\". Palette: Paper #F6F1E7, Ink #2B2A28, Moss #5B6B4E, Clay #C46A4A, Butter #F2D27A. Generous margins (0.5 in), cut lines dashed #B8B2A6.\n\nRULES: All wording must be original. Do not use the name \"The Offline Club\" or any organization's name, logo or slogan; use generic phrases like \"offline night\" or \"phone-free social\". No health, mental-health or productivity claims (do not say it cures anxiety or addiction). No references to brands, apps or celebrities. Reading level: grade 7-9, warm and playful.\n\nDIFFERENTIATION: Existing Etsy conversation-card sets are generic dinner or date-night decks. This kit is a complete host system for a recurring phone-free club: check-in tickets, stations, run-of-show and four ready night plans.\n\nOUTPUT FORMAT: Write page by page with headings \"PAGE 1\", \"PAGE 2\", etc. For each page give: layout note, every line of text, and where cut lines go. End with a SELF-CHECK list confirming: (a) 60 conversation prompts and 30 journal prompts are present and none repeat, (b) no organization or brand names appear, (c) no health claims, (d) every page fits US Letter and A4 with 0.5 in margins, (e) inclusion note is present."
+            },
+            "rightsNote": "Never use 'The Offline Club' name or branding; generic wording only.",
+            "stopIf": "Under 150 listing views by Day 21",
+            "theme": "Offline Club Host Kit: printable signs, phone check-in tickets, station cards, 60 prompts and four night plans",
+            "validationTest": "List on Etsy and Payhip with 10 Pinterest pins and 3 TikTok 'how I run a phone-free night' videos over 21 days.",
+            "whyBuy": "Running a recurring phone-free night needs signage, a phone check-in system and activities; the kit removes all the design work."
+          },
+          {
+            "buyer": "Young adults hosting or attending phone-free socials, dinner parties and campus events",
+            "channels": [
+              "Etsy",
+              "Pinterest",
+              "TikTok"
+            ],
+            "continueIf": "Standalone 2+ sales or bundle lift by Day 21",
+            "differentiation": "Written for strangers at phone-free events, with game variations, rather than couples or family decks.",
+            "effort": "low",
+            "effortHours": 6,
+            "evidence": [
+              "e6",
+              "e7",
+              "e11"
+            ],
+            "format": "printable",
+            "fulfillment": "digital",
+            "leadTimeDays": 2,
+            "pivotIf": "Low standalone sales: use only as a bundle add-on",
+            "playbook": {
+              "assembly": [
+                "Generate the 120 prompts with the super prompt and check for duplicates.",
+                "Build one 2.5x3.5 in card template in Canva and use Bulk Create (CSV of suit, number, prompt).",
+                "Arrange 9 cards per page on US Letter with dashed cut lines; duplicate for A4.",
+                "Design the card back page for optional double-sided printing.",
+                "Export PDF Print, 300 DPI, both sizes.",
+                "Make 5 listing images including a sample-prompts image."
+              ],
+              "asymmetry": {
+                "badBetIf": "Sold only on its own in the crowded conversation-card category without the offline-event angle.",
+                "downside": "About 6 hours; no cash risk.",
+                "upside": "Bundle booster and standalone seller; reusable for many niches."
+              },
+              "costs": {
+                "baseCost": null,
+                "basis": "estimate: digital product, platform fees only",
+                "item": null,
+                "provider": null,
+                "shipping": null,
+                "testBudget": 0,
+                "testBudgetNote": "Organic only."
+              },
+              "extensions": [
+                "Holiday edition",
+                "Book-club edition",
+                "Couples phone-free date edition"
+              ],
+              "imagePrompts": [
+                {
+                  "prompt": "Repeating pattern card back: small hand-drawn speech bubbles, teacups and stars in a playful mid-century style, colors #FAF4E8, #C8673F, #8FA382, #2E2D2B. Centered text 'TABLE TALK' in rounded serif. 5:7 aspect ratio, solid background. No logos, no real people, no trademarked characters, no watermarks.",
+                  "purpose": "Card back design",
+                  "tool": "Ideogram or Midjourney"
+                },
+                {
+                  "prompt": "Top-down photo-style mockup of printed conversation cards fanned out on a wooden table beside a mug and a face-down blank phone, soft daylight, cream #FAF4E8 and terracotta #C8673F tones, no readable text on the phone. 4:5 aspect ratio. No logos, no real people, no trademarked characters, no watermarks.",
+                  "purpose": "Listing mockup",
+                  "tool": "ChatGPT images"
+                }
+              ],
+              "listingPrompt": "Write an Etsy listing for 120 printable conversation cards for phone-free parties and offline nights. Title under 140 characters starting 'Printable Conversation Cards for Phone Free Party'. 13 tags of 20 characters or fewer. Description: suits, card size, US Letter and A4 PDFs, printing tips, 3 game variations, FAQ (double-sided printing, cardstock, personal use). Forbid any brand, app, organization or trademarked terms and health claims.",
+              "marketing": {
+                "channels": [
+                  {
+                    "cadence": "3/week",
+                    "channel": "Pinterest",
+                    "tactic": "Prompt quote pins"
+                  },
+                  {
+                    "cadence": "2/week",
+                    "channel": "TikTok",
+                    "tactic": "Card-draw reaction videos"
+                  }
+                ],
+                "hooks": [
+                  "Our phones went in a basket. These cards came out.",
+                  "120 questions that make strangers talk"
+                ],
+                "keywords": [
+                  "conversation cards printable",
+                  "phone free party games",
+                  "icebreaker cards adults",
+                  "offline night activities"
+                ],
+                "launchPlan": [
+                  {
+                    "action": "List standalone and add to the host kit as a bundle.",
+                    "day": "Day 0"
+                  },
+                  {
+                    "action": "3 pins showing sample prompts.",
+                    "day": "Day 1"
+                  },
+                  {
+                    "action": "TikTok: friends draw 5 cards with phones in a basket.",
+                    "day": "Day 3"
+                  },
+                  {
+                    "action": "Post a free 12-prompt table tent on Pinterest.",
+                    "day": "Day 7"
+                  },
+                  {
+                    "action": "Carousel post: 'prompts that actually work with strangers'.",
+                    "day": "Day 10"
+                  },
+                  {
+                    "action": "Holiday-gathering angle pins.",
+                    "day": "Day 14"
+                  },
+                  {
+                    "action": "Go/pivot/stop check per the validation rules.",
+                    "day": "Day 21"
+                  }
+                ],
+                "positioning": "Conversation cards built for nights without phones."
+              },
+              "platforms": [
+                {
+                  "name": "Etsy",
+                  "role": "primary",
+                  "why": "Conversation-card searches happen there."
+                },
+                {
+                  "name": "Gumroad",
+                  "role": "secondary",
+                  "why": "Direct link and bundles."
+                },
+                {
+                  "name": "Pinterest",
+                  "role": "traffic",
+                  "why": "Party-idea discovery."
+                }
+              ],
+              "pricing": {
+                "basis": "estimate",
+                "currency": "USD",
+                "high": 8,
+                "low": 4,
+                "rationale": "In line with generic printable decks; differentiated by event focus.",
+                "recommended": 6
+              },
+              "productName": "Phone-Free Table Talk Conversation Cards",
+              "risks": [
+                "Crowded generic category",
+                "Prompts could feel generic if not edited"
+              ],
+              "superPrompt": "You are a game writer creating an original printable deck called \"Phone-Free Table Talk: 120 Conversation Cards for Offline Nights\" for [YOUR SHOP NAME].\n\nBUYER AND JOB: Young adults who host or attend phone-free socials, dinner parties and campus offline nights. They want cards that get strangers talking within minutes without being cringe or too intense.\n\nDELIVERABLE: 120 cards, poker size 2.5x3.5 in, 9 per US Letter page and 9 per A4 page with cut lines (14 pages each), plus a cover card, a how-to-play card and 3 game variations (Pass the Stack, Two Truths and a Prompt, Hot Seat Lite). Six suits of 20 cards: Warm-Up, Tiny Joys, Then and Now, What Would You Do, Hot Takes (harmless), Big Picture. Each card: suit name, a number, one prompt under 20 words. Also supply a single-page \"table tent\" version listing 12 favorite prompts.\n\nDESIGN: Canva pairing A: \"Recoleta\" alternative \"Fraunces\" + \"Inter\"; pairing B: \"Bricolage Grotesque\" + \"Nunito\". Palette: Cream #FAF4E8, Charcoal #2E2D2B, Sage #8FA382, Terracotta #C8673F, Sky #9DB7C9. Each suit gets one accent color.\n\nRULES: 100% original prompts. No brands, apps, celebrities, TV shows or organization names (do not use \"The Offline Club\"). No prompts about trauma, sex, politics, religion, money shaming or appearance. No claims about mental health. Inclusive: avoid assumptions about family, gender, relationships or ability to travel.\n\nDIFFERENTIATION: Written for groups of strangers at a phone-free event, with a quick game structure, instead of generic couple or family decks.\n\nOUTPUT: List cards by suit as \"SUIT – #: prompt\". Then the rules card text, the variations and the table tent. Finish with a SELF-CHECK: 120 unique prompts, all under 20 words, no banned topics, no names or brands, suits balanced at 20 each.\n\nPRINT PREP AND QUALITY: For every design also specify: the safe area (keep text at least 0.125 in inside the cut line), the minimum text height for legibility at 3 in (about 0.18 in cap height), whether the design works as a one-color version for vinyl, and a dark-surface variant (swap ink to cream). Limit each design to four palette colors so printing stays crisp. Give each design a short product title (under 60 characters) and a one-sentence description a buyer would understand without context.\n\nAUDIENCE TONE: Warm, in-group humor that a beginner understands; never mock outsiders, beginners or other generations. Avoid slang that will date within months unless it is the joke. Keep all phrases short (under 6 words where possible) so they read from a distance.\n\nMOCKUP AND LISTING SUPPORT: After the designs, propose 3 lifestyle mockup scenes (surface, props, lighting, colors) that show scale, and 5 short hook lines for a TikTok or Reel showing the stickers in use. Do not include real people's faces, brand logos or recognizable products in any scene."
+            },
+            "rightsNote": "Original prompts only; no organization names.",
+            "stopIf": "Fewer than 100 views by Day 21",
+            "theme": "Phone-Free Table Talk: 120 original conversation cards for strangers at offline nights",
+            "validationTest": "Bundle and standalone listings for 21 days; compare views and conversion with the host kit.",
+            "whyBuy": "Prompts make the first minutes without phones less awkward; cards are the core activity at these events."
+          }
+        ],
+        "recommendedAction": "prepare",
+        "rights": {
+          "note": "'The Offline Club' is an organization's name; never use it in product names, tags or designs. Use generic terms like 'offline night' and 'phone-free social'. Phone-pouch brands must not be referenced.",
+          "risk": "low"
+        },
+        "scores": {
+          "buyerIntent": {
+            "basis": "qualitative",
+            "rationale": "No purchase evidence; only utility need from organizers.",
+            "score": 1
+          },
+          "durability": {
+            "basis": "qualitative",
+            "rationale": "Anti-screen sentiment has lasted two-plus years; the club form is still young.",
+            "score": 3
+          },
+          "economics": {
+            "basis": "qualitative",
+            "rationale": "Digital files have zero marginal cost and take about 10-14 hours to build.",
+            "score": 4
+          },
+          "productFit": {
+            "basis": "qualitative",
+            "rationale": "Printables match the use: posters, tickets and cards for events.",
+            "score": 4
+          },
+          "supplyGap": {
+            "basis": "qualitative",
+            "rationale": "Generic conversation cards exist; no host-kit framing found in search results (Etsy not searched directly).",
+            "score": 3
+          },
+          "timing": {
+            "basis": "qualitative",
+            "rationale": "Campus clubs are new this semester; the product can be live before December finals events.",
+            "score": 4
+          }
+        },
+        "spread": {
+          "evidence": [
+            "e1",
+            "e2",
+            "e3",
+            "e6",
+            "e8"
+          ],
+          "text": "Independent signals: a US university news story (Sept 3, 2026), a Canadian university library's recurring events, Washington Post education coverage, Fortune on phone-free bars, and lifestyle press on phone-free Friday socials. These are separate institutions and outlets, not one syndicated story."
+        },
+        "summary": "Students and young adults are starting phone-free social clubs where phones are checked at the door and people read, craft, play games and talk, with new campus clubs appearing at the start of fall 2026.",
+        "trajectory": {
+          "evidence": [
+            "e2",
+            "e3",
+            "e10"
+          ],
+          "stage": "first_spark",
+          "text": "The wider 'go offline' mood is well established, but the campus club form is new: student-founded clubs are only now appearing at the start of fall 2026. There is no measured count of US chapters. The 567% phone-free nightlife figure comes from a newsletter with no source given, so it is not used for scoring."
+        },
+        "unresolved": [
+          "Signal: three or more additional US campuses report student Offline/phone-free clubs by mid-November 2026.",
+          "Signal: a US city chapter of a phone-free social series or a bar chain announces recurring phone-free nights.",
+          "Signal: Etsy/Pinterest searches for 'phone free party' or 'offline night' printables start returning dedicated listings (competition and demand both rising)."
+        ],
+        "what": "An offline club is a recurring social where phones are surrendered or switched off, followed by quiet reading, journaling, puzzles, analog art and conversation. The format spread from the Amsterdam-founded Offline Club (2024) to European cities and is now being copied by US college students and venues. Fall 2026 adds student-founded campus clubs to the broader phone-free nightlife and bar trend.",
+        "window": {
+          "endEstimate": null,
+          "estimate": "Through spring semester 2027 (6-8 months) if campus clubs keep forming",
+          "invalidators": [
+            "No new campus clubs reported by November 2026",
+            "Phone-free events become venue-run with venue-made materials only",
+            "The trend shifts to apps or lockable pouches rather than printed materials"
+          ],
+          "reasoning": "Campus club formation follows the academic calendar; finals de-stress events (Dec) and the January semester restart are natural use moments. The broader analog mood has lasted since 2024.",
+          "seasonality": "Academic calendar: September club fairs, December finals weeks, January restart, plus Screen-free-week style moments in spring.",
+          "sellBy": null
+        }
+      }
+    ],
+    "discovered": [
+      {
+        "disposition": "deep_dived",
+        "name": "Campus and city 'Offline Club' phone-free socials",
+        "rejectReason": "",
+        "whyConsidered": "Phone-free social clubs forming on US campuses (fall 2026) and Offline Club chapter model spreading; clear host buyer."
+      },
+      {
+        "disposition": "deep_dived",
+        "name": "Backgammon social-club revival (NYC Backgammon Club, Gals Who Gammon, Backgammon Social)",
+        "rejectReason": "",
+        "whyConsidered": "Young-adult and women-led backgammon clubs multiplying across US cities; almost no printable/merch supply aimed at them."
+      },
+      {
+        "disposition": "deep_dived",
+        "name": "Gen Z birding / college bird clubs (October Big Day 2026-10-10)",
+        "rejectReason": "",
+        "whyConsidered": "Audubon campus chapters 10 -> 117, Merlin app 4.8M US users; dated seasonal hook on Oct 10."
+      },
+      {
+        "disposition": "deep_dived",
+        "name": "'Toolbelt generation' Gen Z skilled-trades apprentices",
+        "rejectReason": "",
+        "whyConsidered": "Fast-growing identity/profession group with real logging needs (apprentice hours) and pride merch."
+      },
+      {
+        "disposition": "rejected",
+        "name": "1:12 miniatures hobby (Bloomberg 2026-09-18)",
+        "rejectReason": "Long-running hobby (2020 boom); product space (kits, printable minis) already crowded; no new spark found beyond one feature.",
+        "whyConsidered": "Fresh Bloomberg feature on TikTok miniaturists."
+      },
+      {
+        "disposition": "rejected",
+        "name": "Weekend Equestrian / horse-girl aesthetic",
+        "rejectReason": "Aesthetic-led and already mainstream in fashion press since early 2026; heavy brand-led supply; not a new community.",
+        "whyConsidered": "Pinterest Hobbies Report 2026 trend; Year of the Horse."
+      },
+      {
+        "disposition": "rejected",
+        "name": "Backyard Botanist (pressed flowers, field guides)",
+        "rejectReason": "Overlaps existing kitchen-witch/cottage candidates; pressed-flower printables already plentiful; no new community signal found.",
+        "whyConsidered": "Pinterest Hobbies Report 2026 trend."
+      },
+      {
+        "disposition": "rejected",
+        "name": "Home Cafe Engineering",
+        "rejectReason": "Hobby rather than a community; #HomeCafe established since 2021; coffee-bar signs and recipe printables saturated on Etsy.",
+        "whyConsidered": "Pinterest Hobbies Report: 'coffee station ideas party' +624%, 'banana syrup' +916% (reported)."
+      },
+      {
+        "disposition": "rejected",
+        "name": "Lonely Girls Club (UK women's friendship community)",
+        "rejectReason": "UK-centered single organization with its own merch; not US and not a spreading open trend.",
+        "whyConsidered": "Reported 100k+ members."
+      },
+      {
+        "disposition": "rejected",
+        "name": "Run clubs as social clubs",
+        "rejectReason": "Mainstream since 2024; run-club merch heavily supplied; not early.",
+        "whyConsidered": "Steady press (Aug 2026 NPR affiliates)."
+      },
+      {
+        "disposition": "rejected",
+        "name": "Whimsy-maxxing",
+        "rejectReason": "An aesthetic, not a community (outside lens); broad and already widely covered.",
+        "whyConsidered": "Appeared in late-Sept TikTok roundups and NBC coverage."
+      },
+      {
+        "disposition": "rejected",
+        "name": "'2026 is the new 2016' nostalgia",
+        "rejectReason": "Peaked early 2026; meme rather than community.",
+        "whyConsidered": "Wikipedia entry, campus press."
+      },
+      {
+        "disposition": "rejected",
+        "name": "Grandmacore crafting (knitting/crochet/embroidery), La Voce di New York 2026-09-23",
+        "rejectReason": "Overlaps existing needlepoint candidate; very saturated pattern market.",
+        "whyConsidered": "Michaels report: craft searches +136% in six months, yarn accessory sales +40% (reported)."
+      },
+      {
+        "disposition": "rejected",
+        "name": "Adult pottery/ceramics class boom (fall 2026 sell-outs)",
+        "rejectReason": "Strong but multi-year trend (2024 coverage); pottery merch/journals already supplied; would rank as established_niche, lower priority than picks.",
+        "whyConsidered": "Fall 2026 reports of sold-out and waitlisted pottery and sewing classes."
+      },
+      {
+        "disposition": "rejected",
+        "name": "Machine knitting (Addi-style crank machines)",
+        "rejectReason": "Single listing-level signal; no independent spread found.",
+        "whyConsidered": "Brooklyn fall 2026 guide lists machine-knitting intensives."
+      },
+      {
+        "disposition": "rejected",
+        "name": "Oral GLP-1 pill users (Wegovy pill, Foundayo; Medicare Bridge from 2026-07-01)",
+        "rejectReason": "GLP-1 tracker printables and apps already crowded; medical-claim risk for a solo seller.",
+        "whyConsidered": "Huge new identity group (Wegovy pill >3M scripts; Lilly ~1,000 scripts/day reported Sept 2026)."
+      },
+      {
+        "disposition": "rejected",
+        "name": "Perimenopause community ('MenoTok')",
+        "rejectReason": "No mid-Sept 2026 acceleration found; health-claim risk; symptom trackers crowded.",
+        "whyConsidered": "Large, growing identity group buying trackers."
+      },
+      {
+        "disposition": "rejected",
+        "name": "Sober October 2026",
+        "rejectReason": "IWSR data shows Gen Z month-long abstinence participation falling (UK 33% -> 24%); declining.",
+        "whyConsidered": "Seasonal identity hook for October."
+      },
+      {
+        "disposition": "rejected",
+        "name": "Adult ballet beginners",
+        "rejectReason": "Evidence is older (2022-2024 stories); no 2026 acceleration found.",
+        "whyConsidered": "TikTok adult-ballerina content; Nutcracker season ahead."
+      },
+      {
+        "disposition": "rejected",
+        "name": "Gen Z chess boom (chess nights at bars)",
+        "rejectReason": "Real growth but chess merch and printables are heavily supplied; picked backgammon instead as the less-supplied game club.",
+        "whyConsidered": "Axios July 2026: 6.4M active US Chess.com players vs 4M a year earlier (reported)."
+      },
+      {
+        "disposition": "rejected",
+        "name": "Letter-writing / pen-pal club renaissance",
+        "rejectReason": "Building since January; stationery is one of Etsy's most saturated categories.",
+        "whyConsidered": "Pinterest 2026 prediction; Fortune Jan 2026; mail clubs with 1,000+ subscribers."
+      },
+      {
+        "disposition": "rejected",
+        "name": "Zine-making clubs",
+        "rejectReason": "Thin US 2026 evidence; zinemakers make rather than buy products.",
+        "whyConsidered": "This Magazine Aug 2026 'Gen Zine'; campus zine club relaunches."
+      },
+      {
+        "disposition": "rejected",
+        "name": "Gen Z foraging",
+        "rejectReason": "Europe-centered; foraging ID products carry safety liability.",
+        "whyConsidered": "NSS magazine coverage."
+      },
+      {
+        "disposition": "rejected",
+        "name": "Padel players in the US",
+        "rejectReason": "Sport with brand-dominated gear; apparel crowded; affluent buyers less into DIY printables; no mid-Sept spark.",
+        "whyConsidered": "Courts 227 -> ~1,000 in three years (reported)."
+      },
+      {
+        "disposition": "rejected",
+        "name": "Dreamcore TikTok community",
+        "rejectReason": "Established since 2020; aesthetic art market crowded; no new spark.",
+        "whyConsidered": "Exolyt Feb 2026: ~8B hashtag views."
+      }
+    ],
+    "kind": "discover",
+    "lens": "First-spark hunt: fast-growing niche communities",
+    "researchedAt": "2026-10-05T00:03:41Z",
+    "sourcesTried": [
+      {
+        "method": "WebSearch",
+        "note": "About 45 queries; all evidence below comes from search result snippets.",
+        "source": "Web search (standard and extended)",
+        "status": "ok"
+      },
+      {
+        "method": "WebFetch",
+        "note": "Egress proxy blocked; used search snippets and syndicated coverage instead.",
+        "source": "newsroom.pinterest.com (Hobbies Trend Report 2026)",
+        "status": "blocked"
+      },
+      {
+        "method": "WebFetch",
+        "note": "Egress blocked; only the headline/date seen.",
+        "source": "bloomberg.com (miniatures feature, 2026-09-18)",
+        "status": "blocked"
+      },
+      {
+        "method": "WebFetch",
+        "note": "Egress blocked.",
+        "source": "community.pinterest.biz weekly trends",
+        "status": "blocked"
+      },
+      {
+        "method": "WebFetch",
+        "note": "Egress blocked; facts taken from search snippets.",
+        "source": "fortune.com (Gen Z birding, 2026-08-23)",
+        "status": "blocked"
+      },
+      {
+        "method": "WebFetch",
+        "note": "Egress blocked.",
+        "source": "fooddrinklife.com (craft classes filling fast)",
+        "status": "blocked"
+      },
+      {
+        "method": "WebFetch",
+        "note": "Egress blocked.",
+        "source": "ooonyc.substack.com (Fall 2026 hobby guide)",
+        "status": "blocked"
+      },
+      {
+        "method": "WebSearch site results",
+        "note": "Only indirect: listings surfaced in web search; Etsy itself not fetched (assumed blocked per worker notes).",
+        "source": "Etsy marketplace search",
+        "status": "ok"
+      },
+      {
+        "method": "not attempted directly",
+        "note": "Known to be blocked for fetching; relied on press and trend-roundup coverage of these platforms.",
+        "source": "TikTok, Reddit, Google Trends",
+        "status": "not_tried"
+      },
+      {
+        "method": "WebSearch",
+        "note": "Only September 2026 meme-of-the-month roundup surfaced; nothing community-relevant.",
+        "source": "Know Your Meme",
+        "status": "ok"
+      }
+    ]
+  },
+  "runId": "run-hunt-communities-20261004-1",
+  "status": "new"
+}

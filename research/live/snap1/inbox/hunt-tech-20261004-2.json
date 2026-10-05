@@ -1,0 +1,739 @@
+{
+  "createdAt": "2026-10-05T00:00:35Z",
+  "jobId": "hunt-tech-20261004",
+  "raw": {
+    "candidates": [
+      {
+        "actionRationale": "The holiday deadline favors building now (by about Oct 20) and listing early so the listings get discovered. Keep ad spend to a small December test unless organic favorites appear.",
+        "adopters": {
+          "evidence": [
+            "e7",
+            "e9"
+          ],
+          "text": "Parents of children with their own phones or tablets, especially those creating child accounts for new devices."
+        },
+        "aliases": [
+          "time allowances",
+          "category screen time limits",
+          "ask to browse"
+        ],
+        "category": "other",
+        "competition": {
+          "evidence": [
+            "e11",
+            "e12"
+          ],
+          "level": "moderate",
+          "text": "Generic screen-time charts are common (free printables, chore-chart bundles on Etsy). None found that mirror category allowances or request flows, or a first-device holiday insert."
+        },
+        "evidence": [
+          {
+            "accessMethod": "web_search_result",
+            "claim": "New child-safety controls shipped Sept 14, 2026, including category time allowances.",
+            "excerpt": "Here's what's new with parental control features in iOS 27, iPadOS 27 and macOS 27",
+            "id": "e1",
+            "intent": "none",
+            "kind": "observed",
+            "publishedAt": "2026-09-14",
+            "publisher": "9to5Mac",
+            "retrievedAt": "2026-10-05T00:00:35Z",
+            "signalType": "press",
+            "syndicationOf": null,
+            "title": "Here's what's new with parental control features in iOS 27",
+            "url": "https://9to5mac.com/2026/09/14/heres-whats-new-with-parental-control-features-in-ios-27-ipados-27-and-macos-27/"
+          },
+          {
+            "accessMethod": "web_search_result",
+            "claim": "The controls let parents set Time Allowances by category (Entertainment, Games, Social Media) and approve website requests.",
+            "excerpt": "parents can set Time Allowances across categories like Entertainment, Games, and Social Media, and easily adjust app and web access with a redesigned Screen Time",
+            "id": "e2",
+            "intent": "none",
+            "kind": "observed",
+            "publishedAt": "2026-09-15",
+            "publisher": "Help Net Security",
+            "retrievedAt": "2026-10-05T00:00:35Z",
+            "signalType": "press",
+            "syndicationOf": null,
+            "title": "Apple parental controls in iOS 27 let kids ask before opening new websites",
+            "url": "https://www.helpnetsecurity.com/2026/09/15/apple-parental-controls-ios-27/"
+          },
+          {
+            "accessMethod": "web_search_result",
+            "claim": "How-to content for parents setting category allowances appeared the day after launch.",
+            "excerpt": "How to set Time Allowances for your child's apps in iOS 27",
+            "id": "e3",
+            "intent": "utility",
+            "kind": "observed",
+            "publishedAt": "2026-09-15",
+            "publisher": "The Apple Post",
+            "retrievedAt": "2026-10-05T00:00:35Z",
+            "signalType": "press",
+            "syndicationOf": null,
+            "title": "How to set Time Allowances for your child's apps in iOS 27",
+            "url": "https://www.theapplepost.com/2026/09/15/71463/how-to-set-time-allowances-for-your-childs-apps-in-ios-27/"
+          },
+          {
+            "accessMethod": "web_search_result",
+            "claim": "A family guide was published Sept 29, 2026; tools went live Sept 14.",
+            "excerpt": "Apple shared a guide to help parents use the child safety tools in iOS 27... the tools went live on September 14, after a preview in June.",
+            "id": "e4",
+            "intent": "none",
+            "kind": "observed",
+            "publishedAt": "2026-09-29",
+            "publisher": "MacRumors",
+            "retrievedAt": "2026-10-05T00:00:35Z",
+            "signalType": "press",
+            "syndicationOf": null,
+            "title": "Apple Shares New Guide for Using iOS 27 Parental Controls",
+            "url": "https://www.macrumors.com/2026/09/29/apple-ios-27-parental-control-guide/"
+          },
+          {
+            "accessMethod": "web_search_result",
+            "claim": "Manufacturer announcement, plus a family digital-habits guide developed with the AAP.",
+            "excerpt": "\"Building Healthy Digital Habits: A Guide for Families\" in partnership with the American Academy of Pediatrics (AAP)... six-step guide",
+            "id": "e5",
+            "intent": "none",
+            "kind": "observed",
+            "publishedAt": null,
+            "publisher": "Apple Newsroom",
+            "retrievedAt": "2026-10-05T00:00:35Z",
+            "signalType": "press",
+            "syndicationOf": null,
+            "title": "Apple's new child safety features now available",
+            "url": "https://www.apple.com/newsroom/2026/09/apples-new-child-safety-features-now-available/"
+          },
+          {
+            "accessMethod": "web_search_result",
+            "claim": "Consumer explainer framing the change around parents' screen-time worries.",
+            "excerpt": "Worried about your kids' screen time? Apple is introducing new child safety features with iOS 27",
+            "id": "e6",
+            "intent": "curiosity",
+            "kind": "observed",
+            "publishedAt": null,
+            "publisher": "Trusted Reviews",
+            "retrievedAt": "2026-10-05T00:00:35Z",
+            "signalType": "press",
+            "syndicationOf": null,
+            "title": "Worried about your kids' screen time? Apple is introducing new child safety features with iOS 27",
+            "url": "https://www.trustedreviews.com/explainer/ios-27-child-safety-tools"
+          },
+          {
+            "accessMethod": "web_search_result",
+            "claim": "The controls require an active setup step by parents, which creates a 'how do I set this up' need.",
+            "excerpt": "iOS 27: Apple's new parental controls wait for a setup step",
+            "id": "e7",
+            "intent": "utility",
+            "kind": "observed",
+            "publishedAt": null,
+            "publisher": "Notebookcheck",
+            "retrievedAt": "2026-10-05T00:00:35Z",
+            "signalType": "press",
+            "syndicationOf": null,
+            "title": "iOS 27: Apple's new parental controls wait for a setup step",
+            "url": "https://www.notebookcheck.net/iOS-27-Apple-s-new-parental-controls-wait-for-a-setup-step.1409237.0.html"
+          },
+          {
+            "accessMethod": "web_search_result",
+            "claim": "Parents can make custom categories and get age-based guidance while choosing limits.",
+            "excerpt": "Parents can create their own app categories, move apps between them, and assign a time allowance as soon as they approve a new app",
+            "id": "e8",
+            "intent": "utility",
+            "kind": "observed",
+            "publishedAt": null,
+            "publisher": "The Mac Observer",
+            "retrievedAt": "2026-10-05T00:00:35Z",
+            "signalType": "press",
+            "syndicationOf": null,
+            "title": "iOS 27 Parental Controls: Ask to Browse, Time Allowances, Setup Assistant App Choices and Communication Safety",
+            "url": "https://www.macobserver.com/tips/round-ups/ios-27-parental-controls/"
+          },
+          {
+            "accessMethod": "web_search_result",
+            "claim": "'Before they hand over the phone' framing ties the controls to the moment a child gets a device (relevant for holiday gifting). Day of month unknown; the URL shows Sept 2026.",
+            "excerpt": "What Parents Need to Know Before They Hand Over the Phone",
+            "id": "e9",
+            "intent": "utility",
+            "kind": "observed",
+            "publishedAt": null,
+            "publisher": "GSMGoTech",
+            "retrievedAt": "2026-10-05T00:00:35Z",
+            "signalType": "press",
+            "syndicationOf": null,
+            "title": "Apple's iOS 27 Parental Controls: What Parents Need to Know Before They Hand Over the Phone",
+            "url": "https://www.gsmgotech.com/2026/09/apples-ios-27-parental-controls-what.html"
+          },
+          {
+            "accessMethod": "web_search_result",
+            "claim": "More independent parent-facing explainers.",
+            "excerpt": "How iOS 27 Changes Screen Time and Parental Controls for Parents",
+            "id": "e10",
+            "intent": "utility",
+            "kind": "observed",
+            "publishedAt": null,
+            "publisher": "TechLockdown",
+            "retrievedAt": "2026-10-05T00:00:35Z",
+            "signalType": "press",
+            "syndicationOf": null,
+            "title": "How iOS 27 Changes Screen Time and Parental Controls for Parents",
+            "url": "https://www.techlockdown.com/articles/ios-27-screen-time-changes"
+          },
+          {
+            "accessMethod": "web_search_result",
+            "claim": "Supply: generic screen-time charts are sold inside chore and allowance bundles.",
+            "excerpt": "editable kids chore chart bundle... includes a kids screen time chart, kids rewards chart, kids allowance chart, kids behavior chart",
+            "id": "e11",
+            "intent": "none",
+            "kind": "observed",
+            "publishedAt": null,
+            "publisher": "Etsy seller",
+            "retrievedAt": "2026-10-05T00:00:35Z",
+            "signalType": "marketplace",
+            "syndicationOf": null,
+            "title": "Editable kids chore chart bundle",
+            "url": "https://www.etsy.com/hk-en/listing/4320003393/editable-kids-chore-chart-bundle-school"
+          },
+          {
+            "accessMethod": "web_search_result",
+            "claim": "Supply: free screen-time printables exist.",
+            "excerpt": "How To Limit Electronics for Kids: A Free Printable Chart",
+            "id": "e12",
+            "intent": "none",
+            "kind": "observed",
+            "publishedAt": null,
+            "publisher": "Pretty Prudent",
+            "retrievedAt": "2026-10-05T00:00:35Z",
+            "signalType": "marketplace",
+            "syndicationOf": null,
+            "title": "How To Limit Electronics for Kids: A Free Printable Chart",
+            "url": "https://www.prettyprudent.com/?p=56141"
+          },
+          {
+            "accessMethod": "web_search_result",
+            "claim": "Kids' devices are discussed as 2026 holiday gifts, so new device owners arrive at Christmas (context, not demand for this product).",
+            "excerpt": "Calling it now: these will be the hottest kids gifts of Christmas 2026",
+            "id": "e13",
+            "intent": "none",
+            "kind": "observed",
+            "publishedAt": null,
+            "publisher": "Momma Society (Substack)",
+            "retrievedAt": "2026-10-05T00:00:35Z",
+            "signalType": "creator",
+            "syndicationOf": null,
+            "title": "Calling it now: these will be the hottest kids gifts of Christmas 2026",
+            "url": "https://mommasociety.substack.com/p/these-are-my-bets-for-the-best-gifts"
+          }
+        ],
+        "gap": {
+          "isInference": true,
+          "text": "A brand-neutral, category-based family plan with request cards and a holiday first-device gift booklet."
+        },
+        "name": "Category Screen-Time Allowances (New Kids' Device Controls)",
+        "observations": [],
+        "origin": {
+          "date": "2026-09-14",
+          "evidence": [
+            "e1",
+            "e4",
+            "e5"
+          ],
+          "text": "Previewed in June 2026 and shipped with a major phone/tablet OS update on Sept 14, 2026. A family guide made with a pediatric association followed on Sept 29."
+        },
+        "productDemand": {
+          "evidence": [
+            "e3",
+            "e7",
+            "e9"
+          ],
+          "text": "Only help-seeking: 'how to set' and 'what parents need to know' content. No purchase evidence for printables tied to this change."
+        },
+        "products": [
+          {
+            "buyer": "Parents of 6-14-year-olds setting up the new category-based time allowances on kids' devices",
+            "channels": [
+              "Etsy",
+              "Pinterest",
+              "Payhip"
+            ],
+            "continueIf": "3+ sales or 25+ favorites within 21 days.",
+            "differentiation": "Mirrors category allowances and request flows. Generic charts only track total minutes.",
+            "effort": "low",
+            "effortHours": 10,
+            "evidence": [
+              "e2",
+              "e3",
+              "e7",
+              "e8"
+            ],
+            "format": "printable",
+            "fulfillment": "digital",
+            "leadTimeDays": 3,
+            "pivotIf": "Favorites but no sales: lower the price or lead with the holiday first-device insert.",
+            "playbook": {
+              "assembly": [
+                "Run the super prompt; paste the text into a Canva US Letter document.",
+                "Apply the Fredoka + Nunito pairing and the palette; add simple line icons from Canva Elements (check the license for commercial use).",
+                "Build tables for the planner and schedule; set the request cards 8-up with cut lines.",
+                "Resize a copy to A4 and fix the layout.",
+                "Export PDF Print at 300 DPI for both sizes; also export an editable Canva template link (view-only template link).",
+                "Bundle the PDFs plus a README with the template link; test the download.",
+                "Make 5 mockups (fridge, cards, agreement, checklist, holiday insert)."
+              ],
+              "asymmetry": {
+                "badBetIf": "Listed as a generic 'screen time chart'. In that crowded category it won't stand out.",
+                "downside": "About 10 hours. Generic competition is heavy, so it may get lost.",
+                "upside": "Evergreen parenting need with a holiday spike and zero marginal cost. The niche angle can rank on long-tail searches."
+              },
+              "costs": {
+                "baseCost": null,
+                "basis": "estimate: digital product, platform fees only",
+                "item": null,
+                "provider": null,
+                "shipping": null,
+                "testBudget": 14,
+                "testBudgetNote": "Etsy Ads $1/day for 14 days from mid-November only if organic favorites appear."
+              },
+              "extensions": [
+                "Teen edition (13-17)",
+                "Editable Google Slides version",
+                "Bundle with the First Device gift booklet",
+                "Classroom/caregiver edition"
+              ],
+              "imagePrompts": [
+                {
+                  "prompt": "Flat illustration of a printed family plan on a fridge held by magnets, showing colorful category rows with simple icons (film clapper, game controller, speech bubble, paintbrush, book) and minute boxes, a kid's hand adding a sticker. Text: \"Family Screen Allowance Plan\". Palette #23395B, #8FD6C0, #FFD166, #EF7B6C, #FFFBF3. 4:5 aspect ratio, warm kitchen background softly blurred. No logos, no real people's faces, no trademarked characters, no device brand features, no watermarks.",
+                  "purpose": "Listing cover",
+                  "tool": "Ideogram or ChatGPT images"
+                },
+                {
+                  "prompt": "Eight cut-out cards in a grid reading 'I'd like to use ___ for ___ minutes because ___' with Yes / Later / Let's talk checkboxes, pastel mint and sunshine colors #8FD6C0 #FFD166 on paper #FFFBF3. 1:1 aspect ratio. No logos, no real people, no trademarked characters, no watermarks.",
+                  "purpose": "Request cards preview",
+                  "tool": "Canva mockup"
+                }
+              ],
+              "listingPrompt": "Write an Etsy listing for a printable digital download: 'Family Screen Allowance Kit', which helps parents plan kids' device time by category (entertainment, games, social, creative, learning) and works alongside any device's parental controls. It includes a category planner, weekly schedule, kid request cards, two family device agreements, a new-device setup checklist, a monthly check-in and a holiday first-device insert, in US Letter and A4 plus an editable Canva template. Give a title under 140 characters front-loading 'screen time chart for kids'; 13 tags, each 20 characters or fewer; a description of what's included, file formats and instant delivery; and a 5-question FAQ. Do not use any company, operating system, app or feature trademarks, and make no health or behavior promises.",
+              "marketing": {
+                "channels": [
+                  {
+                    "cadence": "6 pins per week, rising to 10 in November",
+                    "channel": "Pinterest",
+                    "tactic": "Fridge-plan and gift-insert pins"
+                  },
+                  {
+                    "cadence": "3 per week",
+                    "channel": "Short-form video",
+                    "tactic": "Parent POV: setting the plan with the kids"
+                  },
+                  {
+                    "cadence": "Weekly",
+                    "channel": "Parenting communities",
+                    "tactic": "Share the free request cards where allowed (check the community rules)"
+                  }
+                ],
+                "hooks": [
+                  "Our kids' device just got category limits. Here's how we picked the numbers.",
+                  "The request card that ended 'five more minutes'.",
+                  "Before you set the limits, print this."
+                ],
+                "keywords": [
+                  "screen time chart",
+                  "kids screen time",
+                  "family media plan",
+                  "screen time rules",
+                  "device agreement",
+                  "first phone rules",
+                  "kids tablet rules"
+                ],
+                "launchPlan": [
+                  {
+                    "action": "Publish the listing with a flat-lay mockup and a page-flip video.",
+                    "day": "Day 0"
+                  },
+                  {
+                    "action": "Create 6 Pinterest pins (fridge plan, request cards, agreement, holiday insert).",
+                    "day": "Day 1"
+                  },
+                  {
+                    "action": "Post a 'how we set our kids' category limits' short video showing the printed planner (no brand screens).",
+                    "day": "Day 3"
+                  },
+                  {
+                    "action": "Offer the request-card page free on Payhip for email sign-ups.",
+                    "day": "Day 5"
+                  },
+                  {
+                    "action": "Share in parenting groups that allow resources (check the community rules).",
+                    "day": "Day 8"
+                  },
+                  {
+                    "action": "Add the holiday insert as a listing variation; update tags with gift phrasing.",
+                    "day": "Day 12"
+                  },
+                  {
+                    "action": "Post 3 more videos: request cards in action, monthly check-in, first-device gift wrap.",
+                    "day": "Day 16"
+                  },
+                  {
+                    "action": "Go/pivot/stop check against thresholds.",
+                    "day": "Day 21"
+                  }
+                ],
+                "positioning": "The fridge plan that matches your kids' new category time limits."
+              },
+              "platforms": [
+                {
+                  "name": "Etsy",
+                  "role": "primary",
+                  "why": "Parents search for screen-time charts and family agreements there."
+                },
+                {
+                  "name": "Payhip",
+                  "role": "secondary",
+                  "why": "Free request-card lead magnet and direct sales."
+                },
+                {
+                  "name": "Pinterest",
+                  "role": "traffic",
+                  "why": "Parenting printables perform well, with no audience needed."
+                }
+              ],
+              "pricing": {
+                "basis": "estimate",
+                "currency": "USD",
+                "high": 12,
+                "low": 5,
+                "rationale": "Generic screen-time charts are cheap or free. A 10-page themed kit with an editable template supports a modest premium.",
+                "recommended": 8
+              },
+              "productName": "Family Screen Allowance Kit",
+              "risks": [
+                "High generic competition",
+                "Feature names are trademarked, which limits exact-match keywords",
+                "Parents may prefer free printables"
+              ],
+              "superPrompt": "You are a family-media educator and printable designer. Create a complete, brand-neutral printable kit called \"Family Screen Allowance Kit: Category Time Plans for Kids' Devices\".\n\nBUYER AND JOB: Parents of 6-14-year-olds whose phones and tablets now let them set time allowances by app category (entertainment, games, social) and approve \"ask to use\" requests. Parents need a calm, visual way to decide the numbers together with their kids, post the plan on the fridge, and handle requests without arguments. The kit works with any device's built-in controls; it does not explain any specific company's settings.\n\nDELIVERABLE SPEC (each a separate page, US Letter 8.5x11 in and A4):\n1. Cover: \"Our Family Screen Allowance Plan\" with a space for the family name.\n2. \"How this works\" (150 words): decide categories, choose daily minutes, write them on the plan, enter them into whatever parental controls your device has, review monthly.\n3. Category Planner: a table with rows Entertainment / Games / Social / Creative / Learning / Your own category, and columns School Day / Weekend / Holiday, with blank minute boxes and a \"why we chose this\" line. Add a neutral note: \"Pick numbers that fit your family; many families use guidance from their pediatrician.\"\n4. Weekly Schedule grid (Mon-Sun x Morning / After school / Evening) with \"device-free\" shading for meals and bedtime.\n5. Kid Request Cards (8 per page, cut-out): \"I'd like to use ___ for ___ minutes because ___\"; parent reply: Yes / Later / Let's talk.\n6. \"Earn It, Spend It\" optional bonus-minutes tracker (chores or reading; no money).\n7. Family Device Agreement (two versions: ages 6-9 simple icons; ages 10-14 detailed), written as shared commitments for kids AND parents. Signature lines.\n8. New Device Setup Checklist (brand-neutral): create a child account, set categories, set bedtime downtime, approve contacts, choose where devices charge overnight, agree the plan. Use generic wording (\"in your device's parental controls\").\n9. Monthly Check-in page: what's working, what to change, new numbers.\n10. Holiday Edition insert: \"Your First Device\" gift certificate plus the agreement, to wrap with a new device.\n\nDESIGN: Two Canva pairings: (a) \"Fredoka SemiBold\" headings + \"Nunito\" body; (b) \"Baloo 2\" + \"Source Sans 3\". Palette: Calm Navy #23395B, Mint #8FD6C0, Sunshine #FFD166, Coral #EF7B6C, Paper #FFFBF3. Icons for each category (simple line art: film clapper, game controller, speech bubble, paintbrush, book).\n\nCONTENT RULES: Original wording. Warm, non-judgmental, 4th-6th grade reading level on kid pages. No health claims or promised outcomes (\"reduces tantrums\" etc.). Do not state specific \"recommended minutes\" as medical guidance. Never name a company, operating system, app or feature trademark; use \"your device's parental controls\" and \"time allowance\".\n\nDIFFERENTIATION: Generic screen-time charts track total time. This kit mirrors the new category-based controls, includes request cards that match \"ask to use\" flows, and adds a holiday first-device insert.\n\nOUTPUT: Page by page with exact text, table structures and layout notes. End with a self-check: 10 pages; both sizes noted; no brand or feature trademarks; no health claims; kid pages readable by a 9-year-old; agreement includes parent commitments."
+            },
+            "rightsNote": "Don't use company, OS, app or capitalized feature names in titles, tags or images. Describe 'category time allowances' generically.",
+            "stopIf": "Under 200 views and no favorites after 21 days.",
+            "theme": "Family Screen Allowance Kit: category time planner (entertainment/games/social), weekly schedule, kid request cards, family device agreement, brand-neutral setup checklist",
+            "validationTest": "List the kit and post 6 pins plus 3 short parent-POV videos over 14 days.",
+            "whyBuy": "Parents have new category controls and age guidance on screen but have to pick numbers, explain them to kids and handle 'ask' requests. A visual fridge plan makes that easier."
+          },
+          {
+            "buyer": "Parents and grandparents giving a child a first phone, tablet or kids' device for the 2026 holidays",
+            "channels": [
+              "Etsy",
+              "Pinterest"
+            ],
+            "continueIf": "5+ sales by Dec 5.",
+            "differentiation": "Festive and kid-friendly, with category time plans matching the new controls. Typical phone contracts feel legalistic.",
+            "effort": "low",
+            "effortHours": 8,
+            "evidence": [
+              "e9",
+              "e13",
+              "e4"
+            ],
+            "format": "printable",
+            "fulfillment": "digital",
+            "leadTimeDays": 3,
+            "pivotIf": "Only the certificate pages draw interest: sell a certificate-only version at $3-4.",
+            "playbook": {
+              "assembly": [
+                "Generate the text with the super prompt.",
+                "Build the booklet in Canva as half-letter pages; apply the palette and fonts.",
+                "Create 3 certificate designs from the same template.",
+                "Impose the booklet for duplex printing (or provide single pages), US Letter, then make the A4 version.",
+                "Export PDF Print 300 DPI; include printing instructions (fold, staple).",
+                "Make 4 mockups and a short page-flip video."
+              ],
+              "asymmetry": {
+                "badBetIf": "Launched after mid-November, which misses the discovery window.",
+                "downside": "About 8 hours. A seasonal deadline means unsold work waits a year.",
+                "upside": "Gift impulse buys, bundling, and a birthday version extends it beyond the holidays."
+              },
+              "costs": {
+                "baseCost": null,
+                "basis": "estimate: digital product",
+                "item": null,
+                "provider": null,
+                "shipping": null,
+                "testBudget": 10,
+                "testBudgetNote": "Etsy Ads $1/day Dec 1-10 only if November shows favorites."
+              },
+              "extensions": [
+                "Birthday edition",
+                "Smartwatch/kids' phone edition",
+                "Bundle with the Family Screen Allowance Kit"
+              ],
+              "imagePrompts": [
+                {
+                  "prompt": "A wrapped gift box with a folded printable booklet and a festive certificate tucked under the ribbon, certificate text: \"My First Device\". Pine green #2D6A4F, cranberry #C8553D, gold #E9C46A on snow-white #FAFAF7, cozy flat-lay with mittens and fairy lights. 4:5 aspect ratio. Any device shown is a plain rounded rectangle with a blank screen. No logos, no real people, no trademarked characters, no watermarks.",
+                  "purpose": "Listing cover",
+                  "tool": "Ideogram or ChatGPT images"
+                }
+              ],
+              "listingPrompt": "Write an Etsy listing for a printable 'My First Device' holiday gift certificate and 8-page starter booklet for kids getting their first phone or tablet: kid responsibilities, parent promises, category time plan, contacts list, a what-to-do card and unplugged ideas, plus 3 certificate designs and gift tags (US Letter and A4, instant download). Give a title under 140 characters front-loading 'first phone gift for kids'; 13 tags, each 20 characters or fewer; a description; and a 5-question FAQ (printing, folding, ages, editing, refunds). No company, OS, app or device trademarks, and no safety guarantees.",
+              "marketing": {
+                "channels": [
+                  {
+                    "cadence": "6 pins per week, rising to 10 in November",
+                    "channel": "Pinterest",
+                    "tactic": "Fridge-plan and gift-insert pins"
+                  },
+                  {
+                    "cadence": "3 per week",
+                    "channel": "Short-form video",
+                    "tactic": "Parent POV: setting the plan with the kids"
+                  },
+                  {
+                    "cadence": "Weekly",
+                    "channel": "Parenting communities",
+                    "tactic": "Share the free request cards where allowed (check the community rules)"
+                  }
+                ],
+                "hooks": [
+                  "Giving your kid their first device this Christmas? Put this in the box.",
+                  "The gift tag that comes with house rules."
+                ],
+                "keywords": [
+                  "first phone gift",
+                  "first phone contract",
+                  "kids tablet gift",
+                  "phone agreement kids",
+                  "christmas gift kids",
+                  "gift certificate kids"
+                ],
+                "launchPlan": [
+                  {
+                    "action": "Publish the listing with a flat-lay mockup and a page-flip video.",
+                    "day": "Day 0"
+                  },
+                  {
+                    "action": "Create 6 Pinterest pins (fridge plan, request cards, agreement, holiday insert).",
+                    "day": "Day 1"
+                  },
+                  {
+                    "action": "Post a 'how we set our kids' category limits' short video showing the printed planner (no brand screens).",
+                    "day": "Day 3"
+                  },
+                  {
+                    "action": "Offer the request-card page free on Payhip for email sign-ups.",
+                    "day": "Day 5"
+                  },
+                  {
+                    "action": "Share in parenting groups that allow resources (check the community rules).",
+                    "day": "Day 8"
+                  },
+                  {
+                    "action": "Add the holiday insert as a listing variation; update tags with gift phrasing.",
+                    "day": "Day 12"
+                  },
+                  {
+                    "action": "Start a 'first device under the tree' pin series aimed at December searches.",
+                    "day": "Day 18"
+                  },
+                  {
+                    "action": "Post 3 more videos: request cards in action, monthly check-in, first-device gift wrap.",
+                    "day": "Day 16"
+                  },
+                  {
+                    "action": "Go/pivot/stop check against thresholds.",
+                    "day": "Day 21"
+                  }
+                ],
+                "positioning": "Wrap the rules with the gift."
+              },
+              "platforms": [
+                {
+                  "name": "Etsy",
+                  "role": "primary",
+                  "why": "Holiday gift printables category."
+                },
+                {
+                  "name": "Pinterest",
+                  "role": "traffic",
+                  "why": "Gift-idea pins peak in November-December."
+                }
+              ],
+              "pricing": {
+                "basis": "estimate",
+                "currency": "USD",
+                "high": 9,
+                "low": 4,
+                "rationale": "Gift printables are impulse buys. Keep the price low and bundle with the allowance kit at $12.",
+                "recommended": 6
+              },
+              "productName": "My First Device Gift Booklet",
+              "risks": [
+                "Hard seasonal window",
+                "Listing discovery takes weeks",
+                "Competition from free phone contracts"
+              ],
+              "superPrompt": "You are a children's stationery designer. Produce a giftable printable called \"My First Device: Gift Certificate & Starter Booklet\" for parents giving a child their first phone, tablet or kids' device this holiday season.\n\nBUYER AND JOB: Parents or grandparents wrapping a first device in December 2026. They want a sweet, festive way to present it, with the family rules built in, so day one starts with a shared plan instead of a fight.\n\nDELIVERABLE SPEC (folded half-letter booklet, 8 interior pages; print files for US Letter and A4, imposed for duplex printing, plus single-page versions):\n- Gift certificate (3 festive designs: winter cabin, starry night, candy stripe) reading \"This certificate is good for: one first device, plus our family plan\" with To / From / Date.\n- Page 1 \"Welcome to your device!\" (kid voice, 80 words).\n- Page 2 \"My device, my job\": 6 kid responsibilities with checkboxes (charging spot, kind messages, ask before downloading, tell a grown-up, device-free meals, bedtime parking).\n- Page 3 \"Our grown-up promises\": 5 parent commitments (explain rules, model breaks, listen, review together, no secret changes).\n- Page 4 \"My time plan\": category boxes Entertainment / Games / Social / Creative / Learning with minutes for school days and weekends.\n- Page 5 \"People I can contact\" list (10 lines).\n- Page 6 \"When something feels weird\": a simple 3-step 'stop, screenshot if asked, tell a trusted adult' card.\n- Page 7 \"Unplugged ideas\" (12 original screen-free activities).\n- Page 8 signatures plus a \"30-day check-in\" date.\n- Bonus: 6 printable gift tags and a bookmark with the time plan.\n\nDESIGN: Pairings: (a) \"Chewy\" + \"Nunito\"; (b) \"Grandstander\" + \"Quicksand\". Palette: Pine #2D6A4F, Cranberry #C8553D, Snow #FAFAF7, Gold #E9C46A, Night Blue #264653. Simple original illustrations (mittens, stars, a smiling generic rectangle device with no buttons or logo).\n\nRULES: Original text. Age 7-12 reading level. No brand, operating-system, app or feature names; no device that resembles a real product. No safety guarantees or health claims; advise \"use your device's parental controls\" generically.\n\nDIFFERENTIATION: Turns the gift moment into the setup moment; competitors sell contracts that feel like legal documents.\n\nOUTPUT: Every page's exact text and layout, the imposition order for the booklet, and a self-check (no trademarks, kid-friendly language, both paper sizes, 3 certificate designs present)."
+            },
+            "rightsNote": "Drawn devices must be generic rectangles with no brand-like buttons, notches or logos. No trademarks.",
+            "stopIf": "No sales by Nov 30.",
+            "theme": "'My First Device' holiday gift certificate + 8-page starter booklet (kid responsibilities, parent promises, category time plan, contacts, what-to-do card)",
+            "validationTest": "List by Oct 20 and run gift-themed pins through November.",
+            "whyBuy": "Turns gift-opening into a calm setup moment, with rules agreed on day one, in a format that feels like a present rather than a contract."
+          }
+        ],
+        "recommendedAction": "prepare",
+        "rights": {
+          "note": "Company, OS and capitalized feature names are trademarks and must stay out of product names, images and tags. Use generic descriptions only. No health claims about screen time.",
+          "risk": "medium"
+        },
+        "scores": {
+          "buyerIntent": {
+            "basis": "qualitative",
+            "rationale": "Help-seeking only, no purchase evidence.",
+            "score": 1
+          },
+          "durability": {
+            "basis": "qualitative",
+            "rationale": "Platform controls persist; kids' device use is evergreen.",
+            "score": 4
+          },
+          "economics": {
+            "basis": "qualitative",
+            "rationale": "Low prices in a crowded category, but zero marginal cost.",
+            "score": 3
+          },
+          "productFit": {
+            "basis": "qualitative",
+            "rationale": "Printables match the need directly.",
+            "score": 4
+          },
+          "supplyGap": {
+            "basis": "qualitative",
+            "rationale": "Generic supply is heavy; the gap is only in the category-specific angle.",
+            "score": 2
+          },
+          "timing": {
+            "basis": "reported",
+            "rationale": "Launched Sept 14, 2026 with explainers through Sept 29.",
+            "score": 4
+          }
+        },
+        "spread": {
+          "evidence": [
+            "e1",
+            "e2",
+            "e3",
+            "e6",
+            "e7",
+            "e8",
+            "e9",
+            "e10"
+          ],
+          "text": "At least 8 independent outlets published explainers or how-tos within two weeks, from tech press to consumer-help sites. Parent-generated social signals were not found (social sources were not searchable)."
+        },
+        "summary": "New built-in kids' device controls launched Sept 14, 2026 let parents set time allowances by app category with age-based guidance, and a wave of parent how-to explainers followed.",
+        "trajectory": {
+          "evidence": [
+            "e4",
+            "e9"
+          ],
+          "stage": "first_spark",
+          "text": "The habit (category allowances plus family agreement) is two weeks old. Adoption should grow with the holiday device wave and New Year resets."
+        },
+        "unresolved": [
+          "Parent social posts about 'category limits' or 'time allowances' (organic adoption, not just press)",
+          "Etsy or Pinterest listings using 'category screen time' phrasing (early competitors confirm demand)",
+          "Whether the other major mobile OS adds similar category allowances (doubles the market)"
+        ],
+        "what": "Instead of limiting each app separately, parents now give whole categories (entertainment, games, social media, or custom ones) a daily allowance. Kids ask before opening new websites, and the system shows age guidance developed with pediatric experts. The setup step has to be done actively, so families now have to choose the numbers and agree on rules together.",
+        "window": {
+          "endEstimate": null,
+          "estimate": "Now through January 2027, peaking around December device gifting",
+          "invalidators": [
+            "Parents ignore the new controls",
+            "The OS adds its own printable family plan"
+          ],
+          "reasoning": "New devices given at the holidays need setup, and January brings family resets. After that it becomes an evergreen parenting printable.",
+          "seasonality": "Holiday gifting (Dec) and back-to-school (Aug-Sep).",
+          "sellBy": "2026-12-15"
+        }
+      }
+    ],
+    "kind": "discover",
+    "lens": "First-spark hunt: new consumer tech habits (printables/templates)",
+    "researchedAt": "2026-10-05T00:00:35Z",
+    "sourcesTried": [
+      {
+        "method": "search",
+        "note": "About 45 queries across TikTok trend roundups, Know Your Meme, tech press, parenting and campus news, and marketplace listings.",
+        "source": "WebSearch (standard and extended)",
+        "status": "ok"
+      },
+      {
+        "method": "WebFetch",
+        "note": "Egress blocked; used the search-result summary only.",
+        "source": "napoleoncat.com TikTok trends Oct 2026",
+        "status": "blocked"
+      },
+      {
+        "method": "WebFetch",
+        "note": "Egress blocked; used the search-result summary only.",
+        "source": "newengen.com October and September TikTok trends",
+        "status": "blocked"
+      },
+      {
+        "method": "WebFetch",
+        "note": "Egress blocked.",
+        "source": "anijam.ai TikTok trends Sept 2026",
+        "status": "blocked"
+      },
+      {
+        "method": "WebFetch",
+        "note": "Egress blocked; used search results.",
+        "source": "nyunews.com (Washington Square News)",
+        "status": "blocked"
+      },
+      {
+        "method": "WebFetch",
+        "note": "Egress blocked; used search results.",
+        "source": "offline.community (Month Offline)",
+        "status": "blocked"
+      },
+      {
+        "method": "WebFetch",
+        "note": "Egress blocked; used search results for the wflx/kold copies.",
+        "source": "hometownstations.com (Gray TV syndicated story)",
+        "status": "blocked"
+      },
+      {
+        "method": "WebFetch",
+        "note": "Egress blocked; trend date could not be verified.",
+        "source": "pasqualepillitteri.it (ChatGPT goodbye trend)",
+        "status": "blocked"
+      },
+      {
+        "method": "search results only",
+        "note": "Video and discover pages seen only as search results; dates of two videos inferred from their numeric IDs.",
+        "source": "TikTok",
+        "status": "ok"
+      },
+      {
+        "method": "search results only",
+        "note": "Listings seen as search results; no sales data available.",
+        "source": "Etsy / Gumroad / Payhip",
+        "status": "ok"
+      },
+      {
+        "method": "not attempted",
+        "note": "Usually blocked; no search-interest data used.",
+        "source": "Google Trends",
+        "status": "not_tried"
+      },
+      {
+        "method": "not attempted",
+        "note": "Usually blocked.",
+        "source": "Reddit",
+        "status": "not_tried"
+      }
+    ]
+  },
+  "runId": "run-hunt-tech-20261004-2",
+  "status": "new"
+}

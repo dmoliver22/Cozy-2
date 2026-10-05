@@ -1,0 +1,19 @@
+{
+  "accessMethod": "web_search_result",
+  "candidateId": "jimothy-the-raccoon",
+  "claim": "Syndicated copy of The Hill's story.",
+  "excerpt": "Same headline.",
+  "firstRetrievedAt": "2026-10-04T20:57:55Z",
+  "firstSeenRunId": "run-2026-10-04-memes",
+  "id": "jimothy-the-raccoon~eeb8a5b6",
+  "intent": "curiosity",
+  "kind": "observed",
+  "lastSeenRunId": "run-2026-10-04-memes",
+  "publishedAt": null,
+  "publisher": "WGN-TV (syndicated)",
+  "retrievedAt": "2026-10-04T20:57:55Z",
+  "signalType": "press",
+  "syndicationOf": "jimothy-the-raccoon~d969f878",
+  "title": "Who is Jimothy, the short-spined raccoon taking over social media (and maybe your TV)",
+  "url": "https://wgntv.com/entertainment-news/who-is-jimothy-the-short-spined-raccoon-taking-over-social-media-and-maybe-your-tv/"
+}

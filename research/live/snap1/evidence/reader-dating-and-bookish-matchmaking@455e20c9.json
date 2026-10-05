@@ -1,0 +1,19 @@
+{
+  "accessMethod": "web_search_result",
+  "candidateId": "reader-dating-and-bookish-matchmaking",
+  "claim": "A university also runs genre-based book speed dating.",
+  "excerpt": "Book Genre Speed Dating",
+  "firstRetrievedAt": "2026-10-05T00:00:55Z",
+  "firstSeenRunId": "run-hunt-hobbies-20261004-2",
+  "id": "reader-dating-and-bookish-matchmaking~455e20c9",
+  "intent": "utility",
+  "kind": "observed",
+  "lastSeenRunId": "run-hunt-hobbies-20261004-2",
+  "publishedAt": "2026-01-28",
+  "publisher": "University of Nottingham Student Living",
+  "retrievedAt": "2026-10-05T00:00:55Z",
+  "signalType": "community",
+  "syndicationOf": null,
+  "title": "Book Genre Speed Dating",
+  "url": "https://studentliving.nottingham.ac.uk/event/40753738/book-genre-speed-dating/2026-01-28"
+}

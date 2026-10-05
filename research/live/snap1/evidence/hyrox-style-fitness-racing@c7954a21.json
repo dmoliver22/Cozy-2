@@ -1,0 +1,19 @@
+{
+  "accessMethod": "web_search_result",
+  "candidateId": "hyrox-style-fitness-racing",
+  "claim": "There was at least one brand controversy tied to Hyrox merchandise; details not visible.",
+  "excerpt": "Title only; nature of the controversy unknown.",
+  "firstRetrievedAt": "2026-10-04T20:53:53Z",
+  "firstSeenRunId": "run-2026-10-04-hobbies",
+  "id": "hyrox-style-fitness-racing~c7954a21",
+  "intent": "criticism",
+  "kind": "observed",
+  "lastSeenRunId": "run-2026-10-04-hobbies",
+  "publishedAt": null,
+  "publisher": "Marketing-Interactive",
+  "retrievedAt": "2026-10-04T20:53:53Z",
+  "signalType": "press",
+  "syndicationOf": null,
+  "title": "Puma quietly pulls Joanna Wietrzyk collection amid Hyrox controversy",
+  "url": "https://www.marketing-interactive.com/puma-quietly-pulls-joanna-wietrzyk-collection-amid-hyrox-controversy"
+}

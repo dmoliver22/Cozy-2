@@ -1,0 +1,19 @@
+{
+  "accessMethod": "web_search_result",
+  "candidateId": "american-mahjong-boom",
+  "claim": "Documents the 2021 backlash against a company that sold redesigned sets without Chinese symbols; a rights/sensitivity risk for any creator.",
+  "excerpt": "Search summary: Dallas company run by three non-Chinese women sold 'refreshed' sets for ~$300-$400; critics called it gentrifying; company apologized.",
+  "firstRetrievedAt": "2026-10-04T20:53:53Z",
+  "firstSeenRunId": "run-2026-10-04-hobbies",
+  "id": "american-mahjong-boom~c566a4b8",
+  "intent": "criticism",
+  "kind": "observed",
+  "lastSeenRunId": "run-2026-10-04-hobbies",
+  "publishedAt": null,
+  "publisher": "V Magazine",
+  "retrievedAt": "2026-10-04T20:53:53Z",
+  "signalType": "press",
+  "syndicationOf": null,
+  "title": "'The Mahjong Line Company' Accused of Cultural Appropriation",
+  "url": "https://vmagazine.com/?p=155594"
+}

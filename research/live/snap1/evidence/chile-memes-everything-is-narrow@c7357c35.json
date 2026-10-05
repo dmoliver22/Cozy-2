@@ -1,0 +1,19 @@
+{
+  "accessMethod": "web_search_result",
+  "candidateId": "chile-memes-everything-is-narrow",
+  "claim": "A web search for Chile meme merch returned only generic Chilean flag tees, nothing meme-specific (search-engine check, not a marketplace count)",
+  "excerpt": "Chile T-shirt Mens Chilean flag Tee Shirt Patriotic Nations Symbolism",
+  "firstRetrievedAt": "2026-10-05T00:00:47Z",
+  "firstSeenRunId": "run-hunt-memes-20261004-2",
+  "id": "chile-memes-everything-is-narrow~c7357c35",
+  "intent": "none",
+  "kind": "inference",
+  "lastSeenRunId": "run-hunt-memes-20261004-2",
+  "publishedAt": null,
+  "publisher": "web search (Walmart, eBay results)",
+  "retrievedAt": "2026-10-05T00:00:47Z",
+  "signalType": "marketplace",
+  "syndicationOf": null,
+  "title": "Search: Chile meme stickers/shirts",
+  "url": "https://www.walmart.com/ip/1387919697"
+}

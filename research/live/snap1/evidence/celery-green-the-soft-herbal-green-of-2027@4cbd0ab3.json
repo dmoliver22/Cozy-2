@@ -1,0 +1,19 @@
+{
+  "accessMethod": "web_search_result",
+  "candidateId": "celery-green-the-soft-herbal-green-of-2027",
+  "claim": "Local-news syndication extends reach of the announcement to general audiences",
+  "excerpt": "Vegetable-named hue picked as 2027 Sherwin-Williams Color of the Year",
+  "firstRetrievedAt": "2026-10-04T23:58:00Z",
+  "firstSeenRunId": "run-hunt-aesthetics-20261004-1",
+  "id": "celery-green-the-soft-herbal-green-of-2027~4cbd0ab3",
+  "intent": "curiosity",
+  "kind": "observed",
+  "lastSeenRunId": "run-hunt-aesthetics-20261004-1",
+  "publishedAt": null,
+  "publisher": "MyHighPlains (Nexstar)",
+  "retrievedAt": "2026-10-04T23:58:00Z",
+  "signalType": "press",
+  "syndicationOf": "celery-green-the-soft-herbal-green-of-2027~62b93aa9",
+  "title": "Vegetable-named hue picked as 2027 Sherwin-Williams Color of the Year",
+  "url": "https://www.myhighplains.com/entertainment-news/vegetable-named-hue-picked-as-2027-sherwin-williams-color-of-the-year/"
+}

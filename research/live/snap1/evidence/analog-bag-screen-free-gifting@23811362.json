@@ -1,0 +1,19 @@
+{
+  "accessMethod": "web_search_result",
+  "candidateId": "analog-bag-screen-free-gifting",
+  "claim": "A dedicated site gives away free analog-bag printables, which competes with paid printables.",
+  "excerpt": "Summary: free mandala coloring pages, sudoku, origami templates, journal prompts and perler patterns; more puzzle and journal categories 'coming soon'.",
+  "firstRetrievedAt": "2026-10-04T20:59:17Z",
+  "firstSeenRunId": "run-2026-10-04-movements",
+  "id": "analog-bag-screen-free-gifting~23811362",
+  "intent": "utility",
+  "kind": "observed",
+  "lastSeenRunId": "run-2026-10-04-movements",
+  "publishedAt": null,
+  "publisher": "analogbag.net",
+  "retrievedAt": "2026-10-04T20:59:17Z",
+  "signalType": "marketplace",
+  "syndicationOf": null,
+  "title": "Analog Bag - Free Printables for Screen-Free Fun",
+  "url": "https://analogbag.net/about"
+}

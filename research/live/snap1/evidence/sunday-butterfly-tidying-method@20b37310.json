@@ -1,0 +1,19 @@
+{
+  "accessMethod": "web_search_result",
+  "candidateId": "sunday-butterfly-tidying-method",
+  "claim": "Origin: method described by Homes & Gardens kitchen and appliance editor Lydia Hayman",
+  "excerpt": "Instead of following an order of events, you move through your home and put away, declutter, organize or clean the items you notice.",
+  "firstRetrievedAt": "2026-10-05T00:01:02Z",
+  "firstSeenRunId": "run-hunt-foodhome-20261004-3",
+  "id": "sunday-butterfly-tidying-method~20b37310",
+  "intent": "utility",
+  "kind": "observed",
+  "lastSeenRunId": "run-hunt-foodhome-20261004-3",
+  "publishedAt": null,
+  "publisher": "Homes & Gardens",
+  "retrievedAt": "2026-10-05T00:01:02Z",
+  "signalType": "press",
+  "syndicationOf": null,
+  "title": "'I Struggle to Focus but Tried the Sunday Butterfly Organizing Method and Finally Tidied My Home with Ease'",
+  "url": "https://www.homesandgardens.com/solved/sunday-butterfly-method"
+}

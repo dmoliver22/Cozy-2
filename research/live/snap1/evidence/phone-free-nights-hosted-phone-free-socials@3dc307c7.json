@@ -1,0 +1,19 @@
+{
+  "accessMethod": "web_search_result",
+  "candidateId": "phone-free-nights-hosted-phone-free-socials",
+  "claim": "Further national coverage.",
+  "excerpt": "US bars and restaurants are pushing a growing phone-free dining trend",
+  "firstRetrievedAt": "2026-10-05T00:00:55Z",
+  "firstSeenRunId": "run-hunt-hobbies-20261004-4",
+  "id": "phone-free-nights-hosted-phone-free-socials~3dc307c7",
+  "intent": "curiosity",
+  "kind": "observed",
+  "lastSeenRunId": "run-hunt-hobbies-20261004-4",
+  "publishedAt": null,
+  "publisher": "Fox News",
+  "retrievedAt": "2026-10-05T00:00:55Z",
+  "signalType": "press",
+  "syndicationOf": null,
+  "title": "US bars and restaurants are pushing a growing phone-free dining trend",
+  "url": "https://www.foxnews.com/tech/phone-free-restaurants-trending-across-us"
+}

@@ -1,0 +1,19 @@
+{
+  "accessMethod": "web_search_result",
+  "candidateId": "needlepoint-revival",
+  "claim": "A free app catalogs canvases, threads and stitches, which competes with paid trackers.",
+  "excerpt": "Search summary: free; catalog unstarted canvases; build a searchable thread inventory.",
+  "firstRetrievedAt": "2026-10-04T20:53:53Z",
+  "firstSeenRunId": "run-2026-10-04-hobbies",
+  "id": "needlepoint-revival~5352fdba",
+  "intent": "utility",
+  "kind": "observed",
+  "lastSeenRunId": "run-2026-10-04-hobbies",
+  "publishedAt": null,
+  "publisher": "Apple App Store",
+  "retrievedAt": "2026-10-04T20:53:53Z",
+  "signalType": "marketplace",
+  "syndicationOf": null,
+  "title": "Stitchpoint",
+  "url": "https://apps.apple.com/ca/app/stitchpoint/id6759072297"
+}

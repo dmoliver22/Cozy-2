@@ -1,0 +1,19 @@
+{
+  "accessMethod": "web_search_result",
+  "candidateId": "cosmic-reset-beginner-astrology-tarot",
+  "claim": "Astrocartography has spread to mainstream travel press, independent of Pinterest.",
+  "excerpt": "Search summary: a growing number of Gen Z travelers use astrocartography (a personal world map of planetary 'lines' based on birth date, time and place) to choose destinations.",
+  "firstRetrievedAt": "2026-10-04T21:00:56Z",
+  "firstSeenRunId": "run-2026-10-04-aesthetics",
+  "id": "cosmic-reset-beginner-astrology-tarot~23e4b1af",
+  "intent": "curiosity",
+  "kind": "observed",
+  "lastSeenRunId": "run-2026-10-04-aesthetics",
+  "publishedAt": null,
+  "publisher": "Frommer's",
+  "retrievedAt": "2026-10-04T21:00:56Z",
+  "signalType": "press",
+  "syndicationOf": null,
+  "title": "Gen Z Travelers Are Using Astrology to Plan Vacations. Here's How to...",
+  "url": "https://www.frommers.com/trip-ideas/arts-and-culture/how-to-use-astrology-to-plan-travel/"
+}

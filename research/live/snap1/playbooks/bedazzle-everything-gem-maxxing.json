@@ -1,0 +1,156 @@
+{
+  "candidateId": "bedazzle-everything-gem-maxxing",
+  "id": "bedazzle-everything-gem-maxxing",
+  "products": [
+    {
+      "assembly": [
+        "Turn each pattern spec into dot layouts in Canva using a 3-4 mm circle grid (or Inkscape/Affinity for precision)",
+        "Color dots by the key; add gem counts and sizes on each page",
+        "Add a 25 mm / 1 in scale square to every page; print one test page to verify scale",
+        "Set up US Letter and A4 versions; export PDF Print 300 DPI",
+        "Optionally export each pattern as SVG/PNG for cutting-machine users",
+        "Build listing images: hero flat lay, pattern grid, how-it-works steps, what's included",
+        "Film the 3 TikToks using one physical test project"
+      ],
+      "asymmetry": {
+        "badBetIf": "The trend fades before the listing indexes, or free templates satisfy most people",
+        "downside": "About 12 hours plus about $15 in demo supplies",
+        "upside": "Zero marginal cost, a holiday DIY-gift extension, and a reusable craft-pattern catalog"
+      },
+      "costs": {
+        "baseCost": null,
+        "basis": "estimate: digital; about $10-15 one-off for gems and a clear case to film demos",
+        "item": null,
+        "pages": null,
+        "provider": null,
+        "shipping": null,
+        "testBudget": 0,
+        "testBudgetNote": "Spend only on demo supplies; no ads"
+      },
+      "extensions": [
+        "Holiday gem patterns",
+        "Initials gift pack",
+        "SVG pack for cutting machines",
+        "Sticker-style digital gem clipart for planners"
+      ],
+      "imagePrompts": [
+        {
+          "prompt": "Top-down flat lay of a clear phone case filled with pink and crystal rhinestones in a bow pattern beside a printed dot-grid pattern sheet, scattered loose gems in #F4A6C6 #D7263D #E8F1F8 #D4A84B, wax pick tool, soft daylight on white desk, no brand marks, 4:5 aspect ratio. No logos, no real people, no trademarked characters, no watermarks.",
+          "purpose": "Listing hero image",
+          "tool": "Ideogram"
+        },
+        {
+          "prompt": "Clean vector-style preview of a rhinestone cherry design made of circular dots on a light dot grid, cherries in #D7263D with gold #D4A84B stems, crisp, white background, 1:1 aspect ratio, no text. No logos, no real people, no trademarked characters, no watermarks.",
+          "purpose": "Pattern preview graphic",
+          "tool": "Ideogram"
+        },
+        {
+          "prompt": "Grid of 6 thumbnail pattern pages (bows, cherries, stars, hearts, initials, guide) in pastel frames #B8A1D9 #F4A6C6 on white, 4:5 aspect ratio, labels added later in Canva. No logos, no real people, no trademarked characters, no watermarks.",
+          "purpose": "What's-included grid",
+          "tool": "Canva"
+        }
+      ],
+      "index": 0,
+      "listingPrompt": "Write an Etsy listing for a digital download: 30 printable rhinestone placement patterns (bows, cherries, stars, hearts, alphabet) for phone cases, cups, compacts and notebooks, with gem counts, sizes and a beginner guide. Title under 140 characters, starting with 'Rhinestone Pattern Pack'. 13 tags, 20 characters or fewer each (e.g. bedazzle pattern, rhinestone template, gem placement, diy phone case). Description: what's included, page sizes (US Letter, A4), formats (PDF, optional SVG/PNG), how to use under a clear case or inside a cup, that no gems ship, and a FAQ (Does it fit my phone? Generic sizes; check measurements. Can I sell items I make? State your own policy). Do NOT use brand names of phones, cups, cafés or glue, celebrity names, or trademarked terms.",
+      "marketing": {
+        "channels": [
+          {
+            "cadence": "3 per week",
+            "channel": "TikTok",
+            "tactic": "Time-lapse bedazzling with the pattern visible"
+          },
+          {
+            "cadence": "Daily",
+            "channel": "Pinterest",
+            "tactic": "Pattern preview pins and 'how to bedazzle' guides"
+          }
+        ],
+        "hooks": [
+          "Stop freehanding your rhinestones",
+          "The trick to symmetrical bedazzling",
+          "Bedazzle a gift in one evening"
+        ],
+        "keywords": [
+          "bedazzle pattern",
+          "rhinestone template",
+          "gem placement guide",
+          "diy phone case",
+          "bedazzled cup",
+          "rhinestone craft"
+        ],
+        "launchPlan": [
+          {
+            "action": "List the pack on Etsy",
+            "day": "Day 0"
+          },
+          {
+            "action": "TikTok 1: phone case with a pattern under a clear case (time-lapse)",
+            "day": "Day 1"
+          },
+          {
+            "action": "10 Pinterest pins of pattern previews",
+            "day": "Day 3"
+          },
+          {
+            "action": "TikTok 2: 'freehand vs pattern' comparison",
+            "day": "Day 5"
+          },
+          {
+            "action": "Check views; refine title toward the best-performing phrase",
+            "day": "Day 7"
+          },
+          {
+            "action": "TikTok 3: initials cup as a DIY gift idea",
+            "day": "Day 10"
+          },
+          {
+            "action": "Add a holiday mini pack (snowflakes, ornaments)",
+            "day": "Day 14"
+          },
+          {
+            "action": "Go/pivot/stop: continue at 5+ sales or a 10k-view video; pivot to a gift-kit guide if views only; stop under 2 sales and 150 views",
+            "day": "Day 21"
+          }
+        ],
+        "positioning": "Bedazzle like a pro: printable gem maps with exact counts"
+      },
+      "platforms": [
+        {
+          "name": "Etsy",
+          "role": "primary",
+          "why": "Craft-pattern buyers search there"
+        },
+        {
+          "name": "TikTok",
+          "role": "traffic",
+          "why": "Where the trend lives; process videos are native"
+        },
+        {
+          "name": "Pinterest",
+          "role": "traffic",
+          "why": "DIY pattern pins are searched and saved there"
+        }
+      ],
+      "pricing": {
+        "basis": "estimate",
+        "currency": "USD",
+        "high": 10,
+        "low": 5,
+        "rationale": "Craft pattern packs are low-ticket; 30 patterns with a guide supports about $7, above free templates on value",
+        "recommended": 7
+      },
+      "productName": "Gem Map: 30 Trace-and-Stick Bedazzle Patterns",
+      "risks": [
+        "Fad decay after the celebrity moment",
+        "Free template competition",
+        "Customer complaints if sizes don't fit their object"
+      ],
+      "source": "worker",
+      "superPrompt": "You are a craft pattern designer and instruction writer producing a sellable printable pattern pack for the bedazzling (rhinestone-everything) DIY trend. BUYER: women aged 16-30 who want to bedazzle phone cases, cups, compacts and notebooks but struggle to get neat, symmetrical results freehand. JOB: printable placement guides they put under a clear phone case, tape inside a clear cup, or trace onto a surface, plus clear instructions. DELIVERABLE: 30 patterns in 5 families of 6: Bows, Cherries & Fruit, Stars & Moons, Hearts, Initials (an A-Z alphabet counts as one pattern family page set with a 'build your name' guide). For each pattern give: name, target object, finished size in mm, a dot-grid layout description (rows/positions or a coordinate list on a 3 mm or 4 mm grid), gem sizes used (SS6, SS10, SS16, SS20), gem count per color, and a color key with hex codes for printing. Sizes: phone case outline at about 72x150 mm (generic, no brand models), cup band 220x60 mm, compact circle 70 mm, notebook cover A5. Every page on US Letter 8.5x11 in and A4 with a 1-inch/25 mm scale check square. Also produce: a 2-page beginner guide (tools: wax pick, tweezers, glue types in generic terms, ventilation and drying time cautions, keep away from small children), a gem-size chart, and a shopping checklist with generic item names. PALETTE for printed guides: Bubblegum #F4A6C6, Cherry #D7263D, Crystal #E8F1F8, Gold #D4A84B, Lilac #B8A1D9, Ink #2B2B2B. FONTS (Canva): pairing A, Baloo 2 headings with Nunito body; pairing B, Fredoka with Quicksand. CONTENT RULES: all designs original. No logos, brand names, team crests, characters or celebrity references. Safety notes must be factual and cautious (use glue in a ventilated area, follow the glue maker's instructions, not for items that go in the mouth). Gem counts must equal the dots in each layout. DIFFERENTIATION: beginner-first, trend motifs, counts and sizes on every page, and generic object sizes that fit most items. OUTPUT: Section 1, pack overview. Sections 2-6, one per family with its 6 patterns fully specified. Section 7, beginner guide. Section 8, gem-size chart. Section 9, shopping checklist. Section 10, 3 TikTok scripts. SELF-CHECK: (1) dot counts match gem counts, (2) every page has a scale check square, (3) no brands or IP anywhere, (4) both Letter and A4 noted, (5) the safety notes contain no product claims.",
+      "themeKey": "Printable trace-and-stick gem placement patterns for phone c"
+    }
+  ],
+  "runId": "run-hunt-aesthetics-20261004-4",
+  "source": "worker",
+  "writtenAt": "2026-10-04T23:58:00Z"
+}

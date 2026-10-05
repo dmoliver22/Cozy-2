@@ -1,0 +1,19 @@
+{
+  "accessMethod": "web_search_result",
+  "candidateId": "jimothy-the-raccoon",
+  "claim": "Jimothy went viral in July 2026 from Kiana Hall's July 14 Instagram video and inspired a Google animation, bobblehead, Mariners merch and card giveaway, and a Fortnite appearance.",
+  "excerpt": "Search summary: short spine syndrome; the July 14 video got about 8 million Instagram views (another summary: 10 million within one week); Mariners Salmon Run, special merchandise, card giveaway for Ballard Food Bank; Etsy full of paintings, sculptures, stickers, knit dolls; tattoos.",
+  "firstRetrievedAt": "2026-10-04T20:57:55Z",
+  "firstSeenRunId": "run-2026-10-04-memes",
+  "id": "jimothy-the-raccoon~43741148",
+  "intent": "curiosity",
+  "kind": "observed",
+  "lastSeenRunId": "run-2026-10-04-memes",
+  "publishedAt": null,
+  "publisher": "Wikipedia",
+  "retrievedAt": "2026-10-04T20:57:55Z",
+  "signalType": "community",
+  "syndicationOf": null,
+  "title": "Jimothy (raccoon)",
+  "url": "https://en.wikipedia.org/wiki/Jimothy_(raccoon)"
+}

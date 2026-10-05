@@ -1,0 +1,19 @@
+{
+  "accessMethod": "web_search_result",
+  "candidateId": "kitchen-witch-aesthetic",
+  "claim": "Lifestyle creators publish how-to content for Practical Magic-themed gatherings, which suggests a market for party and decor printables.",
+  "excerpt": "Search result title only.",
+  "firstRetrievedAt": "2026-10-04T21:00:56Z",
+  "firstSeenRunId": "run-2026-10-04-aesthetics",
+  "id": "kitchen-witch-aesthetic~931bdd29",
+  "intent": "utility",
+  "kind": "observed",
+  "lastSeenRunId": "run-2026-10-04-aesthetics",
+  "publishedAt": null,
+  "publisher": "Fern and Maple",
+  "retrievedAt": "2026-10-04T21:00:56Z",
+  "signalType": "creator",
+  "syndicationOf": null,
+  "title": "How to host a Practical Magic inspired witch party",
+  "url": "https://fernandmaple.com/how-to-host-a-practical-magic-inspired-witch-party/"
+}

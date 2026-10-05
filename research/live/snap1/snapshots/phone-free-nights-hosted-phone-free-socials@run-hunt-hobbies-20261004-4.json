@@ -1,0 +1,23 @@
+{
+  "action": "prepare",
+  "analystAction": "prepare",
+  "candidateId": "phone-free-nights-hosted-phone-free-socials",
+  "competition": "unknown",
+  "confidence": 41,
+  "id": "phone-free-nights-hosted-phone-free-socials~run-hunt-hobbies-20261004-4",
+  "independentSources": 8,
+  "purchaseSignals": 0,
+  "runId": "run-hunt-hobbies-20261004-4",
+  "score": 51,
+  "stage": "early_growth",
+  "takenAt": "2026-10-05T00:00:55Z",
+  "weightsUsed": {
+    "buyerIntent": 20,
+    "durability": 15,
+    "economics": 10,
+    "productFit": 15,
+    "supplyGap": 15,
+    "timing": 25
+  },
+  "windowEstimate": "Through the 2026 holiday party season and into 2027"
+}

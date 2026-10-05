@@ -1,0 +1,19 @@
+{
+  "accessMethod": "web_search_result",
+  "candidateId": "bedazzle-everything-gem-maxxing",
+  "claim": "Business press frames bedazzling as an affordable self-expression spend; brands (Starbucks, Sephora, Ulta) are bedazzling their social feeds",
+  "excerpt": "Gen Z's bedazzling era is the latest Lipstick Index as youths put gems on everything from coffee cups to skincare",
+  "firstRetrievedAt": "2026-10-04T23:58:00Z",
+  "firstSeenRunId": "run-hunt-aesthetics-20261004-4",
+  "id": "bedazzle-everything-gem-maxxing~1a0d4a41",
+  "intent": "utility",
+  "kind": "observed",
+  "lastSeenRunId": "run-hunt-aesthetics-20261004-4",
+  "publishedAt": "2026-08-28",
+  "publisher": "Fortune",
+  "retrievedAt": "2026-10-04T23:58:00Z",
+  "signalType": "press",
+  "syndicationOf": null,
+  "title": "Gen Z's bedazzling era is the latest Lipstick Index as youths put gems on everything from coffee cups to skincare",
+  "url": "https://fortune.com/2026/08/28/gen-z-bedazzling-era-lipstick-index-youths-gems-coffee-skincare/"
+}

@@ -1,0 +1,19 @@
+{
+  "accessMethod": "web_search_result",
+  "candidateId": "analog-bag-screen-free-gifting",
+  "claim": "Business press framed Gen Z's analog and pre-smartphone nostalgia as a commercial opportunity in April 2026.",
+  "excerpt": "Summary: 13-25-year-olds long for a tech-free past ('anemoia'); analog experiences are flourishing; the social-media-blocker app market is projected at $5B by 2035 (that figure concerns apps, not physical analog goods).",
+  "firstRetrievedAt": "2026-10-04T20:59:17Z",
+  "firstSeenRunId": "run-2026-10-04-movements",
+  "id": "analog-bag-screen-free-gifting~f7776af1",
+  "intent": "curiosity",
+  "kind": "observed",
+  "lastSeenRunId": "run-2026-10-04-movements",
+  "publishedAt": "2026-04-01",
+  "publisher": "Fortune",
+  "retrievedAt": "2026-10-04T20:59:17Z",
+  "signalType": "press",
+  "syndicationOf": null,
+  "title": "Gen Z is engineering an analog future — and it's at least a $5 billion opportunity",
+  "url": "https://fortune.com/2026/04/01/gen-z-analog-economy-5-billion-market-nostalgia"
+}

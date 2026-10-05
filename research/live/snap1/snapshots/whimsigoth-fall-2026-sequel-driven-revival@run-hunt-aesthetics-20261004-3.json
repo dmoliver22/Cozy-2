@@ -1,0 +1,23 @@
+{
+  "action": "prepare",
+  "analystAction": "prepare",
+  "candidateId": "whimsigoth-fall-2026-sequel-driven-revival",
+  "competition": "high",
+  "confidence": 59,
+  "id": "whimsigoth-fall-2026-sequel-driven-revival~run-hunt-aesthetics-20261004-3",
+  "independentSources": 9,
+  "purchaseSignals": 1,
+  "runId": "run-hunt-aesthetics-20261004-3",
+  "score": 61,
+  "stage": "early_growth",
+  "takenAt": "2026-10-04T23:58:00Z",
+  "weightsUsed": {
+    "buyerIntent": 20,
+    "durability": 15,
+    "economics": 10,
+    "productFit": 15,
+    "supplyGap": 15,
+    "timing": 25
+  },
+  "windowEstimate": "Peak now through Halloween; evergreen tail into winter"
+}

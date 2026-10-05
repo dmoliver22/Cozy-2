@@ -1,0 +1,178 @@
+{
+  "candidateIds": [
+    "analog-bag-screen-free-gifting",
+    "the-great-lock-in",
+    "gen-z-bible-reading-revival"
+  ],
+  "discovered": [
+    {
+      "disposition": "deep_dived",
+      "name": "Analog bag / 'analog era' screen-free movement, and screen-free holiday gifting",
+      "rejectReason": "",
+      "whyConsidered": "Several independent sources (Axios 2025, YPulse and Fortune April 2026, Fast Company, Eventbrite data, Michaels class) plus the PwC Holiday Outlook 2026 finding that 78% of Gen Z are prioritizing screen-free gifts. The trend lines up directly with holiday buying."
+    },
+    {
+      "disposition": "deep_dived",
+      "name": "The Great Lock-In 2026 (aliases: Winter Arc, last-90-days challenge, 'lock in 2026')",
+      "rejectReason": "",
+      "whyConsidered": "A named Sept 1 to Dec 31 self-improvement challenge, back for its second year (TheGrio 2026-09-01; BuzzFeed says it is 'taking over TikTok again'). It also carries into New Year 2027 'lock-in/rebrand' framing."
+    },
+    {
+      "disposition": "deep_dived",
+      "name": "Gen Z / millennial Bible-reading revival ('quiet revival')",
+      "rejectReason": "",
+      "whyConsidered": "Barna/Gloo measured Gen Z weekly Bible reading rising from 30% (2024) to 49% (2025). Record Bible sales are reported in the US and UK. New beginner guides launched in 2026. New Year reading plans are a natural seasonal hook."
+    },
+    {
+      "disposition": "rejected",
+      "name": "Potential-maxxing / 'maxxing' trends",
+      "rejectReason": "The 'maxxing' umbrella covers unrelated behaviors, some of them drawing criticism and outrage (pheromone-maxxing). CNBC (2026-07-11) and Ohio State experts warn about health harms, so products would drift toward health claims. Only the 'log your progress with numbers' idea is kept, as a design feature in the Lock-In tracker.",
+      "whyConsidered": "Search summaries named potential-maxxing as a September 2026 trend, and Meltwater reported that use of 'maxxing' terms grew sharply in 2026."
+    },
+    {
+      "disposition": "rejected",
+      "name": "Appstinence / dumbphone movement",
+      "rejectReason": "This is the same underlying movement as the analog candidate, so it is merged there. The products it drives are mostly devices and apps (Light Phone, Brick). The term is tied to a named founder and organizations (Reconnect Movement), which raises attribution and rights concerns.",
+      "whyConsidered": "Plugged In, Movieguide and AOL describe Gen Z 'appstinence' and dumbphones. The search summary credited the term to founder Gabriela Nguyen."
+    },
+    {
+      "disposition": "rejected",
+      "name": "Gen Z New Year 'rebrand' instead of resolutions",
+      "rejectReason": "Thin evidence: essentially one publication, with no independent spread found. Merged into the Lock-In candidate's 2027 planner product.",
+      "whyConsidered": "Trill Mag says Gen Z plans New Year 'rebrands' and 'lock-ins' months ahead using vision boards."
+    },
+    {
+      "disposition": "rejected",
+      "name": "Resolution / vision-board bingo card 2027",
+      "rejectReason": "Saturated with free printables: Lovely Planner offers 13 free 2027 bingo cards, Parade has 7 printable 2027 cards, and Etsy already has 2027 bingo templates. The method dates from 2023-24, so nothing about it is new for 2027.",
+      "whyConsidered": "A gamified goal-setting method (TikTok creator Erin Jones) that comes back every New Year, with 2027 versions already listed."
+    },
+    {
+      "disposition": "rejected",
+      "name": "Vision board parties / vision board nights",
+      "rejectReason": "Established, with many free guides and kits. The evidence describes January 2026, not a new 2027 angle. It could appear as a single page inside a 2027 planner.",
+      "whyConsidered": "Canva newsroom and Classpop describe social vision-board nights as a 2026 ritual."
+    },
+    {
+      "disposition": "rejected",
+      "name": "No-Buy / Low-Buy year challenge (2027)",
+      "rejectReason": "A recurring January ritual with heavy existing supply: an Etsy 'No Buy Challenge' market page and annual tracker listings. The supply gap is low. Better used as a bonus tracker page inside the Lock In 2027 planner than as a standalone launch.",
+      "whyConsidered": "Yahoo Finance and Quartz covered 'No Buy 2026'. A Reddit no-buy community is reported at more than 70,000 members, and the trend restarts every January."
+    },
+    {
+      "disposition": "rejected",
+      "name": "Sober October 2026",
+      "rejectReason": "It is already underway and lasts only one month. 'Go Sober for October' is a charity campaign name (Macmillan, UK). Products would sit close to health claims. There is no new 2026 twist.",
+      "whyConsidered": "An annual alcohol-free October challenge with brand campaigns (Kit NA Brewing)."
+    },
+    {
+      "disposition": "rejected",
+      "name": "Halloween 2026 costume/decor trends (chic ghost, metallic pumpkins, cyberpunk zombies, moth/skeleton/tarot motifs, Ramal",
+      "rejectReason": "None of these trends connects to a movement or belief in this lens. Several trend sources are low-quality SEO pages. Costume and decor items are physical and need stock, and POD delivery on a 27-day window is tight. The trending costume IP (movies) is a rights risk. The motif trend (moths, skeletons, tarot, vintage horror type) belongs to the aesthetics lens.",
+      "whyConsidered": "Required seasonal hook. Halloween is on a Saturday in 2026 (New Engen). NRF projects $13.5B in spending. HalloweenCostumes.com's survey says Halloween is now a full season."
+    },
+    {
+      "disposition": "rejected",
+      "name": "Friendsgiving 2026 growth",
+      "rejectReason": "Friendsgiving products (shirts, games, invitations) are established and crowded, e.g. thanksgivingshirts.com's 2026 guide. Kept only as a sales channel for the analog candidate's phone-free table kit.",
+      "whyConsidered": "A search summary cited a 2026 Chicory survey (30% of US adults; 52% of 18-29s planning Friendsgiving) and YPulse calling it a 'real second tradition'. The specific source page could not be pinned down."
+    },
+    {
+      "disposition": "rejected",
+      "name": "WitchTok / Samhain / Gen Z paganism",
+      "rejectReason": "No 2026-specific growth evidence was found; the sources are 2021-2025 or undated. It is an established and crowded Etsy niche. Describing practices accurately would need deeper community research than was possible.",
+      "whyConsidered": "Halloween-adjacent belief subculture. Research and press describe young pagans growing on TikTok."
+    },
+    {
+      "disposition": "rejected",
+      "name": "'2026 is the new 2016' nostalgia",
+      "rejectReason": "A meme (another lens) that peaked in January 2026. Its references are heavily trademarked (Pokémon Go, etc.). No evidence of a 2027 follow-on.",
+      "whyConsidered": "Covered by Fast Company and Forbes (2026-01-18), with a Wikipedia page. Could feed a 2016-themed party or a '2027 is the new 2017' hook."
+    },
+    {
+      "disposition": "rejected",
+      "name": "Year of the Fire Goat 2027 (Lunar New Year 2027-02-06)",
+      "rejectReason": "The only evidence is bullion and coins, with no consumer trend signal. It is culturally specific and needs careful handling. At most a watch item for January.",
+      "whyConsidered": "A New Year 2027 hook. Mints are already selling Fire Goat coins."
+    },
+    {
+      "disposition": "rejected",
+      "name": "Commonplace book journaling",
+      "rejectReason": "Insufficient evidence: a single TikTok discover page and a passing mention. It fits within the analog movement and could become a future product page.",
+      "whyConsidered": "Planoly mentions 'commonplace' notebooks as part of 2026 analog planning, and a TikTok discover page exists."
+    },
+    {
+      "disposition": "rejected",
+      "name": "Cathartic 'wellness raves' / social wellness gatherings",
+      "rejectReason": "Experience-based, with no natural digital or POD product format for a solo creator.",
+      "whyConsidered": "Named in the Global Wellness Summit 2026 trends."
+    }
+  ],
+  "id": "run-2026-10-04-movements",
+  "ingestedAt": "2026-10-04T21:02:03.000Z",
+  "jobId": null,
+  "kind": "discover",
+  "lens": "Discovery scan: movements & Q4 seasonal hooks",
+  "report": [
+    {
+      "errors": [],
+      "id": "analog-bag-screen-free-gifting",
+      "name": "Analog bag & screen-free gifting",
+      "status": "created",
+      "warnings": 0
+    },
+    {
+      "errors": [],
+      "id": "the-great-lock-in",
+      "name": "The Great Lock-In",
+      "status": "created",
+      "warnings": 0
+    },
+    {
+      "errors": [],
+      "id": "gen-z-bible-reading-revival",
+      "name": "Gen Z Bible-reading revival",
+      "status": "created",
+      "warnings": 0
+    }
+  ],
+  "researchedAt": "2026-10-04T21:02:03Z",
+  "sourcesTried": [
+    {
+      "method": "WebSearch",
+      "note": "About 50 queries run between 2026-10-04T20:53:52Z and 20:59:17Z. All evidence below is accessMethod web_search_result: titles/URLs plus the search tool's summary, not the pages themselves. Summaries sometimes merge several results; where a figure could not be tied to one specific URL it is either le",
+      "source": "WebSearch (standard + extended)",
+      "status": "ok"
+    },
+    {
+      "method": "WebSearch",
+      "note": "The session-wide search budget (200 of 200) ran out partway through. Planned queries not run: Etsy trend-expert holiday 2026 report, Pinterest holiday 2026 trends, a check for any USPTO filings on 'analog bag' or 'great lock in', and Halloween 2026 Etsy/Pinterest data. The gaps are listed under 'unr",
+      "source": "WebSearch (further queries)",
+      "status": "error"
+    },
+    {
+      "method": "WebFetch",
+      "note": "EGRESS_BLOCKED for www.etsy.com. Listing counts could not be checked; only the fact that the market page and some listings appear in search results is used.",
+      "source": "Etsy market page (etsy.com/market/analog_bag)",
+      "status": "blocked"
+    },
+    {
+      "method": "WebFetch",
+      "note": "EGRESS_BLOCKED for fortune.com. The search-result summary is used instead.",
+      "source": "Fortune article on Gen Z analog gifts (2026-09-16)",
+      "status": "blocked"
+    },
+    {
+      "method": "WebFetch",
+      "note": "Blocked according to the brief. The only trend-curve information is spiketoday.com's reported description of Google Trends for 'winter arc'.",
+      "source": "Google Trends",
+      "status": "not_tried"
+    },
+    {
+      "method": "WebFetch",
+      "note": "Blocked according to the brief. TikTok discover pages and Pinterest idea pages appeared only as search-result titles.",
+      "source": "Reddit / TikTok / Pinterest direct",
+      "status": "not_tried"
+    }
+  ]
+}

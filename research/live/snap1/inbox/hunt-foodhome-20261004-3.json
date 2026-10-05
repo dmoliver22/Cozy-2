@@ -1,0 +1,481 @@
+{
+  "createdAt": "2026-10-05T00:01:02Z",
+  "jobId": "hunt-foodhome-20261004",
+  "processedAt": "2026-10-05T00:01:30.765Z",
+  "raw": {
+    "candidates": [
+      {
+        "actionRationale": "Low-cost digital kit with a distinctive keyword and little paid supply, but spread is modest and purchase intent is unproven. Build it, test through Pinterest, and don't spend on ads.",
+        "adopters": {
+          "evidence": [
+            "e3",
+            "e4"
+          ],
+          "text": "Home and decluttering bloggers who write about it first-person and offer trackers, aimed at people who dislike rigid cleaning systems."
+        },
+        "aliases": [
+          "Sunday Butterfly method",
+          "butterfly cleaning method",
+          "butterfly decluttering"
+        ],
+        "category": "hobby",
+        "competition": {
+          "evidence": [
+            "e4",
+            "e6",
+            "e7"
+          ],
+          "level": "low",
+          "text": "We found no paid butterfly-method-specific product in search results. Adjacent neurodivergent-friendly cleaning planners exist on Etsy and Creative Fabrica, and a free blog tracker exists."
+        },
+        "evidence": [
+          {
+            "accessMethod": "web_search_result",
+            "claim": "Origin: method described by Homes & Gardens kitchen and appliance editor Lydia Hayman",
+            "excerpt": "Instead of following an order of events, you move through your home and put away, declutter, organize or clean the items you notice.",
+            "id": "e1",
+            "intent": "utility",
+            "kind": "observed",
+            "publishedAt": null,
+            "publisher": "Homes & Gardens",
+            "retrievedAt": "2026-10-05T00:01:02Z",
+            "signalType": "press",
+            "syndicationOf": null,
+            "title": "'I Struggle to Focus but Tried the Sunday Butterfly Organizing Method and Finally Tidied My Home with Ease'",
+            "url": "https://www.homesandgardens.com/solved/sunday-butterfly-method"
+          },
+          {
+            "accessMethod": "web_search_result",
+            "claim": "Same publisher frames Sunday Butterfly as one of its 2026 organizing trends (same-source signal)",
+            "excerpt": "The Sunday Butterfly method, created by kitchen and appliance editor Lydia Hayman, is a method that pros say is perfect for neurodivergent minds.",
+            "id": "e2",
+            "intent": "utility",
+            "kind": "observed",
+            "publishedAt": null,
+            "publisher": "Homes & Gardens",
+            "retrievedAt": "2026-10-05T00:01:02Z",
+            "signalType": "press",
+            "syndicationOf": null,
+            "title": "3 Easy Organizing Trends Our Home Editors Are Trying in 2026 to Stop Clutter Build-Up",
+            "url": "https://www.homesandgardens.com/solved/easy-organizing-trends-editors-trying-2026"
+          },
+          {
+            "accessMethod": "web_search_result",
+            "claim": "Independent home blog explains and adopts the method",
+            "excerpt": "Each closed drawer is a complete win, not a step toward some far-off finish line.",
+            "id": "e3",
+            "intent": "utility",
+            "kind": "observed",
+            "publishedAt": null,
+            "publisher": "The Simplicity Habit",
+            "retrievedAt": "2026-10-05T00:01:02Z",
+            "signalType": "creator",
+            "syndicationOf": null,
+            "title": "How the Proven 'Sunday Butterfly Method' Turns Overwhelming Cleaning Into Simple Weekly Wins",
+            "url": "https://thesimplicityhabit.com/sunday-butterfly-method/"
+          },
+          {
+            "accessMethod": "web_search_result",
+            "claim": "Second independent blog calls it a 2026 decluttering trend and offers a free printable tracker (free supply)",
+            "excerpt": "You float through the house like a butterfly, touch one thing, deal with it completely, and move on.",
+            "id": "e4",
+            "intent": "utility",
+            "kind": "observed",
+            "publishedAt": null,
+            "publisher": "The Calm Roost",
+            "retrievedAt": "2026-10-05T00:01:02Z",
+            "signalType": "creator",
+            "syndicationOf": null,
+            "title": "The Sunday Butterfly Method: I Tried the Gentle 2026 Decluttering Trend",
+            "url": "https://thecalmroost.com/sunday-butterfly-method/"
+          },
+          {
+            "accessMethod": "web_search_result",
+            "claim": "The H&G article is being pinned on Pinterest",
+            "excerpt": "Pin of the Homes & Gardens Sunday Butterfly article.",
+            "id": "e5",
+            "intent": "utility",
+            "kind": "observed",
+            "publishedAt": null,
+            "publisher": "Pinterest",
+            "retrievedAt": "2026-10-05T00:01:02Z",
+            "signalType": "social",
+            "syndicationOf": null,
+            "title": "'I Struggle to Focus but Tried the Sunday Butterfly ...",
+            "url": "https://za.pinterest.com/pin/535646949455185373/"
+          },
+          {
+            "accessMethod": "web_search_result",
+            "claim": "Adjacent competition: neurodivergent-friendly cleaning planners exist, not butterfly-method specific",
+            "excerpt": "ADHD Cleaning Planner Printable 2026",
+            "id": "e6",
+            "intent": "none",
+            "kind": "observed",
+            "publishedAt": null,
+            "publisher": "Etsy",
+            "retrievedAt": "2026-10-05T00:01:02Z",
+            "signalType": "marketplace",
+            "syndicationOf": null,
+            "title": "ADHD Cleaning Planner Printable 2026",
+            "url": "https://www.etsy.com/listing/4434129125/adhd-cleaning-planner-printable-2026"
+          },
+          {
+            "accessMethod": "web_search_result",
+            "claim": "Adjacent supply on design-asset marketplaces",
+            "excerpt": "2026 ADHD-Friendly Cleaning Bundle Graphic by designmela01",
+            "id": "e7",
+            "intent": "none",
+            "kind": "observed",
+            "publishedAt": null,
+            "publisher": "Creative Fabrica",
+            "retrievedAt": "2026-10-05T00:01:02Z",
+            "signalType": "marketplace",
+            "syndicationOf": null,
+            "title": "2026 ADHD-Friendly Cleaning Bundle",
+            "url": "https://www.creativefabrica.com/product/2026-adhd-friendly-cleaning-bundle/"
+          }
+        ],
+        "gap": {
+          "isInference": true,
+          "text": "A paid, well-designed kit with color-in trackers and finishable landing cards built around the butterfly idea rather than a schedule."
+        },
+        "name": "Sunday Butterfly Tidying Method",
+        "observations": [],
+        "origin": {
+          "date": null,
+          "evidence": [
+            "e1",
+            "e2"
+          ],
+          "text": "Described by Homes & Gardens kitchen and appliance editor Lydia Hayman, who says she developed it with her mother. We could not establish the publication date because the pages were blocked."
+        },
+        "productDemand": {
+          "evidence": [
+            "e4"
+          ],
+          "text": "No purchase evidence. Interest is utility (how-to). One blog gives away a free tracker, which shows demand for a printable form but also free competition."
+        },
+        "products": [
+          {
+            "buyer": "US adults who find rigid cleaning schedules hard to follow and like low-pressure, wander-and-finish tidying",
+            "channels": [
+              "Etsy",
+              "Pinterest",
+              "Instagram Reels"
+            ],
+            "continueIf": "1+ sale or 15+ favorites in 21 days, or pins on the method name getting saves",
+            "differentiation": "Built around landings and petals rather than a schedule; includes finishable task cards and a listening log",
+            "effort": "low",
+            "effortHours": 7,
+            "evidence": [
+              "e1",
+              "e3",
+              "e4"
+            ],
+            "format": "printable",
+            "fulfillment": "digital",
+            "leadTimeDays": 2,
+            "pivotIf": "Saves but no sales: offer the tracker as a free lead magnet and bundle cards into a general gentle-cleaning kit",
+            "playbook": {
+              "assembly": [
+                "Run the prompt and check the self-check list.",
+                "In Canva set up US Letter pages with the palette and font pairing A.",
+                "Place flower tracker art and add zone label lines.",
+                "Build landing cards 8-up per page with dashed cut lines, color-coded by zone.",
+                "Add listening log, monthly meadow and reflection pages.",
+                "Resize the full design to A4 and fix overflow.",
+                "Export PDF Print 300 DPI for both sizes; export 4 PNG preview images for the listing."
+              ],
+              "asymmetry": {
+                "badBetIf": "The method name never spreads beyond a few blogs, leaving you in the crowded generic cleaning-planner category.",
+                "downside": "About 7 hours, $0.",
+                "upside": "Evergreen decluttering demand plus a named-method keyword with little specific supply."
+              },
+              "costs": {
+                "baseCost": null,
+                "basis": "estimate: digital download, only marketplace fees apply",
+                "item": null,
+                "provider": null,
+                "shipping": null,
+                "testBudget": 0,
+                "testBudgetNote": "Test organically through Pinterest first."
+              },
+              "extensions": [
+                "Kids' version with picture landing cards",
+                "Digital (GoodNotes) version",
+                "Seasonal 'spring meadow' edition"
+              ],
+              "imagePrompts": [
+                {
+                  "prompt": "Soft watercolor illustration of a single butterfly hovering over a small tidy shelf with a folded blanket and a potted plant, pastel palette #F4B6C2 #A8C686 #BFD7EA #F6C85F on #FFF9F0, airy, text rendered exactly: \"Butterfly Sunday\", portrait 3:4. No logos, no real people, no trademarked characters, no watermarks.",
+                  "purpose": "Cover art",
+                  "tool": "Ideogram or Midjourney"
+                },
+                {
+                  "prompt": "Six simple outlined flowers with eight petals each arranged in a 2x3 grid, line art in #3B3A40 on white, petals empty for coloring, small leaf accents in #A8C686, square 1:1, no text. No logos, no real people, no trademarked characters, no watermarks.",
+                  "purpose": "Flower tracker art",
+                  "tool": "Ideogram or ChatGPT images"
+                }
+              ],
+              "listingPrompt": "Write an Etsy listing for \"Butterfly Sunday Tidy Kit\", a printable gentle tidying kit. Title under 140 characters starting with \"Gentle Cleaning Printable\" and including \"butterfly method\". 13 tags of 20 characters or fewer. Description: the land-finish-lift-off idea in two sentences, page-by-page contents, US Letter and A4 PDFs, instant download. FAQ: do I need a schedule (no), can I reprint (yes, personal use). Do not mention ADHD, any condition, any publication or person, and make no health or productivity promises.",
+              "marketing": {
+                "channels": [
+                  {
+                    "cadence": "1 per day",
+                    "channel": "Pinterest",
+                    "tactic": "Method-name and gentle-cleaning keyword pins"
+                  },
+                  {
+                    "cadence": "1-2 per week, on Sundays",
+                    "channel": "Reels/TikTok",
+                    "tactic": "Sunday process videos"
+                  }
+                ],
+                "hooks": [
+                  "Land. Finish. Lift off.",
+                  "Tidying like a butterfly, one petal at a time.",
+                  "No schedule. Just one small finished thing."
+                ],
+                "keywords": [
+                  "sunday butterfly method",
+                  "gentle cleaning printable",
+                  "decluttering tracker",
+                  "cleaning game printable",
+                  "sunday reset"
+                ],
+                "launchPlan": [
+                  {
+                    "action": "Publish the listing with cover, tracker and card previews.",
+                    "day": "Day 0"
+                  },
+                  {
+                    "action": "Pin 5 pins targeting 'sunday butterfly method' and 'gentle decluttering'.",
+                    "day": "Day 1"
+                  },
+                  {
+                    "action": "Post a Reel of a real 30-minute butterfly Sunday, coloring petals on camera.",
+                    "day": "Day 3"
+                  },
+                  {
+                    "action": "Review views and saves; adjust title wording.",
+                    "day": "Day 7"
+                  },
+                  {
+                    "action": "Pin a free single-flower tracker sample linking to the full kit.",
+                    "day": "Day 10"
+                  },
+                  {
+                    "action": "Second Reel on a different zone; respond to comments.",
+                    "day": "Day 14"
+                  },
+                  {
+                    "action": "Go/pivot/stop check.",
+                    "day": "Day 21"
+                  }
+                ],
+                "positioning": "A calm, visual kit for butterfly-style Sunday tidying: land on one small thing, finish it, color a petal."
+              },
+              "platforms": [
+                {
+                  "name": "Etsy",
+                  "role": "primary",
+                  "why": "Buyers search for cleaning and decluttering printables."
+                },
+                {
+                  "name": "Pinterest",
+                  "role": "traffic",
+                  "why": "The source article is already being pinned; decluttering is strong on Pinterest."
+                },
+                {
+                  "name": "Instagram Reels / TikTok",
+                  "role": "traffic",
+                  "why": "Short 'Sunday butterfly tidy' process videos with petals being colored."
+                }
+              ],
+              "pricing": {
+                "basis": "estimate",
+                "currency": "USD",
+                "high": 8,
+                "low": 4,
+                "rationale": "In line with typical cleaning-planner printables; the 48 landing cards add perceived value.",
+                "recommended": 5.5
+              },
+              "productName": "Butterfly Sunday Tidy Kit",
+              "risks": [
+                "The method name is tied to one publication's editor: describe, don't claim affiliation.",
+                "Sources lean on ADHD framing; using it in copy would be a health claim.",
+                "Free printable trackers already exist on blogs."
+              ],
+              "superPrompt": "You are a gentle home-organizing writer and printable designer. Produce the complete text for \"Butterfly Sunday: A Land-and-Lift-Off Tidy Kit\", a printable set for the low-pressure tidying style where you drift through the home, land on one small thing, finish it completely, and move on.\n\nBUYER AND JOB: A US adult (25-45) who finds rigid room-by-room cleaning lists hard to stick to and liked the idea of tidying 'like a butterfly' on a Sunday afternoon with an audiobook or podcast on. They want something visual and calm that makes small finished tasks feel visible.\n\nDELIVERABLE (US Letter 8.5x11 in AND A4):\n1. Cover with title and tagline \"Land. Finish. Lift off.\"\n2. How it works (1 page, original wording): pick a time window, choose 3-6 zones, wander, land on one small thing, finish it fully, color one petal, lift off. Include 3 simple boundaries: a timer, a 'no half-finished piles' rule, and a stop time.\n3. Garden tracker: a page with 6 large flowers (one per zone, label lines) each with 8 petals to color per finished landing.\n4. Landing cards: 48 cut-out cards (8 per page, 6 pages) each with one small finishable task under 10 minutes, grouped by zone color (kitchen, living area, bedroom, bathroom, entry, desk). Examples: clear one shelf, match all lids in one drawer.\n5. Listening log: a page to note the audiobook or podcast and minutes listened alongside petals colored.\n6. Monthly meadow: a calendar-style page with one flower per Sunday to color by how many landings happened.\n7. Reflection page: three prompts (what I noticed, what drew me, what can wait), no scores.\n8. Blank landing-card template.\n\nDESIGN NOTES for Canva: palette Petal Pink #F4B6C2, Meadow #A8C686, Sky #BFD7EA, Honey #F6C85F, Soft Ink #3B3A40, Cream #FFF9F0. Font pairing A: Playfair Display + Lato. Font pairing B: Cormorant Garamond + Nunito Sans. Soft watercolor feel, lots of white space, printer-friendly.\n\nRULES: Write everything originally; do not copy any article. Do not use the name of the editor who described the method, any publication name, or imply affiliation; call the product 'Butterfly Sunday' and describe it as a butterfly-style tidying approach. Do not mention ADHD, neurodivergence, dopamine, anxiety or any condition, and make no mental-health, productivity or outcome promises. Calm, kind tone; grade 6 reading level; tasks must be physically simple and safe.\n\nDIFFERENTIATION: Existing neurodivergent-friendly cleaning planners are still schedules and checklists; this kit is built around the butterfly landing idea with color-in petals, finishable landing cards and a listening log.\n\nOUTPUT FORMAT: Page by page with headings \"PAGE n - name\"; list the 48 landing cards numbered with zone label; keep each card under 60 characters.\n\nSELF-CHECK: (1) 48 cards, 8 per zone; (2) no condition names or health claims; (3) no person or publication names; (4) both page sizes noted; (5) every task is under 10 minutes and finishable."
+            },
+            "rightsNote": "Describe the method generically; don't use the editor's or publication's name or imply endorsement",
+            "stopIf": "Under 75 views in 21 days",
+            "theme": "Butterfly-style Sunday tidying kit: color-in flower trackers, 48 finishable landing cards and a listening log",
+            "validationTest": "List plus 10 pins and 2 Reels in 10 days",
+            "whyBuy": "Makes the butterfly approach tangible and visible without a schedule"
+          }
+        ],
+        "recommendedAction": "prepare",
+        "rights": {
+          "note": "The method name is associated with a specific editor and publication; no trademark found but none checked. Use it only descriptively in keywords, title the product originally, never use the person's name, and never imply endorsement. Avoid ADHD/neurodivergence claims.",
+          "risk": "medium"
+        },
+        "scores": {
+          "buyerIntent": {
+            "basis": "unknown",
+            "rationale": "No purchase evidence",
+            "score": null
+          },
+          "durability": {
+            "basis": "qualitative",
+            "rationale": "Named cleaning methods tend to persist in search",
+            "score": 3
+          },
+          "economics": {
+            "basis": "qualitative",
+            "rationale": "Digital, zero marginal cost",
+            "score": 4
+          },
+          "productFit": {
+            "basis": "qualitative",
+            "rationale": "Visual tracker and task cards suit the method",
+            "score": 4
+          },
+          "supplyGap": {
+            "basis": "qualitative",
+            "rationale": "No paid method-specific kit found; free tracker and adjacent planners exist",
+            "score": 3
+          },
+          "timing": {
+            "basis": "qualitative",
+            "rationale": "Early, but the start date is unverified",
+            "score": 3
+          }
+        },
+        "spread": {
+          "evidence": [
+            "e1",
+            "e3",
+            "e4",
+            "e5"
+          ],
+          "text": "Seen on the originating publisher (two articles), two independent blogs and Pinterest. No TikTok or press coverage beyond these was found."
+        },
+        "summary": "A named low-pressure tidying method from a Homes & Gardens editor: drift through the home, land on one small task, finish it, move on. Other blogs now call it a 2026 decluttering trend.",
+        "trajectory": {
+          "evidence": [
+            "e3",
+            "e4"
+          ],
+          "stage": "early_growth",
+          "text": "Moving from one publisher to independent blogs that label it a 2026 trend. Dates are unverified, so it may predate mid-September. Spread is modest."
+        },
+        "unresolved": [
+          "Does the method appear on TikTok or in more outlets in October?",
+          "Do Pinterest pins of the method keep getting saved?",
+          "Does the originating publisher release its own printable?"
+        ],
+        "what": "Instead of following a room-by-room order, you move through the house and handle whatever you notice, finishing each small thing completely before moving on. Practitioners pair it with a timer, zones and an audiobook. Sources frame it as suited to people who struggle with focus. Products must not repeat that framing as a claim.",
+        "window": {
+          "endEstimate": null,
+          "estimate": "Several months if the name keeps spreading",
+          "invalidators": [
+            "No new articles or pins mentioning the name by November",
+            "The originating publisher sells its own printable"
+          ],
+          "reasoning": "Named cleaning methods (e.g., earlier CleanTok methods) tend to keep long-tail search interest once blogs adopt them, but this one has thin spread.",
+          "seasonality": "Evergreen; January and spring cleaning peaks",
+          "sellBy": null
+        }
+      }
+    ],
+    "kind": "discover",
+    "lens": "First-spark hunt: food, home, pets and household micro-trends",
+    "researchedAt": "2026-10-05T00:01:02Z",
+    "sourcesTried": [
+      {
+        "method": "search",
+        "note": "Primary method; all evidence is from search result titles and summaries.",
+        "source": "WebSearch (standard and extended)",
+        "status": "ok"
+      },
+      {
+        "method": "curl and WebFetch",
+        "note": "Egress proxy 403.",
+        "source": "news.google.com RSS",
+        "status": "blocked"
+      },
+      {
+        "method": "WebFetch",
+        "note": "Seen only through search results.",
+        "source": "today.com",
+        "status": "blocked"
+      },
+      {
+        "method": "WebFetch",
+        "note": "Seen only through search results.",
+        "source": "trending.knowyourmeme.com",
+        "status": "blocked"
+      },
+      {
+        "method": "WebFetch",
+        "note": "Seen only through search results.",
+        "source": "upworthy.com, spoonuniversity.com",
+        "status": "blocked"
+      },
+      {
+        "method": "WebFetch",
+        "note": "Seen only through search results.",
+        "source": "homesandgardens.com, thecalmroost.com",
+        "status": "blocked"
+      },
+      {
+        "method": "WebFetch",
+        "note": "Trend roundups seen only through search results.",
+        "source": "socialbee.com, inflownetwork.com, blog.nuelink.com",
+        "status": "blocked"
+      },
+      {
+        "method": "WebSearch allowed_domains",
+        "note": "Search tool refuses these domains.",
+        "source": "allrecipes, delish, foodandwine, bonappetit, eatingwell, seriouseats, nypost",
+        "status": "error"
+      },
+      {
+        "method": "WebSearch allowed_domains",
+        "note": "Search tool refuses these domains.",
+        "source": "realsimple, thespruce, bhg, marthastewart, goodhousekeeping, housebeautiful",
+        "status": "error"
+      },
+      {
+        "method": "search results only",
+        "note": "Listing titles from search results; no sales data, no counts.",
+        "source": "Etsy",
+        "status": "ok"
+      },
+      {
+        "method": "search results only",
+        "note": "Titles only; no view counts verified.",
+        "source": "TikTok discover/tag pages",
+        "status": "ok"
+      },
+      {
+        "method": "-",
+        "note": "Usually blocked in this environment; not attempted this run.",
+        "source": "Reddit, Pinterest Trends, Google Trends",
+        "status": "not_tried"
+      }
+    ]
+  },
+  "report": [
+    {
+      "errors": [],
+      "id": "sunday-butterfly-tidying-method",
+      "name": "Sunday Butterfly Tidying Method",
+      "status": "created",
+      "warnings": 0
+    }
+  ],
+  "runId": "run-hunt-foodhome-20261004-3",
+  "status": "ingested"
+}

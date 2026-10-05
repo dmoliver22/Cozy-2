@@ -1,0 +1,19 @@
+{
+  "accessMethod": "web_search_result",
+  "candidateId": "i-can-t-do-nathan",
+  "claim": "School-year trend roundup that describes the phrase as a way kids express dislike of schoolwork",
+  "excerpt": "\"I can't do Nathan\" is a viral TikTok trend where saying this phrase has become a funny way to loathe schoolwork and daily student life.",
+  "firstRetrievedAt": "2026-10-05T00:00:47Z",
+  "firstSeenRunId": "run-hunt-memes-20261004-4",
+  "id": "i-can-t-do-nathan~06286d1d",
+  "intent": "curiosity",
+  "kind": "observed",
+  "lastSeenRunId": "run-hunt-memes-20261004-4",
+  "publishedAt": null,
+  "publisher": "Arizona Daily Star (nation-world)",
+  "retrievedAt": "2026-10-05T00:00:47Z",
+  "signalType": "press",
+  "syndicationOf": null,
+  "title": "The 6 online trends kids are obsessed with this school year",
+  "url": "https://tucson.com/life-entertainment/nation-world/article_57ad51c3-ad7b-4ed5-8b3d-8445885aa256.html"
+}

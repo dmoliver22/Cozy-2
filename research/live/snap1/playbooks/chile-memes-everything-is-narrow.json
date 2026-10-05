@@ -1,0 +1,278 @@
+{
+  "candidateId": "chile-memes-everything-is-narrow",
+  "id": "chile-memes-everything-is-narrow",
+  "products": [
+    {
+      "assembly": [
+        "Run the super prompt; generate all 12 images.",
+        "Clean up and recolor to the palette in Canva or a vector editor; ensure text is re-typed in the chosen font.",
+        "Export transparent PNG 2400x3600 at 300 DPI.",
+        "Upload each to Redbubble as stickers; create a 'Skinny Chile' collection.",
+        "Set up 3-sticker and 6-sticker sheets on Printify linked to Etsy.",
+        "Make a grid mockup of all 10 for the hero image.",
+        "Publish with the listing prompt; add a Spanish line to the description."
+      ],
+      "asymmetry": {
+        "badBetIf": "The spike has already peaked (posts slowing in early October) and buyers only wanted to watch, not buy.",
+        "downside": "About 8 hours, $0-$5.",
+        "upside": "Cute illustrations keep working for geography-humor buyers after the spike; zero marginal cost."
+      },
+      "costs": {
+        "baseCost": 2,
+        "basis": "estimate: verify in the provider catalog",
+        "item": "Kiss-cut sticker 3x3 in / sticker sheet",
+        "pages": null,
+        "provider": "Printify (Etsy) / Redbubble",
+        "shipping": 4,
+        "testBudget": 0,
+        "testBudgetNote": "Organic only; the meme is already past its first peak."
+      },
+      "extensions": [
+        "Poster of all 10 objects",
+        "Phone wallpaper pack",
+        "Other 'map-shape' jokes (generic geography series)"
+      ],
+      "imagePrompts": [
+        {
+          "prompt": "Cute flat vector sticker of a city bus stretched extremely tall and narrow, one seat per floor, chili red #D6372E body, Pacific blue #1F5C99 windows, ink #1C1C1C outline, playful, 2:3 portrait, object fills the frame, transparent background, thick white die-cut border. No logos, no real people, no trademarked characters, no watermarks.",
+          "purpose": "Skinny bus sticker",
+          "tool": "Ideogram or ChatGPT images"
+        },
+        {
+          "prompt": "Flat vector sticker of a long narrow country outline shaped like Chile, desert sand #E3C08D to cactus green #5B8C5A to Andes snow #F7F4EE from north to south, small smiling face near the middle, the exact text \"everything here is narrow\" in rounded bold letters beside it, 2:3 portrait, transparent background, white die-cut border. No logos, no real people, no trademarked characters, no watermarks.",
+          "purpose": "Map text sticker",
+          "tool": "Ideogram"
+        }
+      ],
+      "index": 0,
+      "listingPrompt": "Write an Etsy listing for an illustrated sticker pack of everyday objects stretched tall and narrow, based on the 'everything in Chile is narrow' internet joke. Title under 140 characters front-loading \"Chile Meme Sticker\". 13 tags of 20 characters or fewer (e.g. chile meme sticker, skinny chile, narrow country). Description: what's in the pack, sizes, vinyl material per provider, print-on-demand shipping time about 1-2 weeks, one sentence in Spanish. 4-question FAQ. No trademarks, airline, football club or brand names, and no real people.",
+      "marketing": {
+        "channels": [
+          {
+            "cadence": "3/week for 2 weeks",
+            "channel": "TikTok",
+            "tactic": "Slideshow and 'stretch' animation of objects"
+          },
+          {
+            "cadence": "3/week",
+            "channel": "Instagram Reels",
+            "tactic": "Cross-post; Spanish captions"
+          },
+          {
+            "cadence": "4/week",
+            "channel": "Pinterest",
+            "tactic": "Grid pins"
+          }
+        ],
+        "hooks": [
+          "How I still imagine Chile:",
+          "POV: you take the bus in Chile",
+          "Rating Chile's narrowest objects"
+        ],
+        "keywords": [
+          "chile meme sticker",
+          "skinny chile",
+          "narrow country sticker",
+          "geography meme",
+          "funny map sticker"
+        ],
+        "launchPlan": [
+          {
+            "action": "Publish 10 singles + collection on Redbubble.",
+            "day": "Day 0"
+          },
+          {
+            "action": "Reel: 'how I imagine Chile' slideshow of the 10 illustrations.",
+            "day": "Day 1"
+          },
+          {
+            "action": "Same video with Spanish caption.",
+            "day": "Day 2"
+          },
+          {
+            "action": "Etsy sticker sheets live.",
+            "day": "Day 4"
+          },
+          {
+            "action": "Review which objects get most likes; make 3 more of that type.",
+            "day": "Day 7"
+          },
+          {
+            "action": "Go/pivot/stop check.",
+            "day": "Day 14"
+          },
+          {
+            "action": "If continuing, add poster/printable bundle.",
+            "day": "Day 21"
+          }
+        ],
+        "positioning": "The cutest version of the internet's narrowest joke."
+      },
+      "platforms": [
+        {
+          "name": "Redbubble",
+          "role": "primary",
+          "why": "Free, international buyers, meme sticker search traffic"
+        },
+        {
+          "name": "Etsy",
+          "role": "secondary",
+          "why": "Sticker sheets via Printify"
+        },
+        {
+          "name": "TikTok / Instagram Reels",
+          "role": "traffic",
+          "why": "Where the joke spreads; 'how I imagine Chile' compilations"
+        }
+      ],
+      "pricing": {
+        "basis": "estimate",
+        "currency": "USD",
+        "high": 12,
+        "low": 3,
+        "rationale": "Singles at about $4, 3-pack sheet about $10-12, in line with typical meme sticker pricing.",
+        "recommended": 4
+      },
+      "productName": "Everything Is Narrow: Skinny Chile Sticker Pack",
+      "risks": [
+        "Meme may already be past peak",
+        "Joke about a country could read as mocking; keep it affectionate",
+        "Easily copied"
+      ],
+      "source": "worker",
+      "superPrompt": "You are an illustrator and comedy writer creating an original, affectionate sticker pack based on the viral joke that, because Chile is long and narrow on the map, everything in Chile must be long and narrow too.\n\nBUYER AND JOB: Meme-aware 16-35-year-olds worldwide (US buyers first), plus Chileans and travelers who enjoyed the joke. The stickers let them show they are in on this autumn-2026 meme. Tone: warm and absurd, laughing with Chile, never at Chileans.\n\nDELIVERABLE SPEC: 10 sticker designs, each an everyday object comically stretched to be extremely tall and thin:\n1. A skinny city bus. 2. A narrow soccer field with tiny goals. 3. A tall thin house with one window per floor. 4. A very long, thin dachshund-shaped dog (generic dog, not a named breed mascot). 5. A narrow school desk. 6. A thin empanada. 7. A long skinny sofa. 8. A narrow swimming pool with one lane. 9. A skinny bicycle. 10. A narrow map outline of Chile with a smile and the exact text \"everything here is narrow\".\nAlso give 2 text-only stickers: \"how I imagine Chile\" and \"narrow and proud\".\nFor each: subject, composition (portrait, object fills 85% of height), palette colors used, exact text if any, and a full image-model prompt.\nArt size 2400x3600 px (2:3), transparent PNG, 300 DPI, 50 px white die-cut border. Offered at 3 in and 4 in tall.\n\nFONTS (two Canva pairings): A) \"Bricolage Grotesque\" + \"Inter\"; B) \"Chewy\" + \"Nunito\".\nPALETTE: Andes snow #F7F4EE, Pacific blue #1F5C99, chili red #D6372E, desert sand #E3C08D, cactus green #5B8C5A, ink #1C1C1C.\n\nACCURACY AND RESPECT RULES: The map outline must follow Chile's real long north-south shape. Do not show the Chilean coat of arms, government seals, real buildings, real people, football club crests, national-team kits or brand logos. You may use a simple star-and-stripe flag motif only as a small accent. No jokes about poverty, politics, disasters or any group of people.\n\nDIFFERENTIATION: Existing Chile products are flag tees and souvenirs; nobody sells the meme as cute illustrated objects. A cohesive 10-piece set also works as a bundle.\n\nOUTPUT FORMAT: numbered list with all fields, then a pack description (60 words) and a suggested 3-sticker starter pack.\n\nSELF-CHECK: (a) every object is clearly stretched tall and thin; (b) no logos, crests, seals, real people; (c) map outline recognizable; (d) text spelled exactly; (e) each image prompt ends with the negative list.",
+      "themeKey": "Illustrated sticker pack of everyday objects stretched tall"
+    },
+    {
+      "assembly": [
+        "Generate text with the super prompt; generate the 12 specimen illustrations.",
+        "Build the master layout in Canva at 24x36 in; add text with the font pairing.",
+        "Resize copies to 18x24, 16x20, A-series and US Letter; check margins.",
+        "Export each as PDF Print, 300 DPI (and JPG for the 2:3).",
+        "Bundle files into one ZIP plus a one-page 'how to print' PDF.",
+        "Create 3 mockups (framed, dorm, classroom).",
+        "List as an instant download on Etsy; add Gumroad as a direct link."
+      ],
+      "asymmetry": {
+        "badBetIf": "Etsy discovery takes longer than the meme lasts and no Pinterest traction follows.",
+        "downside": "About 8-10 hours, $0.20 listing fee.",
+        "upside": "Digital, zero marginal cost, decorative enough to sell beyond the meme."
+      },
+      "costs": {
+        "baseCost": null,
+        "basis": "digital download; Etsy listing and transaction fees only",
+        "item": null,
+        "pages": null,
+        "provider": null,
+        "shipping": null,
+        "testBudget": 0,
+        "testBudgetNote": "Organic only."
+      },
+      "extensions": [
+        "Series: other geography in-jokes using generic shapes",
+        "Postcard set"
+      ],
+      "imagePrompts": [
+        {
+          "prompt": "Vintage natural-history engraving style illustration of a sofa stretched extremely tall and narrow, cross-hatched ink #1C1C1C linework with light chili red #D6372E and Pacific blue #1F5C99 watercolor wash, on aged paper #F2EAD8, centered, 2:5 portrait, plain background. No logos, no real people, no trademarked characters, no watermarks, no text.",
+          "purpose": "Specimen illustration (repeat per object)",
+          "tool": "Midjourney or ChatGPT images"
+        },
+        {
+          "prompt": "Framed poster on a dorm room wall above a desk, the poster shows a vintage field-guide grid of tall narrow illustrated objects with a long narrow map down the side, warm daylight, 4:5. No logos, no real people, no trademarked characters, no watermarks.",
+          "purpose": "Listing mockup",
+          "tool": "Canva mockup or ChatGPT images"
+        }
+      ],
+      "index": 1,
+      "listingPrompt": "Write an Etsy digital-download listing for a vintage field-guide style humor poster of everyday objects drawn tall and narrow, based on the 'everything in Chile is narrow' meme. Title under 140 characters front-loading \"Chile Meme Poster\". 13 tags of 20 characters or fewer. Description: files included (sizes), 300 DPI PDF, instant download, no physical item shipped, how to print. 4-question FAQ. No trademarks, brands, sports clubs or real people.",
+      "marketing": {
+        "channels": [
+          {
+            "cadence": "5/week",
+            "channel": "Pinterest",
+            "tactic": "Mockup pins in dorm/classroom decor"
+          },
+          {
+            "cadence": "2/week",
+            "channel": "TikTok",
+            "tactic": "Specimen zoom video"
+          }
+        ],
+        "hooks": [
+          "Scientists have catalogued Chile's narrowest objects",
+          "Plate No. 1: Narrow Studies"
+        ],
+        "keywords": [
+          "chile meme poster",
+          "funny geography poster",
+          "vintage field guide print",
+          "dorm wall art funny"
+        ],
+        "launchPlan": [
+          {
+            "action": "List on Etsy and Gumroad.",
+            "day": "Day 0"
+          },
+          {
+            "action": "TikTok: zoom through each specimen with deadpan voiceover captions.",
+            "day": "Day 1"
+          },
+          {
+            "action": "Pinterest pins of the 3 mockups.",
+            "day": "Day 3"
+          },
+          {
+            "action": "Teacher-angle post: 'geography classroom humor'.",
+            "day": "Day 7"
+          },
+          {
+            "action": "Go/pivot/stop check.",
+            "day": "Day 14"
+          },
+          {
+            "action": "Bundle with sticker pack if both sell.",
+            "day": "Day 21"
+          }
+        ],
+        "positioning": "Meme turned museum print."
+      },
+      "platforms": [
+        {
+          "name": "Etsy",
+          "role": "primary",
+          "why": "Printable wall-art buyers search there"
+        },
+        {
+          "name": "Gumroad",
+          "role": "secondary",
+          "why": "Direct link from videos"
+        },
+        {
+          "name": "Pinterest",
+          "role": "traffic",
+          "why": "Wall-art discovery"
+        }
+      ],
+      "pricing": {
+        "basis": "estimate",
+        "currency": "USD",
+        "high": 8,
+        "low": 3.5,
+        "rationale": "Typical digital humor poster range; low price for impulse meme buyers.",
+        "recommended": 5
+      },
+      "productName": "A Very Accurate Guide to Narrow Things Printable Poster",
+      "risks": [
+        "Slow Etsy discovery vs a fast meme",
+        "Taste risk if read as mocking"
+      ],
+      "source": "worker",
+      "superPrompt": "You are a graphic designer creating an original, printable humor poster in the style of a vintage field guide, titled \"A Very Accurate Guide to Things in Chile\" (with a small subtitle \"according to the internet\"). It celebrates the autumn-2026 meme that everything in Chile is as long and narrow as the country.\n\nBUYER AND JOB: Meme fans, geography teachers and students who want a funny dorm or classroom wall print, and people buying a quick digital gift. It is an instant download they print at home or at a print shop.\n\nDELIVERABLE SPEC: One poster design delivered in five ratio files: 2:3 (24x36 in), 3:4 (18x24 in), 4:5 (16x20 in), ISO A-series (A4, A3, A2) and US Letter 8.5x11 in. 300 DPI.\nLayout: title band at the top; a 4x3 grid of 12 numbered \"specimens\", each an everyday object illustrated tall and narrow, with a fake Latin-style label (make these up, e.g. \"Autobus elongatus\") and a one-line deadpan caption (max 10 words); a narrow map outline of Chile running down the right margin as a ruler, marked \"actual width (approx.)\"; footer: \"Plate No. 1 - Narrow Studies\".\nSpecimens: bus, house, soccer field, dog, sofa, bicycle, pool, bed, school desk, sandwich, guitar, umbrella.\nWrite all 12 Latin-style names and captions.\n\nFONTS (two Canva pairings): A) \"Playfair Display\" + \"Courier Prime\"; B) \"DM Serif Display\" + \"IBM Plex Mono\".\nPALETTE: Andes snow #F7F4EE, Pacific blue #1F5C99, chili red #D6372E, desert sand #E3C08D, cactus green #5B8C5A, ink #1C1C1C, on an aged paper background #F2EAD8.\n\nACCURACY AND RESPECT: The map outline must be shaped like Chile's real long north-south outline; do not invent place names or facts. If you include a fact, use only that Chile is long and narrow. No coat of arms, seals, real buildings, real people, brand logos, sports crests. Affectionate tone; no jokes about politics, disasters or people.\n\nDIFFERENTIATION: Turns a fast meme into a design object with a 'vintage science plate' aesthetic that still looks good after the joke cools.\n\nOUTPUT FORMAT: (1) final title and subtitle; (2) table of 12 specimens with Latin-style name, caption and image-model prompt; (3) layout instructions per ratio; (4) a 'print at home' instruction card text.\n\nSELF-CHECK: 12 specimens; captions under 10 words; no protected marks; map recognizable; every image prompt ends with the negative list.",
+      "themeKey": "Vintage field-guide printable of 12 narrow 'specimens' with"
+    }
+  ],
+  "runId": "run-hunt-memes-20261004-2",
+  "source": "worker",
+  "writtenAt": "2026-10-05T00:00:47Z"
+}

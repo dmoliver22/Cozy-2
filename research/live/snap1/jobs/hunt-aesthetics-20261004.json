@@ -1,0 +1,164 @@
+{
+  "candidateId": null,
+  "createdAt": "2026-10-04T23:49:30Z",
+  "dispatch": {
+    "at": "2026-10-04T23:49:30Z",
+    "status": "sent"
+  },
+  "error": "Most trend-roundup and press sites were blocked from fetching, so the evidence is search-result snippets only. No purchase data was found for any candidate. Two bedazzling search-growth figures could not be traced to a source.",
+  "finishedAt": "2026-10-05T00:00:26Z",
+  "id": "hunt-aesthetics-20261004",
+  "ingest": {
+    "at": "2026-10-05T00:00:35.763Z",
+    "candidates": [
+      {
+        "errors": [],
+        "id": "wallpapers-made-for-the-new-movable-lock-screen-clock-ios-27",
+        "name": "Wallpapers made for the new movable lock-screen clock (iOS 27)",
+        "status": "created",
+        "warnings": 0
+      },
+      {
+        "errors": [],
+        "id": "whimsigoth-fall-2026-sequel-driven-revival",
+        "name": "Whimsigoth fall 2026 (sequel-driven revival)",
+        "status": "created",
+        "warnings": 0
+      },
+      {
+        "errors": [],
+        "id": "bedazzle-everything-gem-maxxing",
+        "name": "Bedazzle everything (gem-maxxing)",
+        "status": "created",
+        "warnings": 0
+      }
+    ],
+    "status": "ingested"
+  },
+  "input": "First-spark hunt: new aesthetics and visual micro-trends",
+  "inputKind": null,
+  "key": "discover:hunt-aesthetics-20261004",
+  "progress": "Done",
+  "result": null,
+  "resultCandidateIds": [
+    "wallpapers-made-for-the-new-movable-lock-screen-clock-ios-27",
+    "whimsigoth-fall-2026-sequel-driven-revival",
+    "bedazzle-everything-gem-maxxing"
+  ],
+  "sourcesTried": [
+    {
+      "method": "web search",
+      "note": "~45 queries; primary evidence is search-result snippets",
+      "source": "WebSearch (extended/standard)",
+      "status": "ok"
+    },
+    {
+      "method": "WebFetch",
+      "note": "egress blocked",
+      "source": "newengen.com October/September TikTok trends",
+      "status": "blocked"
+    },
+    {
+      "method": "WebFetch",
+      "note": "egress blocked",
+      "source": "dumblittleman.com fall 2026 trends",
+      "status": "blocked"
+    },
+    {
+      "method": "WebFetch",
+      "note": "egress blocked",
+      "source": "nellyrodi.com TikTok beauty trends Oct 2026",
+      "status": "blocked"
+    },
+    {
+      "method": "WebFetch",
+      "note": "egress blocked; seen via search results only",
+      "source": "socialbee.com TikTok/Instagram trend roundups",
+      "status": "blocked"
+    },
+    {
+      "method": "WebFetch",
+      "note": "egress blocked",
+      "source": "epidemicsound.com TikTok trends",
+      "status": "blocked"
+    },
+    {
+      "method": "WebFetch",
+      "note": "egress blocked; search snippets used",
+      "source": "complex.com, hunker.com, apartmenttherapy.com (Celery coverage)",
+      "status": "blocked"
+    },
+    {
+      "method": "WebFetch",
+      "note": "egress blocked",
+      "source": "wgsn.com press release",
+      "status": "blocked"
+    },
+    {
+      "method": "WebFetch",
+      "note": "egress blocked",
+      "source": "today.com whimsy-maxxing",
+      "status": "blocked"
+    },
+    {
+      "method": "WebFetch",
+      "note": "egress blocked; search snippets used",
+      "source": "macrumors.com iOS 27 lock screen",
+      "status": "blocked"
+    },
+    {
+      "method": "WebFetch",
+      "note": "egress blocked",
+      "source": "drewandjonathan.com 2027 colors",
+      "status": "blocked"
+    },
+    {
+      "method": "web search",
+      "note": "no new aesthetic entries found for Sept 2026",
+      "source": "Know Your Meme (via search)",
+      "status": "ok"
+    },
+    {
+      "method": "web search",
+      "note": "titles only; no view counts readable",
+      "source": "TikTok discover pages",
+      "status": "ok"
+    },
+    {
+      "method": "web search",
+      "note": "market/listing URLs seen in results; not fetched, no counts",
+      "source": "Etsy",
+      "status": "ok"
+    },
+    {
+      "method": "not attempted directly",
+      "note": "typically blocked; no direct measurement",
+      "source": "Pinterest Trends, Google Trends, Reddit",
+      "status": "not_tried"
+    }
+  ],
+  "startedAt": "2026-10-04T23:51:00Z",
+  "status": "partial",
+  "steps": [
+    {
+      "label": "Queued",
+      "status": "done"
+    },
+    {
+      "label": "Searching",
+      "status": "done"
+    },
+    {
+      "label": "Verifying sources",
+      "status": "done"
+    },
+    {
+      "label": "Writing results",
+      "status": "done"
+    }
+  ],
+  "summary": "Screened 24 in aesthetics/visual micro-trends; filed 4 (2 first spark: celery green 2027, wallpapers for the movable lock-screen clock; 2 early growth: whimsigoth fall, bedazzle everything).",
+  "topicKey": null,
+  "type": "discover",
+  "updatedAt": "2026-10-05T00:00:26Z"
+}

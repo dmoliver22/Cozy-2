@@ -1,0 +1,13 @@
+{
+  "asOf": "2026-09-16",
+  "candidateId": "analog-bag-screen-free-gifting",
+  "evidenceId": "analog-bag-screen-free-gifting~811522bc",
+  "id": "analog-bag-screen-free-gifting~fda4f149",
+  "isAbsolute": true,
+  "metric": "All consumers prioritizing screen-free gifts (holiday 2026)",
+  "note": "Reported by Fortune/PwC; not independently verified.",
+  "recordedAt": "2026-10-04T21:02:03.000Z",
+  "runId": "run-2026-10-04-movements",
+  "unit": "percent of respondents",
+  "value": 64
+}

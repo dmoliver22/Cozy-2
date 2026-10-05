@@ -1,0 +1,145 @@
+{
+  "candidateId": "once-a-day-once-a-week-once-a-month-routine-format",
+  "id": "once-a-day-once-a-week-once-a-month-routine-format",
+  "products": [
+    {
+      "assembly": [
+        "Run the super prompt; trim any bucket over 5 tasks.",
+        "In Canva build one US Letter master page with three columns and checkboxes; reuse it for every add-on page.",
+        "Fill pages from the AI output; keep fonts at 11 pt or more for print.",
+        "Duplicate and resize to A4; check overflow.",
+        "Create 1080x1920 phone wallpapers and the 6 creator slides; share those as a Canva template link ('use template').",
+        "Export print pages as PDF Print 300 DPI; export wallpapers as PNG.",
+        "Package: PDF (Letter), PDF (A4), PNG wallpapers, and a PDF page with the Canva template link."
+      ],
+      "asymmetry": {
+        "badBetIf": "You expect the trend alone to sell it; this bet is NOT strongly asymmetric because supply is saturated.",
+        "downside": "About 5 hours, $0.",
+        "upside": "Modest: the category is evergreen but crowded, so the trend mainly offers a keyword and content hook."
+      },
+      "costs": {
+        "baseCost": null,
+        "basis": "estimate: digital download, only marketplace fees apply",
+        "item": null,
+        "pages": null,
+        "provider": null,
+        "shipping": null,
+        "testBudget": 0,
+        "testBudgetNote": "No ads: the category is crowded and the trend is a format, so test organically first."
+      },
+      "extensions": [
+        "Pet care rhythm as its own listing",
+        "Houseplant rhythm sheet",
+        "Small-business 'once a day/week/month' creator template pack"
+      ],
+      "imagePrompts": [
+        {
+          "prompt": "Minimal line illustration of three small clocks labeled with a sun, a calendar page and a moon, above a tidy kitchen shelf with a plant, muted palette #9DB5A0 #C86B4A #F2D78C #2E2E2E on #F4EDE1, text rendered exactly: \"Once a Day. Once a Week. Once a Month.\", portrait 3:4. No logos, no real people, no trademarked characters, no watermarks.",
+          "purpose": "Cover illustration",
+          "tool": "Ideogram or ChatGPT images"
+        },
+        {
+          "prompt": "Photo-style mockup of a printed three-column checklist held by a magnet on a white refrigerator door, soft morning light, blank sheet area for overlay, accents #9DB5A0 #C86B4A, portrait 4:5. No logos, no real people, no trademarked characters, no watermarks.",
+          "purpose": "Fridge mockup",
+          "tool": "Canva mockup"
+        }
+      ],
+      "index": 0,
+      "listingPrompt": "Write an Etsy listing for \"Once a Day Once a Week Once a Month Home Rhythm Kit\" (printable plus editable Canva). Title under 140 characters that starts with \"Cleaning Schedule Printable\" and includes \"once a day once a week once a month\". Write 13 tags of 20 characters or fewer. Description: what's included page by page, US Letter and A4 PDFs, 1080x1920 PNGs, Canva link (free Canva account works), instant download, nothing shipped. FAQ: can I edit tasks (yes, in Canva); what sizes; personal-use license. No brand names, no health or ADHD claims.",
+      "marketing": {
+        "channels": [
+          {
+            "cadence": "1 pin per day",
+            "channel": "Pinterest",
+            "tactic": "One pin per add-on with keyword-rich titles"
+          },
+          {
+            "cadence": "3 per week while the format is live",
+            "channel": "TikTok",
+            "tactic": "Use the trend format with your own routine"
+          }
+        ],
+        "hooks": [
+          "Once a day. Once a week. Once a month. That's the whole system.",
+          "I put the TikTok routine trend on my fridge.",
+          "5 tasks per list, max."
+        ],
+        "keywords": [
+          "cleaning schedule printable",
+          "once a week cleaning",
+          "daily weekly monthly chores",
+          "home routine printable",
+          "fridge checklist"
+        ],
+        "launchPlan": [
+          {
+            "action": "Publish the listing with fridge mockup and page previews.",
+            "day": "Day 0"
+          },
+          {
+            "action": "Post a TikTok in the exact trend format using the kit's own slides.",
+            "day": "Day 1"
+          },
+          {
+            "action": "Pin 5 pins, one per add-on (kitchen, pets, plants, fall prep, master).",
+            "day": "Day 2"
+          },
+          {
+            "action": "Post a second video for a niche add-on (dog care or houseplants).",
+            "day": "Day 5"
+          },
+          {
+            "action": "Check views and favorites; retitle if views are under about 50.",
+            "day": "Day 7"
+          },
+          {
+            "action": "Split pet and plant add-ons into their own cheaper listings if they get the most pin saves.",
+            "day": "Day 14"
+          },
+          {
+            "action": "Go/pivot/stop check.",
+            "day": "Day 21"
+          }
+        ],
+        "positioning": "The 'once a day, once a week, once a month' routine from TikTok as a ready fridge sheet: three short lists, nothing more."
+      },
+      "platforms": [
+        {
+          "name": "Etsy",
+          "role": "primary",
+          "why": "Established demand for cleaning schedule printables."
+        },
+        {
+          "name": "Pinterest",
+          "role": "traffic",
+          "why": "Cleaning schedules are a top Pinterest printable category."
+        },
+        {
+          "name": "TikTok",
+          "role": "traffic",
+          "why": "Post your own three-bucket video in the trend format, linking to the shop."
+        }
+      ],
+      "pricing": {
+        "basis": "estimate",
+        "currency": "USD",
+        "high": 7,
+        "low": 3,
+        "rationale": "Search snippets show editable cleaning schedules in the low single digits; the creator slide bonus justifies being slightly above the cheapest.",
+        "recommended": 4.5
+      },
+      "productName": "Once a Day / Once a Week / Once a Month Home Rhythm Kit",
+      "risks": [
+        "Saturated cleaning-printable category hides a new listing.",
+        "The format trend may fade within weeks.",
+        "Copycat listings are easy to make."
+      ],
+      "source": "worker",
+      "superPrompt": "You are a home-organizing writer and printable designer. Produce the full text content for \"Once a Day, Once a Week, Once a Month: The Home Rhythm Kit\", a printable and editable set based on the TikTok format where people split a routine into three buckets.\n\nBUYER AND JOB: A US renter or homeowner (25-45) who saved those three-bucket routine videos and wants their own version on the fridge in 10 minutes, without a 40-task cleaning system. They want short lists, a one-glance layout and the freedom to edit.\n\nDELIVERABLE (US Letter 8.5x11 in AND A4; plus 1080x1920 px phone versions of the overview pages):\n1. Cover: title, tagline \"Three lists. That's the whole system.\"\n2. How to use (half page): pick at most 5 tasks per bucket, put it where you see it, review on the 1st of each month.\n3. Master Home Rhythm sheet: three columns titled ONCE A DAY / ONCE A WEEK / ONCE A MONTH, 5 lines each, pre-filled with sensible tasks (e.g. reset kitchen counters; wash bedding; wipe inside the fridge).\n4. Same sheet blank.\n5. Room add-ons (one page each, same three columns, pre-filled): Kitchen, Bathroom, Laundry, Entryway, Car.\n6. Life add-ons (same layout): Dog care, Cat care, Houseplants, Fall/winter home prep, Budget check-ins. Keep pet and plant tasks practical (refresh water, wash bowls, check soil); no veterinary, medical or health advice.\n7. Monthly tracker: a 31-day grid for daily tasks, 5 weekly boxes, 1 monthly box, with a small \"done is enough\" note.\n8. Phone wallpaper versions of the master sheet (light and dark).\n9. Creator bonus: 6 vertical 1080x1920 slide templates (title slide, three bucket slides, recap, call to action) so buyers can post their own version of the trend.\n\nDESIGN NOTES for Canva: palette Oat #F4EDE1, Sage #9DB5A0, Terracotta #C86B4A, Charcoal #2E2E2E, Butter #F2D78C. Font pairing A: DM Serif Display + Inter. Font pairing B: Fraunces + Work Sans. Calm, airy, big column headers, checkbox squares, printer-friendly.\n\nRULES: Original wording only. Keep every bucket to 5 tasks or fewer. No product or brand names (no cleaning-product brands). No health, mental-health or productivity-outcome promises; do not mention ADHD or any condition. Neutral, warm tone, grade 6 reading level.\n\nDIFFERENTIATION: Most cleaning schedules are long daily/weekly/monthly/seasonal lists. This kit matches the exact three-bucket wording people are using on TikTok, caps each list at 5, adds pet, plant and car add-ons, and includes vertical slide templates for people who want to post their own routine.\n\nOUTPUT FORMAT: Page by page with headings \"PAGE n - name\"; list each column's tasks as numbered lines; give slide text for each of the 6 creator slides (max 12 words per slide).\n\nSELF-CHECK: (1) every bucket has 5 or fewer tasks; (2) no brand or condition names; (3) all pages present for both page sizes; (4) phone and slide sizes stated as 1080x1920 px; (5) no outcome promises.",
+      "themeKey": "Once a Day / Once a Week / Once a Month home rhythm sheets w"
+    }
+  ],
+  "runId": "run-hunt-foodhome-20261004-2",
+  "source": "worker",
+  "writtenAt": "2026-10-05T00:01:02Z"
+}

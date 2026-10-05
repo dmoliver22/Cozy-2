@@ -1,0 +1,19 @@
+{
+  "accessMethod": "web_search_result",
+  "candidateId": "poetcore",
+  "claim": "Retailers are using Poetcore to merchandise clothing, which shows commercial uptake (in apparel).",
+  "excerpt": "Search result title. A search summary also said Prada, Tory Burch, Celine, Bottega Veneta and Miu Miu leaned into the look on SS26 runways; which result said this was not identified.",
+  "firstRetrievedAt": "2026-10-04T21:00:56Z",
+  "firstSeenRunId": "run-2026-10-04-aesthetics",
+  "id": "poetcore~55967fc0",
+  "intent": "none",
+  "kind": "observed",
+  "lastSeenRunId": "run-2026-10-04-aesthetics",
+  "publishedAt": null,
+  "publisher": "Current Boutique (retailer blog)",
+  "retrievedAt": "2026-10-04T21:00:56Z",
+  "signalType": "marketplace",
+  "syndicationOf": null,
+  "title": "Poetcore Is Everywhere for Spring 2026",
+  "url": "https://currentboutique.com/blogs/cravingcurrent/poetcore-is-everywhere-for-spring-2026"
+}

@@ -1,0 +1,146 @@
+{
+  "candidateId": null,
+  "createdAt": "2026-10-04T23:49:30Z",
+  "dispatch": {
+    "at": "2026-10-04T23:49:30Z",
+    "status": "sent"
+  },
+  "error": "Most pages (Know Your Meme, TODAY, Homes & Gardens, trend roundups, Google News) were blocked for fetching, so all evidence comes from search results; article publish dates and the start dates of the Sunday Butterfly and pet-tally trends could not be verified. No purchase-intent evidence was found for any candidate.",
+  "finishedAt": "2026-10-05T00:01:12Z",
+  "id": "hunt-foodhome-20261004",
+  "ingest": {
+    "at": "2026-10-05T00:01:34.966Z",
+    "candidates": [
+      {
+        "errors": [],
+        "id": "once-a-day-once-a-week-once-a-month-routine-format",
+        "name": "Once a Day, Once a Week, Once a Month Routine Format",
+        "status": "created",
+        "warnings": 0
+      },
+      {
+        "errors": [],
+        "id": "pet-life-tally-everything-my-pet-was-there-for",
+        "name": "Pet Life Tally ('Everything My Pet Was There For')",
+        "status": "created",
+        "warnings": 0
+      },
+      {
+        "errors": [],
+        "id": "flavor-illusion-food-combos",
+        "name": "Flavor-Illusion Food Combos",
+        "status": "created",
+        "warnings": 0
+      }
+    ],
+    "status": "ingested"
+  },
+  "input": "First-spark hunt: food, home and everyday-life micro-trends",
+  "inputKind": null,
+  "key": "discover:hunt-foodhome-20261004",
+  "progress": "Done",
+  "result": null,
+  "resultCandidateIds": [
+    "once-a-day-once-a-week-once-a-month-routine-format",
+    "pet-life-tally-everything-my-pet-was-there-for",
+    "flavor-illusion-food-combos"
+  ],
+  "sourcesTried": [
+    {
+      "method": "search",
+      "note": "Primary method; all evidence is from search result titles and summaries.",
+      "source": "WebSearch (standard and extended)",
+      "status": "ok"
+    },
+    {
+      "method": "curl and WebFetch",
+      "note": "Egress proxy 403.",
+      "source": "news.google.com RSS",
+      "status": "blocked"
+    },
+    {
+      "method": "WebFetch",
+      "note": "Seen only through search results.",
+      "source": "today.com",
+      "status": "blocked"
+    },
+    {
+      "method": "WebFetch",
+      "note": "Seen only through search results.",
+      "source": "trending.knowyourmeme.com",
+      "status": "blocked"
+    },
+    {
+      "method": "WebFetch",
+      "note": "Seen only through search results.",
+      "source": "upworthy.com, spoonuniversity.com",
+      "status": "blocked"
+    },
+    {
+      "method": "WebFetch",
+      "note": "Seen only through search results.",
+      "source": "homesandgardens.com, thecalmroost.com",
+      "status": "blocked"
+    },
+    {
+      "method": "WebFetch",
+      "note": "Trend roundups seen only through search results.",
+      "source": "socialbee.com, inflownetwork.com, blog.nuelink.com",
+      "status": "blocked"
+    },
+    {
+      "method": "WebSearch allowed_domains",
+      "note": "Search tool refuses these domains.",
+      "source": "allrecipes, delish, foodandwine, bonappetit, eatingwell, seriouseats, nypost",
+      "status": "error"
+    },
+    {
+      "method": "WebSearch allowed_domains",
+      "note": "Search tool refuses these domains.",
+      "source": "realsimple, thespruce, bhg, marthastewart, goodhousekeeping, housebeautiful",
+      "status": "error"
+    },
+    {
+      "method": "search results only",
+      "note": "Listing titles from search results; no sales data, no counts.",
+      "source": "Etsy",
+      "status": "ok"
+    },
+    {
+      "method": "search results only",
+      "note": "Titles only; no view counts verified.",
+      "source": "TikTok discover/tag pages",
+      "status": "ok"
+    },
+    {
+      "method": "-",
+      "note": "Usually blocked in this environment; not attempted this run.",
+      "source": "Reddit, Pinterest Trends, Google Trends",
+      "status": "not_tried"
+    }
+  ],
+  "startedAt": "2026-10-04T23:51:00Z",
+  "status": "partial",
+  "steps": [
+    {
+      "label": "Queued",
+      "status": "done"
+    },
+    {
+      "label": "Searching",
+      "status": "done"
+    },
+    {
+      "label": "Verifying sources",
+      "status": "done"
+    },
+    {
+      "label": "Writing results",
+      "status": "done"
+    }
+  ],
+  "summary": "Screened 30 in food, home, pets and household micro-trends; filed 4 (2 first spark, 2 early growth).",
+  "topicKey": null,
+  "type": "discover",
+  "updatedAt": "2026-10-05T00:01:12Z"
+}

@@ -1,0 +1,149 @@
+{
+  "candidateId": "phone-free-nights-hosted-phone-free-socials",
+  "id": "phone-free-nights-hosted-phone-free-socials",
+  "products": [
+    {
+      "assembly": [
+        "Run the super prompt and lay out each section in Canva on US Letter pages.",
+        "Build the 40 ticket pairs with Canva's bulk-create or a numbered table; check numbering.",
+        "Set card sheets 8-up at 3.5x2.5 in with crop marks; set label strips at 1x0.5 in.",
+        "Make the venue edition by duplicating signs and adding an editable venue-name field; share it as a Canva template link.",
+        "Resize to A4 and fix overflow.",
+        "Export PDF Print at 300 DPI (with crop marks for cards and tickets).",
+        "Bundle home and venue PDFs plus the Canva link page; test-print tickets and one card sheet."
+      ],
+      "asymmetry": {
+        "badBetIf": "Phone-free events stay venue-run with venue-made materials, and home hosts do not search for kits",
+        "downside": "About 12 hours and up to $14 in ads",
+        "upside": "Evergreen party category with holiday peaks; venue edition can bring repeat or referral buyers"
+      },
+      "costs": {
+        "baseCost": null,
+        "basis": "estimate: digital product, Etsy fees only",
+        "item": null,
+        "pages": null,
+        "provider": null,
+        "shipping": null,
+        "testBudget": 14,
+        "testBudgetNote": "Optional Etsy Ads $1/day for 14 days before holiday party season"
+      },
+      "extensions": [
+        "Friendsgiving and holiday editions",
+        "Phone-free birthday kit",
+        "Venue monthly-night poster series"
+      ],
+      "imagePrompts": [
+        {
+          "prompt": "Cozy living-room table with a woven basket holding several face-down generic phones with numbered paper tickets, printed conversation cards and a score sheet with pencils, warm lamp light, retro palette #E4572E #FFF4E0 #F2B134 #2F5D50 #1E1E24, a small sign reading 'Phones are resting tonight', 4:3 aspect ratio. No logos, no real people, no trademarked characters, no watermarks.",
+          "purpose": "Listing hero",
+          "tool": "Ideogram or ChatGPT images"
+        },
+        {
+          "prompt": "Vertical retro poster-style graphic, headline 'Host a Phone-Free Night' in bold blocky type in tomato #E4572E on cream #FFF4E0, icons of a basket, cards and a pencil in forest #2F5D50 and mustard #F2B134, subline 'printable kit: tickets, signs, games', 2:3 aspect ratio. No logos, no real people, no trademarked characters, no watermarks.",
+          "purpose": "Pinterest pin",
+          "tool": "Ideogram"
+        }
+      ],
+      "index": 0,
+      "listingPrompt": "Write an Etsy listing for a digital download 'Phone-Free Night Host Kit'. Title under 140 characters starting with 'Phone Free Party Printable Kit'. Exactly 13 tags of 20 characters or fewer (e.g. phone free party, game night printable, conversation cards, screen free night, party games adults). Description: what's included (40 numbered phone check tickets, signs, 60 conversation cards, 6 original paper games with score sheets, guestbook, label strips, venue edition with Canva link), US Letter and A4, instant download, nothing ships. FAQ: printing, venue use license, ages, group size, editing. Do not use any brand, device, app or commercial game names, and make no mental-health or wellbeing claims.",
+      "marketing": {
+        "channels": [
+          {
+            "cadence": "3-4 pins per week",
+            "channel": "Pinterest",
+            "tactic": "Party-planning and game-night pins"
+          },
+          {
+            "cadence": "Weekly batch of 7-8",
+            "channel": "Venue outreach",
+            "tactic": "Venue edition plus a free sample"
+          }
+        ],
+        "hooks": [
+          "Phones in the basket, fun on the table",
+          "Your friends' new favorite rule",
+          "Host the night nobody posts"
+        ],
+        "keywords": [
+          "phone free party",
+          "game night printable",
+          "screen free night",
+          "conversation cards printable",
+          "friendsgiving games"
+        ],
+        "launchPlan": [
+          {
+            "action": "Publish the Etsy and Payhip listings",
+            "day": "Day 0"
+          },
+          {
+            "action": "Post 4 pins (kit overview, tickets, games, signs)",
+            "day": "Day 1"
+          },
+          {
+            "action": "Reel or TikTok: guests dropping phones in the basket with tickets, then playing a game",
+            "day": "Day 2"
+          },
+          {
+            "action": "DM 8 local bars and cafes that post about game or analog nights",
+            "day": "Day 4"
+          },
+          {
+            "action": "Pin and post a Friendsgiving phone-free angle",
+            "day": "Day 7"
+          },
+          {
+            "action": "Contact 7 more venues; share a free conversation-card sheet",
+            "day": "Day 10"
+          },
+          {
+            "action": "Review results; start $1/day Etsy Ads if favorites are coming in",
+            "day": "Day 14"
+          },
+          {
+            "action": "Go/pivot/stop check, with holiday party edition planning",
+            "day": "Day 21"
+          }
+        ],
+        "positioning": "Everything you need to host a phone-free night that's fun, not awkward."
+      },
+      "platforms": [
+        {
+          "name": "Etsy",
+          "role": "primary",
+          "why": "Party printables are searched there"
+        },
+        {
+          "name": "Pinterest",
+          "role": "traffic",
+          "why": "Game-night and party-planning pins"
+        },
+        {
+          "name": "Payhip",
+          "role": "secondary",
+          "why": "Direct link for venue outreach"
+        }
+      ],
+      "pricing": {
+        "basis": "estimate",
+        "currency": "USD",
+        "high": 15,
+        "low": 6,
+        "rationale": "Party kit pricing; the venue edition justifies the upper range.",
+        "recommended": 9
+      },
+      "productName": "Phone-Free Night Host Kit",
+      "risks": [
+        "Overlaps generic game-night printables",
+        "Growth data comes mostly from one company's report",
+        "Trend may stay concentrated in nightlife and concerts"
+      ],
+      "source": "worker",
+      "superPrompt": "You are an event host and party-game designer. Write the full content of a printable product called 'Phone-Free Night Host Kit'. BUYER AND JOB: people hosting a phone-free dinner, game night or birthday at home, and small bars, cafes and community groups starting a monthly phone-free night. The kit makes collecting phones feel friendly, and fills the evening with things to do once phones are away. DELIVERABLE SPEC (US Letter 8.5x11 in and A4; cards 8-up at 3.5x2.5 in with crop marks): 1) Host guide (1 page): how to announce it in the invite (3 sample invite lines), where to put phones, an emergency-contact rule (a host phone or landline number guests can share with family), timing for a 2-3 hour night. 2) Phone check-in tickets: 40 numbered ticket pairs (one for the guest, one to tape to the phone or pouch). 3) Signs: welcome sign 'Phones are resting tonight', phone basket label, house-rules poster with 5 friendly rules, 'Photo time' card for an optional 5-minute group photo moment, and a venue edition of each with space for the venue name. 4) 60 conversation cards in 4 decks (Warm-up, Nostalgia, Would-You-Rather, Deeper), 15 each, all original and inclusive. 5) Six original pen-and-paper party games, each with a one-page rule sheet and printable score sheet: a category-listing game, a drawing-telephone style game, a 'two truths' variant, a team trivia template with blank question slots, a word-chain race, and a group story game. Give each an original name; write rules in your own words. 6) A 'What we did instead of scrolling' guestbook page and a 'next phone-free night' sign-up sheet. 7) A camera-cover reminder strip sheet (small printable labels reading 'In the moment' sized 1x0.5 in) with a note to use removable label paper. STYLE: warm, retro analog. Canva font pairings: (1) Archivo Black headings + IBM Plex Mono body; (2) Recoleta + Karla. Palette: Tomato #E4572E, Cream #FFF4E0, Mustard #F2B134, Forest #2F5D50, Night #1E1E24. CONTENT RULES: everything original; do not name or copy any commercial game, app, device or brand; no claims about mental health benefits; keep it friendly and never shaming about phone use; inclusive and alcohol-optional. DIFFERENTIATION: one kit that covers both the phone logistics and the activities, in home and venue editions. OUTPUT FORMAT: section by section, headed 'SECTION n - name', all text with layout notes in brackets, then a short print guide. SELF-CHECK before answering: 40 ticket pairs numbered 1-40; 60 unique cards; 6 games each with rules and a score sheet; an emergency-contact note present; no brand or game trademarks; no health claims; palette and fonts used.",
+      "themeKey": "Phone-Free Night host kit: phone check-in tickets, house-rul"
+    }
+  ],
+  "runId": "run-hunt-hobbies-20261004-4",
+  "source": "worker",
+  "writtenAt": "2026-10-05T00:00:55Z"
+}

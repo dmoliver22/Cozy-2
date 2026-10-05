@@ -1,0 +1,19 @@
+{
+  "accessMethod": "web_search_result",
+  "candidateId": "once-a-day-once-a-week-once-a-month-routine-format",
+  "claim": "Lists 'Once a Day, Once a Week, Once a Month' as a current TikTok trend covering cleaning among other routines",
+  "excerpt": "Creators divide their habits into daily, weekly, and monthly tasks, covering everything from skincare and fitness to cleaning, content creation, and business routines.",
+  "firstRetrievedAt": "2026-10-05T00:00:55Z",
+  "firstSeenRunId": "run-hunt-hobbies-20261004-1",
+  "id": "once-a-day-once-a-week-once-a-month-routine-format~97eca2a2",
+  "intent": "utility",
+  "kind": "observed",
+  "lastSeenRunId": "run-hunt-foodhome-20261004-2",
+  "publishedAt": "2026-09-29",
+  "publisher": "SocialBee",
+  "retrievedAt": "2026-10-05T00:01:02Z",
+  "signalType": "creator",
+  "syndicationOf": null,
+  "title": "(September 29) 2026 TikTok trends you can't miss",
+  "url": "https://socialbee.com/blog/tiktok-trends-you-cant-miss/"
+}

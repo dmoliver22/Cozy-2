@@ -1,0 +1,19 @@
+{
+  "accessMethod": "web_search_result",
+  "candidateId": "gen-z-bible-reading-revival",
+  "claim": "45% of Protestant senior pastors report higher Gen Z engagement, against 12% reporting lower.",
+  "excerpt": "Summary figures as stated. The underlying survey organization is not named in the summary.",
+  "firstRetrievedAt": "2026-10-04T20:59:17Z",
+  "firstSeenRunId": "run-2026-10-04-movements",
+  "id": "gen-z-bible-reading-revival~1cac4c91",
+  "intent": "curiosity",
+  "kind": "observed",
+  "lastSeenRunId": "run-2026-10-04-movements",
+  "publishedAt": null,
+  "publisher": "Crosswalk",
+  "retrievedAt": "2026-10-04T20:59:17Z",
+  "signalType": "press",
+  "syndicationOf": null,
+  "title": "Gen Z is experiencing rising church engagement; pastors say something is shifting",
+  "url": "https://www.crosswalk.com/headlines/contributors/michael-foust/gen-z-is-experiencing-rising-church-engagement-pastors-say-something-is-shifting.html"
+}

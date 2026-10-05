@@ -1,0 +1,576 @@
+{
+  "createdAt": "2026-10-05T00:00:55Z",
+  "jobId": "hunt-hobbies-20261004",
+  "processedAt": "2026-10-05T00:01:18.629Z",
+  "raw": {
+    "candidates": [
+      {
+        "actionRationale": "Cheap to build in a day and useful even after the format fades. Evidence is two trackers and no demand data, so build and post organically; do not spend on ads until it spreads.",
+        "adopters": {
+          "evidence": [
+            "e1",
+            "e2"
+          ],
+          "text": "Beauty, fitness, cleaning, lifestyle and business creators, according to trend trackers. Viewers save it as a checklist. Adopter demographics were not measured."
+        },
+        "aliases": [
+          "once a day once a week once a month",
+          "1 day 1 week 1 month routine",
+          "daily weekly monthly routine trend"
+        ],
+        "category": "hobby",
+        "competition": {
+          "evidence": [
+            "e4",
+            "e5"
+          ],
+          "level": "unknown",
+          "text": "Evergreen daily/weekly/monthly guides and many generic habit-tracker printables exist. No product built on this exact three-bucket format was found, but Etsy was not checked directly."
+        },
+        "evidence": [
+          {
+            "accessMethod": "web_search_result",
+            "claim": "Lists 'Once a Day, Once a Week, Once a Month' as a current TikTok trend; search summary dates its emergence to about Sept 18, 2026.",
+            "excerpt": "This trend turns routines into an easy-to-follow schedule, where creators divide their habits into daily, weekly, and monthly tasks, covering everything from skincare and fitness to cleaning and business routines.",
+            "id": "e1",
+            "intent": "curiosity",
+            "kind": "observed",
+            "publishedAt": "2026-09-29",
+            "publisher": "SocialBee",
+            "retrievedAt": "2026-10-05T00:00:55Z",
+            "signalType": "creator",
+            "syndicationOf": null,
+            "title": "(September 29) 2026 TikTok trends you can't miss",
+            "url": "https://socialbee.com/blog/tiktok-trends-you-cant-miss/"
+          },
+          {
+            "accessMethod": "web_search_result",
+            "claim": "An independent trend tracker lists the same format on Instagram Reels, emerging around Sept 25, 2026.",
+            "excerpt": "Creators are splitting their skincare, posting schedule, or training habits into daily/weekly/monthly buckets, a format that slots into literally any niche.",
+            "id": "e2",
+            "intent": "curiosity",
+            "kind": "observed",
+            "publishedAt": null,
+            "publisher": "Later",
+            "retrievedAt": "2026-10-05T00:00:55Z",
+            "signalType": "creator",
+            "syndicationOf": null,
+            "title": "Top Instagram Reels Trends to Try in 2026 (Updated Weekly)",
+            "url": "https://later.com/blog/instagram-reels-trends/"
+          },
+          {
+            "accessMethod": "web_search_result",
+            "claim": "TikTok has a discover page for the phrase, so users are searching for it. Volume unknown.",
+            "excerpt": "TikTok discover page '1 Day 1 Week and 1 Month' appeared in search results.",
+            "id": "e3",
+            "intent": "curiosity",
+            "kind": "observed",
+            "publishedAt": null,
+            "publisher": "TikTok",
+            "retrievedAt": "2026-10-05T00:00:55Z",
+            "signalType": "social",
+            "syndicationOf": null,
+            "title": "1 Day 1 Week and 1 Month",
+            "url": "https://www.tiktok.com/discover/1-day-1-week-and-1-month"
+          },
+          {
+            "accessMethod": "web_search_result",
+            "claim": "Evergreen daily/weekly/monthly routine guides already exist (supply of free articles, not of fill-in templates).",
+            "excerpt": "An Effortless Daily, Weekly, and Monthly Guide to Better Skin",
+            "id": "e4",
+            "intent": "none",
+            "kind": "observed",
+            "publishedAt": null,
+            "publisher": "Healthline",
+            "retrievedAt": "2026-10-05T00:00:55Z",
+            "signalType": "press",
+            "syndicationOf": null,
+            "title": "An Effortless Daily, Weekly, and Monthly Guide to Better Skin",
+            "url": "https://www.healthline.com/health/beauty-skin-care/routine-daily-monthly-weekly"
+          },
+          {
+            "accessMethod": "web_search_result",
+            "claim": "Habit-tracker content is an established TikTok category the new format feeds into.",
+            "excerpt": "Habit tracker content is present on TikTok as a content category.",
+            "id": "e5",
+            "intent": "utility",
+            "kind": "observed",
+            "publishedAt": null,
+            "publisher": "TikTok",
+            "retrievedAt": "2026-10-05T00:00:55Z",
+            "signalType": "social",
+            "syndicationOf": null,
+            "title": "Habit Tracker",
+            "url": "https://www.tiktok.com/discover/habit-tracker"
+          }
+        ],
+        "gap": {
+          "isInference": true,
+          "text": "A printable routine builder built on the three-bucket format, with niche example pages and a creator slide template."
+        },
+        "name": "Once a Day, Once a Week, Once a Month routine format",
+        "observations": [],
+        "origin": {
+          "date": "2026-09-18",
+          "evidence": [
+            "e1",
+            "e2"
+          ],
+          "text": "A trend roundup dates the TikTok version to about Sept 18, 2026, and a second tracker dates the Reels version to about Sept 25, 2026. No single originating creator was identified."
+        },
+        "productDemand": {
+          "evidence": [
+            "e1",
+            "e5"
+          ],
+          "text": "No purchase evidence. Signals are curiosity and utility: the format is described as a checklist viewers save and follow, which suggests a template need (inference)."
+        },
+        "products": [
+          {
+            "buyer": "US women 18-40 who save routine videos (skincare, cleaning, fitness, self-care) and want to set up their own, plus small creators who want an on-brand template for the format",
+            "channels": [
+              "Etsy",
+              "Pinterest",
+              "TikTok",
+              "Instagram Reels"
+            ],
+            "continueIf": "At least 3 sales or 40 favorites in 21 days, or a post above 5,000 views",
+            "differentiation": "Built around the exact three-bucket structure, with pre-filled example pages for 6 niches, blank builders, a monthly checkoff calendar, and a 9:16 template set for creators. Generic habit trackers have none of these.",
+            "effort": "low",
+            "effortHours": 8,
+            "evidence": [
+              "e1",
+              "e2",
+              "e3"
+            ],
+            "format": "printable",
+            "fulfillment": "digital",
+            "leadTimeDays": 3,
+            "pivotIf": "Views but no sales: fold the pages into a broader 'fall reset routine' bundle",
+            "playbook": {
+              "assembly": [
+                "Run the super prompt and paste each page's text into a Canva US Letter (8.5x11 in) document.",
+                "Set the two font pairings and the 5-color palette as a Canva brand kit and apply a fixed accent color per bucket.",
+                "Build the 31-day check-off grid with Canva's table element and keep line weights at 0.75 pt for printing.",
+                "Duplicate the design and resize it to A4 (Canva Pro resize, or rebuild on an A4 page); fix any overflow.",
+                "Build the 4 creator slides at 1080x1920 px and share them as a Canva template link ('Use template').",
+                "Export PDF Print at 300 DPI for both sizes; export the 1080x1920 slides as PNGs.",
+                "Zip the PDFs together with a one-page PDF that holds the Canva template link, and test-download it before listing."
+              ],
+              "asymmetry": {
+                "badBetIf": "The format fades within 2 weeks and organic Pinterest traffic does not pick up the evergreen keywords",
+                "downside": "About 8 hours and up to $14 in ads",
+                "upside": "Zero marginal cost, an evergreen routine category even after the format fades, easy to bundle"
+              },
+              "costs": {
+                "baseCost": null,
+                "basis": "estimate: digital product, no unit cost; Etsy listing fee and transaction fees apply",
+                "item": null,
+                "provider": null,
+                "shipping": null,
+                "testBudget": 14,
+                "testBudgetNote": "Optional Etsy Ads at $1/day for 14 days after organic posts are live"
+              },
+              "extensions": [
+                "Niche editions (cleaning only, skincare only)",
+                "Fall reset bundle with the Great Lock-In style trackers",
+                "Notion/Google Sheets version"
+              ],
+              "imagePrompts": [
+                {
+                  "prompt": "Flat-lay of three printed planner pages on a warm linen desk with a ceramic mug and a pencil, soft morning light, pages show three columns labeled 'Once a Day', 'Once a Week', 'Once a Month' in a serif font, palette #F6E7B4 #A8B89A #C98B6B #2E2A26 #FFFBF3, top-down composition, 4:3 aspect ratio, solid light background. No logos, no real people, no trademarked characters, no watermarks.",
+                  "purpose": "Etsy cover mockup background",
+                  "tool": "Ideogram or ChatGPT images"
+                },
+                {
+                  "prompt": "Minimal vertical graphic with three stacked rounded cards in sage #A8B89A, clay #C98B6B and butter #F6E7B4 on paper #FFFBF3, each card titled 'Once a Day', 'Once a Week', 'Once a Month' in Playfair-style serif with small line icons (sun, calendar, moon), headline at top 'Build your routine in 3 buckets', 2:3 aspect ratio. No logos, no real people, no trademarked characters, no watermarks.",
+                  "purpose": "Pinterest pin graphic",
+                  "tool": "Ideogram"
+                }
+              ],
+              "listingPrompt": "Write an Etsy listing for a digital download called 'Once a Day, Once a Week, Once a Month Routine Builder'. Title under 140 characters starting with 'Daily Weekly Monthly Routine Planner Printable'. Give exactly 13 tags of 20 characters or fewer (e.g. routine planner, daily weekly monthly, habit tracker, cleaning schedule). Description: what's included (18 printable pages in US Letter and A4, a 4-slide 1080x1920 Canva template for creators), file formats (PDF, Canva link), how instant download works, and that nothing physical ships. Add a 5-question FAQ (printing, editing in Canva, A4 vs Letter, personal use license, refunds on digital items). Do not use any trademarked terms, app names, creator names or song titles, and make no promises about health, skin or money outcomes.",
+              "marketing": {
+                "channels": [
+                  {
+                    "cadence": "3 pins every 2-3 days",
+                    "channel": "Pinterest",
+                    "tactic": "Niche example pages as separate pins"
+                  },
+                  {
+                    "cadence": "3 videos per week while the format is active",
+                    "channel": "TikTok/Reels",
+                    "tactic": "Use the trend format; show the printable on screen"
+                  }
+                ],
+                "hooks": [
+                  "Your routine, in three buckets",
+                  "Steal my once-a-day list, then build yours",
+                  "Stop saving routine videos, start one"
+                ],
+                "keywords": [
+                  "daily weekly monthly routine",
+                  "routine planner printable",
+                  "cleaning schedule printable",
+                  "skincare routine planner",
+                  "habit tracker printable"
+                ],
+                "launchPlan": [
+                  {
+                    "action": "Publish the Etsy listing and a Gumroad/Payhip copy",
+                    "day": "Day 0"
+                  },
+                  {
+                    "action": "Post 3 Pinterest pins (cover, cleaning example, skincare example)",
+                    "day": "Day 1"
+                  },
+                  {
+                    "action": "Post a TikTok/Reel in the three-bucket format showing your own filled page",
+                    "day": "Day 2"
+                  },
+                  {
+                    "action": "Post 3 more pins with different niche examples",
+                    "day": "Day 4"
+                  },
+                  {
+                    "action": "Second video: 'I made a printable for this trend' with a page flip-through",
+                    "day": "Day 6"
+                  },
+                  {
+                    "action": "Share the free brain-dump page as a lead magnet where community rules allow",
+                    "day": "Day 9"
+                  },
+                  {
+                    "action": "Review views, favorites and sales; turn on $1/day Etsy Ads if favorites are coming in",
+                    "day": "Day 14"
+                  },
+                  {
+                    "action": "Go/pivot/stop check against continueIf/pivotIf/stopIf",
+                    "day": "Day 21"
+                  }
+                ],
+                "positioning": "The printable that turns the 'once a day, once a week, once a month' videos into your own routine in 10 minutes."
+              },
+              "platforms": [
+                {
+                  "name": "Etsy",
+                  "role": "primary",
+                  "why": "Buyers search for routine and planner printables there"
+                },
+                {
+                  "name": "Pinterest",
+                  "role": "traffic",
+                  "why": "Routine and cleaning-schedule pins drive planner sales with no audience"
+                },
+                {
+                  "name": "TikTok / Instagram Reels",
+                  "role": "traffic",
+                  "why": "Use the trend format itself to demo the product"
+                },
+                {
+                  "name": "Gumroad or Payhip",
+                  "role": "secondary",
+                  "why": "Direct link in bio"
+                }
+              ],
+              "pricing": {
+                "basis": "estimate",
+                "currency": "USD",
+                "high": 8,
+                "low": 3,
+                "rationale": "Priced like single-purpose planner printables, with a small premium for the creator template set.",
+                "recommended": 5
+              },
+              "productName": "Once a Day, Once a Week, Once a Month Routine Builder",
+              "risks": [
+                "Very thin evidence: two trend trackers and a TikTok discover page",
+                "Content formats can vanish in days",
+                "Crowded planner category on Etsy"
+              ],
+              "superPrompt": "You are a professional planner designer and routine coach writing the complete content for a printable product called 'Once a Day, Once a Week, Once a Month Routine Builder'. BUYER AND JOB: US women aged 18-40 who keep saving routine videos that split habits into daily, weekly and monthly buckets, and now want to build and stick to their own; plus small creators who want a clean on-screen template for the same format. The product turns an overwhelming list of good intentions into three short, visible lists and a simple monthly check-off.\nDELIVERABLE SPEC (US Letter 8.5x11 in, plus A4 versions; portrait; 0.5 in margins): Page 1 Cover: title, subtitle 'Build your routine in three buckets'. Page 2 How to use: 5 short steps (pick an area, brain-dump, sort into daily/weekly/monthly, cap each bucket, review monthly), plus the rule of thumb 'daily = under 10 minutes total'. Page 3 Brain-dump page: 24 blank lines headed 'Everything I wish I did'. Page 4 Sorting worksheet: three columns (Once a Day, Once a Week, Once a Month) with 7 lines each and a 'Not now' parking box. Pages 5-10 Example routines, one page each for Skincare, Home Cleaning, Movement, Money Admin, Self-Care, Content Creation: each with 4-6 daily, 3-5 weekly and 2-4 monthly items written as short, neutral actions (e.g. 'wipe kitchen counters'). No medical, dermatological or financial advice; skincare examples must be generic ('cleanse', 'apply moisturizer') with no product names or treatment claims. Pages 11-16 Blank builders, one per area plus one 'My own area', same three-column layout. Page 17 Monthly check-off calendar: a 31-day grid for daily items (up to 6 rows), 5 weekly boxes for weekly items, and 1 box per monthly item. Page 18 Monthly review: what stuck, what to drop, what to move between buckets. Creator set (1080x1920 px, 9:16): 3 slides 'Once a day', 'Once a week', 'Once a month' with 5 bullet slots each, plus 1 cover slide. Text must stay inside the central 1080x1420 safe area. STYLE: calm, airy, modern. Canva font pairings: (1) Playfair Display headings + Montserrat body; (2) DM Serif Display + Inter. Palette: Butter #F6E7B4, Sage #A8B89A, Clay #C98B6B, Ink #2E2A26, Paper #FFFBF3. Each bucket gets one consistent accent color (daily Sage, weekly Clay, monthly Butter). CONTENT RULES: all wording original; short imperative items under 8 words; reading level grade 6-8; no promises of results; no brand, app, creator, song or platform names. DIFFERENTIATION: unlike generic habit trackers, every page is built on the three-bucket structure, the examples show realistic small routines, and the creator slide set lets buyers make their own version of the video format. OUTPUT FORMAT: return page by page, headed 'PAGE n - name', listing every text element in reading order with layout notes in brackets, then the 4 creator slides, then a 3-line Canva build note. SELF-CHECK before answering: every page above present; each example has items in all three buckets; daily items in each example fit in about 10 minutes total; no brand, product or creator names; no health or money outcome claims; both font pairings and all 5 hex colors referenced."
+            },
+            "rightsNote": "The phrase describes a generic format. Avoid any creator names, trending audio names or platform logos in the product or listing.",
+            "stopIf": "Fewer than 300 listing views and no sales by day 21",
+            "theme": "Once a Day / Once a Week / Once a Month routine builder printable with editable Canva templates",
+            "validationTest": "List on Etsy and post 10 Pinterest pins plus 3 TikToks/Reels that use the format itself showing the printable, within 7 days.",
+            "whyBuy": "The video format makes routines look simple; viewers then need a page to build their own three-bucket routine and keep it visible. Creators need a clean template to film."
+          }
+        ],
+        "recommendedAction": "prepare",
+        "rights": {
+          "note": "Generic phrase and format. Avoid creator names, trending audio and platform logos.",
+          "risk": "low"
+        },
+        "scores": {
+          "buyerIntent": {
+            "basis": "qualitative",
+            "rationale": "Only save-and-follow utility signals; no purchase evidence",
+            "score": 1
+          },
+          "durability": {
+            "basis": "qualitative",
+            "rationale": "The format itself is likely short-lived; the routine use case is evergreen",
+            "score": 2
+          },
+          "economics": {
+            "basis": "qualitative",
+            "rationale": "Digital, zero marginal cost, a few hours to build",
+            "score": 4
+          },
+          "productFit": {
+            "basis": "qualitative",
+            "rationale": "The format is already a three-column template",
+            "score": 4
+          },
+          "supplyGap": {
+            "basis": "unknown",
+            "rationale": "Marketplaces not checked directly; generic trackers exist",
+            "score": null
+          },
+          "timing": {
+            "basis": "reported",
+            "rationale": "About 2 weeks old and spreading across platforms before any press coverage",
+            "score": 4
+          }
+        },
+        "spread": {
+          "evidence": [
+            "e1",
+            "e2",
+            "e3"
+          ],
+          "text": "Seen on two platforms (TikTok and Instagram Reels) by two independent trend trackers, and TikTok has a discover page for the phrase. No press coverage and no view counts found."
+        },
+        "summary": "A short-video format, reported from about mid-to-late September 2026, where creators sort a routine into daily, weekly and monthly tasks.",
+        "trajectory": {
+          "evidence": [
+            "e1",
+            "e2"
+          ],
+          "stage": "first_spark",
+          "text": "About 2 weeks old, has moved from TikTok to Reels, and has no mainstream coverage yet. Format trends often fade quickly, but the underlying daily/weekly/monthly routine idea is evergreen."
+        },
+        "unresolved": [
+          "Whether mainstream outlets or more trend trackers pick it up by mid-October",
+          "Whether views on the format's posts are in the hundreds of thousands (no counts found)",
+          "Whether Etsy already has listings using the phrase"
+        ],
+        "what": "Creators list what they do once a day, once a week and once a month for one area of life (skincare, cleaning, training, posting schedule, business). Trackers describe it as fitting any niche and easy for viewers to save and follow as a checklist. It is a personal-routine ritual in content form, which makes it template-shaped.",
+        "window": {
+          "endEstimate": null,
+          "estimate": "2-6 weeks for the format; evergreen for the routine-planner keywords",
+          "invalidators": [
+            "No new posts or roundup mentions by mid-October",
+            "Format is absorbed into generic GRWM content"
+          ],
+          "reasoning": "Short-video formats usually peak within weeks; the product can keep selling on evergreen routine and cleaning-schedule searches.",
+          "seasonality": "Fall reset and New Year planning (late Dec - Jan) are natural second peaks",
+          "sellBy": null
+        }
+      }
+    ],
+    "discovered": [
+      {
+        "disposition": "deep_dived",
+        "name": "Once a day / once a week / once a month routine format",
+        "rejectReason": "",
+        "whyConsidered": "Trend roundups date it to about Sept 18 (TikTok) and Sept 25 (Reels); a template-shaped format with an obvious printable"
+      },
+      {
+        "disposition": "deep_dived",
+        "name": "Reader dating and bookish matchmaking",
+        "rejectReason": "",
+        "whyConsidered": "A reading-only dating app launched in NYC in September 2026 with coverage in several outlets, plus library and bookstore speed-dating nights"
+      },
+      {
+        "disposition": "deep_dived",
+        "name": "Whimsymaxxing: bedazzle-everything DIY",
+        "rejectReason": "",
+        "whyConsidered": "Rhinestone DIY on phone cases, cups and skincare broke out in late August and spread through September coverage; newcomers need layouts and guides"
+      },
+      {
+        "disposition": "deep_dived",
+        "name": "Phone-free nights (hosted phone-free socials)",
+        "rejectReason": "",
+        "whyConsidered": "New monthly phone-free nights launched in September 2026 (Atlanta, Miami) on top of Eventbrite's growth data; hosts need kits"
+      },
+      {
+        "disposition": "rejected",
+        "name": "Hobbymaxxing",
+        "rejectReason": "Origins in 2024-25, a broad meta-trend with critical coverage, and it overlaps the existing Great Lock-In candidate. No specific product gap beyond generic hobby trackers.",
+        "whyConsidered": "Washington Post piece dated 2026-09-13 and a Yahoo explainer"
+      },
+      {
+        "disposition": "rejected",
+        "name": "Winter Arc challenge (Oct 1 - Dec 31)",
+        "rejectReason": "Recurs every year since 2024 and is already covered by the existing Great Lock-In candidate.",
+        "whyConsidered": "October kickoff habit challenge in search results"
+      },
+      {
+        "disposition": "rejected",
+        "name": "Japanese (interval) walking",
+        "rejectReason": "Broke out in 2025 and is established, with many guides already available. Not a first spark.",
+        "whyConsidered": "Reported +2,968% search interest, the top fitness trend of 2026"
+      },
+      {
+        "disposition": "rejected",
+        "name": "6-6-6 walking challenge",
+        "rejectReason": "Viral in 2025 with wide coverage (Forbes Sept 2025). Established and saturated.",
+        "whyConsidered": "Walking routine with a built-in tracker shape"
+      },
+      {
+        "disposition": "rejected",
+        "name": "Hacky sack revival",
+        "rejectReason": "Peaked in May 2026 and centers on a physical product. Not in the window.",
+        "whyConsidered": "Sell-outs reported (NPR, KUNC, May 2026)"
+      },
+      {
+        "disposition": "rejected",
+        "name": "Flip 7 card game",
+        "rejectReason": "Brand IP, popular since 2023, and several score apps already exist.",
+        "whyConsidered": "Viral party card game with scorekeeping needs"
+      },
+      {
+        "disposition": "rejected",
+        "name": "Take Time (Asmodee) card game",
+        "rejectReason": "Publisher IP; any accessory would need the brand.",
+        "whyConsidered": "Record launch reported in September 2026"
+      },
+      {
+        "disposition": "rejected",
+        "name": "Library and community puzzle swaps",
+        "rejectReason": "Established, recurring library programming, not a new spark.",
+        "whyConsidered": "Many September 2026 library listings and an Axios New Orleans story (July 2026)"
+      },
+      {
+        "disposition": "rejected",
+        "name": "Junk journaling",
+        "rejectReason": "Established, with saturated digital supply (printable ephemera kits).",
+        "whyConsidered": "Called '2026's biggest craft trend'"
+      },
+      {
+        "disposition": "rejected",
+        "name": "Social sauna and cold-plunge clubs",
+        "rejectReason": "Venue-led with health-claim risk; growing since 2024. Poor fit for digital products.",
+        "whyConsidered": "Gen Z 'social wellness' coverage"
+      },
+      {
+        "disposition": "rejected",
+        "name": "Nonna-maxxing",
+        "rejectReason": "Originated in February 2026 and is now fashion- and food-led. Overlaps the existing Kitchen Witch candidate.",
+        "whyConsidered": "Slow-living grandma lifestyle trend"
+      },
+      {
+        "disposition": "rejected",
+        "name": "Soup swaps / SoupTok",
+        "rejectReason": "Recurring seasonal content, not new in 2026.",
+        "whyConsidered": "Fall hosting ritual"
+      },
+      {
+        "disposition": "rejected",
+        "name": "October art prompt challenges (Inktober, OC-tober, Skytober)",
+        "rejectReason": "Established annual events; Inktober is a trademark, and prompt lists are free.",
+        "whyConsidered": "Daily-prompt challenge lists on TikTok for October 2026"
+      },
+      {
+        "disposition": "rejected",
+        "name": "Chess clubs in bars",
+        "rejectReason": "Clubs date from 2023; established niche with no fresh spark.",
+        "whyConsidered": "Baltimore and London coverage"
+      },
+      {
+        "disposition": "rejected",
+        "name": "School squishy craze",
+        "rejectReason": "Physical, branded toys; no digital or POD angle without IP.",
+        "whyConsidered": "Reports of a classroom craze and bans"
+      },
+      {
+        "disposition": "rejected",
+        "name": "Run clubs as social life",
+        "rejectReason": "Established since 2023-24 and well supplied.",
+        "whyConsidered": "September 2026 coverage of run clubs as 'the new nightclubs'"
+      }
+    ],
+    "kind": "discover",
+    "lens": "First-spark hunt: new hobbies, challenges and rituals",
+    "researchedAt": "2026-10-05T00:00:55Z",
+    "sourcesTried": [
+      {
+        "method": "web search",
+        "note": "About 40 queries across TikTok/Reels trend roundups, Know Your Meme, YPulse, Pinterest, Etsy trend blogs, news.",
+        "source": "WebSearch (standard and extended)",
+        "status": "ok"
+      },
+      {
+        "method": "WebFetch",
+        "note": "Egress blocked; used search snippets.",
+        "source": "newengen.com October TikTok trends",
+        "status": "blocked"
+      },
+      {
+        "method": "WebFetch",
+        "note": "Egress blocked.",
+        "source": "washingtonpost.com (hobbymaxxing, 2026-09-13)",
+        "status": "blocked"
+      },
+      {
+        "method": "WebFetch",
+        "note": "Egress blocked; search snippets only.",
+        "source": "socialbee.com TikTok trends (Sept 29)",
+        "status": "blocked"
+      },
+      {
+        "method": "WebFetch",
+        "note": "Egress blocked; search snippets only.",
+        "source": "later.com TikTok and Reels trend blogs",
+        "status": "blocked"
+      },
+      {
+        "method": "WebFetch",
+        "note": "Egress blocked.",
+        "source": "explodingtopics.com",
+        "status": "blocked"
+      },
+      {
+        "method": "WebFetch",
+        "note": "Egress blocked.",
+        "source": "napoleoncat.com",
+        "status": "blocked"
+      },
+      {
+        "method": "WebFetch",
+        "note": "Egress blocked.",
+        "source": "ramd.am TikTok/Instagram trends",
+        "status": "blocked"
+      },
+      {
+        "method": "WebFetch",
+        "note": "Egress blocked; could not confirm the year of the 9/19 post.",
+        "source": "community.pinterest.biz Pinterest Predicts Weekly",
+        "status": "blocked"
+      },
+      {
+        "method": "WebFetch",
+        "note": "Egress blocked; search snippets only.",
+        "source": "fortune.com",
+        "status": "blocked"
+      },
+      {
+        "method": "direct",
+        "note": "Known to be blocked in this environment; TikTok discover pages seen only as search results.",
+        "source": "TikTok, Reddit, Etsy, Google Trends",
+        "status": "not_tried"
+      }
+    ]
+  },
+  "report": [
+    {
+      "errors": [],
+      "id": "once-a-day-once-a-week-once-a-month-routine-format",
+      "name": "Once a Day, Once a Week, Once a Month routine format",
+      "status": "created",
+      "warnings": 0
+    }
+  ],
+  "runId": "run-hunt-hobbies-20261004-1",
+  "status": "ingested"
+}

@@ -1,0 +1,19 @@
+{
+  "accessMethod": "web_search_result",
+  "candidateId": "needlepoint-revival",
+  "claim": "Shop owners attribute growth to TikTok, with customers shifting younger.",
+  "excerpt": "Search summary: nearly every customer mentions discovering it on TikTok; shift from Gen X/older millennials to younger millennials and Gen Z after 2024 virality.",
+  "firstRetrievedAt": "2026-10-04T20:53:53Z",
+  "firstSeenRunId": "run-2026-10-04-hobbies",
+  "id": "needlepoint-revival~22c4e9c6",
+  "intent": "curiosity",
+  "kind": "observed",
+  "lastSeenRunId": "run-2026-10-04-hobbies",
+  "publishedAt": null,
+  "publisher": "News 12",
+  "retrievedAt": "2026-10-04T20:53:53Z",
+  "signalType": "press",
+  "syndicationOf": null,
+  "title": "Needlepoint's new generation stitches community together in Rowayton shop",
+  "url": "https://newyork.news12.com/needlepoints-new-generation-stitches-community-together-in-rowayton-shop"
+}

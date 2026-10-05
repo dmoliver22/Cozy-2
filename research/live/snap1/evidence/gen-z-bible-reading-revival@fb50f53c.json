@@ -1,0 +1,19 @@
+{
+  "accessMethod": "web_search_result",
+  "candidateId": "gen-z-bible-reading-revival",
+  "claim": "Gen Z weekly Bible reading rose from 30% (2024) to 49% (2025); millennials rose 16 points to 50%; all US adults reached 42%; young men lead.",
+  "excerpt": "Summary from Barna and partner pages: weekly Bible reading rebounded 12 points from a 15-year low; younger men now outpace younger women.",
+  "firstRetrievedAt": "2026-10-04T20:59:17Z",
+  "firstSeenRunId": "run-2026-10-04-movements",
+  "id": "gen-z-bible-reading-revival~fb50f53c",
+  "intent": "utility",
+  "kind": "observed",
+  "lastSeenRunId": "run-2026-10-04-movements",
+  "publishedAt": null,
+  "publisher": "Barna Group",
+  "retrievedAt": "2026-10-04T20:59:17Z",
+  "signalType": "community",
+  "syndicationOf": null,
+  "title": "How Millennials and Gen Z Are Driving a Bible Reading Comeback",
+  "url": "https://www.barna.com/trends/bible-reading-trends/"
+}

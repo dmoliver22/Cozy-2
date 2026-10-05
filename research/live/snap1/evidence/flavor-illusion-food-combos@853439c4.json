@@ -1,0 +1,19 @@
+{
+  "accessMethod": "web_search_result",
+  "candidateId": "flavor-illusion-food-combos",
+  "claim": "Independent national outlet tested the combos; credits UK account Eat with GG with sparking the recent wave",
+  "excerpt": "These flavor combo hacks have been shared around the internet for a few years, but an account called Eat with GG seems to have sparked the recent rash of taste-testers.",
+  "firstRetrievedAt": "2026-10-05T00:01:02Z",
+  "firstSeenRunId": "run-hunt-foodhome-20261004-1",
+  "id": "flavor-illusion-food-combos~853439c4",
+  "intent": "curiosity",
+  "kind": "observed",
+  "lastSeenRunId": "run-hunt-foodhome-20261004-1",
+  "publishedAt": null,
+  "publisher": "TODAY",
+  "retrievedAt": "2026-10-05T00:01:02Z",
+  "signalType": "press",
+  "syndicationOf": null,
+  "title": "Lemon + Cinnamon = Coke? TikTokers Are Hacking Their Taste Buds, So I Tried It",
+  "url": "https://www.today.com/food/trends/viral-tiktok-trend-taste-buds-flavor-combinations-hack-i-tried-rcna595742"
+}

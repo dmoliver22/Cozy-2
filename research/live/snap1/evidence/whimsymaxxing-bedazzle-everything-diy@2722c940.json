@@ -1,0 +1,19 @@
+{
+  "accessMethod": "web_search_result",
+  "candidateId": "whimsymaxxing-bedazzle-everything-diy",
+  "claim": "Retail trade press tracked whimsymaxxing before the bedazzling wave (URL suggests June 2026).",
+  "excerpt": "What is whimsymaxxing and why should retailers care?",
+  "firstRetrievedAt": "2026-10-05T00:00:55Z",
+  "firstSeenRunId": "run-hunt-hobbies-20261004-3",
+  "id": "whimsymaxxing-bedazzle-everything-diy~2722c940",
+  "intent": "curiosity",
+  "kind": "observed",
+  "lastSeenRunId": "run-hunt-hobbies-20261004-3",
+  "publishedAt": null,
+  "publisher": "Inside Retail Australia",
+  "retrievedAt": "2026-10-05T00:00:55Z",
+  "signalType": "press",
+  "syndicationOf": null,
+  "title": "What is whimsymaxxing and why should retailers care?",
+  "url": "https://insideretail.com.au/business/what-is-whimsymaxxing-and-why-should-retailers-care-202606"
+}

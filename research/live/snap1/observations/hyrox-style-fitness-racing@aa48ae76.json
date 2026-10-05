@@ -1,0 +1,13 @@
+{
+  "asOf": "2026-08-19",
+  "candidateId": "hyrox-style-fitness-racing",
+  "evidenceId": "hyrox-style-fitness-racing~0df17bd6",
+  "id": "hyrox-style-fitness-racing~aa48ae76",
+  "isAbsolute": true,
+  "metric": "Expected athletes in the 2026/27 season (global)",
+  "note": "organizer/press projection, not a measurement",
+  "recordedAt": "2026-10-04T21:01:01.000Z",
+  "runId": "run-2026-10-04-hobbies",
+  "unit": "athletes (projection, 'more than')",
+  "value": 2000000
+}

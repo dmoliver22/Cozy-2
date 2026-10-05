@@ -1,0 +1,174 @@
+{
+  "actionRationale": "Products are cheap to build, the hook lasts about a year, and nobody has clearly claimed the 'celery green' space. Build a small set now and index it on Pinterest before the spring refresh. There is no purchase evidence yet, so do not spend on ads.",
+  "adopters": {
+    "evidence": [
+      "celery-green-the-soft-herbal-green-of-2027~9804ec4c",
+      "celery-green-the-soft-herbal-green-of-2027~55e04bc6",
+      "celery-green-the-soft-herbal-green-of-2027~771e7a04"
+    ],
+    "text": "So far mostly design press, paint retailers and commenters. No evidence yet of consumers decorating or buying in this color because of the announcement."
+  },
+  "aliases": [
+    "celery green",
+    "soft herbal green",
+    "Soulful Sage",
+    "2027 color of the year green"
+  ],
+  "category": "aesthetic",
+  "channels": [
+    "Etsy",
+    "Pinterest",
+    "Payhip"
+  ],
+  "competition": {
+    "evidence": [
+      "celery-green-the-soft-herbal-green-of-2027~5e453dff"
+    ],
+    "level": "unknown",
+    "text": "Green wall art in general is heavily supplied. No print or printable sets named for 'celery green' showed up in search, but Etsy was not fetched."
+  },
+  "editorialNotes": [],
+  "effortMin": "low",
+  "firstSeenAt": "2026-10-05T00:00:21.885Z",
+  "formats": [
+    "printable"
+  ],
+  "gap": {
+    "isInference": true,
+    "text": "No coordinated 'celery green' printable sets turned up: matched wall-art sets, palette cards with coordinating hexes, and phone wallpapers for people repainting or freshening a room in the new green."
+  },
+  "id": "celery-green-the-soft-herbal-green-of-2027",
+  "jobId": "hunt-aesthetics-20261004",
+  "language": "en",
+  "lastRunId": "run-hunt-aesthetics-20261004-1",
+  "lens": "First-spark hunt: new aesthetics and visual micro-trends",
+  "name": "Celery green: the soft herbal green of 2027",
+  "origin": {
+    "date": "2026-09-15",
+    "evidence": [
+      "celery-green-the-soft-herbal-green-of-2027~62b93aa9",
+      "celery-green-the-soft-herbal-green-of-2027~ff58790e"
+    ],
+    "text": "Dulux announced Soulful Sage on 2026-09-08; Sherwin-Williams announced Celery on 2026-09-15."
+  },
+  "productDemand": {
+    "evidence": [
+      "celery-green-the-soft-herbal-green-of-2027~771e7a04"
+    ],
+    "text": "No purchase evidence found. Interest is curiosity and criticism. Any demand for celery-green prints is an inference from how earlier colors of the year turned into decor palettes."
+  },
+  "products": [
+    {
+      "buyer": "US renters and homeowners (25-45) refreshing a room in soft green who want matching art without buying paint",
+      "channels": [
+        "Etsy",
+        "Pinterest",
+        "Payhip"
+      ],
+      "continueIf": "At least 3 sales or 40 favorites in 21 days, or pins with above-average saves",
+      "differentiation": "Built around one named green family, with a palette card of coordinating hexes and both US and A4 sizes. Most generic green art comes as one-off prints.",
+      "effort": "low",
+      "effortHours": 8,
+      "evidence": [
+        "celery-green-the-soft-herbal-green-of-2027~62b93aa9",
+        "celery-green-the-soft-herbal-green-of-2027~ff58790e",
+        "celery-green-the-soft-herbal-green-of-2027~771e7a04"
+      ],
+      "format": "printable",
+      "fulfillment": "digital",
+      "leadTimeDays": 3,
+      "pivotIf": "Views but no sales: test celery phone wallpapers or a 'celery + butter yellow' kitchen set",
+      "rightsNote": "No paint brand names or codes; use your own hexes; say 'celery green', not a brand color name",
+      "stopIf": "Under 150 listing views in 30 days",
+      "theme": "Celery green botanical and abstract printable wall art set with palette card",
+      "validationTest": "List the 6-print set plus a 3-print mini set. Pin 15 pins over 14 days.",
+      "whyBuy": "A cheap way to try the year's new green on the walls, coordinated as a set"
+    }
+  ],
+  "qualityFlags": [],
+  "recommendedAction": "prepare",
+  "region": "US",
+  "researchedAt": "2026-10-04T23:58:00Z",
+  "rights": {
+    "note": "'Sherwin-Williams', 'Dulux', 'SW 6421' and paint names may be trademarks. Do not use brand names or paint codes in titles, tags or images, and do not claim to match a paint color. Describe the product as 'celery green' and use your own hex values.",
+    "risk": "medium"
+  },
+  "runIds": [
+    "run-hunt-aesthetics-20261004-1"
+  ],
+  "scores": {
+    "buyerIntent": {
+      "basis": "qualitative",
+      "rationale": "Only curiosity and criticism seen",
+      "score": 1
+    },
+    "durability": {
+      "basis": "qualitative",
+      "rationale": "A color-of-the-year cycle lasts about a year; consumer uptake unproven",
+      "score": 3
+    },
+    "economics": {
+      "basis": "qualitative",
+      "rationale": "Digital files cost nothing per sale",
+      "score": 4
+    },
+    "productFit": {
+      "basis": "qualitative",
+      "rationale": "A color trend maps directly to wall art and palette printables",
+      "score": 4
+    },
+    "supplyGap": {
+      "basis": "qualitative",
+      "rationale": "No celery-named printable sets surfaced; general green art is saturated",
+      "score": 3
+    },
+    "timing": {
+      "basis": "reported",
+      "rationale": "Announced 2026-09-15; few products yet",
+      "score": 4
+    }
+  },
+  "source": "research",
+  "spread": {
+    "evidence": [
+      "celery-green-the-soft-herbal-green-of-2027~771e7a04",
+      "celery-green-the-soft-herbal-green-of-2027~4cbd0ab3",
+      "celery-green-the-soft-herbal-green-of-2027~9804ec4c"
+    ],
+    "text": "Picked up by decor outlets, syndicated local news and Complex, where the reactions were mostly mockery. That is attention, not adoption. Most press copies restate the one Sherwin-Williams announcement."
+  },
+  "summary": "Two big paint brands picked a soft, yellow-leaning herbal green for 2027 in mid-September 2026, and the pick is being argued about online.",
+  "topicKeys": [
+    "phrase:celery green the soft herbal green of 2027",
+    "phrase:celery green",
+    "phrase:soft herbal green",
+    "phrase:soulful sage",
+    "phrase:2027 color of the year green"
+  ],
+  "trajectory": {
+    "evidence": [
+      "celery-green-the-soft-herbal-green-of-2027~62b93aa9",
+      "celery-green-the-soft-herbal-green-of-2027~ff58790e",
+      "celery-green-the-soft-herbal-green-of-2027~12277527"
+    ],
+    "stage": "first_spark",
+    "text": "Three weeks old. Colors of the year usually feed into retail palettes over the following year. Benjamin Moore and Pantone announce in Oct–Dec and could reinforce the green direction or pull attention away from it."
+  },
+  "unresolved": [
+    "Do Etsy or Pinterest show 'celery green' decor searches or new listings in Oct–Nov 2026?",
+    "Do Benjamin Moore (October) and Pantone (December) also pick greens, which would reinforce the trend?",
+    "Do retailers (Target, H&M Home) launch celery-colored ranges for spring 2027?"
+  ],
+  "what": "Sherwin-Williams named Celery its 2027 Color of the Year on Sept 15, 2026, a week after Dulux chose Soulful Sage, another soft pale green. Both sit in a 'tinted neutral' family between butter yellow, khaki and sage. The news spread from decor press into general and youth media (Complex), largely through people mocking it.",
+  "window": {
+    "endEstimate": null,
+    "estimate": "6-12 months as a color-of-the-year hook",
+    "invalidators": [
+      "Benjamin Moore/Pantone choose a strongly contrasting color and it dominates coverage",
+      "The backlash sticks and the color becomes a joke rather than a palette"
+    ],
+    "reasoning": "Colors of the year stay in the news through their year; this one is Sept 2026 to about Dec 2027. The open question is whether consumers adopt the color.",
+    "seasonality": "Spring refresh (Feb-Apr 2027) is the likely buying peak for paint-led decor",
+    "sellBy": null
+  }
+}

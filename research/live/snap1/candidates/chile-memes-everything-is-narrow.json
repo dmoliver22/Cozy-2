@@ -1,0 +1,205 @@
+{
+  "actionRationale": "Strong multi-source spread and an obvious visual product, but no demand evidence and possibly near peak. Build the sticker pack on free platforms quickly; add the printable only if stickers draw favorites.",
+  "adopters": {
+    "evidence": [
+      "chile-memes-everything-is-narrow~e939c9f9",
+      "chile-memes-everything-is-narrow~7aae934d",
+      "chile-memes-everything-is-narrow~bc7629b8",
+      "chile-memes-everything-is-narrow~eff9ce34",
+      "chile-memes-everything-is-narrow~11ab4e95"
+    ],
+    "text": "Global TikTok/Reels/X meme accounts in several languages, a pop-culture outlet, an airline brand account, and Spanish and Portuguese-language media and creators."
+  },
+  "aliases": [
+    "skinny Chile memes",
+    "How I imagine Chile",
+    "Chile line memes"
+  ],
+  "category": "meme",
+  "channels": [
+    "Redbubble",
+    "Etsy",
+    "TikTok",
+    "Instagram Reels",
+    "Gumroad",
+    "Pinterest"
+  ],
+  "competition": {
+    "evidence": [
+      "chile-memes-everything-is-narrow~c7357c35"
+    ],
+    "level": "none_found",
+    "text": "A web search found only generic Chilean flag apparel, no meme-specific products. Marketplaces were not checked directly."
+  },
+  "editorialNotes": [],
+  "effortMin": "low",
+  "firstSeenAt": "2026-10-05T00:00:55.060Z",
+  "formats": [
+    "sticker",
+    "poster"
+  ],
+  "gap": {
+    "isInference": true,
+    "text": "Cute illustrated 'stretched objects' stickers and a field-guide style poster that turn the meme into a design object, with no flags, crests or brand references."
+  },
+  "id": "chile-memes-everything-is-narrow",
+  "jobId": "hunt-memes-20261004",
+  "language": "en",
+  "lastRunId": "run-hunt-memes-20261004-2",
+  "lens": "First-spark hunt: memes, catchphrases, slang",
+  "name": "Chile memes (everything is narrow)",
+  "origin": {
+    "date": "2026-09-18",
+    "evidence": [
+      "chile-memes-everything-is-narrow~7634faca"
+    ],
+    "text": "Earlier sporadic jokes; the current wave started with a Sept 18, 2026 TikTok ('How I still imagine Chile') at 2.3M views in five days."
+  },
+  "productDemand": {
+    "evidence": [
+      "chile-memes-everything-is-narrow~c7357c35"
+    ],
+    "text": "No purchase evidence; engagement is entertainment and curiosity."
+  },
+  "products": [
+    {
+      "buyer": "Meme-aware 16-35s, Chileans and travelers",
+      "channels": [
+        "Redbubble",
+        "Etsy",
+        "TikTok",
+        "Instagram Reels"
+      ],
+      "continueIf": "5+ sales or 40+ favorites in 14 days",
+      "differentiation": "Cohesive illustrated set rather than flag souvenirs or screenshots",
+      "effort": "low",
+      "effortHours": 8,
+      "evidence": [
+        "chile-memes-everything-is-narrow~7634faca",
+        "chile-memes-everything-is-narrow~e939c9f9"
+      ],
+      "format": "sticker",
+      "fulfillment": "pod",
+      "leadTimeDays": 2,
+      "pivotIf": "Interest only in 1-2 objects: expand those into a series",
+      "rightsNote": "No coat of arms, seals, sports crests, brands or real people",
+      "stopIf": "No sales and under 5 favorites after 14 days",
+      "theme": "Illustrated sticker pack of everyday objects stretched tall and narrow ('everything here is narrow')",
+      "validationTest": "10 designs on Redbubble; 6 short videos in 2 weeks",
+      "whyBuy": "Signals being in on the meme with a cute, giftable design"
+    },
+    {
+      "buyer": "Meme fans, students and geography teachers",
+      "channels": [
+        "Etsy",
+        "Gumroad",
+        "Pinterest"
+      ],
+      "continueIf": "3+ sales in 21 days",
+      "differentiation": "Design-led 'science plate' look instead of a meme screenshot",
+      "effort": "medium",
+      "effortHours": 9,
+      "evidence": [
+        "chile-memes-everything-is-narrow~631f90bd"
+      ],
+      "format": "poster",
+      "fulfillment": "digital",
+      "leadTimeDays": 3,
+      "pivotIf": "Pins saved but no sales: sell as a phone wallpaper pack",
+      "rightsNote": "Same limits as stickers",
+      "stopIf": "No sales in 21 days",
+      "theme": "Vintage field-guide printable of 12 narrow 'specimens' with a Chile-outline ruler",
+      "validationTest": "Launch after stickers get favorites; 3 weeks on Etsy + Pinterest",
+      "whyBuy": "Funny dorm/classroom wall art that outlasts the spike"
+    }
+  ],
+  "qualityFlags": [],
+  "recommendedAction": "prepare",
+  "region": "US",
+  "researchedAt": "2026-10-05T00:00:47Z",
+  "rights": {
+    "note": "A country's shape and name are free to use. Avoid coat of arms, government seals, sports crests and kits, and brand references (including the airline that joined). Keep the tone affectionate.",
+    "risk": "low"
+  },
+  "runIds": [
+    "run-hunt-memes-20261004-2"
+  ],
+  "scores": {
+    "buyerIntent": {
+      "basis": "qualitative",
+      "rationale": "No purchase signals found",
+      "score": 1
+    },
+    "durability": {
+      "basis": "qualitative",
+      "rationale": "Spike-driven; some recurring geography-joke afterlife",
+      "score": 2
+    },
+    "economics": {
+      "basis": "qualitative",
+      "rationale": "Free POD/digital platforms; low prices",
+      "score": 3
+    },
+    "productFit": {
+      "basis": "qualitative",
+      "rationale": "Highly visual joke suits stickers and posters",
+      "score": 4
+    },
+    "supplyGap": {
+      "basis": "qualitative",
+      "rationale": "No meme-specific products found via search",
+      "score": 4
+    },
+    "timing": {
+      "basis": "reported",
+      "rationale": "Surge began Sept 18; may already be near first peak",
+      "score": 4
+    }
+  },
+  "source": "research",
+  "spread": {
+    "evidence": [
+      "chile-memes-everything-is-narrow~7634faca",
+      "chile-memes-everything-is-narrow~631f90bd",
+      "chile-memes-everything-is-narrow~e939c9f9",
+      "chile-memes-everything-is-narrow~44d51148",
+      "chile-memes-everything-is-narrow~bc7629b8",
+      "chile-memes-everything-is-narrow~eff9ce34",
+      "chile-memes-everything-is-narrow~11ab4e95"
+    ],
+    "text": "Independent coverage from Know Your Meme, Thunder Dungeon, The Brew News, a Brazilian outlet, Complex on X and a Spanish-language YouTube explainer within about 10 days; runner-up in KYM's September vote."
+  },
+  "summary": "A September 2026 surge of jokes imagining that everything in Chile, from buses to soccer fields, is as long and narrow as the country.",
+  "topicKeys": [
+    "phrase:chile memes everything is narrow",
+    "phrase:skinny chile memes",
+    "phrase:how i imagine chile",
+    "phrase:chile line memes"
+  ],
+  "trajectory": {
+    "evidence": [
+      "chile-memes-everything-is-narrow~7634faca",
+      "chile-memes-everything-is-narrow~631f90bd",
+      "chile-memes-everything-is-narrow~e939c9f9"
+    ],
+    "stage": "first_spark",
+    "text": "About two weeks old, spreading fast across languages; a brand joining on Sept 24 suggests it may already be near its first peak. No product supply was found. Fast-moving: it could become early growth or fade within weeks."
+  },
+  "unresolved": [
+    "Are new Chile posts still appearing at volume after Oct 10?",
+    "Do Chilean creators embrace it (positive) or push back (negative)?",
+    "Any Chile-meme merch appearing on Redbubble/Etsy?"
+  ],
+  "what": "Creators post images and videos of everyday objects stretched tall and thin, captioned like 'How I still imagine Chile'. The joke had existed in small form since about 2020 but exploded on TikTok and Reels from Sept 18, 2026, spread across languages, and pulled in at least one brand post.",
+  "window": {
+    "endEstimate": null,
+    "estimate": "2-5 weeks of peak attention",
+    "invalidators": [
+      "Sharp drop in new posts by mid-October",
+      "Chilean backlash framing the joke as mocking"
+    ],
+    "reasoning": "Visual country jokes can recur (KYM compares it to Ohio memes), but the current spike started Sept 18 and brand participation often signals a near-peak. Illustrated products can keep selling to geography-humor buyers.",
+    "seasonality": "None",
+    "sellBy": null
+  }
+}

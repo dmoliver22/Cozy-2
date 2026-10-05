@@ -1,0 +1,320 @@
+{
+  "createdAt": "2026-10-04T22:33:00Z",
+  "jobId": "analyze-muueb7q2-x8paqz",
+  "processedAt": "2026-10-04T22:33:17.464Z",
+  "raw": {
+    "candidates": [
+      {
+        "actionRationale": "Peak attention has passed, competition is high, and I found no purchase-intent evidence. Reconsider only if trend data shows a rebound.",
+        "adopters": {
+          "evidence": [
+            "e3",
+            "e4",
+            "e5"
+          ],
+          "text": "Mainly children, teens and Gen Z, with heavy use in schools. Teachers and schools reacted, and some banned it. Brands such as Buc-ee's and Southwest Airlines joined in."
+        },
+        "aliases": [
+          "67",
+          "six seven",
+          "Doot Doot (6 7)"
+        ],
+        "category": "meme",
+        "competition": {
+          "evidence": [
+            "e8",
+            "e9"
+          ],
+          "level": "high",
+          "text": "Etsy has many 6-7 listings, including PNG design bundles, sweatshirts and embroidered shirts. Walmart and Buc-ee's also carry products. I could not count listings."
+        },
+        "evidence": [
+          {
+            "accessMethod": "web_search_result",
+            "claim": "Search result lists the meme's origin entry.",
+            "excerpt": "67 Meme / Six Seven",
+            "id": "e1",
+            "intent": "none",
+            "kind": "observed",
+            "publishedAt": null,
+            "publisher": "Know Your Meme",
+            "retrievedAt": "2026-10-04T22:33:00Z",
+            "signalType": "community",
+            "syndicationOf": null,
+            "title": "67 Meme / Six Seven",
+            "url": "https://knowyourmeme.com/memes/67-meme-six-seven"
+          },
+          {
+            "accessMethod": "web_search_result",
+            "claim": "Search results attribute the meme to Skrilla's song 'Doot Doot' and LaMelo Ball edits; the 2024-12-01 release date comes from the search summary, not from this page.",
+            "excerpt": "skrilla 6 7 meme explained",
+            "id": "e2",
+            "intent": "none",
+            "kind": "observed",
+            "publishedAt": null,
+            "publisher": "Complex",
+            "retrievedAt": "2026-10-04T22:33:00Z",
+            "signalType": "press",
+            "syndicationOf": null,
+            "title": "skrilla 6 7 meme explained",
+            "url": "https://www.complex.com/music/a/khal/skrilla-6-7-meme-explained"
+          },
+          {
+            "accessMethod": "web_search_result",
+            "claim": "Dictionary.com named 67 its 2025 Word of the Year; it calls the term brainrot with no precise meaning.",
+            "excerpt": "Dictionary.com reveals 6-7 as Word of the Year, capturing the chaos of 2025 internet culture",
+            "id": "e3",
+            "intent": "none",
+            "kind": "observed",
+            "publishedAt": null,
+            "publisher": "The Nightly",
+            "retrievedAt": "2026-10-04T22:33:00Z",
+            "signalType": "press",
+            "syndicationOf": null,
+            "title": "Dictionary.com reveals 6-7 as Word of the Year, capturing the chaos of 2025 internet culture",
+            "url": "https://thenightly.com.au/culture/dictionarycoms-word-of-the-year-captures-the-chaos-of-2025-internet-culture-c-20529172"
+          },
+          {
+            "accessMethod": "web_search_result",
+            "claim": "Educators were reacting to the trend in classrooms in November 2025; the date is taken from the URL path.",
+            "excerpt": "Educators on the six seven trend: embrace the chaos",
+            "id": "e4",
+            "intent": "none",
+            "kind": "observed",
+            "publishedAt": "2025-11-01",
+            "publisher": "Education Week",
+            "retrievedAt": "2026-10-04T22:33:00Z",
+            "signalType": "press",
+            "syndicationOf": null,
+            "title": "Educators on the six-seven trend: embrace the chaos",
+            "url": "https://www.edweek.org/teaching-learning/educators-on-the-six-seven-trend-embrace-the-chaos/2025/11"
+          },
+          {
+            "accessMethod": "web_search_result",
+            "claim": "Press coverage of the meme's rise in October 2025.",
+            "excerpt": "rise of six seven meme",
+            "id": "e5",
+            "intent": "none",
+            "kind": "observed",
+            "publishedAt": "2025-10-23",
+            "publisher": "Deseret News",
+            "retrievedAt": "2026-10-04T22:33:00Z",
+            "signalType": "press",
+            "syndicationOf": null,
+            "title": "Rise of six seven meme",
+            "url": "https://www.deseret.com/lifestyle/2025/10/23/rise-of-six-seven-meme/"
+          },
+          {
+            "accessMethod": "web_search_result",
+            "claim": "A student newspaper headline says the meme is no longer trendy after a year; single anecdotal source.",
+            "excerpt": "from 6 7 to 0 meme no longer trendy after a year of popularity",
+            "id": "e6",
+            "intent": "none",
+            "kind": "observed",
+            "publishedAt": null,
+            "publisher": "Skyline Horizon (student paper)",
+            "retrievedAt": "2026-10-04T22:33:00Z",
+            "signalType": "press",
+            "syndicationOf": null,
+            "title": "From 6-7 to 0: meme no longer trendy after a year of popularity",
+            "url": "https://skylinehorizon.org/arts-and-culture/from-6-7-to-0-meme-no-longer-trendy-after-a-year-of-popularity/"
+          },
+          {
+            "accessMethod": "web_search_result",
+            "claim": "Press is already discussing when the term will stop being cool; the expert's prediction was not read.",
+            "excerpt": "When will 6-7 die? Expert predicts when the Gen Z slang term will no longer be 'cool'",
+            "id": "e7",
+            "intent": "none",
+            "kind": "observed",
+            "publishedAt": null,
+            "publisher": "The Nightly",
+            "retrievedAt": "2026-10-04T22:33:00Z",
+            "signalType": "press",
+            "syndicationOf": null,
+            "title": "When will 6-7 die? Expert predicts when the Gen Z slang term will no longer be 'cool'",
+            "url": "https://thenightly.com.au/society/when-will-6-7-die-expert-predicts-when-the-gen-z-slang-term-will-no-longer-be-cool-c-20748293"
+          },
+          {
+            "accessMethod": "web_search_result",
+            "claim": "Etsy listings for 6-7 merchandise exist, including PNG bundles; this shows supply only. Several other Etsy listings appeared in the same search.",
+            "excerpt": "Etsy listing returned for 6-7 meme merchandise search",
+            "id": "e8",
+            "intent": "none",
+            "kind": "observed",
+            "publishedAt": null,
+            "publisher": "Etsy",
+            "retrievedAt": "2026-10-04T22:33:00Z",
+            "signalType": "marketplace",
+            "syndicationOf": null,
+            "title": "Etsy 6-7 meme listing",
+            "url": "https://www.etsy.com/listing/4384554619"
+          },
+          {
+            "accessMethod": "web_search_result",
+            "claim": "Buc-ee's sells a 67 T-shirt; a brand product, not evidence of demand volume.",
+            "excerpt": "bucees-6-7-t-shirt",
+            "id": "e9",
+            "intent": "none",
+            "kind": "observed",
+            "publishedAt": null,
+            "publisher": "Chron (Hearst)",
+            "retrievedAt": "2026-10-04T22:33:00Z",
+            "signalType": "press",
+            "syndicationOf": null,
+            "title": "Buc-ee's 6-7 T-shirt",
+            "url": "https://preview-prod.w.chron.com/culture/article/bucees-6-7-t-shirt-21261998.php"
+          }
+        ],
+        "gap": {
+          "isInference": true,
+          "text": "No clear gap is visible. Existing listings already cover tees, PNG bundles and gifts. Any remaining angle, such as teacher classroom humor printables, would target a fading trend. This is an inference, not an observation."
+        },
+        "name": "6-7 (Six Seven) meme",
+        "observations": [],
+        "origin": {
+          "date": "2024-12-01",
+          "evidence": [
+            "e1",
+            "e2"
+          ],
+          "text": "Rapper Skrilla released 'Doot Doot' on 2024-12-01, with the line '6-7' reportedly referring to 67th Street in Philadelphia. TikTok edits of LaMelo Ball (listed at 6 ft 7 in) popularized it through 2025."
+        },
+        "productDemand": {
+          "evidence": [
+            "e8",
+            "e9"
+          ],
+          "text": "Many 6-7 products are listed on Etsy, and Buc-ee's sells a 67 T-shirt. These are supply, not demand. I found no sales figures, sell-outs or purchase-intent surveys."
+        },
+        "products": [],
+        "recommendedAction": "pass",
+        "rights": {
+          "note": "Skrilla's song and lyrics, LaMelo Ball's name and likeness, and brand marks (e.g. Buc-ee's) should be avoided. The bare number is generic, but I did not find trademark status either way.",
+          "risk": "medium"
+        },
+        "scores": {
+          "buyerIntent": {
+            "basis": "qualitative",
+            "rationale": "Brand merch exists but no sales or purchase-intent evidence was found.",
+            "score": 1
+          },
+          "durability": {
+            "basis": "reported",
+            "rationale": "Described as declining; brainrot memes are typically short-lived (inference).",
+            "score": 1
+          },
+          "economics": {
+            "basis": "qualitative",
+            "rationale": "Low cost to produce, but high competition and a shrinking window.",
+            "score": 2
+          },
+          "productFit": {
+            "basis": "qualitative",
+            "rationale": "A text-based meme suits tees, stickers and digital PNG bundles, and each is quick to make.",
+            "score": 3
+          },
+          "supplyGap": {
+            "basis": "qualitative",
+            "rationale": "Etsy and big retailers already supply the obvious products.",
+            "score": 1
+          },
+          "timing": {
+            "basis": "reported",
+            "rationale": "Reports of decline in 2026 after the late-2025 peak.",
+            "score": 1
+          }
+        },
+        "spread": {
+          "evidence": [
+            "e2",
+            "e3",
+            "e4",
+            "e5"
+          ],
+          "text": "It spread well beyond its source: sports edits, then school culture, then brands and dictionaries. Searches reportedly rose sixfold by June 2025."
+        },
+        "summary": "A nonsensical Gen Z/Gen Alpha catchphrase and hand gesture from Skrilla's 'Doot Doot (6 7)' and LaMelo Ball edits, named Dictionary.com's 2025 Word of the Year and now reported to be declining.",
+        "trajectory": {
+          "evidence": [
+            "e3",
+            "e6",
+            "e7"
+          ],
+          "stage": "declining",
+          "text": "Dictionary.com named it Word of the Year in late 2025, which marks the peak of mainstream attention. 2026 snippets say it is 'in a decline in popularity' and has become 'no longer trendy'. One snippet says it is still going strong among younger kids, so evidence is mixed. I could not read the pages or any trend data."
+        },
+        "unresolved": [
+          "No trend data (Google Trends, TikTok) read",
+          "No sales evidence",
+          "Trademark status not found",
+          "Decline sources were snippets only"
+        ],
+        "what": "'6-7' is a meaningless, ironic interjection, often paired with a shrug-like hand gesture. It is used for 'so-so' or 'maybe' and in jokes such as scoring 67% on an exam. It spread from basketball edits to school playgrounds and mainstream brands. Dictionary.com classed it as brainrot.",
+        "window": {
+          "endEstimate": null,
+          "estimate": null,
+          "invalidators": [
+            "A new viral revival or a related event, such as a sports moment or brand campaign",
+            "Trend data showing renewed growth"
+          ],
+          "reasoning": "Reported decline in 2026 and a POD delivery time of 1-2 weeks plus weeks for a new listing to be discovered leave little time to earn from it. I cannot give a dated estimate from the available evidence.",
+          "seasonality": "School-year humor; no fixed deadline found.",
+          "sellBy": null
+        }
+      }
+    ],
+    "discovered": [],
+    "kind": "analyze",
+    "lens": "Analyze: 6-7 meme",
+    "researchedAt": "2026-10-04T22:33:00Z",
+    "sourcesTried": [
+      {
+        "method": "web_search",
+        "note": "Origin, Word of the Year, decline and merch queries returned results; only snippets read.",
+        "source": "Web search (general)",
+        "status": "ok"
+      },
+      {
+        "method": "WebFetch",
+        "note": "Blocked by egress proxy; search snippet only.",
+        "source": "thenightly.com.au (page fetch)",
+        "status": "blocked"
+      },
+      {
+        "method": "WebFetch",
+        "note": "Blocked by egress proxy; search snippet only.",
+        "source": "skylinehorizon.org (page fetch)",
+        "status": "blocked"
+      },
+      {
+        "method": "WebFetch",
+        "note": "Blocked by egress proxy; search snippet only.",
+        "source": "en.wikipedia.org",
+        "status": "blocked"
+      },
+      {
+        "method": "web_search",
+        "note": "Listing titles seen in search results only; no sales or counts.",
+        "source": "Etsy",
+        "status": "ok"
+      },
+      {
+        "method": "none",
+        "note": "Typically blocked; not attempted.",
+        "source": "Google Trends / TikTok / Reddit",
+        "status": "not_tried"
+      }
+    ]
+  },
+  "report": [
+    {
+      "errors": [],
+      "id": "6-7-six-seven-meme",
+      "name": "6-7 (Six Seven) meme",
+      "status": "created",
+      "warnings": 0
+    }
+  ],
+  "runId": "run-analyze-muueb7q2-x8paqz",
+  "status": "ingested"
+}

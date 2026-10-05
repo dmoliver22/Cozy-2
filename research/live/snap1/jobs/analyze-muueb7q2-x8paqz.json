@@ -1,0 +1,94 @@
+{
+  "candidateId": null,
+  "createdAt": "2026-10-04T22:31:43.316Z",
+  "dispatch": {
+    "at": "2026-10-04T22:31:43.322Z",
+    "status": "sent"
+  },
+  "error": "Wikipedia, thenightly.com.au and skylinehorizon.org were blocked, so decline evidence rests on search snippets. No trend data or sales evidence was obtained.",
+  "finishedAt": "2026-10-04T22:33:30Z",
+  "id": "analyze-muueb7q2-x8paqz",
+  "ingest": {
+    "at": "2026-10-04T22:33:17.653Z",
+    "candidates": [
+      {
+        "errors": [],
+        "id": "6-7-six-seven-meme",
+        "name": "6-7 (Six Seven) meme",
+        "status": "created",
+        "warnings": 0
+      }
+    ],
+    "status": "ingested"
+  },
+  "input": "6-7 meme",
+  "inputKind": "phrase",
+  "key": "topic:phrase:6 7 meme",
+  "progress": "Done",
+  "result": null,
+  "resultCandidateIds": [
+    "6-7-six-seven-meme"
+  ],
+  "sourcesTried": [
+    {
+      "method": "web_search",
+      "note": "Snippets only",
+      "source": "Web search (general)",
+      "status": "ok"
+    },
+    {
+      "method": "WebFetch",
+      "note": "",
+      "source": "thenightly.com.au",
+      "status": "blocked"
+    },
+    {
+      "method": "WebFetch",
+      "note": "",
+      "source": "skylinehorizon.org",
+      "status": "blocked"
+    },
+    {
+      "method": "WebFetch",
+      "note": "",
+      "source": "en.wikipedia.org",
+      "status": "blocked"
+    },
+    {
+      "method": "web_search",
+      "note": "Listings only",
+      "source": "Etsy",
+      "status": "ok"
+    },
+    {
+      "method": "none",
+      "note": "",
+      "source": "Google Trends / TikTok / Reddit",
+      "status": "not_tried"
+    }
+  ],
+  "startedAt": "2026-10-04T22:32:30Z",
+  "status": "partial",
+  "steps": [
+    {
+      "label": "Queued",
+      "status": "done"
+    },
+    {
+      "label": "Searching",
+      "status": "done"
+    },
+    {
+      "label": "Verifying sources",
+      "status": "done"
+    },
+    {
+      "label": "Writing results",
+      "status": "done"
+    }
+  ],
+  "summary": "Analyzed '6-7 meme': past peak and declining with high competition, so recommended pass.",
+  "topicKey": "phrase:6 7 meme",
+  "type": "analyze",
+  "updatedAt": "2026-10-04T22:33:30Z"
+}

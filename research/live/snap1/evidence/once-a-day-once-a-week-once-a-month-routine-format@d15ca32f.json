@@ -1,0 +1,19 @@
+{
+  "accessMethod": "web_search_result",
+  "candidateId": "once-a-day-once-a-week-once-a-month-routine-format",
+  "claim": "TikTok has a discover page for the phrase, so users are searching for it. Volume unknown.",
+  "excerpt": "TikTok discover page '1 Day 1 Week and 1 Month' appeared in search results.",
+  "firstRetrievedAt": "2026-10-05T00:00:55Z",
+  "firstSeenRunId": "run-hunt-hobbies-20261004-1",
+  "id": "once-a-day-once-a-week-once-a-month-routine-format~d15ca32f",
+  "intent": "curiosity",
+  "kind": "observed",
+  "lastSeenRunId": "run-hunt-hobbies-20261004-1",
+  "publishedAt": null,
+  "publisher": "TikTok",
+  "retrievedAt": "2026-10-05T00:00:55Z",
+  "signalType": "social",
+  "syndicationOf": null,
+  "title": "1 Day 1 Week and 1 Month",
+  "url": "https://www.tiktok.com/discover/1-day-1-week-and-1-month"
+}

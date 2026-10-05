@@ -1,0 +1,95 @@
+{
+  "candidateIds": [
+    "sunday-butterfly-tidying-method"
+  ],
+  "discovered": [],
+  "id": "run-hunt-foodhome-20261004-3",
+  "ingestedAt": "2026-10-05T00:01:11.190Z",
+  "jobId": "hunt-foodhome-20261004",
+  "kind": "discover",
+  "lens": "First-spark hunt: food, home, pets and household micro-trend",
+  "report": [
+    {
+      "errors": [],
+      "id": "sunday-butterfly-tidying-method",
+      "name": "Sunday Butterfly Tidying Method",
+      "status": "created",
+      "warnings": 0
+    }
+  ],
+  "researchedAt": "2026-10-05T00:01:02Z",
+  "sourcesTried": [
+    {
+      "method": "search",
+      "note": "Primary method; all evidence is from search result titles and summaries.",
+      "source": "WebSearch (standard and extended)",
+      "status": "ok"
+    },
+    {
+      "method": "curl and WebFetch",
+      "note": "Egress proxy 403.",
+      "source": "news.google.com RSS",
+      "status": "blocked"
+    },
+    {
+      "method": "WebFetch",
+      "note": "Seen only through search results.",
+      "source": "today.com",
+      "status": "blocked"
+    },
+    {
+      "method": "WebFetch",
+      "note": "Seen only through search results.",
+      "source": "trending.knowyourmeme.com",
+      "status": "blocked"
+    },
+    {
+      "method": "WebFetch",
+      "note": "Seen only through search results.",
+      "source": "upworthy.com, spoonuniversity.com",
+      "status": "blocked"
+    },
+    {
+      "method": "WebFetch",
+      "note": "Seen only through search results.",
+      "source": "homesandgardens.com, thecalmroost.com",
+      "status": "blocked"
+    },
+    {
+      "method": "WebFetch",
+      "note": "Trend roundups seen only through search results.",
+      "source": "socialbee.com, inflownetwork.com, blog.nuelink.com",
+      "status": "blocked"
+    },
+    {
+      "method": "WebSearch allowed_domains",
+      "note": "Search tool refuses these domains.",
+      "source": "allrecipes, delish, foodandwine, bonappetit, eatingwell, seriouseats, nypost",
+      "status": "error"
+    },
+    {
+      "method": "WebSearch allowed_domains",
+      "note": "Search tool refuses these domains.",
+      "source": "realsimple, thespruce, bhg, marthastewart, goodhousekeeping, housebeautiful",
+      "status": "error"
+    },
+    {
+      "method": "search results only",
+      "note": "Listing titles from search results; no sales data, no counts.",
+      "source": "Etsy",
+      "status": "ok"
+    },
+    {
+      "method": "search results only",
+      "note": "Titles only; no view counts verified.",
+      "source": "TikTok discover/tag pages",
+      "status": "ok"
+    },
+    {
+      "method": "-",
+      "note": "Usually blocked in this environment; not attempted this run.",
+      "source": "Reddit, Pinterest Trends, Google Trends",
+      "status": "not_tried"
+    }
+  ]
+}
