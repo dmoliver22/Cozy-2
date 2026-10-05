@@ -99,12 +99,17 @@ any product without one gets a template super prompt built from its research fie
 
 ## Research worker
 
-Research runs in Claude Code Routines with web search, not in the page:
+Research runs in Claude Code with web search, not in the page (a published page cannot browse,
+and in-page Claude calls have no web access). It runs inside **one existing chat**, the Trendjack
+dashboard session, so pressing a button never opens a new chat:
 
 | Routine | Trigger | Purpose |
 |---|---|---|
-| Trendjack research worker | `trig_01EGjcmjSKMe1QUixGLXKdyv` | Fired by the dashboard ("Discover trends", "Analyze a topic", "Refresh") with the job id |
-| Trendjack scheduled discovery | `trig_01GSzZJ4dR52xSx7YUT5Jsaz` | Optional timetable (off by default); turn on or change it in Settings → Research worker |
+| Trendjack research (runs in this chat) | `trig_01Uxyxi7cV4ZnZWY9peShGsV` | Fired by the dashboard ("Discover trends", "Analyze a topic", "Refresh") and by the optional timetable; resumes the dashboard chat, which researches with in-session helpers |
+| Old per-click worker | `trig_01EGjcmjSKMe1QUixGLXKdyv` | Disabled: it started a new chat for every job |
+| Old scheduled discovery | `trig_01GSzZJ4dR52xSx7YUT5Jsaz` | Disabled: same reason |
+
+`config/worker` names the active trigger for both buttons and the schedule.
 
 Flow: the dashboard writes `jobs/{id}` (after duplicate, cache and limit checks) and calls `fire_trigger`
 through the viewer's Claude Code Remote connector. The worker claims the job with a version-pinned
@@ -117,7 +122,7 @@ automatically after a short wait; anything else is shown on the job with a Try a
 "Discover trends" is tuned for first-spark and early-growth finds: it screens at least 15 items
 across memes, aesthetics, hobbies, beliefs, tech habits, communities and dated moments, files the
 best 3–4, and labels stages from the dates it actually found. `research/FIRST_SPARK_HUNT.md` is the
-brief for larger parallel hunts (one session per lens); `scripts/ingest-inbox.mjs <snapshotDir>`
+brief for larger hunts (run them as in-session helpers, one per lens, never as separate chats); `scripts/ingest-inbox.mjs <snapshotDir>`
 files their results from a downloaded database snapshot without waiting for a dashboard to be open,
 and `scripts/export-playbooks.mjs` regenerates `PLAYBOOKS.md` from the same snapshot.
 
