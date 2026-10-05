@@ -36,7 +36,7 @@ const { candidates: cands, evidenceBy } = mergeDuplicates([...state.candidates.v
   return m;
 })());
 const docs = new Map([...state.playbooks.values()].map((d) => [d.candidateId || d.id, d]));
-const now = Date.parse('2026-10-05T12:00:00Z');
+const now = Date.now();
 const LABEL = { test_now: 'Test now', prepare: 'Prepare', watch: 'Watch', pass: 'Pass' };
 const money = (n) => (Number.isFinite(n) ? `$${n.toFixed(2)}` : 'unknown');
 const rows = [];

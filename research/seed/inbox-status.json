@@ -6,7 +6,7 @@
   "if_version": 1,
   "data": {
    "status": "ingested",
-   "processedAt": "2026-10-05T13:00:00Z",
+   "processedAt": "2026-10-05T01:15:00Z",
    "report": [
     {
      "id": "campus-and-city-offline-club-phone-free-socials",
@@ -25,7 +25,7 @@
   "if_version": 1,
   "data": {
    "status": "ingested",
-   "processedAt": "2026-10-05T13:00:00Z",
+   "processedAt": "2026-10-05T01:15:00Z",
    "report": [
     {
      "id": "backgammon-social-club-revival-among-young-adults",
@@ -44,7 +44,7 @@
   "if_version": 1,
   "data": {
    "status": "ingested",
-   "processedAt": "2026-10-05T13:00:00Z",
+   "processedAt": "2026-10-05T01:15:00Z",
    "report": [
     {
      "id": "gen-z-birding-and-college-bird-clubs",
@@ -63,7 +63,7 @@
   "if_version": 1,
   "data": {
    "status": "ingested",
-   "processedAt": "2026-10-05T13:00:00Z",
+   "processedAt": "2026-10-05T01:15:00Z",
    "report": [
     {
      "id": "toolbelt-generation-gen-z-skilled-trades-apprentices",
@@ -82,7 +82,7 @@
   "if_version": 1,
   "data": {
    "status": "ingested",
-   "processedAt": "2026-10-05T13:00:00Z",
+   "processedAt": "2026-10-05T01:15:00Z",
    "report": [
     {
      "id": "gold-star-behaviour-holiday-edition",
@@ -101,7 +101,7 @@
   "if_version": 1,
   "data": {
    "status": "ingested",
-   "processedAt": "2026-10-05T13:00:00Z",
+   "processedAt": "2026-10-05T01:15:00Z",
    "report": [
     {
      "id": "2016-themed-holiday-parties-2016-friendsgiving",
@@ -120,7 +120,7 @@
   "if_version": 1,
   "data": {
    "status": "ingested",
-   "processedAt": "2026-10-05T13:00:00Z",
+   "processedAt": "2026-10-05T01:15:00Z",
    "report": [
     {
      "id": "coloring-advent-calendars-cozy-coloring-countdown",
@@ -139,7 +139,7 @@
   "if_version": 1,
   "data": {
    "status": "ingested",
-   "processedAt": "2026-10-05T13:00:00Z",
+   "processedAt": "2026-10-05T01:15:00Z",
    "report": [
     {
      "id": "pto-maxxing-for-2027-year-end-pto-planning",
@@ -158,7 +158,7 @@
   "if_version": 1,
   "data": {
    "status": "ingested",
-   "processedAt": "2026-10-05T13:00:00Z",
+   "processedAt": "2026-10-05T01:15:00Z",
    "report": [
     {
      "id": "hobbymaxxing",
@@ -177,7 +177,7 @@
   "if_version": 1,
   "data": {
    "status": "ingested",
-   "processedAt": "2026-10-05T13:00:00Z",
+   "processedAt": "2026-10-05T01:15:00Z",
    "report": [
     {
      "id": "hobbyamory",
@@ -196,7 +196,7 @@
   "if_version": 1,
   "data": {
    "status": "ingested",
-   "processedAt": "2026-10-05T13:00:00Z",
+   "processedAt": "2026-10-05T01:15:00Z",
    "report": [
     {
      "id": "counter-maxxing-good-enough-anti-optimization",
@@ -215,7 +215,7 @@
   "if_version": 1,
   "data": {
    "status": "ingested",
-   "processedAt": "2026-10-05T13:00:00Z",
+   "processedAt": "2026-10-05T01:15:00Z",
    "report": [
     {
      "id": "goal-punch-cards-2027-cycle",
@@ -234,7 +234,7 @@
   "if_version": 1,
   "data": {
    "status": "ingested",
-   "processedAt": "2026-10-05T13:00:00Z",
+   "processedAt": "2026-10-05T01:15:00Z",
    "report": [
     {
      "id": "built-in-teleprompter-scripted-videos",
@@ -253,7 +253,7 @@
   "if_version": 1,
   "data": {
    "status": "ingested",
-   "processedAt": "2026-10-05T13:00:00Z",
+   "processedAt": "2026-10-05T01:15:00Z",
    "report": [
     {
      "id": "category-screen-time-allowances-new-kids-device-controls",
@@ -272,7 +272,7 @@
   "if_version": 1,
   "data": {
    "status": "ingested",
-   "processedAt": "2026-10-05T13:00:00Z",
+   "processedAt": "2026-10-05T01:15:00Z",
    "report": [
     {
      "id": "kids-landline-phones",
@@ -291,7 +291,7 @@
   "if_version": 1,
   "data": {
    "status": "ingested",
-   "processedAt": "2026-10-05T13:00:00Z",
+   "processedAt": "2026-10-05T01:15:00Z",
    "report": [
     {
      "id": "30-day-phone-free-challenge-cohorts",
@@ -311,7 +311,7 @@
   "data": {
    "ingest": {
     "status": "ingested",
-    "at": "2026-10-05T13:00:00Z",
+    "at": "2026-10-05T01:15:00Z",
     "candidates": [
      {
       "id": "campus-and-city-offline-club-phone-free-socials",
@@ -359,7 +359,7 @@
   "data": {
    "ingest": {
     "status": "ingested",
-    "at": "2026-10-05T13:00:00Z",
+    "at": "2026-10-05T01:15:00Z",
     "candidates": [
      {
       "id": "gold-star-behaviour-holiday-edition",
@@ -407,7 +407,7 @@
   "data": {
    "ingest": {
     "status": "ingested",
-    "at": "2026-10-05T13:00:00Z",
+    "at": "2026-10-05T01:15:00Z",
     "candidates": [
      {
       "id": "hobbymaxxing",
@@ -455,7 +455,7 @@
   "data": {
    "ingest": {
     "status": "ingested",
-    "at": "2026-10-05T13:00:00Z",
+    "at": "2026-10-05T01:15:00Z",
     "candidates": [
      {
       "id": "built-in-teleprompter-scripted-videos",
